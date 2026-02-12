@@ -33,8 +33,8 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
-# Anthropic API for translation (Claude Sonnet 4.5)
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+# Mistral API for translation
+MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY", "REDACTED_MISTRAL_KEY")
 
 def clean_prompt_leaks(text):
     """Remove any leaked prompt instructions from text."""
@@ -66,8 +66,8 @@ def clean_prompt_leaks(text):
     return cleaned
 
 def generate_article_summary(title, content, url):
-    """Generate professional FR/EN summaries using Claude Sonnet 4.5."""
-    if not ANTHROPIC_API_KEY:
+    """Generate professional FR/EN summaries using Mistral."""
+    if not MISTRAL_API_KEY:
         return {
             "title": title,
             "title_en": title,
@@ -100,23 +100,20 @@ RÈGLES STRICTES:
 
     try:
         resp = requests.post(
-            "https://api.anthropic.com/v1/messages",
+            "https://api.mistral.ai/v1/chat/completions",
             headers={
-                "x-api-key": ANTHROPIC_API_KEY,
-                "anthropic-version": "2023-06-01",
+                "Authorization": f"Bearer {MISTRAL_API_KEY}",
                 "Content-Type": "application/json"
             },
             json={
-                "model": "claude-sonnet-4-5-20250514",
-                "max_tokens": 1500,
-                "messages": [
-                    {"role": "user", "content": prompt}
-                ]
+                "model": "mistral-small-latest",
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": 1500
             },
             timeout=60
         )
         if resp.status_code == 200:
-            result = resp.json()["content"][0]["text"].strip()
+            result = resp.json()["choices"][0]["message"]["content"].strip()
             # Remove markdown code blocks if present
             result = re.sub(r'^```json\s*', '', result)
             result = re.sub(r'\s*```$', '', result)
@@ -228,8 +225,10 @@ def fetch_rss_feed(feed_url, source_name):
         return []
 
 def score_hot_news(articles):
-    """Use Claude to score articles by viral/mass appeal potential. Returns top 3."""
-    if not ANTHROPIC_API_KEY or not articles:
+    """Use Mistral to score articles by viral/mass appeal potential. Returns top 3."""
+    MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY", "REDACTED_MISTRAL_KEY")
+    
+    if not articles:
         return []
     
     # Prepare article summaries for scoring
@@ -256,21 +255,20 @@ Exemple: 2, 5, 8"""
 
     try:
         resp = requests.post(
-            "https://api.anthropic.com/v1/messages",
+            "https://api.mistral.ai/v1/chat/completions",
             headers={
-                "x-api-key": ANTHROPIC_API_KEY,
-                "anthropic-version": "2023-06-01",
+                "Authorization": f"Bearer {MISTRAL_API_KEY}",
                 "Content-Type": "application/json"
             },
             json={
-                "model": "claude-sonnet-4-5-20250514",
-                "max_tokens": 100,
-                "messages": [{"role": "user", "content": prompt}]
+                "model": "mistral-small-latest",
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": 100
             },
             timeout=30
         )
         if resp.status_code == 200:
-            result = resp.json()["content"][0]["text"].strip()
+            result = resp.json()["choices"][0]["message"]["content"].strip()
             # Parse numbers from response
             numbers = [int(n.strip()) for n in re.findall(r'\d+', result)][:3]
             hot_articles = []

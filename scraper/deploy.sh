@@ -7,8 +7,8 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 NEWS_DIR="$(dirname "$SCRIPT_DIR")"
 
-# Anthropic API for translations (Claude Sonnet 4.5)
-export ANTHROPIC_API_KEY="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"
+# Mistral API for translations and hot news scoring
+export MISTRAL_API_KEY="REDACTED_MISTRAL_KEY"
 
 TOKEN_FILE="/home/ubuntu/.openclaw/workspace/.secrets/github_valerium_news.token"
 
