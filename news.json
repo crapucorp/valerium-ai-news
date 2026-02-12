@@ -1,0 +1,263 @@
+{
+  "lastUpdate": "12 février 2026 - 11:50",
+  "categories": {
+    "general": [
+      {
+        "title": "Seedance 2.0 : ByteDance explose tout en génération vidéo",
+        "title_en": "Seedance 2.0: ByteDance Blows Up Video Generation",
+        "summary": "ByteDance dévoile Seedance 2.0 et affole Twitter. Premier modèle à générer de la vidéo qualité cinéma avec audio synchronisé nativement et cohérence multi-shot. Un game changer qui redéfinit l'état de l'art.",
+        "summary_en": "ByteDance unveils Seedance 2.0 and Twitter goes wild. First model to generate cinema-quality video with native synchronized audio and multi-shot coherence. A game changer redefining the state of the art.",
+        "source": "NxCode",
+        "url": "https://www.nxcode.io/resources/news/seedance-2-0-complete-guide-ai-video-generation-2026",
+        "date": "8 février 2026",
+        "tag": "Buzz"
+      },
+      {
+        "title": "Big Tech prévoit 600 milliards de dépenses IA en 2026",
+        "title_en": "Big Tech Plans $600 Billion AI Spending in 2026",
+        "summary": "Les géants de la tech prévoient une enveloppe colossale de 600 milliards de dollars pour l'infrastructure IA cette année, créant des inquiétudes chez les investisseurs sur la rentabilité et les impacts économiques.",
+        "summary_en": "Tech giants plan a massive $600 billion budget for AI infrastructure this year, raising investor concerns about profitability and economic impacts.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/global-software-data-firms-slide-ai-disruption-fears-compound-jitters-over-600-2026-02-06/",
+        "date": "6 février 2026",
+        "tag": "Finance"
+      },
+      {
+        "title": "Les dépenses IA massives provoquent des pénuries dans d'autres secteurs",
+        "title_en": "Massive AI Spending Causes Shortages in Other Sectors",
+        "summary": "Les centaines de milliards investis par les entreprises tech dans l'IA détournent des ressources d'autres parties de l'économie, créant des tensions sur les chaînes d'approvisionnement.",
+        "summary_en": "Hundreds of billions invested by tech companies in AI are diverting resources from other parts of the economy, creating supply chain tensions.",
+        "source": "Washington Post",
+        "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+        "date": "7 février 2026",
+        "tag": "Economy"
+      },
+      {
+        "title": "L'IA au bloc opératoire : des erreurs chirurgicales signalées",
+        "title_en": "AI in the Operating Room: Surgical Errors Reported",
+        "summary": "Reuters révèle des cas d'opérations ratées et d'organes mal identifiés par des systèmes IA médicaux, soulevant des questions sur la fiabilité de ces technologies en chirurgie.",
+        "summary_en": "Reuters reveals cases of botched surgeries and misidentified organs by medical AI systems, raising questions about the reliability of these technologies in surgery.",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/investigations/ai-enters-operating-room-reports-arise-botched-surgeries-misidentified-body-2026-02-09/",
+        "date": "9 février 2026",
+        "tag": "Health"
+      },
+      {
+        "title": "Goldman Sachs automatise avec Claude d'Anthropic",
+        "title_en": "Goldman Sachs Automates with Anthropic's Claude",
+        "summary": "La banque d'investissement développe des agents IA avec Claude pour automatiser la comptabilité des trades et l'onboarding client, visant à accélérer le travail et améliorer l'efficacité.",
+        "summary_en": "The investment bank is building AI agents with Claude to automate trade accounting and client onboarding, aiming to speed up work and improve efficiency.",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html",
+        "date": "6 février 2026",
+        "tag": "Business"
+      },
+      {
+        "title": "Exode des cols blancs : la reconversion vers les métiers manuels",
+        "title_en": "White-Collar Exodus: Switching to Manual Trades",
+        "summary": "Face aux pertes d'emploi liées à l'IA dans le secteur professionnel, de nombreux travailleurs abandonnent leurs carrières pour se reconvertir dans des métiers traditionnels.",
+        "summary_en": "Facing AI-related job losses in the professional sector, many workers are leaving their careers to retrain in traditional trades.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/technology/2026/feb/11/big-ai-job-swap-white-collar-workers-ditching-their-careers",
+        "date": "11 février 2026",
+        "tag": "Jobs"
+      },
+      {
+        "title": "Salesforce licencie discrètement 1000 employés",
+        "title_en": "Salesforce Quietly Lays Off 1,000 Employees",
+        "summary": "En février 2026, Salesforce a procédé à des coupes touchant près de 1000 postes, dans un contexte où les entreprises US ont annoncé 1,2 million de suppressions d'emplois en 2025.",
+        "summary_en": "In February 2026, Salesforce cut nearly 1,000 positions, as US companies announced 1.2 million job cuts in 2025.",
+        "source": "OpenTools AI",
+        "url": "https://opentools.ai/news",
+        "date": "11 février 2026",
+        "tag": "Jobs"
+      }
+    ],
+    "image": [
+      {
+        "title": "Flux 2 : le meilleur rapport qualité/prix en 2026",
+        "title_en": "Flux 2: Best Value for Money in 2026",
+        "summary": "Selon les comparatifs récents, Flux 2 offre le meilleur équilibre entre qualité, vitesse et prix pour la génération d'images. Midjourney reste leader pour le travail artistique, DALL-E 3 via ChatGPT le plus accessible.",
+        "summary_en": "According to recent comparisons, Flux 2 offers the best balance between quality, speed, and price for image generation. Midjourney remains the leader for artistic work, DALL-E 3 via ChatGPT the most accessible.",
+        "source": "Apatero",
+        "url": "https://apatero.com/blog/best-ai-image-generator-2026-comparison",
+        "date": "9 février 2026"
+      },
+      {
+        "title": "FLUX Pro recommandé pour les photos produit",
+        "title_en": "FLUX Pro Recommended for Product Photos",
+        "summary": "FLUX Pro s'impose pour les shots produit photoréalistes sans texte. Ideogram excelle pour les templates et formats répétés avec sa fonction Style Reference.",
+        "summary_en": "FLUX Pro stands out for photorealistic product shots without text. Ideogram excels for templates and repeated formats with its Style Reference feature.",
+        "source": "MindStudio",
+        "url": "https://www.mindstudio.ai/blog/choosing-image-generation-model",
+        "date": "6 février 2026"
+      },
+      {
+        "title": "DALL-E 3.5 : l'option la plus accessible via ChatGPT",
+        "title_en": "DALL-E 3.5: Most Accessible Option via ChatGPT",
+        "summary": "DALL-E 3.5 s'impose comme l'option la plus accessible grâce à l'interface conversationnelle de ChatGPT. Midjourney v7 offre une cohérence artistique exceptionnelle avec sa communauté massive.",
+        "summary_en": "DALL-E 3.5 stands out as the most accessible option thanks to ChatGPT's conversational interface. Midjourney v7 offers exceptional artistic coherence with its massive community.",
+        "source": "Ropewalk AI",
+        "url": "https://ropewalk.ai/blog/flux-2-ai-image-generation-2026",
+        "date": "6 février 2026"
+      },
+      {
+        "title": "Comparatif DALL-E vs Midjourney 2026",
+        "title_en": "DALL-E vs Midjourney 2026 Comparison",
+        "summary": "Une analyse approfondie compare les deux géants : DALL-E à 20$/mois inclus dans ChatGPT, Midjourney pour le travail artistique. FLUX et Ideogram émergent comme alternatives viables.",
+        "summary_en": "An in-depth analysis compares the two giants: DALL-E at $20/month included with ChatGPT, Midjourney for artistic work. FLUX and Ideogram emerge as viable alternatives.",
+        "source": "Medium",
+        "url": "https://medium.com/@lazurka1976/dall-e-vs-midjourney-the-brutally-honest-2026-comparison-62464f5f4741",
+        "date": "7 février 2026"
+      }
+    ],
+    "video": [
+      {
+        "title": "Seedance 2.0 : ByteDance explose tout en génération vidéo",
+        "title_en": "Seedance 2.0: ByteDance Blows Up Video Generation",
+        "summary": "ByteDance dévoile Seedance 2.0 et affole Twitter. Premier modèle à générer de la vidéo qualité cinéma avec audio synchronisé nativement et cohérence multi-shot. Un game changer qui redéfinit l'état de l'art.",
+        "summary_en": "ByteDance unveils Seedance 2.0 and Twitter goes wild. First model to generate cinema-quality video with native synchronized audio and multi-shot coherence. A game changer redefining the state of the art.",
+        "source": "NxCode",
+        "url": "https://www.nxcode.io/resources/news/seedance-2-0-complete-guide-ai-video-generation-2026",
+        "date": "8 février 2026",
+        "tag": "Buzz"
+      },
+      {
+        "title": "Runway lève 315M$ pour une valorisation de 5,3 milliards",
+        "title_en": "Runway Raises $315M at $5.3 Billion Valuation",
+        "summary": "Le startup de vidéo IA Runway a bouclé un tour de 315 millions de dollars, portant sa valorisation à 5,3 milliards. L'entreprise vise désormais les \"world models\" au-delà de la simple génération vidéo.",
+        "summary_en": "AI video startup Runway closed a $315 million round, bringing its valuation to $5.3 billion. The company now targets \"world models\" beyond simple video generation.",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+        "date": "10 février 2026",
+        "tag": "Funding"
+      },
+      {
+        "title": "Super Bowl LX : première pub nationale générée par IA",
+        "title_en": "Super Bowl LX: First AI-Generated National Ad",
+        "summary": "Svedka marque l'histoire avec la première publicité du Super Bowl entièrement générée par IA. La preuve que Runway Gen-4.5, Kling O1 et Sora 2 atteignent désormais la qualité broadcast.",
+        "summary_en": "Svedka makes history with the first fully AI-generated Super Bowl ad. Proof that Runway Gen-4.5, Kling O1, and Sora 2 now achieve broadcast quality.",
+        "source": "GenMediaLab",
+        "url": "https://www.genmedialab.com/news/super-bowl-lx-first-ai-generated-ad/",
+        "date": "9 février 2026",
+        "tag": "Milestone"
+      },
+      {
+        "title": "Runway vs Sora 2 : le comparatif 2026",
+        "title_en": "Runway vs Sora 2: The 2026 Comparison",
+        "summary": "Runway s'impose comme boîte à outils polyvalente. Sora 2 agit comme un réalisateur IA avec un sens du plan et de la continuité pour transformer une histoire en vidéo cohérente.",
+        "summary_en": "Runway stands out as a versatile toolbox. Sora 2 acts as an AI director with shot and continuity sense to transform a story into coherent video.",
+        "source": "Zapier",
+        "url": "https://zapier.com/blog/best-ai-video-generator/",
+        "date": "9 février 2026"
+      },
+      {
+        "title": "Viddo.ai agrège tous les modèles de génération",
+        "title_en": "Viddo.ai Aggregates All Generation Models",
+        "summary": "La plateforme Viddo offre un accès unifié à Veo3, Hailuo 02, Runway Gen-4, Suno V4.5, Midjourney, Seedance 1.0, Runway Aleph et Kling V2.1.",
+        "summary_en": "The Viddo platform offers unified access to Veo3, Hailuo 02, Runway Gen-4, Suno V4.5, Midjourney, Seedance 1.0, Runway Aleph, and Kling V2.1.",
+        "source": "Live News Chat",
+        "url": "https://livenewschat.eu/no-skills-generate-professional-videos-quickly-with-viddo-ai/",
+        "date": "10 février 2026"
+      }
+    ],
+    "llm": [
+      {
+        "title": "Guerre OpenAI vs Anthropic : GPT-5.3 Codex contre Opus 4.6",
+        "title_en": "OpenAI vs Anthropic War: GPT-5.3 Codex vs Opus 4.6",
+        "summary": "Le 5 février, Anthropic lance Opus 4.6 avec 1M de contexte et des capacités d'agents coding. OpenAI riposte immédiatement avec GPT-5.3-Codex, un modèle coding agentique plus rapide.",
+        "summary_en": "On February 5, Anthropic launches Opus 4.6 with 1M context and coding agent capabilities. OpenAI immediately counters with GPT-5.3-Codex, a faster agentic coding model.",
+        "source": "Daily Inference",
+        "url": "https://dailyinference.com/p/anthropic-openai-coding-models-deepfake-fraud",
+        "date": "7 février 2026",
+        "tag": "New Model"
+      },
+      {
+        "title": "Claude détrône Gemini comme meilleure IA pour le travail",
+        "title_en": "Claude Dethrones Gemini as Best AI for Work",
+        "summary": "Selon Tom's Guide, Claude s'impose désormais comme la meilleure IA pour le raisonnement sérieux et le travail réel, dépassant Google Gemini qui dominait jusque-là.",
+        "summary_en": "According to Tom's Guide, Claude now stands as the best AI for serious reasoning and real work, surpassing Google Gemini which dominated until now.",
+        "source": "Tom's Guide",
+        "url": "https://www.tomsguide.com/ai/google-geminis-dominance-is-over-anthropics-new-claude-is-now-the-best-ai-for-real-work",
+        "date": "11 février 2026"
+      },
+      {
+        "title": "Anthropic au Super Bowl avec deux pubs",
+        "title_en": "Anthropic at Super Bowl with Two Ads",
+        "summary": "Anthropic diffuse deux publicités lors du Super Bowl LX dans le cadre d'une campagne marketing \"A Time and a Place\". Chaque pub montre des assistants IA dérivant vers la promotion de produits fictifs.",
+        "summary_en": "Anthropic airs two ads during Super Bowl LX as part of a marketing campaign called \"A Time and a Place\". Each ad shows AI assistants pivoting to promoting fictional products.",
+        "source": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anthropic",
+        "date": "10 février 2026",
+        "tag": "Marketing"
+      },
+      {
+        "title": "Claude gratuit : nouvelles fonctionnalités débloquées",
+        "title_en": "Free Claude: New Features Unlocked",
+        "summary": "Anthropic annonce que les utilisateurs gratuits de Claude peuvent désormais créer des fichiers, utiliser des connecteurs et accéder aux skills — des fonctions auparavant réservées aux abonnés.",
+        "summary_en": "Anthropic announces that free Claude users can now create files, use connectors, and access skills — features previously reserved for subscribers.",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/02/11/anthropic-claude-more-free-features/",
+        "date": "11 février 2026"
+      },
+      {
+        "title": "Anthropic favori pour le meilleur modèle de février",
+        "title_en": "Anthropic Favored for Best Model of February",
+        "summary": "Les marchés de prédiction donnent Anthropic à 68% pour le titre de meilleur modèle fin février, avec des signaux de leak sur Claude 5 Sonnet. Google tient la 2e place à 47%.",
+        "summary_en": "Prediction markets give Anthropic 68% odds for best model title by end of February, with leak signals about Claude 5 Sonnet. Google holds 2nd place at 47%.",
+        "source": "MLQ.ai",
+        "url": "https://mlq.ai/prediction/brief/openai/openai-markets-brief-february-09-2026-anthropic-holds-lead-in-end-february-model-2026-02-09/",
+        "date": "9 février 2026"
+      }
+    ],
+    "audio": [
+      {
+        "title": "ElevenLabs lève 500M$ à 11 milliards de valorisation",
+        "title_en": "ElevenLabs Raises $500M at $11 Billion Valuation",
+        "summary": "ElevenLabs boucle une levée massive de 500 millions, six mois après le lancement d'Eleven Music qui concurrence Suno et Udio. L'entreprise étend son empire au-delà de la synthèse vocale.",
+        "summary_en": "ElevenLabs closes a massive $500 million raise, six months after launching Eleven Music competing with Suno and Udio. The company expands its empire beyond voice synthesis.",
+        "source": "Music Business Worldwide",
+        "url": "https://www.musicbusinessworldwide.com/elevenlabs-creator-of-suno-rival-eleven-music-raises-500m-at-11bn-valuation/",
+        "date": "5 février 2026",
+        "tag": "Funding"
+      },
+      {
+        "title": "Mozart AI lève 6M$ pour démocratiser la création musicale IA",
+        "title_en": "Mozart AI Raises $6M to Democratize AI Music Creation",
+        "summary": "Mozart AI entre sur le marché aux côtés de Suno, Stability Audio, Meta MusicGen et ElevenLabs avec des outils pour créer de la musique accessible à tous.",
+        "summary_en": "Mozart AI enters the market alongside Suno, Stability Audio, Meta MusicGen, and ElevenLabs with tools to make music creation accessible to everyone.",
+        "source": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/02/11/mozart-ai-raises-6m-bring-generative-ai-music-creation-masses/",
+        "date": "11 février 2026",
+        "tag": "Funding"
+      },
+      {
+        "title": "Suno 2026 : audio studio 48kHz et exports 12 pistes",
+        "title_en": "Suno 2026: Studio 48kHz Audio and 12-Track Exports",
+        "summary": "Suno propose désormais de l'audio qualité studio en 48kHz, des morceaux jusqu'à 8 minutes, et l'export de 12 stems séparés. La nouvelle fonction 'Add Vocals' permet d'ajouter des voix.",
+        "summary_en": "Suno now offers studio-quality 48kHz audio, tracks up to 8 minutes, and export of 12 separate stems. The new 'Add Vocals' feature allows adding voices.",
+        "source": "Gaga Art",
+        "url": "https://gaga.art/blog/suno-ai-music-generator/",
+        "date": "5 février 2026"
+      },
+      {
+        "title": "Suno cherche à collaborer avec les majors",
+        "title_en": "Suno Seeks to Collaborate with Major Labels",
+        "summary": "Un ex-dirigeant d'Atlantic Records chez Suno travaille à \"créer un pont entre artistes, ayants droit et IA\", publiant un long post LinkedIn post-Grammy sur l'avenir de l'IA musicale.",
+        "summary_en": "A former Atlantic Records executive at Suno works to \"bridge the gap between artists, rights holders, and AI\", posting a lengthy LinkedIn post-Grammy piece on the future of AI music.",
+        "source": "Digital Music News",
+        "url": "https://www.digitalmusicnews.com/2026/02/04/suno-open-studio-comments/",
+        "date": "4 février 2026"
+      },
+      {
+        "title": "ElevenLabs Music : licences plus claires que Suno",
+        "title_en": "ElevenLabs Music: Clearer Licenses Than Suno",
+        "summary": "ElevenLabs Music offre une qualité focalisée sur les pistes vocales avec des licences commerciales plus claires que celles proposées par Suno.",
+        "summary_en": "ElevenLabs Music offers quality focused on vocal tracks with clearer commercial licenses than those offered by Suno.",
+        "source": "TechBullion",
+        "url": "https://techbullion.com/best-suno-alternatives-in-2026-suede-labs-and-top-competitors/",
+        "date": "9 février 2026"
+      }
+    ]
+  }
+}
