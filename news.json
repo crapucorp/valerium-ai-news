@@ -537,5 +537,28 @@
         "date": "9 février 2026"
       }
     ]
-  }
+  },
+  "hotNews": [
+    {
+      "title": "Super Bowl LX : La première pub entièrement générée par l'IA fait son entrée",
+      "title_en": "Super Bowl LX: The First Fully AI-Generated National Ad Makes History",
+      "source": "GenMediaLab",
+      "url": "https://www.genmedialab.com/news/super-bowl-lx-first-ai-generated-ad/",
+      "date": "9 février 2026"
+    },
+    {
+      "title": "Les marques qui s'invitent dans ChatGPT avec des publicités",
+      "title_en": "Here are the brands bringing ads to ChatGPT",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible",
+      "date": "11 February 2026"
+    },
+    {
+      "title": "Une chercheuse d'OpenAI démissionne, craignant un virage 'Facebook' avec les pubs",
+      "title_en": "OpenAI researcher quits over ChatGPT ads, warns of 'Facebook' path",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
+      "date": "11 February 2026"
+    }
+  ]
 }
