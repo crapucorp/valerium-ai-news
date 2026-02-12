@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Valerium AI News</title>
+    <title>OhVali AI News</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -77,9 +79,15 @@
         }
 
         .logo-img {
-            width: 52px;
+            width: 62px;
             height: auto;
             object-fit: contain;
+        }
+
+        /* Logo dark en mode light */
+        :root:not([data-theme="dark"]) .logo-img,
+        [data-theme="light"] .logo-img {
+            filter: invert(1);
         }
 
         .logo-titles {
@@ -294,8 +302,8 @@
 
         .news-card {
             display: flex;
-            gap: 20px;
-            padding: 24px;
+            gap: 16px;
+            padding: 20px;
             background: var(--bg-card);
             border: 1px solid var(--border-light);
             border-radius: 16px;
@@ -308,17 +316,42 @@
             transform: translateY(-2px);
         }
 
+        .news-thumb {
+            flex-shrink: 0;
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            overflow: hidden;
+            background: var(--bg-hover);
+        }
+
+        .news-thumb img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .news-thumb-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-muted);
+            font-size: 1.5rem;
+        }
+
         .news-rank {
             flex-shrink: 0;
-            width: 32px;
-            height: 32px;
+            width: 28px;
+            height: 28px;
             display: flex;
             align-items: center;
             justify-content: center;
             background: var(--bg);
-            border-radius: 8px;
+            border-radius: 6px;
             font-weight: 700;
-            font-size: 0.875rem;
+            font-size: 0.75rem;
             color: var(--text-muted);
         }
 
@@ -384,6 +417,75 @@
             font-size: 0.75rem;
             text-transform: uppercase;
             letter-spacing: 0.02em;
+        }
+
+        .news-card {
+            cursor: pointer;
+        }
+
+        .news-card.expanded {
+            border-color: var(--accent);
+        }
+
+        .news-expand {
+            display: none;
+            margin-top: 16px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border-light);
+        }
+
+        .news-card.expanded .news-expand {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        .news-full-summary {
+            font-size: 0.9375rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            margin-bottom: 16px;
+        }
+
+        .news-source-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 18px;
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .news-source-btn:hover {
+            background: var(--accent);
+            opacity: 0.9;
+            transform: translateY(-1px);
+        }
+
+        .news-source-btn svg {
+            width: 16px;
+            height: 16px;
+        }
+
+        .news-image {
+            width: 100%;
+            max-height: 300px;
+            object-fit: cover;
+            border-radius: 12px;
+            margin-bottom: 16px;
+        }
+
+        .news-summary {
+            font-size: 0.9375rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 12px;
         }
 
         /* ===== EMPTY STATE ===== */
@@ -490,9 +592,9 @@
         <header>
             <div class="header-top">
                 <div class="logo">
-                    <img src="logo.png" alt="Valerium" class="logo-img" id="logoImg">
+                    <img src="logo.png" alt="OhVali" class="logo-img" id="logoImg">
                     <div class="logo-titles">
-                        <span class="logo-text">Valerium</span>
+                        <span class="logo-text">OhVali</span>
                         <span class="logo-subtitle">AI News</span>
                     </div>
                 </div>
@@ -666,19 +768,36 @@
                             // Get title and summary based on language
                             const title = currentLang === 'en' && item.title_en ? item.title_en : item.title;
                             const summary = currentLang === 'en' && item.summary_en ? item.summary_en : item.summary;
+                            const longSummary = currentLang === 'en' && item.long_summary_en ? item.long_summary_en : (item.long_summary || summary);
+                            const sourceLabel = currentLang === 'en' ? 'View source' : 'Voir la source';
+                            
+                            // Thumbnail: use image or show placeholder icon
+                            const thumbHtml = item.image 
+                                ? `<img src="${item.image}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=news-thumb-placeholder>📰</div>'">`
+                                : '<div class="news-thumb-placeholder">📰</div>';
                             
                             return `
-                            <article class="news-card">
-                                <span class="news-rank">${index + 1}</span>
+                            <article class="news-card" data-index="${index}">
+                                <div class="news-thumb">${thumbHtml}</div>
                                 <div class="news-content">
-                                    <h2 class="news-title">
-                                        <a href="${item.url}" target="_blank" rel="noopener">${title}</a>
-                                    </h2>
+                                    <h2 class="news-title">${title}</h2>
                                     <p class="news-summary">${summary}</p>
                                     <div class="news-meta">
                                         <span class="news-source">${item.source}</span>
                                         <span class="news-date">${item.date}</span>
                                         ${item.tag ? `<span class="news-tag">${item.tag}</span>` : ''}
+                                    </div>
+                                    <div class="news-expand">
+                                        ${item.image ? `<img src="${item.image}" alt="${title}" class="news-image" loading="lazy">` : ''}
+                                        <p class="news-full-summary">${longSummary.replace(/\n/g, '<br>')}</p>
+                                        <a href="${item.url}" target="_blank" rel="noopener" class="news-source-btn" onclick="event.stopPropagation()">
+                                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                                                <polyline points="15 3 21 3 21 9"/>
+                                                <line x1="10" y1="14" x2="21" y2="3"/>
+                                            </svg>
+                                            ${sourceLabel}
+                                        </a>
                                     </div>
                                 </div>
                             </article>
@@ -686,6 +805,13 @@
                     </div>
                 </div>
             `;
+
+            // Add click handlers for expand/collapse
+            document.querySelectorAll('.news-card').forEach(card => {
+                card.addEventListener('click', () => {
+                    card.classList.toggle('expanded');
+                });
+            });
         }
 
         // Tab switching
