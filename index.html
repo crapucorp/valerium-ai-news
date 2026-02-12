@@ -790,7 +790,7 @@
                                     <div class="news-expand">
                                         ${item.image ? `<img src="${item.image}" alt="${title}" class="news-image" loading="lazy">` : ''}
                                         <p class="news-full-summary">${longSummary.replace(/\n/g, '<br>')}</p>
-                                        <a href="${item.url}" target="_blank" rel="noopener" class="news-source-btn" onclick="event.stopPropagation()">
+                                        <a href="${item.url}" class="news-source-btn" onclick="event.stopPropagation(); event.preventDefault(); window.open(this.href, '_blank', 'noopener,noreferrer');">
                                             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                                 <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
                                                 <polyline points="15 3 21 3 21 9"/>
