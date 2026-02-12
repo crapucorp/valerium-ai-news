@@ -227,13 +227,71 @@ def fetch_rss_feed(feed_url, source_name):
         print(f"Error fetching feed {feed_url}: {e}")
         return []
 
+def score_hot_news(articles):
+    """Use Claude to score articles by viral/mass appeal potential. Returns top 3."""
+    if not ANTHROPIC_API_KEY or not articles:
+        return []
+    
+    # Prepare article summaries for scoring
+    article_list = []
+    for i, a in enumerate(articles[:20]):  # Score max 20 recent articles
+        article_list.append(f"{i+1}. {a.get('title_en', a.get('title', ''))} - {a.get('summary_en', a.get('summary', ''))[:100]}")
+    
+    articles_text = "\n".join(article_list)
+    
+    prompt = f"""Tu es un expert en viralité des news tech/IA. Analyse ces articles et identifie les 3 qui ont le plus de potentiel viral pour le grand public (pas les niches techniques).
+
+Critères de viralité:
+- Impact sur la vie quotidienne des gens
+- Sujet controversé ou surprenant
+- Grosses entreprises connues (OpenAI, Google, Meta, etc.)
+- Argent/levées de fonds impressionnantes
+- Avancées spectaculaires visibles
+
+ARTICLES:
+{articles_text}
+
+Réponds UNIQUEMENT avec les numéros des 3 articles les plus viraux, séparés par des virgules.
+Exemple: 2, 5, 8"""
+
+    try:
+        resp = requests.post(
+            "https://api.anthropic.com/v1/messages",
+            headers={
+                "x-api-key": ANTHROPIC_API_KEY,
+                "anthropic-version": "2023-06-01",
+                "Content-Type": "application/json"
+            },
+            json={
+                "model": "claude-sonnet-4-5-20250514",
+                "max_tokens": 100,
+                "messages": [{"role": "user", "content": prompt}]
+            },
+            timeout=30
+        )
+        if resp.status_code == 200:
+            result = resp.json()["content"][0]["text"].strip()
+            # Parse numbers from response
+            numbers = [int(n.strip()) for n in re.findall(r'\d+', result)][:3]
+            hot_articles = []
+            for n in numbers:
+                if 1 <= n <= len(articles):
+                    hot_articles.append(articles[n-1])
+            print(f"  Hot news selected: {numbers}")
+            return hot_articles
+    except Exception as e:
+        print(f"Hot news scoring error: {e}")
+    
+    # Fallback: return first 3 articles
+    return articles[:3]
+
 def load_existing_news(path):
     """Load existing news.json."""
     try:
         with open(path, 'r', encoding='utf-8') as f:
             return json.load(f)
     except:
-        return {"lastUpdate": "", "categories": {"general": [], "image": [], "video": [], "llm": [], "audio": []}}
+        return {"lastUpdate": "", "categories": {"general": [], "image": [], "video": [], "llm": [], "audio": []}, "hotNews": []}
 
 def get_existing_urls(news_data):
     """Get all existing article URLs to avoid duplicates."""
@@ -304,9 +362,30 @@ def merge_news(existing_data, new_articles):
     
     print(f"Added {added} new articles")
     
+    # Collect all recent articles for hot news scoring
+    all_recent = []
+    for cat, items in categories.items():
+        all_recent.extend(items[:5])  # Top 5 from each category
+    
+    # Score and select hot news
+    print("Scoring hot news...")
+    hot_news = score_hot_news(all_recent)
+    
+    # Format hot news for JSON
+    hot_news_formatted = []
+    for article in hot_news:
+        hot_news_formatted.append({
+            "title": article.get("title", ""),
+            "title_en": article.get("title_en", ""),
+            "source": article.get("source", ""),
+            "url": article.get("url", ""),
+            "date": article.get("date", "")
+        })
+    
     return {
         "lastUpdate": datetime.now().strftime("%d %B %Y - %H:%M"),
-        "categories": categories
+        "categories": categories,
+        "hotNews": hot_news_formatted
     }
 
 def save_news_json(news_data, output_path):
