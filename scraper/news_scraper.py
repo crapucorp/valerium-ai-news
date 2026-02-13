@@ -207,7 +207,7 @@ def fetch_rss_feed(feed_url, source_name):
                 "long_summary_en": summary_en,
                 "url": url,
                 "source": source_name,
-                "date": pub_date.strftime("%d %B %Y") if pub_date else datetime.now().strftime("%d %B %Y"),
+                "date": datetime.now().strftime("%d %B %Y"),  # Always use today's date for scraped articles
                 "pub_date": pub_date.isoformat() if pub_date else None
             }
             
