@@ -737,6 +737,10 @@
                         <button class="lang-btn active" data-lang="fr">FR</button>
                         <button class="lang-btn" data-lang="en">EN</button>
                     </div>
+                    <div class="lang-toggle date-toggle">
+                        <button class="lang-btn date-btn active" data-date="today">Aujourd'hui</button>
+                        <button class="lang-btn date-btn" data-date="yesterday">Hier</button>
+                    </div>
                     <div class="update-info">
                         <span class="live-dot"></span>
                         <span id="lastUpdate">Mise à jour...</span>
@@ -836,6 +840,14 @@
         let newsData = {};
         let activeTab = 'general';
         let currentLang = localStorage.getItem('lang') || 'fr';
+        let currentDateFilter = 'today'; // 'today' or 'yesterday'
+        
+        // Get today's and yesterday's date strings
+        const today = new Date();
+        const yesterday = new Date(today);
+        yesterday.setDate(yesterday.getDate() - 1);
+        const todayStr = today.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+        const yesterdayStr = yesterday.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
 
         // Apply language
         function applyLang(lang) {
@@ -944,8 +956,12 @@
         }
 
         function renderNews() {
-            const news = newsData[activeTab] || [];
+            let news = newsData[activeTab] || [];
             const main = document.getElementById('mainContent');
+            
+            // Filter by date
+            const filterDate = currentDateFilter === 'today' ? todayStr : yesterdayStr;
+            news = news.filter(item => item.date === filterDate);
 
             if (news.length === 0) {
                 main.innerHTML = `
@@ -1024,10 +1040,21 @@
         });
 
         // Language switching
-        document.querySelector('.lang-toggle').addEventListener('click', (e) => {
+        document.querySelector('.lang-toggle:not(.date-toggle)').addEventListener('click', (e) => {
             const btn = e.target.closest('.lang-btn');
             if (!btn || btn.classList.contains('active')) return;
             applyLang(btn.dataset.lang);
+        });
+
+        // Date filtering
+        document.querySelector('.date-toggle').addEventListener('click', (e) => {
+            const btn = e.target.closest('.date-btn');
+            if (!btn || btn.classList.contains('active')) return;
+            
+            document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            currentDateFilter = btn.dataset.date;
+            renderNews();
         });
 
         // Theme toggle
