@@ -738,7 +738,8 @@
                         <button class="lang-btn" data-lang="en">EN</button>
                     </div>
                     <div class="lang-toggle date-toggle">
-                        <button class="lang-btn date-btn active" data-date="today">Aujourd'hui</button>
+                        <button class="lang-btn date-btn active" data-date="all">Tout</button>
+                        <button class="lang-btn date-btn" data-date="today">Aujourd'hui</button>
                         <button class="lang-btn date-btn" data-date="yesterday">Hier</button>
                     </div>
                     <div class="update-info">
@@ -840,14 +841,15 @@
         let newsData = {};
         let activeTab = 'general';
         let currentLang = localStorage.getItem('lang') || 'fr';
-        let currentDateFilter = 'today'; // 'today' or 'yesterday'
+        let currentDateFilter = 'all'; // 'all', 'today' or 'yesterday'
         
-        // Get today's and yesterday's date strings
+        // Get today's and yesterday's date strings (format: "13 February 2026")
         const today = new Date();
         const yesterday = new Date(today);
         yesterday.setDate(yesterday.getDate() - 1);
-        const todayStr = today.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
-        const yesterdayStr = yesterday.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+        const months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+        const todayStr = `${today.getDate()} ${months[today.getMonth()]} ${today.getFullYear()}`;
+        const yesterdayStr = `${yesterday.getDate()} ${months[yesterday.getMonth()]} ${yesterday.getFullYear()}`;
 
         // Apply language
         function applyLang(lang) {
@@ -959,9 +961,11 @@
             let news = newsData[activeTab] || [];
             const main = document.getElementById('mainContent');
             
-            // Filter by date
-            const filterDate = currentDateFilter === 'today' ? todayStr : yesterdayStr;
-            news = news.filter(item => item.date === filterDate);
+            // Filter by date (only if not 'all')
+            if (currentDateFilter !== 'all') {
+                const filterDate = currentDateFilter === 'today' ? todayStr : yesterdayStr;
+                news = news.filter(item => item.date === filterDate);
+            }
 
             if (news.length === 0) {
                 main.innerHTML = `
