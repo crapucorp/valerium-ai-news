@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 OhVali AI News - Auto Scraper
-Scrape AI news, translate to FR, merge with existing articles.
+Scrape AI news via Brave Search + RSS, translate to FR, merge with existing articles.
 """
 
 import os
@@ -14,13 +14,22 @@ import feedparser
 from pathlib import Path
 
 # Configuration
-SOURCES = {
+BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY", "BSAi4x2_TyBxgRh3SX_PVd8rm64BjSV")
+
+RSS_SOURCES = {
     "techcrunch_ai": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "theverge_ai": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "wired_ai": "https://www.wired.com/feed/tag/ai/latest/rss",
     "ars_ai": "https://feeds.arstechnica.com/arstechnica/technology-lab",
     "reuters_tech": "https://www.reutersagency.com/feed/?best-topics=tech",
 }
+
+# Brave Search queries for AI news (focused, 3 queries max to avoid timeout)
+BRAVE_QUERIES = [
+    "AI artificial intelligence news today",
+    "OpenAI Google Anthropic news",
+    "AI video image generation news",
+]
 
 CATEGORIES_KEYWORDS = {
     "video": ["video", "sora", "runway", "pika", "kling", "seedance", "gen-3", "gen-4", "veo", "hailuo", "luma"],
@@ -173,6 +182,126 @@ def categorize_article(title, summary):
     
     return "general"
 
+def brave_search(query, count=10):
+    """Search for AI news via Brave Search API."""
+    if not BRAVE_API_KEY:
+        print(f"  [Brave] No API key, skipping: {query}")
+        return []
+    
+    try:
+        resp = requests.get(
+            "https://api.search.brave.com/res/v1/web/search",
+            headers={
+                "Accept": "application/json",
+                "X-Subscription-Token": BRAVE_API_KEY
+            },
+            params={
+                "q": query,
+                "count": count,
+                "freshness": "pd",  # Past day only
+                "search_lang": "en"
+            },
+            timeout=15
+        )
+        
+        if resp.status_code == 200:
+            data = resp.json()
+            results = data.get("web", {}).get("results", [])
+            return results
+        else:
+            print(f"  [Brave] Error {resp.status_code}: {resp.text[:100]}")
+            return []
+    except Exception as e:
+        print(f"  [Brave] Search error: {e}")
+        return []
+
+def extract_article_content(url):
+    """Extract main content from article URL."""
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=15)
+        soup = BeautifulSoup(resp.text, 'html.parser')
+        
+        # Remove scripts, styles, nav, footer
+        for tag in soup(['script', 'style', 'nav', 'footer', 'aside', 'header']):
+            tag.decompose()
+        
+        # Try common article selectors
+        article = soup.find('article') or soup.find(class_=re.compile(r'article|post|content|entry'))
+        if article:
+            text = article.get_text(separator=' ', strip=True)
+        else:
+            # Fallback to body
+            text = soup.get_text(separator=' ', strip=True)
+        
+        # Clean up
+        text = re.sub(r'\s+', ' ', text)
+        return text[:2000]  # Limit for API
+    except Exception as e:
+        print(f"    Content extraction failed: {e}")
+        return ""
+
+def fetch_brave_articles(existing_urls):
+    """Fetch articles from Brave Search across multiple queries."""
+    articles = []
+    seen_urls = set(existing_urls)
+    
+    for query in BRAVE_QUERIES:
+        print(f"  [Brave] Searching: {query}")
+        results = brave_search(query, count=5)
+        
+        for result in results:
+            url = result.get("url", "")
+            title = result.get("title", "")
+            description = result.get("description", "")
+            
+            # Skip duplicates
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            
+            # Skip non-news sites
+            skip_domains = ['youtube.com', 'reddit.com', 'twitter.com', 'x.com', 'linkedin.com', 'facebook.com', 'wikipedia.org']
+            if any(d in url.lower() for d in skip_domains):
+                continue
+            
+            # Extract source name from URL
+            from urllib.parse import urlparse
+            domain = urlparse(url).netloc.replace('www.', '')
+            source = domain.split('.')[0].title()
+            
+            print(f"    Processing: {title[:50]}...")
+            
+            # Get full content for better summaries
+            content = extract_article_content(url) or description
+            
+            # Generate summaries via Mistral
+            fr_content = generate_article_summary(title, content[:1500], url)
+            
+            # Get og:image
+            image = fetch_og_image(url) or ""
+            
+            article = {
+                "title": fr_content.get("title", title),
+                "title_en": title,
+                "summary": fr_content.get("summary", description[:200]),
+                "summary_en": description[:200],
+                "long_summary": fr_content.get("long_summary", content[:600]),
+                "long_summary_en": content[:600],
+                "url": url,
+                "source": source,
+                "image": image,
+                "date": datetime.now().strftime("%d %B %Y"),
+                "category": categorize_article(title, description)
+            }
+            
+            articles.append(article)
+            
+            # Limit total articles from Brave (10 max to avoid timeout)
+            if len(articles) >= 10:
+                return articles
+    
+    return articles
+
 def fetch_rss_feed(feed_url, source_name):
     """Fetch and parse RSS feed."""
     try:
@@ -299,10 +428,12 @@ def get_existing_urls(news_data):
             urls.add(article.get("url", ""))
     return urls
 
-def scrape_all_sources():
-    """Scrape all configured sources."""
+def scrape_all_sources(existing_urls=None):
+    """Scrape all configured sources: RSS feeds + Brave Search."""
     all_articles = []
+    existing_urls = existing_urls or set()
     
+    # 1. RSS feeds (reliable, structured)
     source_names = {
         "techcrunch_ai": "TechCrunch",
         "theverge_ai": "The Verge",
@@ -311,12 +442,19 @@ def scrape_all_sources():
         "reuters_tech": "Reuters",
     }
     
-    for key, url in SOURCES.items():
+    print("\n--- RSS Feeds ---")
+    for key, url in RSS_SOURCES.items():
         name = source_names.get(key, key)
         print(f"Scraping {name}...")
         articles = fetch_rss_feed(url, name)
         all_articles.extend(articles)
         print(f"  Found {len(articles)} articles")
+    
+    # 2. Brave Search (dynamic, wider coverage)
+    print("\n--- Brave Search ---")
+    brave_articles = fetch_brave_articles(existing_urls)
+    all_articles.extend(brave_articles)
+    print(f"  Total from Brave: {len(brave_articles)} articles")
     
     return all_articles
 
@@ -395,16 +533,17 @@ def save_news_json(news_data, output_path):
 def main():
     """Main scraper function."""
     print("=" * 50)
-    print("OhVali AI News Scraper")
+    print("OhVali AI News Scraper v2 (RSS + Brave)")
     print("=" * 50)
     
     # Load existing articles
     news_path = Path(__file__).parent.parent / "news.json"
     existing_data = load_existing_news(news_path)
-    print(f"Loaded existing news.json")
+    existing_urls = get_existing_urls(existing_data)
+    print(f"Loaded existing news.json ({len(existing_urls)} articles)")
     
     # Scrape new articles
-    new_articles = scrape_all_sources()
+    new_articles = scrape_all_sources(existing_urls)
     print(f"\nTotal new articles found: {len(new_articles)}")
     
     # Merge
