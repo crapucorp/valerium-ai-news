@@ -16,7 +16,23 @@ from pathlib import Path
 # Configuration
 BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY", "BSAi4x2_TyBxgRh3SX_PVd8rm64BjSV")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")  # Fallback when Brave rate limits
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")  # GPT fallback (OAuth token from OpenClaw)
+# GPT fallback - read OAuth token from OpenClaw auth-profiles
+def get_openai_token():
+    """Read OpenAI OAuth token from OpenClaw auth-profiles."""
+    try:
+        auth_path = Path.home() / ".openclaw/agents/main/agent/auth-profiles.json"
+        if auth_path.exists():
+            with open(auth_path) as f:
+                data = json.load(f)
+            profile = data.get("profiles", {}).get("openai-codex:default", {})
+            token = profile.get("access")
+            if token:
+                return token
+    except Exception as e:
+        print(f"  [GPT] Failed to read OAuth token: {e}")
+    return os.environ.get("OPENAI_API_KEY", "")
+
+OPENAI_API_KEY = None  # Will be loaded dynamically
 
 RSS_SOURCES = {
     "techcrunch_ai": "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -186,8 +202,9 @@ def categorize_article(title, summary):
 
 def gpt_search_news():
     """Use OpenAI GPT API as fallback to find trending AI news when Brave rate limits."""
-    if not OPENAI_API_KEY:
-        print("  [GPT] No API key configured, skipping fallback")
+    token = get_openai_token()
+    if not token:
+        print("  [GPT] No API key/token configured, skipping fallback")
         return []
     
     print("  [GPT] Using GPT as fallback for news search...")
@@ -208,7 +225,7 @@ Return ONLY a JSON array, no other text:
         resp = requests.post(
             "https://api.openai.com/v1/chat/completions",
             headers={
-                "Authorization": f"Bearer {OPENAI_API_KEY}",
+                "Authorization": f"Bearer {token}",
                 "Content-Type": "application/json"
             },
             json={
@@ -404,10 +421,10 @@ def fetch_brave_articles(existing_urls):
             if len(articles) >= 10:
                 return articles
     
-    # FALLBACK: If Brave found few/no articles (rate limited), use Gemini
-    if len(articles) < 3 and GEMINI_API_KEY:
+    # FALLBACK: If Brave found few/no articles (rate limited), use GPT
+    if len(articles) < 3:
         print(f"  [Brave] Only {len(articles)} articles found, trying Gemini fallback...")
-        gemini_articles = gemini_search_news()
+        gemini_articles = gpt_search_news()  # Use GPT as primary fallback
         
         for ga in gemini_articles:
             url = ga.get("url", "")
