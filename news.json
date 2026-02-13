@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "12 February 2026 - 14:46",
+  "lastUpdate": "13 February 2026 - 08:02",
   "categories": {
     "general": [
+      {
+        "title": "Une vague de trafic bot inexpliqué balaye le web",
+        "title_en": "A Wave of Unexplained Bot Traffic Is Sweeping the Web",
+        "summary": "Des sites web, des petits éditeurs aux agences fédérales américaines, signalent des pics de trafic automatisé liés à des adresses IP en Chine.",
+        "summary_en": "From small publishers to US federal agencies, websites are reporting unusual spikes in automated traffic linked to IP addresses in Lanzhou, China.",
+        "long_summary": "Des sites web de tous horizons, des petits éditeurs aux agences gouvernementales américaines, enregistrent des pics de trafic automatisé provenant d’adresses IP basées à Lanzhou, en Chine.\n\nPoints clés :\n• Des milliers de requêtes suspectes ciblent des sites variés, sans but clair\n• Les attaques semblent coordonnées et proviennent d’une même région chinoise\n• Les experts peinent à identifier l’origine ou l’objectif de ces bots\n\nCes incidents soulèvent des questions sur la cybersécurité et les motivations derrière ces attaques massives.",
+        "long_summary_en": "From small publishers to US federal agencies, websites are reporting unusual spikes in automated traffic linked to IP addresses in Lanzhou, China.",
+        "image": "https://media.wired.com/photos/698d1920a750bbdd23fc5ccb/191:100/w_1280,c_limit/Made-In-China-Niche-Websites-Seeing-Surge-of-Mysterious-Traffic-From-China-Business-1247521554.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/made-in-china-niche-websites-are-seeing-a-surge-of-mysterious-traffic-from-china/",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "L’expansion secrète de l’ICE, les doutes éthiques de Palantir et les assistants IA",
+        "title_en": "‘Uncanny Valley’: ICE’s Secret Expansion Plans, Palantir Workers’ Ethical Concerns, and AI Assistants",
+        "summary": "Découverte d’un programme secret de l’administration Trump et les tensions chez Palantir sur l’IA.",
+        "summary_en": "In this episode of Uncanny Valley, our hosts dive into WIRED’s scoop about a secret Trump administration campaign extending right into your backyard.",
+        "long_summary": "L’épisode explore une enquête de WIRED sur un projet clandestin de l’ICE et les dilemmes éthiques des employés de Palantir.\n\nPoints clés :\n• Un programme secret de l’ICE étendu sous Trump\n• Tensions chez Palantir sur l’utilisation de l’IA\n• Implications pour la surveillance et la vie privée\n\nLes révélations soulèvent des questions sur l’éthique technologique et la surveillance de masse.",
+        "long_summary_en": "In this episode of Uncanny Valley, our hosts dive into WIRED’s scoop about a secret Trump administration campaign extending right into your backyard.",
+        "image": "https://media.wired.com/photos/698d17a4fbe49e3e4a648a71/191:100/w_1280,c_limit/Uncanny-Valley-Ice-Expansion-2235818079.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-ice-expansion-palantir-workers-ethical-concerns-openclaw-ai-assistants/",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "L'étonnant cas des juges IA : une révolution juridique ?",
+        "title_en": "The surprising case for AI judges",
+        "summary": "Et si les IA remplaçaient les juges ? Décryptage avec une ancienne cheffe de la Cour suprême du Michigan.",
+        "summary_en": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My g",
+        "long_summary": "L’intelligence artificielle pourrait-elle trancher des litiges juridiques ? Au-delà de la rédaction de mémos, des IA pourraient bientôt décider de l’issue des procès.\n\nPoints clés :\n• Les IA pourraient rendre des décisions juridiques objectives et rapides\n• Bridget McCormack, ancienne cheffe de la Cour suprême du Michigan, explore ce scénario\n• Des implications majeures pour l’équité et l’accès à la justice\n\nUne transformation radicale du système judiciaire pourrait être en marche.",
+        "long_summary_en": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My guest today is Bridget McCormack, the former chief justice for the Michigan Supreme Court and now president and CEO of […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/DCD-Bridget-McCormack_portrait.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "Didero lève 30M$ pour automatiser l'approvisionnement industriel avec l'IA",
+        "title_en": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
+        "summary": "Didero automatise les processus d'approvisionnement en s'intégrant aux ERP existants. Une levée de fonds de 30M$ pour accélérer l'adoption.",
+        "summary_en": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and ta",
+        "long_summary": "Didero agit comme une couche d'IA intelligente qui superpose les ERP des entreprises, coordonnant les communications et exécutant automatiquement les mises à jour nécessaires.\n\nPoints clés :\n• Intégration transparente avec les systèmes ERP existants\n• Automatisation des tâches répétitives de procurement\n• Levée de fonds de 30M$ pour développer l'IA agentique\n\nCette solution pourrait révolutionner la gestion des achats en industrie en réduisant les erreurs humaines et les délais.",
+        "long_summary_en": "Didero functions as an agentic AI layer that sits on top of a company’s existing ERP, acting as a coordinator that reads incoming communications and automatically executes the necessary updates and tasks.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Founders_Exterior_Mid-3.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "Musk a une nouvelle vision pour SpaceX et xAI : Moonbase Alpha",
+        "title_en": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
+        "summary": "Elon Musk envisage une base lunaire pour lancer des satellites IA vers l'espace profond.",
+        "summary_en": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
+        "long_summary": "Elon Musk a partagé sa vision d'une base lunaire équipée d'un lanceur massif pour propulser des satellites IA vers l'espace lointain.\n\nPoints clés :\n• Une base lunaire (Moonbase Alpha) servirait de plateforme de lancement\n• Des satellites IA seraient envoyés vers l'espace profond\n• Cette initiative pourrait accélérer l'exploration spatiale et l'IA\n\nCette vision pourrait révolutionner l'exploration spatiale et l'intégration de l'IA dans les missions interplanétaires.",
+        "long_summary_en": "\"I really want to see a mass driver on the moon that is shooting AI satellites into deep space.\"",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-10.37.51-AM.png?resize=1200,666",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "IBM recrute massivement des juniors à l'ère de l'IA",
+        "title_en": "IBM will hire your entry-level talent in the age of AI",
+        "summary": "IBM prévoit de tripler ses embauches juniors aux États-Unis d'ici 2026, mais les missions évolueront avec l'IA.",
+        "summary_en": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
+        "long_summary": "Le géant technologique mise sur les jeunes talents pour s'adapter à la transformation numérique.\n\nPoints clés :\n• IBM vise 3x plus d'embauches juniors d'ici 2026\n• Les postes intégreront davantage d'IA et d'automatisation\n• Les compétences humaines resteront cruciales\n\nCette stratégie reflète l'équilibre entre technologie et savoir-faire humain.",
+        "long_summary_en": "IBM plans to triple its entry-level hiring in the U.S. in 2026, but these jobs will have different tasks than in previous years.",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1254279163.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
+        "date": "12 February 2026"
+      },
       {
         "title": "Des paquets malveillants vident les portefeuilles des utilisateurs de dYdX",
         "title_en": "Malicious packages drain dYdX cryptocurrency exchange user wallets",
@@ -109,81 +181,6 @@
         "date": "12 February 2026",
         "long_summary": "Points clés :\n• Isaac 0 plie une machine de linge en 30 à 90 minutes, mais ne se déplace pas.\n• Le robot coûte 7 999 $ avec un dépôt de 250 $, et n'est disponible que dans la baie de San Francisco.\n• La startup se concentre sur une seule tâche pour garantir une performance optimale.",
         "long_summary_en": "Key points:\n• Isaac 0 folds a load of laundry in 30-90 minutes but is stationary.\n• The robot costs $7,999 with a $250 deposit and is only available in the Bay Area.\n• The startup focuses on a single task to ensure optimal performance."
-      },
-      {
-        "title": "Le rafraîchissement de Siri par Apple retardé… encore une fois",
-        "title_en": "Apple’s Siri revamp reportedly delayed… again",
-        "summary": "Apple repousse le déploiement des nouvelles fonctionnalités de Siri, initialement prévues pour mars, à mai ou même septembre.",
-        "summary_en": "Apple is reportedly delaying the rollout of Siri’s new features, originally expected in March, to May or even September.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-glowing-apple-logo-GettyImages-2234517515.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
-        "date": "11 February 2026",
-        "long_summary": "Contexte: Apple préparait une mise à jour majeure de Siri avec iOS 26.4, mais le déploiement sera étalé dans le temps.\n\nPoints clés :\n• Les fonctionnalités clés de Siri seront déployées progressivement, certaines retardées jusqu’en mai.\n• D’autres innovations pourraient attendre iOS 27, prévu en septembre.\n• Ce retard pourrait être lié à des tests supplémentaires ou à des ajustements techniques.\n\nConclusion: Les utilisateurs devront patienter plus longtemps pour profiter de toutes les nouveautés de Siri, mais cela pourrait garantir une expérience plus stable.",
-        "long_summary_en": "Context: Apple was preparing a major Siri update for iOS 26.4, but the rollout will be staggered over time.\n\nKey points:\n• Key Siri features will be rolled out gradually, with some delayed until May.\n• Other innovations may wait until iOS 27, expected in September.\n• The delay could be due to additional testing or technical adjustments.\n\nConclusion: Users will have to wait longer for all of Siri’s new features, but this could ensure a more stable experience."
-      },
-      {
-        "title": "Modal Labs vise une valorisation de 2,5 milliards de dollars",
-        "title_en": "AI inference startup Modal Labs in talks to raise at $2.5B valuation",
-        "summary": "Modal Labs, spécialisée dans l'inférence IA, pourrait lever des fonds à une valorisation de 2,5 milliards de dollars.",
-        "summary_en": "Modal Labs, an AI inference startup, is in talks to raise funds at a $2.5 billion valuation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2024-02-14-at-9.26.16AM.png?resize=1200,607",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-        "date": "11 February 2026",
-        "long_summary": "Points clés :\n• General Catalyst serait en tête pour mener le tour de table.\n• Cette valorisation de 2,5 milliards de dollars reflète l'essor du marché de l'inférence IA.\n• Si l'opération aboutit, Modal Labs pourrait renforcer sa position face à des concurrents comme RunPod ou Banana.",
-        "long_summary_en": "Key points:\n• General Catalyst is reportedly leading the funding round.\n• The $2.5 billion valuation underscores the growing demand for AI inference solutions.\n• A successful raise could strengthen Modal Labs' position against competitors like RunPod and Banana."
-      },
-      {
-        "title": "xAI dévoile ses ambitions interplanétaires lors d'une réunion publique",
-        "title_en": "xAI lays out interplanetary ambitions in public all-hands",
-        "summary": "xAI a publié sa présentation complète de 45 minutes sur X, une démarche rare pour la startup d'IA.",
-        "summary_en": "xAI took the rare step of publishing its full 45-minute all-hands presentation to the X platform, making it widely available.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-11-at-3.22.39-PM.jpg?resize=1200,679",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-        "date": "11 February 2026",
-        "long_summary": "Mercredi, xAI a marqué les esprits en diffusant intégralement sa réunion interne de 45 minutes sur la plateforme X, une initiative inhabituelle pour une entreprise en phase de développement.\n\nPoints clés :\n• La startup a partagé sa vision à long terme, incluant des projets ambitieux dans l'espace.\n• Cette transparence rare pourrait refléter une stratégie de communication agressive.\n• Les détails techniques et les objectifs restent flous, mais l'annonce confirme l'ambition interplanétaire de xAI.\n\nConclusion.",
-        "long_summary_en": "On Wednesday, xAI made headlines by publishing its full 45-minute all-hands presentation on the X platform, an unusual move for a startup in development.\n\nKey points:\n• The company outlined its long-term vision, including ambitious space-related projects.\n• This rare transparency may signal an aggressive communication strategy.\n• While technical details and specific goals remain vague, the announcement confirms xAI's interplanetary ambitions.\n\nConclusion."
-      },
-      {
-        "title": "Seedance 2.0: ByteDance Blows Up Video Generation",
-        "title_en": "Seedance 2.0: ByteDance Blows Up Video Generation",
-        "summary": "ByteDance unveils Seedance 2.0 and Twitter goes wild. First model to generate cinema-quality video with native synchronized audio.",
-        "summary_en": "ByteDance unveils Seedance 2.0 and Twitter goes wild. First model to generate cinema-quality video with native synchronized audio.",
-        "long_summary": "ByteDance unveils Seedance 2.0 and Twitter goes wild. First model to generate cinema-quality video with native synchronized audio.",
-        "long_summary_en": "ByteDance unveils Seedance 2.0 and Twitter goes wild. First model to generate cinema-quality video with native synchronized audio.",
-        "image": "https://www.nxcode.io/images/news/seedance-2-0-guide.svg",
-        "source": "NxCode",
-        "url": "https://www.nxcode.io/resources/news/seedance-2-0-complete-guide-ai-video-generation-2026",
-        "date": "8 février 2026",
-        "tag": "Buzz"
-      },
-      {
-        "title": "Les géants du tech prévoient 600 milliards de dollars pour l'IA en 2026",
-        "title_en": "Big Tech Plans $600 Billion AI Spending in 2026",
-        "summary": "Les entreprises technologiques prévoient d'investir massivement dans l'IA cette année.",
-        "summary_en": "Tech giants are planning a massive $600 billion budget for AI infrastructure this year.",
-        "long_summary": "Points clés :\n• Les dépenses prévues atteignent 600 milliards de dollars pour 2026, un record historique.\n• Les investissements concernent principalement les centres de données, les puces spécialisées et les logiciels d'IA.\n• Cette vague d'investissements pourrait accélérer l'adoption de l'IA dans divers secteurs, de la santé à l'automobile.",
-        "long_summary_en": "Key points:\n• The planned spending reaches $600 billion for 2026, a historic record.\n• Investments primarily target data centers, specialized chips, and AI software.\n• This wave of investments could accelerate AI adoption across industries, from healthcare to automotive.",
-        "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&q=80",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/global-software-data-firms-slide-ai-disruption-fears-compound-jitters-over-600-2026-02-06/",
-        "date": "6 février 2026",
-        "tag": "Finance"
-      },
-      {
-        "title": "Les investissements massifs dans l'IA créent des pénuries dans d'autres secteurs",
-        "title_en": "Massive AI Spending Causes Shortages in Other Sectors",
-        "summary": "Des centaines de milliards investis dans l'IA détournent les ressources d'autres parties de l'économie.",
-        "summary_en": "Hundreds of billions invested in AI are diverting resources from other parts of the economy.",
-        "long_summary": "Les investissements massifs dans l'intelligence artificielle (IA) ont atteint des sommets historiques, avec des centaines de milliards de dollars injectés chaque année. Cette ruée vers l'IA crée des tensions sur les ressources humaines, technologiques et financières, affectant d'autres secteurs clés.\n\nPoints clés :\n• Les entreprises technologiques et les startups en IA recrutent massivement, aggravant les pénuries de talents dans d'autres industries.\n• Les composants électroniques, comme les puces GPU, deviennent rares et coûteux en raison de la demande accrue pour l'entraînement des modèles d'IA.\n• Les budgets publics et privés se concentrent sur l'IA, réduisant les investissements dans des domaines comme la santé ou l'éducation.\n\nCes déséquilibres pourraient ralentir l'innovation dans d'autres secteurs et exacerber les inégalités économiques, à moins que des mesures de régulation ou de réallocation des ressources ne soient mises en place.",
-        "long_summary_en": "Massive investments in artificial intelligence (AI) have reached unprecedented levels, with hundreds of billions of dollars poured into the sector annually. This AI gold rush is creating strains on human, technological, and financial resources, impacting other critical industries.\n\nKey points:\n• Tech companies and AI startups are aggressively hiring, worsening talent shortages in other sectors.\n• Electronic components, such as GPUs, are becoming scarce and expensive due to surging demand for AI model training.\n• Public and private budgets are heavily focused on AI, diverting funds from areas like healthcare and education.\n\nThese imbalances could slow innovation in other sectors and deepen economic inequalities unless regulatory measures or resource reallocation strategies are implemented.",
-        "image": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&q=80",
-        "source": "Washington Post",
-        "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-        "date": "7 février 2026",
-        "tag": "Economy"
       }
     ],
     "image": [
@@ -262,6 +259,30 @@
     ],
     "video": [
       {
+        "title": "Le nouveau modèle d'IA de ByteDance génère des vidéos à partir de texte, images, audio et vidéo",
+        "title_en": "ByteDance’s next-gen AI model can generate clips based on text, images, audio, and video",
+        "summary": "ByteDance lance Seedance 2.0, un générateur vidéo révolutionnaire combinant plusieurs types de médias. La qualité est améliorée.",
+        "summary_en": "Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video generator. In a blog post, ByteDance - the China-based company behind TikTok - says Seedance 2.",
+        "long_summary": "ByteDance, la société derrière TikTok, accélère la course aux IA génératives avec Seedance 2.0.\n\nPoints clés :\n• Génération de vidéos à partir de texte, images, audio et vidéo\n• Amélioration significative de la qualité par rapport aux modèles précédents\n• Positionnement dans la compétition face aux géants tech comme Google et Meta\n\nCette avancée pourrait redéfinir les standards des outils créatifs basés sur l'IA.",
+        "long_summary_en": "Big Tech's race to leapfrog the latest AI models continues with the launch of ByteDance's next-gen video generator. In a blog post, ByteDance - the China-based company behind TikTok - says Seedance 2.0 supports prompts that combine text, images, video, and audio. The company claims it \"delivers a substantial leap in generation quality,\" offering improvements […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/seedance-clip.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/877931/bytedance-seedance-2-video-generator-ai-launch",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "Good Luck, Have Fun, Don’t Die : une fable sur l'ère numérique",
+        "title_en": "Good Luck, Have Fun, Don’t Die is a rollicking parable about this moment in tech",
+        "summary": "Une satire mordante sur notre addiction aux écrans et son impact sur nos vies.",
+        "summary_en": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's",
+        "long_summary": "Nous sommes tous coupables de scroller sans fin sur des actualités anxiogènes ou des vidéos vides de sens. Cette habitude, bien que nocive, est difficile à éviter dans un monde où nos vies se déroulent sur écran.\n\nPoints clés :\n• Une critique sociale de la dépendance aux technologies\n• Une réflexion sur l'équilibre entre productivité et bien-être\n• Une mise en garde contre les dangers de la surconnexion\n\nCette fable moderne interroge notre rapport aux outils numériques et leurs conséquences sur notre santé mentale.",
+        "long_summary_en": "We are all guilty of pulling out our phones and doomscrolling through stressful headlines or mindnumbing videos when we should be doing anything else. We know it's bad, but we still do it because it's hard to resist when much of our time is spent living and working on our devices. And even though we […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/g_100nit_r709_1.388.1.jpg?quality=90&strip=all&crop=0%2C5.0850545614944%2C100%2C89.829890877011&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+        "date": "12 February 2026"
+      },
+      {
         "title": "Seedance 2.0 : ByteDance révolutionne la génération vidéo avec un son synchronisé",
         "title_en": "Seedance 2.0: ByteDance Blows Up Video Generation",
         "summary": "Premier modèle capable de générer des vidéos de qualité cinématographique avec un audio parfaitement synchronisé.",
@@ -326,6 +347,66 @@
       }
     ],
     "llm": [
+      {
+        "title": "Les attaquants ont sollicité Gemini plus de 100 000 fois pour le cloner, selon Google",
+        "title_en": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+        "summary": "Des techniques de distillation permettent de copier Gemini à moindre coût. Google alerte sur les risques de duplication.",
+        "summary_en": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+        "long_summary": "Google révèle que des attaquants ont tenté de cloner son modèle Gemini en le sollicitant plus de 100 000 fois.\n\nPoints clés :\n• La distillation permet de reproduire des modèles avancés avec peu de ressources\n• Google met en garde contre les risques de duplication non autorisée\n• Les coûts de développement des IA pourraient chuter drastiquement\n\nLes implications soulignent l'urgence de renforcer la protection des modèles propriétaires.",
+        "long_summary_en": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "OpenAI contourne Nvidia avec un modèle de codage ultra-rapide sur des puces de la taille d'une assiette",
+        "title_en": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+        "summary": "Le nouveau modèle GPT-5.3-Codex-Spark d'OpenAI est 15 fois plus rapide que son prédécesseur pour le codage.",
+        "summary_en": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+        "long_summary": "OpenAI révolutionne le développement logiciel avec un modèle optimisé pour des puces compactes.\n\nPoints clés :\n• Le GPT-5.3-Codex-Spark est 15 fois plus rapide que les versions précédentes\n• Il fonctionne sur des puces de la taille d'une assiette, réduisant la dépendance à Nvidia\n• Cette avancée pourrait démocratiser l'accès aux outils d'IA pour le codage\n\nCette innovation marque un tournant dans l'autonomie technologique et la performance des modèles d'IA.",
+        "long_summary_en": "OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "Le président d'OpenAI a donné des millions à Trump. Il affirme que c'est pour l'humanité",
+        "title_en": "OpenAI’s President Gave Millions to Trump. He Says It’s for Humanity",
+        "summary": "Greg Brockman justifie ses dons politiques comme alignés sur la mission d'OpenAI, malgré les désaccords internes.",
+        "summary_en": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
+        "long_summary": "Greg Brockman, président d'OpenAI, a expliqué dans une interview à WIRED que ses contributions financières à Donald Trump soutiennent la vision de l'entreprise.\n\nPoints clés :\n• Brockman affirme que ses dons politiques visent à influencer positivement l'IA et la technologie.\n• Certains employés d'OpenAI critiquent ces contributions, jugées contraires aux valeurs de l'entreprise.\n• La controverse soulève des questions sur l'engagement politique des dirigeants tech et leur impact sur la perception publique.\n\nConclusion sur les implications. Ces tensions reflètent les défis éthiques et politiques auxquels sont confrontés les géants de la tech.",
+        "long_summary_en": "In an interview with WIRED, Greg Brockman says his political donations support OpenAI's mission—even if some employees at the company disagree.",
+        "image": "https://media.wired.com/photos/698b7a2dfdd5c91c3b17ca7c/191:100/w_1280,c_limit/Model-Behavior-Why-OpenAIs-Greg-Brockman-Went-All-In-on-Trump-Business.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-president-greg-brockman-political-donations-trump-humanity/",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "Anthropic lève 30 milliards de dollars en série G, valorisé à 380 milliards",
+        "title_en": "Anthropic raises another $30B in Series G, with a new value of $380B",
+        "summary": "Anthropic renforce sa position face à OpenAI avec une levée record. La course aux IA s'intensifie.",
+        "summary_en": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+        "long_summary": "Anthropic, rival d'OpenAI, consolide sa position avec une levée historique. La startup vise à dominer le marché des IA génératives.\n\nPoints clés :\n• Levée de 30 milliards de dollars en série G\n• Valorisation portée à 380 milliards de dollars\n• Concurrence accrue avec OpenAI pour les clients et l'influence culturelle\n\nCette levée confirme l'essor des géants de l'IA et leur course aux innovations technologiques.",
+        "long_summary_en": "The infusion of funding for the AI startup takes place as it is vying for customers and cultural attention with its competitor, OpenAI.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+        "date": "12 February 2026"
+      },
+      {
+        "title": "Malgré des résultats décevants, Pinterest affirme dépasser ChatGPT en recherches",
+        "title_en": "Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT",
+        "summary": "L'action de Pinterest chute après un manque à gagner, mais l'usage record sauve la mise.",
+        "summary_en": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+        "long_summary": "Pinterest a publié des résultats trimestriels inférieurs aux attentes, faisant chuter son cours de bourse.\n\nPoints clés :\n• L'entreprise a enregistré une hausse significative des recherches, dépassant ChatGPT.\n• Les revenus publicitaires restent en baisse, pesant sur les résultats.\n• Les investisseurs restent prudents malgré la croissance de l'engagement utilisateur.\n\nConclusion sur les implications. La performance mitigée montre que Pinterest doit diversifier ses revenus pour rassurer les marchés.",
+        "long_summary_en": "Pinterest's stock tumbles after an earnings miss, with higher-than-expected usage its only bright spot.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/",
+        "date": "12 February 2026"
+      },
       {
         "title": "Les marques qui s'invitent dans ChatGPT avec des publicités",
         "title_en": "Here are the brands bringing ads to ChatGPT",
@@ -447,30 +528,6 @@
         "url": "https://en.wikipedia.org/wiki/Anthropic",
         "date": "10 février 2026",
         "tag": "Marketing"
-      },
-      {
-        "title": "Free Claude : des fonctionnalités inédites débloquées",
-        "title_en": "Free Claude: New Features Unlocked",
-        "summary": "Les utilisateurs gratuits de Claude peuvent désormais créer des fichiers, utiliser des connecteurs et accéder à des compétences.",
-        "summary_en": "Free Claude users can now create files, use connectors, and access skills.",
-        "long_summary": "Points clés :\n• Les utilisateurs gratuits de Claude peuvent désormais créer et gérer des fichiers directement dans l'interface.\n• L'accès aux connecteurs permet d'intégrer des outils externes comme des bases de données ou des APIs.\n• Les compétences (skills) offrent des fonctionnalités avancées comme la traduction ou l'analyse de données.",
-        "long_summary_en": "Key points:\n• Free Claude users can now create and manage files directly in the interface.\n• Access to connectors enables integration with external tools like databases or APIs.\n• Skills provide advanced functionalities such as translation or data analysis.",
-        "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&q=80",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/02/11/anthropic-claude-more-free-features/",
-        "date": "11 février 2026"
-      },
-      {
-        "title": "Anthropic en tête pour le meilleur modèle de février",
-        "title_en": "Anthropic Favored for Best Model of February",
-        "summary": "68% de chances selon les marchés prédictifs. Rumeurs sur Claude 5 Sonnet.",
-        "summary_en": "68% odds according to prediction markets. Rumors about Claude 5 Sonnet.",
-        "long_summary": "Les marchés prédictifs placent Anthropic en position de favori pour le meilleur modèle de février, avec 68% de chances. Des rumeurs évoquent le lancement imminent de Claude 5 Sonnet.\n\nPoints clés :\n• Anthropic domine les paris sur le modèle du mois\n• Claude 5 Sonnet pourrait être la prochaine grande innovation\n• La concurrence avec d'autres acteurs reste forte\n\nConclusion. L'arrivée de Claude 5 Sonnet pourrait marquer un tournant dans la course aux IA génératives.",
-        "long_summary_en": "Prediction markets favor Anthropic for the best model of February, with 68% odds. Rumors suggest the imminent launch of Claude 5 Sonnet.\n\nKey points:\n• Anthropic leads the race for February's top model\n• Claude 5 Sonnet may be the next big breakthrough\n• Competition with other players remains fierce\n\nConclusion. The arrival of Claude 5 Sonnet could mark a turning point in the generative AI race.",
-        "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=800&q=80",
-        "source": "MLQ.ai",
-        "url": "https://mlq.ai/prediction/brief/openai/openai-markets-brief-february-09-2026-anthropic-holds-lead-in-end-february-model-2026-02-09/",
-        "date": "9 février 2026"
       }
     ],
     "audio": [
@@ -547,18 +604,18 @@
       "date": "9 février 2026"
     },
     {
-      "title": "Les marques qui s'invitent dans ChatGPT avec des publicités",
-      "title_en": "Here are the brands bringing ads to ChatGPT",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/877148/openai-chatgpt-advertisers-target-adobe-audible",
-      "date": "11 February 2026"
+      "title": "OpenAI contourne Nvidia avec un modèle de codage ultra-rapide sur des puces de la taille d'une assiette",
+      "title_en": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+      "date": "12 February 2026"
     },
     {
-      "title": "Une chercheuse d'OpenAI démissionne, craignant un virage 'Facebook' avec les pubs",
-      "title_en": "OpenAI researcher quits over ChatGPT ads, warns of 'Facebook' path",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
-      "date": "11 February 2026"
+      "title": "Anthropic lève 30 milliards de dollars en série G, valorisé à 380 milliards",
+      "title_en": "Anthropic raises another $30B in Series G, with a new value of $380B",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+      "date": "12 February 2026"
     }
   ]
 }
