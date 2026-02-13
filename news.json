@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13 February 2026 - 08:02",
+  "lastUpdate": "13 February 2026 - 09:07",
   "categories": {
     "general": [
       {
@@ -348,6 +348,32 @@
     ],
     "llm": [
       {
+        "title": "Gemini 3 Deep Think : Google révolutionne le raisonnement IA pour la science",
+        "title_en": "Gemini 3 Deep Think: Google upgrades AI reasoning for science and engineering",
+        "summary": "Google lance une mise à jour majeure de Gemini Deep Think, atteignant des performances record sur les benchmarks académiques les plus rigoureux.",
+        "summary_en": "Google releases major upgrade to Gemini 3 Deep Think, achieving gold-medal standards in math, physics, and chemistry olympiads.",
+        "long_summary": "Google dévoile une mise à jour majeure de Gemini 3 Deep Think, son mode de raisonnement spécialisé pour résoudre des défis en science et ingénierie.\n\nPoints clés :\n• 48.4% sur Humanity's Last Exam (sans outils)\n• 84.6% sur ARC-AGI-2, vérifié par la Fondation ARC Prize\n• Elo de 3455 sur Codeforces (programmation compétitive)\n• Niveau médaille d'or aux Olympiades de Math, Physique et Chimie 2025\n\nDisponible pour les abonnés Google AI Ultra et bientôt via l'API Gemini pour chercheurs et entreprises.",
+        "long_summary_en": "Google unveils a major upgrade to Gemini 3 Deep Think, its specialized reasoning mode for solving science and engineering challenges. Achieves 48.4% on Humanity's Last Exam, 84.6% on ARC-AGI-2, and gold-medal level on 2025 Olympiads.",
+        "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Deep_Think_Blog_2025_hero.width-1200.format-webp.webp",
+        "source": "Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+        "date": "13 February 2026",
+        "isHot": true
+      },
+      {
+        "title": "OpenAI Codex App : l'app de coding IA dépasse 1M de téléchargements en une semaine",
+        "title_en": "OpenAI Codex App hits 1M+ downloads in first week",
+        "summary": "L'application desktop de Codex connaît un succès fulgurant avec plus d'un million de téléchargements, mais des limites pourraient arriver pour les utilisateurs gratuits.",
+        "summary_en": "OpenAI's new Codex desktop app reaches over 1 million downloads in its first week, but limits may be coming for free users.",
+        "long_summary": "L'application Codex d'OpenAI explose avec plus d'un million de téléchargements en une semaine depuis son lancement sur macOS.\n\nPoints clés :\n• App desktop disponible depuis le 2 février 2026\n• GPT-5.3-Codex optimisé pour le développement agentique\n• 25% plus rapide que les versions précédentes\n• Des limites pourraient arriver pour les utilisateurs gratuits et Go\n\nLa concurrence s'intensifie avec Kilo qui supporte plus de 500 modèles rivaux.",
+        "long_summary_en": "OpenAI's Codex app explodes with over 1 million downloads in its first week since macOS launch. GPT-5.3-Codex is optimized for agent-style development and runs 25% faster.",
+        "image": "https://cdn.openai.com/codex/codex-app-hero.png",
+        "source": "VentureBeat",
+        "url": "https://venturebeat.com/technology/openais-new-codex-app-hits-1m-downloads-in-first-week-but-limits-may-be",
+        "date": "13 February 2026",
+        "isHot": true
+      },
+      {
         "title": "Les attaquants ont sollicité Gemini plus de 100 000 fois pour le cloner, selon Google",
         "title_en": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
         "summary": "Des techniques de distillation permettent de copier Gemini à moindre coût. Google alerte sur les risques de duplication.",
@@ -597,25 +623,16 @@
   },
   "hotNews": [
     {
-      "title": "Super Bowl LX : La première pub entièrement générée par l'IA fait son entrée",
-      "title_en": "Super Bowl LX: The First Fully AI-Generated National Ad Makes History",
-      "source": "GenMediaLab",
-      "url": "https://www.genmedialab.com/news/super-bowl-lx-first-ai-generated-ad/",
-      "date": "9 février 2026"
+      "title": "Gemini 3 Deep Think : performances record en science",
+      "title_en": "Gemini 3 Deep Think: Record performance in science",
+      "category": "llm",
+      "articleIndex": 0
     },
     {
-      "title": "OpenAI contourne Nvidia avec un modèle de codage ultra-rapide sur des puces de la taille d'une assiette",
-      "title_en": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-      "date": "12 February 2026"
-    },
-    {
-      "title": "Anthropic lève 30 milliards de dollars en série G, valorisé à 380 milliards",
-      "title_en": "Anthropic raises another $30B in Series G, with a new value of $380B",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
-      "date": "12 February 2026"
+      "title": "OpenAI Codex App : 1M+ téléchargements en 1 semaine",
+      "title_en": "OpenAI Codex App: 1M+ downloads in 1 week",
+      "category": "llm",
+      "articleIndex": 1
     }
   ]
 }
