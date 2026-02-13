@@ -15,6 +15,8 @@ from pathlib import Path
 
 # Configuration
 BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY", "BSAi4x2_TyBxgRh3SX_PVd8rm64BjSV")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")  # Fallback when Brave rate limits
+OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")  # GPT fallback (OAuth token from OpenClaw)
 
 RSS_SOURCES = {
     "techcrunch_ai": "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -182,6 +184,105 @@ def categorize_article(title, summary):
     
     return "general"
 
+def gpt_search_news():
+    """Use OpenAI GPT API as fallback to find trending AI news when Brave rate limits."""
+    if not OPENAI_API_KEY:
+        print("  [GPT] No API key configured, skipping fallback")
+        return []
+    
+    print("  [GPT] Using GPT as fallback for news search...")
+    
+    prompt = """Find the top 5 most important AI news stories from TODAY (February 13, 2026).
+For each, provide:
+- title: The headline
+- url: The source URL  
+- summary: 2 sentence summary
+- source: The publication name
+
+Focus on: OpenAI, Google Gemini, Anthropic Claude, GPT, Codex, major AI breakthroughs, AI safety news.
+
+Return ONLY a JSON array, no other text:
+[{"title": "...", "url": "...", "summary": "...", "source": "..."}]"""
+
+    try:
+        resp = requests.post(
+            "https://api.openai.com/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {OPENAI_API_KEY}",
+                "Content-Type": "application/json"
+            },
+            json={
+                "model": "gpt-4o",
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": 1500,
+                "temperature": 0.1
+            },
+            timeout=30
+        )
+        
+        if resp.status_code == 200:
+            result = resp.json()["choices"][0]["message"]["content"].strip()
+            # Extract JSON from response
+            result = re.sub(r'^```json\s*', '', result)
+            result = re.sub(r'\s*```$', '', result)
+            articles = json.loads(result)
+            print(f"  [GPT] Found {len(articles)} articles")
+            return articles
+        else:
+            print(f"  [GPT] Error {resp.status_code}: {resp.text[:100]}")
+    except Exception as e:
+        print(f"  [GPT] Search error: {e}")
+    
+    return []
+
+def gemini_search_news():
+    """Use Gemini API as fallback to find trending AI news when Brave rate limits."""
+    if not GEMINI_API_KEY:
+        # Try GPT instead
+        return gpt_search_news()
+    
+    print("  [Gemini] Using Gemini as fallback for news search...")
+    
+    prompt = """Find the top 5 most important AI news stories from TODAY. 
+For each, provide:
+- title: The headline
+- url: The source URL
+- summary: 2 sentence summary
+- source: The publication name
+
+Focus on: OpenAI, Google Gemini, Anthropic Claude, GPT, major AI breakthroughs, AI safety news.
+
+Return as JSON array:
+[{"title": "...", "url": "...", "summary": "...", "source": "..."}]"""
+
+    try:
+        resp = requests.post(
+            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}",
+            headers={"Content-Type": "application/json"},
+            json={
+                "contents": [{"parts": [{"text": prompt}]}],
+                "generationConfig": {"temperature": 0.1}
+            },
+            timeout=30
+        )
+        
+        if resp.status_code == 200:
+            result = resp.json()
+            text = result.get("candidates", [{}])[0].get("content", {}).get("parts", [{}])[0].get("text", "")
+            # Extract JSON from response
+            text = re.sub(r'^```json\s*', '', text)
+            text = re.sub(r'\s*```$', '', text)
+            articles = json.loads(text)
+            print(f"  [Gemini] Found {len(articles)} articles")
+            return articles
+        else:
+            print(f"  [Gemini] Error {resp.status_code}: {resp.text[:100]}")
+    except Exception as e:
+        print(f"  [Gemini] Search error: {e}")
+    
+    # Try GPT as last resort
+    return gpt_search_news()
+
 def brave_search(query, count=10):
     """Search for AI news via Brave Search API."""
     if not BRAVE_API_KEY:
@@ -245,7 +346,10 @@ def fetch_brave_articles(existing_urls):
     articles = []
     seen_urls = set(existing_urls)
     
-    for query in BRAVE_QUERIES:
+    import time
+    for i, query in enumerate(BRAVE_QUERIES):
+        if i > 0:
+            time.sleep(3)  # Wait 3s between queries to avoid rate limit
         print(f"  [Brave] Searching: {query}")
         results = brave_search(query, count=5)
         
@@ -300,6 +404,42 @@ def fetch_brave_articles(existing_urls):
             if len(articles) >= 10:
                 return articles
     
+    # FALLBACK: If Brave found few/no articles (rate limited), use Gemini
+    if len(articles) < 3 and GEMINI_API_KEY:
+        print(f"  [Brave] Only {len(articles)} articles found, trying Gemini fallback...")
+        gemini_articles = gemini_search_news()
+        
+        for ga in gemini_articles:
+            url = ga.get("url", "")
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            
+            title = ga.get("title", "")
+            summary = ga.get("summary", "")
+            source = ga.get("source", "Unknown")
+            
+            print(f"    [Gemini] Processing: {title[:50]}...")
+            
+            # Generate FR summary
+            fr_content = generate_article_summary(title, summary, url)
+            image = fetch_og_image(url) or ""
+            
+            article = {
+                "title": fr_content.get("title", title),
+                "title_en": title,
+                "summary": fr_content.get("summary", summary[:200]),
+                "summary_en": summary[:200],
+                "long_summary": fr_content.get("long_summary", summary),
+                "long_summary_en": summary,
+                "url": url,
+                "source": source,
+                "image": image,
+                "date": datetime.now().strftime("%d %B %Y"),
+                "category": categorize_article(title, summary)
+            }
+            articles.append(article)
+    
     return articles
 
 def fetch_rss_feed(feed_url, source_name):
@@ -353,64 +493,137 @@ def fetch_rss_feed(feed_url, source_name):
         print(f"Error fetching feed {feed_url}: {e}")
         return []
 
-def score_hot_news(articles):
-    """Use Mistral to score articles by viral/mass appeal potential. Returns top 3."""
-    MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY", "REDACTED_MISTRAL_KEY")
+def get_trending_topics():
+    """Scrape current AI trends from Brave Search."""
+    print("  Fetching current AI trends...")
+    trends = []
     
+    try:
+        # Search for viral/trending AI news
+        resp = requests.get(
+            "https://api.search.brave.com/res/v1/web/search",
+            headers={
+                "Accept": "application/json",
+                "X-Subscription-Token": BRAVE_API_KEY
+            },
+            params={
+                "q": "AI news trending viral today",
+                "count": 10,
+                "freshness": "pd",
+                "search_lang": "en"
+            },
+            timeout=15
+        )
+        
+        if resp.status_code == 200:
+            results = resp.json().get("web", {}).get("results", [])
+            for r in results:
+                title = r.get("title", "").lower()
+                desc = r.get("description", "").lower()
+                text = title + " " + desc
+                
+                # Extract key topics/names
+                keywords = ["gemini", "gpt", "openai", "anthropic", "claude", "deepseek", 
+                           "meta", "llama", "mistral", "google", "microsoft", "apple",
+                           "agi", "safety", "regulation", "hack", "attack", "viral",
+                           "billion", "million", "breakthrough", "launch", "release"]
+                
+                for kw in keywords:
+                    if kw in text and kw not in trends:
+                        trends.append(kw)
+            
+            print(f"  Trends detected: {trends[:10]}")
+    except Exception as e:
+        print(f"  Trend detection error: {e}")
+    
+    return trends
+
+def score_hot_news(articles):
+    """Score articles based on HOT AI topics (Gemini, GPT, OpenAI, Anthropic). Returns top 3."""
     if not articles:
         return []
     
-    # Prepare article summaries for scoring
-    article_list = []
-    for i, a in enumerate(articles[:20]):  # Score max 20 recent articles
-        article_list.append(f"{i+1}. {a.get('title_en', a.get('title', ''))} - {a.get('summary_en', a.get('summary', ''))[:100]}")
+    # PRIORITY KEYWORDS - what's actually trending in AI right now
+    priority_keywords = {
+        "gemini": 20,      # Google's model - HUGE news right now
+        "gpt": 15,         # OpenAI GPT
+        "codex": 15,       # OpenAI Codex
+        "openai": 12,      # OpenAI company
+        "anthropic": 12,   # Anthropic/Claude
+        "claude": 12,      # Claude model
+        "deepseek": 10,    # DeepSeek trending
+        "agi": 10,         # AGI discussions
+    }
     
-    articles_text = "\n".join(article_list)
+    # BREAKING NEWS indicators (specific events, not generic articles)
+    breaking_keywords = {
+        "100,000": 25,     # The 100k prompts story - SPECIFIC
+        "100000": 25,
+        "hack": 20,        # Security/hacking news
+        "attack": 20,      # Attack news
+        "attackers": 20,
+        "prompted": 15,    # Prompt injection/attacks
+        "clone": 15,       # Cloning attempts
+        "quit": 15,        # Researcher quits
+        "quits": 15,
+        "exit": 15,        # Exits company
+        "leaves": 12,
+        "warns": 12,       # Warning = important
+        "billion": 10,     # Funding news
+        "million": 8,
+        "launches": 8,
+        "viral": 8,
+        "safety": 8,
+    }
     
-    prompt = f"""Tu es un expert en viralité des news tech/IA. Analyse ces articles et identifie les 3 qui ont le plus de potentiel viral pour le grand public (pas les niches techniques).
-
-Critères de viralité:
-- Impact sur la vie quotidienne des gens
-- Sujet controversé ou surprenant
-- Grosses entreprises connues (OpenAI, Google, Meta, etc.)
-- Argent/levées de fonds impressionnantes
-- Avancées spectaculaires visibles
-
-ARTICLES:
-{articles_text}
-
-Réponds UNIQUEMENT avec les numéros des 3 articles les plus viraux, séparés par des virgules.
-Exemple: 2, 5, 8"""
-
-    try:
-        resp = requests.post(
-            "https://api.mistral.ai/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {MISTRAL_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "mistral-small-latest",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": 100
-            },
-            timeout=30
-        )
-        if resp.status_code == 200:
-            result = resp.json()["choices"][0]["message"]["content"].strip()
-            # Parse numbers from response
-            numbers = [int(n.strip()) for n in re.findall(r'\d+', result)][:3]
-            hot_articles = []
-            for n in numbers:
-                if 1 <= n <= len(articles):
-                    hot_articles.append(articles[n-1])
-            print(f"  Hot news selected: {numbers}")
-            return hot_articles
-    except Exception as e:
-        print(f"Hot news scoring error: {e}")
+    # Score each article (ALL of them)
+    scored = []
+    for i, article in enumerate(articles):  # Check ALL articles
+        title = (article.get('title_en', '') + " " + article.get('title', '')).lower()
+        summary = (article.get('summary_en', '') + " " + article.get('summary', '')).lower()
+        long_summary = (article.get('long_summary_en', '') + " " + article.get('long_summary', '')).lower()
+        text = title + " " + summary + " " + long_summary
+        
+        score = 0
+        matched = []
+        
+        # Score priority keywords (company/model names)
+        for keyword, points in priority_keywords.items():
+            if keyword in text:
+                # Title match = 2x points
+                if keyword in title:
+                    score += points * 2
+                else:
+                    score += points
+                matched.append(keyword)
+        
+        # Score breaking news keywords (events/actions)
+        breaking_matches = []
+        for keyword, points in breaking_keywords.items():
+            if keyword in text:
+                if keyword in title:
+                    score += points * 2
+                else:
+                    score += points
+                breaking_matches.append(keyword)
+        
+        # BONUS: Articles with BOTH company name AND breaking event = real news
+        if matched and breaking_matches:
+            score += 20  # Big bonus for specific news about a company
+            matched.extend(breaking_matches)
+        
+        scored.append((score, i, article, matched))
     
-    # Fallback: return first 3 articles
-    return articles[:3]
+    # Sort by score descending
+    scored.sort(key=lambda x: x[0], reverse=True)
+    
+    # Get top 3
+    hot_articles = []
+    for score, idx, article, matched in scored[:3]:
+        print(f"  Hot #{len(hot_articles)+1}: score={score}, keywords={matched}, title={article.get('title_en', '')[:60]}...")
+        hot_articles.append(article)
+    
+    return hot_articles
 
 def load_existing_news(path):
     """Load existing news.json."""
@@ -498,10 +711,10 @@ def merge_news(existing_data, new_articles):
     
     print(f"Added {added} new articles")
     
-    # Collect all recent articles for hot news scoring
+    # Collect ALL articles for hot news scoring (not just top 5)
     all_recent = []
     for cat, items in categories.items():
-        all_recent.extend(items[:5])  # Top 5 from each category
+        all_recent.extend(items)  # ALL articles from each category
     
     # Score and select hot news
     print("Scoring hot news...")
