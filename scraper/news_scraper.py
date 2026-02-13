@@ -186,8 +186,44 @@ RÈGLES STRICTES:
         "long_summary_en": content
     }
 
-def fetch_og_image(url):
-    """Extract og:image from article URL."""
+def search_image_for_topic(title):
+    """Search for a relevant image using Brave Image Search."""
+    if not BRAVE_API_KEY:
+        return None
+    
+    # Extract key terms from title for image search
+    search_query = f"{title} AI technology"
+    
+    try:
+        resp = requests.get(
+            "https://api.search.brave.com/res/v1/images/search",
+            headers={
+                "Accept": "application/json",
+                "X-Subscription-Token": BRAVE_API_KEY
+            },
+            params={
+                "q": search_query[:100],  # Limit query length
+                "count": 3,
+                "safesearch": "strict"
+            },
+            timeout=10
+        )
+        
+        if resp.status_code == 200:
+            results = resp.json().get("results", [])
+            for img in results:
+                img_url = img.get("properties", {}).get("url") or img.get("thumbnail", {}).get("src")
+                if img_url and not any(x in img_url.lower() for x in ['avatar', 'logo', 'icon', 'profile']):
+                    return img_url
+        elif resp.status_code == 429:
+            print(f"    [Image] Rate limited")
+    except Exception as e:
+        print(f"    [Image] Search error: {e}")
+    
+    return None
+
+def fetch_og_image(url, title=""):
+    """Extract og:image from article URL, fallback to Brave Image Search."""
     try:
         resp = requests.get(url, headers=HEADERS, timeout=10)
         soup = BeautifulSoup(resp.text, 'html.parser')
@@ -200,9 +236,17 @@ def fetch_og_image(url):
         if tw_img and tw_img.get('content'):
             return tw_img['content']
         
+        # No og:image found - search for one
+        if title:
+            print(f"    [Image] No og:image, searching for: {title[:40]}...")
+            return search_image_for_topic(title)
+        
         return None
     except Exception as e:
         print(f"Error fetching og:image from {url}: {e}")
+        # Try image search as fallback
+        if title:
+            return search_image_for_topic(title)
         return None
 
 def categorize_article(title, summary):
@@ -413,8 +457,8 @@ def fetch_brave_articles(existing_urls):
             # Generate summaries via Mistral
             fr_content = generate_article_summary(title, content[:1500], url)
             
-            # Get og:image
-            image = fetch_og_image(url) or ""
+            # Get og:image (or search for one)
+            image = fetch_og_image(url, title) or ""
             
             article = {
                 "title": fr_content.get("title", title),
@@ -455,7 +499,7 @@ def fetch_brave_articles(existing_urls):
             
             # Generate FR summary
             fr_content = generate_article_summary(title, summary, url)
-            image = fetch_og_image(url) or ""
+            image = fetch_og_image(url, title) or ""
             
             article = {
                 "title": fr_content.get("title", title),
@@ -512,8 +556,8 @@ def fetch_rss_feed(feed_url, source_name):
                 "pub_date": pub_date.isoformat() if pub_date else None
             }
             
-            # Get og:image
-            article["image"] = fetch_og_image(article["url"]) or ""
+            # Get og:image (or search for one)
+            article["image"] = fetch_og_image(article["url"], title_en) or ""
             
             # Categorize
             article["category"] = categorize_article(title_en, summary_en)
