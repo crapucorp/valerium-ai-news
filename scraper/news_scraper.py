@@ -7,6 +7,7 @@ Scrape AI news via Brave Search + RSS, translate to FR, merge with existing arti
 import os
 import json
 import re
+import time
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
@@ -35,18 +36,33 @@ def get_openai_token():
 OPENAI_API_KEY = None  # Will be loaded dynamically
 
 RSS_SOURCES = {
+    # Major tech news
     "techcrunch_ai": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "theverge_ai": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "wired_ai": "https://www.wired.com/feed/tag/ai/latest/rss",
     "ars_ai": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-    "reuters_tech": "https://www.reutersagency.com/feed/?best-topics=tech",
+    # AI-focused sources
+    "venturebeat_ai": "https://venturebeat.com/category/ai/feed/",
+    "thenextweb_ai": "https://thenextweb.com/neural/feed/",
+    "zdnet_ai": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+    "cnet_ai": "https://www.cnet.com/rss/news/",
+    # Research & deep AI
+    "mit_tech": "https://www.technologyreview.com/feed/",
+    "marktechpost": "https://www.marktechpost.com/feed/",
 }
 
-# Brave Search queries for AI news (focused, 3 queries max to avoid timeout)
+# Brave Search queries for AI news
 BRAVE_QUERIES = [
-    "AI artificial intelligence news today",
-    "OpenAI Google Anthropic news",
-    "AI video image generation news",
+    "AI artificial intelligence breaking news today",
+    "OpenAI GPT Gemini Anthropic news",
+    "AI video image generation Sora Runway news",
+]
+
+# Queries to find trending AI topics (Twitter, Reddit, searches)
+TREND_QUERIES = [
+    "AI trending Twitter today",
+    "artificial intelligence viral Reddit",
+    "top AI news stories today",
 ]
 
 CATEGORIES_KEYWORDS = {
@@ -363,7 +379,6 @@ def fetch_brave_articles(existing_urls):
     articles = []
     seen_urls = set(existing_urls)
     
-    import time
     for i, query in enumerate(BRAVE_QUERIES):
         if i > 0:
             time.sleep(3)  # Wait 3s between queries to avoid rate limit
@@ -510,6 +525,58 @@ def fetch_rss_feed(feed_url, source_name):
         print(f"Error fetching feed {feed_url}: {e}")
         return []
 
+def scrape_ai_trends():
+    """Scrape current AI trends from Twitter/Reddit/News via Brave Search."""
+    print("  Scraping AI trends from social media...")
+    trends = set()
+    
+    for query in TREND_QUERIES:
+        try:
+            time.sleep(2)  # Avoid rate limit
+            resp = requests.get(
+                "https://api.search.brave.com/res/v1/web/search",
+                headers={
+                    "Accept": "application/json",
+                    "X-Subscription-Token": BRAVE_API_KEY
+                },
+                params={
+                    "q": query,
+                    "count": 8,
+                    "freshness": "pd",  # Past day
+                    "search_lang": "en"
+                },
+                timeout=15
+            )
+            
+            if resp.status_code == 200:
+                results = resp.json().get("web", {}).get("results", [])
+                for r in results:
+                    title = r.get("title", "").lower()
+                    desc = r.get("description", "").lower()
+                    text = title + " " + desc
+                    
+                    # Extract trending AI topics/names
+                    ai_keywords = [
+                        "gemini", "gpt", "gpt-5", "gpt-4", "chatgpt", "openai", 
+                        "anthropic", "claude", "deepseek", "mistral", "llama",
+                        "sora", "runway", "midjourney", "dall-e", "stable diffusion",
+                        "agi", "superintelligence", "ai safety", "ai regulation",
+                        "nvidia", "google", "microsoft", "meta", "apple",
+                        "sam altman", "elon musk", "dario amodei", "sundar pichai"
+                    ]
+                    
+                    for kw in ai_keywords:
+                        if kw in text:
+                            trends.add(kw)
+            elif resp.status_code == 429:
+                print(f"    [Trends] Rate limited, skipping...")
+                break
+        except Exception as e:
+            print(f"    [Trends] Error: {e}")
+    
+    print(f"  Trends found: {list(trends)[:15]}")
+    return list(trends)
+
 def get_trending_topics():
     """Scrape current AI trends from Brave Search."""
     print("  Fetching current AI trends...")
@@ -556,21 +623,31 @@ def get_trending_topics():
     return trends
 
 def score_hot_news(articles):
-    """Score articles based on HOT AI topics (Gemini, GPT, OpenAI, Anthropic). Returns top 3."""
+    """Score articles based on HOT AI topics + live trends from social media. Returns top 3."""
     if not articles:
         return []
     
-    # PRIORITY KEYWORDS - what's actually trending in AI right now
+    # SCRAPE LIVE TRENDS from Twitter/Reddit/News
+    live_trends = scrape_ai_trends()
+    
+    # PRIORITY KEYWORDS - base scoring for major AI players
     priority_keywords = {
-        "gemini": 20,      # Google's model - HUGE news right now
+        "gemini": 20,      # Google's model
         "gpt": 15,         # OpenAI GPT
         "codex": 15,       # OpenAI Codex
         "openai": 12,      # OpenAI company
         "anthropic": 12,   # Anthropic/Claude
         "claude": 12,      # Claude model
-        "deepseek": 10,    # DeepSeek trending
+        "deepseek": 10,    # DeepSeek
         "agi": 10,         # AGI discussions
     }
+    
+    # BOOST keywords found in live trends (they're hot RIGHT NOW)
+    for trend in live_trends:
+        if trend not in priority_keywords:
+            priority_keywords[trend] = 15  # Add new trending topic
+        else:
+            priority_keywords[trend] += 10  # Boost existing if trending
     
     # BREAKING NEWS indicators (specific events, not generic articles)
     breaking_keywords = {
