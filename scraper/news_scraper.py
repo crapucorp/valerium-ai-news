@@ -72,6 +72,31 @@ CATEGORIES_KEYWORDS = {
     "audio": ["audio", "music", "suno", "udio", "elevenlabs", "voice", "tts", "speech", "sound"],
 }
 
+# Keywords to identify AI-related articles (MUST contain at least one)
+AI_KEYWORDS = [
+    # Models & Products
+    "ai", "artificial intelligence", "machine learning", "deep learning", "neural network",
+    "gpt", "chatgpt", "gpt-4", "gpt-5", "openai", "claude", "anthropic", "gemini", "deepseek",
+    "llama", "mistral", "llm", "large language model", "chatbot", "copilot",
+    # Image/Video AI
+    "dall-e", "midjourney", "stable diffusion", "sora", "runway", "pika", "kling", "flux",
+    "image generation", "video generation", "text-to-image", "text-to-video",
+    # Audio AI  
+    "suno", "udio", "elevenlabs", "voice clone", "text-to-speech", "speech recognition",
+    # Companies
+    "nvidia", "deepmind", "hugging face", "stability ai", "cohere", "perplexity",
+    # Concepts
+    "agi", "superintelligence", "ai safety", "ai alignment", "ai regulation", "ai ethics",
+    "transformer", "diffusion model", "generative ai", "foundation model",
+    # Actions
+    "ai-powered", "ai-driven", "ai model", "ai agent", "ai assistant",
+]
+
+def is_ai_related(title, summary):
+    """Check if article is AI-related. Returns True only for AI content."""
+    text = (title + " " + summary).lower()
+    return any(kw in text for kw in AI_KEYWORDS)
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
@@ -120,10 +145,12 @@ def generate_article_summary(title, content, url):
             "long_summary_en": content
         }
     
-    prompt = f"""Tu es un journaliste tech expert. Génère un article structuré en FR et EN.
+    prompt = f"""Tu es un journaliste spécialisé en Intelligence Artificielle. Génère un article structuré en FR et EN sur cette actualité IA.
 
 TITRE ORIGINAL: {title}
 CONTENU: {content}
+
+FOCUS: Intelligence Artificielle, Machine Learning, LLMs, AI générative, modèles de langage, OpenAI, Google, Anthropic, etc.
 
 FORMAT DE RÉPONSE - JSON strict:
 {{
@@ -444,6 +471,10 @@ def fetch_brave_articles(existing_urls):
             if any(d in url.lower() for d in skip_domains):
                 continue
             
+            # FILTER: Only AI-related articles
+            if not is_ai_related(title, description):
+                continue
+            
             # Extract source name from URL
             from urllib.parse import urlparse
             domain = urlparse(url).netloc.replace('www.', '')
@@ -538,6 +569,10 @@ def fetch_rss_feed(feed_url, source_name):
             title_en = entry.get('title', '')
             summary_en = BeautifulSoup(entry.get('summary', ''), 'html.parser').get_text()[:600]
             url = entry.get('link', '')
+            
+            # FILTER: Only AI-related articles
+            if not is_ai_related(title_en, summary_en):
+                continue
             
             # Generate French summary
             print(f"  Processing: {title_en[:50]}...")
