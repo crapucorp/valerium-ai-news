@@ -21,7 +21,7 @@
         "summary_en": "In this tutorial, we fine-tune a Sentence-Transformers embedding model using Matryoshka Representation Learning so that the earliest dimensions of the vector carry the most useful semantic signal. We ",
         "long_summary": "Ce tutoriel explique comment affiner un modèle d'embedding de phrases en utilisant l'apprentissage de représentation Matryoshka (MRL) pour concentrer le signal sémantique dans les premières dimensions.\n\nPoints clés :\n• Fine-tuning avec MatryoshkaLoss sur des données triplet\n• Benchmark de la qualité de récupération après troncature à 64, 128 et 256 dimensions\n• Validation de l'efficacité du MRL pour des embeddings compacts\n\nCette approche permet des récupérations ultra-rapides sans sacrifier la précision sémantique.",
         "long_summary_en": "In this tutorial, we fine-tune a Sentence-Transformers embedding model using Matryoshka Representation Learning so that the earliest dimensions of the vector carry the most useful semantic signal. We train with MatryoshkaLoss on triplet data and then validate the key promise of MRL by benchmarking retrieval quality after truncating embeddings to 64, 128, and 256 dimensions. […]\nThe post How to Build a Matryoshka-Optimized Sentence Embedding Model for Ultra-Fast Retrieval with 64-Dimension Truncation appeared first on MarkTechPost.",
-        "image": "",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-1-7-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/11/how-to-build-a-matryoshka-optimized-sentence-embedding-model-for-ultra-fast-retrieval-with-64-dimension-truncation/",
         "date": "13 February 2026"
@@ -33,7 +33,7 @@
         "summary_en": "Google DeepMind team has introduced Aletheia, a specialized AI agent designed to bridge the gap between competition-level math and professional research. While models achieved gold-medal standards at ",
         "long_summary": "Google DeepMind a développé Aletheia pour combler le fossé entre les compétitions de maths et la recherche professionnelle.\n\nPoints clés :\n• Aletheia génère, vérifie et affine des solutions en langage naturel\n• Elle excelle dans les preuves à long terme et la navigation dans la littérature scientifique\n• L'IA pourrait transformer la recherche en mathématiques et au-delà\n\nCette avancée ouvre la voie à une collaboration plus étroite entre l'IA et les chercheurs humains.",
         "long_summary_en": "Google DeepMind team has introduced Aletheia, a specialized AI agent designed to bridge the gap between competition-level math and professional research. While models achieved gold-medal standards at the 2025 International Mathematical Olympiad (IMO), research requires navigating vast literature and constructing long-horizon proofs. Aletheia solves this by iteratively generating, verifying, and revising solutions in natural language. […]\nThe post Google DeepMind Introduces Aletheia: The AI Agent Moving from Math Competitions to Fully Autonomous Professional Research Discoveries appeared first ",
-        "image": "",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-2-1-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/12/google-deepmind-introduces-aletheia-the-ai-agent-moving-from-math-competitions-to-fully-autonomous-professional-research-discoveries/",
         "date": "13 February 2026"
@@ -277,7 +277,7 @@
         "summary_en": "The bad news is that <strong>none of those options are fully mature by enterprise infrastructure standards</strong>. All three providers, Seedance 2.0, Sora, and Runway Gen-4 offer capable generation,",
         "long_summary": "Les API vidéo IA révolutionnent la création de contenu. Seedance 2.0, Sora et Runway Gen-4 offrent des fonctionnalités avancées pour les développeurs.\n\nPoints clés :\n• Seedance 2.0 excelle en personnalisation et intégration facile\n• Sora se distingue par sa qualité d'image et son IA générative\n• Runway Gen-4 propose des outils collaboratifs et une interface intuitive\n\nCes solutions ouvrent de nouvelles possibilités pour les créateurs et entreprises, avec des performances et des coûts variables selon les besoins.",
         "long_summary_en": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access sitepoint.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare ",
-        "image": "",
+        "image": "https://uploads.sitepoint.com/wp-content/uploads/large_data_9bfb7e10ad.png",
         "source": "Sitepoint",
         "url": "https://www.sitepoint.com/seedance2-vs-sora2-vs-runway-gen4/",
         "date": "13 February 2026"
@@ -301,7 +301,7 @@
         "summary_en": "<strong>ByteDance&#x27;s Seedance 2.0 brings 20-second AI video generation with realistic physics and improved prompt adherence</strong>. Learn what&#x27;s new, how to access the API, and how it compa",
         "long_summary": "ByteDance, propriétaire de TikTok, dévoile Seedance 2.0, un modèle d'IA capable de générer des vidéos ultra-réalistes à partir de simples descriptions textuelles.\n\nPoints clés :\n• Génération de vidéos haute qualité en quelques secondes\n• Intégration facile pour les développeurs via une API dédiée\n• Comparaison avec des modèles comme Sora et Runway ML\n\nConclusion sur les implications : Seedance 2.0 pourrait révolutionner la création de contenu vidéo, offrant une alternative puissante aux solutions existantes.",
         "long_summary_en": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access sitepoint.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare ",
-        "image": "",
+        "image": "https://uploads.sitepoint.com/wp-content/uploads/large_data_9bfb7e10ad.png",
         "source": "Sitepoint",
         "url": "https://www.sitepoint.com/introducing-seedance-2-0/",
         "date": "13 February 2026"
@@ -325,7 +325,7 @@
         "summary_en": "ByteDance, which officially unveiled <strong>Seedance 2.0</strong> on Thursday, said in a statement that the system was designed for professional film, e-commerce, and advertising productions, because",
         "long_summary": "ByteDance, propriétaire de TikTok, a dévoilé un nouveau modèle d'IA vidéo capable de générer des vidéos ultra-réalistes à partir de simples descriptions textuelles.\n\nPoints clés :\n• Le modèle rivalise avec les solutions américaines comme Sora de Meta, marquant un tournant pour la Chine dans l'IA générative.\n• Cette avancée intervient alors que Pékin cherche à réduire sa dépendance technologique face aux sanctions occidentales.\n• Les experts soulignent que cette innovation pourrait déclencher une nouvelle vague d'investissements dans l'IA en Chine.\n\nConclusion sur les implications.",
         "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "",
+        "image": "https://img.etimg.com/thumb/width-650,height-488,imgsize-54468,resizemode-75,msid-128249488/tech/artificial-intelligence/bytedances-new-ai-video-model-goes-viral-as-china-looks-for-second-deepseek-moment.jpg",
         "source": "Reuters",
         "url": "https://www.reuters.com/business/media-telecom/bytedances-new-ai-video-model-goes-viral-china-looks-second-deepseek-moment-2026-02-12/",
         "date": "13 February 2026"
@@ -426,7 +426,7 @@
         "summary_en": "Anthropic’s move does not exist in a vacuum. OpenAI has been pursuing its own aggressive expansion strategy, recently making GPT-4o available to free users and rolling out features like memory, custom",
         "long_summary": "Anthropic, valorisée à 60 milliards de dollars, étend les fonctionnalités gratuites de Claude pour rivaliser avec OpenAI et Google.\n\nPoints clés :\n• Accès gratuit à des outils premium comme l'analyse de fichiers et des fenêtres de contexte plus longues\n• Stratégie agressive pour attirer les utilisateurs face à la concurrence\n• Renforcement de la position d'Anthropic dans la course à l'IA\n\nCette décision pourrait redéfinir l'adoption des assistants IA grand public.",
         "long_summary_en": "For months, the competitive dynamics among leading artificial intelligence companies have resembled a high-stakes poker game, with each player carefully calibrating how much capability to give away for free versus how much to reserve for paying customers. Now, Anthropic — the San Francisco–based AI safety startup valued at roughly $60 billion — is making a bold move by significantly expanding the features available to free-tier users of its Claude chatbot, a decision that could reshape how millions of people interact with frontier AI models. The announcement, first reported by MacRumors , deta",
-        "image": "",
+        "image": "https://www.webpronews.com/wp-content/uploads/2026/02/article-10042-1770908236.jpeg",
         "source": "Webanditnews",
         "url": "https://www.webanditnews.com/2026/02/12/anthropic-loosens-the-velvet-rope-claudes-free-tier-gets-a-major-upgrade-in-a-bid-to-win-the-ai-arms-race/",
         "date": "13 February 2026"
@@ -450,7 +450,7 @@
         "summary_en": "Artificial Intelligence: Read latest updates on AI like Google AI, ChatGPT, Google Lamda, Bard chatbot and more along with latest news as AI technology advances and makes new progress. All get detaile",
         "long_summary": "L'intelligence artificielle continue de transformer divers secteurs, de la santé à la finance.\n\nPoints clés :\n• Nouveaux modèles d'IA générative révolutionnant la création de contenu\n• Progrès en éthique et régulation des technologies IA\n• Applications croissantes de l'IA dans les services publics\n\nLes avancées en IA promettent des améliorations significatives, mais soulèvent aussi des questions sur la gouvernance et l'impact sociétal.",
         "long_summary_en": "Access Denied Access Denied You don't have permission to access \"http://indianexpress.com/section/technology/artificial-intelligence/\" on this server. Reference #18.13ecc017.1770974082.5322d4ae https://errors.edgesuite.net/18.13ecc017.1770974082.5322d4ae",
-        "image": "",
+        "image": "https://a57.foxnews.com/hp.foxbusiness.com/images/2026/01/348/196/fa6a21cd951bcce3c8986e75c7ee9710.png?ve=1&tl=1",
         "source": "Indianexpress",
         "url": "https://indianexpress.com/section/technology/artificial-intelligence/",
         "date": "13 February 2026"
@@ -462,7 +462,7 @@
         "summary_en": "Google announced a major update to Gemini 3 Deep Think today. This update is specifically built to accelerate modern science, research, and engineering. This seems to be more than just another model r",
         "long_summary": "Google a dévoilé une mise à jour majeure de Gemini 3 Deep Think, conçue pour accélérer la science, la recherche et l'ingénierie. Cette avancée marque un tournant vers un mode de raisonnement utilisant une vérification interne pour résoudre des problèmes nécessitant auparavant des experts humains.\n\nPoints clés :\n• Performance record de 84,6% sur l'examen ARC-AGI-2\n• Capacité à résoudre des problèmes complexes sans intervention humaine\n• Pivot vers un mode de raisonnement avancé\n\nCette percée pourrait marquer une étape cruciale vers l'intelligence artificielle générale (AGI).",
         "long_summary_en": "Google announced a major update to Gemini 3 Deep Think today. This update is specifically built to accelerate modern science, research, and engineering. This seems to be more than just another model release. It represents a pivot toward a ‘reasoning mode’ that uses internal verification to solve problems that previously required human expert intervention. The […]\nThe post Is This AGI? Google’s Gemini 3 Deep Think Shatters Humanity’s Last Exam And Hits 84.6% On ARC-AGI-2 Performance Today appeared first on MarkTechPost.",
-        "image": "",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-1-13-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/12/is-this-agi-googles-gemini-3-deep-think-shatters-humanitys-last-exam-and-hits-84-6-on-arc-agi-2-performance-today/",
         "date": "13 February 2026"
@@ -474,7 +474,7 @@
         "summary_en": "OpenAI just launched a new research preview called GPT-5.3 Codex-Spark. This model is built for 1 thing: extreme speed. While the standard GPT-5.3 Codex focuses on deep reasoning, Spark is designed fo",
         "long_summary": "OpenAI a dévoilé GPT-5.3-Codex-Spark, une version optimisée pour la vitesse, fruit d'une collaboration avec Cerebras.\n\nPoints clés :\n• 15 fois plus rapide que les modèles standards\n• Capable de générer plus de 1000 tokens par seconde\n• Conçu pour des réponses quasi instantanées\n\nCe modèle révolutionne le développement logiciel en réduisant drastiquement les temps de latence.",
         "long_summary_en": "OpenAI just launched a new research preview called GPT-5.3 Codex-Spark. This model is built for 1 thing: extreme speed. While the standard GPT-5.3 Codex focuses on deep reasoning, Spark is designed for near-instant response times. It is the result of a deep hardware-software integration between OpenAI and Cerebras. The results are game-changing. Spark is 15x […]\nThe post OpenAI Releases a Research Preview of GPT‑5.3-Codex-Spark: A 15x Faster AI Coding Model Delivering Over 1000 Tokens Per Second on Cerebras Hardware appeared first on MarkTechPost.",
-        "image": "",
+        "image": "https://interestingengineering.com/_next/image?url=https://cms.interestingengineering.com/wp-content/uploads/2026/02/open-AI-GPT-codex-5.3.jpg&w=3840&q=75",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/12/openai-releases-a-research-preview-of-gpt-5-3-codex-spark-a-15x-faster-ai-coding-model-delivering-over-1000-tokens-per-second-on-cerebras-hardware/",
         "date": "13 February 2026"
@@ -486,7 +486,7 @@
         "summary_en": "In this tutorial, we implement an end-to-end Direct Preference Optimization workflow to align a large language model with human preferences without using a reward model. We combine TRL’s DPOTrainer wi",
         "long_summary": "Ce tutoriel explique comment implémenter un workflow complet d'optimisation directe des préférences (DPO) pour aligner un LLM avec les préférences humaines.\n\nPoints clés :\n• Utilisation de DPOTrainer, QLoRA et PEFT pour un alignement efficace sur un seul GPU Colab\n• Entraînement direct sur le dataset UltraFeedback binarisé\n• Pas besoin de modèle de récompense pour l'alignement\n\nCette approche rend l'alignement basé sur les préférences accessible même avec des ressources limitées.",
         "long_summary_en": "In this tutorial, we implement an end-to-end Direct Preference Optimization workflow to align a large language model with human preferences without using a reward model. We combine TRL’s DPOTrainer with QLoRA and PEFT to make preference-based alignment feasible on a single Colab GPU. We train directly on the UltraFeedback binarized dataset, where each prompt has […]\nThe post How to Align Large Language Models with Human Preferences Using Direct Preference Optimization, QLoRA, and Ultra-Feedback appeared first on MarkTechPost.",
-        "image": "",
+        "image": "https://miro.medium.com/v2/1*wHBCLbrP9pwgAkU5kO3j0Q.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/12/how-to-align-large-language-models-with-human-preferences-using-direct-preference-optimization-qlora-and-ultra-feedback/",
         "date": "13 February 2026"
@@ -510,7 +510,7 @@
         "summary_en": "Google reports attackers sent over 100,000 prompts to Gemini in an attempt to clone the AI model.",
         "long_summary": "Google a identifié des campagnes massives de distillation ciblant Gemini.\n\nPoints clés :\n• Une campagne a envoyé plus de 100 000 prompts pour extraire les algorithmes de raisonnement\n• Les attaquants cherchaient à répliquer les capacités de Gemini à moindre coût\n• Google a ajusté les défenses de Gemini mais n'a pas détaillé les contre-mesures\n\nCes attaques illustrent la valeur croissante des modèles IA propriétaires.",
         "long_summary_en": "Google identified massive distillation campaigns targeting Gemini.\n\nKey points:\n• One campaign sent over 100,000 prompts to extract reasoning algorithms\n• Attackers aimed to replicate Gemini's capabilities at a fraction of the cost\n• Google adjusted Gemini's defenses but did not detail countermeasures\n\nThese attacks highlight the growing value of proprietary AI models.",
-        "image": "",
+        "image": "https://external-preview.redd.it/4V5E1hdGevAgrrQBGtxSMb7rktUARBfsao4FXcQTytM.jpeg?width=140&height=78&auto=webp&s=8bbda6b87ce7af4fa7b91ff0f6c687aed96c4788",
         "source": "Ars Technica",
         "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
         "date": "13 February 2026"
@@ -522,7 +522,7 @@
         "summary_en": "Alphabet&#x27;s (GOOGL.O), opens new tab Google and xAI have previously struck similar deals. In a statement, OpenAI said this week&#x27;s agreement is specific to unclassified use through genai.mil, ",
         "long_summary": "Le Pentagone cherche à renforcer sa collaboration avec les entreprises technologiques en les incitant à déployer leurs systèmes d'IA sur des réseaux classifiés.\n\nPoints clés :\n• Le Pentagone veut accélérer l'intégration de l'IA dans ses opérations militaires.\n• Les entreprises d'IA sont encouragées à partager leurs algorithmes sur des infrastructures sécurisées.\n• Cette initiative soulève des questions sur la confidentialité et la sécurité des données.\n\nCette approche pourrait transformer la manière dont les technologies d'IA sont utilisées dans le domaine militaire, mais elle suscite aussi des inquiétudes quant aux risques de cyberattaques et de fuites d'informations.",
         "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "",
+        "image": "https://dam.mediacorp.sg/image/upload/s--XmpsnNni--/c_fill,g_auto,h_468,w_830/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-12T004540Z_1_LYNXMPEM1B01I_RTROPTP_3_USA-PENTAGON-AI.JPG?itok=bNXJ3YGl",
         "source": "Reuters",
         "url": "https://www.reuters.com/business/pentagon-pushing-ai-companies-expand-classified-networks-sources-say-2026-02-12/",
         "date": "13 February 2026"
