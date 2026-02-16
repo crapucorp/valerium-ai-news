@@ -72,6 +72,65 @@ CATEGORIES_KEYWORDS = {
     "audio": ["audio", "music", "suno", "udio", "elevenlabs", "voice", "tts", "speech", "sound"],
 }
 
+# MAJOR AI PLAYERS - Articles about these get priority sorting (appear first)
+MAJOR_AI_PLAYERS = {
+    # Tier 1 - Highest priority (major labs)
+    "openai": 100,
+    "gpt-5": 100,
+    "gpt-4": 90,
+    "gpt": 80,
+    "chatgpt": 85,
+    "o1": 75,
+    "o3": 75,
+    "codex": 80,
+    "anthropic": 100,
+    "claude": 95,
+    "google deepmind": 100,
+    "deepmind": 95,
+    "gemini": 95,
+    "gemini 2": 100,
+    "gemini 3": 100,
+    "bard": 70,
+    # Tier 2 - High priority (major open source / rising stars)
+    "kimi": 90,
+    "moonshot": 85,
+    "deepseek": 90,
+    "llama": 85,
+    "llama 3": 90,
+    "llama 4": 95,
+    "mistral": 85,
+    "mixtral": 80,
+    "qwen": 80,
+    "yi": 70,
+    # Tier 3 - Notable players
+    "meta ai": 75,
+    "microsoft copilot": 70,
+    "copilot": 65,
+    "perplexity": 70,
+    "cohere": 65,
+    "stability ai": 65,
+    "hugging face": 70,
+    # Open source models
+    "open source": 60,
+    "open-source": 60,
+    "open weights": 65,
+}
+
+def score_article_priority(title, summary):
+    """Score article based on major AI players. Higher = show first."""
+    text = (title + " " + summary).lower()
+    score = 0
+    
+    for keyword, points in MAJOR_AI_PLAYERS.items():
+        if keyword in text:
+            # Title match = 1.5x points
+            if keyword in title.lower():
+                score += int(points * 1.5)
+            else:
+                score += points
+    
+    return score
+
 # Keywords to identify AI-related articles (MUST contain at least one)
 AI_KEYWORDS = [
     # Models & Products
@@ -711,14 +770,30 @@ def score_hot_news(articles):
     
     # PRIORITY KEYWORDS - base scoring for major AI players
     priority_keywords = {
-        "gemini": 20,      # Google's model
-        "gpt": 15,         # OpenAI GPT
-        "codex": 15,       # OpenAI Codex
-        "openai": 12,      # OpenAI company
-        "anthropic": 12,   # Anthropic/Claude
-        "claude": 12,      # Claude model
-        "deepseek": 10,    # DeepSeek
-        "agi": 10,         # AGI discussions
+        # Tier 1 - Major labs (highest priority)
+        "openai": 25,
+        "gpt-5": 30,
+        "gpt-4": 20,
+        "gpt": 18,
+        "chatgpt": 20,
+        "codex": 20,
+        "o1": 18,
+        "o3": 18,
+        "anthropic": 25,
+        "claude": 22,
+        "gemini": 25,
+        "deepmind": 22,
+        "google ai": 20,
+        # Tier 2 - Rising stars / Open source
+        "kimi": 22,
+        "moonshot": 18,
+        "deepseek": 22,
+        "llama": 18,
+        "mistral": 18,
+        "qwen": 15,
+        # General AI topics
+        "agi": 15,
+        "superintelligence": 12,
     }
     
     # BOOST keywords found in live trends (they're hot RIGHT NOW)
@@ -878,9 +953,21 @@ def merge_news(existing_data, new_articles):
         categories[cat].insert(0, news_item)
         added += 1
     
-    # Limit each category to 15 articles
+    # Sort each category by priority (major AI players first), then limit to 15
     for cat in categories:
-        categories[cat] = categories[cat][:15]
+        # Calculate priority score for each article
+        scored_articles = []
+        for article in categories[cat]:
+            title = article.get("title_en", "") or article.get("title", "")
+            summary = article.get("summary_en", "") or article.get("summary", "")
+            priority = score_article_priority(title, summary)
+            scored_articles.append((priority, article))
+        
+        # Sort by priority descending (highest first)
+        scored_articles.sort(key=lambda x: x[0], reverse=True)
+        
+        # Extract sorted articles and limit to 15
+        categories[cat] = [a[1] for a in scored_articles][:15]
     
     print(f"Added {added} new articles")
     
