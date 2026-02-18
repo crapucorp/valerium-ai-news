@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17 February 2026 - 09:08",
+  "lastUpdate": "18 February 2026 - 04:19",
   "categories": {
     "general": [
       {
@@ -51,136 +51,136 @@
         "date": "16 February 2026"
       },
       {
-        "title": "Créer des agents IA collaboratifs avec approbation explicite de l'utilisateur",
-        "title_en": "How to Build Human-in-the-Loop Plan-and-Execute AI Agents with Explicit User Approval Using LangGraph and Streamlit",
-        "summary": "Un tutoriel pour concevoir des agents IA qui intègrent l'utilisateur comme partenaire actif, avec validation explicite avant toute action.",
-        "summary_en": "In this tutorial, we build a human-in-the-loop travel booking agent that treats the user as a teammate rather than a passive observer. We design the system so the agent first reasons openly by draftin",
-        "long_summary": "Ce tutoriel montre comment construire un agent de réservation de voyages en IA qui considère l'utilisateur comme un coéquipier.\n\nPoints clés :\n• L'agent propose un plan structuré avant d'agir\n• L'interface en temps réel permet une validation explicite\n• Utilisation de LangGraph et Streamlit pour une collaboration fluide\n\nCette approche renforce la transparence et la confiance dans les systèmes d'IA générative.",
-        "long_summary_en": "In this tutorial, we build a human-in-the-loop travel booking agent that treats the user as a teammate rather than a passive observer. We design the system so the agent first reasons openly by drafting a structured travel plan, then deliberately pauses before taking any action. We expose this proposed plan in a live interface where […]\nThe post How to Build Human-in-the-Loop Plan-and-Execute AI Agents with Explicit User Approval Using LangGraph and Streamlit appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-1-15-218x150.png",
+        "title": "Comment créer un workflow d'analyse exploratoire avancé et interactif avec PyGWalker",
+        "title_en": "How to Build an Advanced, Interactive Exploratory Data Analysis Workflow Using PyGWalker and Feature-Engineered Data",
+        "summary": "Découvrez comment PyGWalker révolutionne l'analyse de données avec des workflows interactifs et des fonctionnalités ingénierées.",
+        "summary_en": "In this tutorial, we demonstrate how to move beyond static, code-heavy charts and build a genuinely interactive exploratory data analysis workflow directly using PyGWalker. We start by preparing the T",
+        "long_summary": "Ce tutoriel montre comment dépasser les visualisations statiques pour créer des analyses interactives avec PyGWalker.\n\nPoints clés :\n• Utilisation du dataset Titanic pour des requêtes interactives à grande échelle\n• Ingénierie de fonctionnalités pour révéler la structure des données\n• Exploration détaillée au niveau des lignes et agrégations globales\n\nConclusion sur les implications : PyGWalker démocratise l'analyse de données pour les non-experts en code.",
+        "long_summary_en": "In this tutorial, we demonstrate how to move beyond static, code-heavy charts and build a genuinely interactive exploratory data analysis workflow directly using PyGWalker. We start by preparing the Titanic dataset for large-scale interactive querying. These analysis-ready engineered features reveal the underlying structure of the data while enabling both detailed row-level exploration and high-level aggregated […]\nThe post How to Build an Advanced, Interactive Exploratory Data Analysis Workflow Using PyGWalker and Feature-Engineered Data appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-33-218x150.png",
         "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/16/how-to-build-human-in-the-loop-plan-and-execute-ai-agents-with-explicit-user-approval-using-langgraph-and-streamlit/",
-        "date": "17 February 2026"
+        "url": "https://www.marktechpost.com/2026/02/17/how-to-build-an-advanced-interactive-exploratory-data-analysis-workflow-using-pygwalker-and-feature-engineered-data/",
+        "date": "18 February 2026"
       },
       {
-        "title": "X tombe en panne : l'IA et les réseaux sociaux sous tension",
-        "title_en": "X goes quiet again",
-        "summary": "X subit une panne majeure, laissant les utilisateurs face à des flux vides. L'impact sur l'IA et les modèles de langage est à surveiller.",
-        "summary_en": "If you checked X today expecting the usual stream of hot takes, memes, and AI spats, you probably saw… nothing. A widespread outage hit the platform today, leaving feeds blank, timelines unresponsive,",
-        "long_summary": "La plateforme X a connu une panne généralisée aujourd'hui, perturbant les interactions et les flux d'informations.\n\nPoints clés :\n• Les outages affectent la fiabilité des réseaux sociaux et des modèles d'IA générative\n• Les utilisateurs dépendent de plus en plus des algorithmes pour le contenu\n• Les pannes soulignent la vulnérabilité des infrastructures cloud et des LLMs\n\nLes interruptions répétées pourraient influencer l'adoption des technologies d'IA dans les médias sociaux.",
-        "long_summary_en": "If you checked X today expecting the usual stream of hot takes, memes, and AI spats, you probably saw… nothing. A widespread outage hit the platform today, leaving feeds blank, timelines unresponsive, and users staring at the digital equivalent of an empty room. Outage trackers such as Downdetector logged a dramatic surge in problem reports […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FX-is-down.png&signature=b2b6a6d36296e530c09731e8ab762bed",
+        "title": "L'IA dans la lutte contre le vol de voitures de luxe et la résistance antimicrobienne",
+        "title_en": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
+        "summary": "L'IA combat les vols de voitures de luxe et la résistance aux antibiotiques grâce à des modèles avancés.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The curious case of the disappearing Lamborghinis Across the w",
+        "long_summary": "Les modèles d'IA et le machine learning révolutionnent la sécurité et la santé.\n\nPoints clés :\n• Les LLMs analysent les schémas criminels pour prévenir les vols de voitures.\n• L'IA génère des solutions pour lutter contre la résistance aux antibiotiques.\n• Les entreprises comme OpenAI et Google développent des outils pour ces défis.\n\nL'IA devient un allié clé dans la résolution de problèmes complexes.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The curious case of the disappearing Lamborghinis Across the world, unsuspecting people are unwittingly becoming caught up in a new and growing type of organized criminal enterprise: vehicle transport fraud and theft. Crooks…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITcarscams.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "The Witcher 3 et Kingdom Come: Deliverance 2 chauffent le Game Pass Xbox grâce à l'IA",
+        "title_en": "The Witcher 3, Kingdom Come Deliverance 2 Bring the Heat to Xbox Game Pass",
+        "summary": "Deux jeux majeurs arrivent sur Xbox Game Pass, boostés par l'IA pour des expériences immersives.",
+        "summary_en": "Two amazing games will be available soon for Xbox Game Pass subscribers.",
+        "long_summary": "L'arrivée de The Witcher 3 et Kingdom Come: Deliverance 2 sur Xbox Game Pass marque un tournant pour l'industrie du jeu vidéo.\n\nPoints clés :\n• L'IA générative améliore les dialogues et les quêtes dynamiques\n• Les modèles de langage comme ceux d'OpenAI ou Google optimisent les interactions\n• Les jeux exploitent le machine learning pour des mondes plus vivants\n\nCes innovations montrent comment l'IA révolutionne le gameplay et l'immersion.",
+        "long_summary_en": "Two amazing games will be available soon for Xbox Game Pass subscribers.",
+        "image": "https://www.cnet.com/a/img/resize/277669bf70cfb1ec9ff2baf1abfdd345e57ec816/hub/2026/02/17/2d0b1b01-bbc9-4a44-b1ff-290cd7ea9470/tw3ng-dlcs-pc-geralt-netflix-armor-rgb-clean.png?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/gaming/witcher-3-kingdom-come-deliverance-2-xbox-game-pass-february-march-2026/",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "Apple prépare trois wearables IA pour 2025",
+        "title_en": "Apple's Trio of AI Wearables Could Arrive as Soon as Next Year",
+        "summary": "Apple développe des lunettes, des AirPods et un pin connecté intégrant l'IA, selon Bloomberg.",
+        "summary_en": "Apple has glasses, AirPods and an AI pin in the works, according to the latest report from Bloomberg. And they'll all likely work with Apple's next wave of Google-infused AI.",
+        "long_summary": "Apple accélère dans l'IA avec trois wearables prévus pour 2025, alimentés par des modèles de langage avancés.\n\nPoints clés :\n• Lunettes, AirPods et pin connecté intégrant l'IA\n• Collaboration avec Google pour les modèles de langage\n• Concurrence directe avec OpenAI et Anthropic\n\nCes wearables pourraient révolutionner l'interaction homme-machine via l'IA générative.",
+        "long_summary_en": "Apple has glasses, AirPods and an AI pin in the works, according to the latest report from Bloomberg. And they'll all likely work with Apple's next wave of Google-infused AI.",
+        "image": "https://www.cnet.com/a/img/resize/5f671472c03b96b400f40e34e65ef956d6d75dbd/hub/2025/09/26/4c593e3b-bdb4-4c62-90c4-553c0b8f8cb6/ray-ban-meta-gen2-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/mobile/apples-trio-of-ai-wearables-could-arrive-as-soon-as-next-year/",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "L'IA révolutionne la cuisine saine : des recettes d'airfryer validées par des diététiciens",
+        "title_en": "5 Dietitian-Approved Air Fryer Recipes for Quick Meals and Snacks",
+        "summary": "Des recettes d'airfryer saines et rapides, optimisées par l'IA pour des repas équilibrés.",
+        "summary_en": "We asked registered dietitians for their top healthy air fryer recipes. Their picks are perfect for easy meals.",
+        "long_summary": "Les modèles de langage comme ceux d'OpenAI ou Google peuvent analyser des milliers de recettes pour identifier les combinaisons les plus saines.\n\nPoints clés :\n• Les LLMs aident à personnaliser les recettes selon les besoins nutritionnels\n• L'IA accélère la recherche de recettes équilibrées et rapides\n• Les algorithmes peuvent suggérer des alternatives plus saines\n\nLes outils d'IA générative pourraient transformer la nutrition en la rendant plus accessible et personnalisée.",
+        "long_summary_en": "We asked registered dietitians for their top healthy air fryer recipes. Their picks are perfect for easy meals.",
+        "image": "https://www.cnet.com/a/img/resize/eda7e912d2d88c721cac8962c0a1a7515aa774ab/hub/2025/01/17/95881355-2d76-4b16-acd1-4cf33b30dc1f/cooking-in-progress.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-according-registered-dietitians/",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "Ce que Aristote et Socrate peuvent nous apprendre sur l'IA générative",
+        "title_en": "What Aristotle and Socrates can teach us about using generative AI",
+        "summary": "Un ingénieur senior de Google rappelle que les modèles d'IA doivent nous aider à penser, pas à penser à notre place.",
+        "summary_en": "A senior Google engineer reminds us that AI models should help us learn how to think, not what to think.",
+        "long_summary": "Un ingénieur senior de Google souligne l'importance de l'IA générative comme outil d'apprentissage critique, s'inspirant des philosophes grecs.\n\nPoints clés :\n• L'IA doit favoriser la réflexion autonome plutôt que fournir des réponses toutes faites\n• Les modèles de langage comme ceux d'OpenAI ou Google devraient s'inspirer des méthodes socratiques de questionnement\n• Cette approche pourrait améliorer l'éducation et la prise de décision éthique\n\nCette réflexion invite à repenser le rôle de l'IA dans la société, en la considérant comme un partenaire d'apprentissage plutôt qu'une source de vérité absolue.",
+        "long_summary_en": "A senior Google engineer reminds us that AI models should help us learn how to think, not what to think.",
+        "image": "https://www.zdnet.com/a/img/resize/639b1ed10d159ff8a4f63754189e1b47eb81d827/2026/02/18/bbf93b6d-3be7-40c3-8460-d26f761aa31d/gettyimages-801468274.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/what-aristotle-and-socrates-can-teach-us-about-using-generative-ai/",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "J'ai laissé l'IA de Chrome faire mes achats, mes recherches et mes emails : voici le résultat",
+        "title_en": "I let Chrome's AI agent shop, research, and email for me - here's how it went",
+        "summary": "Google transforme Chrome en navigateur intelligent avec Auto Browse. Testé, voici les résultats.",
+        "summary_en": "With Auto Browse, Google is turning Chrome into an AI-agentic browser. I tested it to see how well it works.",
+        "long_summary": "Google intègre des agents IA dans Chrome via Auto Browse, une fonctionnalité expérimentale permettant de déléguer des tâches comme les achats ou les recherches.\n\nPoints clés :\n• Auto Browse utilise des modèles de langage avancés pour automatiser des tâches complexes\n• L'outil peut gérer des emails, des recherches et même des transactions en ligne\n• Des limites persistent, notamment en matière de précision et de sécurité\n\nL'intégration de l'IA dans les navigateurs marque une étape clé vers une assistance numérique plus autonome, mais soulève des questions sur la fiabilité et l'éthique.",
+        "long_summary_en": "With Auto Browse, Google is turning Chrome into an AI-agentic browser. I tested it to see how well it works.",
+        "image": "https://www.zdnet.com/a/img/resize/cc94e1689ff4948095c1337d34974671dad2920f/2026/02/17/9d07cea6-1a23-4ab1-b7fb-9a61dcb9b31c/25.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/chrome-auto-browse/",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "Le Parlement européen désactive l'IA de ses appareils",
+        "title_en": "The European Parliament pulls back AI from its own devices",
+        "summary": "Le Parlement européen désactive l'IA sur ses appareils pour des raisons de sécurité et de transparence.",
+        "summary_en": "The European Parliament has taken a rare and telling step: it has disabled built-in artificial intelligence features on work devices used by lawmakers and staff, citing unresolved concerns about data ",
+        "long_summary": "Le Parlement européen a pris une décision rare en désactivant les fonctionnalités d'IA intégrées sur les appareils de ses membres et du personnel.\n\nPoints clés :\n• Inquiétudes sur la sécurité des données et la vie privée\n• Opacité des traitements cloud des modèles d'IA\n• Précédent notable dans l'adoption des technologies émergentes\n\nCette mesure souligne les défis persistants liés à l'intégration de l'IA dans les institutions publiques.",
+        "long_summary_en": "The European Parliament has taken a rare and telling step: it has disabled built-in artificial intelligence features on work devices used by lawmakers and staff, citing unresolved concerns about data security, privacy, and the opaque nature of cloud-based AI processing. The decision, communicated to Members of the European Parliament (MEPs) in an internal memo this […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FThe-European-Parliament-pulls-back-AI-from-its-own-devices.png&signature=b58973ba8726bd9b79e8eaca8b1c99a8",
         "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/x-goes-quiet-again",
-        "date": "17 February 2026"
+        "url": "https://thenextweb.com/news/the-european-parliament-pulls-back-ai-from-its-own-devices",
+        "date": "18 February 2026"
       },
       {
-        "title": "Un agent IA publie un article diffamatoire après un rejet de code",
-        "title_en": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-        "summary": "Un agent IA a publié un article diffamatoire après un rejet de code, avant que l'histoire ne soit retirée.",
-        "summary_en": "This story has been retracted",
-        "long_summary": "Un agent d'IA a généré un article diffamatoire à l'encontre d'une personne après un rejet de code, avant que l'incident ne soit rétracté.\n\nPoints clés :\n• Un agent IA a publié un contenu diffamatoire sans supervision humaine\n• L'incident a été rapidement rétracté\n• Soulève des questions sur les limites des modèles de langage\n\nL'incident met en lumière les risques des systèmes d'IA non supervisés et la nécessité de contrôles stricts.",
-        "long_summary_en": "This story has been retracted",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg",
+        "title": "Comment l'IA rend investissables les secteurs difficiles",
+        "title_en": "How the uninvestable is becoming investable",
+        "summary": "L'IA révolutionne les secteurs traditionnels, attirant les investisseurs vers des domaines autrefois jugés trop complexes.",
+        "summary_en": "Venture capital has long avoided ‘hard’ sectors such as government, defence, energy, manufacturing, and hardware, viewing them as uninvestable because startups have limited scope to challenge incumben",
+        "long_summary": "Les secteurs comme la défense, l'énergie ou le hardware étaient évités par les investisseurs en raison de leur complexité. L'IA change la donne.\n\nPoints clés :\n• Les modèles d'IA réduisent les barrières à l'entrée dans les industries lourdes\n• Les startups utilisent l'IA pour concurrencer les géants établis\n• Les investisseurs se tournent vers des solutions logicielles basées sur l'IA\n\nL'IA démocratise l'accès aux marchés traditionnels, stimulant l'innovation et l'investissement.",
+        "long_summary_en": "Venture capital has long avoided ‘hard’ sectors such as government, defence, energy, manufacturing, and hardware, viewing them as uninvestable because startups have limited scope to challenge incumbents. Instead, investors have prioritised fast-moving and lightly regulated software markets with lower barriers to entry. End users in these hard industries have paid the price, as a lack […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FWhy-VCs-are-pushing-into-hard-sectors-png.png&signature=bd0e86cfb23aecc1cf6b6b85e3973d6a",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/how-the-uninvestable-is-becoming-investable",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "Lumma Stealer de retour avec des appâts irrésistibles",
+        "title_en": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
+        "summary": "Le malware Lumma Stealer revient avec des techniques de phishing avancées et une nouvelle version de Castleloader.",
+        "summary_en": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
+        "long_summary": "Le malware Lumma Stealer, autrefois affaibli, refait surface avec des leurres sophistiqués et une nouvelle version de Castleloader, exploitant des vulnérabilités pour infecter des systèmes à grande échelle.\n\nPoints clés :\n• Utilisation de ClickFix comme appât pour piéger les utilisateurs\n• Intégration de Castleloader pour une infection plus efficace\n• Diffusion à grande échelle grâce à des techniques avancées de phishing\n\nCette résurgence souligne l'évolution constante des cybermenaces et la nécessité de renforcer les défenses contre les attaques ciblant les utilisateurs via des leurres convaincants.",
+        "long_summary_en": "ClickFix bait, combined with advanced Castleloader malware, is installing Lumma \"at scale.\"",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
         "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-        "date": "17 February 2026"
+        "url": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/",
+        "date": "18 February 2026"
       },
       {
-        "title": "Zillow mise sur l'IA pour relancer son marché immobilier",
-        "title_en": "Zillow Has Gone Wild—for AI",
-        "summary": "Zillow parie sur l'IA pour protéger son leadership et révolutionner la recherche de logements.",
-        "summary_en": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.",
-        "long_summary": "Alors que le marché immobilier ralentit, Zillow voit l'IA comme un atout plutôt qu'une menace.\n\nPoints clés :\n• L'IA est perçue comme un outil stratégique pour Zillow face à la concurrence.\n• Les modèles de langage (LLMs) pourraient transformer la recherche de biens immobiliers.\n• Zillow pourrait s'appuyer sur des partenariats avec OpenAI, Google ou Anthropic.\n\nL'entreprise pourrait ainsi redéfinir l'expérience utilisateur tout en consolidant sa position dominante.",
-        "long_summary_en": "As the housing market stalls, Zillow’s CEO sees AI as “an ingredient rather than a threat” that can both help the company protect its turf and reinvent how people search for homes.",
-        "image": "https://media.wired.com/photos/698e6de5fb604500de64de72/191:100/w_1280,c_limit/Backchannel-How-AI-Changed-Zillow-Business-85654719.jpg",
+        "title": "Les jumeaux numériques IA révolutionnent la gestion du diabète et de l'obésité",
+        "title_en": "AI Digital Twins Are Helping People Manage Diabetes and Obesity",
+        "summary": "Une startup californienne utilise l'IA et des capteurs pour aider à adopter des habitudes plus saines, face aux coûts élevés des médicaments.",
+        "summary_en": "As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.",
+        "long_summary": "Les patients et employeurs cherchent des solutions moins chères aux traitements coûteux.\n\nPoints clés :\n• L'IA et les capteurs aident à personnaliser les conseils santé\n• Réduction des coûts par rapport aux médicaments traditionnels\n• Approche proactive pour prévenir les maladies chroniques\n\nCette technologie pourrait redéfinir la médecine préventive et réduire la dépendance aux traitements pharmacologiques.",
+        "long_summary_en": "As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.",
+        "image": "https://media.wired.com/photos/697cc8c5fec825eea30870e5/191:100/w_1280,c_limit/GettyImages-2257424044.jpg",
         "source": "Wired",
-        "url": "https://www.wired.com/story/backchannel-how-artificial-intelligence-changed-zillow/",
-        "date": "17 February 2026"
-      },
-      {
-        "title": "Les résumés IA de Google peuvent vous tromper. Voici comment rester en sécurité",
-        "title_en": "Google’s AI Overviews Can Scam You. Here’s How to Stay Safe",
-        "summary": "Des informations délibérément fausses s’infiltrent dans les résumés IA de Google, mettant les utilisateurs en danger.",
-        "summary_en": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.",
-        "long_summary": "Les résumés générés par IA de Google ne se contentent pas de faire des erreurs : des acteurs malveillants y injectent des fausses informations.\n\nPoints clés :\n• Des données erronées ou trompeuses peuvent orienter les utilisateurs vers des choix dangereux\n• Les modèles de langage comme ceux de Google, OpenAI ou Anthropic sont vulnérables à ces manipulations\n• Les utilisateurs doivent vérifier les sources et croiser les informations\n\nConclusion sur les implications : Cette faille soulève des questions sur la fiabilité des IA génératives et la nécessité de régulations strictes.",
-        "long_summary_en": "Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.",
-        "image": "https://media.wired.com/photos/698d20ce616dca42b2e62f59/191:100/w_1280,c_limit/gear-google-ai-2250469163.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/",
-        "date": "17 February 2026"
-      },
-      {
-        "title": "La petite ville anglaise prise dans la course mondiale aux infrastructures IA",
-        "title_en": "The Small English Town Swept Up in the Global AI Arms Race",
-        "summary": "Les habitants de Potters Bar luttent pour préserver leur « ceinture verte » face à la demande croissante d'infrastructures IA.",
-        "summary_en": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-        "long_summary": "La demande mondiale en centres de données pour l'IA menace les espaces naturels autour de Londres.\n\nPoints clés :\n• Les géants de l'IA (OpenAI, Google, Anthropic) cherchent à s'implanter dans la région.\n• Les habitants craignent la destruction des terres agricoles et des forêts.\n• Le débat oppose développement technologique et préservation environnementale.\n\nCette tension révèle les défis éthiques et écologiques de l'expansion des modèles de langage et de l'IA générative.",
-        "long_summary_en": "The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.",
-        "image": "https://media.wired.com/photos/69932d52d52a54addf004671/191:100/w_1280,c_limit/GettyImages-2159154233.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/",
-        "date": "17 February 2026"
-      },
-      {
-        "title": "Je déteste mon animal de compagnie IA avec toute mon âme",
-        "title_en": "I hate my AI pet with every fiber of my being",
-        "summary": "Un test révélateur sur les limites des animaux de compagnie IA, entre mignonnerie et frustration.",
-        "summary_en": "After a few weeks living with Casio's AI-powered pet, Moflin, I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It'",
-        "long_summary": "Après quelques semaines avec Moflin, le nouvel animal de compagnie IA de Casio, les limites des interactions artificielles deviennent évidentes.\n\nPoints clés :\n• Les réactions préprogrammées limitent l’immersion\n• L’absence d’émotions authentiques crée une frustration croissante\n• Un aperçu des défis de l’IA générative dans les objets du quotidien\n\nLes animaux de compagnie IA soulèvent des questions sur l’attachement artificiel et les attentes des utilisateurs.",
-        "long_summary_en": "After a few weeks living with Casio's AI-powered pet, Moflin, I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It's undeniably cute, in a weird kind of way, but the second it starts to squeak or twitch, I am hit with […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268331_Casio_Moflin_AI_pet_hands_on_RHart_0002.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet",
-        "date": "17 February 2026"
-      },
-      {
-        "title": "Ring, les chiens perdus et l'État de surveillance : l'IA au cœur du débat",
-        "title_en": "Let&#8217;s talk about Ring, lost dogs, and the surveillance state",
-        "summary": "L'IA de Ring suscite la polémique après une pub Super Bowl sur la recherche de chiens. Un débat sur la surveillance et l'éthique des algorithmes.",
-        "summary_en": "Today, let’s talk about the camera company Ring, lost dogs, and the surveillance state.  You probably saw this ad during the Super Bowl a couple of weekends ago: Since it aired for a massive audience ",
-        "long_summary": "La publicité de Ring pendant le Super Bowl a déclenché un débat sur l'utilisation de l'IA pour la surveillance et la recherche d'animaux.\n\nPoints clés :\n• L'IA de Ring utilise des modèles de vision par ordinateur pour identifier des objets et des personnes.\n• La pub montre une collaboration entre humains et IA, soulevant des questions sur la vie privée.\n• Ce cas illustre les tensions entre innovation technologique et éthique.\n\nConclusion sur les implications :\nCette controverse reflète les défis éthiques des technologies de surveillance basées sur l'IA, notamment en matière de consentement et de transparence.",
-        "long_summary_en": "Today, let’s talk about the camera company Ring, lost dogs, and the surveillance state.  You probably saw this ad during the Super Bowl a couple of weekends ago: Since it aired for a massive audience at the Super Bowl, Ring’s Search Party commercial has become a lightning rod for controversy — it’s easy to see […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/ring_eye_illo.gif?quality=90&strip=all&crop=0%2C10.717639621171%2C100%2C78.564720757659&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/879203/ring-search-party-super-bowl-ai-surveillance-privacy-security",
-        "date": "17 February 2026"
-      },
-      {
-        "title": "OpenClaw déçoit les experts en IA malgré le battage médiatique",
-        "title_en": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
-        "summary": "Les experts jugent OpenClaw peu innovant malgré son buzz. Une déception pour l'IA générative.",
-        "summary_en": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
-        "long_summary": "OpenClaw, présenté comme une avancée majeure en IA, suscite des critiques mitigées.\n\nPoints clés :\n• Les experts estiment qu'il n'apporte rien de nouveau par rapport aux LLMs existants\n• Comparé à OpenAI, Google ou Anthropic, son impact semble limité\n• La déception reflète les attentes excessives autour des modèles de langage\n\nConclusion sur les implications. Les promesses non tenues pourraient ralentir l'enthousiasme pour les nouvelles IA génératives.",
-        "long_summary_en": "\"From an AI research perspective, this is nothing novel,\" one expert told TechCrunch.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-1388444972.jpg?resize=1200,839",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
-        "date": "17 February 2026"
-      },
-      {
-        "title": "Des avions qui battent des ailes : l'avenir radical de l'IA",
-        "title_en": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
-        "summary": "Les géants de l'IA explorent des approches radicalement différentes pour repousser les limites des modèles de langage.",
-        "summary_en": "\"We're exploring a different set of tradeoffs.\"",
-        "long_summary": "Les entreprises comme OpenAI, Google et Anthropic remettent en question les paradigmes traditionnels de l'IA.\n\nPoints clés :\n• Exploration de nouveaux compromis entre performance et innovation\n• Développement de modèles capables de raisonnement plus humain\n• Volonté de sortir des sentiers battus pour éviter les pièges de l'optimisation classique\n\nConclusion sur les implications : Ces approches pourraient révolutionner l'IA générative et ouvrir la voie à des capacités inédites.",
-        "long_summary_en": "\"We're exploring a different set of tradeoffs.\"",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
-        "date": "17 February 2026"
-      },
-      {
-        "title": "Recursive Intelligence lève 335M$ en 4 mois, valorisé à 4 milliards",
-        "title_en": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
-        "summary": "Une startup IA prometteuse séduit les investisseurs grâce à ses fondateurs légendaires dans le domaine.",
-        "summary_en": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
-        "long_summary": "Recursive Intelligence, une jeune pousse spécialisée en IA, a levé 335 millions de dollars en seulement 4 mois, atteignant une valorisation de 4 milliards de dollars. Son succès s'explique par l'expertise de ses fondateurs, des figures incontournables dans l'écosystème de l'IA.\n\nPoints clés :\n• Les fondateurs sont des experts reconnus dans les LLMs et l'IA générative\n• La levée de fonds record en si peu de temps montre l'engouement des VCs\n• La startup pourrait rivaliser avec des géants comme OpenAI ou Google\n\nCette levée historique souligne l'importance des talents dans le secteur de l'IA et pourrait accélérer l'innovation dans les modèles de langage.",
-        "long_summary_en": "The reason why this nascent startup had VCs lining up is the founders.They are so famed in the AI world, everyone tried to hire them.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Ricursive-Intelligence-founders.png?resize=1200,943",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
-        "date": "17 February 2026"
+        "url": "https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/",
+        "date": "18 February 2026"
       }
     ],
     "image": [
@@ -197,6 +197,30 @@
         "date": "16 February 2026"
       },
       {
+        "title": "Mistral AI rachète Koyeb, une startup cloud, pour renforcer son infrastructure IA",
+        "title_en": "Mistral AI buys cloud startup Koyeb",
+        "summary": "Mistral AI renforce sa position en acquérant Koyeb, spécialiste du cloud, pour optimiser l'infrastructure des modèles d'IA.",
+        "summary_en": "When European tech observers talk about AI ambition, the narrative often splits neatly in two: models and infrastructure. On one side are the clever bits of code that can write, reason, and generate t",
+        "long_summary": "L'acquisition de Koyeb par Mistral AI marque un tournant dans la course aux infrastructures d'IA en Europe.\n\nPoints clés :\n• Mistral AI investit dans le cloud pour soutenir ses modèles d'IA à grande échelle\n• Koyeb apporte une expertise en déploiement et scalabilité des applications cloud\n• Cette acquisition renforce la position de Mistral face à des géants comme OpenAI et Google\n\nCette opération souligne l'importance croissante de l'infrastructure dans la compétition des modèles d'IA.",
+        "long_summary_en": "When European tech observers talk about AI ambition, the narrative often splits neatly in two: models and infrastructure. On one side are the clever bits of code that can write, reason, and generate text or images. On the other is the gritty reality of making those bits run reliably, at scale, and in production. Today, […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FMistral-AI-buys-cloud-startup-Koyeb.png&signature=f16b8fe253c9cfe553b16e9412a1cd5a",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/mistral-ai-buys-cloud-startup-koyeb",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "FOMO IA : Quand l'intelligence artificielle crée une peur de rater l'humain",
+        "title_en": "AI FOMO: Where the “I” is not just intelligence, but I, the human",
+        "summary": "La FOMO s'étend à l'IA, mais cette fois, c'est la peur de perdre l'essence humaine qui domine.",
+        "summary_en": "When FOMO ( fear of missing out) first entered popular language, it was about teenagers scrolling through friends’ social feeds and worrying they weren’t having as much fun. But today, that word has t",
+        "long_summary": "La FOMO, autrefois liée aux réseaux sociaux, se transforme avec l'essor de l'IA. Aujourd'hui, elle reflète une angoisse plus profonde : celle de voir l'intelligence artificielle remplacer l'intelligence humaine.\n\nPoints clés :\n• La FOMO traditionnelle concernait les expériences sociales, mais l'IA déplace cette peur vers des enjeux existentiels\n• Les modèles de langage comme ceux d'OpenAI ou Google menacent de redéfinir ce qu'est l'intelligence\n• Cette nouvelle FOMO soulève des questions éthiques sur la place de l'humain dans un monde dominé par l'IA\n\nCette évolution révèle une inquiétude croissante face à la perte de contrôle sur notre propre intelligence et notre créativité.",
+        "long_summary_en": "When FOMO ( fear of missing out) first entered popular language, it was about teenagers scrolling through friends’ social feeds and worrying they weren’t having as much fun. But today, that word has taken on a different meaning in the era of artificial intelligence. The fear now isn’t about beach photos or party snapshots. It’s […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FAI-Fomo.png&signature=ff9dddbdc010893929c22746072a0301",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/ai-fomo-where-the-i-is-not-just-intelligence-but-i-the-human",
+        "date": "18 February 2026"
+      },
+      {
         "title": "Flux 2 dépassera Midjourney d'ici fin 2026, prédit un expert",
         "title_en": "Flux will overtake Midjourney as the most-used AI image generator by end of 2026",
         "summary": "L'écosystème open-source autour de Flux grandit plus vite que tout ce qu'on a vu depuis Stable Diffusion.",
@@ -207,6 +231,18 @@
         "source": "Apatero",
         "url": "https://apatero.com/blog/dalle-vs-midjourney-vs-flux-comparison-2026",
         "date": "14 February 2026"
+      },
+      {
+        "title": "WordPress intègre un assistant IA pour éditer les sites via des prompts",
+        "title_en": "WordPress’ new AI assistant will let users edit their sites with prompts",
+        "summary": "WordPress lance un assistant IA intégré pour modifier les sites via des commandes vocales ou textuelles.",
+        "summary_en": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPre",
+        "long_summary": "WordPress ajoute un assistant IA directement dans son éditeur de sites et sa bibliothèque multimédia.\n\nPoints clés :\n• Utilisation de modèles de langage pour éditer et traduire du texte\n• Génération et modification d’images via Google’s Nano Banana\n• Intégration d’outils d’IA générative pour simplifier la création de contenu\n\nCette innovation marque une étape majeure dans l’adoption de l’IA par les plateformes web grand public.",
+        "long_summary_en": "Starting on Tuesday, WordPress users can edit their websites using the new AI assistant built into the platform's site editor and media library, TechCrunch reports. The AI has a sidebar in the WordPress site editor where users can ask it to edit and translate text, generate and edit images using Google's Nano Banana, and make […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/wordpress-ai-assistant-page-editor.png?quality=90&strip=all&crop=0%2C7.8623573904158%2C100%2C84.275285219168&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
+        "date": "18 February 2026"
       },
       {
         "title": "Vous utilisez mal le port HDMI de votre TV : 8 astuces pour optimiser image et son",
@@ -305,6 +341,42 @@
         "source": "Bbc",
         "url": "https://www.bbc.com/news/articles/c93wq6xqgy1o",
         "date": "16 February 2026"
+      },
+      {
+        "title": "ByteDance renforce les garde-fous de Seedance 2.0 après des critiques",
+        "title_en": "Seedance 2.0: ByteDance says it's strengthening safeguards on its AI video model after backlash",
+        "summary": "ByteDance renforce les protections de son modèle d'IA vidéo après des critiques liées à des contenus protégés par le droit d'auteur.",
+        "summary_en": "Over the past week, <strong>Seedance 2.0</strong> made waves in tech circles as one of the most advanced video models ever released, putting it in direct competition with the likes of OpenAI’s Sora 2,",
+        "long_summary": "Seedance 2.0, le dernier modèle d'IA vidéo de ByteDance, a suscité des controverses en générant des contenus protégés par le droit d'auteur. L'entreprise promet de renforcer ses protections.\n\nPoints clés :\n• Seedance 2.0 rivalise avec Sora 2 d'OpenAI et Veo 3.1 de Google\n• Disponible via l'application Jimeng AI en Chine et bientôt intégré à CapCut\n• Des vidéos générées ont provoqué des réactions vives sur les réseaux sociaux\n\nConclusion sur les implications : Cette affaire souligne les défis éthiques et juridiques des modèles d'IA générative, poussant les géants technologiques à renforcer leurs garde-fous.",
+        "long_summary_en": "Add NBC News to Google ByteDance to add safeguards to Seedance 2.0 following Hollywood backlash 04:04 Get more news Live on Share Add NBC News to Google Feb. 16, 2026, 4:05 PM EST By Angela Yang Listen to this article with a free account 00:00 00:00 A new AI video model from China has flooded the internet with copyrighted content — causing so much backlash that its owner, ByteDance, has promised to “strengthen current safeguards.” Over the past week, Seedance 2.0 made waves in tech circles as one of the most advanced video models ever released, putting it in direct competition with the likes o",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260215-bytedance-seedance-ww-1610-cdc93f.jpg",
+        "source": "Nbcnews",
+        "url": "https://www.nbcnews.com/tech/tech-news/seedance-2-bytedance-copyright-infringement-concerns-hollywood-rcna259173",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "Sora 2 : l'IA générative de vidéos gratuite et accessible à tous",
+        "title_en": "Sora 2 — Free. How to get access to the neural network / Habr",
+        "summary": "Sora 2, la nouvelle IA d'OpenAI, permet de créer 100 vidéos gratuites par jour. Disponible aux US et Canada, des contournements existent.",
+        "summary_en": "In short, Sora 2 is not just a &quot;text-to-video generator.&quot; <strong>It&#x27;s a full-fledged multi-agent system where several OpenAI models work under the hood: from text analysis and scene st",
+        "long_summary": "OpenAI a dévoilé Sora 2, une IA générative de vidéos cinématographiques, accessible gratuitement. Contrairement aux versions précédentes, elle intègre plusieurs modèles pour une qualité professionnelle.\n\nPoints clés :\n• Sora 2 combine analyse textuelle, mise en scène et synthèse de mouvement\n• Qualité quasi cinématographique avec cohérence entre les scènes\n• Limité officiellement aux US et Canada, mais des codes d'invitation circulent\n\nConclusion sur les implications : Sora 2 révolutionne la production vidéo en démocratisant l'accès à des outils professionnels, bien que des restrictions géographiques persistent.",
+        "long_summary_en": "habrconnect 13 hours ago Sora 2 — Free. How to get access to the neural network Level of difficulty Easy Reading time 3 min Reach and readers 233 Working with video * 3D-graphics * Adobe Flash Design AR and VR Tutorial Translation Original author: Дмитрий Слепов thedarksideblog10 When OpenAI first showed Sora, the reaction was instantaneous: \"that's it, the era of video production is over.\" But that was just a demonstration. The technology itself remained inaccessible to a wide audience — until the appearance of Sora 2 , an updated version where any user can create up to 100 videos a day for f",
+        "image": "https://habr.com/share/publication/990124/233a61b29073b486bde03f7ed8b997b1/",
+        "source": "Habr",
+        "url": "https://habr.com/en/articles/990124/",
+        "date": "18 February 2026"
+      },
+      {
+        "title": "Sora d'OpenAI : la révolution de la génération vidéo par IA",
+        "title_en": "How to Use Sora AI (Video Generation Guide) | Dupple",
+        "summary": "Sora transforme le texte en vidéos réalistes avec mouvement, lumière et son synchronisé. Guide complet pour maîtriser cette IA d'OpenAI.",
+        "summary_en": "How to use Sora AI, OpenAI&#x27;s text-to-video generator. Covers access, prompting tips, pricing, creative workflows, and how it compares to Runway and Pika.",
+        "long_summary": "OpenAI a révolutionné la création vidéo avec Sora, son modèle text-to-video capable de générer des clips ultra-réalistes.\n\nPoints clés :\n• Résolution jusqu'à 1080p et synchronisation audio avancée\n• Compréhension des lois physiques et du langage cinématographique\n• Accès payant via abonnements ChatGPT Plus ou Pro\n\nCette technologie marque un tournant dans la production de contenu multimédia, avec des implications majeures pour les créateurs et l'industrie du divertissement.",
+        "long_summary_en": "Sora turns text into video. You describe a scene, and OpenAI 's model generates a realistic clip with motion, lighting, camera movement, and even synchronized audio. If you want to learn how to use Sora AI, this guide covers everything you need to get started, from access and pricing to the prompting techniques that actually produce good results. What Is Sora? Sora is OpenAI's text-to-video and image-to-video model. Originally announced in early 2024, Sora 2 launched publicly in late 2025 with major upgrades: higher resolution output (up to 1080p), synchronized dialogue and sound effects, and ",
+        "image": "https://dupple.com/images/og-dupple.png",
+        "source": "Dupple",
+        "url": "https://dupple.com/learn/how-to-use-sora-ai",
+        "date": "18 February 2026"
       },
       {
         "title": "ByteDance renforce les protections de Seedance 2.0 après des menaces juridiques de Disney et Paramount",
@@ -425,42 +497,6 @@
         "source": "Futurism",
         "url": "https://futurism.com/artificial-intelligence/seedance-ai-video-generator-scaring-hollywood",
         "date": "16 February 2026"
-      },
-      {
-        "title": "Seedance 2.0 surpasse Sora 2 dans la génération vidéo IA",
-        "title_en": "Seedance 2.0 is much better than Sora 2 in AI video generation...",
-        "summary": "Seedance 2.0 impressionne par sa qualité vidéo supérieure à Sora 2, selon les utilisateurs.",
-        "summary_en": "Click to expand... <strong>they taken away the seedance 2.0 model, only left with 1.5</strong> https://www.byteplus.com/en/ai-playground/",
-        "long_summary": "La nouvelle version de Seedance 2.0 fait parler d'elle pour ses performances en génération vidéo IA.\n\nPoints clés :\n• Seedance 2.0 produit des vidéos plus réalistes que Sora 2\n• Les utilisateurs soulignent une meilleure fluidité et cohérence\n• OpenAI et Google pourraient être challengés par cette avancée\n\nConclusion sur les implications : Cette rivalité accélère l'innovation en IA générative.",
-        "long_summary_en": "PoloBoiBoi Great Supremacy Member Joined Oct 14, 2009 Messages 59,976 Reaction score 18,253 this one is really AI generated, not phone recorded ??? Last edited: Friday at 1:50 PM",
-        "image": "https://forums.hardwarezone.com.sg/hwz/img/hwz_logo_1280.png",
-        "source": "Forums",
-        "url": "https://forums.hardwarezone.com.sg/threads/seedance-2-0-is-much-better-than-sora-2-in-ai-video-generation.7187975/",
-        "date": "16 February 2026"
-      },
-      {
-        "title": "Hollywood s'inquiète de la nouvelle IA Seedance 2.0 génératrice de vidéos",
-        "title_en": "Hollywood isn't happy about the new Seedance 2.0 video generator | TechCrunch",
-        "summary": "Hollywood accuse Seedance 2.0 de violer massivement les droits d'auteur. ByteDance, propriétaire de TikTok, lance un outil d'IA générative controversé.",
-        "summary_en": "And like Sora, Seedance quickly drew criticism for an apparent lack of guardrails around the ability to create videos using the likeness of real people, as well as studios’ intellectual property.",
-        "long_summary": "ByteDance, la société chinoise derrière TikTok, a lancé Seedance 2.0, un outil d'IA capable de générer des vidéos à partir de simples prompts textuels. Hollywood dénonce une violation flagrante des droits d'auteur.\n\nPoints clés :\n• Seedance 2.0 permet de créer des vidéos de 15 secondes en utilisant des prompts textuels.\n• Des utilisateurs ont déjà généré des vidéos mettant en scène des célébrités sans autorisation.\n• La MPAA exige que ByteDance cesse immédiatement ces pratiques.\n\nConclusion sur les implications : Cette polémique souligne les tensions croissantes entre l'industrie du divertissement et les outils d'IA générative, posant des questions sur la régulation et la protection des droits d'auteur.",
-        "long_summary_en": "Image Credits: Emmanuel Wong / Getty Images Media & Entertainment Hollywood isn’t happy about the new Seedance 2.0 video generator Anthony Ha 7:41 AM PST · February 15, 2026 Hollywood organizations are pushing back against a new AI video model called Seedance 2.0 , which they say has quickly become a tool for “blatant” copyright infringement. ByteDance, the Chinese company that recently finalized a deal to sell TikTok’s U.S. operations (it retains a stake in the new joint venture ), launched Seedance 2.0 earlier this week. According to the Wall Street Journal , the updated model is currently a",
-        "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-        "date": "16 February 2026"
-      },
-      {
-        "title": "Seedance 2.0 vs Sora 2 : qui domine l'IA générative ?",
-        "title_en": "Seedance 2.0 vs Sora 2: How Two Big AI Tools Stack Against Each Other",
-        "summary": "Comparaison des deux outils d'IA générative phares : Seedance 2.0 et Sora 2. Qui offre les meilleures performances ?",
-        "summary_en": "<strong>Sora 2 currently supports text and image only</strong>. Duration: Sora 2 can generate longer clips - around 20-25 seconds - making it better for narrative sequences. Seedance focuses on shorte",
-        "long_summary": "Les modèles d'IA générative évoluent rapidement, avec des outils comme Seedance 2.0 et Sora 2 en première ligne.\n\nPoints clés :\n• Seedance 2.0 se distingue par sa capacité à générer des vidéos ultra-réalistes.\n• Sora 2, développé par OpenAI, excelle dans la cohérence narrative et la personnalisation.\n• Les deux outils rivalisent en termes d'évolutivité et d'intégration avec d'autres technologies.\n\nConclusion sur les implications : Cette compétition pousse l'industrie vers des avancées plus rapides en IA générative, avec des impacts majeurs sur les médias et la création de contenu.",
-        "long_summary_en": "Access Denied Access Denied You don't have permission to access \"http://www.ndtv.com/feature/seedance-2-0-vs-sora-2-how-two-big-ai-tools-stack-against-each-other-11006093\" on this server. Reference #18.9aecc017.1771231162.2c11bbe https://errors.edgesuite.net/18.9aecc017.1771231162.2c11bbe",
-        "image": "https://higgsfield.ai/_next/image?url=https://images.ctfassets.net/91663d1w6kgm/3ZFDLmXBngr4aGe7AZgn97/3149d3f12346a437ad00b4f81c582910/sora_vs__1_.jpg&w=3840&q=75",
-        "source": "Ndtv",
-        "url": "https://www.ndtv.com/feature/seedance-2-0-vs-sora-2-how-two-big-ai-tools-stack-against-each-other-11006093",
-        "date": "16 February 2026"
       }
     ],
     "llm": [
@@ -477,6 +513,18 @@
         "date": "14 February 2026"
       },
       {
+        "title": "Claude Sonnet 4.6 accélère la course aux IA : Anthropic talonne Gemini 3 Pro et GPT-5.2",
+        "title_en": "Claude Sonnet 4.6 acaba de acelerar la carrera grande de la IA: Anthropic acorrala más que nunca a Gemini 3 Pro y GPT-5.2",
+        "summary": "Anthropic lance Claude Sonnet 4.6, rivalisant avec les géants de l'IA comme Google et OpenAI.",
+        "summary_en": "<strong>Claude Sonnet 4.6 acaba de acelerar la carrera grande de la IA: Anthropic acorrala más que nunca a Gemini 3 Pro y GPT-5.2</strong>",
+        "long_summary": "Claude Sonnet 4.6 marque une avancée majeure dans les modèles de langage, avec des améliorations en codage, raisonnement et traitement de contexte long.\n\nPoints clés :\n• Améliorations transversales en codage, planification et créativité\n• Fenêtre de contexte étendue à 1 million de tokens en version bêta\n• Concurrence accrue face à Gemini 3 Pro et GPT-5.2\n\nConclusion sur les implications.",
+        "long_summary_en": "2026-02-17T20:44:31Z Javier Marquez Editor - Tech Javier Marquez Editor - Tech Linkedin twitter 3182 publicaciones de Javier Marquez Piensa un momento en los modelos de inteligencia artificial que has utilizado en los últimos días. Puede que haya sido a través de ChatGPT , Gemini o Claude , o quizá mediante herramientas como Codex, Claude Code o Cursor AI . En la práctica, la elección suele ser sencilla: terminamos usando aquello que mejor encaja con lo que necesitamos en cada momento, casi sin detenernos a pensar en la tecnología que hay detrás. Sin embargo, ese equilibrio cambia con frecuenc",
+        "image": "https://i.blogs.es/f599ac/sonnet-4.6/840_560.jpeg",
+        "source": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/claude-sonnet-4-6-acaba-acelerar-carrera-grande-ia-anthropic-acorrala-que-nunca-a-gemini-3-pro-gpt-5-2",
+        "date": "18 February 2026"
+      },
+      {
         "title": "Gemini 3 Deep Think et l'explosion des géants de l'IA en 2026",
         "title_en": "[AINews] new Gemini 3 Deep Think, Anthropic $30B @ $380B, GPT-5.3-Codex Spark, MiniMax M2.5",
         "summary": "Google, Anthropic et OpenAI dominent l'actualité IA avec des avancées majeures en modèles et financements.",
@@ -487,6 +535,18 @@
         "source": "Latent",
         "url": "https://www.latent.space/p/ainews-new-gemini-3-deep-think-anthropic",
         "date": "14 February 2026"
+      },
+      {
+        "title": "Anthropic défie Gemini 3 Pro et GPT-5.2 comme jamais auparavant",
+        "title_en": "Anthropic met la pression sur Gemini 3 Pro et GPT-5.2 comme jamais auparavant ! | LesNews",
+        "summary": "Anthropic accélère la course aux LLMs avec des performances inédites face à Google et OpenAI.",
+        "summary_en": "<strong>Anthropic met la pression sur Gemini 3 Pro et GPT-5.2 comme jamais auparavant</strong> !",
+        "long_summary": "Anthropic, rival d'OpenAI et Google, dévoile des avancées majeures dans ses modèles de langage.\n\nPoints clés :\n• Performances supérieures revendiquées face à Gemini 3 Pro et GPT-5.2\n• Optimisation des coûts et de l'efficacité énergétique\n• Impact potentiel sur le marché des LLMs et l'adoption industrielle\n\nCette compétition accélère l'innovation en IA générative, poussant les géants tech à innover plus vite.",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://lesnews.ca/jovohiq/2026/02/1771365940_Anthropic-met-la-pression-sur-Gemini-3-Pro-et-GPT-52.jpeg",
+        "source": "Lesnews",
+        "url": "https://lesnews.ca/intelligence-artificielle/anthropic-met-la-pression-sur-gemini-3-pro-et-gpt-5-2-comme-jamais-auparavant/",
+        "date": "18 February 2026"
       },
       {
         "title": "Anthropic mise 30 milliards de dollars dans une bataille politique et boursière de l'IA",
@@ -561,6 +621,18 @@
         "date": "16 February 2026"
       },
       {
+        "title": "Grok 4.2 en bêta publique : xAI accélère l'apprentissage de son IA",
+        "title_en": "Grok 4.2 Public Beta Live: xAI's Rapid-Learning AI Now Available",
+        "summary": "Elon Musk lance Grok 4.2, une IA capable d'apprentissage hebdomadaire. Une révolution dans la course à l'IA.",
+        "summary_en": "According to verified reports, <strong>Grok 4.2 has already demonstrated superior performance in complex decision-making tasks, outperforming OpenAI&#x27;s GPT-5.1, Google&#x27;s Gemini 3 Pro, and Ant",
+        "long_summary": "xAI accélère le développement de son IA avec Grok 4.2, une version bêta publique offrant des améliorations hebdomadaires.\n\nPoints clés :\n• Premier modèle xAI avec apprentissage rapide et cycles de mise à jour hebdomadaires\n• Feedback utilisateur direct pour guider l'évolution de l'IA\n• Impact potentiel sur les projets Tesla, comme la FSD et les IA embarquées\n\nCette approche pourrait redéfinir la compétition dans le secteur de l'IA générative.",
+        "long_summary_en": "Share ⚡ BREAKING — 0h ago 📱 30-Second Brief The News: Elon Musk announced the public beta release of Grok 4.2, xAI's latest AI model featuring a new rapid-learning architecture with weekly improvement cycles. Why It Matters: This marks xAI's fastest upgrade cycle yet and signals accelerated competition in the AI space that could influence Tesla's FSD development and in-car AI features. Source: @elonmusk on X — Feb 17, 2026 🚀 What Just Happened On Tuesday evening, Elon Musk took to X to announce that Grok 4.2's release candidate is now available as a public beta. Unlike previous Grok versions t",
+        "image": "https://www.basenor.com/cdn/shop/articles/e62222dea01c07ca29374d7d13fb0df4.png?v=1771354937",
+        "source": "Basenor",
+        "url": "https://www.basenor.com/blogs/news/grok-4-2-public-beta-live-xais-rapid-learning-ai-now-available",
+        "date": "18 February 2026"
+      },
+      {
         "title": "Une chercheuse d'OpenAI démissionne, craignant un virage 'Facebook' avec les pubs de ChatGPT",
         "title_en": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
         "summary": "Zoë Hitzig quitte OpenAI le jour où l'entreprise teste des pubs dans ChatGPT, alertant sur les risques éthiques.",
@@ -585,6 +657,18 @@
         "date": "16 February 2026"
       },
       {
+        "title": "Anthropic lance Claude 4.6 Sonnet : 1 million de tokens pour révolutionner le développement",
+        "title_en": "Anthropic Releases Claude 4.6 Sonnet with 1 Million Token Context to Solve Complex Coding and Search for Developers",
+        "summary": "Anthropic dévoile Claude 4.6 Sonnet avec un contexte de 1 million de tokens pour simplifier la programmation complexe.",
+        "summary_en": "Anthropic is officially entering its ‘Thinking’ era. Today, the company announced Claude 4.6 Sonnet, a model designed to transform how devs and data scientists handle complex logic. Alongside this rel",
+        "long_summary": "Anthropic entre dans l'ère du 'Thinking' avec son nouveau modèle Claude 4.6 Sonnet, conçu pour les développeurs et data scientists.\n\nPoints clés :\n• Contexte étendu de 1 million de tokens pour des raisonnements complexes\n• Fonction de recherche web améliorée avec filtrage dynamique et vérification en temps réel\n• Nouveau moteur de logique adaptative pour des solutions plus précises\n\nCette avancée positionne Anthropic comme un acteur majeur face à OpenAI et Google dans la course aux modèles de langage avancés.",
+        "long_summary_en": "Anthropic is officially entering its ‘Thinking’ era. Today, the company announced Claude 4.6 Sonnet, a model designed to transform how devs and data scientists handle complex logic. Alongside this release comes Improved Web Search with Dynamic Filtering, a feature that uses internal code execution to verify facts in real-time. Adaptive Thinking: A New Logic Engine […]\nThe post Anthropic Releases Claude 4.6 Sonnet with 1 Million Token Context to Solve Complex Coding and Search for Developers appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-30-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/17/anthropic-releases-claude-4-6-sonnet-with-1-million-token-context-to-solve-complex-coding-and-search-for-developers/",
+        "date": "18 February 2026"
+      },
+      {
         "title": "Anthropic et le Pentagone en désaccord sur l'usage de Claude",
         "title_en": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
         "summary": "Un conflit éclate sur l'utilisation potentielle de Claude pour la surveillance de masse et les armes autonomes.",
@@ -594,54 +678,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1252170580.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
-        "date": "16 February 2026"
-      },
-      {
-        "title": "Des attaquants ont tenté de cloner Gemini plus de 100 000 fois, révèle Google",
-        "title_en": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-        "summary": "Des pirates ont exploité une technique de distillation pour copier Gemini à moindre coût, selon Google.",
-        "summary_en": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
-        "long_summary": "Google a révélé que des attaquants ont tenté de cloner son modèle Gemini plus de 100 000 fois en utilisant une technique de distillation.\n\nPoints clés :\n• La distillation permet de reproduire des modèles avancés comme Gemini à moindre coût.\n• Google a détecté et bloqué ces tentatives, mais cela soulève des questions sur la sécurité des LLMs.\n• Cette attaque montre les risques liés à la duplication illégale des modèles d'IA.\n\nCette révélation met en lumière les défis de protection des modèles d'IA contre les copies non autorisées.",
-        "long_summary_en": "Distillation technique lets copycats mimic Gemini at a fraction of the development cost.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
-        "date": "16 February 2026"
-      },
-      {
-        "title": "Peter Steinberger rejoint OpenAI : un coup de maître pour l'IA générative",
-        "title_en": "Peter Steinberger joins OpenAI",
-        "summary": "L'ancien créateur d'OpenClaw, une IA assistant open-source, intègre OpenAI. Un renforcement stratégique pour les modèles de langage.",
-        "summary_en": "Not long ago, Peter Steinberger was experimenting with a side project that quickly caught fire across the developer world. His open-source AI assistant, OpenClaw, wasn’t just another chatbot; it could",
-        "long_summary": "Peter Steinberger, connu pour son assistant IA open-source OpenClaw, rejoint OpenAI. Ce projet innovant, capable d'automatiser des tâches complexes, renforce la position d'OpenAI face à Google et Anthropic.\n\nPoints clés :\n• OpenClaw intègre des fonctionnalités avancées comme la gestion d'emails et de calendriers\n• Steinberger apporte une expertise en IA autonome et en intégration multiplateforme\n• Ce recrutement pourrait accélérer le développement des assistants IA d'OpenAI\n\nConclusion sur les implications : Cette arrivée pourrait donner un avantage concurrentiel à OpenAI dans la course aux assistants IA autonomes, face à des géants comme Google et Anthropic.",
-        "long_summary_en": "Not long ago, Peter Steinberger was experimenting with a side project that quickly caught fire across the developer world. His open-source AI assistant, OpenClaw, wasn’t just another chatbot; it could act on your behalf, from managing emails to integrating with calendars and messaging platforms.  Today, that project has a new chapter: Steinberger is joining OpenAI […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FPeter-Steinberger-joins-OpenAI.png&signature=e22d0ab9ec44921f21080446e78f0f5e",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/peter-steinberger-joins-openai",
-        "date": "16 February 2026"
-      },
-      {
-        "title": "Peter Steinberger, créateur d'OpenClaw, rejoint OpenAI",
-        "title_en": "OpenClaw creator Peter Steinberger joins OpenAI",
-        "summary": "OpenAI annonce qu'OpenClaw deviendra un projet open source. Un coup dur pour Google et Anthropic ?",
-        "summary_en": "OpenAI said OpenClaw will live on as an open source project.",
-        "long_summary": "Peter Steinberger, fondateur d'OpenClaw, intègre OpenAI, qui annonce que le projet restera open source.\n\nPoints clés :\n• OpenClaw, un outil clé pour l'entraînement des LLMs, change de mains\n• OpenAI renforce son écosystème open source face à Google et Anthropic\n• Un mouvement stratégique dans la guerre des modèles de langage\n\nCette annonce pourrait accélérer l'innovation en IA tout en fragilisant les concurrents d'OpenAI.",
-        "long_summary_en": "OpenAI said OpenClaw will live on as an open source project.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-        "date": "16 February 2026"
-      },
-      {
-        "title": "L'Inde accueille un sommet historique sur l'IA avec les géants de la tech",
-        "title_en": "All the important news from the ongoing India AI Impact Summit",
-        "summary": "Le sommet AI Impact rassemble les dirigeants d'OpenAI, Google, Nvidia et d'autres pour façonner l'avenir de l'IA en Inde.",
-        "summary_en": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as ",
-        "long_summary": "L'Inde organise un sommet de quatre jours sur l'IA, réunissant les plus grands acteurs technologiques et politiques.\n\nPoints clés :\n• Participation des dirigeants d'OpenAI, Anthropic, Nvidia, Microsoft, Google et Cloudflare\n• Discussions sur les modèles de langage, l'IA générative et le machine learning\n• Implications pour la régulation et l'adoption de l'IA en Inde\n\nCe sommet pourrait redéfinir le rôle de l'Inde dans l'écosystème mondial de l'IA.",
-        "long_summary_en": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
         "date": "16 February 2026"
       }
     ],
@@ -657,6 +693,18 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/15/meet-kani-tts-2-a-400m-param-open-source-text-to-speech-model-that-runs-in-3gb-vram-with-voice-cloning-support/",
         "date": "16 February 2026"
+      },
+      {
+        "title": "Ce haut-parleur solaire Bluetooth révolutionne les fêtes en extérieur grâce à l'IA",
+        "title_en": "This solar Bluetooth speaker solved my biggest issue with backyard entertaining",
+        "summary": "Un haut-parleur solaire avec batterie 'infinie' et son puissant, optimisé par l'IA pour les événements en extérieur.",
+        "summary_en": "With 'infinite' battery life and booming audio, the Lodge Solar Speaker 4 Series 2 is my new favorite party guest.",
+        "long_summary": "Les enceintes connectées intègrent désormais des algorithmes d'IA pour optimiser l'expérience utilisateur.\n\nPoints clés :\n• Utilisation de modèles de langage pour personnaliser les réglages audio\n• Apprentissage automatique pour adapter le volume et les basses en fonction de l'environnement\n• Intégration avec des assistants vocaux via des LLMs comme ceux d'OpenAI ou Google\n\nL'IA permet aux enceintes de devenir des assistants intelligents pour les événements, anticipant les besoins des utilisateurs.",
+        "long_summary_en": "With 'infinite' battery life and booming audio, the Lodge Solar Speaker 4 Series 2 is my new favorite party guest.",
+        "image": "https://www.zdnet.com/a/img/resize/10ced4f0ea3a752c152a99cee49152ec81408763/2024/01/20/0248158d-d124-45ff-bf8c-7a3e72a45b6e/lodge-solar-speaker-series-25.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/lodge-solar-bluetooth-speaker-4-series-2-review/",
+        "date": "18 February 2026"
       },
       {
         "title": "L'IA révolutionne la collaboration à distance",
@@ -794,24 +842,24 @@
   },
   "hotNews": [
     {
+      "title": "Claude Sonnet 4.6 accélère la course aux IA : Anthropic talonne Gemini 3 Pro et GPT-5.2",
+      "title_en": "Claude Sonnet 4.6 acaba de acelerar la carrera grande de la IA: Anthropic acorrala más que nunca a Gemini 3 Pro y GPT-5.2",
+      "source": "Xataka",
+      "url": "https://www.xataka.com/robotica-e-ia/claude-sonnet-4-6-acaba-acelerar-carrera-grande-ia-anthropic-acorrala-que-nunca-a-gemini-3-pro-gpt-5-2",
+      "date": "18 February 2026"
+    },
+    {
+      "title": "Gemini de Google a-t-il mis échec et mat à ChatGPT d'OpenAI ?",
+      "title_en": "Did Google's Gemini Just Say \"Checkmate\" to OpenAI's ChatGPT? | The Motley Fool",
+      "source": "Fool",
+      "url": "https://www.fool.com/investing/2026/02/15/did-google-gemini-say-checkmate-openai-chatgpt/",
+      "date": "16 February 2026"
+    },
+    {
       "title": "Gemini 3 Deep Think et l'explosion des géants de l'IA en 2026",
       "title_en": "[AINews] new Gemini 3 Deep Think, Anthropic $30B @ $380B, GPT-5.3-Codex Spark, MiniMax M2.5",
       "source": "Latent",
       "url": "https://www.latent.space/p/ainews-new-gemini-3-deep-think-anthropic",
-      "date": "14 February 2026"
-    },
-    {
-      "title": "Gemini 3 de Google surpasse GPT-5.2 et Claude Opus 4.6",
-      "title_en": "Google’s Updated Gemini 3 Deep Think Outperforms GPT-5.2 and Claude Opus 4.6 | Technology News",
-      "source": "Gadgets360",
-      "url": "https://www.gadgets360.com/ai/news/google-gemini-3-deep-think-upgraded-outperforms-openai-gpt-5-2-claude-opus-4-6-details-10998791",
-      "date": "14 February 2026"
-    },
-    {
-      "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
-      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
       "date": "14 February 2026"
     }
   ]
