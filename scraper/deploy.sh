@@ -10,7 +10,7 @@ NEWS_DIR="$(dirname "$SCRIPT_DIR")"
 LOG_FILE="$SCRIPT_DIR/last_run.log"
 
 # Mistral API for translations and hot news scoring
-export MISTRAL_API_KEY="REDACTED_MISTRAL_KEY"
+export MISTRAL_API_KEY="$(cat /home/ubuntu/.openclaw/workspace/.secrets/mistral.key)"
 
 TOKEN_FILE="/home/ubuntu/.openclaw/workspace/.secrets/github_valerium_news.token"
 
