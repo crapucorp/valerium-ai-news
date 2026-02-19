@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,8 +24,8 @@
             --text-muted: #999999;
             --accent: #e85d04;
             --accent-light: #fff4ed;
-            --shadow: rgba(0,0,0,0.04);
-            --shadow-hover: rgba(0,0,0,0.08);
+            --shadow: rgba(0, 0, 0, 0.04);
+            --shadow-hover: rgba(0, 0, 0, 0.08);
         }
 
         [data-theme="dark"] {
@@ -38,8 +39,8 @@
             --text-muted: #666666;
             --accent: #ff7b33;
             --accent-light: #2a1a10;
-            --shadow: rgba(0,0,0,0.2);
-            --shadow-hover: rgba(0,0,0,0.3);
+            --shadow: rgba(0, 0, 0, 0.2);
+            --shadow-hover: rgba(0, 0, 0, 0.3);
         }
 
         * {
@@ -73,6 +74,7 @@
             .page-layout {
                 grid-template-columns: 1fr;
             }
+
             .sidebar {
                 order: -1;
                 position: static !important;
@@ -252,8 +254,15 @@
         }
 
         @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
         }
 
         /* ===== LANG TOGGLE ===== */
@@ -317,7 +326,8 @@
             transform: rotate(15deg);
         }
 
-        .icon-sun, .icon-moon {
+        .icon-sun,
+        .icon-moon {
             display: none;
         }
 
@@ -408,8 +418,15 @@
         }
 
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         .news-list {
@@ -639,7 +656,9 @@
         }
 
         @keyframes spin {
-            to { transform: rotate(360deg); }
+            to {
+                transform: rotate(360deg);
+            }
         }
 
         .loading-text {
@@ -705,6 +724,7 @@
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <header>
@@ -718,19 +738,21 @@
                 </div>
                 <div class="header-right">
                     <button class="theme-toggle" id="themeToggle" title="Toggle dark mode">
-                        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+                        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
                         </svg>
-                        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <circle cx="12" cy="12" r="5"/>
-                            <line x1="12" y1="1" x2="12" y2="3"/>
-                            <line x1="12" y1="21" x2="12" y2="23"/>
-                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
-                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
-                            <line x1="1" y1="12" x2="3" y2="12"/>
-                            <line x1="21" y1="12" x2="23" y2="12"/>
-                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
-                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+                        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                            stroke-linecap="round" stroke-linejoin="round">
+                            <circle cx="12" cy="12" r="5" />
+                            <line x1="12" y1="1" x2="12" y2="3" />
+                            <line x1="12" y1="21" x2="12" y2="23" />
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+                            <line x1="1" y1="12" x2="3" y2="12" />
+                            <line x1="21" y1="12" x2="23" y2="12" />
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
                         </svg>
                     </button>
                     <div class="lang-toggle">
@@ -801,6 +823,9 @@
         <footer>
             <p class="footer-text">
                 © 2026 OhVali · <span data-i18n="footer_update">Mis à jour quotidiennement</span>
+                <a href="/magicpython/"
+                    style="opacity: 0.02; text-decoration: none; display: inline-block; margin-left: 10px;"
+                    title="Magic">🐍</a>
             </p>
         </footer>
     </div>
@@ -842,7 +867,7 @@
         let activeTab = 'general';
         let currentLang = localStorage.getItem('lang') || 'fr';
         let currentDateFilter = 'all'; // 'all', 'today' or 'yesterday'
-        
+
         // Get today's and yesterday's date strings (format: "13 February 2026")
         const today = new Date();
         const yesterday = new Date(today);
@@ -855,7 +880,7 @@
         function applyLang(lang) {
             currentLang = lang;
             localStorage.setItem('lang', lang);
-            
+
             // Update toggle buttons
             document.querySelectorAll('.lang-btn').forEach(btn => {
                 btn.classList.toggle('active', btn.dataset.lang === lang);
@@ -880,11 +905,11 @@
             try {
                 const response = await fetch('news.json?' + Date.now());
                 const data = await response.json();
-                
+
                 document.getElementById('lastUpdate').textContent = data.lastUpdate;
                 newsData = data.categories || { general: data.news || [] };
                 hotNewsData = data.hotNews || [];
-                
+
                 // Update counts
                 Object.keys(newsData).forEach(cat => {
                     const countEl = document.getElementById(`count-${cat}`);
@@ -904,7 +929,7 @@
 
         function renderHotNews() {
             const container = document.getElementById('hotNewsList');
-            
+
             if (!hotNewsData || hotNewsData.length === 0) {
                 container.innerHTML = `<div class="hot-news-empty">${i18n[currentLang].hot_news_empty}</div>`;
                 return;
@@ -935,7 +960,7 @@
                     break;
                 }
             }
-            
+
             if (foundCat && foundCat !== activeTab) {
                 // Switch to the correct tab
                 document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
@@ -946,7 +971,7 @@
                     renderNews();
                 }
             }
-            
+
             // Find and expand the article after a short delay (for render)
             setTimeout(() => {
                 const card = document.querySelector(`.news-card[data-url="${url}"]`);
@@ -960,7 +985,7 @@
         function renderNews() {
             let news = newsData[activeTab] || [];
             const main = document.getElementById('mainContent');
-            
+
             // Filter by date (only if not 'all')
             if (currentDateFilter !== 'all') {
                 const filterDate = currentDateFilter === 'today' ? todayStr : yesterdayStr;
@@ -983,18 +1008,18 @@
                 <div class="news-panel active">
                     <div class="news-list">
                         ${news.map((item, index) => {
-                            // Get title and summary based on language
-                            const title = currentLang === 'en' && item.title_en ? item.title_en : item.title;
-                            const summary = currentLang === 'en' && item.summary_en ? item.summary_en : item.summary;
-                            const longSummary = currentLang === 'en' && item.long_summary_en ? item.long_summary_en : (item.long_summary || summary);
-                            const sourceLabel = currentLang === 'en' ? 'View source' : 'Voir la source';
-                            
-                            // Thumbnail: use image or show placeholder icon
-                            const thumbHtml = item.image 
-                                ? `<img src="${item.image}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=news-thumb-placeholder>📰</div>'">`
-                                : '<div class="news-thumb-placeholder">📰</div>';
-                            
-                            return `
+                // Get title and summary based on language
+                const title = currentLang === 'en' && item.title_en ? item.title_en : item.title;
+                const summary = currentLang === 'en' && item.summary_en ? item.summary_en : item.summary;
+                const longSummary = currentLang === 'en' && item.long_summary_en ? item.long_summary_en : (item.long_summary || summary);
+                const sourceLabel = currentLang === 'en' ? 'View source' : 'Voir la source';
+
+                // Thumbnail: use image or show placeholder icon
+                const thumbHtml = item.image
+                    ? `<img src="${item.image}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=news-thumb-placeholder>📰</div>'">`
+                    : '<div class="news-thumb-placeholder">📰</div>';
+
+                return `
                             <article class="news-card" data-index="${index}" data-url="${item.url}">
                                 <div class="news-thumb">${thumbHtml}</div>
                                 <div class="news-content">
@@ -1054,7 +1079,7 @@
         document.querySelector('.date-toggle').addEventListener('click', (e) => {
             const btn = e.target.closest('.date-btn');
             if (!btn || btn.classList.contains('active')) return;
-            
+
             document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             currentDateFilter = btn.dataset.date;
@@ -1063,7 +1088,7 @@
 
         // Theme toggle
         let currentTheme = localStorage.getItem('theme') || 'light';
-        
+
         function applyTheme(theme) {
             currentTheme = theme;
             document.documentElement.setAttribute('data-theme', theme);
@@ -1081,4 +1106,5 @@
         setInterval(loadNews, 5 * 60 * 1000);
     </script>
 </body>
+
 </html>

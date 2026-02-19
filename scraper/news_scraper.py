@@ -15,7 +15,14 @@ import feedparser
 from pathlib import Path
 
 # Configuration
-BRAVE_API_KEY = os.environ.get("BRAVE_API_KEY", "BSAi4x2_TyBxgRh3SX_PVd8rm64BjSV")
+# Brave API key from secrets file
+def get_brave_key():
+    try:
+        with open("/home/ubuntu/.openclaw/workspace/.secrets/brave.key") as f:
+            return f.read().strip()
+    except:
+        return os.environ.get("BRAVE_API_KEY", "")
+BRAVE_API_KEY = get_brave_key()
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")  # Fallback when Brave rate limits
 # GPT fallback - read OAuth token from OpenClaw auth-profiles
 def get_openai_token():
