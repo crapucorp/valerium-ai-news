@@ -3,6 +3,19 @@
   "categories": {
     "general": [
       {
+        "title": "Google dévoile Gemini 3.1 Pro : performances et accès",
+        "title_en": "Google releases Gemini 3.1 Pro: Benchmarks, how to try it | Mashable",
+        "summary": "Gemini 3.1 Pro double les performances de son prédécesseur sur des benchmarks clés. Disponible dès aujourd'hui.",
+        "summary_en": "... Gemini can complete your in-browser tasks now. ... GPT-5.2 vs Gemini 3 — How the two heavyweight models compare on benchmarks, price, and feature set · <strong>GPT-5.2 is OpenAI&#x27;s &quot;code ",
+        "long_summary": "Google a lancé Gemini 3.1 Pro, un modèle d'IA améliorant la raison logique et la créativité.\n\nPoints clés :\n• Performances 2x supérieures à Gemini 3 Pro sur ARC-AGI-2\n• Conçu pour des solutions complexes et créatives\n• Intégré aux outils Google AI comme Gemini Deep Think\n\nConclusion sur les implications : Cette mise à jour renforce la position de Google face à OpenAI et Anthropic, accélérant l'innovation en IA.",
+        "long_summary_en": "Credit: Google Google released its latest core reasoning model, Gemini 3.1 Pro, on Thursday. Google says that Gemini 3.1 Pro achieved twice the verified performance of 3 Pro on ARC-AGI-2, a popular benchmark that measures a model's logical reasoning. Google originally released Gemini 3 and 3 Pro in November , and this new release shows just how fast AI companies are introducing new and updated models. Gemini 3.1 Pro is the new core model powering Gemini and various Google AI tools, such as Gemini 3 Deep Think . Google says it's designed to provide more creative solutions. \"3.1 Pro is designed ",
+        "image": "https://helios-i.mashable.com/imagery/articles/04T874cLW8dQ5b6xmxKswi8/hero-image.fill.size_1200x675.v1771524791.jpg",
+        "source": "Mashable",
+        "url": "https://mashable.com/article/google-releases-gemini-3-1-pro-benchmarks",
+        "date": "20 February 2026",
+        "hot_score": 999
+      },
+      {
         "title": "DeepMind propose un cadre révolutionnaire pour déléguer l'IA et sécuriser le Web agentique",
         "title_en": "Google DeepMind Proposes New Framework for Intelligent AI Delegation to Secure the Emerging Agentic Web for Future Economies",
         "summary": "DeepMind propose un nouveau modèle pour des agents IA autonomes et adaptables, essentiels pour l'économie future.",
@@ -168,18 +181,6 @@
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/COLOMBIA-6.edit_.jpg?resize=1200,600",
         "source": "mit_tech",
         "url": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
-        "date": "20 February 2026"
-      },
-      {
-        "title": "Les agents IA progressent, mais leurs divulgations de sécurité restent floues",
-        "title_en": "AI Agents Are Getting Better. Their Safety Disclosures Aren't",
-        "summary": "Une étude du MIT révèle que les développeurs d'IA agentique publient peu d'informations sur les tests de sécurité.",
-        "summary_en": "A study led by MIT researchers found that agentic AI developers seldom publish detailed information about how these tools were tested for safety.",
-        "long_summary": "Les agents IA deviennent plus performants, mais leur transparence en matière de sécurité laisse à désirer.\n\nPoints clés :\n• Les développeurs d'IA agentique publient rarement des détails sur les tests de sécurité\n• Cette opacité complique l'évaluation des risques par les utilisateurs et régulateurs\n• Les modèles comme ceux d'OpenAI, Google et Anthropic sont concernés\n\nLes implications sont majeures pour la confiance dans l'IA et la régulation du secteur.",
-        "long_summary_en": "A study led by MIT researchers found that agentic AI developers seldom publish detailed information about how these tools were tested for safety.",
-        "image": "https://www.cnet.com/a/img/resize/8439a3d68faa25e3dd0fd3bf12846a8b0e6b5fda/hub/2026/02/19/5319a595-3e83-484e-8078-ae34b6c59cf4/gettyimages-2229177564.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/ai-agents-are-getting-smarter-mit-finds-their-safety-disclosures-arent/",
         "date": "20 February 2026"
       }
     ],
