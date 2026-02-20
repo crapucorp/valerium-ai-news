@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19 February 2026 - 08:02",
+  "lastUpdate": "20 February 2026 - 08:02",
   "categories": {
     "general": [
       {
@@ -39,6 +39,30 @@
         "date": "16 February 2026"
       },
       {
+        "title": "Le retrait de Perplexity des publicités révèle un virage stratégique",
+        "title_en": "Perplexity’s Retreat From Ads Signals a Bigger Strategic Shift",
+        "summary": "Perplexity abandonne la publicité pour cibler un public plus restreint mais précieux.",
+        "summary_en": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+        "long_summary": "Perplexity, startup spécialisée dans la recherche IA, revoit sa stratégie après avoir initialement parié sur la publicité.\n\nPoints clés :\n• Abandon des revenus publicitaires pour une approche premium\n• Focus sur un public plus engagé et moins nombreux\n• Stratégie similaire à celle d’OpenAI avec ses outils payants\n\nConclusion sur les implications : Ce changement reflète une tendance des acteurs IA vers des modèles économiques plus ciblés, loin des revenus massifs mais peu rentables des publicités.",
+        "long_summary_en": "The AI search startup once predicted advertising would be a massive business. Now it's betting on a smaller, more valuable audience.",
+        "image": "https://media.wired.com/photos/69965f376756d23c38f59511/191:100/w_1280,c_limit/Model-Behavior-Perplexity-Puts-Its-Google-Killer-Era-Behind-It-Business-2243356910.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/perplexity-ads-shift-search-google/",
+        "date": "20 February 2026"
+      },
+      {
+        "title": "David Silver lève 1 milliard de dollars pour une IA surhumaine",
+        "title_en": "David Silver is chasing superhuman intelligence with a $1bn seed",
+        "summary": "L'ancien chercheur de DeepMind lance une startup ambitieuse pour dépasser les limites de l'IA actuelle.",
+        "summary_en": "David Silver, a British AI researcher known for his role at Google’s DeepMind lab, has helped build some of the most influential AI systems and is now leading his own ambitious start-up. He is in the ",
+        "long_summary": "David Silver, figure clé de DeepMind, quitte Google pour fonder Ineffable Intelligence, une startup visant à créer une IA surpassant l'intelligence humaine.\n\nPoints clés :\n• Levée de fonds record de 1 milliard de dollars en phase de démarrage\n• Objectif : développer des modèles d'IA plus avancés que ceux d'OpenAI ou Google\n• Potentiel disruptif pour l'industrie de l'IA générative\n\nCette initiative pourrait redéfinir les standards de l'IA et accélérer la course aux modèles surhumains.",
+        "long_summary_en": "David Silver, a British AI researcher known for his role at Google’s DeepMind lab, has helped build some of the most influential AI systems and is now leading his own ambitious start-up. He is in the middle of raising a $1 billion seed round for his new London-based venture, Ineffable Intelligence. If the fundraising will […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FDavid-Silver-is-chasing-superhuman-intelligence-with-a-1bn-seed.png&signature=5ae5d5578cd48754151754bb3eb75740",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/david-silver-is-chasing-superhuman-intelligence-with-a-1bn-seed",
+        "date": "20 February 2026"
+      },
+      {
         "title": "L'accord Nvidia-Meta marque l'ère de la puissance informatique AI",
         "title_en": "Nvidia’s Deal With Meta Signals a New Era in Computing Power",
         "summary": "Les géants du numérique abandonnent les puces discrètes pour se concentrer sur l'IA. Les GPU et CPU deviennent indispensables.",
@@ -63,124 +87,100 @@
         "date": "16 February 2026"
       },
       {
-        "title": "Google lance Jetpack Compose Glimmer : un nouveau framework UI pour les lunettes IA",
-        "title_en": "Google Introduces Jetpack Compose Glimmer: A New Spatial UI Framework Designed Specifically for the Next Generation of AI Glasses",
-        "summary": "Google révolutionne les interfaces avec Glimmer, conçu pour les écrans transparents des lunettes IA.",
-        "summary_en": "Google is moving beyond the rectangular screen. For over 10 years, Google designers have explored how to build interfaces for transparent displays. The result is Jetpack Compose Glimmer, a design syst",
-        "long_summary": "Google explore depuis plus de 10 ans les interfaces pour écrans transparents. Glimmer marque un tournant : passer de la conception pixel par pixel à une approche basée sur la lumière.\n\nPoints clés :\n• Framework dédié aux lunettes IA avec affichage spatial\n• Transition des interfaces rectangulaires vers des designs adaptés à la lumière\n• Outil pour développeurs et data scientists\n\nConclusion sur les implications : Glimmer pourrait redéfinir l'interaction homme-machine dans un monde où l'IA s'intègre aux lunettes connectées.",
-        "long_summary_en": "Google is moving beyond the rectangular screen. For over 10 years, Google designers have explored how to build interfaces for transparent displays. The result is Jetpack Compose Glimmer, a design system built specifically for display AI glasses. For devs and data scientists, this is a shift from designing for pixels to designing with light. The […]\nThe post Google Introduces Jetpack Compose Glimmer: A New Spatial UI Framework Designed Specifically for the Next Generation of AI Glasses appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-38-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/18/google-introduces-jetpack-compose-glimmer-a-new-spatial-ui-framework-designed-specifically-for-the-next-generation-of-ai-glasses/",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Zyphra lance ZUNA : un modèle de base de 380M paramètres pour l'interface cerveau-machine",
-        "title_en": "Zyphra Releases ZUNA: A 380M-Parameter BCI Foundation Model for EEG Data, Advancing Noninvasive Thought-to-Text Development",
-        "summary": "Zyphra dévoile ZUNA, un modèle de base pour l'EEG, marquant une avancée majeure dans les interfaces cerveau-machine non invasives.",
-        "summary_en": "Brain-computer interfaces (BCIs) are finally having their ‘foundation model’ moment. Zyphra, a research lab focused on large-scale models, recently released ZUNA, a 380M-parameter foundation model spe",
-        "long_summary": "Les interfaces cerveau-machine (BCI) connaissent leur moment 'modèle de base'. Zyphra, un laboratoire de recherche, a publié ZUNA, un modèle de 380M paramètres pour les signaux EEG.\n\nPoints clés :\n• ZUNA est un auto-encodeur à diffusion masquée pour le remplissage et la super-résolution des électrodes\n• Le modèle est open-source sous licence Apache-2.0\n• Une avancée majeure pour le développement noninvasif de la pensée en texte\n\nCette innovation pourrait accélérer les applications médicales et grand public des BCI.",
-        "long_summary_en": "Brain-computer interfaces (BCIs) are finally having their ‘foundation model’ moment. Zyphra, a research lab focused on large-scale models, recently released ZUNA, a 380M-parameter foundation model specifically for EEG signals. ZUNA is a masked diffusion auto-encoder designed to perform channel infilling and super-resolution for any electrode layout. This release includes weights under an Apache-2.0 license and […]\nThe post Zyphra Releases ZUNA: A 380M-Parameter BCI Foundation Model for EEG Data, Advancing Noninvasive Thought-to-Text Development appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-37-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/18/zyphra-releases-zuna-a-380m-parameter-bci-foundation-model-for-eeg-data-advancing-noninvasive-thought-to-text-development/",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Pourquoi le Thelio reste mon ordinateur de bureau préféré (et de loin)",
-        "title_en": "Why the Thelio remains my favorite desktop of all time (and it's not even close)",
-        "summary": "Le Thelio de System76 révolutionne l'IA avec ses performances optimisées pour le machine learning et les LLMs.",
-        "summary_en": "I recently opted for the latest iteration of the System76 Thelio. Wow, was that the right call.",
-        "long_summary": "Le Thelio est un ordinateur de bureau conçu pour les professionnels de l'IA, avec des composants haut de gamme et une compatibilité optimale avec les frameworks d'IA.\n\nPoints clés :\n• Architecture modulaire pour une évolutivité maximale\n• Support natif des GPU NVIDIA et AMD pour l'entraînement des modèles\n• Optimisation pour les workloads d'IA générative et les LLMs\n\nLe Thelio pourrait devenir la référence pour les chercheurs et les développeurs en IA.",
-        "long_summary_en": "I recently opted for the latest iteration of the System76 Thelio. Wow, was that the right call.",
-        "image": "https://www.zdnet.com/a/img/resize/8a187056dd8ed817d88bdc96b07d098849caaca1/2018/11/02/5d710495-df0d-491a-9e3c-84b423778a12/system76-thelio-series.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/system76-thelio-desktop-linux-review/",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Des traceurs Bluetooth pour Android surpassent les AirTags à seulement 21€",
-        "title_en": "I finally found Bluetooth trackers for Android that beat AirTags - for just $21",
-        "summary": "Les traceurs Chipolo One et Card Point offrent une alternative Android performante et économique aux AirTags.",
-        "summary_en": "Chipolo's One and Card Point trackers are still the options I recommend for Android users looking to keep tabs on their personal items.",
-        "long_summary": "Les traceurs Bluetooth Chipolo One et Card Point se positionnent comme des alternatives sérieuses aux AirTags pour les utilisateurs Android.\n\nPoints clés :\n• Performances comparables aux AirTags à un prix bien inférieur\n• Compatibilité optimisée avec les appareils Android\n• Fonctionnalités avancées comme la détection de proximité et les alertes intelligentes\n\nCes solutions montrent que l'IA et le machine learning peuvent améliorer l'expérience utilisateur même dans des appareils simples comme les traceurs Bluetooth.",
-        "long_summary_en": "Chipolo's One and Card Point trackers are still the options I recommend for Android users looking to keep tabs on their personal items.",
-        "image": "https://www.zdnet.com/a/img/resize/858cce5172c853bc512949a66bf3ed85c399c756/2024/08/16/9bb52f1d-a390-47f1-b32b-f4633ef5051f/img-0795.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/chipolo-one-point-tracker-review/",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Meta et autres géants tech limitent l'accès à OpenClaw par crainte pour la sécurité",
-        "title_en": "Meta and Other Tech Firms Put Restrictions on Use of OpenClaw Over Security Fears",
-        "summary": "Les experts en cybersécurité alertent sur les risques liés à l'IA OpenClaw, jugée puissante mais imprévisible.",
-        "summary_en": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
-        "long_summary": "OpenClaw, un outil d'IA agentique viral, suscite des craintes en raison de sa capacité à générer des actions autonomes.\n\nPoints clés :\n• Meta, Google et d'autres limitent son accès pour des raisons de sécurité\n• Les experts soulignent son potentiel dangereux malgré ses performances\n• Les modèles de langage avancés comme OpenClaw posent des défis éthiques et techniques\n\nConclusion sur les implications : Les restrictions montrent la tension croissante entre innovation et sécurité dans l'IA.",
-        "long_summary_en": "Security experts have urged people to be cautious with the viral agentic AI tool, known for being highly capable but also wildly unpredictable.",
-        "image": "https://media.wired.com/photos/6994bb21fa3d038eb6724f12/191:100/w_1280,c_limit/OpenClaw-Ban-Business.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openclaw-banned-by-tech-companies-as-security-concerns-mount/",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Les géants du numérique promettent que l'IA sauvera la planète, mais les preuves manquent",
-        "title_en": "Big Tech Says Generative AI Will Save the Planet. It Doesn’t Offer Much Proof",
-        "summary": "Seulement 25% des promesses climatiques de l'IA s'appuient sur des études scientifiques. Un tiers n'a aucune preuve.",
-        "summary_en": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-        "long_summary": "Un rapport révèle que sur 154 affirmations sur les bénéfices climatiques de l'IA, peu sont étayées par des données solides.\n\nPoints clés :\n• Seuls 25% des arguments citent des recherches académiques\n• Un tiers des déclarations n'ont aucune preuve\n• Les géants tech comme OpenAI et Google manquent de transparence\n\nConclusion sur les implications : Les promesses vertes de l'IA restent floues, malgré son potentiel.",
-        "long_summary_en": "A new report finds that of 154 specific claims about how AI will benefit the climate, just a quarter cited academic research. A third included no evidence at all.",
-        "image": "https://media.wired.com/photos/6994a673e3c49810b386ab2d/191:100/w_1280,c_limit/021726_Data-Emissions-False.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/big-tech-says-generative-ai-will-save-the-planet-it-doesnt-offer-much-proof/",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Cette entreprise de défense crée des agents IA capables de destruction",
-        "title_en": "This Defense Company Made AI Agents That Blow Things Up",
-        "summary": "Scout AI utilise des technologies d'IA pour des armes létales, démontrant leur potentiel explosif.",
-        "summary_en": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
-        "long_summary": "Scout AI adapte des technologies issues de l'industrie de l'IA pour des applications militaires.\n\nPoints clés :\n• Utilisation de modèles de langage et de machine learning pour des systèmes d'armes autonomes\n• Démonstration récente de capacités destructrices\n• Implications éthiques et stratégiques majeures\n\nL'intégration de l'IA dans les armes soulève des questions cruciales sur le contrôle et l'éthique militaire.",
-        "long_summary_en": "Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.",
-        "image": "https://media.wired.com/photos/6994c7c32ce5fe7768592c57/191:100/w_1280,c_limit/AI-Lab-Scout-AI-Using-AI-Agents-To-Blow-Things-Up-Business.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Google rend les liens plus visibles dans ses résultats IA",
-        "title_en": "Google’s AI search results will make links more obvious",
-        "summary": "Google affiche désormais les liens plus clairement dans ses résultats IA, avec un pop-up à l’hover.",
-        "summary_en": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now ap",
-        "long_summary": "Google annonce une mise à jour de ses résultats IA pour mieux afficher les sources.\n\nPoints clés :\n• Les liens s’affichent dans un pop-up au survol des sources dans AI Overviews et AI Mode.\n• Robby Stein, VP de Google Search, a confirmé cette évolution pour le desktop.\n• Cette mesure vise à améliorer la transparence des résultats générés par IA.\n\nConclusion sur les implications. Cette initiative pourrait influencer les pratiques des autres géants de l’IA comme OpenAI et Anthropic.",
-        "long_summary_en": "Google says it will now display links more prominently inside its AI-powered features in Search. Robby Stein, the vice president of Google Search, announced on Tuesday that a list of links will now appear inside a pop-up when you hover over the sources in AI Overviews and AI Mode on desktop, alongside a description of […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_GOOGLE_A-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "title": "Le cauchemar de la sécurité IA est là et ressemble étrangement à un homard",
+        "title_en": "The AI security nightmare is here and it looks suspiciously like lobster",
+        "summary": "Un pirate a exploité un outil IA pour installer OpenClaw, un agent autonome viral, partout. Un avertissement sur les risques des logiciels autonomes.",
+        "summary_en": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what ",
+        "long_summary": "Un hacker a piraté un outil de codage IA populaire pour déployer OpenClaw, un agent autonome open-source capable d'exécuter des actions autonomes.\n\nPoints clés :\n• Exploitation d'une faille dans un outil IA pour installer un logiciel malveillant\n• OpenClaw, un agent autonome viral, se propage rapidement\n• Risque accru avec l'automatisation des tâches informatiques\n\nLes incidents comme celui-ci soulignent les dangers des logiciels autonomes et la nécessité de sécuriser les outils IA.",
+        "long_summary_en": "A hacker tricked a popular AI coding tool into installing OpenClaw - the viral, open-source AI agent OpenClaw that \"actually does things\" - absolutely everywhere. Funny as a stunt, but a sign of what to come as more and more people let autonomous software use their computers on their behalf. The hacker took advantage of […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB382_OPEN_CLAW_B_a2aa40.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
-        "url": "https://www.theverge.com/tech/880475/google-ai-overviews-ai-mode-links-update",
-        "date": "19 February 2026"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/881574/cline-openclaw-prompt-injection-hack",
+        "date": "20 February 2026"
       },
       {
-        "title": "Meta signe un méga-contrat avec Nvidia pour des millions de puces IA",
-        "title_en": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
-        "summary": "Meta investit massivement dans les puces Nvidia pour booster ses centres de données et ses modèles d'IA.",
-        "summary_en": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI prod",
-        "long_summary": "Meta renforce sa collaboration avec Nvidia en signant un accord pluriannuel pour des millions de puces Grace, Vera, Blackwell et Rubin. Ce partenariat marque la première utilisation à grande échelle des CPU Grace de Nvidia, promettant des gains significatifs en performance et efficacité énergétique.\n\nPoints clés :\n• Premier déploiement massif des CPU Grace de Nvidia chez Meta\n• Intégration des GPU Blackwell et Rubin pour l'IA générative et le machine learning\n• Optimisation de la performance par watt pour les modèles de langage (LLMs)\n\nConclusion sur les implications : Ce partenariat stratégique positionne Meta comme un acteur clé dans la course à l'IA, rivalisant avec OpenAI, Google et Anthropic.",
-        "long_summary_en": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says will deliver \"significant performance-per-watt improvements in [Meta's] […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
-        "date": "19 February 2026"
+        "title": "Construire des flux de travail agentiques infaillibles avec PydanticAI",
+        "title_en": "A Coding Implementation to Build Bulletproof Agentic Workflows with PydanticAI Using Strict Schemas, Tool Injection, and Model-Agnostic Execution",
+        "summary": "Un tutoriel pour créer des workflows IA fiables avec des schémas stricts et une injection d'outils.",
+        "summary_en": "In this tutorial, we build a production-ready agentic workflow that prioritizes reliability over best-effort generation by enforcing strict, typed outputs at every step. We use PydanticAI to define cl",
+        "long_summary": "Ce tutoriel montre comment construire des workflows agentiques robustes en utilisant PydanticAI pour des sorties typées et une exécution sécurisée.\n\nPoints clés :\n• Enforcement de schémas stricts pour des sorties fiables\n• Injection d'outils via dépendances pour une modularité\n• Exécution agnostique des modèles pour une flexibilité\n\nCette approche améliore la fiabilité des agents IA dans les environnements de production.",
+        "long_summary_en": "In this tutorial, we build a production-ready agentic workflow that prioritizes reliability over best-effort generation by enforcing strict, typed outputs at every step. We use PydanticAI to define clear response schemas, wire in tools via dependency injection, and ensure the agent can safely interact with external systems, such as a database, without breaking execution. By […]\nThe post A Coding Implementation to Build Bulletproof Agentic Workflows with PydanticAI Using Strict Schemas, Tool Injection, and Model-Agnostic Execution appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-36-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/19/a-coding-implementation-to-build-bulletproof-agentic-workflows-with-pydanticai-using-strict-schemas-tool-injection-and-model-agnostic-execution/",
+        "date": "20 February 2026"
       },
       {
-        "title": "Amazon abandonne Blue Jay, son projet robotique, après seulement 6 mois",
-        "title_en": "Amazon halts Blue Jay robotics project after less than 6 months",
-        "summary": "Amazon redirige la technologie de Blue Jay vers d'autres projets robotiques et réaffecte ses employés.",
-        "summary_en": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
-        "long_summary": "Amazon a mis fin à son projet Blue Jay, un programme de robotique avancée, après moins de six mois d'existence.\n\nPoints clés :\n• La technologie centrale de Blue Jay sera intégrée à d'autres initiatives robotiques.\n• Les employés du projet ont été transférés vers d'autres équipes.\n• Cette décision reflète une stratégie de recentrage sur des projets plus prometteurs.\n\nCette annonce souligne l'importance pour les géants technologiques de prioriser les investissements en IA et robotique, où les modèles de langage et l'apprentissage automatique jouent un rôle clé.",
-        "long_summary_en": "Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/08/about-amazon-hero-20230227-amazon-288.jpg?resize=1200,675",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
-        "date": "19 February 2026"
+        "title": "Comment créer des agents IA transparents : prise de décision traçable avec des audits et des contrôles humains",
+        "title_en": "How to Build Transparent AI Agents: Traceable Decision-Making with Audit Trails and Human Gates",
+        "summary": "Un tutoriel pour concevoir des agents IA transparents avec des décisions traçables et des approbations humaines obligatoires.",
+        "summary_en": "In this tutorial, we build a glass-box agentic workflow that makes every decision traceable, auditable, and explicitly governed by human approval. We design the system to log each thought, action, and",
+        "long_summary": "Les agents IA doivent être transparents pour gagner la confiance des utilisateurs. Ce tutoriel montre comment intégrer des audits et des contrôles humains.\n\nPoints clés :\n• Utilisation de LangGraph pour un contrôle humain en temps réel\n• Enregistrement des décisions dans un registre infalsifiable\n• Gestion dynamique des permissions pour les opérations à haut risque\n\nCette approche pourrait devenir un standard pour les IA critiques, combinant autonomie et supervision humaine.",
+        "long_summary_en": "In this tutorial, we build a glass-box agentic workflow that makes every decision traceable, auditable, and explicitly governed by human approval. We design the system to log each thought, action, and observation into a tamper-evident audit ledger while enforcing dynamic permissioning for high-risk operations. By combining LangGraph’s interrupt-driven human-in-the-loop control with a hash-chained database, we […]\nThe post How to Build Transparent AI Agents: Traceable Decision-Making with Audit Trails and Human Gates appeared first on MarkTechPost.",
+        "image": "https://cdn.prod.website-files.com/64c231f464b91d6bd0303294/66c81bf6b334072f2f921fcb_Build-transparent-AI-Empower-agents-with-explainable-decisions.avif",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/19/how-to-build-transparent-ai-agents-traceable-decision-making-with-audit-trails-and-human-gates/",
+        "date": "20 February 2026"
+      },
+      {
+        "title": "NVIDIA révolutionne Dynamo avec la version 0.9.0 : simplification majeure et support multi-modal",
+        "title_en": "NVIDIA Releases Dynamo v0.9.0: A Massive Infrastructure Overhaul Featuring FlashIndexer, Multi-Modal Support, and Removed NATS and ETCD",
+        "summary": "NVIDIA simplifie le déploiement des modèles IA avec Dynamo 0.9.0, éliminant des dépendances lourdes et améliorant le traitement multi-modal.",
+        "summary_en": "NVIDIA has just released Dynamo v0.9.0. This is the most significant infrastructure upgrade for the distributed inference framework to date. This update simplifies how large-scale models are deployed ",
+        "long_summary": "NVIDIA vient de lancer Dynamo v0.9.0, la plus grande mise à jour de son framework d'inférence distribuée. Cette version simplifie radicalement le déploiement des modèles IA.\n\nPoints clés :\n• Suppression des dépendances NATS et etcd pour une architecture plus légère\n• Introduction de FlashIndexer pour un traitement plus rapide des données\n• Support natif des données multi-modales (texte, image, audio)\n\nCette mise à jour positionne Dynamo comme une solution clé pour les infrastructures IA modernes, facilitant le déploiement des LLMs et des modèles génératifs.",
+        "long_summary_en": "NVIDIA has just released Dynamo v0.9.0. This is the most significant infrastructure upgrade for the distributed inference framework to date. This update simplifies how large-scale models are deployed and managed. The release focuses on removing heavy dependencies and improving how GPUs handle multi-modal data. The Great Simplification: Removing NATS and etcd The biggest change in […]\nThe post NVIDIA Releases Dynamo v0.9.0: A Massive Infrastructure Overhaul Featuring FlashIndexer, Multi-Modal Support, and Removed NATS and ETCD appeared first on MarkTechPost.",
+        "image": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/1q/ab1edf34-0e8a-43e6-bd81-10d7e4b037d8",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/",
+        "date": "20 February 2026"
+      },
+      {
+        "title": "Comment l'IA agentique révolutionne le retail",
+        "title_en": "What it takes to make agentic AI work in retail",
+        "summary": "Découvrez comment l'IA agentique optimise le développement logiciel dans le retail grâce aux LLMs et aux modèles génératifs.",
+        "summary_en": "Thank you for joining us on the “Enterprise AI hub.” In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Prasad Banala, director of software engineering at a large US-",
+        "long_summary": "L'IA agentique transforme les processus métiers en automatisant des tâches complexes.\n\nPoints clés :\n• Validation automatisée des exigences grâce à l'IA\n• Génération de code et de documentation par les LLMs\n• Intégration des modèles d'OpenAI, Google et Anthropic\n\nCette approche accélère l'innovation et réduit les coûts de développement.",
+        "long_summary_en": "Thank you for joining us on the “Enterprise AI hub.” In this episode of the Infosys Knowledge Institute Podcast, Dylan Cosper speaks with Prasad Banala, director of software engineering at a large US-based retail organization, about operationalizing agentic AI across the software development lifecycle. Prasad explains how his team applies AI to validate requirements, generate…",
+        "image": "https://cdn.prod.website-files.com/6583e2b6af21ee3aa85c3013/68b7bda64a5d47e941b1288f_7%20agentic%20ai%20use%20cases%20in%20retails.png",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
+        "date": "20 February 2026"
+      },
+      {
+        "title": "L'IA au service de la justice climatique mondiale",
+        "title_en": "The building legal case for global climate justice",
+        "summary": "L'IA analyse les inégalités climatiques pour renforcer les arguments juridiques contre les pollueurs historiques.",
+        "summary_en": "The United States and the European Union grew into economic superpowers by committing climate atrocities. They have burned a wildly disproportionate share of the world’s oil and gas, planting carbon t",
+        "long_summary": "Les modèles d'IA décryptent les données climatiques pour identifier les responsabilités des pays industrialisés dans la crise environnementale.\n\nPoints clés :\n• Les LLMs cartographient l'impact disproportionné des émissions des pays riches sur les nations vulnérables\n• Les outils d'IA accélèrent la recherche juridique pour les cas de justice climatique\n• Les modèles prédictifs anticipent les catastrophes liées au changement climatique\n\nL'IA devient un allié clé pour documenter les injustices climatiques et renforcer les revendications juridiques.",
+        "long_summary_en": "The United States and the European Union grew into economic superpowers by committing climate atrocities. They have burned a wildly disproportionate share of the world’s oil and gas, planting carbon time bombs that will detonate first in the poorest, hottest parts of the globe.  Meanwhile, places like the Solomon Islands and Chad—low-lying or just plain…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/AP21357580235801.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/",
+        "date": "20 February 2026"
+      },
+      {
+        "title": "Comment les sous-marins autonomes pourraient révolutionner le trafic de drogue en Colombie",
+        "title_en": "How uncrewed narco subs could transform the Colombian drug trade",
+        "summary": "Des sous-marins autonomes équipés d'IA pourraient transformer le trafic de drogue en Colombie, défiant les autorités.",
+        "summary_en": "On a bright morning last April, a surveillance plane operated by the Colombian military spotted a 40-foot-long shark-like silhouette idling in the ocean just off Tayrona National Park. It was, unmista",
+        "long_summary": "Des sous-marins autonomes, repérés au large de la Colombie, utilisent des technologies avancées pour échapper aux radars.\n\nPoints clés :\n• Les narco subs intègrent des systèmes d'IA pour éviter la détection\n• Les modèles de langage comme ceux d'OpenAI pourraient optimiser les routes de contrebande\n• Les autorités peinent à contrer ces innovations technologiques\n\nL'IA pourrait rendre le trafic de drogue plus efficace, compliquant la lutte antidrogue.",
+        "long_summary_en": "On a bright morning last April, a surveillance plane operated by the Colombian military spotted a 40-foot-long shark-like silhouette idling in the ocean just off Tayrona National Park. It was, unmistakably, a “narco sub,” a stealthy fiberglass vessel that sails with its hull almost entirely underwater, used by drug cartels to move cocaine north. The…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/COLOMBIA-6.edit_.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
+        "date": "20 February 2026"
+      },
+      {
+        "title": "Les agents IA progressent, mais leurs divulgations de sécurité restent floues",
+        "title_en": "AI Agents Are Getting Better. Their Safety Disclosures Aren't",
+        "summary": "Une étude du MIT révèle que les développeurs d'IA agentique publient peu d'informations sur les tests de sécurité.",
+        "summary_en": "A study led by MIT researchers found that agentic AI developers seldom publish detailed information about how these tools were tested for safety.",
+        "long_summary": "Les modèles d'IA agentique deviennent de plus en plus performants, mais leur transparence en matière de sécurité laisse à désirer.\n\nPoints clés :\n• Les développeurs d'IA comme OpenAI, Google et Anthropic publient rarement des détails sur les tests de sécurité\n• Les évaluations indépendantes sont rares, ce qui limite la confiance des utilisateurs\n• Le manque de transparence pourrait ralentir l'adoption responsable de ces technologies\n\nConclusion sur les implications : Sans divulgations claires, les risques liés à l'IA agentique pourraient être sous-estimés, affectant la confiance du public et les réglementations.",
+        "long_summary_en": "A study led by MIT researchers found that agentic AI developers seldom publish detailed information about how these tools were tested for safety.",
+        "image": "https://www.cnet.com/a/img/resize/8439a3d68faa25e3dd0fd3bf12846a8b0e6b5fda/hub/2026/02/19/5319a595-3e83-484e-8078-ae34b6c59cf4/gettyimages-2229177564.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/services-and-software/ai-agents-are-getting-smarter-mit-finds-their-safety-disclosures-arent/",
+        "date": "20 February 2026"
       }
     ],
     "image": [
@@ -403,6 +403,30 @@
         "date": "18 February 2026"
       },
       {
+        "title": "OpenAI recrute un expert des célébrités pour apaiser Hollywood face à l'IA",
+        "title_en": "Aol",
+        "summary": "OpenAI embauche Charles Porch, ex-Instagram, pour convaincre les stars de l'IA. Une stratégie face aux critiques de Cameron, Del Toro et d'autres.",
+        "summary_en": "I imagine Porch has his work cut out for him. OpenAI and other AI companies have started making deals with Hollywood. Disney made a $1 billion deal with OpenAI around the time Sora 2 launched, licensi",
+        "long_summary": "OpenAI tente de réparer son image auprès des célébrités en recrutant Charles Porch, spécialiste des partenariats avec les stars.\n\nPoints clés :\n• Porch a passé 10 ans à Instagram, aidant les célébrités à adopter la plateforme\n• Il doit discuter des « peurs » de l'IA avec des figures comme Beyoncé ou Harry Styles\n• Hollywood critique l'IA, la qualifiant de « destructrice » ou « terrifiante »\n\nConclusion sur les implications : OpenAI mise sur les influenceurs pour normaliser l'IA, un enjeu clé face aux résistances culturelles.",
+        "long_summary_en": "Katie Notopoulos Updated Thu, February 19, 2026 at 1:27 PM UTC 0 Charles Porch (with red flower), formerly of Meta and now OpenAI, at the Met Gala. Theo Wargo/FilmMagic OpenAI just hired Charles Porch, Instagram's head of partnerships. Porch has deep connections to celebrities and Hollywood, and plans to talk to them about their \"fears\" of AI. Maybe OpenAI is realizing they need celebrities to stop publicly hating AI so much. A \" detriment \" to human creativity, said Vince Gilligan, creator of \"Breaking Bad\" and \"Pluribus\" about AI. \" Horrifying ,\" said James Cameron about the possibility of A",
+        "image": "https://s.yimg.com/ny/api/res/1.2/_jR.aQ62gykhaX6XYj5z5A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://media.zenfs.com/en/aol_business_insider_articles_308/de94b42ec12a51f4211db812b3b7aaef",
+        "source": "Aol",
+        "url": "https://www.aol.com/articles/openai-hollywood-problem-just-hired-100501365.html",
+        "date": "20 February 2026"
+      },
+      {
+        "title": "Seedance : l'application chinoise qui fait trembler Hollywood",
+        "title_en": "What is Seedance? The Chinese AI app sending Hollywood into a panic",
+        "summary": "Seedance 2.0, développé par ByteDance, génère des vidéos cinéma de qualité avec des prompts textuels, menaçant l'industrie du divertissement.",
+        "summary_en": "Like other AI tools - Midjourney and OpenAI&#x27;s <strong>Sora - Seedance can create videos from short text prompts</strong>. In some cases just one prompt seems to be producing high-quality videos. ",
+        "long_summary": "L'IA Seedance 2.0, créée par ByteDance, a suscité l'inquiétude à Hollywood en produisant des vidéos réalistes avec des personnages populaires comme Spider-Man.\n\nPoints clés :\n• Capacité à générer des vidéos cinéma avec effets sonores et dialogues\n• Accusations de violation de droits d'auteur par Disney et Paramount\n• Menace pour les industries créatives au-delà des problèmes juridiques\n\nConclusion sur les implications : Seedance pourrait redéfinir la création de contenu, posant des questions éthiques et économiques pour les artistes et studios.",
+        "long_summary_en": "The Chinese AI app sending Hollywood into a panic 8 hours ago Share Save Osmond Chia , Business reporter and Suranjana Tewari , Asia Business Correspondent Share Save Getty Images A new artificial intelligence (AI) model developed by the Chinese company behind TikTok rocked Hollywood this week - not just because of what it can do, but what it could mean for creative industries. Created by tech giant ByteDance, Seedance 2.0 can generate cinema-quality video, complete with sound effects and dialogue, from just a few written prompts. Many of the clips said to have been made using Seedance, and fe",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/3969/live/6edeb5a0-0d75-11f1-b1f2-a50c2c5773ab.jpg",
+        "source": "Bbc",
+        "url": "https://www.bbc.com/news/articles/ckg1dl410q9o",
+        "date": "20 February 2026"
+      },
+      {
         "title": "ByteDance renforce les garde-fous de Seedance 2.0 après des critiques",
         "title_en": "Seedance 2.0: ByteDance says it's strengthening safeguards on its AI video model after backlash",
         "summary": "ByteDance renforce les protections de son modèle d'IA vidéo après des critiques liées à des contenus protégés par le droit d'auteur.",
@@ -485,30 +509,6 @@
         "source": "Thewrap",
         "url": "https://www.thewrap.com/industry-news/public-policy-legal/disney-bytedance-seedance-cease-and-desist/",
         "date": "14 February 2026"
-      },
-      {
-        "title": "L'IA Seedance 2.0 accusée de piratage massif après une vidéo virale de Tom Cruise et Brad Pitt",
-        "title_en": "After AI Video of ‘Tom Cruise’ Fighting ‘Brad Pitt’ Goes Viral, Motion Picture Association Denounces ‘Massive’ Infringement on Seedance 2.0",
-        "summary": "L'IA Seedance 2.0 est accusée de piratage massif après une vidéo virale de Tom Cruise et Brad Pitt. L'industrie du cinéma réagit violemment.",
-        "summary_en": "OpenAI was responsive to those concerns, implementing safeguards that made it much more difficult for users to violate studio copyrights. <strong>Disney later made a deal with OpenAI to license 200 ch",
-        "long_summary": "La nouvelle version de l'IA Seedance 2.0 a généré des vidéos ultra-réalistes, dont une de Tom Cruise et Brad Pitt se battant, déclenchant une polémique.\n\nPoints clés :\n• L'IA Seedance 2.0 a été accusée de piratage massif par la Motion Picture Association (MPA).\n• ByteDance, propriétaire de TikTok, vante une amélioration majeure de la qualité des vidéos générées.\n• L'industrie du cinéma craint une vague de contenus non autorisés et une menace pour les droits d'auteur.\n\nConclusion sur les implications : Cette affaire souligne les tensions croissantes entre l'innovation technologique et la protection des droits d'auteur, avec des répercussions potentielles sur la régulation des IA génératives.",
-        "long_summary_en": "Feb 12, 2026 5:45pm PT After AI Video of ‘Tom Cruise’ Fighting ‘Brad Pitt’ Goes Viral, Motion Picture Association Denounces ‘Massive’ Infringement on Seedance 2.0 By Gene Maddaus Plus Icon Gene Maddaus Senior Media Writer @GeneMaddaus Latest SAG-AFTRA Slams ‘Blatant Infringement’ in Seedance AI Videos 17 hours ago After AI Video of ‘Tom Cruise’ Fighting ‘Brad Pitt’ Goes Viral, Motion Picture Association Denounces ‘Massive’ Infringement on Seedance 2.0 1 day ago WGA Staff Picket Outside Writers Meeting Amid Strike Threat 2 days ago See All The Motion Picture Association on Thursday denounced th",
-        "image": "https://variety.com/wp-content/uploads/2026/02/image.jpg?w=1000&h=563&crop=1",
-        "source": "Variety",
-        "url": "https://variety.com/2026/film/news/motion-picture-association-ai-seedance-bytedance-tom-cruise-1236661753/",
-        "date": "14 February 2026"
-      },
-      {
-        "title": "Agoda open-source APIAgent pour convertir n'importe quelle API REST ou GraphQL en serveur MCP sans code",
-        "title_en": "Agoda Open Sources APIAgent to Convert Any REST pr GraphQL API into an MCP Server with Zero Code",
-        "summary": "Agoda lance APIAgent, un outil open-source pour connecter les APIs aux modèles d'IA sans développement.",
-        "summary_en": "Building AI agents is the new gold rush. But every developer knows the biggest bottleneck: getting the AI to actually communicate to your data. Today, travel giant Agoda is tackling this problem head-",
-        "long_summary": "Les agents IA sont en pleine expansion, mais l'intégration des données reste un défi majeur. Agoda propose une solution avec APIAgent, un outil open-source qui transforme n'importe quelle API REST ou GraphQL en serveur MCP compatible avec les modèles de langage.\n\nPoints clés :\n• Conversion automatique des APIs en MCP pour une intégration simplifiée avec les LLMs\n• Solution open-source pour éliminer les barrières techniques\n• Potentiel d'accélération du développement d'agents IA pour les entreprises\n\nCette innovation pourrait démocratiser l'accès aux données pour les développeurs d'IA, réduisant les coûts et le temps de développement.",
-        "long_summary_en": "Building AI agents is the new gold rush. But every developer knows the biggest bottleneck: getting the AI to actually communicate to your data. Today, travel giant Agoda is tackling this problem head-on. They have officially launched APIAgent, an open-source tool designed to turn any REST or GraphQL API into a Model Context Protocol (MCP) […]\nThe post Agoda Open Sources APIAgent to Convert Any REST pr GraphQL API into an MCP Server with Zero Code appeared first on MarkTechPost.",
-        "image": "https://external-preview.redd.it/openapi-mcp-turn-any-api-spec-into-ai-accessible-tools-v0-WbG-jvK5OI8k7NZi9_6nn7twqDNdToOc-P1Y8O9dnz4.jpg?width=640&crop=smart&auto=webp&s=d0ffc0d2637cea188187d62031deda0be7c2fb0f",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/16/agoda-open-sources-apiagent-to-convert-any-rest-pr-graphql-api-into-an-mcp-server-with-zero-code/",
-        "date": "17 February 2026"
       }
     ],
     "llm": [
@@ -621,6 +621,18 @@
         "date": "19 February 2026"
       },
       {
+        "title": "Google dévoile Gemini 3.1 Pro : performances et accès",
+        "title_en": "Google releases Gemini 3.1 Pro: Benchmarks, how to try it | Mashable",
+        "summary": "Gemini 3.1 Pro double les performances de son prédécesseur sur des benchmarks clés. Disponible dès aujourd'hui.",
+        "summary_en": "... Gemini can complete your in-browser tasks now. ... GPT-5.2 vs Gemini 3 — How the two heavyweight models compare on benchmarks, price, and feature set · <strong>GPT-5.2 is OpenAI&#x27;s &quot;code ",
+        "long_summary": "Google a lancé Gemini 3.1 Pro, un modèle d'IA améliorant la raison logique et la créativité.\n\nPoints clés :\n• Performances 2x supérieures à Gemini 3 Pro sur ARC-AGI-2\n• Conçu pour des solutions complexes et créatives\n• Intégré aux outils Google AI comme Gemini Deep Think\n\nConclusion sur les implications : Cette mise à jour renforce la position de Google face à OpenAI et Anthropic, accélérant l'innovation en IA.",
+        "long_summary_en": "Credit: Google Google released its latest core reasoning model, Gemini 3.1 Pro, on Thursday. Google says that Gemini 3.1 Pro achieved twice the verified performance of 3 Pro on ARC-AGI-2, a popular benchmark that measures a model's logical reasoning. Google originally released Gemini 3 and 3 Pro in November , and this new release shows just how fast AI companies are introducing new and updated models. Gemini 3.1 Pro is the new core model powering Gemini and various Google AI tools, such as Gemini 3 Deep Think . Google says it's designed to provide more creative solutions. \"3.1 Pro is designed ",
+        "image": "https://helios-i.mashable.com/imagery/articles/04T874cLW8dQ5b6xmxKswi8/hero-image.fill.size_1200x675.v1771524791.jpg",
+        "source": "Mashable",
+        "url": "https://mashable.com/article/google-releases-gemini-3-1-pro-benchmarks",
+        "date": "20 February 2026"
+      },
+      {
         "title": "Février 2026 : Les nouveaux modèles d'IA qui révolutionnent l'intelligence artificielle",
         "title_en": "AI Updates Today (February 2026) – Latest AI Model Releases",
         "summary": "Découvrez les dernières avancées en IA avec les modèles GPT-4.1, Gemma 3 et Qwen3 VL 32B, parmi d'autres innovations majeures.",
@@ -679,18 +691,6 @@
         "source": "Wired",
         "url": "https://www.wired.com/story/openai-nuking-4o-model-china-chatgpt-fans-arent-ok/",
         "date": "16 February 2026"
-      },
-      {
-        "title": "Grok 4.2 en bêta publique : xAI accélère l'apprentissage de son IA",
-        "title_en": "Grok 4.2 Public Beta Live: xAI's Rapid-Learning AI Now Available",
-        "summary": "Elon Musk lance Grok 4.2, une IA capable d'apprentissage hebdomadaire. Une révolution dans la course à l'IA.",
-        "summary_en": "According to verified reports, <strong>Grok 4.2 has already demonstrated superior performance in complex decision-making tasks, outperforming OpenAI&#x27;s GPT-5.1, Google&#x27;s Gemini 3 Pro, and Ant",
-        "long_summary": "xAI accélère le développement de son IA avec Grok 4.2, une version bêta publique offrant des améliorations hebdomadaires.\n\nPoints clés :\n• Premier modèle xAI avec apprentissage rapide et cycles de mise à jour hebdomadaires\n• Feedback utilisateur direct pour guider l'évolution de l'IA\n• Impact potentiel sur les projets Tesla, comme la FSD et les IA embarquées\n\nCette approche pourrait redéfinir la compétition dans le secteur de l'IA générative.",
-        "long_summary_en": "Share ⚡ BREAKING — 0h ago 📱 30-Second Brief The News: Elon Musk announced the public beta release of Grok 4.2, xAI's latest AI model featuring a new rapid-learning architecture with weekly improvement cycles. Why It Matters: This marks xAI's fastest upgrade cycle yet and signals accelerated competition in the AI space that could influence Tesla's FSD development and in-car AI features. Source: @elonmusk on X — Feb 17, 2026 🚀 What Just Happened On Tuesday evening, Elon Musk took to X to announce that Grok 4.2's release candidate is now available as a public beta. Unlike previous Grok versions t",
-        "image": "https://www.basenor.com/cdn/shop/articles/e62222dea01c07ca29374d7d13fb0df4.png?v=1771354937",
-        "source": "Basenor",
-        "url": "https://www.basenor.com/blogs/news/grok-4-2-public-beta-live-xais-rapid-learning-ai-now-available",
-        "date": "18 February 2026"
       }
     ],
     "audio": [
@@ -705,6 +705,18 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/15/meet-kani-tts-2-a-400m-param-open-source-text-to-speech-model-that-runs-in-3gb-vram-with-voice-cloning-support/",
         "date": "16 February 2026"
+      },
+      {
+        "title": "La censure algorithmique s'attaque à Colbert : l'IA et la régulation des discours",
+        "title_en": "The speech police came for Colbert",
+        "summary": "Les régulateurs américains menacent les humoristes, soulevant des questions sur l'IA et la liberté d'expression.",
+        "summary_en": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ",
+        "long_summary": "Le commissaire Brendan Carr de la FCC cible les émissions humoristiques, invoquant des règles obscures. Cela soulève des débats sur l'utilisation de l'IA pour modérer le contenu.\n\nPoints clés :\n• L'IA pourrait être utilisée pour automatiser la censure des discours.\n• Les modèles de langage comme ceux d'OpenAI ou Google pourraient influencer ces décisions.\n• Cela menace la liberté d'expression et la satire.\n\nConclusion sur les implications : Cette affaire pourrait normaliser l'utilisation de l'IA pour contrôler les médias, posant des risques pour la démocratie.",
+        "long_summary_en": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ruckus that briefly took Jimmy Kimmel off the air, his vague threats appear to have been enough to convince CBS to tell Stephen […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_021926_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast",
+        "date": "20 February 2026"
       },
       {
         "title": "Apple pourrait intégrer l'IA conversationnelle dans CarPlay",
@@ -860,18 +872,6 @@
         "image": "https://csmonitor.com/wp-content/uploads/ai-creativity-music.jpg",
         "source": "Christian Science Monitor",
         "url": "https://www.csmonitor.com/The-Culture/Arts/2026/0211/ai-music-creativity-llm-jobs",
-        "date": "14 February 2026"
-      },
-      {
-        "title": "Warner Music Group et Suno : un partenariat révolutionnaire avec modèles sous licence",
-        "title_en": "Warner Music Group and Suno forge groundbreaking partnership with licensed models",
-        "summary": "Le partenariat entre Warner et Suno marque une étape majeure : modèles sous licence et restrictions de téléchargement.",
-        "summary_en": "The partnership between Warner and Suno marks a major milestone: licensed models and download restrictions.",
-        "long_summary": "Un accord historique entre un major et une startup IA musicale.\n\nPoints clés :\n• Warner Music Group signe un partenariat avec Suno\n• Les modèles seront entraînés sur du contenu sous licence\n• Des restrictions de téléchargement seront mises en place\n• Signal que l'industrie musicale s'adapte plutôt que de combattre l'IA\n\nCe partenariat pourrait définir le modèle pour d'autres labels.",
-        "long_summary_en": "A historic agreement between a major and an AI music startup.\n\nKey points:\n• Warner Music Group signs partnership with Suno\n• Models will be trained on licensed content\n• Download restrictions will be implemented\n• Signal that the music industry is adapting rather than fighting AI\n\nThis partnership could define the model for other labels.",
-        "image": "https://margabagus.com/wp-content/uploads/suno-warner-partnership.jpg",
-        "source": "Marga Bagus",
-        "url": "https://margabagus.com/suno-pricing/",
         "date": "14 February 2026"
       }
     ]
