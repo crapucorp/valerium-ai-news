@@ -168,7 +168,14 @@ HEADERS = {
 }
 
 # Mistral API for translation
-MISTRAL_API_KEY = os.environ.get("MISTRAL_API_KEY", "REDACTED_MISTRAL_KEY")
+# Mistral API key from secrets file
+def get_mistral_key():
+    try:
+        with open("/home/ubuntu/.openclaw/workspace/.secrets/mistral.key") as f:
+            return f.read().strip()
+    except:
+        return os.environ.get("MISTRAL_API_KEY", "")
+MISTRAL_API_KEY = get_mistral_key()
 
 def clean_prompt_leaks(text):
     """Remove any leaked prompt instructions from text."""
