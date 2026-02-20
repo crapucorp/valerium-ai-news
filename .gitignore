@@ -1,0 +1,10 @@
+# Ne pas tracker
+memoireinstruction.md
+__pycache__/
+*.pyc
+venv/
+node_modules/
+*.log
+.env
+*.key
+.DS_Store
