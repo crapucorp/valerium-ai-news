@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20 February 2026 - 18:36",
+  "lastUpdate": "21 February 2026 - 08:02",
   "categories": {
     "general": [
       {
@@ -124,67 +124,79 @@
         "date": "20 February 2026"
       },
       {
-        "title": "Zyphra dévoile ZUNA : un modèle de base de 380M paramètres pour les données EEG",
-        "title_en": "Zyphra Releases ZUNA: A 380M-Parameter BCI Foundation Model for EEG Data, Advancing Noninvasive Thought-to-Text Development",
-        "summary": "Zyphra lance ZUNA, un modèle de base pour les signaux EEG, marquant une avancée majeure dans les interfaces cerveau-machine non invasives.",
-        "summary_en": "Brain-computer interfaces (BCIs) are finally having their ‘foundation model’ moment. Zyphra, a research lab focused on large-scale models, recently released ZUNA, a 380M-parameter foundation model spe",
-        "long_summary": "Les interfaces cerveau-machine (BCI) connaissent leur moment 'modèle de base'. Zyphra, un laboratoire de recherche spécialisé, a dévoilé ZUNA, un modèle de 380M paramètres pour les signaux EEG.\n\nPoints clés :\n• ZUNA est un auto-encodeur à diffusion masquée conçu pour le remplissage et la super-résolution des électrodes.\n• Le modèle est open-source sous licence Apache-2.0.\n• Cette avancée pourrait accélérer le développement de la pensée vers le texte non invasif.\n\nCette innovation ouvre la voie à des applications médicales et grand public plus accessibles.",
-        "long_summary_en": "Brain-computer interfaces (BCIs) are finally having their ‘foundation model’ moment. Zyphra, a research lab focused on large-scale models, recently released ZUNA, a 380M-parameter foundation model specifically for EEG signals. ZUNA is a masked diffusion auto-encoder designed to perform channel infilling and super-resolution for any electrode layout. This release includes weights under an Apache-2.0 license and […]\nThe post Zyphra Releases ZUNA: A 380M-Parameter BCI Foundation Model for EEG Data, Advancing Noninvasive Thought-to-Text Development appeared first on MarkTechPost.",
-        "image": "https://i2.wp.com/www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-42.png?w=780&resize=780,470&ssl=1",
+        "title": "Comment créer des agents IA transparents : décisions traçables et contrôlées par l'humain",
+        "title_en": "How to Build Transparent AI Agents: Traceable Decision-Making with Audit Trails and Human Gates",
+        "summary": "Un tutoriel pour concevoir des agents IA transparents avec des décisions traçables et validées par l'humain.",
+        "summary_en": "In this tutorial, we build a glass-box agentic workflow that makes every decision traceable, auditable, and explicitly governed by human approval. We design the system to log each thought, action, and",
+        "long_summary": "Les agents IA doivent être audités et contrôlés pour garantir la transparence. Ce tutoriel montre comment intégrer des journaux d'audit et des validations humaines.\n\nPoints clés :\n• Utilisation de LangGraph pour un contrôle humain en temps réel\n• Enregistrement des décisions dans une base de données sécurisée\n• Gestion des permissions dynamiques pour les opérations à risque\n\nCette approche renforce la confiance dans les systèmes IA en rendant chaque décision traçable et supervisée.",
+        "long_summary_en": "In this tutorial, we build a glass-box agentic workflow that makes every decision traceable, auditable, and explicitly governed by human approval. We design the system to log each thought, action, and observation into a tamper-evident audit ledger while enforcing dynamic permissioning for high-risk operations. By combining LangGraph’s interrupt-driven human-in-the-loop control with a hash-chained database, we […]\nThe post How to Build Transparent AI Agents: Traceable Decision-Making with Audit Trails and Human Gates appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-1-17-218x150.png",
         "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/18/zyphra-releases-zuna-a-380m-parameter-bci-foundation-model-for-eeg-data-advancing-noninvasive-thought-to-text-development/",
-        "date": "20 February 2026"
+        "url": "https://www.marktechpost.com/2026/02/19/how-to-build-transparent-ai-agents-traceable-decision-making-with-audit-trails-and-human-gates/",
+        "date": "21 February 2026"
       },
       {
-        "title": "L'IA pourrait-elle aider à prévenir les épidémies de maladies évitables par la vaccination ?",
-        "title_en": "Measles cases are rising. Other vaccine-preventable infections could be next.",
-        "summary": "L'IA et le Machine Learning pourraient révolutionner la surveillance des épidémies comme la rougeole, mais leur adoption reste limitée.",
-        "summary_en": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children und",
-        "long_summary": "Les cas de rougeole augmentent à Enfield, Londres, touchant surtout les enfants. L'IA pourrait optimiser la détection précoce et la réponse aux épidémies.\n\nPoints clés :\n• Les modèles prédictifs basés sur l'IA analysent les données sanitaires pour anticiper les épidémies\n• Les chatbots et assistants vocaux pourraient améliorer la sensibilisation aux vaccins\n• Les défis incluent la confidentialité des données et l'accès aux technologies dans les zones rurales\n\nL'IA pourrait réduire les épidémies, mais son déploiement nécessite une collaboration entre gouvernements, chercheurs et entreprises technologiques.",
-        "long_summary_en": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children under the age of 11. One in five have needed hospital treatment. It’s another worrying development for an incredibly contagious and potentially…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/GettyImages-2202122248.jpg?resize=1200,600",
+        "title": "NVIDIA révolutionne Dynamo avec une refonte majeure de l'infrastructure",
+        "title_en": "NVIDIA Releases Dynamo v0.9.0: A Massive Infrastructure Overhaul Featuring FlashIndexer, Multi-Modal Support, and Removed NATS and ETCD",
+        "summary": "NVIDIA simplifie le déploiement des modèles IA avec Dynamo v0.9.0, supprimant des dépendances lourdes et améliorant le traitement multi-modal.",
+        "summary_en": "NVIDIA has just released Dynamo v0.9.0. This is the most significant infrastructure upgrade for the distributed inference framework to date. This update simplifies how large-scale models are deployed ",
+        "long_summary": "NVIDIA vient de lancer Dynamo v0.9.0, la plus grande mise à jour de son framework d'inférence distribuée.\n\nPoints clés :\n• Suppression de NATS et etcd pour simplifier l'architecture\n• Introduction de FlashIndexer pour un traitement plus rapide\n• Support multi-modal amélioré pour les GPU\n\nCette refonte marque un tournant dans la gestion des modèles IA, réduisant la complexité tout en boostant les performances.",
+        "long_summary_en": "NVIDIA has just released Dynamo v0.9.0. This is the most significant infrastructure upgrade for the distributed inference framework to date. This update simplifies how large-scale models are deployed and managed. The release focuses on removing heavy dependencies and improving how GPUs handle multi-modal data. The Great Simplification: Removing NATS and etcd The biggest change in […]\nThe post NVIDIA Releases Dynamo v0.9.0: A Massive Infrastructure Overhaul Featuring FlashIndexer, Multi-Modal Support, and Removed NATS and ETCD appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-46-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/19/nvidia-releases-dynamo-v0-9-0-a-massive-infrastructure-overhaul-featuring-flashindexer-multi-modal-support-and-removed-nats-and-etcd/",
+        "date": "21 February 2026"
+      },
+      {
+        "title": "Comment concevoir un agent de recherche polyvalent avec l'IA",
+        "title_en": "How to Design a Swiss Army Knife Research Agent with Tool-Using AI, Web Search, PDF Analysis, Vision, and Automated Reporting",
+        "summary": "Un agent IA capable de recherche web, analyse de PDF et génération de rapports automatisés révolutionne la recherche.",
+        "summary_en": "In this tutorial, we build a “Swiss Army Knife” research agent that goes far beyond simple chat interactions and actively solves multi-step research problems end-to-end. We combine a tool-using agent ",
+        "long_summary": "Les agents IA évoluent vers des outils autonomes capables de résoudre des problèmes complexes.\n\nPoints clés :\n• Combinaison de recherche web, analyse de PDF et vision pour l'analyse de graphiques\n• Génération automatique de rapports structurés\n• Architecture modulaire pour une extensibilité future\n\nConclusion sur les implications : Cette approche ouvre la voie à des assistants IA plus autonomes et spécialisés.",
+        "long_summary_en": "In this tutorial, we build a “Swiss Army Knife” research agent that goes far beyond simple chat interactions and actively solves multi-step research problems end-to-end. We combine a tool-using agent architecture with live web search, local PDF ingestion, vision-based chart analysis, and automated report generation to demonstrate how modern agents can reason, verify, and produce […]\nThe post How to Design a Swiss Army Knife Research Agent with Tool-Using AI, Web Search, PDF Analysis, Vision, and Automated Reporting appeared first on MarkTechPost.",
+        "image": "https://cryptopond.com/wp-content/uploads/2026/02/How-to-Design-a-Swiss-Army-Knife-Research-Agent-with-300x214.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/",
+        "date": "21 February 2026"
+      },
+      {
+        "title": "Les métiers de demain : Biomécanicienne des seins, une révolution portée par l'IA",
+        "title_en": "Job titles of the future: Breast biomechanic",
+        "summary": "L'IA révolutionne la biomécanique des seins, ouvrant la voie à des métiers inédits et des solutions personnalisées.",
+        "summary_en": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wake",
+        "long_summary": "Joanna Wakefield-Scurr, pionnière en biomécanique des seins, utilise l'IA pour résoudre des problèmes médicaux complexes.\n\nPoints clés :\n• L'IA et le machine learning analysent les données biomécaniques pour des solutions sur mesure\n• Les modèles de langage comme ceux d'OpenAI ou Google pourraient optimiser les diagnostics\n• Cette approche ouvre la voie à des métiers hybrides entre santé et technologie\n\nL'IA pourrait démocratiser l'accès à des solutions médicales personnalisées, tout en créant de nouveaux emplois spécialisés.",
+        "long_summary_en": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wakefield-Scurr thought she could do a little research and find a science-backed option. Two decades later, she’s still looking. Wakefield-Scurr now leads an 18-person team…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/2CCEPM9.jpg?resize=1200,600",
         "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
-        "date": "20 February 2026"
+        "url": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
+        "date": "21 February 2026"
       },
       {
-        "title": "Les meilleurs purificateurs d'air de 2026 : des modèles intelligents pour un air sain",
-        "title_en": "Best Air Purifiers of 2026: Don't Suffer Bad Winter Air Quality With These Top Models",
-        "summary": "Des purificateurs d'air intelligents, optimisés par IA, révolutionnent la qualité de l'air intérieur en hiver. Découvrez les modèles les plus performants.",
-        "summary_en": "We put 15 of the latest air purifier models through CNET's \"smoke bomb test\" to find out which perform the best at particle filtering, noise levels and energy efficiency. Here are the models to clean ",
-        "long_summary": "Les purificateurs d'air de 2026 intègrent des algorithmes d'IA et de machine learning pour une filtration intelligente.\n\nPoints clés :\n• Utilisation de LLMs pour analyser la qualité de l'air en temps réel\n• Adaptation automatique des paramètres selon les besoins\n• Réduction de la consommation énergétique grâce à l'optimisation prédictive\n\nCes innovations marquent une avancée majeure dans la domotique et la santé environnementale.",
-        "long_summary_en": "We put 15 of the latest air purifier models through CNET's \"smoke bomb test\" to find out which perform the best at particle filtering, noise levels and energy efficiency. Here are the models to clean your winter air.",
-        "image": "https://www.cnet.com/a/img/resize/a3580f342ee7d414e67e8bb06ab573fc9539fb74/hub/2025/11/25/45d95630-9996-4225-b91c-13727972bd0e/air-purifier-lab-winner-cnet.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/home/kitchen-and-household/best-air-purifier/",
-        "date": "20 February 2026"
-      },
-      {
-        "title": "Comment l'IA de Google a donné un avantage aux athlètes américains",
-        "title_en": "How Team USA's Olympic Skiers and Snowboarders Got an Edge From Google AI",
-        "summary": "Google a développé un outil d'entraînement IA pour les skieurs et snowboarders américains, optimisant leurs performances grâce au machine learning.",
-        "summary_en": "Google engineers hit the slopes with Team USA's skiers and snowboarders to build a custom AI training tool.",
-        "long_summary": "Google a collaboré avec les athlètes américains pour créer un outil d'IA personnalisé, analysant leurs mouvements et suggérant des améliorations.\n\nPoints clés :\n• Utilisation de modèles de machine learning pour optimiser les techniques de glisse\n• Analyse des données en temps réel pour ajuster les entraînements\n• Collaboration directe entre ingénieurs et athlètes pour affiner l'outil\n\nCette innovation montre comment l'IA peut transformer l'entraînement sportif en offrant des insights précis et personnalisés.",
-        "long_summary_en": "Google engineers hit the slopes with Team USA's skiers and snowboarders to build a custom AI training tool.",
-        "image": "https://www.cnet.com/a/img/resize/93939968a1f7b7c7a3573351627ec5296d6e576c/hub/2026/02/19/72c26e46-e197-4623-a1fe-756237044e9a/mikaela-shiffrin-team-usa-2026-gettyimages-2262334712.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/how-team-usas-olympic-skiers-and-snowboarders-got-an-edge-from-google-ai/",
-        "date": "20 February 2026"
-      },
-      {
-        "title": "Plato lève 14,5 millions de dollars pour automatiser le commerce de gros avec l'IA",
-        "title_en": "Plato closes $14.5M to bring AI automation to wholesale trade",
-        "summary": "Plato, startup berlinoise, utilise l'IA générative pour révolutionner la distribution en gros, un secteur clé mais méconnu.",
-        "summary_en": "Plato, a Berlin-based startup, has raised $14.5 million in seed funding to bring generative AI into wholesale distribution, a massive industry that rarely makes tech headlines but quietly moves a sign",
-        "long_summary": "Plato, startup berlinoise, a levé 14,5 millions de dollars pour intégrer l'IA générative dans la distribution en gros, un secteur qui représente une part importante du commerce mondial.\n\nPoints clés :\n• L'IA générative automatise les processus de distribution en gros, un domaine traditionnellement peu numérisé\n• Le tour de table a été mené par Atomico, avec la participation de Cherry Ventures, Discovery Ventures et D11Z\n• Cette levée de fonds vise à accélérer l'adoption de l'IA dans un secteur clé mais souvent ignoré par les innovations technologiques\n\nCette avancée pourrait transformer la logistique et la gestion des stocks, en optimisant les chaînes d'approvisionnement mondiales.",
-        "long_summary_en": "Plato, a Berlin-based startup, has raised $14.5 million in seed funding to bring generative AI into wholesale distribution, a massive industry that rarely makes tech headlines but quietly moves a significant share of the world’s goods. The round was led by Atomico, with Cherry Ventures, Discovery Ventures, and D11Z joining in. Wholesale distribution accounts for […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FPlato-closes-14.5M-to-bring-AI-automation-to-wholesale-trade.png&signature=020563c1bc8000e26d7173d2d2e9e358",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/plato-closes-14-5m-to-bring-ai-automation-to-wholesale-trade",
-        "date": "20 February 2026"
+        "title": "2025 : L'ère du retour à la réalité pour l'IA",
+        "title_en": "Exclusive eBook: The great Al hype correction of 2025",
+        "summary": "Les promesses non tenues des géants de l'IA en 2025 ont forcé une remise en question des attentes. Décryptage dans un eBook exclusif.",
+        "summary_en": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to read",
+        "long_summary": "2025 a marqué un tournant pour l'IA, avec des promesses exagérées des leaders du secteur. Les modèles de langage et l'IA générative ont été au cœur des désillusions.\n\nPoints clés :\n• Les dirigeants d'OpenAI, Google et Anthropic ont surestimé les capacités des LLMs\n• Les attentes des investisseurs et du public ont été déçues\n• Une correction des ambitions est nécessaire pour un développement plus réaliste\n\nCette remise en question pourrait redéfinir l'avenir de l'IA, avec un focus sur des applications concrètes plutôt que des promesses spectaculaires.",
+        "long_summary_en": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/AI-Hype-Thumb.png?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+        "date": "21 February 2026"
       }
     ],
     "image": [
+      {
+        "title": "Google lance Gemini 3.1 Pro : exécution de tâches complexes et nouvelle fonctionnalité photoshoot pour Pomelli",
+        "title_en": "Google Releases Gemini 3.1 Pro With Ability to Execute Complex Tasks; Pomelli Gets New Photoshoot Feature | Technology News",
+        "summary": "Gemini 3.1 Pro excelle dans les tâches complexes, tandis que Pomelli propose une nouvelle fonctionnalité de photoshoot pour les campagnes marketing.",
+        "summary_en": "The AI model achieved a “verified” ... Meanwhile, Gemini 3 Pro got a score of 31.1 percent, <strong>OpenAI&#x27;s GPT-5.2 achieved 52.9 percent, and Anthropic&#x27;s Opus 4.6 got a score of 68.8</stro",
+        "long_summary": "Google renforce son écosystème IA avec Gemini 3.1 Pro, une version améliorée capable de traiter des tâches plus complexes, et une nouvelle fonctionnalité pour Pomelli.\n\nPoints clés :\n• Gemini 3.1 Pro obtient un score de 77,1 % sur le benchmark ARC-AGI-2\n• Disponible via l'application Gemini pour les utilisateurs Pro et Ultra\n• Pomelli, l'outil marketing expérimental, permet de créer des portfolios et bannières à partir d'une seule image\n\nCette mise à jour confirme la domination de Google dans les modèles de langage avancés, rivalisant avec OpenAI et Anthropic.",
+        "long_summary_en": "Home Ai Ai News Google Releases Gemini 3.1 Pro With Ability to Execute Complex Tasks; Pomelli Gets New Photoshoot Feature Google Releases Gemini 3.1 Pro With Ability to Execute Complex Tasks; Pomelli Gets New Photoshoot Feature Pomelli’s new Photoshoot feature allows users to create an image portfolio and campaign banners for any product from a single reference image. Written by Dhruv Raghav , Edited by David Delima | Updated: 20 February 2026 14:03 IST Photo Credit: Google Gemini 3.1 Pro comes higher rate limits for Google AI Pro and Ultra users in the Gemini app Click Here to Add Gadgets360 ",
+        "image": "https://i.gadgets360cdn.com/large/gemini_31_pro_launched_google_main_1771575156602.png",
+        "source": "Gadgets360",
+        "url": "https://www.gadgets360.com/ai/news/gemini-3-1-pro-ai-model-release-features-capabilities-availability-pomelli-photoshoot-google-11111764",
+        "date": "21 February 2026"
+      },
       {
         "title": "Gemini de Google a-t-il mis échec et mat à ChatGPT d'OpenAI ?",
         "title_en": "Did Google's Gemini Just Say \"Checkmate\" to OpenAI's ChatGPT? | The Motley Fool",
@@ -244,6 +256,18 @@
         "source": "Apatero",
         "url": "https://apatero.com/blog/dalle-vs-midjourney-vs-flux-comparison-2026",
         "date": "14 February 2026"
+      },
+      {
+        "title": "Guide pratique pour la génération, le contrôle et l'édition d'images avec HuggingFace Diffusers",
+        "title_en": "A Coding Guide to High-Quality Image Generation, Control, and Editing Using HuggingFace Diffusers",
+        "summary": "Un tutoriel complet pour créer des images de haute qualité avec Stable Diffusion et Diffusers, incluant contrôle et édition avancés.",
+        "summary_en": "In this tutorial, we design a practical image-generation workflow using the Diffusers library. We start by stabilizing the environment, then generate high-quality images from text prompts using Stable",
+        "long_summary": "Ce guide détaille un workflow pratique pour la génération d'images via la bibliothèque Diffusers. Il couvre la stabilisation de l'environnement, l'optimisation des modèles et l'édition localisée.\n\nPoints clés :\n• Utilisation de Stable Diffusion avec un scheduler optimisé\n• Accélération de l'inférence via LoRA et latent consistency\n• Contrôle de la composition avec ControlNet\n• Édition localisée des images\n\nCe tutoriel montre comment exploiter les outils open-source pour des résultats professionnels en IA générative.",
+        "long_summary_en": "In this tutorial, we design a practical image-generation workflow using the Diffusers library. We start by stabilizing the environment, then generate high-quality images from text prompts using Stable Diffusion with an optimized scheduler. We accelerate inference with a LoRA-based latent consistency approach, guide composition with ControlNet under edge conditioning, and finally perform localized edits via […]\nThe post A Coding Guide to High-Quality Image Generation, Control, and Editing Using HuggingFace Diffusers appeared first on MarkTechPost.",
+        "image": "https://machinelearningmastery.com/wp-content/uploads/2024/06/diffusers-05.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/20/a-coding-guide-to-high-quality-image-generation-control-and-editing-using-huggingface-diffusers/",
+        "date": "21 February 2026"
       },
       {
         "title": "WordPress intègre un assistant IA pour éditer les sites via des prompts",
@@ -416,6 +440,30 @@
         "date": "18 February 2026"
       },
       {
+        "title": "L'IA génère des vidéos hyperréalistes de Tom Cruise et Brad Pitt : la fin d'Hollywood ?",
+        "title_en": "You have seen the AI video of \"Tom Cruise\" and \"Brad Pitt\" — is it the beginning of the end for Hollywood?",
+        "summary": "Une vidéo virale d'IA montre des versions hyperréalistes de Tom Cruise et Brad Pitt, relançant les craintes de violation de droits d'auteur à Hollywood.",
+        "summary_en": "“It’s happening fast,” Elon Musk wrote in response to one Seedance-generated clip shared on X. ... While US-based tools such as OpenAI’s Sora can also generate AI video, Seedance’s rapid rollout — and",
+        "long_summary": "Une vidéo générée par IA avec Seedance 2.0 de ByteDance montre des acteurs célèbres dans une scène fictive, provoquant des tensions à Hollywood.\n\nPoints clés :\n• Seedance 2.0 crée des vidéos hyperréalistes à partir de prompts textuels\n• Hollywood accuse ByteDance de violation massive de droits d'auteur\n• L'IA pourrait bouleverser l'industrie du cinéma\n\nL'essor de l'IA générative soulève des questions sur la propriété intellectuelle et l'avenir des acteurs.",
+        "long_summary_en": "You have seen the AI video of “Tom Cruise” and “Brad Pitt” — is it the beginning of the end for Hollywood? Asger Risom • X.com, Seedance 2.0 A viral AI video created with ByteDance’s new Seedance 2.0 tool shows hyper-realistic versions of Brad Pitt and Tom Cruise fighting over Jeffrey Epstein, prompting Hollywood to accuse the Chinese company of large-scale copyright infringement. Others are reading now A hyper-realistic AI video showing digital versions of Brad Pitt and Tom Cruise fighting over Jeffrey Epstein is going viral — and reigniting copyright fears in Hollywood. The clip, created usi",
+        "image": "https://media.mgdk.dk/wp-content/uploads/sites/2/2026/02/AI-video.webp",
+        "source": "Dagens",
+        "url": "https://www.dagens.com/technology/ai/you-have-seen-the-ai-video-of-tom-cruise-and-brad-pitt-is-it-the-beginning-of-the-end-for-hollywood",
+        "date": "21 February 2026"
+      },
+      {
+        "title": "Seedance 2.0 : l'IA vidéo de ByteDance accessible gratuitement aux créateurs",
+        "title_en": "Seedance 2.0 AI Video Platform Goes Live, Giving Creators Free Access to ByteDance’s Viral Video Generation Model",
+        "summary": "Seedance 2.0 permet aux créateurs d'utiliser gratuitement l'IA vidéo de ByteDance via une interface web. Elon Musk et Weibo ont salué son impact.",
+        "summary_en": "For creators working on product ... crowded very fast. OpenAI has Sora. Google has Veo. Kuaishou has Kling. <strong>Runway keeps shipping Gen-4 updates</strong>....",
+        "long_summary": "Seedance 2.0, la plateforme d'IA vidéo de ByteDance, est désormais accessible sans installation. Elle propose des versions gratuites et payantes.\n\nPoints clés :\n• Accès direct à l'IA Seedance via un navigateur\n• Modèle viral avec des millions de vues sur Weibo\n• Réaction d'Elon Musk : « Ça va vite »\n\nCette innovation pourrait bouleverser la création de contenu vidéo, rivalisant avec les géants comme OpenAI et Google.",
+        "long_summary_en": "Skip to content Pinion Newswire » Newsroom » Seedance 2.0 AI Video Platform Goes Live, Giving Creators Free Access to ByteDance’s Viral Video Generation Model Now Reading Seedance 2.0 AI Video Platform Goes Live, Giving Creators Free Access to ByteDance’s Viral Video Generation Model PR#59390 AI Seedance 2.0 AI Video Platform Goes Live, Giving Creators Free Access to ByteDance’s Viral Video Generation Model Source: Seedance2ai.online Published on February 20, 2026 at 04:02 EST LOS ANGELES, CA–(PinionNewswire.com)– LOS ANGELES, CA (PinionNewswire) — Seedance2ai.online today announced the launch",
+        "image": "https://pinionnewswire.com/wp-content/uploads/jet-form-builder/1eb0fbebac2bf0a4724735b65682960b/2026/02/screenshot-20260215-085710-768x407-1.jpg",
+        "source": "Pinionnewswire",
+        "url": "https://pinionnewswire.com/press-release/seedance-2-0-ai-video-platform-goes-live-giving-creators-free-access-to-bytedances-viral-video-generation-model-2/",
+        "date": "21 February 2026"
+      },
+      {
         "title": "OpenAI recrute un expert des célébrités pour apaiser Hollywood face à l'IA",
         "title_en": "Aol",
         "summary": "OpenAI embauche Charles Porch, ex-Instagram, pour convaincre les stars de l'IA. Une stratégie face aux critiques de Cameron, Del Toro et d'autres.",
@@ -486,30 +534,6 @@
         "source": "Variety",
         "url": "https://variety.com/2026/film/news/bytedance-safeguards-seedance-disney-legal-threat-ip-violations-1236664395/",
         "date": "17 February 2026"
-      },
-      {
-        "title": "Seedance 2.0 : ByteDance lance sa plateforme de vidéos IA gratuite",
-        "title_en": "Seedance 2.0 AI Video Platform Goes Live, Giving Creators Free Access to ByteDance’s Viral Video Generation Model",
-        "summary": "Seedance 2.0 permet aux créateurs d'utiliser gratuitement l'IA de ByteDance pour générer des vidéos virales.",
-        "summary_en": "For creators working on product ... crowded very fast. OpenAI has Sora. Google has Veo. Kuaishou has Kling. <strong>Runway keeps shipping Gen-4 updates</strong>....",
-        "long_summary": "ByteDance a lancé Seedance 2.0, une plateforme IA générative de vidéos accessible sans installation.\n\nPoints clés :\n• Accès gratuit à l'IA de ByteDance via navigateur\n• Modèle viral avec des millions de vues sur Weibo\n• Abonnements Pro à partir de 9$/mois\n\nCette innovation pourrait bouleverser le marché des outils créatifs, face à des géants comme OpenAI ou Google.",
-        "long_summary_en": "Skip to content Pinion Newswire » Newsroom » Seedance 2.0 AI Video Platform Goes Live, Giving Creators Free Access to ByteDance's Viral Video Generation Model Now Reading Seedance 2.0 AI Video Platform Goes Live, Giving Creators Free Access to ByteDance’s Viral Video Generation Model PR#58693 Announcement Seedance 2.0 AI Video Platform Goes Live, Giving Creators Free Access to ByteDance’s Viral Video Generation Model Source: Seedance2ai.online Published on February 16, 2026 at 11:02 EST LOS ANGELES — February 16, 2026–(PinionNewswire.com)– LOS ANGELES — February 16, 2026 (PinionNewswire) — See",
-        "image": "https://pinionnewswire.com/wp-content/uploads/jet-form-builder/f9b23d766acf3ef2a3e1fde63a8b55ff/2026/02/screenshot-20260215-085710.jpg",
-        "source": "Pinionnewswire",
-        "url": "https://pinionnewswire.com/press-release/seedance-2-0-ai-video-platform-goes-live-giving-creators-free-access-to-bytedances-viral-video-generation-model/",
-        "date": "17 February 2026"
-      },
-      {
-        "title": "ByteDance promet de lutter contre l'utilisation non autorisée de droits d'auteur dans ses outils IA vidéo",
-        "title_en": "ByteDance pledges to prevent unauthorised IP use on AI video tool after Disney threat | Reuters",
-        "summary": "ByteDance renforce ses mesures contre le plagiat après les menaces de Disney concernant ses outils IA générative.",
-        "summary_en": "In December, <strong>Disney signed a licensing deal with OpenAI, letting the startup use characters from Star Wars, Pixar and Marvel franchises in its Sora video generator</strong>.",
-        "long_summary": "ByteDance, propriétaire de TikTok, a annoncé des mesures pour empêcher l'utilisation non autorisée de droits d'auteur dans ses outils IA vidéo.\n\nPoints clés :\n• ByteDance réagit aux menaces de Disney concernant des violations potentielles de droits d'auteur.\n• L'entreprise promet des améliorations techniques pour éviter l'entraînement sur des contenus protégés.\n• Cette annonce intervient dans un contexte de tensions croissantes autour de l'utilisation éthique des données par les modèles IA.\n\nConclusion sur les implications. Cette décision pourrait influencer les pratiques des autres géants de l'IA comme OpenAI, Google et Anthropic.",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/china/disney-sends-cease-and-desist-bytedance-over-ai-generated-videos-2026-02-16/",
-        "date": "16 February 2026"
       }
     ],
     "llm": [
@@ -574,6 +598,18 @@
         "date": "14 February 2026"
       },
       {
+        "title": "Google Gemini Pro 3.1 : une IA plus performante et moins chère que ChatGPT et Claude",
+        "title_en": "Google Gemini Pro 3.1: Alphabet Updates Its Benchmark AI, Analysis Says It Undercuts OpenAI's ChatGPT, Anthropic's Claude On Cost | Asianet Newsable",
+        "summary": "Google lance Gemini Pro 3.1, une IA surpassant ses concurrents en performance et en coût. Une révolution dans le secteur.",
+        "summary_en": "Google Gemini Pro 3.1: Alphabet Updates Its Benchmark AI, Analysis Says It Undercuts OpenAI&#x27;s ChatGPT, Anthropic&#x27;s Claude On Cost",
+        "long_summary": "Google a dévoilé Gemini Pro 3.1, une mise à jour majeure de son modèle d'IA, qui surpasse les modèles concurrents comme ChatGPT et Claude.\n\nPoints clés :\n• Gemini Pro 3.1 domine les classements AI, avec des scores supérieurs dans 6 des 10 paramètres d'évaluation\n• Le modèle fonctionne à moins de la moitié du coût de ses concurrents\n• Cette avancée pourrait renforcer la position de Google dans le secteur de l'IA\n\nConclusion sur les implications : Cette innovation pourrait redéfinir la compétition dans l'IA générative, avec des implications majeures pour les coûts et les performances des modèles.",
+        "long_summary_en": "Home Markets Google Gemini Pro 3.1: Alphabet Updates Its Benchmark AI, Analysis Says It Undercuts OpenAI's ChatGPT, Anthropic's Claude On Cost Google Gemini Pro 3.1: Alphabet Updates Its Benchmark AI, Analysis Says It Undercuts OpenAI's ChatGPT, Anthropic's Claude On Cost 2 Min read Author : Stocktwits Inc Published : Feb 20 2026, 02:05 PM IST Share this Article FB TW Linkdin Whatsapp GN Follow Us Google’s Gemini 3, released in November, drew widespread praise and gave a notable lift to the company’s financial performance. Gemini Pro 3.1 has already topped benchmarks such as Artificial Analysi",
+        "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-fbb1ee0b-ee40-4021-9437-75c24d721710.webp",
+        "source": "Newsable",
+        "url": "https://newsable.asianetnews.com/markets/google-gemini-pro-3-1-alphabet-updates-its-benchmark-ai-analysis-says-it-undercuts-openai-s-chatgpt-anthropic-s-claude-on-cost-articleshow-xek6bh3",
+        "date": "21 February 2026"
+      },
+      {
         "title": "Anthropic défie Gemini 3 Pro et GPT-5.2 comme jamais auparavant",
         "title_en": "Anthropic met la pression sur Gemini 3 Pro et GPT-5.2 comme jamais auparavant ! | LesNews",
         "summary": "Anthropic accélère la course aux LLMs avec des performances inédites face à Google et OpenAI.",
@@ -622,6 +658,30 @@
         "date": "16 February 2026"
       },
       {
+        "title": "Google dévoile Gemini 3.1 Pro pour un raisonnement avancé",
+        "title_en": "Google Unveils Gemini 3.1 Pro for Advanced Reasoning",
+        "summary": "Google lance Gemini 3.1 Pro, un modèle d'IA conçu pour le raisonnement complexe et l'analyse approfondie, surpassant les assistants conversationnels classiques.",
+        "summary_en": "Gemini 3.1 Pro is part of Google’s broader strategy to compete more directly with rival models like OpenAI’s GPT-X family and Anthropic’s Claude, which have been pushing into professional-grade workfl",
+        "long_summary": "Google renforce sa position dans l'IA avec Gemini 3.1 Pro, une version optimisée pour des tâches analytiques exigeantes.\n\nPoints clés :\n• Capacités accrues en résolution de problèmes complexes\n• Meilleure cohérence logique et rétention contextuelle\n• Ciblage des professionnels et entreprises, au-delà du simple chatbot\n\nCette avancée marque une étape cruciale dans la course aux modèles d'IA générative haut de gamme.",
+        "long_summary_en": "AI Search Cryptocurrency Earnings Enterprise About TechBooky Submit Article Advertise Here Contact Us African AI Metaverse Gadgets Generic selectors Exact matches only Search in title Search in content Post Type Selectors Search in posts Search in pages African AI Metaverse Gadgets Generic selectors Exact matches only Search in title Search in content Post Type Selectors Search in posts Search in pages Generic selectors Exact matches only Search in title Search in content Post Type Selectors Search in posts Search in pages Home Artificial Intelligence Google Unveils Gemini 3.1 Pro for Advanced",
+        "image": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/02/20114228/gemini-3.1_pro_keyword_header_da.width-2200.format-webp.webp",
+        "source": "Techbooky",
+        "url": "https://www.techbooky.com/google-unveils-gemini-3-1-pro-for-advanced-reasoning/",
+        "date": "21 February 2026"
+      },
+      {
+        "title": "Google Gemini 3.1 Pro surpasse ses concurrents dans les benchmarks clés",
+        "title_en": "Google Gemini 3.1 Pro Is Here, Beats Rivals in Key AI Benchmarks | PCMag",
+        "summary": "Google lance Gemini 3.1 Pro, un modèle d'IA surpassant ses concurrents dans plusieurs tests de référence.",
+        "summary_en": "ChatGPT vs. Gemini: I Tested Both, and the Winner Might Surpise You · U Mad? Onstage Snub Between OpenAI and Anthropic CEOs Has a Backstory",
+        "long_summary": "Google a dévoilé Gemini 3.1 Pro, une mise à jour majeure de son modèle d'IA générative.\n\nPoints clés :\n• Le modèle excelle dans les benchmarks de raisonnement, de compréhension et de génération de texte.\n• Il dépasse les performances de modèles concurrents comme ceux d'OpenAI et d'Anthropic.\n• Cette avancée renforce la position de Google dans la course aux grands modèles de langage.\n\nCette performance pourrait accélérer l'adoption de l'IA générative dans des applications professionnelles et grand public.",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://sm.pcmag.com/t/pcmag_au/news/g/google-gem/google-gemini-31-pro-is-here-beats-rivals-in-key-ai-benchmar_nwna.1920.jpg",
+        "source": "Pcmag",
+        "url": "https://www.pcmag.com/news/google-gemini-31-pro-is-here-beats-rivals-in-key-ai-benchmarks",
+        "date": "21 February 2026"
+      },
+      {
         "title": "Guide pour choisir l'IA à l'ère des agents intelligents",
         "title_en": "A Guide to Which AI to Use in the Agentic Era",
         "summary": "L'IA évolue vers des agents autonomes. Comment choisir entre modèles, apps et outils pour maximiser son potentiel.",
@@ -656,42 +716,6 @@
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/llm-updates",
         "date": "14 February 2026"
-      },
-      {
-        "title": "L'IA accélère et pourrait déclencher la quatrième révolution industrielle",
-        "title_en": "AI is evolving fast and may bring the fourth industrial revolution with it - ABC News",
-        "summary": "L'IA génère des fausses informations ultra-réalistes et progresse à un rythme effréné, selon un journaliste témoin d'une fake news le concernant.",
-        "summary_en": "He wrote: &quot;… <strong>on February 5th, two major AI labs released new models on the same day: GPT-5.3 Codex from OpenAI, and Opus 4.6 from Anthropic</strong> (the makers of Claude, one of the main",
-        "long_summary": "Un journaliste a été confronté à une fausse nouvelle générée par IA le mettant en scène dans un conflit fictif. Cette expérience illustre la rapidité de l'évolution de l'IA et sa complexité croissante.\n\nPoints clés :\n• Les modèles d'IA comme GPT-5.3 et Opus 4.6 sont publiés à quelques minutes d'intervalle\n• Les fausses informations générées par IA deviennent de plus en plus convaincantes\n• L'IA pourrait déclencher une quatrième révolution industrielle\n\nL'essor de l'IA soulève des questions sur la vérification des informations et son impact économique et social.",
-        "long_summary_en": "analysis AI is evolving fast and may bring the fourth industrial revolution with it By Alan Kohler Topic: AI 13h ago 13 hours ago Sun 15 Feb 2026 at 6:45pm The price of intelligence is falling towards zero as AI grows more sophisticated. ( Unsplash: Solen Feyissa ) Artificial intelligence got personal for me last week. It also became clear how quickly it's developing now and that it is more complicated than we thought. A week ago, someone sent me a link to an online article describing a flaming confrontation between me and the CEO of the Commonwealth Bank, Matt Comyn, on the set of 7.30. The s",
-        "image": "https://live-production.wcms.abc-cdn.net.au/c5c5fdf7e827440df4980efe95d3bd4d?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=240&width=862&height=485&imformat=generic",
-        "source": "Abc",
-        "url": "https://www.abc.net.au/news/2026-02-16/ai-jobs-fake-breakthrough-resignation-chat-gpt-claude/106346440",
-        "date": "16 February 2026"
-      },
-      {
-        "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
-        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "summary": "Analyse détaillée des coûts des modèles Grok, Gemini, GPT-4o et Claude en 2026. Des écarts de prix significatifs selon les fournisseurs.",
-        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs as of December 2025: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI ",
-        "long_summary": "Cette étude compare les modèles de tarification des APIs Grok (xAI), Gemini (Google), GPT-4o (OpenAI) et Claude (Anthropic) en décembre 2025.\n\nPoints clés :\n• Grok 4.1 est le moins cher ($0,20M input / $0,50M output)\n• Claude Opus 4 est le plus coûteux ($15M input / $75M output)\n• GPT-4o et Gemini se situent entre les deux\n\nConclusion sur les implications : Les entreprises doivent évaluer leurs besoins en tokens pour optimiser leurs coûts.",
-        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 2/13/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs as of December 2025: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI in partnership with the X platform), Google’s Gemini, OpenAI’s ChatGPT (AI s",
-        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-        "date": "14 February 2026"
-      },
-      {
-        "title": "Claude Opus 4.6 : une avancée majeure en IA agentique et raisonnement abstrait",
-        "title_en": "Claude Opus 4.6: Benchmarks, 1M Context & Coding Guide (2026) - philippdubach.com",
-        "summary": "Anthropic dévoile Claude Opus 4.6, un modèle révolutionnaire avec 1M tokens de contexte et des performances record en codage et raisonnement.",
-        "summary_en": "GPT-5.2 still holds advantages in abstract reasoning (ARC-AGI-2, though the gap narrowed significantly) and math. Gemini 3 Pro offers the best cost efficiency and multimodal processing with its own 1M",
-        "long_summary": "Anthropic a lancé Claude Opus 4.6, une mise à jour majeure de son modèle de langage, avec une fenêtre de contexte étendue à 1 million de tokens et des capacités agentiques renforcées.\n\nPoints clés :\n• Performances record sur ARC-AGI-2 (68,8%), surpassant GPT-5.2 et Gemini 3 Pro\n• Amélioration significative en codage (Terminal Bench 2.0 à 65,4%)\n• Pricing inchangé à 5$/25$ par million de tokens\n\nConclusion sur les implications. Cette version marque une avancée majeure dans l'autonomie des IA, avec des applications potentielles dans la recherche, le développement logiciel et les tâches complexes.",
-        "long_summary_en": "Anthropic just released Claude Opus 4.6, the latest frontier AI model in the Claude family. It’s a significant upgrade over Opus 4.5 and arguably the most agentic-focused LLM release we’ve seen from any lab this year. Key upgrades: better agentic AI coding capabilities (plans more carefully, sustains longer tasks, catches its own mistakes), a 1M token context window (a first for Opus-class models), and 128K output tokens. Pricing holds at $5/$25 per million tokens. LLM Benchmark Results: How Claude Opus 4.6 Compares The benchmark numbers are strong across the board. Opus 4.6 hits state-of-the-",
-        "image": "https://static.philippdubach.com/ograph/ograph-opus46.jpg",
-        "source": "Philippdubach",
-        "url": "https://philippdubach.com/posts/claude-opus-4.6-anthropics-new-flagship-ai-model-for-agentic-coding/",
-        "date": "19 February 2026"
       }
     ],
     "audio": [
@@ -886,17 +910,17 @@
       "date": "18 February 2026"
     },
     {
+      "title": "Google Gemini Pro 3.1 : une IA plus performante et moins chère que ChatGPT et Claude",
+      "title_en": "Google Gemini Pro 3.1: Alphabet Updates Its Benchmark AI, Analysis Says It Undercuts OpenAI's ChatGPT, Anthropic's Claude On Cost | Asianet Newsable",
+      "source": "Newsable",
+      "url": "https://newsable.asianetnews.com/markets/google-gemini-pro-3-1-alphabet-updates-its-benchmark-ai-analysis-says-it-undercuts-openai-s-chatgpt-anthropic-s-claude-on-cost-articleshow-xek6bh3",
+      "date": "21 February 2026"
+    },
+    {
       "title": "Gemini 3 Deep Think et l'explosion des géants de l'IA en 2026",
       "title_en": "[AINews] new Gemini 3 Deep Think, Anthropic $30B @ $380B, GPT-5.3-Codex Spark, MiniMax M2.5",
       "source": "Latent",
       "url": "https://www.latent.space/p/ainews-new-gemini-3-deep-think-anthropic",
-      "date": "14 February 2026"
-    },
-    {
-      "title": "Gemini 3 de Google surpasse GPT-5.2 et Claude Opus 4.6",
-      "title_en": "Google’s Updated Gemini 3 Deep Think Outperforms GPT-5.2 and Claude Opus 4.6 | Technology News",
-      "source": "Gadgets360",
-      "url": "https://www.gadgets360.com/ai/news/google-gemini-3-deep-think-upgraded-outperforms-openai-gpt-5-2-claude-opus-4-6-details-10998791",
       "date": "14 February 2026"
     }
   ]
