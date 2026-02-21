@@ -967,21 +967,24 @@ def merge_news(existing_data, new_articles):
         categories[cat].insert(0, news_item)
         added += 1
     
-    # Sort each category by priority (major AI players first), then limit to 15
+    # Sort each category by date (most recent first), then limit to 15
+    def parse_date(date_str):
+        """Parse date string like '20 February 2026' to datetime for sorting."""
+        if not date_str:
+            return datetime.min
+        try:
+            return datetime.strptime(date_str, "%d %B %Y")
+        except:
+            try:
+                return datetime.strptime(date_str, "%d %b %Y")
+            except:
+                return datetime.min
+    
     for cat in categories:
-        # Calculate priority score for each article
-        scored_articles = []
-        for article in categories[cat]:
-            title = article.get("title_en", "") or article.get("title", "")
-            summary = article.get("summary_en", "") or article.get("summary", "")
-            priority = score_article_priority(title, summary)
-            scored_articles.append((priority, article))
-        
-        # Sort by priority descending (highest first)
-        scored_articles.sort(key=lambda x: x[0], reverse=True)
-        
-        # Extract sorted articles and limit to 15
-        categories[cat] = [a[1] for a in scored_articles][:15]
+        # Sort by date descending (most recent first)
+        categories[cat].sort(key=lambda a: parse_date(a.get("date", "")), reverse=True)
+        # Limit to 15
+        categories[cat] = categories[cat][:15]
     
     print(f"Added {added} new articles")
     
