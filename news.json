@@ -1,7 +1,115 @@
 {
-  "lastUpdate": "22 February 2026 - 08:03",
+  "lastUpdate": "22 February 2026 - 12:32",
   "categories": {
     "general": [
+      {
+        "title": "Comment créer un agent de recherche polyvalent avec l'IA : outils, recherche web, analyse PDF et vision",
+        "title_en": "How to Design a Swiss Army Knife Research Agent with Tool-Using AI, Web Search, PDF Analysis, Vision, and Automated Reporting",
+        "summary": "Un tutoriel pour concevoir un agent IA capable de résoudre des problèmes de recherche complexes en combinant plusieurs outils avancés.",
+        "summary_en": "In this tutorial, we build a “Swiss Army Knife” research agent that goes far beyond simple chat interactions and actively solves multi-step research problems end-to-end. We combine a tool-using agent ",
+        "long_summary": "Les agents IA modernes peuvent aller bien au-delà des simples interactions conversationnelles. Ce tutoriel montre comment combiner recherche web, analyse de PDF, vision et génération automatique de rapports pour créer un agent polyvalent.\n\nPoints clés :\n• Architecture d'agent utilisant des outils multiples\n• Intégration de la recherche web en temps réel\n• Analyse de graphiques et de documents PDF\n• Génération automatique de rapports détaillés\n\nCette approche ouvre la voie à des assistants IA plus autonomes et capables de résoudre des problèmes complexes de manière autonome.",
+        "long_summary_en": "In this tutorial, we build a “Swiss Army Knife” research agent that goes far beyond simple chat interactions and actively solves multi-step research problems end-to-end. We combine a tool-using agent architecture with live web search, local PDF ingestion, vision-based chart analysis, and automated report generation to demonstrate how modern agents can reason, verify, and produce […]\nThe post How to Design a Swiss Army Knife Research Agent with Tool-Using AI, Web Search, PDF Analysis, Vision, and Automated Reporting appeared first on MarkTechPost.",
+        "image": "https://cryptopond.com/wp-content/uploads/2026/02/How-to-Design-a-Swiss-Army-Knife-Research-Agent-with-300x214.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "L'IA peut-elle aider à prévenir les épidémies comme la rougeole ?",
+        "title_en": "Measles cases are rising. Other vaccine-preventable infections could be next.",
+        "summary": "La rougeole progresse en Angleterre. L'IA pourrait-elle aider à anticiper et contenir ces épidémies ?",
+        "summary_en": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children und",
+        "long_summary": "Des cas de rougeole explosent à Enfield, près de Londres. L'IA et le machine learning pourraient jouer un rôle clé dans la surveillance et la prévention des maladies évitables par vaccination.\n\nPoints clés :\n• Les modèles prédictifs basés sur l'IA analysent les données épidémiologiques pour anticiper les foyers de contamination\n• Les chatbots et assistants vocaux peuvent sensibiliser les populations sur les vaccins\n• Les LLMs aident à traiter des masses de données médicales pour identifier les tendances\n\nL'IA pourrait révolutionner la santé publique en accélérant la réponse aux épidémies et en améliorant la couverture vaccinale.",
+        "long_summary_en": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children under the age of 11. One in five have needed hospital treatment. It’s another worrying development for an incredibly contagious and potentially…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/GettyImages-2202122248.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "Les métiers de demain : Biomécanicienne des seins, une révolution portée par l'IA",
+        "title_en": "Job titles of the future: Breast biomechanic",
+        "summary": "L'IA révolutionne la recherche en biomécanique des seins, avec des modèles prédictifs et des outils d'analyse avancés.",
+        "summary_en": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wake",
+        "long_summary": "Joanna Wakefield-Scurr, pionnière en biomécanique des seins, utilise désormais l'IA pour optimiser les soutiens-gorge.\n\nPoints clés :\n• L'IA analyse des données biomécaniques pour personnaliser les soutiens-gorge\n• Les modèles de langage aident à interpréter les résultats médicaux\n• Des startups comme OpenAI et Google investissent dans la santé féminine\n\nL'IA pourrait transformer la médecine préventive et les soins personnalisés.",
+        "long_summary_en": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wakefield-Scurr thought she could do a little research and find a science-backed option. Two decades later, she’s still looking. Wakefield-Scurr now leads an 18-person team…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/2CCEPM9.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "Microsoft lance un outil pour distinguer le réel de l'IA en ligne",
+        "title_en": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+        "summary": "Microsoft veut lutter contre la désinformation générée par l'IA avec un nouveau système de vérification.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI on",
+        "long_summary": "L'IA générative envahit nos vies numériques, rendant difficile la distinction entre contenu réel et artificiel.\n\nPoints clés :\n• Microsoft développe des outils pour détecter les manipulations par l'IA\n• Les modèles de langage comme ceux d'OpenAI ou Google alimentent la désinformation\n• La vérification des sources devient cruciale pour la fiabilité en ligne\n\nConclusion sur les implications: Cette initiative pourrait redéfinir la confiance dans l'information numérique, mais la course aux armements entre IA générative et détection reste ouverte.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/false-mirror-cr-smoke2.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "Exclusif : Le grand retour à la réalité de l'IA en 2025",
+        "title_en": "Exclusive eBook: The great Al hype correction of 2025",
+        "summary": "2025 marque un tournant pour l'IA, avec des promesses non tenues par les géants du secteur. Un eBook exclusif décrypte cette remise en question.",
+        "summary_en": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to read",
+        "long_summary": "2025 a été une année de prise de conscience pour l'industrie de l'IA, où les dirigeants des entreprises leaders ont dû admettre l'écart entre leurs promesses et la réalité.\n\nPoints clés :\n• Les modèles de langage (LLMs) n'ont pas atteint les performances escomptées\n• Les attentes des investisseurs et du public ont été déçues\n• Une remise en question des roadmaps ambitieuses d'OpenAI, Google et Anthropic\n\nCette correction de hype pourrait redéfinir les priorités de l'IA pour les années à venir, avec un focus sur des applications plus réalistes et des délais plus prudents.",
+        "long_summary_en": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/AI-Hype-Thumb.png?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "L'antenne TV intérieure de 2026 : recommandée par les experts grâce à l'IA",
+        "title_en": "The best indoor TV antenna of 2026: Expert recommended",
+        "summary": "L'IA révolutionne les antennes TV intérieures en 2026, offrant des recommandations personnalisées et une optimisation des signaux.",
+        "summary_en": "An indoor TV antenna is a great, budget-friendly way to access free local news, sports, and entertainment channels and help ditch streaming apps or cut the cord with your cable provider.",
+        "long_summary": "Les antennes TV intérieures deviennent plus intelligentes grâce à l'IA, combinant machine learning et modèles de langage pour améliorer la réception et les suggestions de contenu.\n\nPoints clés :\n• Utilisation de LLMs pour analyser les préférences des utilisateurs\n• Optimisation automatique du signal via l'apprentissage automatique\n• Intégration avec des assistants vocaux comme Google Assistant ou OpenAI\n\nConclusion sur les implications : L'IA rend les antennes TV plus intelligentes, réduisant les coûts et améliorant l'expérience utilisateur.",
+        "long_summary_en": "An indoor TV antenna is a great, budget-friendly way to access free local news, sports, and entertainment channels and help ditch streaming apps or cut the cord with your cable provider.",
+        "image": "https://www.zdnet.com/a/img/resize/80c2c47c2adf9b4552728fbbac881d0d29aa9bc6/2022/08/05/e7f83c86-6993-4508-b37e-6623f2317c4f/best-buy-essentials-tv-antenna-review-best-tv-antenna.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/best-indoor-tv-antenna/",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "Plato lève 14,5 millions de dollars pour automatiser le commerce de gros avec l'IA générative",
+        "title_en": "Plato closes $14.5M to bring AI automation to wholesale trade",
+        "summary": "Plato, startup berlinoise, utilise l'IA générative pour transformer le commerce de gros, un secteur clé mais peu médiatisé.",
+        "summary_en": "Plato, a Berlin-based startup, has raised $14.5 million in seed funding to bring generative AI into wholesale distribution, a massive industry that rarely makes tech headlines but quietly moves a sign",
+        "long_summary": "Plato, startup berlinoise, a levé 14,5 millions de dollars pour intégrer l'IA générative dans le commerce de gros, un secteur qui représente une part importante du commerce mondial mais reste peu visible.\n\nPoints clés :\n• Le financement a été mené par Atomico, avec la participation de Cherry Ventures, Discovery Ventures et D11Z.\n• L'IA générative vise à automatiser les processus dans un secteur traditionnellement peu technologique.\n• Cette levée souligne l'intérêt croissant des investisseurs pour l'application de l'IA dans des industries non numériques.\n\nCette initiative pourrait révolutionner la logistique et la distribution, en optimisant les chaînes d'approvisionnement et en réduisant les coûts.",
+        "long_summary_en": "Plato, a Berlin-based startup, has raised $14.5 million in seed funding to bring generative AI into wholesale distribution, a massive industry that rarely makes tech headlines but quietly moves a significant share of the world’s goods. The round was led by Atomico, with Cherry Ventures, Discovery Ventures, and D11Z joining in. Wholesale distribution accounts for […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FPlato-closes-14.5M-to-bring-AI-automation-to-wholesale-trade.png&signature=020563c1bc8000e26d7173d2d2e9e358",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/plato-closes-14-5m-to-bring-ai-automation-to-wholesale-trade",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "Gartner vend sa division Digital Markets pour 110 millions de dollars",
+        "title_en": "Gartner $110M sale of Digital Markets division in latest SEC filing",
+        "summary": "Gartner cède sa division Digital Markets, incluant Capterra et GetApp, pour 110 millions de dollars. L'impact sur l'IA et les plateformes de logiciels reste à évaluer.",
+        "summary_en": "When Gartner first disclosed that it had agreed to part with its Digital Markets ( business unit that included its major software review, specifically Capterra, GetApp, and Software Advice) business i",
+        "long_summary": "Gartner a annoncé la vente de sa division Digital Markets, qui inclut des plateformes comme Capterra et GetApp, pour 110 millions de dollars. Cette transaction, révélée dans un dépôt SEC, pourrait influencer le marché des outils d'évaluation logicielle et l'IA générative.\n\nPoints clés :\n• Vente de Digital Markets pour 110 millions de dollars\n• Inclut Capterra, GetApp et Software Advice\n• Impact potentiel sur l'IA et les recommandations logicielles\n\nCette transaction pourrait redéfinir la concurrence dans l'évaluation des logiciels, avec des implications pour les modèles d'IA comme ceux d'OpenAI ou Google.",
+        "long_summary_en": "When Gartner first disclosed that it had agreed to part with its Digital Markets ( business unit that included its major software review, specifically Capterra, GetApp, and Software Advice) business in early 2026, the announcement was forward-looking and economical with detail: it named the buyer and the assets involved, but it left out any financial […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FGartner-110M-sale-of-Digital-Markets-division-in-latest-SEC-filing.png&signature=32f07898764971d55c46e61dcd67867c",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/gartner-110m-sale-of-digital-markets-division-in-latest-sec-filing",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "Comment masquer les résumés IA de Google dans vos résultats de recherche",
+        "title_en": "How to Hide Google’s AI Overviews From Your Search Results",
+        "summary": "Désactivez les réponses générées par IA de Google en modifiant vos requêtes ou changez de moteur de recherche.",
+        "summary_en": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+        "long_summary": "Google intègre désormais des réponses synthétisées par IA dans ses résultats. Les utilisateurs peuvent les contourner.\n\nPoints clés :\n• Ajoutez des guillemets ou des mots-clés précis pour désactiver les résumés IA\n• Utilisez des moteurs alternatifs comme Bing ou DuckDuckGo\n• Cette fonctionnalité reflète la course aux LLMs entre Google, OpenAI et Anthropic\n\nConclusion sur les implications : Cette personnalisation montre l’influence croissante des modèles de langage dans la recherche en ligne.",
+        "long_summary_en": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+        "image": "https://media.wired.com/photos/699879d490ce1a01f1ba1ac0/191:100/w_1280,c_limit/GettyImages-2250413446.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+        "date": "22 February 2026"
+      },
       {
         "title": "Tensions croissantes entre Microsoft et OpenAI : Nadella met en garde contre des milliards de dollars",
         "title_en": "Latest AI News: Daily Updated Artificial Intelligence Insights (February 20, 2026)",
@@ -73,114 +181,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/zurichs-rapidata-raises-e7-2m-to-build-a-real-time-human-feedback-network-for-ai",
         "date": "22 February 2026"
-      },
-      {
-        "title": "Code Metal lève 125 millions de dollars pour moderniser les logiciels de défense avec l'IA",
-        "title_en": "Code Metal Raises $125 Million to Rewrite the Defense Industry’s Code With AI",
-        "summary": "Une startup bostonienne utilise l'IA pour moderniser les logiciels militaires sans introduire de nouvelles failles.",
-        "summary_en": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
-        "long_summary": "Code Metal, une startup spécialisée dans l'IA, vient de lever 125 millions de dollars pour aider les contractants de la défense à moderniser leurs systèmes logiciels obsolètes.\n\nPoints clés :\n• L'entreprise utilise des modèles de langage avancés pour traduire et vérifier le code hérité.\n• Elle promet une modernisation sans risques de bugs, un défi majeur dans le secteur.\n• Cette levée de fonds pourrait accélérer l'adoption de l'IA dans l'industrie de la défense.\n\nCette innovation pourrait transformer la cybersécurité et l'efficacité opérationnelle des systèmes militaires.",
-        "long_summary_en": "The Boston startup uses AI to translate and verify legacy software for defense contractors, arguing modernization can’t come at the cost of new bugs.",
-        "image": "https://media.wired.com/photos/6996574c8ea1d07fab1e3328/191:100/w_1280,c_limit/Buzzy-Startup-Business-Code-Metal-10-30-25-30.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/vibe-coding-startup-code-metal-raises-series-b-fundraising/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Les centres de données IA pourraient-ils être envoyés dans l'espace ?",
-        "title_en": "Could AI Data Centers Be Moved to Outer Space?",
-        "summary": "Les centres de données géants pour l'IA polluent la planète. Et si on les envoyait en orbite ?",
-        "summary_en": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-        "long_summary": "Les centres de données pour l'IA générative consomment énormément d'énergie et produisent des émissions de CO2. Une solution radicale émerge : les envoyer dans l'espace.\n\nPoints clés :\n• Les centres de données actuels représentent 1% des émissions mondiales de CO2\n• L'IA générative nécessite des infrastructures toujours plus gourmandes en énergie\n• Des projets comme ceux d'OpenAI ou Google pourraient bénéficier d'une solution spatiale\n\nCette approche pourrait réduire l'empreinte carbone de l'IA, mais pose des défis technologiques et économiques majeurs.",
-        "long_summary_en": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
-        "image": "https://media.wired.com/photos/69977b3aacabb32f3cbd37c7/191:100/w_1280,c_limit/sci-space-data-1648725322.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "The Pitt explore l'impact de l'IA dans les urgences médicales",
-        "title_en": "The Pitt has a sharp take on AI",
-        "summary": "The Pitt intègre l'IA pour simuler des diagnostics médicaux complexes, révolutionnant les urgences.",
-        "summary_en": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are",
-        "long_summary": "La série HBO The Pitt utilise désormais l'IA pour modéliser des cas médicaux extrêmes, poussant les limites de la simulation clinique.\n\nPoints clés :\n• L'IA génère des scénarios réalistes de traumatismes et infections\n• Les modèles de langage aident à anticiper les réactions des patients\n• Collaboration avec des startups d'IA pour améliorer la formation médicale\n\nL'intégration de l'IA dans les séries médicales pourrait transformer l'éducation des futurs médecins.",
-        "long_summary_en": "Each episode of HBO's The Pitt features some degree of medical trauma that almost makes the hospital drama feel like a horror series. Some patients are dealing with gnarly lacerations while others are fighting off vicious blood infections that could rob them of their limbs, and the chaos of working in an emergency room often […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/sepideh-moafi-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/881016/hbo-the-pitt-generative-ai-charting",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Amazon accuse ses employés humains pour une erreur d'un agent IA de codage",
-        "title_en": "Amazon blames human employees for an AI coding agent&#8217;s mistake",
-        "summary": "Un agent IA d'Amazon, Kiro, a causé une panne de 13 heures en décembre, mais l'entreprise rejette la faute sur ses employés.",
-        "summary_en": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told ",
-        "long_summary": "Amazon Web Services a subi une panne de 13 heures en décembre à cause de son assistant de codage IA Kiro, selon le Financial Times. Des employés anonymes ont révélé que Kiro était responsable de l’incident affectant un service AWS en Chine.\n\nPoints clés :\n• Kiro, un agent IA générative d'Amazon, a provoqué une panne majeure en décembre.\n• L'entreprise rejette la responsabilité sur ses employés plutôt que sur l'IA.\n• Cet incident soulève des questions sur la fiabilité des agents IA en production.\n\nConclusion sur les implications :\nCet incident met en lumière les défis de la gestion des erreurs dans les systèmes IA, notamment lorsque les entreprises cherchent à minimiser leur responsabilité.",
-        "long_summary_en": "Amazon Web Services suffered a 13-hour outage to one system in December as a result of its AI coding assistant Kiro's actions, according to the Financial Times. Numerous unnamed Amazon employees told the FT that AI agent Kiro was responsible for the December incident affecting an AWS service in parts of mainland China. People familiar […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKB371_AMAZON_WEB_SERVICES_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Trump is making coal plants even dirtier as AI demands more energy",
-        "title_en": "Trump is making coal plants even dirtier as AI demands more energy",
-        "summary": "The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity dema",
-        "summary_en": "The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity dema",
-        "long_summary": "The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity demand in the US ticks up with the buildout of new AI data centers. Those standards are particularly impactful when it comes to pollution from coal plants […]",
-        "long_summary_en": "The Trump administration just tossed out Biden-era restrictions on mercury and other toxic pollutants from power plants. It's repealing Mercury and Air Toxics Standards (MATS) just as electricity demand in the US ticks up with the buildout of new AI data centers. Those standards are particularly impactful when it comes to pollution from coal plants […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1140674387.jpg?quality=90&strip=all&crop=0%2C8.6662992559934%2C100%2C82.667401488013&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/science/882288/trump-ai-data-center-power-plant-pollution-mercury-mats",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Le nouveau patron de Microsoft Gaming promet de ne pas inonder l’écosystème avec du « slop AI »",
-        "title_en": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
-        "summary": "Microsoft Gaming renforce son engagement envers l’IA, mais promet de la limiter à des usages pertinents.",
-        "summary_en": "Is Microsoft's gaming division doubling down on AI?",
-        "long_summary": "Le nouveau CEO de Microsoft Gaming, Phil Spencer, a affirmé que l’entreprise utilisera l’IA de manière stratégique, sans surcharger les joueurs avec du contenu généré automatiquement.\n\nPoints clés :\n• Microsoft mise sur l’IA pour améliorer l’expérience gaming, mais avec modération\n• L’entreprise collabore avec OpenAI et d’autres acteurs majeurs de l’IA\n• La priorité reste la qualité plutôt que la quantité dans l’intégration de l’IA\n\nConclusion sur les implications : Cette approche pourrait influencer d’autres géants du gaming à adopter une stratégie plus mesurée en matière d’IA.",
-        "long_summary_en": "Is Microsoft's gaming division doubling down on AI?",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2174641784.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Sam Altman rappelle que les humains consomment aussi beaucoup d'énergie",
-        "title_en": "Sam Altman would like remind you that humans use a lot of energy, too",
-        "summary": "Sam Altman souligne que l'entraînement des humains consomme aussi beaucoup d'énergie, relativisant les critiques sur la consommation des IA.",
-        "summary_en": "\"It also takes a lot of energy to train a human.\"",
-        "long_summary": "Sam Altman, PDG d'OpenAI, a rappelé que l'entraînement des humains nécessite des ressources énergétiques comparables à celles des modèles d'IA.\n\nPoints clés :\n• Les humains consomment des ressources éducatives et énergétiques pendant des années\n• Les critiques sur la consommation des IA ignorent souvent ce coût humain\n• Altman défend l'IA générative comme un outil complémentaire\n\nCette comparaison met en lumière les débats sur l'impact environnemental des technologies, soulignant la nécessité d'une approche équilibrée.",
-        "long_summary_en": "\"It also takes a lot of energy to train a human.\"",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Un bouleversement majeur se prépare dans l'IA, et la plupart des gens ne le voient pas venir",
-        "title_en": "Something big is happening in AI — and most people will be blindsided | Fortune",
-        "summary": "L'IA est sur le point de transformer radicalement le monde, mais peu en mesurent l'ampleur. Les modèles de langage pourraient tout changer.",
-        "summary_en": "The models available today are unrecognizable from what existed even six months ago. The debate about whether AI is “really getting better” or “hitting a wall” — which has been going on for over a yea",
-        "long_summary": "Les avancées récentes en IA, notamment les modèles de langage génératifs, pourraient avoir un impact comparable à celui de la pandémie de Covid-19.\n\nPoints clés :\n• Un petit groupe de chercheurs (OpenAI, Google, Anthropic) pilote les innovations majeures\n• Les modèles d'IA actuels dépassent déjà les attentes, avec des capacités exponentielles\n• Le grand public sous-estime encore la vitesse et l'ampleur du changement\n\nConclusion sur les implications :\nL'IA va bouleverser les emplois, l'éducation et la société dans son ensemble, bien plus vite que prévu.",
-        "long_summary_en": "Think back to February 2020. Recommended Video A few people were talking about a virus spreading overseas. If someone told you they were stockpiling toilet paper you would have thought they’d been spending too much time on a weird corner of the internet. Then, over the course of about three weeks, the entire world changed. I think we’re in the “this seems overblown” phase of something much, much bigger than Covid. I’ve spent six years building an AI startup and investing in the space. I live in this world. And I’m writing this for the people in my life who don’t. I keep giving them the polite,",
-        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/1644257218541.jpg?resize=1200,600",
-        "source": "Fortune",
-        "url": "https://fortune.com/2026/02/11/something-big-is-happening-ai-february-2020-moment-matt-shumer/",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "L'Inde veut s'emparer des technologies IA des géants américains lors du sommet de Delhi",
-        "title_en": "AI hit: India hungry to harness US tech giants’ technology at Delhi summit | India | The Guardian",
-        "summary": "L'Inde mise sur l'IA pour booster son économie, mais craint de devenir un État vassal technologique.",
-        "summary_en": "Which they choose could have profound consequences for who controls India’s future, because if AI’s power emerges as predicted, it will not only tweak economic and social structures, but become their ",
-        "long_summary": "L'Inde célèbre 80 ans d'indépendance en 2027, tandis que l'IA pourrait atteindre un stade avancé. Narendra Modi voit dans l'IA un tournant civilisationnel.\n\nPoints clés :\n• Modi compare l'IA à l'invention du feu, un changement radical.\n• Les géants américains comme OpenAI et Anthropic cherchent à s'implanter en Inde.\n• Le pays veut éviter une dépendance technologique excessive.\n\nConclusion sur les implications : L'Inde doit trouver un équilibre entre innovation et souveraineté technologique.",
-        "long_summary_en": "From left: India’s prime minister, Narendra Modi, with the chief executives of OpenAI, Sam Altman, and Anthropic, Dario Amodei, at the AI Impact summit in Delhi. Photograph: Ludovic Marin/AFP/Getty View image in fullscreen From left: India’s prime minister, Narendra Modi, with the chief executives of OpenAI, Sam Altman, and Anthropic, Dario Amodei, at the AI Impact summit in Delhi. Photograph: Ludovic Marin/AFP/Getty AI hit: India hungry to harness US tech giants’ technology at Delhi summit Narendra Modi’s thirst to supercharge economic growth is matched by US desire to inject AI into world’s ",
-        "image": "https://i.guim.co.uk/img/media/ca5b99e9abb7a06008cede6d1ebe144e988f7cc7/207_0_2918_2334/master/2918.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=436d8628284db6f676c2d5b398d16d2e",
-        "source": "Theguardian",
-        "url": "https://www.theguardian.com/world/2026/feb/20/india-delhi-summit-ai-technology-us-economic-growth",
-        "date": "21 February 2026"
       }
     ],
     "image": [
@@ -537,6 +537,30 @@
     ],
     "llm": [
       {
+        "title": "L'IA décentralisée peut-elle surpasser le cloud ?",
+        "title_en": "Artificial intelligence (AI) News, Research and Analysis - The Conversation",
+        "summary": "L'IA en périphérie promet sécurité et confiance, mais les défis techniques persistent. Qui l'emportera ?",
+        "summary_en": "Is AI-powered edge computing safer? More trusted? ... Ofcom and the EU have launched investigations into the chatbot. Reconstruction of the ancient Antikythera mechanism, WA Museum, Boola Bardip. Chri",
+        "long_summary": "La décentralisation de l'IA soulève des questions sur sa supériorité face aux serveurs centralisés comme Google Cloud.\n\nPoints clés :\n• L'IA en périphérie pourrait être plus sécurisée et fiable\n• Les défis techniques freinent son adoption massive\n• Les géants comme OpenAI et Google explorent des solutions hybrides\n\nConclusion sur les implications : L'avenir de l'IA pourrait reposer sur un équilibre entre cloud et décentralisation.",
+        "long_summary_en": "Decentralised computing offers both advantages and numerous technical challenges. Kieran Woo/Unsplash. Does cloud-free AI have the cutting-edge over data processing and storage on centralised, remote servers by providers like Google Cloud? Is AI-powered edge computing safer? More trusted?",
+        "image": "https://images.theconversation.com/files/718982/original/file-20260218-66-eqib8g.jpg?ixlib=rb-4.1.0&rect=0%2C560%2C2560%2C1440&q=45&auto=format&w=496&fit=clip",
+        "source": "Theconversation",
+        "url": "https://theconversation.com/topics/artificial-intelligence-ai-90",
+        "date": "22 February 2026"
+      },
+      {
+        "title": "L'IA en 2024 : les dernières avancées et défis technologiques",
+        "title_en": "Artificial Intelligence: Read latest news updates on AI technology | The Indian Express",
+        "summary": "Les géants de l'IA accélèrent les innovations, mais les enjeux éthiques et réglementaires s'intensifient.",
+        "summary_en": "Artificial Intelligence: Read latest updates on AI like Google AI, ChatGPT, Google Lamda, Bard chatbot and more along with latest news as AI technology advances and makes new progress. All get detaile",
+        "long_summary": "Les modèles de langage et l'IA générative dominent l'actualité technologique.\n\nPoints clés :\n• OpenAI et Google rivalisent sur les LLMs avancés\n• Anthropic mise sur l'IA alignée avec l'éthique\n• Les régulateurs européens renforcent les cadres légaux\n\nLes avancées technologiques se heurtent à des questions de transparence et de contrôle.",
+        "long_summary_en": "skip to content",
+        "image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+        "source": "Indianexpress",
+        "url": "https://indianexpress.com/section/technology/artificial-intelligence/",
+        "date": "22 February 2026"
+      },
+      {
         "title": "Gemini 3.1 Pro : Google DeepMind révolutionne les modèles d'IA en 2026",
         "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
         "summary": "Gemini 3.1 Pro de Google DeepMind bat des records avec une fenêtre de contexte de 1M tokens et une performance de 77,1% sur ARC-AGI-2.",
@@ -690,30 +714,6 @@
         "image": "https://media.wired.com/photos/6994edaec3ca16022bd2b3d5/191:100/w_1280,c_limit/Backchannel-Anthropic-vs-Pentagon-Business--2221448096.jpg",
         "source": "Wired",
         "url": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "OpenAI pourrait lancer un haut-parleur intelligent avec caméra",
-        "title_en": "OpenAI&#8217;s first ChatGPT gadget could be a smart speaker with a camera",
-        "summary": "OpenAI préparerait un haut-parleur intelligent doté d'une caméra, entre 200 et 300$.",
-        "summary_en": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information. The device will be able to recognize things like \"ite",
-        "long_summary": "OpenAI, pionnier des modèles de langage, s'apprête à entrer dans le hardware avec un appareil combinant IA et vision par ordinateur.\n\nPoints clés :\n• Premier gadget matériel d'OpenAI, un haut-parleur avec caméra\n• Capacité de reconnaissance d'objets et de conversations\n• Prix estimé entre 200 et 300$\n\nCette annonce marque l'expansion d'OpenAI vers l'IA embarquée, rivalisant avec Google et Amazon.",
-        "long_summary_en": "OpenAI's first hardware release will be a smart speaker with a camera that will probably cost between $200 and $300, according to The Information. The device will be able to recognize things like \"items on a nearby table or conversations people are having in the vicinity,\" The Information says, and it will have a Face […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/882077/openai-chatgpt-smart-speaker-camera-glasses-lamp",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "Un groupe financé par Anthropic soutient un candidat attaqué par un super PAC rival en IA",
-        "title_en": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
-        "summary": "Deux super PACs pro-IA s'affrontent autour d'un candidat au Congrès, Alex Bores, défenseur d'une loi sur la transparence des IA.",
-        "summary_en": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system ",
-        "long_summary": "Deux super PACs financés par des géants de l'IA s'opposent dans une course au Congrès. L'un soutient Alex Bores, auteur du RAISE Act, qui impose des protocoles de sécurité aux développeurs d'IA.\n\nPoints clés :\n• Le RAISE Act exige la transparence des modèles d'IA et la déclaration des abus graves\n• Anthropic finance un groupe pro-Bores, tandis qu'un rival le cible\n• Ce duel reflète les tensions croissantes autour de la régulation de l'IA\n\nConclusion sur les implications: Cette bataille politique montre comment l'IA devient un enjeu central, avec des acteurs comme OpenAI et Google influençant indirectement les élections.",
-        "long_summary_en": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259873774.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
         "date": "21 February 2026"
       }
     ],
