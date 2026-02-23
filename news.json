@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "22 February 2026 - 18:32",
+  "lastUpdate": "23 February 2026 - 08:02",
   "categories": {
     "general": [
+      {
+        "title": "VectifyAI révolutionne l'IA financière avec Mafin 2.5 et PageIndex",
+        "title_en": "VectifyAI Launches Mafin 2.5 and PageIndex: Achieving 98.7% Financial RAG Accuracy with a New Open-Source Vectorless Tree Indexing.",
+        "summary": "VectifyAI présente une solution RAG innovante pour l'audit financier, atteignant 98,7% de précision sans hallucinations.",
+        "summary_en": "Building a Retrieval-Augmented Generation (RAG) pipeline is easy; building one that doesn’t hallucinate during a 10-K audit is nearly impossible. For devs in the financial sector, the ‘standard’ vecto",
+        "long_summary": "Les pipelines RAG traditionnels échouent souvent à capturer la structure des documents financiers, générant des réponses incohérentes.\n\nPoints clés :\n• Nouvelle approche vectorless pour une indexation précise des données financières\n• Précision de 98,7% dans les audits 10-K\n• Solution open-source pour une adoption sectorielle accélérée\n\nCette innovation pourrait standardiser l'utilisation de l'IA dans l'analyse financière, réduisant les erreurs humaines.",
+        "long_summary_en": "Building a Retrieval-Augmented Generation (RAG) pipeline is easy; building one that doesn’t hallucinate during a 10-K audit is nearly impossible. For devs in the financial sector, the ‘standard’ vector-based RAG approach—chunking text and hoping for the best—often results in a ‘text soup’ that loses the vital structural context of tables and balance sheets. VectifyAI is […]\nThe post VectifyAI Launches Mafin 2.5 and PageIndex: Achieving 98.7% Financial RAG Accuracy with a New Open-Source Vectorless Tree Indexing. appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-53-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/22/vectifyai-launches-mafin-2-5-and-pageindex-achieving-98-7-financial-rag-accuracy-with-a-new-open-source-vectorless-tree-indexing/",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Taalas révolutionne l'IA en remplaçant les GPU programmables par des puces dédiées",
+        "title_en": "Taalas is replacing programmable GPUs with hardwired AI chips to achieve 17,000 tokens per second for ubiquitous inference",
+        "summary": "Taalas mise sur des puces spécialisées pour accélérer l'inférence IA à 17 000 tokens/seconde, défiant l'approche GPU traditionnelle.",
+        "summary_en": "In the high-stakes world of AI infrastructure, the industry has operated under a singular assumption: flexibility is king. We build general-purpose GPUs because AI models change every week, and we nee",
+        "long_summary": "L'industrie de l'IA a longtemps privilégié les GPU programmables pour leur flexibilité. Taalas, startup torontoise, parie sur des puces dédiées pour des performances optimisées.\n\nPoints clés :\n• Remplacement des GPU par des puces spécialisées pour l'inférence\n• Performance record de 17 000 tokens/seconde\n• Approche radicale contre la flexibilité des GPU\n\nCette innovation pourrait redéfinir l'infrastructure IA, notamment pour les modèles de langage génératifs.",
+        "long_summary_en": "In the high-stakes world of AI infrastructure, the industry has operated under a singular assumption: flexibility is king. We build general-purpose GPUs because AI models change every week, and we need programmable silicon that can adapt to the next research breakthrough. But Taalas, the Toronto-based startup thinks that flexibility is exactly what’s holding AI back. […]\nThe post Taalas is replacing programmable GPUs with hardwired AI chips to achieve 17,000 tokens per second for ubiquitous inference appeared first on MarkTechPost.",
+        "image": "https://preview.redd.it/taalas-llms-baked-into-hardware-no-hbm-weights-and-model-v0-7ef716wfejkg1.png?width=640&crop=smart&auto=webp&s=382d47aff66ea47fbd10e3e8d21003a97f46f4d5",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/22/taalas-is-replacing-programmable-gpus-with-hardwired-ai-chips-to-achieve-17000-tokens-per-second-for-ubiquitous-inference/",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Un smartphone bat Apple et Samsung en autonomie de batterie : l'IA révèle le gagnant",
+        "title_en": "We battery-tested 17 popular phones in the lab - this model beat Apple and Samsung",
+        "summary": "Un test en laboratoire révèle le smartphone avec la meilleure autonomie, surpassant les géants Apple et Samsung.",
+        "summary_en": "For ZDNET's latest Lab Award, we tested the top mainstream phones to find out which one had the best battery life.",
+        "long_summary": "ZDNet a testé 17 smartphones populaires pour évaluer leur autonomie de batterie, utilisant des méthodes avancées d'IA et de machine learning.\n\nPoints clés :\n• L'IA a analysé les données de décharge pour identifier des tendances précises\n• Le modèle gagnant a surpassé les smartphones haut de gamme d'Apple et Samsung\n• Les LLMs ont permis de prédire les performances en conditions réelles\n\nLes résultats montrent comment l'IA peut optimiser les tests technologiques pour des évaluations plus fiables.",
+        "long_summary_en": "For ZDNET's latest Lab Award, we tested the top mainstream phones to find out which one had the best battery life.",
+        "image": "https://www.zdnet.com/a/img/resize/e71a176d6c8ae2ca3faf1e825412e327172d4371/2026/02/16/a63cadae-169d-433e-a1fe-46719ed71e43/dsc09404.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/best-battery-life-phones-lab-tested/",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Gartner vend sa division Digital Markets pour 110 millions de dollars",
+        "title_en": "Gartner $110M sale of Digital Markets division in latest SEC filing",
+        "summary": "Gartner cède sa division Digital Markets, incluant Capterra et GetApp, pour 110M$. L'acheteur et les détails financiers restent flous.",
+        "summary_en": "When Gartner first disclosed that it had agreed to part with its Digital Markets ( business unit that included its major software review, specifically Capterra, GetApp, and Software Advice) business i",
+        "long_summary": "Gartner a annoncé la vente de sa division Digital Markets, incluant les plateformes Capterra, GetApp et Software Advice, pour 110 millions de dollars. L'acheteur n'a pas été nommé.\n\nPoints clés :\n• La vente inclut des actifs majeurs comme Capterra et GetApp\n• L'annonce initiale était vague sur les détails financiers\n• La transaction devrait être finalisée début 2026\n\nCette cession pourrait influencer le marché des logiciels et des plateformes de comparaison, notamment dans l'IA et le machine learning.",
+        "long_summary_en": "When Gartner first disclosed that it had agreed to part with its Digital Markets ( business unit that included its major software review, specifically Capterra, GetApp, and Software Advice) business in early 2026, the announcement was forward-looking and economical with detail: it named the buyer and the assets involved, but it left out any financial […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FGartner-110M-sale-of-Digital-Markets-division-in-latest-SEC-filing.png&signature=32f07898764971d55c46e61dcd67867c",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/gartner-110m-sale-of-digital-markets-division-in-latest-sec-filing",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Rapidata lève 7,2M€ pour créer un réseau de feedback humain en temps réel pour l'IA",
+        "title_en": "Zurich’s Rapidata raises €7.2M to build a real-time human feedback network for AI",
+        "summary": "Rapidata lève 7,2M€ pour améliorer l'IA grâce à des retours humains en temps réel.",
+        "summary_en": "A growing number of startups are rushing to build software that thinks fast. But one of the hardest parts of teaching machines to improve isn’t raw computing power, it’s human insight at scale. Zurich",
+        "long_summary": "Les startups se concentrent sur des logiciels rapides, mais l'amélioration des IA repose sur des insights humains à grande échelle.\n\nPoints clés :\n• Rapidata lève 7,2M€ pour scaler son réseau de feedback humain\n• Solution clé pour l'entraînement des LLMs et modèles génératifs\n• Approche innovante face aux limites des données brutes\n\nCette levée pourrait accélérer l'adoption de l'IA générative en résolvant un défi critique.",
+        "long_summary_en": "A growing number of startups are rushing to build software that thinks fast. But one of the hardest parts of teaching machines to improve isn’t raw computing power, it’s human insight at scale. Zurich-based startup Rapidata has just taken a significant step toward fixing that with a €7.2 million seed round aimed at scaling a […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FRapidata-Founders.png&signature=30ee8cfca082ecf4047b444258b70913",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/zurichs-rapidata-raises-e7-2m-to-build-a-real-time-human-feedback-network-for-ai",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Comment masquer les résumés IA de Google dans vos résultats de recherche",
+        "title_en": "How to Hide Google’s AI Overviews From Your Search Results",
+        "summary": "Désactivez les réponses générées par IA de Google en modifiant vos requêtes ou en changeant de moteur de recherche.",
+        "summary_en": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+        "long_summary": "Google intègre désormais des réponses générées par IA dans ses résultats de recherche, mais les utilisateurs peuvent les contourner.\n\nPoints clés :\n• Ajoutez des mots-clés comme « site: » ou des guillemets pour éviter les résumés IA\n• Utilisez des moteurs de recherche alternatifs comme Bing ou DuckDuckGo\n• Cette fonctionnalité reflète la course aux modèles de langage (LLMs) entre Google, OpenAI et Anthropic\n\nConclusion sur les implications : Les utilisateurs gagnent en contrôle, mais Google pourrait peaufiner son algorithme pour réduire ces contournements.",
+        "long_summary_en": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
+        "image": "https://media.wired.com/photos/699879d490ce1a01f1ba1ac0/191:100/w_1280,c_limit/GettyImages-2250413446.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+        "date": "23 February 2026"
+      },
       {
         "title": "L'IA révolutionne la production de séries comme 'Bridgerton'",
         "title_en": "'Bridgerton' Season 4, Part 2: Release Date and Time on Netflix",
@@ -108,78 +180,6 @@
         "image": "https://cryptopond.com/wp-content/uploads/2026/02/How-to-Design-a-Swiss-Army-Knife-Research-Agent-with-300x214.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/20/how-to-design-a-swiss-army-knife-research-agent-with-tool-using-ai-web-search-pdf-analysis-vision-and-automated-reporting/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "L'IA peut-elle aider à prévenir les épidémies comme la rougeole ?",
-        "title_en": "Measles cases are rising. Other vaccine-preventable infections could be next.",
-        "summary": "La rougeole progresse en Angleterre. L'IA pourrait-elle aider à anticiper et contenir ces épidémies ?",
-        "summary_en": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children und",
-        "long_summary": "Des cas de rougeole explosent à Enfield, près de Londres. L'IA et le machine learning pourraient jouer un rôle clé dans la surveillance et la prévention des maladies évitables par vaccination.\n\nPoints clés :\n• Les modèles prédictifs basés sur l'IA analysent les données épidémiologiques pour anticiper les foyers de contamination\n• Les chatbots et assistants vocaux peuvent sensibiliser les populations sur les vaccins\n• Les LLMs aident à traiter des masses de données médicales pour identifier les tendances\n\nL'IA pourrait révolutionner la santé publique en accélérant la réponse aux épidémies et en améliorant la couverture vaccinale.",
-        "long_summary_en": "There’s a measles outbreak happening close to where I live. Since the start of this year, 34 cases have been confirmed in Enfield, a northern borough of London. Most of those affected are children under the age of 11. One in five have needed hospital treatment. It’s another worrying development for an incredibly contagious and potentially…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/GettyImages-2202122248.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Les métiers de demain : Biomécanicienne des seins, une révolution portée par l'IA",
-        "title_en": "Job titles of the future: Breast biomechanic",
-        "summary": "L'IA révolutionne la recherche en biomécanique des seins, avec des modèles prédictifs et des outils d'analyse avancés.",
-        "summary_en": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wake",
-        "long_summary": "Joanna Wakefield-Scurr, pionnière en biomécanique des seins, utilise désormais l'IA pour optimiser les soutiens-gorge.\n\nPoints clés :\n• L'IA analyse des données biomécaniques pour personnaliser les soutiens-gorge\n• Les modèles de langage aident à interpréter les résultats médicaux\n• Des startups comme OpenAI et Google investissent dans la santé féminine\n\nL'IA pourrait transformer la médecine préventive et les soins personnalisés.",
-        "long_summary_en": "Twenty years ago, Joanna Wakefield-Scurr was having persistent pain in her breasts. Her doctor couldn’t diagnose the cause but said a good, supportive bra could help. A professor of biomechanics, Wakefield-Scurr thought she could do a little research and find a science-backed option. Two decades later, she’s still looking. Wakefield-Scurr now leads an 18-person team…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/2CCEPM9.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Microsoft lance un outil pour distinguer le réel de l'IA en ligne",
-        "title_en": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
-        "summary": "Microsoft veut lutter contre la désinformation générée par l'IA avec un nouveau système de vérification.",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI on",
-        "long_summary": "L'IA générative envahit nos vies numériques, rendant difficile la distinction entre contenu réel et artificiel.\n\nPoints clés :\n• Microsoft développe des outils pour détecter les manipulations par l'IA\n• Les modèles de langage comme ceux d'OpenAI ou Google alimentent la désinformation\n• La vérification des sources devient cruciale pour la fiabilité en ligne\n\nConclusion sur les implications: Cette initiative pourrait redéfinir la confiance dans l'information numérique, mais la course aux armements entre IA générative et détection reste ouverte.",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Microsoft has a new plan to prove what’s real and what’s AI online AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/false-mirror-cr-smoke2.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Exclusif : Le grand retour à la réalité de l'IA en 2025",
-        "title_en": "Exclusive eBook: The great Al hype correction of 2025",
-        "summary": "2025 marque un tournant pour l'IA, avec des promesses non tenues par les géants du secteur. Un eBook exclusif décrypte cette remise en question.",
-        "summary_en": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to read",
-        "long_summary": "2025 a été une année de prise de conscience pour l'industrie de l'IA, où les dirigeants des entreprises leaders ont dû admettre l'écart entre leurs promesses et la réalité.\n\nPoints clés :\n• Les modèles de langage (LLMs) n'ont pas atteint les performances escomptées\n• Les attentes des investisseurs et du public ont été déçues\n• Une remise en question des roadmaps ambitieuses d'OpenAI, Google et Anthropic\n\nCette correction de hype pourrait redéfinir les priorités de l'IA pour les années à venir, avec un focus sur des applications plus réalistes et des délais plus prudents.",
-        "long_summary_en": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this exclusive subscriber-only eBook, you’ll learn more about why we may need to readjust our expectations. This story is part of the Hype Correction package.by Will Douglas Heaven December 15, 2025 Table of Contents:…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/AI-Hype-Thumb.png?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "L'antenne TV intérieure de 2026 : recommandée par les experts grâce à l'IA",
-        "title_en": "The best indoor TV antenna of 2026: Expert recommended",
-        "summary": "L'IA révolutionne les antennes TV intérieures en 2026, offrant des recommandations personnalisées et une optimisation des signaux.",
-        "summary_en": "An indoor TV antenna is a great, budget-friendly way to access free local news, sports, and entertainment channels and help ditch streaming apps or cut the cord with your cable provider.",
-        "long_summary": "Les antennes TV intérieures deviennent plus intelligentes grâce à l'IA, combinant machine learning et modèles de langage pour améliorer la réception et les suggestions de contenu.\n\nPoints clés :\n• Utilisation de LLMs pour analyser les préférences des utilisateurs\n• Optimisation automatique du signal via l'apprentissage automatique\n• Intégration avec des assistants vocaux comme Google Assistant ou OpenAI\n\nConclusion sur les implications : L'IA rend les antennes TV plus intelligentes, réduisant les coûts et améliorant l'expérience utilisateur.",
-        "long_summary_en": "An indoor TV antenna is a great, budget-friendly way to access free local news, sports, and entertainment channels and help ditch streaming apps or cut the cord with your cable provider.",
-        "image": "https://www.zdnet.com/a/img/resize/80c2c47c2adf9b4552728fbbac881d0d29aa9bc6/2022/08/05/e7f83c86-6993-4508-b37e-6623f2317c4f/best-buy-essentials-tv-antenna-review-best-tv-antenna.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/best-indoor-tv-antenna/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Plato lève 14,5 millions de dollars pour automatiser le commerce de gros avec l'IA générative",
-        "title_en": "Plato closes $14.5M to bring AI automation to wholesale trade",
-        "summary": "Plato, startup berlinoise, utilise l'IA générative pour transformer le commerce de gros, un secteur clé mais peu médiatisé.",
-        "summary_en": "Plato, a Berlin-based startup, has raised $14.5 million in seed funding to bring generative AI into wholesale distribution, a massive industry that rarely makes tech headlines but quietly moves a sign",
-        "long_summary": "Plato, startup berlinoise, a levé 14,5 millions de dollars pour intégrer l'IA générative dans le commerce de gros, un secteur qui représente une part importante du commerce mondial mais reste peu visible.\n\nPoints clés :\n• Le financement a été mené par Atomico, avec la participation de Cherry Ventures, Discovery Ventures et D11Z.\n• L'IA générative vise à automatiser les processus dans un secteur traditionnellement peu technologique.\n• Cette levée souligne l'intérêt croissant des investisseurs pour l'application de l'IA dans des industries non numériques.\n\nCette initiative pourrait révolutionner la logistique et la distribution, en optimisant les chaînes d'approvisionnement et en réduisant les coûts.",
-        "long_summary_en": "Plato, a Berlin-based startup, has raised $14.5 million in seed funding to bring generative AI into wholesale distribution, a massive industry that rarely makes tech headlines but quietly moves a significant share of the world’s goods. The round was led by Atomico, with Cherry Ventures, Discovery Ventures, and D11Z joining in. Wholesale distribution accounts for […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FPlato-closes-14.5M-to-bring-AI-automation-to-wholesale-trade.png&signature=020563c1bc8000e26d7173d2d2e9e358",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/plato-closes-14-5m-to-bring-ai-automation-to-wholesale-trade",
         "date": "22 February 2026"
       }
     ],
@@ -355,6 +355,42 @@
     ],
     "video": [
       {
+        "title": "Tom Cruise et Brad Pitt se sont-ils vraiment battus ? La vidéo virale qui secoue Hollywood",
+        "title_en": "Did Tom Cruise really fight Brad Pitt? The viral video that has Hollywood suing Bytedance",
+        "summary": "Une IA chinoise crée des vidéos ultra-réalistes, menaçant l'industrie du cinéma. Hollywood s'inquiète.",
+        "summary_en": "<strong>In 2024, OpenAI released the latest version of its Sora video generator to the public</strong>. In 2025, Google unveiled Veo 3, an advanced AI video generator developed by Google DeepMind.",
+        "long_summary": "ByteDance, la société mère de TikTok, a développé Seedance 2.0, une IA capable de générer des vidéos cinématographiques à partir de simples prompts textuels.\n\nPoints clés :\n• Seedance 2.0 crée des vidéos réalistes avec dialogues et effets sonores\n• Une vidéo virale de Tom Cruise et Brad Pitt a déclenché une polémique\n• Hollywood craint pour son modèle économique et la propriété intellectuelle\n\nCette avancée technologique pourrait révolutionner la production audiovisuelle, mais soulève des questions éthiques et juridiques majeures.",
+        "long_summary_en": "Seedance 2.0: The AI Revolution Shaking Up Hollywood's Movie Studios GOLD/FOREX DUBAI 23°C PRAYER TIMES TECHNOLOGY TECHNOLOGY COMPANIES CONSUMER ELECTRONICS FIN-TECH GAMING MEDIA TRENDS Seedance 2.0: Can this AI tool replace Hollywood movie studios? No crew, no actors, no budget - the new Chinese AI tool that’s putting Hollywood on notice Last updated: February 22, 2026 | 06:00 Zainab Husain , Features Writer 3 MIN READ Add as a preferred source on Google The viral AI-generated clip of Brad Pitt and Tom Cruise was generated by Seedance 2.0, an AI video model developed by ByteDance, the Chinese",
+        "image": "https://media.assettype.com/gulfnews%2F2026-02-21%2Fgxpdb3t1%2FScreenshot-2026-02-12-at-14.37.07-e1770907766400.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "source": "Gulfnews",
+        "url": "https://gulfnews.com/technology/seedance-20-can-this-ai-tool-replace-hollywood-movie-studios-1.500451338",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "La bataille juridique entre Hollywood et l'IA chinoise Seedance 2.0",
+        "title_en": "With Tom Cruise-Brad Pitt AI fight, China’s Seedance 2.0 is the latest test in AI-copyright tussle | Explained News - The Indian Express",
+        "summary": "Seedance 2.0, l'IA chinoise, crée des vidéos ultra-réalistes de Tom Cruise et Brad Pitt, déclenchant un conflit avec Hollywood.",
+        "summary_en": "“<strong>Sora will be able to generate short, user-prompted social videos that can be viewed and shared by fans</strong>, drawing from a set of more than 200 animated, masked and creature characters f",
+        "long_summary": "L'IA générative atteint un niveau de réalisme inédit, brouillant les frontières entre contenu humain et synthétique.\n\nPoints clés :\n• Seedance 2.0 crée des vidéos ultra-réalistes sans compétences en montage\n• L'MPA accuse ByteDance de violation systématique des droits d'auteur\n• Ce conflit pourrait redéfinir les règles du copyright à l'ère de l'IA\n\nConclusion sur les implications : Cette bataille juridique pourrait influencer la régulation mondiale des IA génératives et la protection des droits d'auteur.",
+        "long_summary_en": "Presents Co-presented by Associate Sponsor skip to content Advertisement With Tom Cruise-Brad Pitt AI fight, China’s Seedance 2.0 is the latest test in AI-copyright tussle Hollywood studios have sent notices to Seedance over its videos. Its rise also has implications for the internet as we know it, where it is now difficult to distinguish AI from human-made work. Written by: Rishika Singh 7 min read New Delhi Feb 22, 2026 05:07 PM IST A still from the Seedance AI video showing Tom Cruise and Brad Pitt in a fight. Make us preferred source on Google Whatsapp twitter Facebook Reddit PRINT A line ",
+        "image": "https://images.indianexpress.com/2026/02/Untitled-design-11.jpg",
+        "source": "Indianexpress",
+        "url": "https://indianexpress.com/article/explained/explained-sci-tech/tom-cruise-brad-pitt-ai-fight-seedance-10545979/",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Seedance 2.0 : une plateforme d'IA vidéo pour les entreprises, malgré les polémiques",
+        "title_en": "FinancialContent - New Seedance 2.0 Platform Targets Business Users With Licensed, Original AI Video Generation Tools",
+        "summary": "Seedance 2.0 propose des outils d'IA vidéo légaux pour les pros, malgré les critiques sur les deepfakes.",
+        "summary_en": "<strong>Headlines called it the biggest AI backlash since Sora&#x27;s debut</strong>. Fair enough. The copyright concerns are real and the clips were impressive in a way that should make studios nervo",
+        "long_summary": "Seedance 2.0 se positionne comme un outil de production vidéo légal, malgré les controverses sur les deepfakes de célébrités.\n\nPoints clés :\n• Plateforme avec licence commerciale et sortie sans filigrane\n• Outils de génération vidéo texte-image et image-vidéo\n• Critiques pour des deepfakes de Tom Cruise et Brad Pitt\n• Disney et Paramount ont envoyé des mises en demeure\n\nConclusion sur les implications : Seedance 2.0 montre le potentiel des IA génératives, mais doit gérer les enjeux juridiques et éthiques.",
+        "long_summary_en": "New Seedance 2.0 Platform Targets Business Users With Licensed, Original AI Video Generation Tools By: ACCESS Newswire February 22, 2026 at 11:00 AM EST LOS ANGELES, CA / ACCESS Newswire / February 22, 2026 / Seedance2ai.online released its Seedance 2.0 video creation platform with a pointed message for the market: AI video generation is a production tool, not a copyright infringement machine. The platform offers Seedance AI text-to-video and image-to-video generation to global creators, with commercial licensing, watermark-free output, and workflows designed around original content - not cele",
+        "image": "https://edge-cdn.isdr.io/access-newswire/Accesswire_Newswire_256x256.png ",
+        "source": "Markets",
+        "url": "https://markets.financialcontent.com/stocks/article/accwirecq-2026-2-22-new-seedance-20-platform-targets-business-users-with-licensed-original-ai-video-generation-tools",
+        "date": "23 February 2026"
+      },
+      {
         "title": "L'outil vidéo IA de ByteDance inquiète Hollywood et met Pékin en équilibre",
         "title_en": "Why ByteDance’s new AI video tool has Hollywood worried and Beijing walking a tightrope",
         "summary": "Un outil IA viral révèle l'accélération technologique et l'absence de régulation, perturbant Hollywood et Pékin.",
@@ -497,45 +533,105 @@
         "source": "Bbc",
         "url": "https://www.bbc.com/news/articles/ckg1dl410q9o",
         "date": "20 February 2026"
-      },
-      {
-        "title": "OpenAI recrute l'expert en célébrités d'Instagram pour séduire l'industrie du divertissement",
-        "title_en": "Exclusive: OpenAI Has Poached Instagram’s Celebrity Whisperer | Vanity Fair",
-        "summary": "OpenAI embauche Charles Porch, ex-vice-président des partenariats chez Instagram, pour conquérir Hollywood et les créateurs.",
-        "summary_en": "While Porch and the company offered sparse details on the still-evolving role, which will begin in March, the most likely applications of his talent include arranging deals to license entertainers’ li",
-        "long_summary": "OpenAI renforce son équipe avec un expert en partenariats stratégiques.\n\nPoints clés :\n• Charles Porch rejoint OpenAI pour développer des collaborations avec les célébrités et créateurs.\n• Il supervisera des projets comme l'utilisation des likenesses dans Sora, l'IA générative vidéo.\n• Objectif : convaincre l'industrie du divertissement de l'utilité de l'IA générative.\n\nCette embauche marque une étape clé dans la stratégie d'OpenAI pour intégrer l'IA dans la création artistique.",
-        "long_summary_en": "Save Story Save this story Save Story Save this story OpenAI has hired Instagram’s vice president of global partnerships, Charles Porch, to serve as the AI company’s first-ever vice president of global creative partnerships. The newly created position is the latest move in OpenAI’s push to win over a skeptical entertainment industry. In his over 15 years at Instagram, Facebook, and Meta, Porch was instrumental in bringing high-profile figures to the platforms. He facilitated the exclusive Instagram launch of Beyoncé ’s self-titled album in 2013, coordinated Instagram’s portrait studios at Vani",
-        "image": "https://media.vanityfair.com/photos/6995dbcc72427032616a5e55/16:9/w_1280,c_limit/charles-porch-2024.jpg",
-        "source": "Vanityfair",
-        "url": "https://www.vanityfair.com/news/story/openai-hires-charles-porch-instagram",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Un tribunal américain interdit à OpenAI d'utiliser le nom 'Cameo'",
-        "title_en": "US court bars OpenAI from using 'Cameo' | TechCrunch",
-        "summary": "Un tribunal californien ordonne à OpenAI de cesser d'utiliser le nom 'Cameo' pour son outil de génération vidéo, au profit de la plateforme de messages personnalisés.",
-        "summary_en": "<strong>OpenAI was using the “Cameo” name for its AI-powered video-generation app Sora 2.</strong> Users could use that feature to insert digital likenesses of themselves into AI-generated videos.",
-        "long_summary": "Un tribunal fédéral en Californie a statué en faveur de Cameo, interdisant à OpenAI d'utiliser le nom pour son application Sora 2, qui permettait d'insérer des avatars numériques dans des vidéos générées par IA.\n\nPoints clés :\n• Le tribunal a jugé que le nom 'Cameo' pouvait prêter à confusion avec la plateforme de messages personnalisés.\n• OpenAI a tenté de défendre l'usage du terme comme descriptif, mais le juge a rejeté cet argument.\n• Cameo salue cette décision comme une victoire pour la protection de sa marque et de ses créateurs.\n\nConclusion sur les implications : Cette affaire souligne les enjeux juridiques croissants autour des noms de marques dans l'IA générative, où les entreprises doivent naviguer entre innovation et respect des droits de propriété intellectuelle.",
-        "long_summary_en": "Image Credits: Samuel Boivin/NurPhoto (opens in a new window) / Getty Images Apps US court bars OpenAI from using ‘Cameo’ Ivan Mehta 10:40 PM PST · February 17, 2026 A federal district court in Northern California ruled in favor of Cameo, a platform that allows users to get personalized video messages from celebrities and ordered OpenAI to stop using “Cameo” in its products and features. OpenAI was using the “Cameo” name for its AI-powered video-generation app Sora 2. Users could use that feature to insert digital likenesses of themselves into AI-generated videos. In a ruling filed Saturday, t",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/",
-        "date": "19 February 2026"
-      },
-      {
-        "title": "Google intègre un générateur de musique IA dans son application Gemini",
-        "title_en": "Google’s AI music maker is coming to the Gemini app",
-        "summary": "Gemini s’enrichit d’un outil de création musicale IA, grâce à Lyria 3 de DeepMind. Disponible globalement, il permet de générer des morceaux en 30 secondes.",
-        "summary_en": "Google has given Gemini the ability to spit out AI-generated music, courtesy of DeepMind's latest audio model. Beta access to Lyria 3 is rolling out in the Gemini app, enabling users to generate 30-se",
-        "long_summary": "Google étend les capacités de son assistant IA Gemini avec un générateur de musique basé sur l’IA de DeepMind.\n\nPoints clés :\n• Lyria 3 permet de créer des morceaux de 30 secondes via texte, images ou vidéos\n• Fonctionnalité intégrée directement dans l’interface de Gemini\n• Disponible globalement en version bêta\n\nCette innovation positionne Google comme un acteur clé dans l’IA générative, rivalisant avec OpenAI et Anthropic.",
-        "long_summary_en": "Google has given Gemini the ability to spit out AI-generated music, courtesy of DeepMind's latest audio model. Beta access to Lyria 3 is rolling out in the Gemini app, enabling users to generate 30-second tracks based on text, images, and videos, without having to leave the chatbot window. The new music-making tool is available globally […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Gemini-app-lyria-3-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/880584/google-gemini-ai-music-maker-lyria-3-beta",
-        "date": "18 February 2026"
       }
     ],
     "llm": [
+      {
+        "title": "7 façons de réduire vos coûts d'API IA de près de moitié",
+        "title_en": "7 Ways to Cut Your AI API Costs Nearly in Half",
+        "summary": "Optimisez vos dépenses en API IA en choisissant le bon modèle et en maîtrisant l'économie des tokens.",
+        "summary_en": "This is likely the most important factor you need to know about. Frontier models are the most expensive. LLMs like GPT-5.3-Codex (OpenAI) and Opus (Anthropic) and Gemini (Google), in particular, are w",
+        "long_summary": "Les coûts des API IA peuvent exploser si l'on ne choisit pas le bon modèle. Une approche stratégique permet de réduire les dépenses de 40 à 60%.\n\nPoints clés :\n• Sélectionner un modèle adapté à la tâche pour éviter les surcoûts\n• Comprendre l'économie des tokens pour optimiser les appels API\n• Privilégier des solutions cloud économiques comme Hetzner pour réduire les coûts initiaux\n\nLes entreprises et développeurs peuvent ainsi maximiser l'efficacité de leurs budgets IA.",
+        "long_summary_en": "Sometimes a Ford Maverick is all you really ever need. The same principle applies to AI model selection: match the tool to the task and save 40-60% on API spend. I had to finally try out Molty , the much-hyped always-on (persistent) chat bot everyone seems to be talking about online over the last week or so. Everything worked as expected. I set up a Hetzner VPS for about $10/month, and used Claude Code on my IPE (see my IDE-to-IPE explainer for what that means) to install OpenClaw and then entered an Anthropic API token which was connected to my account so that Molty could come to life. Many A",
+        "image": "https://www.starkinsider.com/wp-content/uploads/2026/02/ai-api-token-optimization-ford-maverick-vs-semi-truck.png",
+        "source": "Starkinsider",
+        "url": "https://www.starkinsider.com/2026/02/reduce-ai-api-costs.html",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Claude Opus 4.6 : une avancée majeure en IA agentique et raisonnement abstrait",
+        "title_en": "Claude Opus 4.6: Benchmarks, 1M Context & Coding Guide (2026) - philippdubach.com",
+        "summary": "Anthropic dévoile Claude Opus 4.6, un modèle révolutionnaire avec 1M tokens de contexte et des capacités agentiques renforcées.",
+        "summary_en": "GPT-5.2 still holds advantages in abstract reasoning (ARC-AGI-2, though the gap narrowed significantly) and math. Gemini 3 Pro offers the best cost efficiency and multimodal processing with its own 1M",
+        "long_summary": "Anthropic vient de lancer Claude Opus 4.6, la version la plus avancée de sa famille de modèles, avec un focus inédit sur l'agentivité et le raisonnement abstrait.\n\nPoints clés :\n• Premier modèle Opus avec une fenêtre de contexte de 1 million de tokens\n• Performances record sur ARC-AGI-2 (68,8%), dépassant GPT-5.2 et Gemini 3 Pro\n• Amélioration significative des capacités de codage et de résolution de tâches complexes\n\nConclusion sur les implications : Cette version marque un tournant dans la course aux modèles d'IA généralistes, avec des applications potentielles dans la recherche, le développement logiciel et l'automatisation avancée.",
+        "long_summary_en": "Anthropic just released Claude Opus 4.6, the latest frontier AI model in the Claude family. It’s a big upgrade over Opus 4.5 and probably the most agentic-focused LLM release from any lab this year. Key upgrades: better agentic AI coding capabilities (plans more carefully, sustains longer tasks, catches its own mistakes), a 1M token context window (a first for Opus-class models), and 128K output tokens. Pricing holds at $5/$25 per million tokens. LLM Benchmark Results: How Claude Opus 4.6 Compares The benchmark numbers are strong across the board. Opus 4.6 hits state-of-the-art on Terminal-Ben",
+        "image": "https://static.philippdubach.com/ograph/ograph-opus46.jpg",
+        "source": "Philippdubach",
+        "url": "https://philippdubach.com/posts/claude-opus-4.6-anthropics-new-flagship-ai-model-for-agentic-coding/",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "ByteDance révolutionne le raisonnement des IA en cartographiant les liaisons moléculaires",
+        "title_en": "Forget Keyword Imitation: ByteDance AI Maps Molecular Bonds in AI Reasoning to Stabilize Long Chain-of-Thought Performance and Reinforcement Learning (RL) Training",
+        "summary": "ByteDance Seed propose une nouvelle approche pour stabiliser le raisonnement multi-étapes des IA, inspirée des liaisons moléculaires.",
+        "summary_en": "ByteDance Seed recently dropped a research that might change how we build reasoning AI. For years, devs and AI researchers have struggled to ‘cold-start’ Large Language Models (LLMs) into Long Chain-o",
+        "long_summary": "Les modèles de langage peinent à maintenir une cohérence dans les raisonnements complexes. ByteDance a identifié une solution en s'inspirant des liaisons chimiques.\n\nPoints clés :\n• Utilisation des liaisons moléculaires pour stabiliser le raisonnement long\n• Solution au problème de transfert de motifs dans les modèles Long CoT\n• Impact potentiel sur l'entraînement par renforcement (RL)\n\nCette découverte pourrait transformer l'apprentissage des modèles de langage, notamment pour les tâches complexes.",
+        "long_summary_en": "ByteDance Seed recently dropped a research that might change how we build reasoning AI. For years, devs and AI researchers have struggled to ‘cold-start’ Large Language Models (LLMs) into Long Chain-of-Thought (Long CoT) models. Most models lose their way or fail to transfer patterns during multi-step reasoning. The ByteDance team discovered the problem: we have […]\nThe post Forget Keyword Imitation: ByteDance AI Maps Molecular Bonds in AI Reasoning to Stabilize Long Chain-of-Thought Performance and Reinforcement Learning (RL) Training appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-1-17-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/22/forget-keyword-imitation-bytedance-ai-maps-molecular-bonds-in-ai-reasoning-to-stabilize-long-chain-of-thought-performance-and-reinforcement-learning-rl-training/",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Guide pratique : Instrumenter, tracer et évaluer les applications LLM avec TruLens et OpenAI",
+        "title_en": "A Coding Guide to Instrumenting, Tracing, and Evaluating LLM Applications Using TruLens and OpenAI Models",
+        "summary": "Un tutoriel pour créer un pipeline d'évaluation transparent des LLM avec TruLens, capturant les entrées, étapes intermédiaires et sorties.",
+        "summary_en": "In this tutorial, we focus on building a transparent and measurable evaluation pipeline for large language model applications using TruLens. Rather than treating LLMs as black boxes, we instrument eac",
+        "long_summary": "Ce guide explique comment instrumenter des applications LLM pour les rendre mesurables et transparentes.\n\nPoints clés :\n• Utilisation de TruLens pour capturer les traces structurées\n• Évaluation quantitative des modèles avec des fonctions de feedback\n• Approche alternative aux boîtes noires des LLM\n\nCette méthode permet d'améliorer la fiabilité et la compréhension des modèles de langage.",
+        "long_summary_en": "In this tutorial, we focus on building a transparent and measurable evaluation pipeline for large language model applications using TruLens. Rather than treating LLMs as black boxes, we instrument each stage of an application so that inputs, intermediate steps, and outputs are captured as structured traces. We then attach feedback functions that quantitatively evaluate model […]\nThe post A Coding Guide to Instrumenting, Tracing, and Evaluating LLM Applications Using TruLens and OpenAI Models appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-47-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/22/a-coding-guide-to-instrumenting-tracing-and-evaluating-llm-applications-using-trulens-and-openai-models/",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "L'IA révolutionne le cinéma : la saga 'Holiguards' dévoilée à Berlin",
+        "title_en": "Berlin hosts private premiere of &#8216;Holiguards Saga &#8211; The Portal of Force&#8217; with Kevin Spacey and Elvira Paterson",
+        "summary": "La saga 'Holiguards' utilise l'IA pour créer des univers cinématographiques immersifs, marquant une nouvelle ère dans l'industrie.",
+        "summary_en": "A private premiere screening of “Holiguards Saga – The Portal of Force,” the pilot installment of the planned Holiguards Saga franchise, was held on February 16 at ASTOR Film Lounge Berlin. The event ",
+        "long_summary": "La saga 'Holiguards' explore les limites de l'IA générative dans la production cinématographique.\n\nPoints clés :\n• Utilisation de modèles de langage avancés pour créer des scénarios et dialogues\n• Collaboration entre acteurs humains et IA pour des performances hybrides\n• Potentiel de personnalisation des récits selon les préférences des spectateurs\n\nCette avant-première souligne l'impact croissant de l'IA dans l'industrie du divertissement, ouvrant la voie à des expériences cinématographiques uniques.",
+        "long_summary_en": "A private premiere screening of “Holiguards Saga – The Portal of Force,” the pilot installment of the planned Holiguards Saga franchise, was held on February 16 at ASTOR Film Lounge Berlin. The event took place in a closed format with invited industry guests, partners, and media representatives. The screening was organized as a formal black-tie […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FPremiere-of-Holiguards-Saga-%E2%80%94-The-Portal-of-Force.png&signature=3196e4754496e51f8e3a614df2772768",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/berlin-hosts-private-premiere-of-holiguards-saga",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Sécurité de l'IA face à la machine de guerre",
+        "title_en": "AI Safety Meets the War Machine",
+        "summary": "Anthropic refuse que son IA soit utilisée dans des armes autonomes ou la surveillance gouvernementale, risquant un contrat militaire majeur.",
+        "summary_en": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
+        "long_summary": "Anthropic, un concurrent d'OpenAI et Google, impose des restrictions éthiques strictes sur ses modèles de langage.\n\nPoints clés :\n• Refus des applications militaires et de surveillance\n• Risque de perdre un contrat avec le Pentagone\n• Dilemme entre éthique et opportunités commerciales\n\nConclusion sur les implications : Cette décision pourrait influencer les politiques d'autres géants de l'IA et redéfinir les limites éthiques de l'IA générative.",
+        "long_summary_en": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
+        "image": "https://media.wired.com/photos/6994edaec3ca16022bd2b3d5/191:100/w_1280,c_limit/Backchannel-Anthropic-vs-Pentagon-Business--2221448096.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "Samsung intègre Perplexity à Galaxy AI : une révolution dans l'écosystème multi-agent",
+        "title_en": "Samsung is adding Perplexity to Galaxy AI",
+        "summary": "Samsung intègre Perplexity à Galaxy AI, permettant aux utilisateurs de Galaxy S26 d'activer l'IA avec 'hey, Plex'. Une avancée majeure dans l'écosystème multi-agent.",
+        "summary_en": "In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's e",
+        "long_summary": "Samsung renforce son écosystème d'IA en intégrant Perplexity, aux côtés de Bixby et Gemini, pour une expérience multi-agent.\n\nPoints clés :\n• Activation vocale via 'hey, Plex' pour les utilisateurs de Galaxy S26\n• Stratégie multi-agent pour des tâches spécialisées selon les forces de chaque IA\n• Concurrence accrue avec OpenAI, Google et Anthropic dans le domaine des LLMs\n\nCette intégration marque un tournant dans l'adoption des assistants IA générative, ouvrant la voie à des écosystèmes plus flexibles et personnalisés.",
+        "long_summary_en": "In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks, depending on where their strengths […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Samsung-Mobile-Galaxy-AI-Perplexity-AI-Agent-Expansion-of-Galaxy-AI_main1.jpg?quality=90&strip=all&crop=0,3.5026456994597,100,92.994708601081",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
+        "date": "23 February 2026"
+      },
+      {
+        "title": "L'Inde accueille un sommet historique sur l'IA avec les géants technologiques",
+        "title_en": "All the important news from the ongoing India AI Impact Summit",
+        "summary": "L'Inde organise un sommet de 4 jours réunissant les dirigeants d'OpenAI, Google, Nvidia et d'autres acteurs majeurs de l'IA.",
+        "summary_en": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as ",
+        "long_summary": "L'Inde accueille cette semaine un sommet de l'IA de quatre jours avec des dirigeants d'OpenAI, Anthropic, Nvidia, Microsoft, Google et Cloudflare.\n\nPoints clés :\n• Réunion des plus grands acteurs de l'IA et des dirigeants politiques\n• Discussions sur l'impact des LLMs et de l'IA générative\n• Focus sur l'innovation et la régulation de l'IA\n\nCe sommet marque un tournant dans la collaboration mondiale sur l'IA, avec des implications majeures pour l'avenir technologique.",
+        "long_summary_en": "India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+        "date": "23 February 2026"
+      },
       {
         "title": "Les agents IA en plein essor, mais les normes de sécurité à la traîne",
         "title_en": "KI-Agenten im Aufwind – doch Sicherheitsstandards bleiben weit zurück",
@@ -619,102 +715,6 @@
         "source": "Nytimes",
         "url": "https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html",
         "date": "22 February 2026"
-      },
-      {
-        "title": "Une nouvelle recherche Google propose un ratio de réflexion approfondie pour améliorer la précision des LLMs tout en réduisant les coûts de moitié",
-        "title_en": "A New Google AI Research Proposes Deep-Thinking Ratio to Improve LLM Accuracy While Cutting Total Inference Costs by Half",
-        "summary": "Des chercheurs de l'Université de Virginie et Google remettent en cause l'idée que des chaînes de pensée plus longues améliorent les performances des LLMs.",
-        "summary_en": "For the last few years, the AI world has followed a simple rule: if you want a Large Language Model (LLM) to solve a harder problem, make its Chain-of-Thought (CoT) longer. But new research from the U",
-        "long_summary": "Pendant des années, l'industrie de l'IA a cru que des chaînes de pensée plus longues amélioraient les résultats des modèles de langage. Une nouvelle étude démontre que la qualité prime sur la quantité.\n\nPoints clés :\n• La longueur des chaînes de pensée n'est pas synonyme de meilleure performance\n• Un ratio de réflexion approfondie optimise précision et coûts\n• Réduction potentielle des coûts d'inférence de 50%\n\nCette découverte pourrait révolutionner le développement des LLMs en équilibrant efficacité et performance.",
-        "long_summary_en": "For the last few years, the AI world has followed a simple rule: if you want a Large Language Model (LLM) to solve a harder problem, make its Chain-of-Thought (CoT) longer. But new research from the University of Virginia and Google proves that ‘thinking long’ is not the same as ‘thinking hard’. The research team […]\nThe post A New Google AI Research Proposes Deep-Thinking Ratio to Improve LLM Accuracy While Cutting Total Inference Costs by Half appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-1-17-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/21/a-new-google-ai-research-proposes-deep-thinking-ratio-to-improve-llm-accuracy-while-cutting-total-inference-costs-by-half/",
-        "date": "22 February 2026"
-      },
-      {
-        "title": "Février 2026 : Explosion des modèles d'IA avec des performances record",
-        "title_en": "AI Updates Today (February 2026) – Latest AI Model Releases",
-        "summary": "Les géants de l'IA dévoilent des modèles révolutionnaires, dont GPT-5.2 et Gemini 3 Pro, atteignant des scores GPQA de 0,9.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Février 2026 marque un tournant dans l'évolution des modèles de langage, avec des avancées majeures en précision et en capacité de raisonnement.\n\nPoints clés :\n• GPT-5.2 et Gemini 3 Pro dominent les benchmarks avec des scores GPQA de 0,9\n• Claude Haiku 4.5 et Qwen3 VL 32B Thinking atteignent des performances inédites\n• Multiplicité des modèles spécialisés (vision, raisonnement, etc.)\n\nConclusion sur les implications : Ces innovations accélèrent l'adoption de l'IA dans des secteurs critiques, tout en soulevant des questions éthiques et concurrentielles.",
-        "long_summary_en": "AI Updates Today (February 2026) – Latest AI Model Releases Gemini 2.5 Flash-Lite · GPQA 0.6 GPT-4 · GPQA 0.4 Qwen3 VL 32B Thinking · GPQA 0.7 DeepSeek R1 Distill Llama 70B · GPQA 0.7 GLM-4.7-Flash · GPQA 0.8 o3 · GPQA 0.8 GPT-4o · GPQA 0.7 Claude Sonnet 4.6 · GPQA 0.9 Gemini 3 Pro · GPQA 0.9 GPT-5.2 · GPQA 0.9 Claude Haiku 4.5 · GPQA 0.7 Qwen3 VL 30B A3B Thinking · GPQA 0.7 Grok-1.5 · GPQA 0.4 Mistral Small 3.1 24B Instruct · GPQA 0.5 GPT-4.5 · GPQA 0.7 Claude Sonnet 4.5 · GPQA 0.8 Grok-2 · GPQA 0.6 Qwen3-Next-80B-A3B-Instruct · GPQA 0.7 GPT-5 High · GPQA 0.9 Grok-3 Mini · GPQA 0.8 Gemini 2.5",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "Un suspect de fusillade aurait décrit des scénarios violents à ChatGPT",
-        "title_en": "Suspect in Tumbler Ridge school shooting described violent scenarios to ChatGPT",
-        "summary": "Un suspect de fusillade aurait alerté OpenAI via des échanges violents avec ChatGPT avant le drame. Les employés ont signalé les risques.",
-        "summary_en": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had",
-        "long_summary": "Jesse Van Rootselaar, suspect de la fusillade de Tumbler Ridge, a échangé avec ChatGPT sur des scénarios violents, déclenchant des alertes chez OpenAI.\n\nPoints clés :\n• Des échanges violents ont été détectés par le système de modération d'OpenAI\n• Plusieurs employés ont signalé les risques potentiels\n• L'incident soulève des questions sur la détection précoce des menaces par l'IA\n\nL'affaire met en lumière les limites des modèles de langage face aux contenus extrêmes et la responsabilité des plateformes.",
-        "long_summary_en": "The suspect in the mass shooting at Tumbler Ridge, British Columbia, Jesse Van Rootselaar, was raising alarms among employees at OpenAI months before the shooting took place. This past June, Jesse had conversations with ChatGPT involving descriptions of gun violence that triggered the chatbot's automated review system. Several employees raised concerns that her posts could […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2260625085.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/882814/tumbler-ridge-school-shooting-chatgpt",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "OpenAI a envisagé d'alerter la police sur les discussions d'un suspect canadien",
-        "title_en": "OpenAI debated calling police about suspected Canadian shooter’s chats",
-        "summary": "OpenAI a détecté des propos violents dans les échanges d'un utilisateur canadien via ChatGPT, soulevant des questions sur le rôle des IA dans la prévention des crimes.",
-        "summary_en": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
-        "long_summary": "OpenAI a identifié des descriptions de violence armée dans les conversations d’un utilisateur canadien, Jesse Van Rootselaar, via son outil de surveillance de ChatGPT.\n\nPoints clés :\n• Les modèles de langage comme ChatGPT peuvent détecter des contenus à risque, mais leur réponse reste limitée.\n• OpenAI a hésité à alerter les autorités, soulignant les défis éthiques et légaux des IA génératives.\n• Cet incident met en lumière le rôle croissant des LLMs dans la modération en ligne et la sécurité publique.\n\nConclusion sur les implications :\nCet épisode illustre les tensions entre la protection de la vie privée et la responsabilité des entreprises d’IA face aux menaces potentielles.",
-        "long_summary_en": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "Un VP de Google alerte : deux types de startups IA pourraient disparaître",
-        "title_en": "Google VP warns that two types of AI startups may not survive",
-        "summary": "Les startups spécialisées dans les wrappers de LLMs et les agrégateurs d'IA font face à une pression croissante, menacée par des marges réduites.",
-        "summary_en": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
-        "long_summary": "Alors que l'IA générative se développe rapidement, les startups axées sur les wrappers de modèles de langage et les agrégateurs d'IA voient leurs marges se réduire.\n\nPoints clés :\n• Les wrappers de LLMs peinent à se différencier face aux géants comme Google et OpenAI\n• Les agrégateurs d'IA souffrent d'une faible valeur ajoutée et d'une concurrence accrue\n• Les startups sans innovation technologique risquent de disparaître rapidement\n\nLes acteurs du secteur doivent innover pour survivre dans un marché dominé par les grands acteurs.",
-        "long_summary_en": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "OpenAI et Anthropic évitent de se tenir la main lors d'un sommet sur l'IA",
-        "title_en": "OpenAI and Anthropic’s rivalry on display as CEOs avoid holding hands at AI summit",
-        "summary": "Sam Altman et Dario Amodei ont refusé de se tenir la main lors d'une photo de groupe avec Modi, révélant la rivalité entre OpenAI et Anthropic.",
-        "summary_en": "Last month, Anthropic released Super Bowl commercials that poked fun at OpenAI&#x27;s plan to start testing ads for free users and ChatGPT Go subscribers in the U.S.",
-        "long_summary": "Lors du sommet AI Impact à New Delhi, les PDG d'OpenAI et d'Anthropic ont évité de se tenir la main, malgré la tradition de solidarité. Leur rivalité s'intensifie alors qu'ils cherchent à dominer le marché de l'IA générative.\n\nPoints clés :\n• Sam Altman (OpenAI) et Dario Amodei (Anthropic) ont refusé de se tenir la main lors d'une photo de groupe avec Modi et Pichai.\n• Les deux entreprises se livrent une bataille acharnée pour devenir l'IA par défaut des consommateurs.\n• Cette rivalité inclut des débats sur l'utilisation de publicités dans les modèles d'IA.\n\nCette tension illustre la compétition féroce dans le secteur de l'IA, où chaque détail compte.",
-        "long_summary_en": "Key Points Sam Altman and Dario Amodei didn't link hands during an AI event in India while on stage with Indian Prime Minister Narendra Modi and other major tech figures. They held the hands of the people on the other side, but not each other. Their companies are fighting an intense battle, as they work to make their AI models the default for consumers. India's Prime Minister Narendra Modi (L) takes a group photo with AI company leaders including OpenAI CEO Sam Altman (C) and Anthropic CEO Dario Amodei (R) at the AI Impact Summit in New Delhi on February 19, 2026. Ludovic Marin | Afp | Getty I",
-        "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1771661773&w=1920&h=1080",
-        "source": "Cnbc",
-        "url": "https://www.cnbc.com/2026/02/19/openai-sam-altman-anthropic-dario-amodei-india-ai-summit.html",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "Google Gemini Pro 3.1 : une IA plus performante et moins chère que ChatGPT et Claude",
-        "title_en": "Google Gemini Pro 3.1: Alphabet Updates Its Benchmark AI, Analysis Says It Undercuts OpenAI's ChatGPT, Anthropic's Claude On Cost",
-        "summary": "Google lance Gemini Pro 3.1, une IA surpassant ChatGPT et Claude en performance et en coût.",
-        "summary_en": "<strong>The model has shot to the top of the Artificial Analysis Intelligence Index, four points ahead of Claude Opus 4.6</strong>. The model scores highest among peers across 6 of the 10 evaluation p",
-        "long_summary": "Google renforce sa position dans l'IA avec Gemini Pro 3.1, un modèle plus performant et économique que ses concurrents.\n\nPoints clés :\n• Gemini Pro 3.1 offre des capacités supérieures en traitement du langage et en génération de contenu\n• Son coût est inférieur à celui de ChatGPT et Claude, selon les analyses\n• Cette mise à jour pourrait accélérer l'adoption de l'IA par les entreprises\n\nCette avancée pourrait redéfinir la compétition entre les géants de l'IA, avec des implications majeures pour les utilisateurs et le marché.",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://menafn.com/updates/pr/2026-02/20/AN_web-p_2aa0bimage_story.webp",
-        "source": "Stocktwits",
-        "url": "https://stocktwits.com/news-articles/markets/equity/google-gemini-pro-3-1-alphabet-updates-its-benchmark-ai-analysis-says-it-undercuts-open-ai-s-chat-gpt-anthropic-s-claude-on-cost/cZRZyFJR4xb",
-        "date": "21 February 2026"
-      },
-      {
-        "title": "Google Lyria 3 : l'IA qui compose votre musique",
-        "title_en": "Google’s new music tool, Lyria 3 is here",
-        "summary": "Google lance Lyria 3, une IA capable de composer de la musique, marquant un tournant dans la création artistique automatisée.",
-        "summary_en": "Google’s announcement that its Gemini app now writes music for you isn’t just one of those “blowing my mind” product updates. It feels like a symbolic surrender to a long-standing refrain from Big Tec",
-        "long_summary": "Google intègre désormais Lyria 3 dans son application Gemini, permettant à l'IA de générer des compositions musicales.\n\nPoints clés :\n• L'IA rejoint d'autres outils créatifs automatisés, comme les générateurs de texte ou d'images\n• Cette avancée soulève des questions sur la place de l'humain dans la création artistique\n• Les géants tech comme Google, OpenAI et Anthropic accélèrent l'automatisation des tâches créatives\n\nL'annonce de Google symbolise une normalisation de l'IA dans les domaines artistiques, remettant en cause les frontières entre création humaine et machine.",
-        "long_summary_en": "Google’s announcement that its Gemini app now writes music for you isn’t just one of those “blowing my mind” product updates. It feels like a symbolic surrender to a long-standing refrain from Big Tech: creative work is now just another checkbox for a machine.  If you don’t know what I am talking about, yesterday Google […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FGoogles-new-music-tool-Lyria-3.png&signature=8ceecb26f4c8d5a8913b031bd825030c",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/googles-new-music-tool-lyria-3-is-here",
-        "date": "21 February 2026"
       }
     ],
     "audio": [
@@ -902,13 +902,6 @@
   },
   "hotNews": [
     {
-      "title": "Google Gemini Pro 3.1 : une IA plus performante et moins chère que ChatGPT et Claude",
-      "title_en": "Google Gemini Pro 3.1: Alphabet Updates Its Benchmark AI, Analysis Says It Undercuts OpenAI's ChatGPT, Anthropic's Claude On Cost",
-      "source": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/google-gemini-pro-3-1-alphabet-updates-its-benchmark-ai-analysis-says-it-undercuts-open-ai-s-chat-gpt-anthropic-s-claude-on-cost/cZRZyFJR4xb",
-      "date": "21 February 2026"
-    },
-    {
       "title": "Gemini de Google a-t-il mis échec et mat à ChatGPT d'OpenAI ?",
       "title_en": "Did Google's Gemini Just Say \"Checkmate\" to OpenAI's ChatGPT? | The Motley Fool",
       "source": "Fool",
@@ -916,10 +909,17 @@
       "date": "16 February 2026"
     },
     {
-      "title": "Février 2026 : Explosion des modèles d'IA avec des performances record",
-      "title_en": "AI Updates Today (February 2026) – Latest AI Model Releases",
+      "title": "Gemini 3.1 Pro : Google DeepMind révolutionne les modèles d'IA en 2026",
+      "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
       "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
+      "url": "https://llm-stats.com/ai-news",
+      "date": "22 February 2026"
+    },
+    {
+      "title": "Google lance Gemini 3.1 Pro : exécution de tâches complexes et nouvelle fonctionnalité photoshoot pour Pomelli",
+      "title_en": "Google Releases Gemini 3.1 Pro With Ability to Execute Complex Tasks; Pomelli Gets New Photoshoot Feature | Technology News",
+      "source": "Gadgets360",
+      "url": "https://www.gadgets360.com/ai/news/gemini-3-1-pro-ai-model-release-features-capabilities-availability-pomelli-photoshoot-google-11111764",
       "date": "21 February 2026"
     }
   ]
