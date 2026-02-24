@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "24 February 2026 - 12:34",
+  "lastUpdate": "24 February 2026 - 18:34",
   "categories": {
     "general": [
+      {
+        "title": "Des rhinocéros radioactifs et l'essor des peptides : l'IA au service de la conservation",
+        "title_en": "The Download: radioactive rhinos, and the rise and rise of peptides",
+        "summary": "L'IA révolutionne la protection des espèces menacées, des rhinos radioactifs aux peptides synthétiques.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why conservationists are making rhinos radioactive Every year,",
+        "long_summary": "Des scientifiques utilisent désormais l'IA pour lutter contre le braconnage et la contrebande d'espèces protégées.\n\nPoints clés :\n• Des rhinos marqués radioactivement pour les protéger des braconniers\n• L'IA analyse les données pour traquer les réseaux de trafic d'animaux\n• Les peptides synthétiques pourraient révolutionner la médecine et l'écologie\n\nL'IA devient un outil clé pour la conservation, mais soulève des questions éthiques.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why conservationists are making rhinos radioactive Every year, poachers shoot hundreds of rhinos, fishing crews haul millions of sharks out of protected seas, and smugglers carry countless animals and plants across borders. This…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/Rhisotope-Project-2025-3top.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/24/1133567/the-download-radioactive-rhinos-and-the-rise-and-rise-of-peptides/",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "L'IA prédit la date de sortie de 'High Potential' : comment les modèles de langage révolutionnent les médias",
+        "title_en": "'High Potential' Release Schedule: When Is Season 2, Episode 13 Coming?",
+        "summary": "Les modèles de langage comme ceux d'OpenAI pourraient anticiper les dates de diffusion des séries. Décryptage des enjeux technologiques.",
+        "summary_en": "Read on for how to tune into the hit show starring Kaitlin Olson on ABC and Hulu.",
+        "long_summary": "Les séries comme 'High Potential' avec Kaitlin Olson suscitent un intérêt croissant, mais leur programmation reste incertaine.\n\nPoints clés :\n• Les modèles de langage (LLMs) analysent les tendances pour prédire les sorties\n• OpenAI, Google et Anthropic développent des outils capables d'anticiper les stratégies éditoriales\n• L'IA générative pourrait automatiser la création de contenus et la planification des médias\n\nL'intégration de l'IA dans l'industrie du divertissement pourrait bouleverser les modèles économiques traditionnels.",
+        "long_summary_en": "Read on for how to tune into the hit show starring Kaitlin Olson on ABC and Hulu.",
+        "image": "https://www.cnet.com/a/img/resize/3c4df204002d5f723cc9d059755bdbbc092550fd/hub/2025/09/15/e1efd97b-8c68-42ad-bcae-3f1542f68a0a/177436-1002-v5.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/services-and-software/high-potential-watch-season-2-episode-13/",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "Sony WF-1000XM6 vs. AirPods Pro 3 vs. Bose QC Ultra : l'IA révolutionne les écouteurs ANC",
+        "title_en": "Sony WF-1000XM6 vs. AirPods Pro 3 vs. Bose QC Ultra (2nd Gen): Which ANC Earbuds Are the Best?",
+        "summary": "L'IA optimise l'annulation de bruit dans les écouteurs haut de gamme. Comparaison des modèles Sony, Apple et Bose.",
+        "summary_en": "Sony, Bose and Apple are often considered the top names in premium wireless noise-canceling earbuds, but each has pros and cons. Here's how they compare in my testing.",
+        "long_summary": "Les écouteurs sans fil haut de gamme intègrent désormais des algorithmes d'IA pour une réduction de bruit intelligente.\n\nPoints clés :\n• Les modèles Sony et Bose utilisent des réseaux de neurones pour adapter l'ANC en temps réel\n• Apple combine l'IA avec des capteurs avancés pour une personnalisation accrue\n• Les LLMs améliorent la qualité audio et la suppression des bruits ambiants\n\nConclusion sur les implications : L'IA devient un critère clé dans le choix des écouteurs premium, avec des performances qui évoluent grâce au machine learning.",
+        "long_summary_en": "Sony, Bose and Apple are often considered the top names in premium wireless noise-canceling earbuds, but each has pros and cons. Here's how they compare in my testing.",
+        "image": "https://www.cnet.com/a/img/resize/691148fd33b9e13ef0d906a66beeb3100a0e0707/hub/2026/02/23/7430eb7e-d8d9-46aa-be0e-b44706fbd103/sony-bose-apple-buds-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/mobile/sony-wf-1000xm6-vs-airpods-pro-3-vs-bose-qc-ultra-2nd-gen-best-anc-earbuds/",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "Les résultats du Q4 de Nvidia pourraient redéfinir la confiance dans le marché du matériel IA",
+        "title_en": "Nvidia’s Q4 results could make or break confidence in the AI hardware market",
+        "summary": "Les performances de Nvidia pourraient influencer la confiance dans l'écosystème IA, dominé par ses puces GPU.",
+        "summary_en": "Nvidia has become shorthand for the AI market itself. In the years since generative models reshaped computing, the company’s GPUs have powered everything from large-scale training clusters to real-tim",
+        "long_summary": "Nvidia est devenu synonyme du marché de l'IA, ses GPU alimentant les modèles génératifs et les infrastructures d'inférence.\n\nPoints clés :\n• Nvidia a vu son action bondir de 1 500 % entre 2022 et 2025\n• Ses puces sont essentielles pour les LLMs d'OpenAI, Google et Anthropic\n• Les résultats du Q4 pourraient influencer les investissements dans le matériel IA\n\nLes performances de Nvidia pourraient accélérer ou freiner l'innovation dans les infrastructures IA.",
+        "long_summary_en": "Nvidia has become shorthand for the AI market itself. In the years since generative models reshaped computing, the company’s GPUs have powered everything from large-scale training clusters to real-time inference infrastructure. That dominance helped Nvidia’s stock surge over 1,500 percent from 2022 into 2025 and made it one of the most valuable tech firms in […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FNvidias-Q4-results-could-make-or-break-confidence-in-the-AI-hardware-market.png&signature=51054548f3f63e498d52e0151879d27d",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/nvidias-q4-results-could-make-or-break-confidence-in-the-ai-hardware-market",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "Oura lance un modèle d'IA dédié à la santé des femmes",
+        "title_en": "Oura launches a proprietary AI model focused on women’s health",
+        "summary": "Un modèle d'IA spécialisé dans la santé reproductive, de la puberté à la ménopause.",
+        "summary_en": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause.",
+        "long_summary": "Oura, connu pour ses trackers de santé, se lance dans l'IA avec un modèle dédié aux femmes.\n\nPoints clés :\n• Couvre tout le spectre de la santé reproductive, des premières règles à la ménopause\n• Utilise des techniques de Machine Learning et de modèles de langage\n• Positionne Oura comme un acteur clé dans l'IA santé spécialisée\n\nConclusion sur les implications : Cette innovation pourrait révolutionner le suivi de la santé féminine, tout en soulevant des questions sur la confidentialité des données.",
+        "long_summary_en": "The model supports questions spanning the full reproductive health spectrum, from early menstrual cycles through menopause.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/12/oura-ring-4.png?resize=1200,587",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "Meta mise sur AMD pour 100 milliards de dollars dans sa course à la superintelligence personnelle",
+        "title_en": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
+        "summary": "Meta investit des milliards dans des puces AMD pour diversifier ses fournisseurs et booster ses centres de données.",
+        "summary_en": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
+        "long_summary": "Meta renforce sa stratégie IA avec un partenariat majeur avec AMD, réduisant sa dépendance à Nvidia.\n\nPoints clés :\n• Un accord pluriannuel incluant une garantie de 160 millions d’actions AMD\n• Objectif : développer des modèles de langage et des outils d’IA générative\n• Meta vise une superintelligence personnelle, rivalisant avec OpenAI et Google\n\nCet investissement massif accélère la course aux infrastructures IA, avec des implications pour l’écosystème des LLMs.",
+        "long_summary_en": "Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/amd-ces-ceo.png?resize=1200,661",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
+        "date": "24 February 2026"
+      },
       {
         "title": "DeepMind révolutionne l'apprentissage multi-agents avec des algorithmes contre-intuitifs",
         "title_en": "Google DeepMind Researchers Apply Semantic Evolution to Create Non Intuitive VAD-CFR and SHOR-PSRO Variants for Superior Algorithmic Convergence",
@@ -108,78 +180,6 @@
         "image": "https://www.zdnet.com/a/img/resize/407557812c7dee2cb55a3824f837f0b9ebe5209d/2026/02/13/396b8b40-79d0-40dc-95ff-daf7a47a9dc0/img-2227.jpg?auto=webp&fit=crop&height=675&width=1200",
         "source": "zdnet_ai",
         "url": "https://www.zdnet.com/article/scosche-watchit-keychain-apple-watch-charger/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Les lunettes Oakley Meta surpassent mes Ray-Ban lors d'un test de 5 miles",
-        "title_en": "How the Oakley Meta smart glasses beat my Ray-Bans on a 5-mile test walk",
-        "summary": "Les lunettes Oakley Meta Vanguard allient style et IA pour les sportifs, surpassant les Ray-Ban en performance.",
-        "summary_en": "Oakley's Meta Vanguard smart glasses combine the brand's iconic look with a plethora of AI features for athletes.",
-        "long_summary": "Oakley intègre l'IA dans ses lunettes de sport pour une expérience optimisée.\n\nPoints clés :\n• Design emblématique combiné à des fonctionnalités IA avancées\n• Performances supérieures aux lunettes classiques lors d'un test de 5 miles\n• Applications potentielles pour les athlètes et les amateurs de technologie\n\nConclusion sur les implications : Ces lunettes montrent comment l'IA peut transformer les accessoires sportifs, ouvrant la voie à des innovations futures.",
-        "long_summary_en": "Oakley's Meta Vanguard smart glasses combine the brand's iconic look with a plethora of AI features for athletes.",
-        "image": "https://www.zdnet.com/a/img/resize/47c76bd0e60e6956b92c03f15f92a7591615c0a2/2025/10/14/80b12c26-148e-4585-89a5-b9ecbafe5183/dsc02979.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/oakley-meta-vanguard-smart-glasses-review/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Rapidata lève 7,2 millions d'euros pour un réseau de feedback humain en temps réel pour l'IA",
-        "title_en": "Zurich’s Rapidata raises €7.2M to build a real-time human feedback network for AI",
-        "summary": "Rapidata révolutionne l'apprentissage des IA grâce à un réseau de feedback humain à grande échelle.",
-        "summary_en": "A growing number of startups are rushing to build software that thinks fast. But one of the hardest parts of teaching machines to improve isn’t raw computing power, it’s human insight at scale. Zurich",
-        "long_summary": "Les startups se multiplient pour développer des logiciels ultra-rapides, mais l'obstacle majeur reste l'intégration de l'intuition humaine à grande échelle.\n\nPoints clés :\n• Rapidata lève 7,2 millions d'euros pour scaler son réseau de feedback humain\n• Solution clé pour améliorer les modèles d'IA comme les LLMs\n• Approche innovante face aux limites des données brutes\n\nCette levée marque une avancée majeure dans l'optimisation des modèles d'IA générative.",
-        "long_summary_en": "A growing number of startups are rushing to build software that thinks fast. But one of the hardest parts of teaching machines to improve isn’t raw computing power, it’s human insight at scale. Zurich-based startup Rapidata has just taken a significant step toward fixing that with a €7.2 million seed round aimed at scaling a […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FRapidata-Founders.png&signature=30ee8cfca082ecf4047b444258b70913",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/zurichs-rapidata-raises-e7-2m-to-build-a-real-time-human-feedback-network-for-ai",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Syndicate One lève 22M€ pour booster les startups belges en IA",
-        "title_en": "A new early-stage fund: Syndicate One raises €22M for Belgium’s startups",
-        "summary": "Syndicate One lève 22M€ pour soutenir les startups belges en IA, confirmant la dynamique croissante de l’écosystème local.",
-        "summary_en": "Brussels-based investor Syndicate One has hit a funding milestone with the €22 million first close of its second early-stage tech fund, underscoring a growing confidence in Belgium’s startup ecosystem",
-        "long_summary": "Syndicate One, basé à Bruxelles, a atteint un jalon de financement avec la première clôture de son deuxième fonds de capital-risque de 22M€, renforçant la confiance dans l’écosystème belge des startups.\n\nPoints clés :\n• Le fonds soutiendra les startups belges en IA, machine learning et modèles de langage\n• Il s’appuie sur le premier fonds de 6,5M€ clôturé fin 2024\n• L’investissement cible les acteurs émergents en concurrence avec OpenAI, Google et Anthropic\n\nCette levée de fonds souligne l’attractivité croissante de la Belgique pour les innovations en IA, positionnant le pays comme un hub européen clé.",
-        "long_summary_en": "Brussels-based investor Syndicate One has hit a funding milestone with the €22 million first close of its second early-stage tech fund, underscoring a growing confidence in Belgium’s startup ecosystem. The new capital builds on the firm’s first fund, which closed at €6.5 million in late 2024, and will be deployed to support early-stage Belgian tech […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FSyndicate-One-raises-E22M-for-Belgiums-startups.png&signature=41dca0f5b9d3b82558ab47a0d4762546",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/syndicate-one-raises-e22m-for-belgiums-startups",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "L'UE recentre ses partenariats de recherche avec la Chine, impactant l'IA et les semi-conducteurs",
-        "title_en": "The EU’s strategic rebalancing of research partnerships with China",
-        "summary": "Horizon Europe durcit ses règles pour la Chine dans l'IA et les semi-conducteurs. Un tournant stratégique pour l'Europe.",
-        "summary_en": "In 2026, one of Europe’s most ambitious scientific ventures, Horizon Europe, a seven-year, roughly €93 billion framework dedicated to research and innovation, underwent a quiet but significant transfo",
-        "long_summary": "En 2026, Horizon Europe, le programme de recherche européen de 93 milliards d'euros, a restreint sa collaboration avec la Chine dans des domaines sensibles comme l'IA et les semi-conducteurs.\n\nPoints clés :\n• L'UE limite désormais les partenariats avec la Chine dans les technologies critiques.\n• Cette mesure vise à protéger les avancées européennes en IA et en semi-conducteurs.\n• Un impact majeur pour les acteurs comme OpenAI, Google et Anthropic.\n\nCette réorientation pourrait accélérer l'autonomie technologique européenne tout en compliquant les collaborations internationales.",
-        "long_summary_en": "In 2026, one of Europe’s most ambitious scientific ventures, Horizon Europe, a seven-year, roughly €93 billion framework dedicated to research and innovation, underwent a quiet but significant transformation.  What had once been an open invitation to researchers across the globe now carries a more guarded tenor.  In critical areas such as artificial intelligence, semiconductors, quantum […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FThe-EUs-strategic-rebalancing-of-research-partnerships-with-China-1.png&signature=f8e1c8da541aa87170a9942fe15b32cf",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/the-eus-strategic-rebalancing-of-research-partnerships-with-china",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Comment masquer les résumés IA de Google dans vos résultats de recherche",
-        "title_en": "How to Hide Google’s AI Overviews From Your Search Results",
-        "summary": "Désactivez les résumés IA de Google en modifiant vos requêtes ou changez de moteur de recherche.",
-        "summary_en": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
-        "long_summary": "Google intègre désormais des résumés générés par IA dans ses résultats de recherche, mais les utilisateurs peuvent les contourner.\n\nPoints clés :\n• Ajoutez des guillemets ou des mots-clés précis pour désactiver les résumés IA\n• Utilisez des moteurs de recherche alternatifs comme Bing ou DuckDuckGo\n• Cette fonctionnalité reflète l’essor des modèles de langage comme ceux d’OpenAI ou Anthropic\n\nConclusion sur les implications : Les utilisateurs gagnent en contrôle, mais Google pourrait peaufiner son algorithme pour limiter ces contournements.",
-        "long_summary_en": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
-        "image": "https://media.wired.com/photos/699879d490ce1a01f1ba1ac0/191:100/w_1280,c_limit/GettyImages-2250413446.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Démission des chercheurs en IA, des robots recrutent des humains et une soirée controversée",
-        "title_en": "Uncanny Valley: AI Researchers’ Resignations, Bots Hiring Humans, Evie Magazine’s Party",
-        "summary": "Des chercheurs quittent les géants de l'IA tandis que des agents artificiels recrutent des humains. Une soirée organisée par un magazine conservateur fait aussi parler.",
-        "summary_en": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
-        "long_summary": "Les tensions montent dans le secteur de l'IA avec des départs notables et des bots prenant des décisions humaines.\n\nPoints clés :\n• Des chercheurs quittent OpenAI, Google et Anthropic pour des raisons éthiques ou financières\n• Des agents IA recrutent des humains pour des tâches complexes, inversant les rôles traditionnels\n• Une soirée organisée par Evie Magazine, un média conservateur, soulève des questions sur l'influence des IA dans les médias\n\nCes événements reflètent les défis éthiques et technologiques croissants de l'industrie de l'IA.",
-        "long_summary_en": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
-        "image": "https://media.wired.com/photos/69975f400310f6e896b9919b/191:100/w_1280,c_limit/Uncanny-Valley-Podcast-Business-2234015878.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
         "date": "24 February 2026"
       }
     ],
@@ -537,6 +537,78 @@
     ],
     "llm": [
       {
+        "title": "Gemini 3.1 Pro révolutionne la raisonnement des IA avec trois niveaux de pensée",
+        "title_en": "Data Points: Gemini update adds a new reasoning tier",
+        "summary": "Google améliore Gemini avec un système de raisonnement multi-niveaux, surpassant ses concurrents sur des benchmarks clés.",
+        "summary_en": "<strong>On ARC-AGI-2, Gemini 3.1 Pro scored 77.1 percent</strong>—more than double the 31.1 percent of its predecessor and ahead of Claude Opus 4.6 at 68.8 percent and GPT-5.2 at 52.9 percent. The mod",
+        "long_summary": "Google a dévoilé Gemini 3.1 Pro, intégrant un système de raisonnement à trois niveaux pour adapter la profondeur d'analyse. Le modèle excelle sur des benchmarks comme ARC-AGI-2 et MCP Atlas.\n\nPoints clés :\n• Nouveau système de raisonnement à trois niveaux (rapide, moyen, profond)\n• Performance doublée sur ARC-AGI-2 (77,1% vs 31,1% pour la version précédente)\n• Meilleure performance agentique sur des benchmarks comme MCP Atlas (69,2%)\n\nConclusion sur les implications: Cette mise à jour positionne Gemini comme un leader en raisonnement avancé, offrant une flexibilité inédite aux développeurs.",
+        "long_summary_en": "Welcome back! In today’s edition of Data Points, you’ll learn more about: Why some AI models give worse answers to non-native English speakers First Proof, a frontier math challenge OpenAI may have partially solved LLaDA2.1’s RL framework for diffusion language models Anthropic’s study suggesting it’s better to let agents cook But first: Gemini tops Artificial Analysis Intelligence Index again with 3.1 Pro Google released Gemini 3.1 Pro, introducing a three-tier thinking system that lets developers scale reasoning effort from quick responses to multi-minute deep analysis within a single model.",
+        "image": "https://charonhub.deeplearning.ai/content/images/2026/02/Robot-Topology-Problem-2.png",
+        "source": "Deeplearning",
+        "url": "https://www.deeplearning.ai/the-batch/gemini-update-adds-a-new-reasoning-tier/",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "Le travail humain caché derrière les robots humanoïdes",
+        "title_en": "The human work behind humanoid robots is being hidden",
+        "summary": "Les robots humanoïdes reposent sur un travail humain invisible, malgré les promesses d'une IA physique autonome.",
+        "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s mos",
+        "long_summary": "En janvier, Jensen Huang de Nvidia a annoncé l'ère de l'IA physique, où l'intelligence artificielle dépasserait les chatbots.\n\nPoints clés :\n• Les robots humanoïdes dépendent encore largement du travail humain pour leur développement et leur maintenance\n• Les entreprises technologiques minimisent cette réalité pour promouvoir une vision futuriste de l'IA autonome\n• Cette dissimulation pose des questions éthiques et économiques sur la transition vers une IA physique\n\nConclusion sur les implications : Cette invisibilisation du travail humain pourrait fausser les attentes et retarder une adoption responsable de l'IA physique.",
+        "long_summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260219_humanoid_algo_hero.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "OpenAI s'allie aux géants du conseil pour industrialiser l'IA en entreprise",
+        "title_en": "OpenAI forms “Frontier Alliances” with top consultancies to push enterprise AI into production",
+        "summary": "OpenAI lance les « Frontier Alliances » avec BCG, McKinsey, Accenture et Capgemini pour déployer l'IA en production.",
+        "summary_en": "OpenAI is broadening how it helps large organizations put artificial intelligence into real use. The company announced a new initiative, Frontier Alliances, teaming up with four major consulting firms",
+        "long_summary": "OpenAI étend son écosystème pour aider les grandes entreprises à intégrer l'IA au-delà des projets pilotes.\n\nPoints clés :\n• Partenariats avec 4 cabinets de conseil majeurs pour industrialiser l'IA\n• Objectif : ancrer les systèmes intelligents dans les workflows métiers\n• Stratégie pour concurrencer Google et Anthropic dans l'adoption d'entreprise\n\nCette initiative pourrait accélérer l'adoption de l'IA générative en production, tout en renforçant la position d'OpenAI face à ses rivaux.",
+        "long_summary_en": "OpenAI is broadening how it helps large organizations put artificial intelligence into real use. The company announced a new initiative, Frontier Alliances, teaming up with four major consulting firms, Boston Consulting Group (BCG), McKinsey & Company, Accenture, and Capgemini, to help enterprises move beyond pilot AI projects and embed intelligent systems deeply into business workflows. […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FOpenAI-forms-Frontier-Alliances.png&signature=df1a8a0527b30bd662240349bc5cd617",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/openai-forms-frontier-alliances-with-top-consultancies-to-push-enterprise-ai-into-production",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "Claude Code : l'outil IA qui démocratise le développement pour tous",
+        "title_en": "How Claude Code Claude Codes",
+        "summary": "Claude Code, outil d'Anthropic, séduit bien au-delà des développeurs. Une révolution accessible à tous.",
+        "summary_en": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and discipline",
+        "long_summary": "Initialement conçu pour les développeurs, Claude Code a conquis des utilisateurs de tous horizons. Son accès simplifié permet de créer des solutions innovantes.\n\nPoints clés :\n• Outil initialement réservé aux développeurs, adopté par des profils variés\n• Accès terminal simplifié pour une utilisation intuitive\n• Potentiel disruptif dans plusieurs industries\n\nL'essor de Claude Code illustre la démocratisation croissante de l'IA générative, ouvrant de nouvelles perspectives pour l'innovation.",
+        "long_summary_en": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0224_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "Anthropic étend Claude Cowork aux tâches administratives avec des intégrations clés",
+        "title_en": "Anthropic&#8217;s Claude Cowork is plugging AI into more boring enterprise stuff",
+        "summary": "Anthropic améliore Claude Cowork avec des intégrations Google Workspace, DocuSign et WordPress pour automatiser les tâches administratives.",
+        "summary_en": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, incl",
+        "long_summary": "Anthropic annonce des mises à jour majeures pour Claude Cowork, intégrant des outils bureautiques populaires.\n\nPoints clés :\n• Connexions avec Google Workspace, DocuSign et WordPress\n• Plug-ins pré-construits pour HR, design, ingénierie et plus\n• Automatisation des tâches répétitives dans les entreprises\n\nCes améliorations positionnent Claude Cowork comme un assistant polyvalent pour les professionnels, rivalisant avec les solutions d’OpenAI et Google.",
+        "long_summary_en": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, including Google Workspace, Docusign, and WordPress. New pre-built plug-ins can also automate tasks in a range of fields, including HR, design, engineering, […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "Anthropic étend son offre IA avec des plugins pour les entreprises",
+        "title_en": "Anthropic launches new push for enterprise agents with plugins for finance, engineering, and design",
+        "summary": "Anthropic lance des plugins pour les secteurs financiers, ingénierie et design, menaçant les SaaS existants.",
+        "summary_en": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions.",
+        "long_summary": "Anthropic vise à élargir sa clientèle professionnelle avec des agents IA spécialisés.\n\nPoints clés :\n• Plugins dédiés aux secteurs clés comme la finance et l'ingénierie\n• Concurrence directe avec les logiciels SaaS traditionnels\n• Stratégie pour renforcer sa position face à OpenAI et Google\n\nCette initiative pourrait redéfinir le marché des solutions IA pour les entreprises.",
+        "long_summary_en": "It's a major opportunity to grow Anthropic’s enterprise client base — and a significant threat to SaaS products currently performing those functions.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-24-at-9.38.18-AM.jpg?resize=1200,662",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+        "date": "24 February 2026"
+      },
+      {
         "title": "La mémoire intelligente : la prochaine compétence clé de l'IA ?",
         "title_en": "The next big skill in AI? Building smarter memory systems - India Today",
         "summary": "Les avancées en mémoire artificielle pourraient révolutionner les assistants IA comme GPT-5 et Gemini.",
@@ -643,81 +715,45 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/883243/anthropic-claude-deepseek-china-ai-distillation",
         "date": "24 February 2026"
-      },
-      {
-        "title": "OpenAI s'allie aux géants du conseil pour booster l'adoption de son IA",
-        "title_en": "OpenAI calls in the consultants for its enterprise push",
-        "summary": "OpenAI collabore avec quatre cabinets de conseil pour accélérer l'adoption de sa plateforme OpenAI Frontier AI.",
-        "summary_en": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
-        "long_summary": "OpenAI renforce sa stratégie B2B en s'associant à des experts en transformation digitale.\n\nPoints clés :\n• Partenariats avec McKinsey, BCG, Accenture et Deloitte\n• Objectif : accélérer l'intégration des LLMs en entreprise\n• Stratégie face à la concurrence de Google et Anthropic\n\nCette alliance pourrait redéfinir l'adoption des IA génératives dans les secteurs clés.",
-        "long_summary_en": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Anthropic accuse des laboratoires chinois d'exploiter Claude via des comptes frauduleux",
-        "title_en": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
-        "summary": "Anthropic dénonce l'utilisation de 24 000 faux comptes pour extraire les capacités de Claude, tandis que les États-Unis débattent des restrictions sur les exportations de puces IA.",
-        "summary_en": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
-        "long_summary": "Anthropic, un concurrent d'OpenAI, révèle une tentative présumée de vol de données par des laboratoires chinois. Les accusations surviennent alors que les États-Unis envisagent de limiter l'accès aux technologies clés pour freiner l'avancement de l'IA en Chine.\n\nPoints clés :\n• Anthropic accuse DeepSeek, Moonshot et MiniMax d'avoir utilisé 24 000 faux comptes pour distiller les capacités de Claude\n• Les États-Unis débattent de restrictions sur l'exportation de puces IA vers la Chine\n• Cette affaire soulève des questions sur la sécurité et l'éthique dans la course à l'IA\n\nConclusion sur les implications : Cette affaire pourrait accélérer les régulations sur l'accès aux modèles d'IA et renforcer les tensions géopolitiques autour des technologies avancées.",
-        "long_summary_en": "Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2262515136.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Avec l'IA, la loyauté des investisseurs est (presque) morte",
-        "title_en": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
-        "summary": "Les investisseurs d'OpenAI financent aussi Anthropic, brisant les règles éthiques.",
-        "summary_en": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
-        "long_summary": "Plusieurs investisseurs d'OpenAI soutiennent désormais Anthropic, malgré les conflits d'intérêts.\n\nPoints clés :\n• Au moins une douzaine de VCs d'OpenAI investissent dans Anthropic\n• Certains investissements choquent par leur manque d'éthique\n• Cela remet en cause les règles traditionnelles de loyauté\n\nConclusion sur les implications :\nCette tendance pourrait normaliser les conflits d'intérêts dans l'IA, affectant la confiance et l'innovation.",
-        "long_summary_en": "While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.",
-        "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-516286525.jpg?resize=1200,1200",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Les modèles d'IA conversationnelle en 2026 : architectures, benchmarks et comment choisir",
-        "title_en": "Conversational AI Models in 2026: Architecture, Benchmarks & How to Choose - ChatMaxima Blog",
-        "summary": "Le paysage des modèles d'IA conversationnelle a radicalement évolué, avec 12 modèles frontaliers en compétition. Comment choisir le bon pour votre entreprise ?",
-        "summary_en": "For a detailed breakdown of accessing the latest OpenAI models and their performance benchmarks, see this guide on GPT model access and pricing. <strong>Released in February 2026</strong>, Claude Opus",
-        "long_summary": "En 2026, les modèles d'IA conversationnelle ne sont plus dominés par OpenAI et Google. Des alternatives chinoises, européennes et indiennes rivalisent désormais.\n\nPoints clés :\n• 12 modèles frontaliers en compétition sur la raison, la vitesse et le multilingue\n• Les modèles open-source chinois offrent des performances similaires à moindre coût\n• L'Inde a développé un modèle surpassant ChatGPT avec 667 fois moins de paramètres\n\nLes entreprises doivent désormais évaluer ces modèles selon de nouveaux critères pour rester compétitives.",
-        "long_summary_en": "The conversational AI models landscape has shifted dramatically. What was once a two-horse race between OpenAI and Google now spans four continents, with 12 frontier models competing for dominance across reasoning, speed, multilingual capability, and cost efficiency. Businesses evaluating conversational AI models in 2026 face a fundamentally different decision matrix than they did even a year ago: Chinese open-source models now rival proprietary American ones at a fraction of the cost, Europe is building sovereignty-first alternatives, and India has produced a model that outperforms ChatGPT on",
-        "image": "https://chatmaxima.com/blog/wp-content/uploads/2026/02/conversational-ai-models-2026-featured.jpg",
-        "source": "Chatmaxima",
-        "url": "https://chatmaxima.com/blog/conversational-ai-models-2026/",
-        "date": "23 February 2026"
-      },
-      {
-        "title": "Gemini 3.1 Pro : Google DeepMind révolutionne l'IA avec un modèle multimodal ultra-performant",
-        "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
-        "summary": "Gemini 3.1 Pro de Google DeepMind bat des records avec une fenêtre de contexte de 1M tokens et une performance de 77,1% sur ARC-AGI-2.",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "En février 2026, Google DeepMind lance Gemini 3.1 Pro, le modèle Pro le plus avancé à ce jour, combinant raisonnement multimodal et performances exceptionnelles.\n\nPoints clés :\n• Fenêtre de contexte étendue à 1 million de tokens\n• Score de 77,1% sur le test ARC-AGI-2, un record pour les modèles de langage\n• Capacités multimodales : traitement du texte, des images, de l'audio, de la vidéo et du code\n• Disponible via l'API Gemini, Vertex AI et Google Antigravity\n\nConclusion sur les implications :\nCette avancée positionne Gemini 3.1 Pro comme un standard pour les applications professionnelles et grand public, renforçant la domination de Google dans le domaine de l'IA générative.",
-        "long_summary_en": "Model Release Technical Deep Dive Gemini 3.1 Pro: Pricing, Context Window, Benchmarks, API & More A comprehensive guide to Google DeepMind's Gemini 3.1 Pro — the most advanced Pro-tier model as of February 2026, featuring a 1M-token context window, 77.1% on ARC-AGI-2, multimodal reasoning across text, images, audio, video, and code, and access via Gemini API, Vertex AI, and Google Antigravity. Sebastian Crossa Feb 19, 2026",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "23 February 2026"
-      },
-      {
-        "title": "Chaos, confusion et rêves de 200 milliards : ce que j'ai vu au sommet de l'IA en Inde",
-        "title_en": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit",
-        "summary": "Malgré le chaos, les géants de la tech misent sur le potentiel de l'Inde en IA, avec des annonces majeures et un enthousiasme palpable.",
-        "summary_en": "OpenAI said it would be the first customer of Tata Consultancy Services&#x27; data center business. Google announced partnerships with researchers and education institutions for its Gemini artificial ",
-        "long_summary": "L'Inde a accueilli l'un des plus grands sommets mondiaux sur l'IA, mais l'événement a été entaché par des problèmes logistiques et une organisation chaotique.\n\nPoints clés :\n• Les dirigeants de Google, OpenAI et d'autres entreprises ont souligné le potentiel de l'Inde, avec un marché consommateur énorme et un vivier de talents.\n• Sam Altman (OpenAI) a qualifié l'enthousiasme de \"incroyable\", malgré les défis logistiques.\n• Les annonces des entreprises technologiques américaines montrent leur intérêt croissant pour le marché indien.\n\nConclusion sur les implications : L'Inde reste une destination clé pour l'IA, malgré les obstacles opérationnels, avec des investissements massifs et une course pour dominer le secteur.",
-        "long_summary_en": "Key Points Despite the chaos at the summit, enthusiasm from big tech companies for India's potential continues to grow. Executives including Alphabet CEO Sundar Pichai and OpenAI boss Sam Altman talked up India's advantages from a huge talent pool to a large consumer market. \"The excitement here, it's just been incredible to watch,\" Altman told CNBC. In this article GOOGL Follow your favorite stocks CREATE FREE ACCOUNT CNBC's Arjun Kharpal sits down with OpenAI CEO Sam Altman at the AI Impact Summit. Photo: Yolande Chee Yolande Chee India hosted one of the world's biggest AI events this week, ",
-        "image": "https://image.cnbcfm.com/api/v1/image/108267819-1771593439643-Arjun_Kharpal_and_Sam_Altman_Yolande_Chee.jpg?v=1771593533&w=1920&h=1080",
-        "source": "Cnbc",
-        "url": "https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html",
-        "date": "23 February 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Les écouteurs Soundpeats Air5 Pro+ : un rapport qualité-prix exceptionnel grâce à l'IA",
+        "title_en": "I've tested dozens of 'cheap' earbuds: These $100 Soundpeats actually deliver good value",
+        "summary": "Des écouteurs abordables avec une qualité sonore optimisée par l'IA, rivalisant avec des modèles haut de gamme.",
+        "summary_en": "Soundpeats' Air5 Pro+ are a great-sounding pair of earbuds that won't break the bank. Here's how they fared in my tests.",
+        "long_summary": "Les Soundpeats Air5 Pro+ intègrent des algorithmes d'IA pour une personnalisation audio avancée.\n\nPoints clés :\n• Optimisation du son via des modèles de machine learning\n• Réduction active du bruit avec des LLMs\n• Prix compétitif grâce à l'automatisation de la production\n\nL'IA démocratise l'accès à des performances audio haut de gamme à moindre coût.",
+        "long_summary_en": "Soundpeats' Air5 Pro+ are a great-sounding pair of earbuds that won't break the bank. Here's how they fared in my tests.",
+        "image": "https://www.zdnet.com/a/img/resize/1c226df8e81a40f05f098377fb89ca6e60357adb/2025/12/01/7d390622-b62e-41f3-8aef-9dbc0507b62b/soundpeatshero.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/soundpeats-air-5-plus-pro-review/",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "ProducerAI, l'outil d'IA musical approuvé par The Chainsmokers, rejoint Google",
+        "title_en": "This Chainsmokers-approved AI music producer is joining Google",
+        "summary": "ProducerAI, une plateforme de création musicale par IA, intègre Google et utilisera le modèle Lyria 3.",
+        "summary_en": "ProducerAI, an AI-powered music-making platform, is joining Google. As part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria ",
+        "long_summary": "ProducerAI, une plateforme d'IA pour la création musicale, rejoint Google sous l'égide de Google Labs. L'outil sera alimenté par Lyria 3, un modèle d'IA musical en préversion.\n\nPoints clés :\n• ProducerAI permet de générer des sons et de collaborer avec une IA\n• Google intègre l'outil dans son écosystème Labs\n• Lyria 3, modèle d'IA musical, sera utilisé pour alimenter la plateforme\n\nCette acquisition renforce la position de Google dans l'IA générative musicale, face à des concurrents comme OpenAI et Anthropic.",
+        "long_summary_en": "ProducerAI, an AI-powered music-making platform, is joining Google. As part of the deal, Google will fold ProducerAI under the Labs umbrella and power the tool with a preview version of its new Lyria 3 music-making AI model. ProducerAI is a music-making platform that allows users to work with an AI agent to generate sounds, workshop […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/883307/google-producerai-deal-music",
+        "date": "24 February 2026"
+      },
+      {
+        "title": "ProducerAI, l'outil d'IA musicale de Google, utilisé par Wyclef Jean",
+        "title_en": "Music generator ProducerAI joins Google Labs",
+        "summary": "Wyclef Jean a utilisé ProducerAI, l'outil d'IA musicale de Google, pour son nouveau titre \"Back in Abu Dhabi\".",
+        "summary_en": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+        "long_summary": "Wyclef Jean a intégré l'outil d'IA musicale ProducerAI de Google dans son dernier titre, marquant une avancée dans l'adoption de l'IA par les artistes.\n\nPoints clés :\n• ProducerAI, développé par Google Labs, permet de générer des compositions musicales via l'IA\n• Wyclef Jean utilise l'outil pour enrichir sa création artistique\n• Cette collaboration illustre l'impact croissant de l'IA générative dans l'industrie musicale\n\nCette collaboration souligne l'intégration progressive de l'IA dans la création artistique, ouvrant la voie à de nouvelles possibilités pour les musiciens.",
+        "long_summary_en": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1393049411.jpg?resize=1200,600",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+        "date": "24 February 2026"
+      },
       {
         "title": "VoiceLine lève 10M€ pour étendre sa plateforme IA vocale aux équipes de première ligne",
         "title_en": "VoiceLine raises €10M to scale its voice AI platform for frontline enterprise teams",
@@ -861,46 +897,17 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/13/kyutai-releases-hibiki-zero-a3b-parameter-simultaneous-speech-to-speech-translation-model-using-grpo-reinforcement-learning-without-any-word-level-aligned-data/",
         "date": "14 February 2026"
-      },
-      {
-        "title": "L'IA redonne sa voix à un musicien atteint de SLA",
-        "title_en": "ALS stole this musician’s voice. AI let him sing again.",
-        "summary": "Grâce à l'IA, un musicien paralysé par la SLA chante à nouveau sur scène, émouvant le public.",
-        "summary_en": "There are tears in the audience as Patrick Darling’s song begins to play. It’s a heartfelt song written for his great-grandfather, whom he never got the chance to meet. But this performance is emotion",
-        "long_summary": "Patrick Darling, atteint de SLA, a perdu l’usage de sa voix. Grâce à l’IA générative, il a pu chanter à nouveau lors d’un concert.\n\nPoints clés :\n• L'IA a reconstruit sa voix à partir d’enregistrements anciens\n• Les modèles de langage et le machine learning ont permis cette restauration\n• Une avancée majeure pour les patients atteints de maladies neurodégénératives\n\nCette technologie pourrait révolutionner la réhabilitation vocale et l’expression artistique pour les personnes handicapées.",
-        "long_summary_en": "There are tears in the audience as Patrick Darling’s song begins to play. It’s a heartfelt song written for his great-grandfather, whom he never got the chance to meet. But this performance is emotional for another reason: It’s Darling’s first time on stage with his bandmates since he lost the ability to sing two years…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/Still-2026-02-12-113850_1.2.1.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/",
-        "date": "14 February 2026"
-      },
-      {
-        "title": "ElevenLabs atteint 11 milliards de valorisation après sa dernière levée de fonds",
-        "title_en": "AI Audio Startup ElevenLabs Secures $11B Valuation After Latest Funding Round",
-        "summary": "Six mois après le lancement d'Eleven Music (concurrent de Suno/Udio), ElevenLabs sécurise une valorisation massive de 11 milliards.",
-        "summary_en": "Six months after launching Eleven Music (Suno/Udio competitor), ElevenLabs secures a massive $11 billion valuation.",
-        "long_summary": "The Music Network couvre la montée en puissance d'ElevenLabs.\n\nPoints clés :\n• ElevenLabs valorisé à 11 milliards de dollars après nouvelle levée\n• Expansion de la synthèse vocale vers la génération musicale complète avec Eleven Music\n• Accords de licence déjà signés avec des ayants droit majeurs\n• Positionnement comme rival sérieux de Suno et Udio\n\nL'audio IA devient un marché à plusieurs milliards.",
-        "long_summary_en": "The Music Network covers ElevenLabs' rise to prominence.\n\nKey points:\n• ElevenLabs valued at $11 billion after new funding round\n• Expansion from voice synthesis to full music generation with Eleven Music\n• Licensing agreements already signed with major rights holders\n• Positioning as a serious rival to Suno and Udio\n\nAI audio is becoming a multi-billion dollar market.",
-        "image": "https://themusicnetwork.com/wp-content/uploads/elevenlabs-11b-valuation.jpg",
-        "source": "The Music Network",
-        "url": "https://themusicnetwork.com/ai-audio-startup-elevenlabs-valuation-funding-round/",
-        "date": "14 February 2026"
-      },
-      {
-        "title": "Suno embauche un ex-Spotify comme Senior Director of Artist Partnerships",
-        "title_en": "Suno hires former Spotify exec as Senior Director of Artist Partnerships",
-        "summary": "Ce recrutement signale une intégration plus profonde de Suno dans l'infrastructure musicale mainstream et prépare des accords de licence.",
-        "summary_en": "This hire signals Suno's deeper integration into mainstream music infrastructure and prepares for licensing agreements.",
-        "long_summary": "Jack Righteous analyse les mouvements stratégiques de Suno.\n\nPoints clés :\n• Recrutement d'un ancien dirigeant Spotify comme Senior Director of Artist Partnerships\n• Signal d'une intégration plus profonde dans l'industrie musicale traditionnelle\n• Préparation d'accords de licence structurés avec les labels\n• Suno se positionne pour une légitimité institutionnelle\n\nL'IA musicale cherche à se réconcilier avec l'industrie.",
-        "long_summary_en": "Jack Righteous analyzes Suno's strategic moves.\n\nKey points:\n• Hiring of a former Spotify executive as Senior Director of Artist Partnerships\n• Signal of deeper integration into traditional music industry\n• Preparation for structured licensing agreements with labels\n• Suno positions itself for institutional legitimacy\n\nMusic AI seeks to reconcile with the industry.",
-        "image": "https://jackrighteous.com/images/suno-spotify-hire.jpg",
-        "source": "Jack Righteous",
-        "url": "https://jackrighteous.com/en-us/blogs/news/ai-music-news-february-2026-suno-spotify-copyright",
-        "date": "14 February 2026"
       }
     ]
   },
   "hotNews": [
+    {
+      "title": "Gemini de Google a-t-il mis échec et mat à ChatGPT d'OpenAI ?",
+      "title_en": "Did Google's Gemini Just Say \"Checkmate\" to OpenAI's ChatGPT? | The Motley Fool",
+      "source": "Fool",
+      "url": "https://www.fool.com/investing/2026/02/15/did-google-gemini-say-checkmate-openai-chatgpt/",
+      "date": "16 February 2026"
+    },
     {
       "title": "Anthropic accuse des entreprises chinoises d'avoir utilisé Claude pour entraîner leurs IA",
       "title_en": "Anthropic accuses DeepSeek and other Chinese firms of using Claude to train their AI",
@@ -909,18 +916,11 @@
       "date": "24 February 2026"
     },
     {
-      "title": "Gemini 3.1 Pro : Google DeepMind révolutionne l'IA avec un modèle multimodal ultra-performant",
-      "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/ai-news",
-      "date": "23 February 2026"
-    },
-    {
-      "title": "Gemini de Google a-t-il mis échec et mat à ChatGPT d'OpenAI ?",
-      "title_en": "Did Google's Gemini Just Say \"Checkmate\" to OpenAI's ChatGPT? | The Motley Fool",
-      "source": "Fool",
-      "url": "https://www.fool.com/investing/2026/02/15/did-google-gemini-say-checkmate-openai-chatgpt/",
-      "date": "16 February 2026"
+      "title": "Gemini enfin corrigé : Google et Anthropic se tirent une balle dans le pied, OpenAI cultive son karma",
+      "title_en": "Gemini finally fixed, Google and Anthropic shot themselves in the foot, and OpenAI is farming karma - weekly news. | nek12.dev",
+      "source": "Nek12",
+      "url": "https://nek12.dev/blog/en/ai-news-this-week-gemini-3-1-pro-gpt-5-3-api-limits",
+      "date": "24 February 2026"
     }
   ]
 }
