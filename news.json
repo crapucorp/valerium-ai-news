@@ -1,7 +1,55 @@
 {
-  "lastUpdate": "25 February 2026 - 08:02",
+  "lastUpdate": "25 February 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "DeepMind révolutionne l'apprentissage multi-agents avec des algorithmes non intuitifs",
+        "title_en": "Google DeepMind Researchers Apply Semantic Evolution to Create Non Intuitive VAD-CFR and SHOR-PSRO Variants for Superior Algorithmic Convergence",
+        "summary": "DeepMind utilise l'évolution sémantique pour optimiser des algorithmes MARL au-delà de l'intuition humaine.",
+        "summary_en": "In the competitive arena of Multi-Agent Reinforcement Learning (MARL), progress has long been bottlenecked by human intuition. For years, researchers have manually refined algorithms like Counterfactu",
+        "long_summary": "Les chercheurs de DeepMind ont développé des variantes non intuitives des algorithmes CFR et PSRO pour améliorer la convergence dans l'apprentissage multi-agents.\n\nPoints clés :\n• Utilisation de l'évolution sémantique pour éviter les biais humains\n• Création de variantes VAD-CFR et SHOR-PSRO non intuitives\n• Amélioration significative de la convergence algorithmique\n\nCes avancées pourraient transformer l'apprentissage multi-agents en éliminant les limites de l'intuition humaine.",
+        "long_summary_en": "In the competitive arena of Multi-Agent Reinforcement Learning (MARL), progress has long been bottlenecked by human intuition. For years, researchers have manually refined algorithms like Counterfactual Regret Minimization (CFR) and Policy Space Response Oracles (PSRO), navigating a vast combinatorial space of update rules via trial-and-error. Google DeepMind research team has now shifted this paradigm with […]\nThe post Google DeepMind Researchers Apply Semantic Evolution to Create Non Intuitive VAD-CFR and SHOR-PSRO Variants for Superior Algorithmic Convergence appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-59-265x198.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/24/google-deepmind-researchers-apply-semantic-evolution-to-create-non-intuitive-vad-cfr-and-shor-psro-variants-for-superior-algorithmic-convergence/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Les meilleurs téléviseurs Sony de 2026 : testés et optimisés par l'IA",
+        "title_en": "The best Sony TVs of 2026: Expert tested and reviewed",
+        "summary": "Découvrez comment l'IA révolutionne l'expérience TV avec les modèles Sony 2026, testés par des experts.",
+        "summary_en": "We went hands-on with some of the best OLED and LED TVs available from Sony to help you find the right fit for your budget and your space.",
+        "long_summary": "Les téléviseurs Sony de 2026 intègrent des technologies d'IA avancées pour une personnalisation intelligente.\n\nPoints clés :\n• Utilisation de modèles de langage pour des recommandations personnalisées\n• Optimisation des performances via le machine learning\n• Intégration d'assistants vocaux basés sur des LLMs\n\nL'IA redéfinit l'interactivité et l'adaptabilité des écrans domestiques.",
+        "long_summary_en": "We went hands-on with some of the best OLED and LED TVs available from Sony to help you find the right fit for your budget and your space.",
+        "image": "https://www.zdnet.com/a/img/resize/1f9673c89d85e3117ebaf33824e02be995e156c8/2023/02/28/c601eaaa-c065-4569-a1a9-e4d0c883771a/dsc08103-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/best-sony-tv/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Les centres de données IA pourraient-ils être envoyés dans l'espace ?",
+        "title_en": "Could AI Data Centers Be Moved to Outer Space?",
+        "summary": "Les centres de données géants de l'IA polluent la Terre. Et si on les envoyait en orbite ?",
+        "summary_en": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+        "long_summary": "Les centres de données pour l'IA générative consomment énormément d'énergie et produisent des émissions de CO2. Des entreprises comme OpenAI et Google envisagent des solutions spatiales.\n\nPoints clés :\n• Les data centers terrestres ont un impact environnemental majeur\n• L'espace offre une énergie solaire abondante et un refroidissement naturel\n• Des projets comme SpaceX et Amazon étudient des infrastructures orbitales\n\nLes implications pourraient révolutionner l'industrie de l'IA tout en réduisant son empreinte écologique.",
+        "long_summary_en": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+        "image": "https://hackernoon.imgix.net/images/eQHzh6rz7ETBHLjs0KzCl1Dooqp2-nz03dz6.png?auto=format&fit=max&w=3840",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "L'IA ne sera jamais consciente, selon Michael Pollan",
+        "title_en": "AI Will Never Be Conscious",
+        "summary": "Michael Pollan affirme dans son livre que l'IA peut accomplir beaucoup, mais jamais être humaine.",
+        "summary_en": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
+        "long_summary": "Dans son livre A World Appears, Michael Pollan explore les limites de l'IA.\n\nPoints clés :\n• L'IA excelle dans des tâches spécifiques mais ne peut pas être consciente\n• Les modèles de langage comme ceux d'OpenAI ou Google manquent de subjectivité humaine\n• La distinction entre intelligence et conscience reste un débat clé en IA\n\nCette analyse remet en question les ambitions des géants technologiques comme OpenAI ou Anthropic.",
+        "long_summary_en": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
+        "image": "https://sciencedaily.com/images/1920/conscious-artificial-intelligence-entity-escaping-control-of-creator.webp",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
+        "date": "25 February 2026"
+      },
       {
         "title": "Des protéines conçues par IA pourraient détecter le cancer via l'urine",
         "title_en": "A I-designed proteins may help spot cancer",
@@ -133,54 +181,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
         "date": "25 February 2026"
-      },
-      {
-        "title": "Des rhinocéros radioactifs et l'essor des peptides : l'IA au service de la conservation",
-        "title_en": "The Download: radioactive rhinos, and the rise and rise of peptides",
-        "summary": "L'IA révolutionne la protection des espèces menacées, des rhinos radioactifs aux peptides synthétiques.",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why conservationists are making rhinos radioactive Every year,",
-        "long_summary": "Des scientifiques utilisent désormais l'IA pour lutter contre le braconnage et la contrebande d'espèces protégées.\n\nPoints clés :\n• Des rhinos marqués radioactivement pour les protéger des braconniers\n• L'IA analyse les données pour traquer les réseaux de trafic d'animaux\n• Les peptides synthétiques pourraient révolutionner la médecine et l'écologie\n\nL'IA devient un outil clé pour la conservation, mais soulève des questions éthiques.",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why conservationists are making rhinos radioactive Every year, poachers shoot hundreds of rhinos, fishing crews haul millions of sharks out of protected seas, and smugglers carry countless animals and plants across borders. This…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/Rhisotope-Project-2025-3top.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/24/1133567/the-download-radioactive-rhinos-and-the-rise-and-rise-of-peptides/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "L'IA prédit la date de sortie de 'High Potential' : comment les modèles de langage révolutionnent les médias",
-        "title_en": "'High Potential' Release Schedule: When Is Season 2, Episode 13 Coming?",
-        "summary": "Les modèles de langage comme ceux d'OpenAI pourraient anticiper les dates de diffusion des séries. Décryptage des enjeux technologiques.",
-        "summary_en": "Read on for how to tune into the hit show starring Kaitlin Olson on ABC and Hulu.",
-        "long_summary": "Les séries comme 'High Potential' avec Kaitlin Olson suscitent un intérêt croissant, mais leur programmation reste incertaine.\n\nPoints clés :\n• Les modèles de langage (LLMs) analysent les tendances pour prédire les sorties\n• OpenAI, Google et Anthropic développent des outils capables d'anticiper les stratégies éditoriales\n• L'IA générative pourrait automatiser la création de contenus et la planification des médias\n\nL'intégration de l'IA dans l'industrie du divertissement pourrait bouleverser les modèles économiques traditionnels.",
-        "long_summary_en": "Read on for how to tune into the hit show starring Kaitlin Olson on ABC and Hulu.",
-        "image": "https://www.cnet.com/a/img/resize/3c4df204002d5f723cc9d059755bdbbc092550fd/hub/2025/09/15/e1efd97b-8c68-42ad-bcae-3f1542f68a0a/177436-1002-v5.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/high-potential-watch-season-2-episode-13/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Sony WF-1000XM6 vs. AirPods Pro 3 vs. Bose QC Ultra : l'IA révolutionne les écouteurs ANC",
-        "title_en": "Sony WF-1000XM6 vs. AirPods Pro 3 vs. Bose QC Ultra (2nd Gen): Which ANC Earbuds Are the Best?",
-        "summary": "L'IA optimise l'annulation de bruit dans les écouteurs haut de gamme. Comparaison des modèles Sony, Apple et Bose.",
-        "summary_en": "Sony, Bose and Apple are often considered the top names in premium wireless noise-canceling earbuds, but each has pros and cons. Here's how they compare in my testing.",
-        "long_summary": "Les écouteurs sans fil haut de gamme intègrent désormais des algorithmes d'IA pour une réduction de bruit intelligente.\n\nPoints clés :\n• Les modèles Sony et Bose utilisent des réseaux de neurones pour adapter l'ANC en temps réel\n• Apple combine l'IA avec des capteurs avancés pour une personnalisation accrue\n• Les LLMs améliorent la qualité audio et la suppression des bruits ambiants\n\nConclusion sur les implications : L'IA devient un critère clé dans le choix des écouteurs premium, avec des performances qui évoluent grâce au machine learning.",
-        "long_summary_en": "Sony, Bose and Apple are often considered the top names in premium wireless noise-canceling earbuds, but each has pros and cons. Here's how they compare in my testing.",
-        "image": "https://www.cnet.com/a/img/resize/691148fd33b9e13ef0d906a66beeb3100a0e0707/hub/2026/02/23/7430eb7e-d8d9-46aa-be0e-b44706fbd103/sony-bose-apple-buds-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/mobile/sony-wf-1000xm6-vs-airpods-pro-3-vs-bose-qc-ultra-2nd-gen-best-anc-earbuds/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Les résultats du Q4 de Nvidia pourraient redéfinir la confiance dans le marché du matériel IA",
-        "title_en": "Nvidia’s Q4 results could make or break confidence in the AI hardware market",
-        "summary": "Les performances de Nvidia pourraient influencer la confiance dans l'écosystème IA, dominé par ses puces GPU.",
-        "summary_en": "Nvidia has become shorthand for the AI market itself. In the years since generative models reshaped computing, the company’s GPUs have powered everything from large-scale training clusters to real-tim",
-        "long_summary": "Nvidia est devenu synonyme du marché de l'IA, ses GPU alimentant les modèles génératifs et les infrastructures d'inférence.\n\nPoints clés :\n• Nvidia a vu son action bondir de 1 500 % entre 2022 et 2025\n• Ses puces sont essentielles pour les LLMs d'OpenAI, Google et Anthropic\n• Les résultats du Q4 pourraient influencer les investissements dans le matériel IA\n\nLes performances de Nvidia pourraient accélérer ou freiner l'innovation dans les infrastructures IA.",
-        "long_summary_en": "Nvidia has become shorthand for the AI market itself. In the years since generative models reshaped computing, the company’s GPUs have powered everything from large-scale training clusters to real-time inference infrastructure. That dominance helped Nvidia’s stock surge over 1,500 percent from 2022 into 2025 and made it one of the most valuable tech firms in […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FNvidias-Q4-results-could-make-or-break-confidence-in-the-AI-hardware-market.png&signature=51054548f3f63e498d52e0151879d27d",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/nvidias-q4-results-could-make-or-break-confidence-in-the-ai-hardware-market",
-        "date": "24 February 2026"
       }
     ],
     "image": [
@@ -355,6 +355,42 @@
     ],
     "video": [
       {
+        "title": "Veo 3.1 : Google révolutionne la génération vidéo avec l'IA",
+        "title_en": "Veo 3.1 : Google's Advanced AI Video Generator • Higgsfield",
+        "summary": "Google lance Veo 3.1, un outil d'IA générative pour créer des vidéos ultra-réalistes à partir d'images fixes. Une avancée majeure dans l'IA visuelle.",
+        "summary_en": "<strong>Veo 3.1</strong> is latest AI video generation model by Google, that creates high-quality videos in 1080p from simple text prompts or reference images.",
+        "long_summary": "Google continue de dominer l'IA générative avec Veo 3.1, capable de transformer des images fixes en vidéos fluides et cohérentes.\n\nPoints clés :\n• Mode Start & End Frame pour des transitions naturelles\n• Compatible avec deux images pour un rendu plus précis\n• Technologie de pointe pour des vidéos ultra-réalistes\n\nCette innovation pourrait redéfinir la production vidéo, ouvrant la voie à des applications créatives et professionnelles inédites.",
+        "long_summary_en": "Your browser does not support the video. Start & End Frame Mode Provide first and last frames to generate smooth, coherent transition. Supports 2 frame images. Try it now",
+        "image": "https://higgsfield.ai/thumbnail/default.jpg",
+        "source": "Higgsfield",
+        "url": "https://higgsfield.ai/veo3.1",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "SeeDance : le nouveau roi de la génération vidéo IA dépasse Veo3 et OpenAI Sora",
+        "title_en": "SeeDance : The new AI Video Generation King, beats Veo3, OpenAI Sora | by Mehul Gupta | Data Science in Your Pocket | Medium",
+        "summary": "SeeDance révolutionne la génération vidéo IA avec des résultats plus réalistes que ses concurrents. Une avancée majeure dans l'IA générative.",
+        "summary_en": "On Artificial Analysis, a platform that ranks video generators via public voting (not just internal metrics), Seedance 1.0 ranks #1 for both text-to-video and image-to-video. It beats out Veo 3, Kling",
+        "long_summary": "SeeDance, un nouveau modèle d'IA générative, surpasse ses concurrents comme Veo3 et OpenAI Sora en qualité et réalisme.\n\nPoints clés :\n• Performances supérieures en génération vidéo\n• Modèle plus précis et détaillé\n• Potentiel disruptif pour l'industrie du divertissement\n\nConclusion sur les implications : SeeDance pourrait redéfinir les standards de la création vidéo automatisée, ouvrant la voie à de nouvelles applications dans le cinéma, la publicité et les médias sociaux.",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://miro.medium.com/v2/1*azLPGT6SA58kykLPlca3TQ.jpeg",
+        "source": "Medium",
+        "url": "https://medium.com/data-science-in-your-pocket/seedance-the-new-ai-video-generation-king-beats-veo3-openai-sora-9492a5a51f72",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Écoutez la bande-son secrète de la Terre",
+        "title_en": "Listen to Earth’s rumbling, secret soundtrack",
+        "summary": "L'IA révèle les sons cachés de la Terre, des glaciers aux incendies, pour mieux comprendre notre planète.",
+        "summary_en": "The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living Earth, music of this one particular sphere and clues to the true ",
+        "long_summary": "Les bruits de la Terre, comme les glaciers qui se fracturent ou les incendies qui crépitent, révèlent des indices sur les phénomènes naturels. L'IA et le machine learning analysent ces sons pour prédire et étudier ces événements.\n\nPoints clés :\n• L'IA décrypte les sons naturels pour anticiper les catastrophes\n• Les modèles de langage et le deep learning améliorent la compréhension des données acoustiques\n• Des entreprises comme OpenAI et Google développent des outils pour analyser ces signaux\n\nCes avancées pourraient révolutionner la surveillance environnementale et la prévention des risques.",
+        "long_summary_en": "The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living Earth, music of this one particular sphere and clues to the true nature of these dramatic events. But as loud as all these things are, they emit even more acoustic…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/ei_overhead-sc.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
+        "date": "25 February 2026"
+      },
+      {
         "title": "Un YouTuber attaque Runway AI dans un procès historique sur l'entraînement des IA",
         "title_en": "YouTuber sues Runway AI in latest copyright class action over AI training - The Hindu",
         "summary": "Un créateur de contenu poursuit Runway AI pour utilisation non autorisée de ses vidéos dans l'entraînement des modèles d'IA générative.",
@@ -497,45 +533,57 @@
         "source": "Gulfnews",
         "url": "https://gulfnews.com/technology/seedance-20-can-this-ai-tool-replace-hollywood-movie-studios-1.500451338",
         "date": "23 February 2026"
-      },
-      {
-        "title": "La bataille juridique entre Hollywood et l'IA chinoise Seedance 2.0",
-        "title_en": "With Tom Cruise-Brad Pitt AI fight, China’s Seedance 2.0 is the latest test in AI-copyright tussle | Explained News - The Indian Express",
-        "summary": "Seedance 2.0, l'IA chinoise, crée des vidéos ultra-réalistes de Tom Cruise et Brad Pitt, déclenchant un conflit avec Hollywood.",
-        "summary_en": "“<strong>Sora will be able to generate short, user-prompted social videos that can be viewed and shared by fans</strong>, drawing from a set of more than 200 animated, masked and creature characters f",
-        "long_summary": "L'IA générative atteint un niveau de réalisme inédit, brouillant les frontières entre contenu humain et synthétique.\n\nPoints clés :\n• Seedance 2.0 crée des vidéos ultra-réalistes sans compétences en montage\n• L'MPA accuse ByteDance de violation systématique des droits d'auteur\n• Ce conflit pourrait redéfinir les règles du copyright à l'ère de l'IA\n\nConclusion sur les implications : Cette bataille juridique pourrait influencer la régulation mondiale des IA génératives et la protection des droits d'auteur.",
-        "long_summary_en": "Presents Co-presented by Associate Sponsor skip to content Advertisement With Tom Cruise-Brad Pitt AI fight, China’s Seedance 2.0 is the latest test in AI-copyright tussle Hollywood studios have sent notices to Seedance over its videos. Its rise also has implications for the internet as we know it, where it is now difficult to distinguish AI from human-made work. Written by: Rishika Singh 7 min read New Delhi Feb 22, 2026 05:07 PM IST A still from the Seedance AI video showing Tom Cruise and Brad Pitt in a fight. Make us preferred source on Google Whatsapp twitter Facebook Reddit PRINT A line ",
-        "image": "https://images.indianexpress.com/2026/02/Untitled-design-11.jpg",
-        "source": "Indianexpress",
-        "url": "https://indianexpress.com/article/explained/explained-sci-tech/tom-cruise-brad-pitt-ai-fight-seedance-10545979/",
-        "date": "23 February 2026"
-      },
-      {
-        "title": "Seedance 2.0 : une plateforme d'IA vidéo pour les entreprises, malgré les polémiques",
-        "title_en": "FinancialContent - New Seedance 2.0 Platform Targets Business Users With Licensed, Original AI Video Generation Tools",
-        "summary": "Seedance 2.0 propose des outils d'IA vidéo légaux pour les pros, malgré les critiques sur les deepfakes.",
-        "summary_en": "<strong>Headlines called it the biggest AI backlash since Sora&#x27;s debut</strong>. Fair enough. The copyright concerns are real and the clips were impressive in a way that should make studios nervo",
-        "long_summary": "Seedance 2.0 se positionne comme un outil de production vidéo légal, malgré les controverses sur les deepfakes de célébrités.\n\nPoints clés :\n• Plateforme avec licence commerciale et sortie sans filigrane\n• Outils de génération vidéo texte-image et image-vidéo\n• Critiques pour des deepfakes de Tom Cruise et Brad Pitt\n• Disney et Paramount ont envoyé des mises en demeure\n\nConclusion sur les implications : Seedance 2.0 montre le potentiel des IA génératives, mais doit gérer les enjeux juridiques et éthiques.",
-        "long_summary_en": "New Seedance 2.0 Platform Targets Business Users With Licensed, Original AI Video Generation Tools By: ACCESS Newswire February 22, 2026 at 11:00 AM EST LOS ANGELES, CA / ACCESS Newswire / February 22, 2026 / Seedance2ai.online released its Seedance 2.0 video creation platform with a pointed message for the market: AI video generation is a production tool, not a copyright infringement machine. The platform offers Seedance AI text-to-video and image-to-video generation to global creators, with commercial licensing, watermark-free output, and workflows designed around original content - not cele",
-        "image": "https://edge-cdn.isdr.io/access-newswire/Accesswire_Newswire_256x256.png ",
-        "source": "Markets",
-        "url": "https://markets.financialcontent.com/stocks/article/accwirecq-2026-2-22-new-seedance-20-platform-targets-business-users-with-licensed-original-ai-video-generation-tools",
-        "date": "23 February 2026"
-      },
-      {
-        "title": "L'outil vidéo IA de ByteDance inquiète Hollywood et met Pékin en équilibre",
-        "title_en": "Why ByteDance’s new AI video tool has Hollywood worried and Beijing walking a tightrope",
-        "summary": "Un outil IA viral révèle l'accélération technologique et l'absence de régulation, perturbant Hollywood et Pékin.",
-        "summary_en": "They all trace back to the same source: a new AI video-generation model from Chinese tech giant ByteDance called <strong>Seedance 2.0</strong>. The model can turn text, images, audio and video prompts",
-        "long_summary": "ByteDance a lancé un outil IA générative capable de créer des vidéos réalistes à partir de simples descriptions textuelles, suscitant des craintes à Hollywood sur les droits d'auteur et à Pékin sur le contrôle des contenus.\n\nPoints clés :\n• L'outil utilise des modèles de langage avancés pour générer des vidéos ultra-réalistes.\n• Hollywood craint une dilution des droits d'auteur et une concurrence déloyale.\n• Pékin doit concilier innovation et contrôle des contenus sensibles.\n\nConclusion sur les implications : Cette avancée accélère la course aux régulations IA tout en exposant les tensions entre innovation et protection des industries traditionnelles.",
-        "long_summary_en": "Why ByteDance’s new AI video tool has Hollywood worried and Beijing walking a tightrope A viral AI video tool has exposed how fast the technology is moving, how unready the rules are, and why both Hollywood and Beijing are nervous about what comes next. MC World Desk February 22, 2026 / 15:23 IST Why ByteDance’s new AI video tool has Hollywood worried and Beijing walking a tightrope MC World Desk first published: Feb 22, 2026 03:23 pm Discover the latest Business News , Sensex , and Nifty updates. Obtain Personal Finance insights, tax queries, and expert opinions on Moneycontrol or download th",
-        "image": "https://images.moneycontrol.com/static-mcnews/2021/01/ByteDance.jpg",
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/why-bytedance-s-new-ai-video-tool-has-hollywood-worried-and-beijing-walking-a-tightrope-article-13838695.html",
-        "date": "22 February 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Un outil révolutionnaire combine l'IA de Google et OpenAI avec 19 outils de cybersécurité",
+        "title_en": "Security News - Guardian AI-Penetration Testing Tool Connects Gemini, GPT-4 with 19 Security Tools Including Nmap | MalwareTips Forums",
+        "summary": "Guardian AI-Penetration Testing Tool connecte Gemini et GPT-4 à des outils comme Nmap pour renforcer la cybersécurité.",
+        "summary_en": "<strong>Guardian, developed by Zakir Kun and available on GitHub</strong>, is an enterprise-grade AI-powered penetration testing automation framework that orchestrates OpenAI GPT-4, Anthropic Claude, ",
+        "long_summary": "Un nouvel outil de test de pénétration basé sur l'IA combine les modèles avancés de Google et OpenAI avec des outils de sécurité traditionnels.\n\nPoints clés :\n• Intégration de Gemini et GPT-4 pour des analyses intelligentes\n• Compatibilité avec 19 outils de sécurité, dont Nmap\n• Automatisation des tests de vulnérabilité et des audits\n\nCette innovation pourrait transformer les tests de sécurité en les rendant plus rapides et précis.",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://infosecbulletin.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-19-2026-01_53_45-PM-1.png",
+        "source": "Malwaretips",
+        "url": "https://malwaretips.com/threads/guardian-ai-penetration-testing-tool-connects-gemini-gpt-4-with-19-security-tools-including-nmap.139881/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Liquid AI révolutionne les LLMs avec une architecture hybride attention-convolution",
+        "title_en": "Liquid AI’s New LFM2-24B-A2B Hybrid Architecture Blends Attention with Convolutions to Solve the Scaling Bottlenecks of Modern LLMs",
+        "summary": "LFM2-24B-A2B combine attention et convolutions pour surmonter les limites des LLMs traditionnels.",
+        "summary_en": "The generative AI race has long been a game of ‘bigger is better.’ But as the industry hits the limits of power consumption and memory bottlenecks, the conversation is shifting from raw parameter coun",
+        "long_summary": "L’industrie de l’IA générative atteint les limites des modèles massifs en termes de consommation énergétique et de mémoire. Liquid AI propose une alternative avec LFM2-24B-A2B, un modèle de 24 milliards de paramètres.\n\nPoints clés :\n• Architecture hybride attention-convolution pour une efficacité accrue\n• Solution aux goulots d’étranglement des LLMs traditionnels\n• Approche innovante face à la course aux paramètres\n\nCette avancée pourrait redéfinir les standards d’efficacité énergétique et de performance dans les modèles de langage.",
+        "long_summary_en": "The generative AI race has long been a game of ‘bigger is better.’ But as the industry hits the limits of power consumption and memory bottlenecks, the conversation is shifting from raw parameter counts to architectural efficiency. Liquid AI team is leading this charge with the release of LFM2-24B-A2B, a 24-billion parameter model that redefines […]\nThe post Liquid AI’s New LFM2-24B-A2B Hybrid Architecture Blends Attention with Convolutions to Solve the Scaling Bottlenecks of Modern LLMs appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-53-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/25/liquid-ais-new-lfm2-24b-a2b-hybrid-architecture-blends-attention-with-convolutions-to-solve-the-scaling-bottlenecks-of-modern-llms/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Sécurité de l'IA face à la machine de guerre",
+        "title_en": "AI Safety Meets the War Machine",
+        "summary": "Anthropic refuse que son IA soit utilisée dans des armes autonomes ou la surveillance gouvernementale, risquant un contrat militaire majeur.",
+        "summary_en": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
+        "long_summary": "Anthropic, un concurrent d'OpenAI et Google, impose des restrictions éthiques strictes sur ses modèles d'IA.\n\nPoints clés :\n• Anthropic interdit l'utilisation de ses IA dans des armes autonomes ou la surveillance de masse.\n• Cette position pourrait lui faire perdre un contrat militaire lucratif.\n• Le débat sur l'éthique de l'IA s'intensifie dans le secteur de la défense.\n\nCette décision souligne les tensions croissantes entre innovation technologique et responsabilités éthiques dans l'industrie de l'IA.",
+        "long_summary_en": "Anthropic doesn’t want its AI used in autonomous weapons or government surveillance. Those carve-outs could cost it a major military contract.",
+        "image": "https://media.wired.com/photos/6994edaec3ca16022bd2b3d5/3:2/w_1280,c_limit/Backchannel-Anthropic-vs-Pentagon-Business--2221448096.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/backchannel-anthropic-dispute-with-the-pentagon/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Anthropic étend Claude Cowork aux tâches administratives avec de nouvelles intégrations",
+        "title_en": "Anthropic&#8217;s Claude Cowork is plugging AI into more boring enterprise stuff",
+        "summary": "Anthropic améliore Claude Cowork avec des intégrations Google Workspace, DocuSign et WordPress pour automatiser les tâches administratives.",
+        "summary_en": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, incl",
+        "long_summary": "Anthropic annonce des mises à jour pour son assistant IA Claude Cowork, élargissant ses capacités aux outils bureautiques.\n\nPoints clés :\n• Intégrations avec Google Workspace, DocuSign et WordPress\n• Plug-ins pré-construits pour HR, design et ingénierie\n• Automatisation des tâches répétitives dans les entreprises\n\nCes améliorations positionnent Claude Cowork comme un concurrent sérieux face à des solutions comme Microsoft Copilot.",
+        "long_summary_en": "On Tuesday, Anthropic announced updates to its Claude Cowork platform that allow the AI to help with a wider range of office tasks. Claude Cowork can now connect with several popular office apps, including Google Workspace, Docusign, and WordPress. New pre-built plug-ins can also automate tasks in a range of fields, including HR, design, engineering, […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/883707/anthropic-claude-cowork-updates",
+        "date": "25 February 2026"
+      },
       {
         "title": "Anthropic propulse l'action Thomson Reuters grâce à son outil juridique IA",
         "title_en": "Anthropic shout-out makes Thomson Reuters stock an AI winner | Financial Post",
@@ -667,54 +715,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
         "date": "25 February 2026"
-      },
-      {
-        "title": "Gemini 3.1 Pro révolutionne la raisonnement des IA avec trois niveaux de pensée",
-        "title_en": "Data Points: Gemini update adds a new reasoning tier",
-        "summary": "Google améliore Gemini avec un système de raisonnement multi-niveaux, surpassant ses concurrents sur des benchmarks clés.",
-        "summary_en": "<strong>On ARC-AGI-2, Gemini 3.1 Pro scored 77.1 percent</strong>—more than double the 31.1 percent of its predecessor and ahead of Claude Opus 4.6 at 68.8 percent and GPT-5.2 at 52.9 percent. The mod",
-        "long_summary": "Google a dévoilé Gemini 3.1 Pro, intégrant un système de raisonnement à trois niveaux pour adapter la profondeur d'analyse. Le modèle excelle sur des benchmarks comme ARC-AGI-2 et MCP Atlas.\n\nPoints clés :\n• Nouveau système de raisonnement à trois niveaux (rapide, moyen, profond)\n• Performance doublée sur ARC-AGI-2 (77,1% vs 31,1% pour la version précédente)\n• Meilleure performance agentique sur des benchmarks comme MCP Atlas (69,2%)\n\nConclusion sur les implications: Cette mise à jour positionne Gemini comme un leader en raisonnement avancé, offrant une flexibilité inédite aux développeurs.",
-        "long_summary_en": "Welcome back! In today’s edition of Data Points, you’ll learn more about: Why some AI models give worse answers to non-native English speakers First Proof, a frontier math challenge OpenAI may have partially solved LLaDA2.1’s RL framework for diffusion language models Anthropic’s study suggesting it’s better to let agents cook But first: Gemini tops Artificial Analysis Intelligence Index again with 3.1 Pro Google released Gemini 3.1 Pro, introducing a three-tier thinking system that lets developers scale reasoning effort from quick responses to multi-minute deep analysis within a single model.",
-        "image": "https://charonhub.deeplearning.ai/content/images/2026/02/Robot-Topology-Problem-2.png",
-        "source": "Deeplearning",
-        "url": "https://www.deeplearning.ai/the-batch/gemini-update-adds-a-new-reasoning-tier/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Le travail humain caché derrière les robots humanoïdes",
-        "title_en": "The human work behind humanoid robots is being hidden",
-        "summary": "Les robots humanoïdes reposent sur un travail humain invisible, malgré les promesses d'une IA physique autonome.",
-        "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s mos",
-        "long_summary": "En janvier, Jensen Huang de Nvidia a annoncé l'ère de l'IA physique, où l'intelligence artificielle dépasserait les chatbots.\n\nPoints clés :\n• Les robots humanoïdes dépendent encore largement du travail humain pour leur développement et leur maintenance\n• Les entreprises technologiques minimisent cette réalité pour promouvoir une vision futuriste de l'IA autonome\n• Cette dissimulation pose des questions éthiques et économiques sur la transition vers une IA physique\n\nConclusion sur les implications : Cette invisibilisation du travail humain pourrait fausser les attentes et retarder une adoption responsable de l'IA physique.",
-        "long_summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In January, Nvidia’s Jensen Huang, the head of the world’s most valuable company, proclaimed that we are entering the era of physical AI, when artificial intelligence will move beyond language and chatbots…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260219_humanoid_algo_hero.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "OpenAI s'allie aux géants du conseil pour industrialiser l'IA en entreprise",
-        "title_en": "OpenAI forms “Frontier Alliances” with top consultancies to push enterprise AI into production",
-        "summary": "OpenAI lance les « Frontier Alliances » avec BCG, McKinsey, Accenture et Capgemini pour déployer l'IA en production.",
-        "summary_en": "OpenAI is broadening how it helps large organizations put artificial intelligence into real use. The company announced a new initiative, Frontier Alliances, teaming up with four major consulting firms",
-        "long_summary": "OpenAI étend son écosystème pour aider les grandes entreprises à intégrer l'IA au-delà des projets pilotes.\n\nPoints clés :\n• Partenariats avec 4 cabinets de conseil majeurs pour industrialiser l'IA\n• Objectif : ancrer les systèmes intelligents dans les workflows métiers\n• Stratégie pour concurrencer Google et Anthropic dans l'adoption d'entreprise\n\nCette initiative pourrait accélérer l'adoption de l'IA générative en production, tout en renforçant la position d'OpenAI face à ses rivaux.",
-        "long_summary_en": "OpenAI is broadening how it helps large organizations put artificial intelligence into real use. The company announced a new initiative, Frontier Alliances, teaming up with four major consulting firms, Boston Consulting Group (BCG), McKinsey & Company, Accenture, and Capgemini, to help enterprises move beyond pilot AI projects and embed intelligent systems deeply into business workflows. […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FOpenAI-forms-Frontier-Alliances.png&signature=df1a8a0527b30bd662240349bc5cd617",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/openai-forms-frontier-alliances-with-top-consultancies-to-push-enterprise-ai-into-production",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Claude Code : l'outil IA qui démocratise le développement pour tous",
-        "title_en": "How Claude Code Claude Codes",
-        "summary": "Claude Code, outil d'Anthropic, séduit bien au-delà des développeurs. Une révolution accessible à tous.",
-        "summary_en": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and discipline",
-        "long_summary": "Initialement conçu pour les développeurs, Claude Code a conquis des utilisateurs de tous horizons. Son accès simplifié permet de créer des solutions innovantes.\n\nPoints clés :\n• Outil initialement réservé aux développeurs, adopté par des profils variés\n• Accès terminal simplifié pour une utilisation intuitive\n• Potentiel disruptif dans plusieurs industries\n\nL'essor de Claude Code illustre la démocratisation croissante de l'IA générative, ouvrant de nouvelles perspectives pour l'innovation.",
-        "long_summary_en": "Claude Code is a developer tool for developers. And yet, over the last year and especially the last few months, the team at Anthropic has seen a huge number of people, across industries and disciplines, figure out how to access their terminal so that they could build new stuff too. Few AI products have found […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0224_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/883604/claude-code-ai-future-creator-privacy-vergecast",
-        "date": "24 February 2026"
       }
     ],
     "audio": [
@@ -909,17 +909,17 @@
       "date": "16 February 2026"
     },
     {
+      "title": "Un outil révolutionnaire combine l'IA de Google et OpenAI avec 19 outils de cybersécurité",
+      "title_en": "Security News - Guardian AI-Penetration Testing Tool Connects Gemini, GPT-4 with 19 Security Tools Including Nmap | MalwareTips Forums",
+      "source": "Malwaretips",
+      "url": "https://malwaretips.com/threads/guardian-ai-penetration-testing-tool-connects-gemini-gpt-4-with-19-security-tools-including-nmap.139881/",
+      "date": "25 February 2026"
+    },
+    {
       "title": "Gemini 3.1 Pro : Google DeepMind dévoile son modèle LLM le plus avancé en 2026",
       "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
       "source": "Llm-Stats",
       "url": "https://llm-stats.com/ai-news",
-      "date": "25 February 2026"
-    },
-    {
-      "title": "Février 2026 : Les nouveaux modèles d'IA qui révolutionnent l'intelligence artificielle",
-      "title_en": "AI Updates Today (February 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
       "date": "25 February 2026"
     }
   ]
