@@ -1,7 +1,103 @@
 {
-  "lastUpdate": "25 February 2026 - 12:31",
+  "lastUpdate": "25 February 2026 - 18:33",
   "categories": {
     "general": [
+      {
+        "title": "L'IA face au crime : une course technologique sans fin",
+        "title_en": "The Download: introducing the Crime issue",
+        "summary": "L'IA et le crime s'affrontent dans une course effrénée. Les technologies redéfinissent la lutte contre la criminalité.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Crime issue Technology has long made crime an",
+        "long_summary": "L'IA et les outils d'apprentissage automatique transforment la criminalité et son traitement. Les modèles de langage et l'IA générative jouent un rôle clé.\n\nPoints clés :\n• Les criminels exploitent l'IA pour des attaques sophistiquées\n• Les forces de l'ordre utilisent des outils d'IA pour prévenir et résoudre les crimes\n• Les modèles de langage comme ceux d'OpenAI ou Google posent des défis éthiques\n\nLes implications sont profondes, avec un équilibre fragile entre innovation et sécurité.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Crime issue Technology has long made crime and its prosecution a game of cat and mouse. But those same new technologies that have allowed crime to outpace law have also reenergized…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITTR-MA26-TOC-Social-Thumbnail.png?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Ce four révolutionnaire cuit un poulet en 30 minutes grâce à l'IA",
+        "title_en": "This New High-Speed Oven Cooks a Chicken in 30 Minutes. Here's How It Works",
+        "summary": "Un four révolutionnaire utilise l'IA pour cuire les aliments plus vite qu'un airfryer. Décryptage.",
+        "summary_en": "The Sharp Celerity oven harnesses the power of three types of heat to blast food to doneness even faster than an air fryer.",
+        "long_summary": "Le four Sharp Celerity combine trois types de chaleur pour cuire les aliments en un temps record.\n\nPoints clés :\n• Utilisation de l'IA pour optimiser la cuisson\n• Technologie hybride (rayonnement, convection, conduction)\n• Réduction du temps de cuisson de 50% par rapport aux méthodes traditionnelles\n\nCette innovation pourrait révolutionner les cuisines intelligentes et inspirer d'autres applications IA dans l'électroménager.",
+        "long_summary_en": "The Sharp Celerity oven harnesses the power of three types of heat to blast food to doneness even faster than an air fryer.",
+        "image": "https://www.cnet.com/a/img/resize/665189aa18914d0bc416e8e28f3ce22f18e8ac1e/hub/2026/02/15/ae9b9210-e8d5-411c-817b-09a12f0d8129/screenshot-2026-02-15-at-2-18-50pm.png?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/news/sharp-unveils-the-golden-heater-a-new-high-speed-cooking-technology/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Comment désactiver les résumés IA de Google Search : 4 méthodes simples",
+        "title_en": "How to remove AI Overviews from Google Search: 4 easy ways",
+        "summary": "Fatigué des résumés IA ? Découvrez comment les masquer et retrouver les résultats classiques sur desktop et mobile.",
+        "summary_en": "Sick of AI summaries? Here's how to hide them on Google and get classic search back on desktop or mobile.",
+        "long_summary": "Google intègre désormais des résumés générés par IA dans ses résultats de recherche, une fonctionnalité controversée.\n\nPoints clés :\n• Utilisez l'option 'Résultats classiques' dans les paramètres de recherche\n• Activez le mode navigation privée pour éviter les surlignages IA\n• Modifiez l'URL de recherche pour désactiver les aperçus\n• Utilisez des extensions de navigateur spécialisées\n\nCette personnalisation montre l'importance croissante des préférences utilisateur face aux innovations IA.",
+        "long_summary_en": "Sick of AI summaries? Here's how to hide them on Google and get classic search back on desktop or mobile.",
+        "image": "https://www.zdnet.com/a/img/resize/600d30fe137009acd57563617a89607fc445981a/2026/02/25/bacd3fd5-e9a6-44dc-a78a-cae1e57cb168/how-to-get-rid-of-ai-overviews-in-google-search.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/how-to-remove-ai-overviews-from-google-search/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Perplexity lance Computer : une alternative plus sûre à OpenClaw ?",
+        "title_en": "Is Perplexity's new Computer a safer version of OpenClaw? How it works",
+        "summary": "Perplexity dévoile Computer, un assistant IA capable de travailler en arrière-plan pendant des mois. Une réponse à OpenClaw ?",
+        "summary_en": "Arriving on the heels of OpenClaw, Computer is described as \"a general-purpose digital worker\" that can work on tasks for months in the background.",
+        "long_summary": "Perplexity, spécialiste des modèles de langage, présente Computer, un outil conçu pour automatiser des tâches complexes sur le long terme.\n\nPoints clés :\n• Computer est un \"travailleur numérique polyvalent\" capable de fonctionner en arrière-plan pendant des mois\n• Il s'inscrit dans la lignée d'OpenClaw, mais avec une approche plus sécurisée\n• Perplexity mise sur l'autonomie et la fiabilité pour se différencier de ses concurrents comme OpenAI ou Google\n\nConclusion sur les implications. Cette innovation pourrait redéfinir les usages des assistants IA, en particulier pour les tâches professionnelles longues et complexes.",
+        "long_summary_en": "Arriving on the heels of OpenClaw, Computer is described as \"a general-purpose digital worker\" that can work on tasks for months in the background.",
+        "image": "https://www.zdnet.com/a/img/resize/1ae32d382b70717a81ee60b83157e1651b83a876/2026/02/25/1a337f8a-cc92-4bfd-ab88-0524358bf9b8/perplexity-computer.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/perplexity-computer-openclaw/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Discutez avec des hologrammes d'IA de figures historiques grâce à Ailias",
+        "title_en": "Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars",
+        "summary": "Ailias permet de converser avec des avatars holographiques basés sur des personnalités historiques, grâce à l'IA générative.",
+        "summary_en": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+        "long_summary": "Ailias révolutionne l'interaction avec l'histoire en créant des avatars holographiques d'IA capables de discuter comme des figures historiques.\n\nPoints clés :\n• Utilisation de modèles de langage avancés pour simuler des personnalités historiques\n• Technologie holographique pour une immersion réaliste\n• Applications potentielles dans l'éducation et le divertissement\n\nCette innovation ouvre la voie à de nouvelles formes d'apprentissage interactif et d'expériences immersives.",
+        "long_summary_en": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+        "image": "https://media.wired.com/photos/69966b47cef96ab79e7301c1/191:100/w_1280,c_limit/COMP%202%20WITH%20FRAME%20VERSION%201.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ailias-hologram-avatars/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Le directeur du labo AGI d'Amazon quitte l'entreprise",
+        "title_en": "Amazon&#8217;s AGI lab leader is leaving",
+        "summary": "David Luan, à la tête du labo IA d'Amazon, quitte l'entreprise après seulement 2 ans. Son départ pourrait impacter la course aux AGI.",
+        "summary_en": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leavi",
+        "long_summary": "David Luan, ancien responsable de l'équipe de recherche en IA d'Amazon, annonce son départ après moins de deux ans. Il rejoint un projet inconnu, laissant un vide dans la course aux modèles d'IA générale.\n\nPoints clés :\n• Luan a dirigé le labo d'Amazon à San Francisco, axé sur les LLMs et l'AGI\n• Son départ survient alors qu'Amazon investit massivement dans l'IA générative\n• Ce mouvement pourrait influencer les stratégies d'OpenAI, Google et Anthropic\n\nConclusion sur les implications: Son départ pourrait ralentir les progrès d'Amazon dans l'AGI, ouvrant la voie à des concurrents comme Google DeepMind ou Anthropic.",
+        "long_summary_en": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leaving Amazon at the end of this week to cook up something new.\" He added that, \"There's incredible work to […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Les États-Unis poussent pour un contrôle mondial des données par les GAFAM",
+        "title_en": "US tells diplomats to lobby against foreign data sovereignty laws",
+        "summary": "Washington exige que ses diplomates s'opposent aux lois de souveraineté numérique étrangères, protégeant les intérêts des géants de l'IA.",
+        "summary_en": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
+        "long_summary": "L'administration Trump veut empêcher les pays de réguler les données des citoyens étrangers par les entreprises américaines.\n\nPoints clés :\n• Les GAFAM (Google, Apple, Facebook, Amazon, Microsoft) et autres géants de l'IA (OpenAI, Anthropic) pourraient perdre l'accès à des marchés clés.\n• Les lois de souveraineté numérique visent à protéger les données locales, mais Washington y voit une menace pour l'hégémonie technologique américaine.\n• Cette stratégie pourrait accélérer les tensions géopolitiques autour de l'IA et des données.\n\nCette offensive diplomatique pourrait affaiblir les régulations locales et renforcer le monopole des modèles de langage et outils d'IA américains.",
+        "long_summary_en": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/12/GettyImages-2252056808.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Peter Steinberger : « Soyez ludiques pour mieux maîtriser l'IA »",
+        "title_en": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+        "summary": "L’IA peut s’apprendre en s’amusant, selon le créateur d’OpenClaw. Une approche ludique accélère la maîtrise des modèles de langage.",
+        "summary_en": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding.",
+        "long_summary": "Peter Steinberger, créateur de l’agent IA viral OpenClaw, partage ses conseils pour apprendre le développement d’IA.\n\nPoints clés :\n• Une approche ludique rend l’apprentissage plus efficace\n• Le temps et la patience sont essentiels pour progresser\n• OpenClaw illustre comment l’expérimentation mène à l’innovation\n\nLes développeurs d’IA devraient adopter une mentalité plus créative pour repousser les limites des modèles génératifs.",
+        "long_summary_en": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/openclaw-creator-Peter-Steinberger.jpg?resize=1200,564",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+        "date": "25 February 2026"
+      },
       {
         "title": "DeepMind révolutionne l'apprentissage multi-agents avec des algorithmes non intuitifs",
         "title_en": "Google DeepMind Researchers Apply Semantic Evolution to Create Non Intuitive VAD-CFR and SHOR-PSRO Variants for Superior Algorithmic Convergence",
@@ -84,102 +180,6 @@
         "image": "https://www.cnet.com/a/img/resize/94a9a3d12edf871013e1ba0f311e84b04eba29b5/hub/2026/02/24/e82c5a2e-09db-4ced-afd0-12265b977455/21953350-2x-amd-instinct-mi200-face-updated.jpg?auto=webp&fit=crop&height=675&width=1200",
         "source": "cnet_ai",
         "url": "https://www.cnet.com/tech/services-and-software/meta-and-amds-multibillion-deal-is-all-about-the-ai-chips/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Uber s'empare de SpotHero pour révolutionner le stationnement grâce à l'IA",
-        "title_en": "Uber Moves Into Parking in Deal to Acquire SpotHero",
-        "summary": "Uber rachète SpotHero pour optimiser 13 000 parkings via l'IA, ciblant les voyageurs et les événements.",
-        "summary_en": "The acquisition, covering more than 13,000 parking locations, is aimed at commuters, large events and airports.",
-        "long_summary": "Uber renforce son écosystème de mobilité en intégrant l'IA pour le stationnement.\n\nPoints clés :\n• Acquisition de 13 000 parkings via SpotHero\n• Optimisation des tarifs et disponibilités avec le machine learning\n• Intégration future avec les LLMs pour des recommandations personnalisées\n\nCette acquisition marque un tournant dans l'utilisation de l'IA pour fluidifier les déplacements urbains.",
-        "long_summary_en": "The acquisition, covering more than 13,000 parking locations, is aimed at commuters, large events and airports.",
-        "image": "https://www.cnet.com/a/img/resize/37096ff0461505b348cf7b817f937b898474c098/hub/2026/02/25/13b9f51e-d31d-4243-a245-f9953494fa06/uber-sign-gettyimages-2256544548.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/roadshow/news/uber-buys-spothero-adding-parking-reservations/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Les lunettes intelligentes de Snap : un aperçu de l'avenir de l'IA portable",
-        "title_en": "I went hands-on with Snap's new smart glasses - they're no Meta Ray-Bans (yet)",
-        "summary": "Les lunettes Spectacles de Snap intègrent l'IA pour rivaliser avec les Ray-Bans de Meta, mais restent en développement.",
-        "summary_en": "Snap's developer Spectacles could give us a few hints on the future of its consumer pair launching later this year.",
-        "long_summary": "Snap prépare le lancement de ses lunettes grand public, et les modèles pour développeurs donnent un aperçu des fonctionnalités à venir.\n\nPoints clés :\n• Intégration de modèles de langage et d'IA générative pour des interactions avancées\n• Comparaison avec les Ray-Bans de Meta, moins avancés techniquement\n• Potentiel pour des applications en réalité augmentée et assistance vocale\n\nConclusion sur les implications : Ces lunettes pourraient redéfinir les wearables intelligents, mais doivent encore prouver leur supériorité face à la concurrence.",
-        "long_summary_en": "Snap's developer Spectacles could give us a few hints on the future of its consumer pair launching later this year.",
-        "image": "https://www.zdnet.com/a/img/resize/001b36deca9eefc4f901cbccdd99dec684729749/2026/02/19/51ebb83a-3a34-43f7-9a4c-0fe4d4b40a8e/img-2997.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/snap-spectacles-smart-glasses-hands-on/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "90% des équipes commerciales utilisent des agents IA, mais la moitié d'entre elles font face au même problème de données",
-        "title_en": "90% of sales teams use AI agents - but half of them have the same data problem",
-        "summary": "Les équipes commerciales adoptent massivement l'IA, mais les problèmes de données persistent. Voici les 4 enseignements clés du rapport Salesforce 2026.",
-        "summary_en": "Beyond pay, what do reps really want? Here are the four key findings of Salesforce's 2026 State of Sales report.",
-        "long_summary": "L'IA transforme les ventes, mais les défis persistent.\n\nPoints clés :\n• 90% des équipes commerciales utilisent des agents IA\n• La moitié d'entre elles souffrent de problèmes de données\n• Les LLMs et l'IA générative dominent les outils\n• Les modèles d'OpenAI, Google et Anthropic sont les plus utilisés\n\nConclusion sur les implications : L'IA booste les ventes, mais la qualité des données reste un frein majeur.",
-        "long_summary_en": "Beyond pay, what do reps really want? Here are the four key findings of Salesforce's 2026 State of Sales report.",
-        "image": "https://www.zdnet.com/a/img/resize/a7f98b584b3ed4acee12eb6dbc9727bd1d4df130/2026/02/24/ae74da0c-1a3d-4f40-b69e-eaf97bce5a6a/arrow-growthgettyimages-2262700447.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/sales-leaders-with-ai-agents-say-theyre-essential-for-growth/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "L'UE recentre ses partenariats de recherche avec la Chine, impactant l'IA",
-        "title_en": "The EU’s strategic rebalancing of research partnerships with China",
-        "summary": "L'UE durcit sa collaboration avec la Chine dans des domaines clés comme l'IA et les semi-conducteurs.",
-        "summary_en": "In 2026, one of Europe’s most ambitious scientific ventures, Horizon Europe, a seven-year, roughly €93 billion framework dedicated to research and innovation, underwent a quiet but significant transfo",
-        "long_summary": "Le programme Horizon Europe, doté de 93 milliards d'euros, limite désormais les collaborations avec la Chine dans des secteurs stratégiques.\n\nPoints clés :\n• L'UE restreint l'accès aux projets de recherche en IA et semi-conducteurs.\n• Cette mesure vise à protéger les technologies critiques face aux risques géopolitiques.\n• Les partenariats avec les États-Unis et l'Inde pourraient se renforcer.\n\nCette réorientation pourrait accélérer l'autonomie technologique européenne tout en limitant l'influence chinoise dans les domaines clés de l'IA.",
-        "long_summary_en": "In 2026, one of Europe’s most ambitious scientific ventures, Horizon Europe, a seven-year, roughly €93 billion framework dedicated to research and innovation, underwent a quiet but significant transformation.  What had once been an open invitation to researchers across the globe now carries a more guarded tenor.  In critical areas such as artificial intelligence, semiconductors, quantum […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FThe-EUs-strategic-rebalancing-of-research-partnerships-with-China-1.png&signature=f8e1c8da541aa87170a9942fe15b32cf",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/the-eus-strategic-rebalancing-of-research-partnerships-with-china",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Comment masquer les résumés IA de Google dans vos résultats de recherche",
-        "title_en": "How to Hide Google’s AI Overviews From Your Search Results",
-        "summary": "Désactivez les résumés IA de Google en modifiant vos requêtes ou en changeant de moteur de recherche.",
-        "summary_en": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
-        "long_summary": "Google intègre désormais des résumés générés par IA dans ses résultats de recherche, mais les utilisateurs peuvent les contourner.\n\nPoints clés :\n• Ajoutez des mots-clés comme « sans IA » ou « résultats classiques »\n• Utilisez des guillemets pour des recherches exactes\n• Passez à des alternatives comme Bing ou DuckDuckGo\n\nConclusion sur les implications :\nCette option offre plus de contrôle aux utilisateurs, mais pourrait limiter l’accès à des informations synthétisées par l’IA.",
-        "long_summary_en": "You can avoid Google’s AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.",
-        "image": "https://media.wired.com/photos/699879d490ce1a01f1ba1ac0/191:100/w_1280,c_limit/GettyImages-2250413446.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "L'étrange vallée de l'IA : démissions, robots recruteurs et soirée conservatrice",
-        "title_en": "‘Uncanny Valley’: AI Researcher Resignations, Bots Hiring Humans, and Evie Magazine’s Party",
-        "summary": "Démissions massives dans l'IA, des bots recrutent des humains, et une soirée organisée par un magazine conservateur.",
-        "summary_en": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
-        "long_summary": "L'épisode explore les tensions croissantes dans l'industrie de l'IA, avec des chercheurs qui quittent les géants technologiques et des agents artificiels qui recrutent des humains.\n\nPoints clés :\n• Des chercheurs d'OpenAI, Google et Anthropic démissionnent en masse\n• Des bots autonomes commencent à embaucher des humains pour des tâches complexes\n• Une soirée organisée par Evie Magazine, un magazine conservateur, soulève des questions sur l'influence politique de l'IA\n\nCes développements révèlent les fractures éthiques et les défis opérationnels de l'IA générative.",
-        "long_summary_en": "This episode of Uncanny Valley covers the people resigning from AI companies and the humans getting hired by AI agents. Plus, we attend a soiree thrown by a conservative women's magazine.",
-        "image": "https://media.wired.com/photos/69975f400310f6e896b9919b/191:100/w_1280,c_limit/Uncanny-Valley-Podcast-Business-2234015878.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-researcher-resignations-bots-hiring-humans-evie-magazines-party/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "L'équipe AI du Pentagone de Pete Hegseth : un ex-dirigeant d'Uber et un milliardaire du private equity",
-        "title_en": "Pete Hegseth’s Pentagon AI bro squad includes a former Uber executive and a private equity billionaire",
-        "summary": "Une équipe influente d'experts en IA, incluant un ex-dirigeant d'Uber, rejoint le Pentagone pour façonner l'avenir de l'IA militaire.",
-        "summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers covering the broligarchs, the influencers, and the (potentially conscious) artificial intelligence models scrambling for power in Was",
-        "long_summary": "Le Pentagone renforce son expertise en IA avec des profils issus du secteur privé, marquant un tournant dans l'adoption de l'IA par les forces armées.\n\nPoints clés :\n• Recrutement d'un ex-dirigeant d'Uber et d'un milliardaire du private equity\n• Influence croissante des acteurs privés sur les stratégies militaires en IA\n• Questions éthiques et géopolitiques soulevées par cette collaboration\n\nCette alliance pourrait accélérer l'innovation en IA militaire, mais soulève des interrogations sur la transparence et les risques de dépendance aux intérêts privés.",
-        "long_summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers covering the broligarchs, the influencers, and the (potentially conscious) artificial intelligence models scrambling for power in Washington. If you're not a subscriber yet, assert your humanity against the will of the machines by signing up here. Very important news: Do you want to tell me […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2225411614.jpg?quality=90&strip=all&crop=0%2C10.736853345879%2C100%2C78.526293308241&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "MatX, le challenger de Nvidia, lève 500 millions de dollars",
-        "title_en": "Nvidia challenger AI chip startup MatX raised $500M",
-        "summary": "Fondée par d'anciens ingénieurs de Google, MatX veut rivaliser avec Nvidia dans les puces IA.",
-        "summary_en": "The startup was founded by former Google TPU engineers in 2023.",
-        "long_summary": "MatX, startup spécialisée dans les puces pour l'IA, a levé 500 millions de dollars. Fondée en 2023 par d'anciens ingénieurs de Google TPU, elle vise à concurrencer Nvidia dans un marché en pleine expansion.\n\nPoints clés :\n• Lancement en 2023 par des experts de Google TPU\n• Levée de fonds record de 500 millions de dollars\n• Concurrence directe avec Nvidia dans les puces IA\n\nCette levée de fonds marque l'émergence d'un nouveau acteur dans l'écosystème des puces accélératrices pour l'IA, un secteur dominé par Nvidia.",
-        "long_summary_en": "The startup was founded by former Google TPU engineers in 2023.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
         "date": "25 February 2026"
       }
     ],
@@ -355,6 +355,18 @@
     ],
     "video": [
       {
+        "title": "Adobe révolutionne le montage vidéo avec son outil IA Firefly",
+        "title_en": "Adobe’s new AI video editing tool stitches clips into a first draft",
+        "summary": "Adobe lance Quick Cut, une IA générative qui assemble automatiquement des clips vidéo à partir de prompts textuels.",
+        "summary_en": "Adobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a first cut to refine and build around. The Quick Cut feature is launching in beta today for Firefly",
+        "long_summary": "Adobe intègre l'IA générative à son écosystème créatif avec Firefly, une solution qui automatise le premier montage vidéo.\n\nPoints clés :\n• Quick Cut utilise des prompts textuels et des inputs simples pour assembler des clips\n• L'outil vise à libérer les créateurs des tâches répétitives de montage\n• Disponible en beta pour les utilisateurs de Firefly\n\nCette innovation marque une nouvelle étape dans l'automatisation des workflows créatifs, renforçant la position d'Adobe dans l'IA générative.",
+        "long_summary_en": "Adobe is launching a new Firefly tool that helps video editors to focus on storytelling by creating a first cut to refine and build around. The Quick Cut feature is launching in beta today for Firefly's video editor, allowing users to automatically assemble clips together based on text prompts and simple creator inputs. \"Quick Cut […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Adobe-Quick-Cut-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
+        "date": "25 February 2026"
+      },
+      {
         "title": "Veo 3.1 : Google révolutionne la génération vidéo avec l'IA",
         "title_en": "Veo 3.1 : Google's Advanced AI Video Generator • Higgsfield",
         "summary": "Google lance Veo 3.1, un outil d'IA générative pour créer des vidéos ultra-réalistes à partir d'images fixes. Une avancée majeure dans l'IA visuelle.",
@@ -521,21 +533,45 @@
         "source": "Superwebtricks",
         "url": "https://www.superwebtricks.com/koox-ai/",
         "date": "23 February 2026"
-      },
-      {
-        "title": "Tom Cruise et Brad Pitt se sont-ils vraiment battus ? La vidéo virale qui secoue Hollywood",
-        "title_en": "Did Tom Cruise really fight Brad Pitt? The viral video that has Hollywood suing Bytedance",
-        "summary": "Une IA chinoise crée des vidéos ultra-réalistes, menaçant l'industrie du cinéma. Hollywood s'inquiète.",
-        "summary_en": "<strong>In 2024, OpenAI released the latest version of its Sora video generator to the public</strong>. In 2025, Google unveiled Veo 3, an advanced AI video generator developed by Google DeepMind.",
-        "long_summary": "ByteDance, la société mère de TikTok, a développé Seedance 2.0, une IA capable de générer des vidéos cinématographiques à partir de simples prompts textuels.\n\nPoints clés :\n• Seedance 2.0 crée des vidéos réalistes avec dialogues et effets sonores\n• Une vidéo virale de Tom Cruise et Brad Pitt a déclenché une polémique\n• Hollywood craint pour son modèle économique et la propriété intellectuelle\n\nCette avancée technologique pourrait révolutionner la production audiovisuelle, mais soulève des questions éthiques et juridiques majeures.",
-        "long_summary_en": "Seedance 2.0: The AI Revolution Shaking Up Hollywood's Movie Studios GOLD/FOREX DUBAI 23°C PRAYER TIMES TECHNOLOGY TECHNOLOGY COMPANIES CONSUMER ELECTRONICS FIN-TECH GAMING MEDIA TRENDS Seedance 2.0: Can this AI tool replace Hollywood movie studios? No crew, no actors, no budget - the new Chinese AI tool that’s putting Hollywood on notice Last updated: February 22, 2026 | 06:00 Zainab Husain , Features Writer 3 MIN READ Add as a preferred source on Google The viral AI-generated clip of Brad Pitt and Tom Cruise was generated by Seedance 2.0, an AI video model developed by ByteDance, the Chinese",
-        "image": "https://media.assettype.com/gulfnews%2F2026-02-21%2Fgxpdb3t1%2FScreenshot-2026-02-12-at-14.37.07-e1770907766400.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "source": "Gulfnews",
-        "url": "https://gulfnews.com/technology/seedance-20-can-this-ai-tool-replace-hollywood-movie-studios-1.500451338",
-        "date": "23 February 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Les IA copient des romans protégés à 95,8 % : une étude qui ébranle la défense juridique des géants du secteur",
+        "title_en": "ChatGPT~? Claude~? Gemini : Les IA peuvent générer des copies quasi mot pour mot de romans à partir de données d'entraînement selon une étude qui contredit trois ans de défense juridique des géants de l'IA",
+        "summary": "Des chercheurs ont prouvé que les IA comme GPT ou Claude reproduisent des œuvres protégées presque mot pour mot, remettant en cause leur défense juridique.",
+        "summary_en": "Gemini 2.5 Pro de Google et Grok 3 de xAI n&#x27;ont eu besoin d&#x27;aucun contournement pour se conformer à l&#x27;instruction : <strong>ils ont restitué respectivement 76,8 % et 70,3 % du premier t",
+        "long_summary": "Une étude de Stanford et Yale révèle que les grands modèles de langage commerciaux peuvent restituer des romans protégés avec une fidélité allant jusqu'à 95,8 %. Cette découverte contredit trois ans de défense juridique des géants de l'IA, qui affirment ne pas stocker les œuvres mais seulement en apprendre le contenu.\n\nPoints clés :\n• Les IA reproduisent des textes protégés avec une précision inédite, jusqu'à 95,8 %.\n• Cette étude invalide l'argument juridique central des entreprises comme OpenAI et Google.\n• Elle pose la question de la nature même de l'apprentissage des modèles de langage.\n\nConclusion sur les implications : Cette révélation pourrait avoir des conséquences majeures sur les procès en cours et la régulation des IA génératives.",
+        "long_summary_en": "Le 24 février 2026 à 20:49 , par Stéphane le calme 7 commentaires 5 PARTAGES 9 0 Des chercheurs de Stanford et Yale ont démontré que les grands modèles de langage commerciaux  Claude, GPT, Gemini et Grok  sont capables de restituer des romans protégés par le droit d'auteur avec une fidélité troublante, allant jusqu'à 95,8 % du texte original. Une découverte qui dynamite la défense centrale des géants de l'IA face aux dizaines de procès en cours et pose des questions fondamentales sur ce que signifie réellement « apprendre » pour une machine. Depuis le début du boom de l'IA générative, les gr",
+        "image": "https://www.developpez.com/images/logos/intelligence-artificielle2.png",
+        "source": "Intelligence-Artificielle",
+        "url": "https://intelligence-artificielle.developpez.com/actu/380542/ChatGPT-Claude-Gemini-Les-IA-peuvent-generer-des-copies-quasi-mot-pour-mot-de-romans-a-partir-de-donnees-d-entrainement-selon-une-etude-qui-contredit-trois-ans-de-defense-juridique-des-geants-de-l-IA/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Anthropic croit-il que Claude est vivant ? Redéfinir le terme 'vivant'",
+        "title_en": "Does Anthropic think Claude is alive? Define ‘alive’",
+        "summary": "Les dirigeants d'Anthropic évoquent une forme de vie chez Claude, soulevant des questions sur la conscience des IA.",
+        "summary_en": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive",
+        "long_summary": "Lors de leurs interviews, les dirigeants d'Anthropic semblent suggérer que Claude possède une forme de vie ou de conscience.\n\nPoints clés :\n• Le terme 'vivant' est ambigu et souvent remplacé par 'conscient'\n• Anthropic évite de définir clairement ce qu'ils entendent par 'vivant'\n• Cette ambiguïté soulève des questions éthiques et philosophiques\n\nCette discussion reflète les tensions croissantes autour de la nature des IA génératives et de leur statut.",
+        "long_summary_en": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive in some way, shape, or form. \"Alive\" is obviously a loaded term; the more frequently used word is \"conscious.\" If you ask […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "12% des adolescents américains se tournent vers l'IA pour un soutien émotionnel",
+        "title_en": "About 12% of US teens turn to AI for emotional support or advice",
+        "summary": "Les outils comme ChatGPT ne sont pas conçus pour ce rôle, inquiétant les professionnels de la santé mentale.",
+        "summary_en": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
+        "long_summary": "Une étude révèle que 12% des adolescents américains utilisent l'IA pour des conseils émotionnels, malgré son manque de préparation pour ce rôle.\n\nPoints clés :\n• Les LLMs comme ChatGPT, Claude et Grok ne sont pas conçus pour le soutien psychologique\n• Les professionnels de la santé mentale s'inquiètent des risques pour les jeunes\n• L'IA pourrait devenir un outil complémentaire si encadrée correctement\n\nConclusion sur les implications : Cette tendance souligne l'urgence de réguler l'usage des IA génératives dans des contextes sensibles.",
+        "long_summary_en": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1499457607.jpg?resize=1200,675",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+        "date": "25 February 2026"
+      },
       {
         "title": "Un outil révolutionnaire combine l'IA de Google et OpenAI avec 19 outils de cybersécurité",
         "title_en": "Security News - Guardian AI-Penetration Testing Tool Connects Gemini, GPT-4 with 19 Security Tools Including Nmap | MalwareTips Forums",
@@ -679,45 +715,33 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
         "date": "25 February 2026"
-      },
-      {
-        "title": "Les ingénieurs d'Uber ont créé une IA à l'image de leur PDG",
-        "title_en": "Uber engineers built an AI version of their boss",
-        "summary": "Les employés d'Uber ont développé un chatbot de leur PDG pour s'entraîner à leurs présentations, illustrant leur engagement total en IA.",
-        "summary_en": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
-        "long_summary": "Uber accélère son adoption de l'IA, avec des employés créant même un chatbot de leur PDG.\n\nPoints clés :\n• Les équipes utilisent un modèle de langage pour simuler des interactions avec Dara Khosrowshahi\n• Cette initiative reflète l'engouement croissant pour les LLMs en entreprise\n• L'IA générative devient un outil clé pour la formation et la collaboration\n\nCette démarche illustre comment les grandes entreprises intègrent l'IA dans leurs processus internes, suivant les pas d'OpenAI et Google.",
-        "long_summary_en": "Uber CEO Dara Khosrowshahi said the company’s employees have gone all in on AI, going so far as to build a chatbot of him that they use to practice their pitches.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Multiverse Computing dévoile un modèle d'IA compressé et gratuit",
-        "title_en": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
-        "summary": "Multiverse Computing lance HyperNova 60B, un modèle d'IA performant et gratuit, surpassant Mistral.",
-        "summary_en": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
-        "long_summary": "La startup espagnole Multiverse Computing a publié une nouvelle version de son modèle HyperNova 60B sur Hugging Face, affirmant qu'il surpasse celui de Mistral.\n\nPoints clés :\n• Modèle compressé et accessible gratuitement\n• Performances supérieures à celles de Mistral\n• Disponible sur la plateforme Hugging Face\n\nCette avancée pourrait accélérer l'adoption des grands modèles de langage en Europe.",
-        "long_summary_en": "Spanish startup Multiverse Computing has released a new version of its HyperNova 60B model on Hugging Face that, it says, bests Mistral's model.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Multiverse-Computing-Founders-Logo.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "L'explosion de l'IA en Inde pousse les entreprises à privilégier les utilisateurs aux revenus immédiats",
-        "title_en": "India’s AI boom pushes firms to trade near-term revenue for users",
-        "summary": "ChatGPT et ses concurrents testent si l'essor massif de l'IA en Inde peut se convertir en clients payants alors que les offres gratuites prennent fin.",
-        "summary_en": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
-        "long_summary": "L'Inde connaît une adoption explosive de l'IA, avec des millions d'utilisateurs adoptant des modèles de langage comme ChatGPT.\n\nPoints clés :\n• Les entreprises comme OpenAI, Google et Anthropic misent sur l'acquisition d'utilisateurs plutôt que sur des revenus immédiats.\n• La transition vers des modèles payants reste incertaine, malgré la demande croissante.\n• Le marché indien pourrait devenir un laboratoire pour les stratégies d'IA à l'échelle mondiale.\n\nCette dynamique pourrait redéfinir les modèles économiques de l'IA, avec un focus sur la croissance utilisateur avant la monétisation.",
-        "long_summary_en": "ChatGPT and rivals are testing whether India's massive AI user boom can translate into paying customers as free offers wind down.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
-        "date": "25 February 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Sonos ou Samsung : l'IA peut-elle vous aider à choisir ?",
+        "title_en": "Should you buy a Sonos or Samsung sound system? I compared both brands to find out",
+        "summary": "L'IA révolutionne le choix des enceintes connectées en analysant vos préférences. Sonos vs Samsung : qui l'emporte ?",
+        "summary_en": "Sonos and Samsung both make superior home theater products, but choosing is about more than chasing an audio experience.",
+        "long_summary": "Les assistants vocaux et les algorithmes d'apprentissage automatique personnalisent désormais l'expérience audio.\n\nPoints clés :\n• Les modèles de langage comme ceux d'OpenAI analysent les avis clients pour recommander des produits\n• Samsung utilise l'IA pour optimiser l'audio en temps réel\n• Sonos mise sur l'écosystème intelligent et l'intégration avec les LLMs\n\nL'IA rend le choix plus objectif en s'adaptant aux besoins individuels.",
+        "long_summary_en": "Sonos and Samsung both make superior home theater products, but choosing is about more than chasing an audio experience.",
+        "image": "https://www.zdnet.com/a/img/resize/f710d25b820851e6c12b783558d9218310a13541/2025/03/24/d4206165-e96e-4682-bc13-13a492277cf0/dsc04624.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/sonos-vs-samsung/",
+        "date": "25 February 2026"
+      },
+      {
+        "title": "Alexa s'adapte à votre humeur : trois personnalités AI à personnaliser",
+        "title_en": "You can now make Alexa’s AI personality more friendly, blunt, or chilled out",
+        "summary": "Amazon permet désormais de choisir le ton d'Alexa : concis, joyeux ou décontracté. Une avancée majeure pour les assistants vocaux.",
+        "summary_en": "Amazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make",
+        "long_summary": "Amazon offre aux utilisateurs d'Alexa Plus aux États-Unis la possibilité de modifier la personnalité de l'assistant vocal via trois présélections.\n\nPoints clés :\n• Trois styles disponibles : concis, joyeux ou décontracté\n• Personnalisation basée sur des modèles de langage avancés\n• Une avancée dans l'adaptation des assistants vocaux aux préférences utilisateurs\n\nCette innovation pourrait influencer d'autres acteurs comme Google ou OpenAI, poussant vers des IA plus flexibles.",
+        "long_summary_en": "Amazon is giving you more control over how Alexa behaves during conversations and responses. Three \"personality style\" presets are launching today for Alexa Plus users in the US that allow you to make the AI-powered voice assistant more concise, cheerful, or relaxed, depending on your personal preferences. \"Alexa's personality is one of the things customers […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/Alexa-Plus-personality-updates.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/884269/amazon-alexa-plus-personality-styles-availability",
+        "date": "25 February 2026"
+      },
       {
         "title": "Les écouteurs Soundpeats Air5 Pro+ : un rapport qualité-prix exceptionnel grâce à l'IA",
         "title_en": "I've tested dozens of 'cheap' earbuds: These $100 Soundpeats actually deliver good value",
@@ -873,30 +897,6 @@
         "source": "mit_tech",
         "url": "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
         "date": "16 February 2026"
-      },
-      {
-        "title": "Les écouteurs Beats Studio Pro à moitié prix : une aubaine pour les utilisateurs d'Android et Apple",
-        "title_en": "Beats Studio Pro headphones are 50% off right now - and I can vouch for them",
-        "summary": "Les écouteurs Beats Studio Pro, parfaits pour Android et Apple, sont en promo à -50%. Un must pour les amateurs de son haute qualité.",
-        "summary_en": "The latest release from Beats is the perfect middle-ground headphones for Android and Apple users.",
-        "long_summary": "Les Beats Studio Pro offrent un équilibre parfait entre performance et compatibilité multiplateforme.\n\nPoints clés :\n• Technologie audio avancée avec réduction de bruit adaptative\n• Compatibilité optimisée pour Android et iOS\n• Design ergonomique et autonomie prolongée\n\nCes écouteurs illustrent comment l'IA et le machine learning améliorent l'expérience utilisateur dans les appareils grand public.",
-        "long_summary_en": "The latest release from Beats is the perfect middle-ground headphones for Android and Apple users.",
-        "image": "https://www.zdnet.com/a/img/resize/2e7c4f79e19e4ae9f474eea92de7d2f17c5348d7/2023/07/26/915128ed-12dc-4111-940e-5eb204aea4e8/studioprobody.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/beats-studio-pro-review/",
-        "date": "16 February 2026"
-      },
-      {
-        "title": "Kyutai lance Hibiki-Zero : une révolution dans la traduction simultanée sans données alignées",
-        "title_en": "Kyutai Releases Hibiki-Zero: A3B Parameter Simultaneous Speech-to-Speech Translation Model Using GRPO Reinforcement Learning Without Any Word-Level Aligned Data",
-        "summary": "Hibiki-Zero traduit la parole en temps réel sans besoin de données alignées, éliminant un frein majeur à l'échelle des IA.",
-        "summary_en": "Kyutai has released Hibiki-Zero, a new model for simultaneous speech-to-speech translation (S2ST) and speech-to-text translation (S2TT). The system translates source speech into a target language in r",
-        "long_summary": "Kyutai a développé Hibiki-Zero, un modèle innovant de traduction simultanée parole-parole et parole-texte.\n\nPoints clés :\n• Traduction en temps réel sans données alignées\n• Gestion des dépendances non monotones\n• Apprentissage par renforcement GRPO\n\nCette avancée pourrait accélérer le déploiement de systèmes multilingues à grande échelle.",
-        "long_summary_en": "Kyutai has released Hibiki-Zero, a new model for simultaneous speech-to-speech translation (S2ST) and speech-to-text translation (S2TT). The system translates source speech into a target language in real-time. It handles non-monotonic word dependencies during the process. Unlike previous models, Hibiki-Zero does not require word-level aligned data for training. This eliminates a major bottleneck in scaling AI […]\nThe post Kyutai Releases Hibiki-Zero: A3B Parameter Simultaneous Speech-to-Speech Translation Model Using GRPO Reinforcement Learning Without Any Word-Level Aligned Data appeared firs",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-1-14-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/13/kyutai-releases-hibiki-zero-a3b-parameter-simultaneous-speech-to-speech-translation-model-using-grpo-reinforcement-learning-without-any-word-level-aligned-data/",
-        "date": "14 February 2026"
       }
     ]
   },
@@ -909,17 +909,17 @@
       "date": "16 February 2026"
     },
     {
+      "title": "Février 2026 : Les nouveaux modèles d'IA qui révolutionnent l'intelligence artificielle",
+      "title_en": "AI Updates Today (February 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "25 February 2026"
+    },
+    {
       "title": "Un outil révolutionnaire combine l'IA de Google et OpenAI avec 19 outils de cybersécurité",
       "title_en": "Security News - Guardian AI-Penetration Testing Tool Connects Gemini, GPT-4 with 19 Security Tools Including Nmap | MalwareTips Forums",
       "source": "Malwaretips",
       "url": "https://malwaretips.com/threads/guardian-ai-penetration-testing-tool-connects-gemini-gpt-4-with-19-security-tools-including-nmap.139881/",
-      "date": "25 February 2026"
-    },
-    {
-      "title": "Gemini 3.1 Pro : Google DeepMind dévoile son modèle LLM le plus avancé en 2026",
-      "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/ai-news",
       "date": "25 February 2026"
     }
   ]
