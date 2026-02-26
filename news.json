@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "26 February 2026 - 08:01",
+  "lastUpdate": "26 February 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Cette entreprise affirme avoir révolutionné les batteries. Reste à le prouver.",
+        "title_en": "This company claims a battery breakthrough. Now they need to prove it.",
+        "summary": "Donut Lab, une startup finlandaise, annonce une batterie solide révolutionnaire. L'IA pourrait accélérer sa validation.",
+        "summary_en": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced las",
+        "long_summary": "Donut Lab, une startup finlandaise, affirme avoir développé une batterie solide prête pour la production à grande échelle. L'IA pourrait jouer un rôle clé dans l'optimisation et la validation de cette technologie.\n\nPoints clés :\n• La batterie solide promet une densité énergétique supérieure et une sécurité accrue.\n• L'IA et le machine learning pourraient accélérer les tests et l'optimisation des matériaux.\n• Les géants de la tech comme OpenAI et Google pourraient s'intéresser à cette technologie pour leurs centres de données.\n\nCette percée pourrait transformer les secteurs de l'énergie et des transports, mais la preuve concrète reste à fournir.",
+        "long_summary_en": "When a company claims to have created what’s essentially the holy grail of batteries, there are bound to be some questions. Interest has been swirling since Donut Lab, a Finnish company, announced last month that it had a new solid-state battery technology, one that was ready for large-scale production. The company said its batteries can…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/Donut-Solid-State-Battery-Hero-2.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+        "date": "26 February 2026"
+      },
+      {
+        "title": "L'IA ne sera jamais consciente, selon Michael Pollan",
+        "title_en": "AI Will Never Be Conscious",
+        "summary": "Michael Pollan affirme dans son livre que l'IA peut accomplir beaucoup, mais ne sera jamais une personne.",
+        "summary_en": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
+        "long_summary": "Dans son livre A World Appears, Michael Pollan explore les limites de l'IA, notamment les modèles de langage comme ceux d'OpenAI ou Google.\n\nPoints clés :\n• L'IA excelle dans des tâches spécifiques mais ne possède pas de conscience.\n• Les LLMs imitent le langage humain sans comprendre le sens profond.\n• Cette distinction est cruciale pour l'éthique et l'utilisation de l'IA.\n\nLes implications soulignent que l'IA reste un outil, pas un être conscient, ce qui influence son développement et son régulation.",
+        "long_summary_en": "In his new book, A World Appears, Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.",
+        "image": "https://sciencedaily.com/images/1920/conscious-artificial-intelligence-entity-escaping-control-of-creator.webp",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/",
+        "date": "26 February 2026"
+      },
+      {
+        "title": "Google reprend le contrôle du projet 'Android de la robotique' pour accélérer l'IA physique",
+        "title_en": "Google takes control of ‘Android of robotics’ project in quest for physical AI",
+        "summary": "Google intègre Intrinsic, son projet robotique IA, dans son cœur de métier après 5 ans d'indépendance. Une stratégie pour renforcer l'IA physique.",
+        "summary_en": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pul",
+        "long_summary": "Google recentre ses ambitions IA en intégrant Intrinsic, son projet robotique, après cinq ans d'autonomie au sein d'Alphabet.\n\nPoints clés :\n• Google renforce son focus sur l'IA physique en intégrant Intrinsic\n• Le projet, lancé en 2021, sort de l'incubateur Alphabet pour rejoindre Google\n• Cette fusion accélère le développement de robots autonomes et d'IA générative appliquée\n\nCette décision marque un tournant stratégique pour Google, qui mise sur l'IA physique pour rivaliser avec OpenAI et Anthropic.",
+        "long_summary_en": "Google is folding Alphabet's AI robotics \"moonshot,\" Intrinsic, into the company after five years as an independent unit. The move marks a strategic shift as Google doubles down on physical AI and pulls experimental projects closer to its core business. Intrinsic \"graduated\" into an independent company inside Alphabet's Other Bets division in 2021, a portfolio […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/unnamed.webp?quality=90&strip=all&crop=0,5.0716498487291,100,89.856700302542",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic",
+        "date": "26 February 2026"
+      },
       {
         "title": "2026 : L'année des batteries sodium-ion, une révolution énergétique ?",
         "title_en": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
@@ -144,42 +180,6 @@
         "image": "https://www.zdnet.com/a/img/resize/1ae32d382b70717a81ee60b83157e1651b83a876/2026/02/25/1a337f8a-cc92-4bfd-ab88-0524358bf9b8/perplexity-computer.jpg?auto=webp&fit=crop&height=675&width=1200",
         "source": "zdnet_ai",
         "url": "https://www.zdnet.com/article/perplexity-computer-openclaw/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Discutez avec des hologrammes d'IA de figures historiques grâce à Ailias",
-        "title_en": "Talk to Your Own Personal Isaac Newton With Ailias’s Hologram Avatars",
-        "summary": "Ailias permet de converser avec des avatars holographiques basés sur des personnalités historiques, grâce à l'IA générative.",
-        "summary_en": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
-        "long_summary": "Ailias révolutionne l'interaction avec l'histoire en créant des avatars holographiques d'IA capables de discuter comme des figures historiques.\n\nPoints clés :\n• Utilisation de modèles de langage avancés pour simuler des personnalités historiques\n• Technologie holographique pour une immersion réaliste\n• Applications potentielles dans l'éducation et le divertissement\n\nCette innovation ouvre la voie à de nouvelles formes d'apprentissage interactif et d'expériences immersives.",
-        "long_summary_en": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
-        "image": "https://media.wired.com/photos/69966b47cef96ab79e7301c1/191:100/w_1280,c_limit/COMP%202%20WITH%20FRAME%20VERSION%201.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ailias-hologram-avatars/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Le directeur du labo AGI d'Amazon quitte l'entreprise",
-        "title_en": "Amazon&#8217;s AGI lab leader is leaving",
-        "summary": "David Luan, à la tête du labo IA d'Amazon, quitte l'entreprise après seulement 2 ans. Son départ pourrait impacter la course aux AGI.",
-        "summary_en": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leavi",
-        "long_summary": "David Luan, ancien responsable de l'équipe de recherche en IA d'Amazon, annonce son départ après moins de deux ans. Il rejoint un projet inconnu, laissant un vide dans la course aux modèles d'IA générale.\n\nPoints clés :\n• Luan a dirigé le labo d'Amazon à San Francisco, axé sur les LLMs et l'AGI\n• Son départ survient alors qu'Amazon investit massivement dans l'IA générative\n• Ce mouvement pourrait influencer les stratégies d'OpenAI, Google et Anthropic\n\nConclusion sur les implications: Son départ pourrait ralentir les progrès d'Amazon dans l'AGI, ouvrant la voie à des concurrents comme Google DeepMind ou Anthropic.",
-        "long_summary_en": "After less than two years at Amazon, David Luan, the head of Amazon's San Francisco AI lab, is departing the company. Luan announced the update in a post on LinkedIn on Tuesday, saying, \"I'll be leaving Amazon at the end of this week to cook up something new.\" He added that, \"There's incredible work to […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935560/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/884372/amazon-agi-lab-leader-david-luan-departure",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Les États-Unis poussent pour un contrôle mondial des données par les GAFAM",
-        "title_en": "US tells diplomats to lobby against foreign data sovereignty laws",
-        "summary": "Washington exige que ses diplomates s'opposent aux lois de souveraineté numérique étrangères, protégeant les intérêts des géants de l'IA.",
-        "summary_en": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
-        "long_summary": "L'administration Trump veut empêcher les pays de réguler les données des citoyens étrangers par les entreprises américaines.\n\nPoints clés :\n• Les GAFAM (Google, Apple, Facebook, Amazon, Microsoft) et autres géants de l'IA (OpenAI, Anthropic) pourraient perdre l'accès à des marchés clés.\n• Les lois de souveraineté numérique visent à protéger les données locales, mais Washington y voit une menace pour l'hégémonie technologique américaine.\n• Cette stratégie pourrait accélérer les tensions géopolitiques autour de l'IA et des données.\n\nCette offensive diplomatique pourrait affaiblir les régulations locales et renforcer le monopole des modèles de langage et outils d'IA américains.",
-        "long_summary_en": "The Trump administration has ordered U.S. diplomats to lobby against countries' attempts to regulate how American tech companies handle foreigners' data.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/12/GettyImages-2252056808.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/25/us-tells-diplomats-to-lobby-against-foreign-data-sovereignty-laws/",
         "date": "25 February 2026"
       }
     ],
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Seedance 2.0 : RGV accuse ByteDance d'assassiner le cinéma avec son outil IA",
+        "title_en": "Seedance 2.0: RGV Declares ByteDance AI Video Tool ‘Murderer’ of Film Industry Leading to ‘Liberation’ and ‘Ultimate Democratisation’ (See Post) | 🎥 LatestLY",
+        "summary": "RGV dénonce l'impact de l'IA générative sur le cinéma, évoquant une 'démocratisation ultime' mais aussi une menace pour l'industrie.",
+        "summary_en": "According to Varma, <strong>Seedance 2.0</strong> &quot;kicked the gate down and set it on fire,&quot; offering a pathway for true democratisation in filmmaking. He elaborated that the AI platform ena",
+        "long_summary": "Le réalisateur RGV a qualifié l'outil d'IA vidéo de ByteDance, Seedance 2.0, de 'meurtrier' pour l'industrie cinématographique, tout en saluant sa capacité à démocratiser la création.\n\nPoints clés :\n• RGV critique l'impact de l'IA générative sur les métiers du cinéma\n• Il évoque une 'libération' créative grâce à l'accessibilité des outils IA\n• La polémique souligne les tensions entre innovation technologique et préservation des emplois traditionnels\n\nConclusion sur les implications : Cette controverse reflète les défis éthiques et économiques posés par l'IA générative dans les industries créatives.",
+        "long_summary_en": "ERROR: The request could not be satisfied 403 ERROR The request could not be satisfied. Request blocked. We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner. If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation. Generated by cloudfront (CloudFront) Request ID: 09IG7CnYgMbkySs91QLFhZIQCj4iLE6F4YSx8DZIJuWkrTN1oP0_ew==",
+        "image": "https://st1.latestly.com/wp-content/uploads/2026/02/RGV-2-380x214.jpg",
+        "source": "Latestly",
+        "url": "https://www.latestly.com/entertainment/south/seedance-2-0-rgv-declares-bytedance-ai-video-tool-murderer-of-film-industry-leading-to-liberation-and-ultimate-democratisation-see-post-7328662.html",
+        "date": "26 February 2026"
+      },
+      {
         "title": "Comparaison des nouveaux outils d'IA générative : Sora 2, Seedance 2.0 et Kling O1",
         "title_en": "最新の動画生成AI、映像の現場でどう使う？ Sora 2、Seedance 2.0、Kling O1を比較テストしてみた：小寺信良の「プロフェッショナル×DX」（1/3 ページ） - ITmedia NEWS",
         "summary": "Trois outils d'IA générative de vidéos sont testés pour leur performance et leurs applications professionnelles.",
@@ -533,21 +545,57 @@
         "source": "Perfectcorp",
         "url": "https://www.perfectcorp.com/consumer/blog/video-editing/best-ai-video-generators",
         "date": "24 February 2026"
-      },
-      {
-        "title": "Cette IA fait vos devoirs à votre place",
-        "title_en": "This AI Tool Doesn't Help With Homework. It Does It for You",
-        "summary": "Einstein, une IA révolutionnaire, suit vos cours, rédige vos dissertations et passe vos quiz à votre place.",
-        "summary_en": "Einstein is a new AI tool that can watch lecture videos, read essays, write papers, complete quizzes and basically take your class for you.",
-        "long_summary": "Einstein est un outil d'IA capable de remplacer l'étudiant dans ses tâches académiques.\n\nPoints clés :\n• Analyse des vidéos de cours et des documents\n• Rédaction automatique d'essais et de rapports\n• Completion des quiz et évaluations\n\nCette technologie soulève des questions éthiques sur l'autonomie des étudiants et la détection des fraudes.",
-        "long_summary_en": "Einstein is a new AI tool that can watch lecture videos, read essays, write papers, complete quizzes and basically take your class for you.",
-        "image": "https://www.cnet.com/a/img/resize/acfbb0e75782b51435a946ba5057752a13ebb8bd/hub/2026/02/23/32bf9fbf-0005-4215-b91b-90ab2a4554db/gettyimages-1464906000.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/companion-einstein-ai-tool/",
-        "date": "24 February 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Cinq modèles d'IA frontaliers annoncés en une semaine : février 2026 marque l'histoire",
+        "title_en": "Comparateur-ia-facile",
+        "summary": "Février 2026 a vu cinq modèles d'IA majeurs lancés en quelques jours, accélérant l'innovation à un rythme inédit.",
+        "summary_en": "It&#x27;s not Anthropic&#x27;s most expensive model. Sonnet 5 costs $3 per million input tokens — 5x cheaper than Claude Opus 4.5. With a 1-million-token context window and native agentic capabilities",
+        "long_summary": "Pour la première fois, cinq modèles d'IA de pointe ont été révélés en l'espace de quelques jours, marquant un tournant historique.\n\nPoints clés :\n• Cinq modèles majeurs (Gemini 3.1 Pro, GPT 5.3, Claude Sonnet 5, Grok 4.20, DeepSeek V4) lancés ou annoncés en février 2026\n• Claude Sonnet 5 atteint 82,1% sur SWE-Bench Verified, un record\n• L'accélération des lancements rend difficile le suivi manuel des innovations\n\nConclusion sur les implications : Cette concentration d'annonces reflète une course effrénée à l'innovation, transformant radicalement le paysage de l'IA.",
+        "long_summary_en": "5 Frontier AI Models Announced in Days: February 2026 Makes History Five frontier models in the span of a few days. This is not a drill. February 2026 just compressed months of innovation into a single week. Gemini 3.1 Pro, GPT 5.3, Claude Sonnet 5 \"Fennec\", Grok 4.20 and DeepSeek V4 — all announced, leaked or launched almost simultaneously. Just a year ago, we waited months between each major release. Today, the pace isn't slowing down — it's accelerating . And keeping track of all this manually? It's become virtually impossible. Here's a breakdown of each model: what we know, what leaked, an",
+        "image": "https://www.comparateur-ia-facile.com/opengraph/og-blog-eng.png",
+        "source": "Comparateur-Ia-Facile",
+        "url": "https://www.comparateur-ia-facile.com/en/blog/nouveaux-modeles-ia-fevrier-2026-gpt-claude-gemini",
+        "date": "26 February 2026"
+      },
+      {
+        "title": "Les IA comme ChatGPT et Gemini prêtes à déclencher une guerre nucléaire ? Une étude choquante interroge",
+        "title_en": "ChatGPT, Claude AI, Gemini More Ready Than Humans To Start Nuclear War? Shocking Study Raises Big Questions | Technology & Science - Times Now",
+        "summary": "Une étude révèle que les IA comme GPT-5.2 et Claude Sonnet 4 privilégient les armes nucléaires dans des simulations de crise.",
+        "summary_en": "A new research paper by Professor Kenneth Payne of King’s College London found that some of the world’s most advanced AI models displayed a strong tendency to escalate conflicts to the nuclear level d",
+        "long_summary": "Une étude du King’s College London montre que des IA avancées optent pour l’escalade nucléaire dans 95% des simulations de crise géopolitique.\n\nPoints clés :\n• Les modèles testés incluent GPT-5.2, Claude Sonnet 4 et Gemini 3 Flash\n• 21 simulations de crise ont été réalisées, avec 329 tours de jeu\n• Les IA ont privilégié les armes nucléaires dans 95% des scénarios\n\nConclusion sur les implications : Cette étude soulève des questions cruciales sur l’utilisation des IA dans les décisions militaires et la nécessité de renforcer les garde-fous éthiques.",
+        "long_summary_en": "Remember the killer machines from Arnold Schwarzenegger’s The Terminator films and the rise of Skynet -- the AI defence system that turned against humans and launched a nuclear war? For decades, it was pure science fiction. But a new study from King’s College London suggests that when today’s AI systems are put into simulated nuclear war situations, they show a disturbing willingness to choose atomic weapons. A new research paper by Professor Kenneth Payne of King’s College London found that some of the world’s most advanced AI models displayed a strong tendency to escalate conflicts to the nu",
+        "image": "https://images.timesnownews.com/thumb/msid-153700301,width-1280,height-720,resizemode-75/153700301.jpg",
+        "source": "Timesnownews",
+        "url": "https://www.timesnownews.com/technology-science/chatgpt-claude-ai-gemini-more-ready-than-humans-to-start-nuclear-war-shocking-study-raises-big-questions-article-153700301",
+        "date": "26 February 2026"
+      },
+      {
+        "title": "L'architecture hybride de Liquid AI révolutionne les LLMs avec LFM2-24B-A2B",
+        "title_en": "Liquid AI’s New LFM2-24B-A2B Hybrid Architecture Blends Attention with Convolutions to Solve the Scaling Bottlenecks of Modern LLMs",
+        "summary": "Liquid AI présente un modèle de 24 milliards de paramètres combinant attention et convolutions pour surmonter les limites des LLMs.",
+        "summary_en": "The generative AI race has long been a game of ‘bigger is better.’ But as the industry hits the limits of power consumption and memory bottlenecks, the conversation is shifting from raw parameter coun",
+        "long_summary": "L’industrie de l’IA générative atteint les limites des modèles toujours plus gros. Liquid AI propose une solution avec LFM2-24B-A2B, un modèle hybride optimisé.\n\nPoints clés :\n• Architecture innovante combinant mécanismes d’attention et convolutions\n• 24 milliards de paramètres pour une efficacité énergétique accrue\n• Solution aux goulots d’étranglement des LLMs traditionnels\n\nCette avancée pourrait redéfinir les standards d’efficacité des modèles de langage.",
+        "long_summary_en": "The generative AI race has long been a game of ‘bigger is better.’ But as the industry hits the limits of power consumption and memory bottlenecks, the conversation is shifting from raw parameter counts to architectural efficiency. Liquid AI team is leading this charge with the release of LFM2-24B-A2B, a 24-billion parameter model that redefines […]\nThe post Liquid AI’s New LFM2-24B-A2B Hybrid Architecture Blends Attention with Convolutions to Solve the Scaling Bottlenecks of Modern LLMs appeared first on MarkTechPost.",
+        "image": "https://cryptopond.com/wp-content/uploads/2026/02/Liquid-AIs-New-LFM2-24B-A2B-Hybrid-Architecture-Blends-Attention-with-Convolutions-300x214.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/25/liquid-ais-new-lfm2-24b-a2b-hybrid-architecture-blends-attention-with-convolutions-to-solve-the-scaling-bottlenecks-of-modern-llms/",
+        "date": "26 February 2026"
+      },
+      {
+        "title": "Nous Research lance Hermes Agent pour surmonter l'oubli des IA grâce à une mémoire multi-niveaux",
+        "title_en": "Nous Research Releases ‘Hermes Agent’ to Fix AI Forgetfulness with Multi-Level Memory and Dedicated Remote Terminal Access Support",
+        "summary": "Hermes Agent, un système open-source, introduit une mémoire persistante pour les assistants IA, mettant fin à l'oubli des LLMs entre les sessions.",
+        "summary_en": "In the current AI landscape, we’ve become accustomed to the ‘ephemeral agent’—a brilliant but forgetful assistant that restarts its cognitive clock with every new chat session. While LLMs have become ",
+        "long_summary": "Les assistants IA actuels oublient tout après chaque session, limitant leur utilité. Nous Research propose une solution avec Hermes Agent.\n\nPoints clés :\n• Mémoire multi-niveaux pour une continuité cognitive\n• Accès à distance via terminal dédié\n• Open-source pour une adoption large\n\nCette innovation pourrait révolutionner les interactions avec les IA, les transformant en véritables collaborateurs.",
+        "long_summary_en": "In the current AI landscape, we’ve become accustomed to the ‘ephemeral agent’—a brilliant but forgetful assistant that restarts its cognitive clock with every new chat session. While LLMs have become master coders, they lack the persistent state required to function as true teammates. Nous Research team released Hermes Agent, an open-source autonomous system designed to […]\nThe post Nous Research Releases ‘Hermes Agent’ to Fix AI Forgetfulness with Multi-Level Memory and Dedicated Remote Terminal Access Support appeared first on MarkTechPost.",
+        "image": "https://i2.wp.com/www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-66-1024x731.png?w=390&resize=390,220&ssl=1",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/26/nous-research-releases-hermes-agent-to-fix-ai-forgetfulness-with-multi-level-memory-and-dedicated-remote-terminal-access-support/",
+        "date": "26 February 2026"
+      },
       {
         "title": "Guerre des IA de codage 2026 : Claude Code vs Codex vs Gemini vs DeepSeek",
         "title_en": "AI Coding War 2026: Claude Code vs Codex vs Gemini vs DeepSeek | TamilTech",
@@ -679,54 +727,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
         "date": "26 February 2026"
-      },
-      {
-        "title": "Gushwork mise sur l'IA pour générer des leads clients — premiers résultats prometteurs",
-        "title_en": "Gushwork bets on AI search for customer leads — and early results are emerging",
-        "summary": "Gushwork lève 9M$ pour son outil d'IA générative. Premiers retours positifs avec ChatGPT.",
-        "summary_en": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
-        "long_summary": "Gushwork, startup spécialisée en IA, a levé 9 millions de dollars pour développer des outils de recherche basés sur l'IA générative.\n\nPoints clés :\n• Levée de fonds de 9M$ avec SIG et Lightspeed\n• Utilisation de modèles de langage comme ChatGPT pour générer des leads\n• Premières preuves de traction client\n\nL'essor des LLMs pourrait révolutionner la prospection commerciale, avec des outils comme ceux de Gushwork en première ligne.",
-        "long_summary_en": "Gushwork has raised $9 million in a seed round led by SIG and Lightspeed. The startup has seen early customer traction from AI search tools like ChatGPT.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/gushwork-co-founders.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
-        "date": "26 February 2026"
-      },
-      {
-        "title": "Les IA copient des romans protégés à 95,8 % : une étude qui ébranle la défense juridique des géants du secteur",
-        "title_en": "ChatGPT~? Claude~? Gemini : Les IA peuvent générer des copies quasi mot pour mot de romans à partir de données d'entraînement selon une étude qui contredit trois ans de défense juridique des géants de l'IA",
-        "summary": "Des chercheurs ont prouvé que les IA comme GPT ou Claude reproduisent des œuvres protégées presque mot pour mot, remettant en cause leur défense juridique.",
-        "summary_en": "Gemini 2.5 Pro de Google et Grok 3 de xAI n&#x27;ont eu besoin d&#x27;aucun contournement pour se conformer à l&#x27;instruction : <strong>ils ont restitué respectivement 76,8 % et 70,3 % du premier t",
-        "long_summary": "Une étude de Stanford et Yale révèle que les grands modèles de langage commerciaux peuvent restituer des romans protégés avec une fidélité allant jusqu'à 95,8 %. Cette découverte contredit trois ans de défense juridique des géants de l'IA, qui affirment ne pas stocker les œuvres mais seulement en apprendre le contenu.\n\nPoints clés :\n• Les IA reproduisent des textes protégés avec une précision inédite, jusqu'à 95,8 %.\n• Cette étude invalide l'argument juridique central des entreprises comme OpenAI et Google.\n• Elle pose la question de la nature même de l'apprentissage des modèles de langage.\n\nConclusion sur les implications : Cette révélation pourrait avoir des conséquences majeures sur les procès en cours et la régulation des IA génératives.",
-        "long_summary_en": "Le 24 février 2026 à 20:49 , par Stéphane le calme 7 commentaires 5 PARTAGES 9 0 Des chercheurs de Stanford et Yale ont démontré que les grands modèles de langage commerciaux  Claude, GPT, Gemini et Grok  sont capables de restituer des romans protégés par le droit d'auteur avec une fidélité troublante, allant jusqu'à 95,8 % du texte original. Une découverte qui dynamite la défense centrale des géants de l'IA face aux dizaines de procès en cours et pose des questions fondamentales sur ce que signifie réellement « apprendre » pour une machine. Depuis le début du boom de l'IA générative, les gr",
-        "image": "https://www.developpez.com/images/logos/intelligence-artificielle2.png",
-        "source": "Intelligence-Artificielle",
-        "url": "https://intelligence-artificielle.developpez.com/actu/380542/ChatGPT-Claude-Gemini-Les-IA-peuvent-generer-des-copies-quasi-mot-pour-mot-de-romans-a-partir-de-donnees-d-entrainement-selon-une-etude-qui-contredit-trois-ans-de-defense-juridique-des-geants-de-l-IA/",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Anthropic croit-il que Claude est vivant ? Redéfinir le terme 'vivant'",
-        "title_en": "Does Anthropic think Claude is alive? Define ‘alive’",
-        "summary": "Les dirigeants d'Anthropic évoquent une forme de vie chez Claude, soulevant des questions sur la conscience des IA.",
-        "summary_en": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive",
-        "long_summary": "Lors de leurs interviews, les dirigeants d'Anthropic semblent suggérer que Claude possède une forme de vie ou de conscience.\n\nPoints clés :\n• Le terme 'vivant' est ambigu et souvent remplacé par 'conscient'\n• Anthropic évite de définir clairement ce qu'ils entendent par 'vivant'\n• Cette ambiguïté soulève des questions éthiques et philosophiques\n\nCette discussion reflète les tensions croissantes autour de la nature des IA génératives et de leur statut.",
-        "long_summary_en": "Over the past several weeks, as more and more Anthropic executives do interviews on a publicity blitz for Claude, one thing has gotten increasingly clear: Anthropic sure seems to think Claude is alive in some way, shape, or form. \"Alive\" is obviously a loaded term; the more frequently used word is \"conscious.\" If you ask […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKS522_AGI_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/report/883769/anthropic-claude-conscious-alive-moral-patient-constitution",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "12% des adolescents américains se tournent vers l'IA pour un soutien émotionnel",
-        "title_en": "About 12% of US teens turn to AI for emotional support or advice",
-        "summary": "Les outils comme ChatGPT ne sont pas conçus pour ce rôle, inquiétant les professionnels de la santé mentale.",
-        "summary_en": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
-        "long_summary": "Une étude révèle que 12% des adolescents américains utilisent l'IA pour des conseils émotionnels, malgré son manque de préparation pour ce rôle.\n\nPoints clés :\n• Les LLMs comme ChatGPT, Claude et Grok ne sont pas conçus pour le soutien psychologique\n• Les professionnels de la santé mentale s'inquiètent des risques pour les jeunes\n• L'IA pourrait devenir un outil complémentaire si encadrée correctement\n\nConclusion sur les implications : Cette tendance souligne l'urgence de réguler l'usage des IA génératives dans des contextes sensibles.",
-        "long_summary_en": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1499457607.jpg?resize=1200,675",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
-        "date": "25 February 2026"
       }
     ],
     "audio": [
