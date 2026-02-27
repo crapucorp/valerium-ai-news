@@ -1,7 +1,103 @@
 {
-  "lastUpdate": "27 February 2026 - 12:34",
+  "lastUpdate": "27 February 2026 - 18:35",
   "categories": {
     "general": [
+      {
+        "title": "L'IA et la transformation Industry 5.0 : vers une valeur augmentée",
+        "title_en": "Finding value with AI and Industry 5.0 transformation",
+        "summary": "L'IA et l'Industry 5.0 redéfinissent l'intégration des technologies pour une valeur accrue.",
+        "summary_en": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shi",
+        "long_summary": "L'Industry 4.0 a mis l'accent sur l'interconnexion des technologies comme l'IA, le cloud et l'IoT. L'Industry 5.0 va plus loin en orchestrant ces outils à grande échelle pour une valeur plus nuancée.\n\nPoints clés :\n• L'IA et le Machine Learning deviennent centraux dans l'orchestration des technologies\n• Les LLMs et l'IA générative jouent un rôle clé dans l'optimisation des processus\n• Les acteurs comme OpenAI, Google et Anthropic façonnent l'avenir de l'Industry 5.0\n\nCette évolution ouvre la voie à une collaboration homme-machine plus intelligente et adaptative.",
+        "long_summary_en": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITTR_V1_EY32026Cover1200Socials.png?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "L'IA révolutionne le jeu de Go et soulève un mystère en cybersécurité",
+        "title_en": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+        "summary": "L'IA transforme la stratégie des meilleurs joueurs de Go, dix ans après AlphaGo. Un mystère en cybersécurité émerge aussi.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years",
+        "long_summary": "Dix ans après la victoire d'AlphaGo contre Lee Sedol, l'IA continue de bouleverser le jeu de Go.\n\nPoints clés :\n• Les joueurs humains adaptent leur stratégie face aux modèles d'IA\n• L'IA influence désormais la formation des champions de Go\n• Un mystère en cybersécurité lié à l'IA émerge\n\nConclusion sur les implications : L'IA ne cesse de redéfinir les limites humaines, tant dans les jeux que dans des domaines critiques comme la cybersécurité.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Pokémon : l'IA révolutionne les jeux Switch en 2027",
+        "title_en": "Pokemon Winds and Waves: First Mainline Games for the Switch 2 Are Coming in 2027",
+        "summary": "Les prochains Pokémon Switch utiliseront l'IA pour des mondes dynamiques. Une révolution pour la franchise.",
+        "summary_en": "Following the recent release of Pokemon Legends: Z-A, The Pokemon Company announced its first mainline games exclusively for the latest Nintendo console.",
+        "long_summary": "The Pokémon Company annonce ses premiers jeux exclusifs pour la Switch 2, prévus pour 2027. L'IA générative et le machine learning pourraient transformer l'expérience de jeu.\n\nPoints clés :\n• Utilisation de modèles de langage pour des dialogues plus immersifs\n• Environnements dynamiques générés par IA\n• Personnalisation des aventures via l'apprentissage automatique\n\nL'intégration de l'IA pourrait redéfinir les attentes des joueurs et influencer l'industrie du jeu vidéo.",
+        "long_summary_en": "Following the recent release of Pokemon Legends: Z-A, The Pokemon Company announced its first mainline games exclusively for the latest Nintendo console.",
+        "image": "https://www.cnet.com/a/img/resize/8f2dd9817d0c5bcb4bb4bd5454425cda9ae27642/hub/2026/02/27/ac9453b7-8e48-4895-a375-0bb1055eccfc/pokemon-presents-2-27-2026-23-41-screenshot.png?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/gaming/pokemon-wind-and-waves-revealed-for-switch-2/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Les VPN ne garantissent pas l'anonymat total : méfiez-vous des promesses trompeuses",
+        "title_en": "VPNs Can’t Make You Anonymous Online. Don’t Be Fooled by Anyone Who Says They Can",
+        "summary": "L'anonymat en ligne est une illusion, et les VPN ne suffisent pas. Les IA renforcent cette surveillance.",
+        "summary_en": "Total anonymity online is impossible, and it’s dangerous to claim otherwise.",
+        "long_summary": "Les VPN masquent votre adresse IP, mais ne protègent pas contre les traces laissées par les IA et les modèles de langage.\n\nPoints clés :\n• Les VPN ne cachent pas les données partagées avec les plateformes (Google, OpenAI, etc.)\n• Les modèles d'IA analysent les comportements pour identifier les utilisateurs\n• Les promesses d'anonymat total sont dangereuses et trompeuses\n\nConclusion sur les implications : Les utilisateurs doivent comprendre les limites des outils de confidentialité et adopter des pratiques plus rigoureuses.",
+        "long_summary_en": "Total anonymity online is impossible, and it’s dangerous to claim otherwise.",
+        "image": "https://www.cnet.com/a/img/resize/9ee05bbded6b6fd9742f17bf9a71d0767e7d8732/hub/2026/01/30/4713446c-f78a-4b5b-98b9-395135223f19/3.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/services-and-software/a-vpn-cant-make-you-anonymous-online/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Peloton lance un programme d'entraînement Hyrox avec l'IA : prêt à relever le défi ?",
+        "title_en": "Peloton Announces Hyrox Training Program, if You’re Up for the Challenge",
+        "summary": "Peloton intègre l'IA pour optimiser l'entraînement Hyrox en 12 semaines. Une révolution pour les athlètes connectés.",
+        "summary_en": "This 12-week training program is the sign you’re looking for to sign up for a Hyrox this year.",
+        "long_summary": "Peloton utilise désormais l'IA pour personnaliser les programmes d'entraînement Hyrox, combinant données biologiques et modèles prédictifs.\n\nPoints clés :\n• Optimisation des séances via l'analyse des performances en temps réel\n• Intégration des LLMs pour des conseils personnalisés\n• Collaboration avec des plateformes comme OpenAI pour améliorer l'engagement\n\nL'IA pourrait redéfinir les standards du fitness connecté, rendant l'entraînement plus accessible et efficace.",
+        "long_summary_en": "This 12-week training program is the sign you’re looking for to sign up for a Hyrox this year.",
+        "image": "https://www.cnet.com/a/img/resize/0b68e8ab2471bbefa9484bb0c2d8b2134161058a/hub/2026/02/26/36d98f5e-478f-4035-942b-1a3ff9c9b00c/peloton-hyrox-training-program-banner.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/health/fitness/peloton-hyrox-training-program-announcement/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Serveurs détruits et attaques par déni de service : les dangers des interactions entre agents IA",
+        "title_en": "Destroyed servers and DoS attacks: What can happen when OpenClaw AI agents interact",
+        "summary": "Des chercheurs ont découvert des pannes catastrophiques lors de tests d'interactions entre agents IA, une menace pour les infrastructures numériques.",
+        "summary_en": "By testing agent-to-agent interactions, researchers observed catastrophic system failures. Here's why that's bad news for everyone.",
+        "long_summary": "Des chercheurs ont testé des interactions entre agents IA et ont observé des défaillances critiques, comme des attaques par déni de service et des destructions de serveurs.\n\nPoints clés :\n• Les agents IA peuvent déclencher des attaques auto-entretenues sans supervision humaine\n• Les systèmes peuvent s'auto-détruire ou nuire à des infrastructures tierces\n• Un risque accru pour les entreprises et les infrastructures critiques\n\nCes résultats soulignent l'urgence de réguler et sécuriser les interactions entre agents IA avant leur déploiement à grande échelle.",
+        "long_summary_en": "By testing agent-to-agent interactions, researchers observed catastrophic system failures. Here's why that's bad news for everyone.",
+        "image": "https://www.zdnet.com/a/img/resize/a596b388167dfa6225da7a265375ef9a05a7522a/2026/02/26/b450fc7e-8dc6-4889-bba0-7dfaab4b0488/gettyimages-1440807427.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/how-ai-agents-create-new-disasters-when-they-interact/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Wall Street en crise à cause de la psychose de l'IA",
+        "title_en": "Wall Street Has AI Psychosis",
+        "summary": "Une expérience de pensée sur l'IA a provoqué un krach boursier. Ce scénario pourrait se répéter.",
+        "summary_en": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
+        "long_summary": "Un article évoquant les risques des IA génératives a déclenché une panique sur les marchés financiers.\n\nPoints clés :\n• Les modèles de langage comme ceux d'OpenAI ou Google influencent désormais l'économie.\n• Les investisseurs craignent une course aux armements technologiques incontrôlée.\n• Les régulateurs peinent à anticiper les impacts systémiques de l'IA.\n\nLes marchés financiers devront s'adapter à l'ère de l'IA, où les rumeurs et les scénarios fictifs peuvent avoir des conséquences réelles.",
+        "long_summary_en": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
+        "image": "https://media.wired.com/photos/69a099a68b4e433f4999c9c4/191:100/w_1280,c_limit/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Perplexity mise sur un ordinateur unifié pour dominer l'IA",
+        "title_en": "Perplexity’s new Computer is another bet that users need many AI models",
+        "summary": "Perplexity lance un ordinateur intégrant toutes ses IA, défiant OpenAI et Google.",
+        "summary_en": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\"",
+        "long_summary": "Perplexity Computer combine toutes les fonctionnalités d'IA de l'entreprise en un seul système, une approche radicale face aux modèles spécialisés.\n\nPoints clés :\n• Intégration de plusieurs modèles d'IA dans un seul appareil\n• Stratégie visant à simplifier l'accès à l'IA générative\n• Concurrence directe avec les solutions fragmentées d'OpenAI et Google\n\nCette innovation pourrait redéfinir l'adoption des LLMs en offrant une expérience plus cohérente.",
+        "long_summary_en": "Perplexity Computer, in the company’s words, \"unifies every current AI capability into a single system.\"",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
+        "date": "27 February 2026"
+      },
       {
         "title": "Cette entreprise affirme avoir révolutionné les batteries. Reste à le prouver.",
         "title_en": "This company claims a battery breakthrough. Now they need to prove it.",
@@ -85,105 +181,21 @@
         "source": "zdnet_ai",
         "url": "https://www.zdnet.com/article/linux-kernel-maintainers-new-way-of-authenticating-developers-and-code/",
         "date": "27 February 2026"
-      },
-      {
-        "title": "Le Samsung Galaxy Book6 Ultra : un concurrent sérieux au MacBook Pro avec une autonomie exceptionnelle",
-        "title_en": "Samsung Galaxy Book 6 Ultra review: A MacBook Pro alternative that truly lasts all day",
-        "summary": "Le Galaxy Book6 Ultra allie performance et autonomie, rivalisant avec les MacBook Pro grâce à son IA intégrée et son design premium.",
-        "summary_en": "Samsung's Galaxy Book6 Ultra pairs strong multi-core performance with nearly a full day's worth of battery life. It's designed well, too.",
-        "long_summary": "Samsung mise sur l'IA pour concurrencer Apple dans le segment premium des ultraportables.\n\nPoints clés :\n• Puce multi-cœurs optimisée pour le machine learning et les LLMs\n• Autonomie record grâce à des algorithmes d'optimisation énergétique\n• Intégration native d'outils IA générative (OpenAI, Google, etc.)\n\nL'IA embarquée pourrait redéfinir les standards des PC professionnels.",
-        "long_summary_en": "Samsung's Galaxy Book6 Ultra pairs strong multi-core performance with nearly a full day's worth of battery life. It's designed well, too.",
-        "image": "https://www.zdnet.com/a/img/resize/ce75075a4804b105be315e2543cdb87e45a41cec/2026/01/28/ade3c3a8-12af-42d3-84ff-3220043edc9c/galaxy-book6-ultra-image-1.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/samsung-galaxy-book6-ultra-review/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Êtes-vous assez 'agentique' pour l'ère de l'IA ?",
-        "title_en": "Are You ‘Agentic’ Enough for the AI Era?",
-        "summary": "Les agents IA prennent en charge les tâches répétitives. La compétence clé devient de savoir quoi leur demander.",
-        "summary_en": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
-        "long_summary": "Silicon Valley a développé des agents IA capables d'automatiser des tâches complexes. La valeur ajoutée humaine réside désormais dans la stratégie et la supervision.\n\nPoints clés :\n• Les modèles de langage (LLMs) comme ceux d'OpenAI ou Google réduisent le travail manuel\n• La maîtrise des agents IA devient une compétence clé en tech\n• Les entreprises investissent dans des outils pour orchestrer ces agents\n\nLes métiers évoluent vers une approche plus stratégique, où l'humain pilote l'IA plutôt que de remplacer son travail.",
-        "long_summary_en": "Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.",
-        "image": "https://media.wired.com/photos/699e27a9d54c22d6c9a6a40c/191:100/w_1280,c_limit/Model-Behavior-Are-You-Agentic-Enough-For-AI-Era-Business.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Cette IA est conçue pour ne pas devenir incontrôlable",
-        "title_en": "This AI Agent Is Designed to Not Go Rogue",
-        "summary": "Le projet open source IronCurtain sécurise les assistants IA pour éviter les dérives numériques.",
-        "summary_en": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
-        "long_summary": "Les assistants IA pourraient causer des perturbations majeures si mal contrôlés.\n\nPoints clés :\n• IronCurtain utilise une méthode unique pour contraindre les IA\n• Projet open source pour une transparence accrue\n• Solution pour éviter les comportements imprévisibles\n\nConclusion sur les implications : Cette approche pourrait redéfinir la sécurité des assistants IA.",
-        "long_summary_en": "The new open source project IronCurtain uses a unique method to secure and constrain AI assistant agents before they flip your digital life upside down.",
-        "image": "https://media.wired.com/photos/699f52078d98995524482b3a/191:100/w_1280,c_limit/IronCurtain%20copy.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ironcurtain-ai-agent-security/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Block de Jack Dorsey licencie la moitié de ses effectifs pour miser sur l'IA",
-        "title_en": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
-        "summary": "Block réduit ses effectifs de près de moitié, soit 4 000 emplois, pour se concentrer sur l'IA. Une stratégie risquée dans un secteur en pleine mutation.",
-        "summary_en": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,0",
-        "long_summary": "Block, la société de fintech derrière Square et Cash App, licencie 4 000 employés pour se recentrer sur l'IA. Une décision radicale dans un marché dominé par OpenAI, Google et Anthropic.\n\nPoints clés :\n• Réduction drastique des effectifs pour investir dans l'IA générative\n• Block mise sur les modèles de langage (LLMs) pour rester compétitif\n• Une stratégie risquée face aux géants technologiques\n\nCette restructuration reflète l'urgence pour les fintechs d'intégrer l'IA, mais son succès dépendra de sa capacité à rivaliser avec les leaders du secteur.",
-        "long_summary_en": "Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink from more than 10,000 people to less than 6,000, Dorsey says in a post on X. And the reason why? AI. \"We're not making […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-1233275044.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Microsoft Copilot Tasks : l'IA qui s'occupe des tâches fastidieuses à votre place",
-        "title_en": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
-        "summary": "Microsoft lance Copilot Tasks, une IA cloud qui automatise les tâches répétitives depuis son propre navigateur et ordinateur virtuel.",
-        "summary_en": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off y",
-        "long_summary": "Microsoft dévoile Copilot Tasks, une IA conçue pour gérer les tâches administratives en arrière-plan, sans surcharger vos appareils.\n\nPoints clés :\n• Fonctionne via un navigateur et un ordinateur virtuel cloud\n• Automatise la planification, les recherches et autres tâches répétitives\n• Intègre les modèles de langage avancés pour une exécution intelligente\n\nCette innovation marque une avancée dans l'automatisation des tâches quotidiennes, réduisant la charge cognitive des utilisateurs.",
-        "long_summary_en": "Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature takes the load off your device using its own cloud-based computer and browser, allowing it to handle a variety of jobs ranging from scheduling […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25357668/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Sophia Space lève 10M$ pour révolutionner les centres de données spatiaux",
-        "title_en": "Sophia Space raises $10M seed to demo novel space computers",
-        "summary": "Des ordinateurs modulaires pour des centres de données spatiaux innovants. Une avancée majeure pour l'IA en orbite.",
-        "summary_en": "The company's modular computer tiles offer a new vision for space data centers.",
-        "long_summary": "Sophia Space développe des tuiles informatiques modulaires pour des centres de données spatiaux. Cette technologie pourrait transformer le traitement des données en orbite.\n\nPoints clés :\n• Des ordinateurs modulaires conçus pour l'espace\n• Une levée de fonds de 10M$ pour accélérer les démonstrations\n• Potentiel pour des applications en IA, machine learning et traitement de données en temps réel\n\nCette innovation pourrait ouvrir la voie à des centres de données plus performants et durables dans l'espace, renforçant les capacités des modèles d'IA comme les LLMs.",
-        "long_summary_en": "The company's modular computer tiles offer a new vision for space data centers.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Sophia-TCS40.jpeg?resize=1200,676",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Meta et Prada s'associent-ils pour des lunettes connectées IA ?",
-        "title_en": "So, we’re getting Prada Meta AI glasses, right?",
-        "summary": "Mark Zuckerberg a assisté à la Fashion Week de Prada, alimentant les rumeurs sur des lunettes Meta sous la marque Prada.",
-        "summary_en": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
-        "long_summary": "Mark Zuckerberg a fait une apparition surprise à la Fashion Week de Prada à Milan, laissant penser à une collaboration potentielle avec Meta pour des lunettes connectées intégrant l'IA.\n\nPoints clés :\n• Meta explore des partenariats avec des marques de luxe pour ses projets d'IA générative\n• Les lunettes connectées pourraient intégrer des modèles de langage comme ceux d'OpenAI ou Google\n• Cette collaboration renforcerait la présence de Meta dans le secteur de la mode et de la technologie portable\n\nCette alliance pourrait marquer un tournant dans l'adoption grand public des assistants IA embarqués, rivalisant avec les projets d'Anthropic et d'autres acteurs majeurs.",
-        "long_summary_en": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "L'IA et la course aux extraterrestres : comment l'Amérique a perdu son avance",
-        "title_en": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
-        "summary": "L'IA révolutionne la recherche extraterrestre, mais la Chine rattrape son retard. Les modèles de langage analysent les données martiennes.",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China ",
-        "long_summary": "Les modèles d'IA analysent les données de Perseverance sur Mars, révélant des indices potentiels de vie extraterrestre. La Chine accélère ses recherches grâce à l'IA.\n\nPoints clés :\n• Les LLMs décryptent les images martiennes pour identifier des structures biologiques\n• La Chine investit massivement dans l'IA pour la recherche spatiale\n• Les modèles génératifs pourraient simuler des scénarios de vie extraterrestre\n\nL'IA devient un outil clé dans la course à la découverte de vie hors de la Terre, redéfinissant la compétition spatiale.",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars covered in strange spots. On Earth,…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260225_xinmei_TR_RacetoMars_image1intro_final.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
-        "date": "26 February 2026"
       }
     ],
     "image": [
+      {
+        "title": "Le Galaxy S26, un cauchemar photographique ?",
+        "title_en": "The Galaxy S26 is a photography nightmare",
+        "summary": "Le Galaxy S26 mise sur l'IA, mais ses performances photo déçoivent. Samsung doit innover pour rivaliser avec Apple et Google.",
+        "summary_en": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bi",
+        "long_summary": "Samsung mise sur l'IA pour ses nouveaux smartphones, mais les résultats photo restent décevants.\n\nPoints clés :\n• L'IA et le machine learning peinent à rivaliser avec les modèles d'Apple et Google\n• Le Privacy Display de l'Ultra est une avancée, mais pas suffisante\n• Les améliorations annuelles ne suffisent plus face à la concurrence\n\nL'IA générative et les LLMs pourraient transformer la photographie mobile, mais Samsung doit accélérer ses innovations.",
+        "long_summary_en": "In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like an extremely cool bit of tech and a really useful new feature - and a lot of iterative year-over-year changes. The new camera features, […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_0227_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
+        "date": "27 February 2026"
+      },
       {
         "title": "En 2026, les plateformes multi-modèles remplacent les outils uniques en génération d'images IA",
         "title_en": "AI Image Generation in 2026: Why Multi-Model Platforms Are Replacing Single-Tool Workflows | The AI Journal",
@@ -351,21 +363,33 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/880223/wordpress-launches-ai-assistant",
         "date": "18 February 2026"
-      },
-      {
-        "title": "Vous utilisez mal le port HDMI de votre TV : 8 astuces pour optimiser image et son",
-        "title_en": "You're using your TV's HDMI port wrong: 8 tips to get the best image and audio quality",
-        "summary": "Découvrez comment l'IA optimise les connexions HDMI pour une expérience TV ultra-performante.",
-        "summary_en": "Take my advice on HDMI ports to unlock better TV performance in just seconds.",
-        "long_summary": "Les modèles d'IA comme ceux d'OpenAI ou Google analysent les signaux HDMI pour améliorer la qualité d'image et de son.\n\nPoints clés :\n• L'IA détecte les perturbations des signaux HDMI en temps réel\n• Les LLMs optimisent les paramètres audio et vidéo automatiquement\n• Les câbles HDMI intelligents utilisent le machine learning pour réduire les interférences\n\nLes avancées en IA générative transforment l'expérience utilisateur en simplifiant les réglages techniques complexes.",
-        "long_summary_en": "Take my advice on HDMI ports to unlock better TV performance in just seconds.",
-        "image": "https://www.zdnet.com/a/img/resize/a007e445d77cfdc352b30d2281eaf7f4b68b5b18/2026/01/07/bae4d1cb-1e03-4863-8308-e793eee1e702/dsc09226.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/best-hdmi-tv-tricks-improve-performance/",
-        "date": "17 February 2026"
       }
     ],
     "video": [
+      {
+        "title": "Les 21 meilleurs générateurs de vidéos IA pour 2026 (Testés et évalués)",
+        "title_en": "21 Best AI Video Generators for 2026 (Tested & Reviewed)",
+        "summary": "Découvrez les outils IA les plus performants pour créer des vidéos en 2026, avec des tests et avis détaillés.",
+        "summary_en": "Discover the 20 best AI video generator apps and online tools for 2026. Read our hands-on reviews of YouCam Video, Google Veo, OpenAI Sora, Runway, and more to create stunning videos from text and ima",
+        "long_summary": "Les générateurs de vidéos IA révolutionnent la création de contenu visuel, combinant modèles de langage et apprentissage automatique.\n\nPoints clés :\n• Intégration avancée des LLMs et des modèles multimodaux\n• Performances accrues grâce aux progrès en machine learning\n• Impact sur les industries du divertissement et du marketing\n\nConclusion sur les implications : Ces outils redéfinissent la production vidéo, offrant des possibilités créatives sans précédent.",
+        "long_summary_en": "21 Best AI Video Generators for 2026 (Tested & Reviewed) You need to enable JavaScript to run this app.",
+        "image": "https://plugins-media.makeupar.com/smb/blog/post/2025-06-05/webp_048f05b7-269e-414a-a21d-8806c2b3471b.jpg",
+        "source": "Perfectcorp",
+        "url": "https://www.perfectcorp.com/consumer/blog/video-editing/best-ai-video-generators",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Kie : la plateforme d'agrégation d'API IA pour réduire les coûts",
+        "title_en": "Kie AI API Aggregation Platform - AI Founder Kit",
+        "summary": "Kie propose une solution économique pour accéder à des modèles IA haut de gamme comme Sora 2 et Veo 3, mais avec des délais imprévisibles.",
+        "summary_en": "Our testing regimen focused on three workflows our community asks about most: batch-generating product videos with Veo 3, creating avatar clips with Kling 2.6 Motion Control, and automating image gene",
+        "long_summary": "Kie est une plateforme qui agrège des API d'IA générative pour simplifier l'accès à des modèles comme ceux d'OpenAI et Google.\n\nPoints clés :\n• Réduction de 60-70% des coûts par rapport aux fournisseurs directs\n• Latence variable pouvant atteindre 10 minutes pour des clips courts\n• Solution idéale pour les développeurs en phase de démarrage\n\nCette approche démocratise l'accès à l'IA générative, mais limite son usage pour des workflows critiques.",
+        "long_summary_en": "Skip to content Kie Cheap multi-model AI video and image APIs Kie AI API Aggregation Platform 🚀 Quick Verdict We give Kie a 7.8 out of 10 . If your priority is cutting AI API costs and you can tolerate unpredictable wait times, this is the cheapest way to access Sora 2 and Veo 3. But for production workflows requiring sub-minute latency, we had to look elsewhere. Metric Details Overall Score 7.8/10 Best For Bootstrapped developers and no-code builders prioritizing cost over speed Tested Plan Pro (Pay-as-you-go, $20 credit purchase) Testing Period 14 days Biggest Strength 60-70% cheaper than Fa",
+        "image": "https://cdn.brandfetch.io/kie.ai/w/400/h/400?c=1id_iMcrLip-I7QBbf_",
+        "source": "Aifounderkit",
+        "url": "https://aifounderkit.com/ai-tools/kie-ai-api-aggregation/",
+        "date": "27 February 2026"
+      },
       {
         "title": "Adobe Firefly redéfinit la vidéo générative par l'IA",
         "title_en": "Putting ideas in motion: Redefining AI video with Adobe Firefly",
@@ -521,33 +545,69 @@
         "source": "mit_tech",
         "url": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
         "date": "25 February 2026"
-      },
-      {
-        "title": "Un YouTuber attaque Runway AI dans un procès historique sur l'entraînement des IA",
-        "title_en": "YouTuber sues Runway AI in latest copyright class action over AI training - The Hindu",
-        "summary": "Un créateur de contenu poursuit Runway AI pour utilisation non autorisée de ses vidéos dans l'entraînement des modèles d'IA générative.",
-        "summary_en": "<strong>Runway AI has been hit with a ​proposed class action lawsuit in California federal court for ‌allegedly misusing YouTube content to train its video ​generation platform</strong>",
-        "long_summary": "Un YouTuber américain a déposé une plainte contre Runway AI, accusant la société d'avoir utilisé ses vidéos sans autorisation pour entraîner ses modèles d'IA générative.\n\nPoints clés :\n• Première action en justice collective contre un fournisseur d'IA générative\n• Question centrale : l'utilisation de données protégées par le droit d'auteur pour l'entraînement des IA\n• Risque de précèdent juridique pour l'industrie de l'IA\n\nCette affaire pourrait redéfinir les règles d'utilisation des données dans l'entraînement des modèles d'IA, avec des implications majeures pour les géants comme OpenAI, Google et Anthropic.",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "http://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd5nkHCKuUQBQmDEWo0V8s38jOoIkt5MFqi0OBj_tyNhBdUxbCnzBywKkIvfbrBuQWZOR3fLxNvJuZ3Sc8giFuo_mC-VW_2CwamOF0vfkJRRxOFPMM5OdiIHu6B_i_sCEcTPIo1BBLcdbKuZMV__vJcTGsJ8_OekGHjYYKjQYWMduU_tk/s1600/BookCover_091824.jpg",
-        "source": "Thehindu",
-        "url": "https://www.thehindu.com/sci-tech/technology/youtuber-sues-runway-ai-in-latest-copyright-class-action-over-ai-training/article70673932.ece",
-        "date": "25 February 2026"
-      },
-      {
-        "title": "Un YouTuber attaque Runway AI dans un nouveau procès collectif sur l'entraînement des IA",
-        "title_en": "YouTuber sues Runway AI in latest copyright class action over AI training — TradingView News",
-        "summary": "Un créateur de contenu poursuit Runway AI pour utilisation illégale de ses vidéos dans l'entraînement des modèles d'IA générative.",
-        "summary_en": "By Blake Brittain Artificial intelligence video startup <strong>Runway AI has been hit with a proposed class action lawsuit in California federal court for allegedly misusing YouTube content to train ",
-        "long_summary": "Un YouTuber américain a déposé une plainte collective contre Runway AI, accusant la société d'avoir utilisé ses vidéos sans autorisation pour entraîner ses modèles d'IA générative.\n\nPoints clés :\n• La plainte s'inscrit dans une série de litiges récents sur l'utilisation de données protégées par le droit d'auteur pour l'entraînement des IA\n• Runway AI est accusée d'avoir violé les droits d'auteur en exploitant des contenus YouTube sans consentement\n• Ce procès pourrait influencer les régulations futures sur l'utilisation des données dans l'entraînement des modèles d'IA\n\nCe procès souligne les tensions croissantes entre créateurs de contenu et entreprises d'IA sur la propriété intellectuelle et l'éthique des données.",
-        "long_summary_en": "YouTuber sues Runway AI in latest copyright class action over AI training Refinitiv 1 min read GOOG ESG and regulation Japanese stocks Reuters US stocks © Copyright Thomson Reuters 2026. Click For Restrictions - https://agency.reuters.com/en/copyright.html Show more Login or create a forever free account to read this news Let's go More news from Reuters",
-        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-        "source": "Tradingview",
-        "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L6N3ZK172:0-youtuber-sues-runway-ai-in-latest-copyright-class-action-over-ai-training/",
-        "date": "25 February 2026"
       }
     ],
     "llm": [
+      {
+        "title": "OpenAI lève 110 milliards de dollars avec Amazon, Nvidia et SoftBank",
+        "title_en": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
+        "summary": "OpenAI annonce une levée de fonds record de 110 milliards de dollars avec des géants comme Amazon, Nvidia et SoftBank.",
+        "summary_en": "OpenAI has closed another round of funding, totalling $110 billion being newly committed to the maker of ChatGPT, which it says has more than 900 million weekly active users and over 50 million consum",
+        "long_summary": "OpenAI, créateur de ChatGPT, a bouclé une nouvelle levée de fonds colossale de 110 milliards de dollars, avec des investisseurs majeurs comme Amazon, Nvidia et SoftBank.\n\nPoints clés :\n• Amazon investit 50 milliards de dollars et prévoit des modèles personnalisés.\n• OpenAI revendique plus de 900 millions d'utilisateurs actifs hebdomadaires et 50 millions d'abonnés.\n• Cette levée pourrait accélérer la course aux LLMs et aux modèles d'IA générative.\n\nCette injection de capitaux renforce la position d'OpenAI face à des concurrents comme Google et Anthropic, tout en consolidant son leadership dans l'IA.",
+        "long_summary_en": "OpenAI has closed another round of funding, totalling $110 billion being newly committed to the maker of ChatGPT, which it says has more than 900 million weekly active users and over 50 million consumer subscribers. Amazon is investing $50 billion and striking a deal that includes plans for custom models and more. Nvidia and SoftBank […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "L'armée américaine exige un accès total aux IA d'Anthropic",
+        "title_en": "We don&#8217;t have to have unsupervised killer robots",
+        "summary": "Le Pentagone menace Anthropic de sanctions si elle refuse de livrer ses technologies pour des armes autonomes et la surveillance de masse.",
+        "summary_en": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potent",
+        "long_summary": "Le Pentagone exige d'Anthropic un accès illimité à ses modèles d'IA, y compris pour des armes létales autonomes et la surveillance, sous peine de sanctions économiques.\n\nPoints clés :\n• Le Pentagone impose un ultimatum à Anthropic pour un accès sans restriction à ses technologies.\n• Refus potentiel de contrats militaires d'une valeur de centaines de milliards de dollars.\n• Les travailleurs de la tech s'inquiètent des dérives éthiques et militaires de l'IA générative.\n\nLes tensions entre l'industrie tech et les militaires soulèvent des questions cruciales sur le contrôle des IA avancées.",
+        "long_summary_en": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+        "title_en": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
+        "summary": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would requ",
+        "summary_en": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would requ",
+        "long_summary": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully […]",
+        "long_summary_en": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2258899592.jpg?quality=90&strip=all&crop=0%2C10.651104903874%2C100%2C78.697790192253&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "OpenAI lève 110 milliards de dollars dans l'une des plus grosses levées de fonds privées de l'histoire",
+        "title_en": "OpenAI raises $110B in one of the largest private funding rounds in history",
+        "summary": "OpenAI sécurise 110 milliards de dollars avec Amazon, Nvidia et SoftBank, valorisant l'entreprise à 730 milliards.",
+        "summary_en": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+        "long_summary": "OpenAI vient de finaliser une levée de fonds historique avec des géants technologiques, marquant un tournant dans la course à l'IA.\n\nPoints clés :\n• Amazon investit 50 milliards de dollars, Nvidia et SoftBank 30 milliards chacun\n• La valorisation atteint 730 milliards, un record pour une startup privée\n• Ces fonds accéléreront le développement des modèles de langage et de l'IA générative\n\nCette levée positionne OpenAI comme un acteur incontournable face à Google et Anthropic, redéfinissant l'écosystème de l'IA.",
+        "long_summary_en": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2197366846.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Des employés de Google et OpenAI soutiennent la position d'Anthropic face au Pentagone",
+        "title_en": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
+        "summary": "Des employés d'OpenAI et Google soutiennent Anthropic dans son refus d'utiliser l'IA pour la surveillance de masse ou les armes autonomes.",
+        "summary_en": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+        "long_summary": "Anthropic, partenaire du Pentagone, refuse que ses technologies soient utilisées pour la surveillance domestique ou les armes autonomes.\n\nPoints clés :\n• Des employés d'OpenAI et Google soutiennent cette position dans une lettre ouverte\n• Anthropic maintient une éthique stricte malgré son partenariat militaire\n• Le débat sur l'usage éthique de l'IA s'intensifie dans le secteur\n\nCette prise de position souligne les tensions croissantes entre innovation technologique et responsabilités éthiques.",
+        "long_summary_en": "While Anthropic has an existing partnership with the Pentagon, the AI company has remained firm that its technology not be used for mass domestic surveillance or fully autonomous weaponry.",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/09/53202070940_ea57312b1a_k.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
+        "date": "27 February 2026"
+      },
       {
         "title": "Pentagone vs Anthropic : l'IA Claude au cœur d'un conflit militaire",
         "title_en": "Pentagon Presses Anthropic Guardrails, Gemini’s Agentic Debut, Viture Raises $100 Million",
@@ -667,69 +727,45 @@
         "source": "Wired",
         "url": "https://www.wired.com/story/uncanny-valley-podcast-pentagon-anthropic-agentic-mimetic-trump-state-of-the-union/",
         "date": "27 February 2026"
-      },
-      {
-        "title": "Anthropic refuse les conditions du Pentagone sur les armes autonomes et la surveillance de masse",
-        "title_en": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
-        "summary": "Anthropic refuse l’accès illimité à son IA, malgré l’ultimatum du Pentagone. Un bras de fer éthique et technologique.",
-        "summary_en": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dr",
-        "long_summary": "Anthropic a rejeté les exigences du Pentagone pour un accès sans restriction à ses modèles d’IA, malgré un ultimatum. Ce refus marque un tournant dans les tensions entre l’industrie tech et les enjeux militaires.\n\nPoints clés :\n• Refus de coopérer avec le Pentagone sur les armes autonomes et la surveillance de masse\n• Négociations tendues et déclarations publiques avant l’échéance\n• Position ferme d’Anthropic sur l’éthique de l’IA\n\nConclusion sur les implications : Ce refus pourrait influencer les régulations futures sur l’IA militaire et les collaborations entre startups et gouvernements.",
-        "long_summary_en": "Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the culmination of a dramatic exchange of public statements, social media posts, and behind-the-scenes negotiations, coming down to Defense Secretary Pete Hegseth's desire to renegotiate all […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Mistral AI s'allie à Accenture, renforçant sa position face à OpenAI et Anthropic",
-        "title_en": "Mistral AI inks a deal with global consulting giant Accenture",
-        "summary": "Mistral AI signe un accord avec Accenture, déjà partenaire d'OpenAI et d'Anthropic, consolidant son écosystème IA.",
-        "summary_en": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
-        "long_summary": "Mistral AI annonce un partenariat stratégique avec Accenture, rejoignant ainsi les rangs des géants de l'IA comme OpenAI et Anthropic.\n\nPoints clés :\n• Accenture renforce son offre IA en intégrant Mistral, spécialiste des LLMs et de l'IA générative\n• Ce partenariat positionne Mistral comme un acteur clé face à OpenAI et Anthropic\n• L'alliance pourrait accélérer l'adoption des modèles de langage en entreprise\n\nL'accord marque une étape cruciale dans la course à l'IA, avec Accenture jouant un rôle central dans la démocratisation des technologies avancées.",
-        "long_summary_en": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147859992-e1713960898378.jpg?resize=1200,676",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Anthropic refuse l'accès militaire à ses IA : le Pentagone sous pression",
-        "title_en": "Anthropic CEO stands firm as Pentagon deadline looms",
-        "summary": "Le PDG d'Anthropic rejette les demandes du Pentagone pour un accès illimité à ses modèles d'IA.",
-        "summary_en": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
-        "long_summary": "Le PDG d'Anthropic, Dario Amodei, a déclaré qu'il ne pouvait pas, en conscience, accéder aux demandes du Pentagone.\n\nPoints clés :\n• Refus d'Anthropic de donner un accès militaire illimité à ses modèles d'IA\n• Tensions croissantes entre l'industrie de l'IA et les agences gouvernementales\n• Impact potentiel sur la régulation et l'éthique des modèles de langage\n\nConclusion sur les implications : Ce refus pourrait accélérer le débat sur l'utilisation militaire des IA génératives et renforcer les divisions entre les géants technologiques et les institutions gouvernementales.",
-        "long_summary_en": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Février 2026 : Les nouveaux modèles d'IA qui révolutionnent le secteur",
-        "title_en": "AI Updates Today (February 2026) – Latest AI Model Releases",
-        "summary": "Découvrez les dernières avancées en matière de modèles de langage avec des performances record en GPQA.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Février 2026 marque une accélération des innovations en IA avec des modèles dépassant les 100 milliards de paramètres.\n\nPoints clés :\n• GPT-5 High et Claude 3.5 Sonnet atteignent un GPQA de 0.9\n• Gemini 3 Pro et Qwen3 235B A22B se distinguent avec des scores élevés\n• Multiples versions optimisées pour la rapidité et l'efficacité\n\nCes avancées confirment la course aux performances des LLMs, avec des implications majeures pour les applications génératives.",
-        "long_summary_en": "AI Updates Today (February 2026) – Latest AI Model Releases GPT OSS 120B High · GPQA 0.8 GLM-4.7 · GPQA 0.9 GPT OSS 20B · GPQA 0.7 Gemini 2.5 Pro · GPQA 0.8 Gemini 2.0 Flash Thinking · GPQA 0.7 Claude Sonnet 4.6 · GPQA 0.9 Gemini 1.5 Flash 8B · GPQA 0.4 Claude 3.5 Sonnet · GPQA 0.6 DeepSeek-R1-0528 · GPQA 0.8 Grok-3 · GPQA 0.8 Phi-3.5-MoE-instruct · GPQA 0.4 Claude Sonnet 4 · GPQA 0.8 LongCat-Flash-Lite · GPQA 0.7 Phi 4 · GPQA 0.6 MiniMax M2 · GPQA 0.8 Qwen3 235B A22B · GPQA 0.5 Gemini 2.0 Flash-Lite · GPQA 0.5 Gemini 3 Pro · GPQA 0.9 GPT-5 High · GPQA 0.9 Claude 3.5 Sonnet · GPQA 0.7 GPT OSS ",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "26 February 2026"
-      },
-      {
-        "title": "L'IA devient-elle le nouveau partenaire BDSM ?",
-        "title_en": "Who’s Your Daddy? A Chatbot",
-        "summary": "L'IA séduit les amateurs de BDSM, mais certains y voient une fuite face à la réalité.",
-        "summary_en": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
-        "long_summary": "L’intelligence artificielle s’invite dans les fantasmes BDSM, divisant la communauté.\n\nPoints clés :\n• Les modèles de langage comme ceux d’OpenAI ou Google séduisent par leur disponibilité et discrétion\n• Certains y voient une alternative aux relations humaines, d’autres un manque d’authenticité\n• Les plateformes génératives pourraient normaliser des pratiques controversées\n\nL’IA pourrait transformer les dynamiques intimes, mais soulève des questions éthiques et sociales.",
-        "long_summary_en": "More people are turning to AI to explore their BDSM fantasies, but some in the community feel it’s a cop-out.",
-        "image": "https://media.wired.com/photos/699f4ee997fb9fb360b2f5ae/191:100/w_1280,c_limit/culture_ai_dom_chatbot.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/whos-your-daddy-a-chatbot/",
-        "date": "26 February 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Un nouveau collectible Game Boy mini ne joue que de la musique Pokémon ? Quelle provocation !",
+        "title_en": "A New Mini Game Boy Collectible That Just Plays Pokemon Music? What a Tease",
+        "summary": "Un nouveau collectible Game Boy mini joue uniquement de la musique Pokémon via des cartouches interchangeables. Les fans réclament un vrai Game Boy.",
+        "summary_en": "A surprise collectible on Pokemon Day looks just like a tiny Game Boy and plays music on swappable cartridges. Give us the real Game Boy again, come on.",
+        "long_summary": "À l'occasion du Pokémon Day, un nouveau collectible en forme de Game Boy mini a été révélé, capable de jouer de la musique via des cartouches interchangeables.\n\nPoints clés :\n• Design nostalgique rappelant la Game Boy originale\n• Fonctionnalité limitée à la lecture de musique\n• Réactions mitigées des fans, certains réclamant un vrai Game Boy\n\nConclusion sur les implications : Ce collectible montre l'intérêt pour la nostalgie technologique, mais aussi les attentes des fans pour des expériences plus complètes.",
+        "long_summary_en": "A surprise collectible on Pokemon Day looks just like a tiny Game Boy and plays music on swappable cartridges. Give us the real Game Boy again, come on.",
+        "image": "https://www.cnet.com/a/img/resize/532cd0dacc2a71b502ed761a5118f0e6cb1a0885/hub/2026/02/27/c5a0703d-e862-47f9-b04d-53cf3e121885/pokemon-presents-2-27-2026-3-57-screenshot.png?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/gaming/a-new-mini-game-boy-collectible-that-just-plays-pokemon-music-what-a-tease/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Huxe : votre assistant vocal personnalisé pour gérer vos emails et réunions",
+        "title_en": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
+        "summary": "Huxe analyse vos emails et calendriers pour vous offrir un résumé audio quotidien. Gain de temps, mais attention à la confidentialité.",
+        "summary_en": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
+        "long_summary": "Huxe est une application qui utilise l'IA pour synthétiser vos emails et réunions en un résumé audio personnalisé.\n\nPoints clés :\n• L'IA analyse vos données pour générer un résumé vocal quotidien\n• Gain de temps en évitant de scroller manuellement\n• Risques de confidentialité liés à l'accès aux données personnelles\n\nCette innovation montre l'évolution des assistants vocaux, mais soulève des questions sur la protection des données.",
+        "long_summary_en": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
+        "image": "https://media.wired.com/photos/69a150e9d3084ff8755b5f8e/191:100/w_1280,c_limit/Audio-Summary-Powered-by-AI-Gear-2204531017.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
+        "date": "27 February 2026"
+      },
+      {
+        "title": "Suno, l'IA musicale, atteint 2 millions d'abonnés payants et 300 millions de revenus annuels",
+        "title_en": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+        "summary": "Suno révolutionne la création musicale avec l'IA, atteignant 2M abonnés payants et 300M$ de revenus annuels.",
+        "summary_en": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
+        "long_summary": "Suno permet à quiconque de composer de la musique via des prompts en langage naturel, démocratisant la création audio.\n\nPoints clés :\n• 2 millions d'abonnés payants en seulement quelques mois\n• 300 millions de dollars de revenus annuels récurrents\n• Concurrence accrue avec des géants comme OpenAI et Google\n\nCette croissance fulgurante montre l'essor des outils IA générative dans la création artistique.",
+        "long_summary_en": "Suno lets users create music using natural language prompts, making it possible for people with little experience to generate audio with little effort.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2159558534.jpg?resize=1200,837",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+        "date": "27 February 2026"
+      },
       {
         "title": "Les écouteurs Fender défient les Sony WH-1000XM6 grâce à l'IA",
         "title_en": "These Fender headphones rivaled my Sony WH-1000XM6 in ways I wasn't expecting",
@@ -873,59 +909,23 @@
         "source": "cnet_ai",
         "url": "https://www.cnet.com/tech/services-and-software/apple-adding-support-for-conversational-ai-in-carplay-this-march/",
         "date": "19 February 2026"
-      },
-      {
-        "title": "Ces enceintes de bureau élégantes offrent un son aussi bon qu'elles sont belles (et le prix est abordable)",
-        "title_en": "These slick desktop speakers sound as good as they look (and the price is right)",
-        "summary": "Les enceintes Edifier QR65 combinent design élégant et audio immersif, le tout à un prix abordable. Une prouesse technologique accessible.",
-        "summary_en": "The Edifier QR65 desktop speakers have some surprisingly immersive audio - made better by their approachable price point.",
-        "long_summary": "Les enceintes Edifier QR65 se distinguent par leur design élégant et leur son immersif, rendu possible par des algorithmes d'IA avancés.\n\nPoints clés :\n• Utilisation de modèles de traitement audio basés sur le machine learning pour optimiser la qualité sonore\n• Prix abordable malgré des performances comparables aux enceintes haut de gamme\n• Intégration discrète de technologies d'IA générative pour une expérience audio personnalisée\n\nCes enceintes montrent comment l'IA peut démocratiser l'accès à des technologies audio avancées, tout en restant accessibles au grand public.",
-        "long_summary_en": "The Edifier QR65 desktop speakers have some surprisingly immersive audio - made better by their approachable price point.",
-        "image": "https://www.zdnet.com/a/img/resize/899aac089ced9a21d33af20f9a6e5b19e1572eaf/2024/04/16/a5bc2365-3253-4257-ad44-4a5520155ca5/qr651.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/edifier-qr65-desktop-speakers-review/",
-        "date": "18 February 2026"
-      },
-      {
-        "title": "Ce haut-parleur solaire Bluetooth révolutionne les fêtes en extérieur grâce à l'IA",
-        "title_en": "This solar Bluetooth speaker solved my biggest issue with backyard entertaining",
-        "summary": "Un haut-parleur solaire avec batterie 'infinie' et son puissant, optimisé par l'IA pour les événements en extérieur.",
-        "summary_en": "With 'infinite' battery life and booming audio, the Lodge Solar Speaker 4 Series 2 is my new favorite party guest.",
-        "long_summary": "Les enceintes connectées intègrent désormais des algorithmes d'IA pour optimiser l'expérience utilisateur.\n\nPoints clés :\n• Utilisation de modèles de langage pour personnaliser les réglages audio\n• Apprentissage automatique pour adapter le volume et les basses en fonction de l'environnement\n• Intégration avec des assistants vocaux via des LLMs comme ceux d'OpenAI ou Google\n\nL'IA permet aux enceintes de devenir des assistants intelligents pour les événements, anticipant les besoins des utilisateurs.",
-        "long_summary_en": "With 'infinite' battery life and booming audio, the Lodge Solar Speaker 4 Series 2 is my new favorite party guest.",
-        "image": "https://www.zdnet.com/a/img/resize/10ced4f0ea3a752c152a99cee49152ec81408763/2024/01/20/0248158d-d124-45ff-bf8c-7a3e72a45b6e/lodge-solar-speaker-series-25.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/lodge-solar-bluetooth-speaker-4-series-2-review/",
-        "date": "18 February 2026"
-      },
-      {
-        "title": "L'IA révolutionne la collaboration à distance",
-        "title_en": "Tuning into the future of collaboration",
-        "summary": "L'IA transforme la communication professionnelle en temps réel, optimisant les échanges hybrides.",
-        "summary_en": "When work went remote, the sound of business changed. What began as a scramble to make home offices functional has evolved into a revolution in how people hear and are heard. From education to enterpr",
-        "long_summary": "La transition vers le télétravail a bouleversé les normes de communication. L'IA, via des modèles de langage et l'apprentissage automatique, redéfinit l'interaction professionnelle.\n\nPoints clés :\n• Les LLMs améliorent la transcription et la traduction en temps réel\n• Les outils d'IA générative facilitent la collaboration asynchrone\n• OpenAI, Google et Anthropic développent des solutions pour les entreprises\n\nL'IA devient un pilier des échanges hybrides, boostant productivité et accessibilité.",
-        "long_summary_en": "When work went remote, the sound of business changed. What began as a scramble to make home offices functional has evolved into a revolution in how people hear and are heard. From education to enterprises, companies across industries have reimagined what clear, reliable communication can mean in a hybrid world. For major audio and communications…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/Sam-Sabet-Brendan-Ittelson.png?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/",
-        "date": "17 February 2026"
       }
     ]
   },
   "hotNews": [
-    {
-      "title": "Pentagone vs Anthropic : l'IA Claude au cœur d'un conflit militaire",
-      "title_en": "Pentagon Presses Anthropic Guardrails, Gemini’s Agentic Debut, Viture Raises $100 Million",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/charliefink/2026/02/27/pentagon-presses-anthropic-guardrails-geminis-agentic-debut-viture-raises-100-million/",
-      "date": "27 February 2026"
-    },
     {
       "title": "Prix de l'IA en 2026 : Google Gemini vs. OpenAI GPT - Analyse comparative",
       "title_en": "AI Image Pricing 2026: Google Gemini vs. OpenAI GPT Cost Analysis | IntuitionLabs",
       "source": "Intuitionlabs",
       "url": "https://intuitionlabs.ai/articles/ai-image-generation-pricing-google-openai",
       "date": "26 February 2026"
+    },
+    {
+      "title": "Pentagone vs Anthropic : l'IA Claude au cœur d'un conflit militaire",
+      "title_en": "Pentagon Presses Anthropic Guardrails, Gemini’s Agentic Debut, Viture Raises $100 Million",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/charliefink/2026/02/27/pentagon-presses-anthropic-guardrails-geminis-agentic-debut-viture-raises-100-million/",
+      "date": "27 February 2026"
     },
     {
       "title": "Google lance Gemini 3.1 Pro : exécution de tâches complexes et nouvelle fonctionnalité photoshoot pour Pomelli",
