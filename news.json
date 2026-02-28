@@ -1,7 +1,67 @@
 {
-  "lastUpdate": "28 February 2026 - 12:32",
+  "lastUpdate": "28 February 2026 - 18:31",
   "categories": {
     "general": [
+      {
+        "title": "Toto invente un WC qui nettoie tout seul son rebord",
+        "title_en": "Toto Invented a Toilet That Washes Its Own Rim",
+        "summary": "Une IA révolutionne l'hygiène domestique avec un WC autonome. Plus besoin de frotter !",
+        "summary_en": "The thought of never having to clean the inside of our toilets again makes us want to cry happy tears.",
+        "long_summary": "L'innovation de Toto utilise des capteurs et des algorithmes d'IA pour détecter et éliminer les saletés.\n\nPoints clés :\n• Nettoyage automatique grâce à l'IA et des jets d'eau intelligents\n• Réduction des bactéries grâce à une technologie de pointe\n• Impact potentiel sur les normes d'hygiène domestique\n\nCette invention pourrait transformer les routines ménagères et inspirer d'autres applications IA dans les foyers.",
+        "long_summary_en": "The thought of never having to clean the inside of our toilets again makes us want to cry happy tears.",
+        "image": "https://www.cnet.com/a/img/resize/791f41fac71de8555067be97b31926c17216b274/hub/2026/02/17/9714ffd0-cb3b-4a15-9c26-89b1c815cb73/tota-aurora-washlet-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/news/toto-aurora-washlet-toilet-kbis/",
+        "date": "28 February 2026"
+      },
+      {
+        "title": "J'ai testé les premières lunettes HDR10 XR : une expérience Batman grâce à l'IA",
+        "title_en": "I wore the world's first HDR10 XR glasses, and they turned me into Batman (literally)",
+        "summary": "Des lunettes XR révolutionnaires combinent HDR10 et IA pour une immersion sans précédent. Une prouesse technologique à prix abordable.",
+        "summary_en": "XR glasses are a must have for on the go entertainment and gaming and the new RayNeo Air 4 Pro provides a compelling experience at a low price.",
+        "long_summary": "Les RayNeo Air 4 Pro repoussent les limites du divertissement mobile grâce à l'IA générative et au machine learning.\n\nPoints clés :\n• Intégration de modèles de langage pour une personnalisation en temps réel\n• Optimisation des performances via des algorithmes d'apprentissage automatique\n• Collaboration avec des géants comme OpenAI et Google pour l'amélioration continue\n\nCes avancées ouvrent la voie à des expériences XR encore plus immersives, où l'IA joue un rôle central dans la création de contenus dynamiques et adaptatifs.",
+        "long_summary_en": "XR glasses are a must have for on the go entertainment and gaming and the new RayNeo Air 4 Pro provides a compelling experience at a low price.",
+        "image": "https://www.zdnet.com/a/img/resize/f3649efcb163ff82ff99b3bc5cf06475736f1a32/2026/02/27/3553c8bd-d48c-4a6e-b435-0bde3e1ef3c9/rayneo-air-4-pro-batman5.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/rayneo-air-4-pro-glasses-review/",
+        "date": "28 February 2026"
+      },
+      {
+        "title": "7 techniques d'IA pour coder des produits fiables et rapides",
+        "title_en": "7 AI coding techniques I use to ship real, reliable products - fast",
+        "summary": "Les développeurs d'élite utilisent des systèmes, pas des prompts. Découvrez le framework qui accélère la livraison de produits fiables.",
+        "summary_en": "What separates casual vibe coders from the elite builders? It's not prompts. It's systems. Here's the exact framework I use.",
+        "long_summary": "La différence entre les codeurs occasionnels et les experts réside dans leur approche systématique de l'IA.\n\nPoints clés :\n• Utilisation de frameworks structurés pour l'intégration des LLMs\n• Techniques de validation et de test automatisées\n• Optimisation des prompts pour des résultats reproductibles\n\nCes méthodes permettent de livrer des produits robustes en un temps record, transformant radicalement le développement logiciel.",
+        "long_summary_en": "What separates casual vibe coders from the elite builders? It's not prompts. It's systems. Here's the exact framework I use.",
+        "image": "https://www.zdnet.com/a/img/resize/ced24978301a5ecbf26dd3a9e490cc46019850a7/2026/02/27/da13ed6c-590d-4105-abac-dd754a1206b5/gettyimages-2206364304.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/ai-coding-techniques/",
+        "date": "28 February 2026"
+      },
+      {
+        "title": "Cette station de charge 245W est devenue indispensable au bureau grâce à l'IA",
+        "title_en": "I thought this 245W charging station was excessive, but it's an office essential for me now",
+        "summary": "Une station de charge ultra-rapide devient cruciale pour les professionnels de l'IA, optimisant leur flux de travail.",
+        "summary_en": "The Baseus Nomos 245W is the charging station tech geeks have been waiting for, with multiple charging ports and connectors.",
+        "long_summary": "Les experts en IA ont besoin de stations de charge performantes pour alimenter leurs appareils multiples, essentiels à leur travail.\n\nPoints clés :\n• Les modèles d'IA comme les LLMs consomment beaucoup d'énergie, nécessitant des solutions de charge rapides\n• Les stations comme la Baseus Nomos 245W offrent une connectivité polyvalente pour les appareils professionnels\n• L'optimisation énergétique est cruciale pour les centres de données et les stations de travail IA\n\nL'adoption de telles technologies reflète l'évolution des besoins énergétiques dans le domaine de l'IA.",
+        "long_summary_en": "The Baseus Nomos 245W is the charging station tech geeks have been waiting for, with multiple charging ports and connectors.",
+        "image": "https://www.zdnet.com/a/img/resize/5637d21e7ab9a5b1b1edc07c4687733b15786708/2026/01/22/39255de0-c1af-4034-bd81-570814c229aa/img-2007.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/baseus-nomos-nh21-power-station-review/",
+        "date": "28 February 2026"
+      },
+      {
+        "title": "Wall Street souffre de psychose de l'IA",
+        "title_en": "Wall Street Has AI Psychosis",
+        "summary": "Un scénario fictif sur l'IA a provoqué un krach boursier. Les modèles de langage pourraient continuer à perturber les marchés.",
+        "summary_en": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
+        "long_summary": "Un simple exercice de réflexion sur les risques de l'IA a déclenché une panique sur Wall Street cette semaine.\n\nPoints clés :\n• Les modèles de langage comme ceux d'OpenAI ou Google influencent désormais les marchés financiers\n• Les investisseurs réagissent de manière excessive aux scénarios hypothétiques\n• Les régulateurs et entreprises doivent anticiper ces réactions imprévisibles\n\nLes marchés devront s'adapter à cette nouvelle ère où l'IA génère des chocs systémiques.",
+        "long_summary_en": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
+        "image": "https://media.wired.com/photos/69a099a68b4e433f4999c9c4/3:2/w_1280,c_limit/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
+        "date": "28 February 2026"
+      },
       {
         "title": "L'IA transforme la pensée des meilleurs joueurs de Go au monde",
         "title_en": "AI is rewiring how the world’s best Go players think",
@@ -121,66 +181,6 @@
         "source": "zdnet_ai",
         "url": "https://www.zdnet.com/article/best-satellite-phone/",
         "date": "28 February 2026"
-      },
-      {
-        "title": "Ultrahuman vise Oura avec son anneau intelligent à 15 jours d'autonomie",
-        "title_en": "Ultrahuman takes aim at Oura with new ring's 15-day battery - but not everyone can buy it",
-        "summary": "Ultrahuman lance un anneau intelligent avec une batterie de 15 jours et une nouvelle fonction de sécurité. Disponibilité limitée.",
-        "summary_en": "The Ultrahuman Ring Pro also packs a new safety feature that makes the smart ring easier to cut off - just in case.",
-        "long_summary": "Ultrahuman rivalise avec Oura en proposant un anneau connecté haut de gamme.\n\nPoints clés :\n• Autonomie record de 15 jours\n• Nouvelle fonction de sécurité pour un retrait d'urgence\n• Disponibilité limitée à certains utilisateurs\n\nConclusion sur les implications : Cette innovation pourrait redéfinir le marché des wearables, mais son accès restreint limite son impact immédiat.",
-        "long_summary_en": "The Ultrahuman Ring Pro also packs a new safety feature that makes the smart ring easier to cut off - just in case.",
-        "image": "https://www.zdnet.com/a/img/resize/2140976c68faf8ff0de3420cf89e7dab58cc665f/2026/02/27/ed183d79-2442-44a3-87eb-3577f414186b/screenshot-2026-02-27-at-12-06-29pm.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/ultrahuman-ring-pro-takes-on-oura-with-15-day-battery-life/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "L'IA et la transformation Industry 5.0 : vers une valeur augmentée",
-        "title_en": "Finding value with AI and Industry 5.0 transformation",
-        "summary": "L'IA et l'Industry 5.0 redéfinissent l'intégration des technologies pour une valeur accrue.",
-        "summary_en": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shi",
-        "long_summary": "L'Industry 4.0 a mis l'accent sur l'interconnexion des technologies comme l'IA, le cloud et l'IoT. L'Industry 5.0 va plus loin en orchestrant ces outils à grande échelle pour une valeur plus nuancée.\n\nPoints clés :\n• L'IA et le Machine Learning deviennent centraux dans l'orchestration des technologies\n• Les LLMs et l'IA générative jouent un rôle clé dans l'optimisation des processus\n• Les acteurs comme OpenAI, Google et Anthropic façonnent l'avenir de l'Industry 5.0\n\nCette évolution ouvre la voie à une collaboration homme-machine plus intelligente et adaptative.",
-        "long_summary_en": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITTR_V1_EY32026Cover1200Socials.png?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "L'IA révolutionne le jeu de Go et soulève un mystère en cybersécurité",
-        "title_en": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
-        "summary": "L'IA transforme la stratégie des meilleurs joueurs de Go, dix ans après AlphaGo. Un mystère en cybersécurité émerge aussi.",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years",
-        "long_summary": "Dix ans après la victoire d'AlphaGo contre Lee Sedol, l'IA continue de bouleverser le jeu de Go.\n\nPoints clés :\n• Les joueurs humains adaptent leur stratégie face aux modèles d'IA\n• L'IA influence désormais la formation des champions de Go\n• Un mystère en cybersécurité lié à l'IA émerge\n\nConclusion sur les implications : L'IA ne cesse de redéfinir les limites humaines, tant dans les jeux que dans des domaines critiques comme la cybersécurité.",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Pokémon : l'IA révolutionne les jeux Switch en 2027",
-        "title_en": "Pokemon Winds and Waves: First Mainline Games for the Switch 2 Are Coming in 2027",
-        "summary": "Les prochains Pokémon Switch utiliseront l'IA pour des mondes dynamiques. Une révolution pour la franchise.",
-        "summary_en": "Following the recent release of Pokemon Legends: Z-A, The Pokemon Company announced its first mainline games exclusively for the latest Nintendo console.",
-        "long_summary": "The Pokémon Company annonce ses premiers jeux exclusifs pour la Switch 2, prévus pour 2027. L'IA générative et le machine learning pourraient transformer l'expérience de jeu.\n\nPoints clés :\n• Utilisation de modèles de langage pour des dialogues plus immersifs\n• Environnements dynamiques générés par IA\n• Personnalisation des aventures via l'apprentissage automatique\n\nL'intégration de l'IA pourrait redéfinir les attentes des joueurs et influencer l'industrie du jeu vidéo.",
-        "long_summary_en": "Following the recent release of Pokemon Legends: Z-A, The Pokemon Company announced its first mainline games exclusively for the latest Nintendo console.",
-        "image": "https://www.cnet.com/a/img/resize/8f2dd9817d0c5bcb4bb4bd5454425cda9ae27642/hub/2026/02/27/ac9453b7-8e48-4895-a375-0bb1055eccfc/pokemon-presents-2-27-2026-23-41-screenshot.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/gaming/pokemon-wind-and-waves-revealed-for-switch-2/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Les VPN ne garantissent pas l'anonymat total : méfiez-vous des promesses trompeuses",
-        "title_en": "VPNs Can’t Make You Anonymous Online. Don’t Be Fooled by Anyone Who Says They Can",
-        "summary": "L'anonymat en ligne est une illusion, et les VPN ne suffisent pas. Les IA renforcent cette surveillance.",
-        "summary_en": "Total anonymity online is impossible, and it’s dangerous to claim otherwise.",
-        "long_summary": "Les VPN masquent votre adresse IP, mais ne protègent pas contre les traces laissées par les IA et les modèles de langage.\n\nPoints clés :\n• Les VPN ne cachent pas les données partagées avec les plateformes (Google, OpenAI, etc.)\n• Les modèles d'IA analysent les comportements pour identifier les utilisateurs\n• Les promesses d'anonymat total sont dangereuses et trompeuses\n\nConclusion sur les implications : Les utilisateurs doivent comprendre les limites des outils de confidentialité et adopter des pratiques plus rigoureuses.",
-        "long_summary_en": "Total anonymity online is impossible, and it’s dangerous to claim otherwise.",
-        "image": "https://www.cnet.com/a/img/resize/9ee05bbded6b6fd9742f17bf9a71d0767e7d8732/hub/2026/01/30/4713446c-f78a-4b5b-98b9-395135223f19/3.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/a-vpn-cant-make-you-anonymous-online/",
-        "date": "27 February 2026"
       }
     ],
     "image": [
@@ -549,6 +549,66 @@
     ],
     "llm": [
       {
+        "title": "Oura Ring lance un chatbot IA dédié à la santé des femmes : ce qu'il faut savoir",
+        "title_en": "Oura Ring Launched an AI Chatbot for Women: The Details You Should Know",
+        "summary": "Oura Ring propose un chatbot IA spécialisé dans la santé féminine. Voici ce qu'il faut savoir sur la confidentialité et l'accès.",
+        "summary_en": "If you have a question about women's health, Oura's new AI model can answer it. This is what you need to know about privacy and access.",
+        "long_summary": "Oura Ring intègre un modèle d'IA générative pour répondre aux questions sur la santé féminine. L'entreprise se positionne dans un marché concurrentiel dominé par OpenAI, Google et Anthropic.\n\nPoints clés :\n• Le chatbot utilise des modèles de langage (LLMs) pour fournir des réponses personnalisées\n• Oura Ring met l'accent sur la confidentialité des données des utilisatrices\n• L'accès au chatbot est intégré à l'écosystème Oura, nécessitant un abonnement\n\nConclusion sur les implications : Cette initiative pourrait influencer les standards de santé connectée et renforcer la position d'Oura dans l'IA santé.",
+        "long_summary_en": "If you have a question about women's health, Oura's new AI model can answer it. This is what you need to know about privacy and access.",
+        "image": "https://www.cnet.com/a/img/resize/571cd5ad1ab42792c7d18c461f87934201afb2f7/hub/2026/02/26/9c96be78-2320-4397-9bc6-ca8aaf656dfd/oura-ring-navy-2.png?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/health/oura-ring-ai-model-womens-health/",
+        "date": "28 February 2026"
+      },
+      {
+        "title": "ChatGPT atteint 900 millions d'utilisateurs actifs par semaine",
+        "title_en": "ChatGPT reaches 900M weekly active users",
+        "summary": "OpenAI annonce 900M utilisateurs actifs et lève 110 milliards de dollars. Un record pour l'IA générative.",
+        "summary_en": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+        "long_summary": "OpenAI a dévoilé ces chiffres lors d'un annonce de levée de fonds record. L'IA générative domine le marché.\n\nPoints clés :\n• ChatGPT dépasse les 900 millions d'utilisateurs actifs hebdomadaires\n• OpenAI lève 110 milliards de dollars en financement privé\n• La course aux LLMs s'intensifie face à Google et Anthropic\n\nCette croissance confirme la domination des modèles de langage dans l'IA, avec des implications majeures pour l'industrie technologique.",
+        "long_summary_en": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+        "date": "28 February 2026"
+      },
+      {
+        "title": "Anthropic vs. Pentagone : l'enjeu caché de l'IA militaire",
+        "title_en": "Anthropic vs. the Pentagon: What’s actually at stake?",
+        "summary": "Anthropic et le Pentagone s'affrontent sur l'usage de l'IA dans les armes autonomes et la surveillance, soulevant des questions cruciales.",
+        "summary_en": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for militar",
+        "long_summary": "Le conflit entre Anthropic et le Pentagone révèle les tensions autour du contrôle de l'IA militaire.\n\nPoints clés :\n• Débat sur l'éthique des armes autonomes et la surveillance de masse\n• Qui doit réguler l'IA militaire : les entreprises ou les gouvernements ?\n• Risque de course aux armements technologiques\n\nConclusion sur les implications : Ce conflit pourrait redéfinir les règles de l'IA militaire et son impact sur la sécurité nationale.",
+        "long_summary_en": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2218106494.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+        "date": "28 February 2026"
+      },
+      {
+        "title": "Le Pentagone exclut Anthropic de ses contrats : un coup dur pour l'IA",
+        "title_en": "Pentagon moves to designate Anthropic as a supply-chain risk",
+        "summary": "Le Pentagone rompt avec Anthropic, qualifiant l'entreprise de risque pour la chaîne d'approvisionnement. Un choc pour l'IA générative.",
+        "summary_en": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+        "long_summary": "Le Pentagone a officiellement désigné Anthropic comme un risque pour la chaîne d'approvisionnement, mettant fin à tout partenariat futur.\n\nPoints clés :\n• Le Pentagone accuse Anthropic de poser des risques sécuritaires et logistiques\n• Cette décision pourrait affecter les contrats d'autres géants de l'IA comme OpenAI et Google\n• Un coup dur pour Anthropic, en pleine expansion dans les modèles de langage\n\nCette rupture pourrait accélérer la fragmentation du marché de l'IA, avec des conséquences sur l'innovation et la concurrence.",
+        "long_summary_en": "\"We don't need it, we don't want it, and will not do business with them again,\" the president wrote in the post.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+        "date": "28 February 2026"
+      },
+      {
+        "title": "OpenAI signe un contrat avec le Pentagone malgré les controverses",
+        "title_en": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+        "summary": "OpenAI assure que son contrat avec le Pentagone inclut des protections similaires à celles d'Anthropic, évitant les polémiques.",
+        "summary_en": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+        "long_summary": "OpenAI a annoncé un partenariat avec le Pentagone, malgré les critiques récentes sur l'utilisation de l'IA par les militaires.\n\nPoints clés :\n• Le contrat inclut des garanties techniques pour éviter les dérives éthiques.\n• Ces mesures ressemblent à celles mises en place par Anthropic, son rival.\n• La transparence reste un enjeu majeur pour les contrats IA-défense.\n\nConclusion sur les implications. Cette annonce pourrait apaiser les craintes tout en relançant le débat sur l'éthique de l'IA militaire.",
+        "long_summary_en": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+        "date": "28 February 2026"
+      },
+      {
         "title": "Pentagone vs Anthropic : l'IA Claude au cœur d'un conflit militaire",
         "title_en": "Pentagon Presses Anthropic Guardrails, Gemini’s Agentic Debut, Viture Raises $100 Million",
         "summary": "Le Pentagone exige qu'Anthropic lève les restrictions sur son IA Claude, utilisée dans des missions secrètes.",
@@ -666,66 +726,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-70-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "OpenAI licencie un employé pour délit d'initié sur les marchés prédictifs",
-        "title_en": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-        "summary": "Un employé d'OpenAI a été licencié pour avoir utilisé des informations internes dans des marchés prédictifs comme Polymarket et Kalshi.",
-        "summary_en": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-        "long_summary": "Les marchés prédictifs gagnent en popularité, mais certains employés de Big Tech testent les limites en utilisant des informations internes.\n\nPoints clés :\n• OpenAI a licencié un employé pour délit d'initié lié aux marchés prédictifs\n• Les plateformes comme Polymarket et Kalshi attirent des traders utilisant des infos internes\n• Ce cas soulève des questions sur l'éthique et la régulation des marchés prédictifs\n\nCe licenciement pourrait inciter d'autres entreprises à renforcer leurs politiques de conformité.",
-        "long_summary_en": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-        "image": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/191:100/w_1280,c_limit/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Trump interdit l'accès d'Anthropic au gouvernement américain",
-        "title_en": "Trump Moves to Ban Anthropic From the US Government",
-        "summary": "Donald Trump bloque l'accès d'Anthropic au gouvernement après des pressions du Pentagone sur les restrictions militaires de l'IA.",
-        "summary_en": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-        "long_summary": "Le président Donald Trump a ordonné l'interdiction d'Anthropic au sein du gouvernement américain, une décision prise après des pressions du Pentagone pour lever les restrictions sur l'utilisation militaire de l'IA.\n\nPoints clés :\n• Le Pentagone a exigé qu'Anthropic assouplisse les règles d'utilisation de ses modèles d'IA pour des applications militaires\n• Trump a réagi en interdisant l'accès de l'entreprise au gouvernement, une mesure rare contre une startup d'IA\n• Cette décision pourrait avoir des répercussions sur la régulation des LLMs et l'influence des militaires sur l'IA générative\n\nCette décision marque un tournant dans la relation entre les gouvernements et les entreprises d'IA, avec des implications pour la sécurité nationale et l'innovation technologique.",
-        "long_summary_en": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-        "image": "https://media.wired.com/photos/69a0a09c6c9d7076f06f28c6/191:100/w_1280,c_limit/Pentagon-Goes-Nuclear-on-Anthropic-Business-2261852583.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Anthropic riposte après que le Pentagone l'a classé comme 'risque pour la chaîne d'approvisionnement'",
-        "title_en": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-        "summary": "Anthropic conteste la décision du Pentagone de l'exclure, arguant qu'elle serait illégale. Les tensions montent autour de l'utilisation militaire de l'IA.",
-        "summary_en": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-        "long_summary": "Les négociations entre Anthropic et le Pentagone ont échoué, conduisant à une classification controversée de l'entreprise comme 'risque pour la chaîne d'approvisionnement'.\n\nPoints clés :\n• Anthropic affirme que le blacklistage serait illégal\n• Les discussions portaient sur l'utilisation militaire de ses modèles d'IA\n• Cette décision pourrait avoir des répercussions sur l'adoption de l'IA par les forces armées\n\nCette affaire souligne les tensions croissantes entre les entreprises technologiques et les gouvernements sur le contrôle de l'IA avancée.",
-        "long_summary_en": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-        "image": "https://media.wired.com/photos/69a23b028618f79c55732aa9/191:100/w_1280,c_limit/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Trump ordonne aux agences fédérales d'abandonner l'IA d'Anthropic",
-        "title_en": "Trump orders federal agencies to drop Anthropic’s AI",
-        "summary": "Donald Trump accuse Anthropic de forcer le Pentagone et exige l'arrêt immédiat de ses outils IA.",
-        "summary_en": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CE",
-        "long_summary": "Vendredi, Donald Trump a accusé Anthropic, l'entreprise derrière Claude, de pression sur le Pentagone et a ordonné aux agences fédérales d'arrêter immédiatement l'utilisation de ses produits.\n\nPoints clés :\n• Refus d'Anthropic de signer un accord militaire autorisant « tout usage légal »\n• Tensions croissantes entre l'industrie IA et les institutions gouvernementales\n• Impact potentiel sur l'adoption des modèles de langage avancés\n\nCette décision pourrait accélérer la fragmentation du marché de l'IA et renforcer les positions d'OpenAI et Google.",
-        "long_summary_en": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Le Pentagone qualifie Anthropic de risque pour la chaîne d'approvisionnement",
-        "title_en": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-        "summary": "Le Pentagone désigne Anthropic comme un risque pour la chaîne d'approvisionnement, après l'interdiction de Trump. L'entreprise conteste cette décision.",
-        "summary_en": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further a",
-        "long_summary": "Le secrétaire à la Défense Pete Hegseth a désigné Anthropic comme un risque pour la chaîne d'approvisionnement, quelques heures après l'annonce de Donald Trump interdisant ses produits au gouvernement fédéral.\n\nPoints clés :\n• Anthropic conteste cette décision et envisage une action en justice\n• Cette mesure pourrait avoir des répercussions sur l'adoption de l'IA dans le secteur public\n• Le débat sur la sécurité des modèles d'IA générative s'intensifie\n\nCette décision souligne les tensions croissantes entre les régulateurs et les entreprises d'IA, alors que les modèles de langage comme ceux d'Anthropic gagnent en puissance.",
-        "long_summary_en": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&strip=all&crop=0%2C10.737015400442%2C100%2C78.525969199116&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
         "date": "28 February 2026"
       }
     ],
@@ -928,11 +928,11 @@
       "date": "26 February 2026"
     },
     {
-      "title": "Google lance Gemini 3.1 Pro : exécution de tâches complexes et nouvelle fonctionnalité photoshoot pour Pomelli",
-      "title_en": "Google Releases Gemini 3.1 Pro With Ability to Execute Complex Tasks; Pomelli Gets New Photoshoot Feature | Technology News",
-      "source": "Gadgets360",
-      "url": "https://www.gadgets360.com/ai/news/gemini-3-1-pro-ai-model-release-features-capabilities-availability-pomelli-photoshoot-google-11111764",
-      "date": "21 February 2026"
+      "title": "Pentagone vs Anthropic : l'IA Claude au cœur d'un conflit militaire",
+      "title_en": "Pentagon Presses Anthropic Guardrails, Gemini’s Agentic Debut, Viture Raises $100 Million",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/charliefink/2026/02/27/pentagon-presses-anthropic-guardrails-geminis-agentic-debut-viture-raises-100-million/",
+      "date": "28 February 2026"
     }
   ]
 }
