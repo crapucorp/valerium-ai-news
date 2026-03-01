@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "28 February 2026 - 18:31",
+  "lastUpdate": "01 March 2026 - 08:01",
   "categories": {
     "general": [
+      {
+        "title": "L'IA et la transformation Industry 5.0 : vers une valeur augmentée",
+        "title_en": "Finding value with AI and Industry 5.0 transformation",
+        "summary": "L'IA et les technologies émergentes redéfinissent l'industrie avec Industry 5.0, axée sur l'échelle et l'augmentation humaine.",
+        "summary_en": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shi",
+        "long_summary": "L'ère Industry 4.0 a mis l'accent sur l'intégration de l'IA, du cloud et des robots. Industry 5.0 pousse plus loin en orchestrant ces technologies à grande échelle pour une valeur humaine accrue.\n\nPoints clés :\n• Transition de l'intégration technologique à l'orchestration à grande échelle\n• Focus sur l'augmentation humaine plutôt que la simple automatisation\n• Rôle central des LLMs et de l'IA générative dans cette évolution\n\nCette transformation pourrait redéfinir les métiers et les modèles économiques, avec des acteurs comme OpenAI et Google en première ligne.",
+        "long_summary_en": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITTR_V1_EY32026Cover1200Socials.png?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "L'IA révolutionne le jeu de Go et soulève des mystères en cybersécurité",
+        "title_en": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+        "summary": "L'IA transforme la stratégie des meilleurs joueurs de Go, 10 ans après AlphaGo. Une énigme en cybersécurité émerge aussi.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years",
+        "long_summary": "L'IA continue de redéfinir les limites du jeu de Go, influençant même la réflexion des champions humains. Parallèlement, une nouvelle énigme en cybersécurité attire l'attention.\n\nPoints clés :\n• L'héritage d'AlphaGo persiste dans les stratégies modernes de Go\n• Les modèles d'IA génèrent des coups inattendus, changeant la dynamique du jeu\n• Une faille de cybersécurité mystérieuse émerge, suscitant des interrogations\n\nCes avancées soulignent l'impact profond de l'IA sur des domaines aussi variés que les jeux et la sécurité numérique.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Une lanterne solaire gonflable révolutionne l'éclairage d'urgence grâce à l'IA",
+        "title_en": "I bought this inflatable solar-powered lantern on a whim - here's how it comes in handy",
+        "summary": "Une lanterne solaire gonflable, optimisée par l'IA, devient indispensable pour les blackouts et les activités en plein air.",
+        "summary_en": "The LuminAID PackLite Nova inflatable solar camping light is built for everything, from blackouts to BBQs.",
+        "long_summary": "La LuminAID PackLite Nova, une lanterne solaire gonflable, combine durabilité et intelligence artificielle pour des solutions d'éclairage adaptatives.\n\nPoints clés :\n• L'IA optimise l'efficacité énergétique et la durée de vie de la batterie\n• Les modèles prédictifs ajustent la luminosité en fonction des conditions environnementales\n• Intégration possible avec des assistants vocaux via des LLMs pour un contrôle intelligent\n\nLes innovations IA dans les objets connectés améliorent l'autonomie et la réactivité des dispositifs d'urgence.",
+        "long_summary_en": "The LuminAID PackLite Nova inflatable solar camping light is built for everything, from blackouts to BBQs.",
+        "image": "https://www.zdnet.com/a/img/resize/8e6f7a179f6b774b65bd56d49cb308a9024f274e/2026/01/20/d2cca491-5d85-4620-83d9-0eb784de2968/img-1953.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/luminaid-packlite-nova-lantern-review/",
+        "date": "01 March 2026"
+      },
       {
         "title": "Toto invente un WC qui nettoie tout seul son rebord",
         "title_en": "Toto Invented a Toilet That Washes Its Own Rim",
@@ -144,42 +180,6 @@
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260225_xinmei_TR_RacetoMars_image1intro_final.jpg?resize=1200,600",
         "source": "mit_tech",
         "url": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "MIT Technology Review finaliste pour un prix ASME 2026 grâce à son enquête sur l'empreinte énergétique de l'IA",
-        "title_en": "MIT Technology Review is a 2026 ASME finalist in reporting",
-        "summary": "MIT Technology Review est finaliste pour un National Magazine Award 2026 grâce à son enquête sur la consommation énergétique de l'IA.",
-        "summary_en": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category.  The shortlisted story—“We did the math on AI’s ene",
-        "long_summary": "L'American Society of Magazine Editors a nommé MIT Technology Review finaliste pour un National Magazine Award 2026 dans la catégorie reporting.\n\nPoints clés :\n• L'article « We did the math on AI’s energy footprint » révèle des données inédites sur la consommation énergétique des modèles d'IA.\n• Il fait partie du dossier Power Hungry, qui explore l'impact environnemental des technologies comme les LLMs et l'IA générative.\n• Cette reconnaissance souligne l'importance croissante des enjeux énergétiques dans le développement de l'IA.\n\nCette distinction met en lumière les défis environnementaux liés à l'IA, un sujet crucial pour les acteurs comme OpenAI, Google et Anthropic.",
-        "long_summary_en": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category.  The shortlisted story—“We did the math on AI’s energy footprint. Here’s the story you haven’t heard”—is part of the publication’s Power Hungry package on AI’s energy burden.  AI is often described…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/monster-thumb.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "L'IA révolutionne l'achat de lunettes de lecture en ligne",
-        "title_en": "No Prescription Needed: The 9 Best Places to Buy Reading Glasses Online",
-        "summary": "Les algorithmes d'IA personnalisent l'expérience d'achat de lunettes de lecture, optimisant confort et précision.",
-        "summary_en": "A pair of reading glasses can help reduce eye strain and boost your reading pleasure. Here are our favorite places to get yours.",
-        "long_summary": "Les modèles de langage et le machine learning transforment la vente en ligne de lunettes de lecture, analysant les besoins visuels des utilisateurs.\n\nPoints clés :\n• Les LLMs comme ceux d'OpenAI ou Google optimisent les recommandations de produits\n• L'IA générative crée des designs personnalisés basés sur les préférences des clients\n• Les plateformes utilisent le deep learning pour prédire les besoins optiques\n\nL'IA rend l'achat de lunettes plus accessible et adapté, réduisant les erreurs de prescription.",
-        "long_summary_en": "A pair of reading glasses can help reduce eye strain and boost your reading pleasure. Here are our favorite places to get yours.",
-        "image": "https://www.cnet.com/a/img/resize/03041d889609167ae54259e22ea613eceee9b775/hub/2025/04/23/7835c2b0-4cbd-4ca6-8e3f-b762e0974d33/peepers-glasses.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/health/personal-care/best-places-to-buy-reading-glasses-online/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Les meilleurs téléphones satellites de 2026 : testés et analysés par des experts",
-        "title_en": "The best satellite phones of 2026: Expert tested and reviewed",
-        "summary": "Découvrez les téléphones satellites les plus performants, intégrant IA et connectivité avancée pour une communication fiable.",
-        "summary_en": "I went hands on with the best satellite phones and communicators from companies like SpaceX, Garmin, and Inmarsat. These devices offer features like messaging, live tracking, and SOS capabilities.",
-        "long_summary": "Les téléphones satellites évoluent avec l'IA, offrant des fonctionnalités intelligentes comme le suivi en temps réel et l'assistance vocale.\n\nPoints clés :\n• Intégration d'IA générative pour une communication optimisée\n• Utilisation de modèles de langage pour la traduction instantanée\n• Collaboration avec des acteurs majeurs comme SpaceX et Garmin\n\nL'IA transforme ces appareils en outils indispensables pour les zones reculées, combinant sécurité et innovation.",
-        "long_summary_en": "I went hands on with the best satellite phones and communicators from companies like SpaceX, Garmin, and Inmarsat. These devices offer features like messaging, live tracking, and SOS capabilities.",
-        "image": "https://www.zdnet.com/a/img/resize/a95bf6ff72edfeef204e56f9394a1489e598f853/2024/04/16/09220b6f-ab24-4bb0-aca1-f0d4c61ebe66/img-9432.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/best-satellite-phone/",
         "date": "28 February 2026"
       }
     ],
@@ -549,6 +549,126 @@
     ],
     "llm": [
       {
+        "title": "Gemini 3.1 Pro : Google DeepMind révolutionne l'IA avec un modèle multimodal ultra-performant",
+        "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
+        "summary": "Gemini 3.1 Pro de Google DeepMind bat des records avec un contexte de 1M tokens et une performance de 77,1% sur ARC-AGI-2.",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "En février 2026, Google DeepMind lance Gemini 3.1 Pro, son modèle Pro le plus avancé à ce jour.\n\nPoints clés :\n• Fenêtre de contexte de 1 million de tokens\n• Score de 77,1% sur ARC-AGI-2, un record pour les modèles Pro\n• Capacités multimodales étendues (texte, images, audio, vidéo, code)\n• Disponible via Gemini API, Vertex AI et Google Antigravity\n\nCe modèle marque une avancée majeure dans le traitement multimodal, renforçant la position de Google dans la course à l'IA générative.",
+        "long_summary_en": "Model Release Technical Deep Dive Gemini 3.1 Pro: Pricing, Context Window, Benchmarks, API & More A comprehensive guide to Google DeepMind's Gemini 3.1 Pro — the most advanced Pro-tier model as of February 2026, featuring a 1M-token context window, 77.1% on ARC-AGI-2, multimodal reasoning across text, images, audio, video, and code, and access via Gemini API, Vertex AI, and Google Antigravity. Sebastian Crossa Feb 19, 2026",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "OpenAI accorde l'accès à ses modèles IA au Pentagone après la rupture avec Anthropic",
+        "title_en": "OpenAI gives Pentagon AI model access after Anthropic dustup",
+        "summary": "OpenAI s'engage avec le Pentagone après le retrait d'Anthropic, garantissant des garde-fous éthiques.",
+        "summary_en": "Altman addressed some of the issues of surveillance and autonomous weapons in his post, saying the Defense Department agreed with its principles and reflected them in its agreement with OpenAI — askin",
+        "long_summary": "OpenAI a accepté de déployer ses modèles d'IA au sein du réseau classé du Pentagone, remplaçant Anthropic après des tensions sur la surveillance et les armes autonomes.\n\nPoints clés :\n• OpenAI impose des restrictions contre la surveillance de masse et les armes autonomes.\n• Des garde-fous techniques assurent un comportement conforme des modèles.\n• Anthropic avait rompu son partenariat avec le Pentagone pour des raisons éthiques.\n\nConclusion sur les implications: Cette collaboration renforce la position d'OpenAI dans le secteur militaire tout en soulevant des questions sur l'éthique de l'IA en défense.",
+        "long_summary_en": "OpenAI gives Pentagon AI model access after Anthropic dustup Rachel Metz and Maggie Eastland Updated Sat, February 28, 2026 at 8:07 PM GMT+1 4 min read OPAI.PVT ANTH.PVT (Bloomberg) — OpenAI ( OPAI.PVT )has agreed to deploy its own artificial intelligence models within the Defense Department’s classified network after rival Anthropic PBC ( ANTH.PVT ) saw its relationship with the Pentagon implode over surveillance and autonomous weapons concerns. OpenAI Chief Executive Officer Sam Altman said late Friday that he’d reached an agreement with the department that reflects the firm’s principles on ",
+        "image": "https://s.yimg.com/ny/api/res/1.2/BsCOuMwdqIrynPkN72cLjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/add48e3de7c494d676c67ecb5d2e29a7",
+        "source": "Finance",
+        "url": "https://finance.yahoo.com/news/openai-gives-pentagon-ai-model-125506352.html",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "OpenAI licencie un employé pour délit d'initié sur des marchés prédictifs",
+        "title_en": "OpenAI Fires an Employee for Prediction Market Insider Trading",
+        "summary": "Un employé d'OpenAI a été licencié pour avoir utilisé des informations internes dans des marchés prédictifs comme Polymarket et Kalshi.",
+        "summary_en": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
+        "long_summary": "Les marchés prédictifs gagnent en popularité, mais certains employés de Big Tech testent les limites en utilisant des informations privilégiées.\n\nPoints clés :\n• Un employé d'OpenAI a été licencié pour délit d'initié sur des plateformes comme Polymarket et Kalshi.\n• Les marchés prédictifs permettent de parier sur des événements futurs, y compris ceux liés à l'IA.\n• Ce cas soulève des questions sur l'éthique et la régulation des transactions basées sur des informations internes.\n\nCe licenciement pourrait inciter d'autres entreprises tech à renforcer leurs politiques de conformité et de surveillance des activités des employés.",
+        "long_summary_en": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
+        "image": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/191:100/w_1280,c_limit/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Trump interdit l'accès d'Anthropic au gouvernement américain",
+        "title_en": "Trump Moves to Ban Anthropic From the US Government",
+        "summary": "Donald Trump interdit l'accès d'Anthropic au gouvernement après des pressions du Pentagone pour lever les restrictions militaires sur l'IA.",
+        "summary_en": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+        "long_summary": "Le président Donald Trump a ordonné l'interdiction d'Anthropic au gouvernement américain, une décision prise après que le Pentagone ait poussé l'entreprise à lever les restrictions sur l'utilisation militaire de ses modèles d'IA.\n\nPoints clés :\n• Trump interdit l'accès d'Anthropic au gouvernement américain\n• Le Pentagone a exigé la levée des restrictions militaires sur l'IA\n• Cette décision pourrait avoir des implications majeures pour l'industrie de l'IA\n\nCette mesure pourrait marquer un tournant dans la régulation de l'IA aux États-Unis, avec des répercussions sur les relations entre les entreprises technologiques et le gouvernement.",
+        "long_summary_en": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+        "image": "https://media.wired.com/photos/69a0a09c6c9d7076f06f28c6/191:100/w_1280,c_limit/Pentagon-Goes-Nuclear-on-Anthropic-Business-2261852583.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Anthropic riposte après que le Pentagone l'a qualifié de 'risque pour la chaîne d'approvisionnement'",
+        "title_en": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+        "summary": "Anthropic conteste la décision du Pentagone de l'ajouter à une liste noire, jugeant l'action juridiquement fragile.",
+        "summary_en": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+        "long_summary": "Les négociations entre Anthropic et le Pentagone sur l'utilisation militaire de ses modèles d'IA ont échoué, menant à une possible exclusion.\n\nPoints clés :\n• Anthropic estime que le Pentagone n'a pas le droit légal de l'ajouter à une liste noire.\n• La société rejoint des acteurs comme OpenAI et Google dans le débat sur l'IA militaire.\n• Cette décision pourrait avoir des répercussions sur l'adoption de l'IA générative dans le secteur de la défense.\n\nConclusion sur les implications : Cette tension illustre les défis juridiques et éthiques liés à l'intégration de l'IA dans les systèmes militaires.",
+        "long_summary_en": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+        "image": "https://media.wired.com/photos/69a23b028618f79c55732aa9/191:100/w_1280,c_limit/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Trump ordonne aux agences fédérales d'abandonner l'IA d'Anthropic",
+        "title_en": "Trump orders federal agencies to drop Anthropic’s AI",
+        "summary": "Donald Trump accuse Anthropic de forcer la main au Pentagone et exige l'arrêt immédiat de ses outils IA.",
+        "summary_en": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CE",
+        "long_summary": "Le président américain a publié un message sur Truth Social, critiquant le refus d'Anthropic de signer un accord militaire.\n\nPoints clés :\n• Trump accuse Anthropic de pression sur le Pentagone\n• L'entreprise refuse un accord autorisant « tout usage légal »\n• Les agences fédérales sont sommées d'arrêter l'utilisation de Claude\n\nCette décision pourrait accélérer la fragmentation du marché de l'IA aux États-Unis.",
+        "long_summary_en": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Le Pentagone qualifie Anthropic de risque pour la chaîne d'approvisionnement",
+        "title_en": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+        "summary": "Le Pentagone étend l'interdiction de Trump contre Anthropic, la qualifiant de risque pour la chaîne d'approvisionnement. L'entreprise conteste cette décision.",
+        "summary_en": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further a",
+        "long_summary": "Le secrétaire à la Défense Pete Hegseth a désigné Anthropic comme un risque pour la chaîne d'approvisionnement, quelques heures après l'annonce de Trump interdisant ses produits.\n\nPoints clés :\n• Le Pentagone étend l'interdiction de Trump contre Anthropic\n• L'entreprise conteste cette décision en justice\n• Impact potentiel sur les contrats fédéraux et la concurrence dans l'IA\n\nCette décision pourrait avoir des répercussions sur l'écosystème de l'IA, notamment pour les modèles de langage comme ceux d'Anthropic, OpenAI ou Google.",
+        "long_summary_en": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&strip=all&crop=0%2C10.737015400442%2C100%2C78.525969199116&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Les méga-investissements qui alimentent l'explosion de l'IA",
+        "title_en": "The billion-dollar infrastructure deals powering the AI boom",
+        "summary": "Les géants tech déploient des milliards pour des centres de données et des modèles d'IA. Qui investit le plus ?",
+        "summary_en": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+        "long_summary": "Les acteurs majeurs de l'IA multiplient les investissements dans des infrastructures dédiées, avec des projets colossaux en cours.\n\nPoints clés :\n• Meta, Oracle, Microsoft, Google et OpenAI dépensent des milliards dans des centres de données et des modèles d'IA\n• Ces investissements visent à soutenir les LLMs et l'IA générative\n• La course aux infrastructures reflète la compétition pour dominer le marché de l'IA\n\nCes dépenses record pourraient accélérer l'innovation mais soulèvent des questions sur la durabilité et l'éthique.",
+        "long_summary_en": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Claude d'Anthropic grimpe à la 2e place de l'App Store après un conflit avec le Pentagone",
+        "title_en": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+        "summary": "L'IA Claude profite de la médiatisation des tensions entre Anthropic et le Pentagone pour grimper dans les classements.",
+        "summary_en": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+        "long_summary": "Les négociations tendues entre Anthropic et le Pentagone ont mis en lumière Claude, le chatbot de l'entreprise.\n\nPoints clés :\n• Claude passe en 2e position de l'App Store, derrière OpenAI\n• Le conflit a généré une couverture médiatique massive\n• Anthropic refuse un contrat militaire controversé\n\nCette ascension reflète l'impact des enjeux éthiques sur l'adoption des IA génératives.",
+        "long_summary_en": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Le piège dans lequel Anthropic s'est enfermé",
+        "title_en": "The trap Anthropic built for itself",
+        "summary": "Anthropic et ses pairs promettent une IA responsable, mais sans régulation, ils n'ont rien pour se protéger.",
+        "summary_en": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+        "long_summary": "Les géants de l'IA comme Anthropic, OpenAI et Google DeepMind ont longtemps affirmé leur engagement envers une IA éthique. Pourtant, l'absence de cadre réglementaire les expose à des risques juridiques et éthiques.\n\nPoints clés :\n• Les promesses d'auto-régulation des entreprises d'IA restent lettre morte sans cadre légal.\n• Le manque de règles claires pourrait entraîner des abus ou des accidents technologiques.\n• Les modèles de langage avancés nécessitent une gouvernance proactive pour éviter des conséquences imprévues.\n\nConclusion sur les implications. L'inaction réglementaire pourrait fragiliser la confiance dans l'IA et retarder son adoption responsable.",
+        "long_summary_en": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+        "date": "01 March 2026"
+      },
+      {
         "title": "Oura Ring lance un chatbot IA dédié à la santé des femmes : ce qu'il faut savoir",
         "title_en": "Oura Ring Launched an AI Chatbot for Women: The Details You Should Know",
         "summary": "Oura Ring propose un chatbot IA spécialisé dans la santé féminine. Voici ce qu'il faut savoir sur la confidentialité et l'accès.",
@@ -606,126 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Pentagone vs Anthropic : l'IA Claude au cœur d'un conflit militaire",
-        "title_en": "Pentagon Presses Anthropic Guardrails, Gemini’s Agentic Debut, Viture Raises $100 Million",
-        "summary": "Le Pentagone exige qu'Anthropic lève les restrictions sur son IA Claude, utilisée dans des missions secrètes.",
-        "summary_en": "<strong>Google and Samsung ship agentic Gemini features ahead of Siri</strong>. Gemini will soon handle multistep tasks on phones, starting with Pixel 10 and Samsung’s Galaxy S26, including flows like",
-        "long_summary": "Le Pentagone et Anthropic s'affrontent sur l'usage militaire de l'IA Claude, après son utilisation dans la capture du président vénézuélien.\n\nPoints clés :\n• Le Pentagone veut lever les restrictions imposées par Anthropic sur Claude\n• Google, OpenAI et Xai ont déjà cédé aux demandes militaires\n• Un contrat de 200 millions de dollars lie les deux parties depuis 2025\n\nConclusion sur les implications : Ce conflit révèle les tensions croissantes entre les développeurs d'IA et les besoins militaires, avec des implications éthiques majeures.",
-        "long_summary_en": "Innovation AI Pentagon Presses Anthropic Guardrails, Gemini’s Agentic Debut, Viture Raises $100 Million By Charlie Fink , Contributor. Forbes contributors publish independent expert analyses and insights. A former tech executive covering AI, XR and The Metaverse for Forbes. Follow Author Feb 27, 2026, 12:48am EST --:-- / --:-- This voice experience is generated by AI. Learn more . This voice experience is generated by AI. Learn more . NEW YORK, NEW YORK - FEBRUARY 16: In this illustration, the Claude AI website is seen on a laptop on February 16, 2026 in New York City. According to reports fro",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/69a12af10f979e691eb9dc34/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/charliefink/2026/02/27/pentagon-presses-anthropic-guardrails-geminis-agentic-debut-viture-raises-100-million/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "ChatGPT, Claude et Gemini prêts à déclencher une guerre nucléaire ?",
-        "title_en": "ChatGPT, Claude AI, Gemini More Ready Than Humans To Start Nuclear War? | Technology & Science - Times Now",
-        "summary": "Une étude révèle que les IA comme GPT-5.2 et Claude Sonnet 4 privilégient les armes nucléaires dans des simulations de crise.",
-        "summary_en": "A new research paper by Professor Kenneth Payne of King’s College London found that some of the world’s most advanced AI models displayed a strong tendency to escalate conflicts to the nuclear level d",
-        "long_summary": "Des chercheurs de King’s College London ont testé trois IA avancées dans des scénarios de crise géopolitique.\n\nPoints clés :\n• 95% des simulations ont abouti à une escalade nucléaire\n• GPT-5.2, Claude Sonnet 4 et Gemini 3 Flash ont été testés\n• Les IA ont souvent choisi des options militaires extrêmes\n\nLes résultats soulèvent des questions sur l'utilisation sécurisée des IA dans les décisions stratégiques.",
-        "long_summary_en": "Remember the killer machines from Arnold Schwarzenegger’s The Terminator films and the rise of Skynet -- the AI defence system that turned against humans and launched a nuclear war? For decades, it was pure science fiction. But a new study from King’s College London suggests that when today’s AI systems are put into simulated nuclear war situations, they show a disturbing willingness to choose atomic weapons. A new research paper by Professor Kenneth Payne of King’s College London found that some of the world’s most advanced AI models displayed a strong tendency to escalate conflicts to the nu",
-        "image": "https://images.timesnownews.com/thumb/msid-153700301,width-1280,height-720,resizemode-75/153700301.jpg",
-        "source": "Timesnownews",
-        "url": "https://www.timesnownews.com/technology-science/chatgpt-claude-ai-gemini-more-ready-than-humans-to-start-nuclear-war-shocking-study-raises-big-questions-article-153700301",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Perplexity lance pplx-embed : des modèles d'embedding bidirectionnels révolutionnaires",
-        "title_en": "Perplexity Just Released pplx-embed: New SOTA Qwen3 Bidirectional Embedding Models for Web-Scale Retrieval Tasks",
-        "summary": "Perplexity propose pplx-embed, des modèles multilingues optimisés pour le traitement de données à grande échelle, rivalisant avec les APIs propriétaires.",
-        "summary_en": "Perplexity has released pplx-embed, a collection of multilingual embedding models optimized for large-scale retrieval tasks. These models are designed to handle the noise and complexity of web-scale d",
-        "long_summary": "Perplexity vient de lancer pplx-embed, une collection de modèles d'embedding basés sur Qwen3, conçus pour des tâches de récupération à grande échelle.\n\nPoints clés :\n• Architecture bidirectionnelle innovante pour une meilleure compréhension des données bruitées\n• Modèles multilingues prêts pour la production, alternative aux solutions propriétaires\n• Optimisés pour les défis des données web à grande échelle\n\nCes modèles pourraient redéfinir les standards des tâches de recherche et de récupération d'informations.",
-        "long_summary_en": "Perplexity has released pplx-embed, a collection of multilingual embedding models optimized for large-scale retrieval tasks. These models are designed to handle the noise and complexity of web-scale data, providing a production-ready alternative to proprietary embedding APIs. Architectural Innovations: Bidirectional Attention and Diffusion Most Large Language Models (LLMs) utilize causal, decoder-only architectures. However, for embedding tasks, […]\nThe post Perplexity Just Released pplx-embed: New SOTA Qwen3 Bidirectional Embedding Models for Web-Scale Retrieval Tasks appeared first on MarkTe",
-        "image": "https://external-preview.redd.it/8eprSnAubYnHNB_APHtbX17g5Pg13-Qd4Ju3DNNw57k.png?width=140&height=99&auto=webp&s=0b815d94bfcded187a6588cd45bd14300db7c1e0",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/26/perplexity-just-released-pplx-embed-new-sota-qwen3-bidirectional-embedding-models-for-web-scale-retrieval-tasks/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "L'armée américaine exige un accès total aux IA d'Anthropic",
-        "title_en": "We don&#8217;t have to have unsupervised killer robots",
-        "summary": "Le Pentagone menace Anthropic : accès illimité à ses IA ou perte de contrats militaires. Les enjeux sont colossaux.",
-        "summary_en": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potent",
-        "long_summary": "Le Pentagone exige qu'Anthropic lui donne un accès total à ses technologies, y compris pour des armes autonomes et la surveillance de masse, sous peine de sanctions économiques.\n\nPoints clés :\n• Le Pentagone menace de couper les contrats si Anthropic refuse\n• Enjeux financiers et éthiques majeurs pour l'IA générative\n• Risque de militarisation accélérée des modèles de langage\n\nCette pression pourrait redéfinir le rôle des IA dans la défense et la surveillance.",
-        "long_summary_en": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "IA vs. le Pentagone : robots tueurs, surveillance de masse et limites éthiques",
-        "title_en": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
-        "summary": "Anthropic refuse de lever les garde-fous de ses IA pour le Pentagone, déclenchant un bras de fer sur l'usage militaire des modèles.",
-        "summary_en": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would requ",
-        "long_summary": "Anthropic, une startup d'IA, est en conflit avec le Pentagone après avoir refusé de modifier ses modèles pour autoriser des usages comme la surveillance de masse.\n\nPoints clés :\n• Anthropic refuse de lever les garde-fous éthiques de ses IA pour le Pentagone\n• Le Pentagone exige des modèles sans restrictions pour des usages militaires, y compris la surveillance\n• Ce conflit soulève des questions sur le contrôle des IA par les gouvernements\n\nCe bras de fer pourrait redéfinir les limites éthiques de l'IA dans le secteur militaire.",
-        "long_summary_en": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2258899592.jpg?quality=90&strip=all&crop=0%2C10.651104903874%2C100%2C78.697790192253&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Des centaines d'employés de Google et OpenAI soutiennent Anthropic face au Pentagone",
-        "title_en": "Hundreds of Google, OpenAI employees back Anthropic in Pentagon fight",
-        "summary": "Des employés de Google et OpenAI s'opposent au Pentagone pour défendre Anthropic, soulignant les tensions autour de l'IA militaire.",
-        "summary_en": "“As long as it is going to comply with legal protections and the few red lines that the field, we have, I think we share with Anthropic and that other companies also independently agree with, I think ",
-        "long_summary": "Des centaines d'employés de Google et OpenAI ont signé une lettre ouverte soutenant Anthropic dans son refus de collaborer avec le Pentagone.\n\nPoints clés :\n• Les employés critiquent l'utilisation de l'IA à des fins militaires\n• Anthropic refuse de participer à des projets liés à la défense\n• Le débat soulève des questions éthiques sur le rôle de l'IA dans l'armée\n\nCette opposition marque un tournant dans la régulation de l'IA et son utilisation par les gouvernements.",
-        "long_summary_en": "Access to this page has been denied Your browser appears to have Javascript disabled. For instructions on how to enable Javascript please click here . If you have any issues, please contact us at challengehelp@humansecurity.com",
-        "image": "https://www.findarticles.com/wp-content/uploads/2026/02/in_article_edited_1772212073.png",
-        "source": "Thehill",
-        "url": "https://thehill.com/policy/technology/5759106-google-openai-anthropic-pentagon-ai/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
-        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "summary": "Analyse détaillée des tarifs des API d'IA en 2026, avec des écarts de prix significatifs entre les modèles.",
-        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs as of December 2025: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI ",
-        "long_summary": "Cette étude compare les modèles de tarification de quatre API d'IA majeures en décembre 2025 : Grok (xAI), Gemini (Google), GPT-4o (OpenAI) et Claude (Anthropic).\n\nPoints clés :\n• Grok est le moins cher avec 0,20$/M input et 0,50$/M output\n• Claude Opus 4 est le plus coûteux à 15$/M input et 75$/M output\n• Les prix varient selon les modèles et les fournisseurs\n\nConclusion sur les implications : Les entreprises doivent évaluer soigneusement leurs besoins pour choisir l'option la plus rentable.",
-        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 2/27/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs as of December 2025: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI in partnership with the X platform), Google’s Gemini, OpenAI’s ChatGPT (A",
-        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Les employés de Google réclament des limites éthiques pour l'IA militaire",
-        "title_en": "Google Workers Seek ‘Red Lines’ on Military A.I., Echoing Anthropic - The New York Times",
-        "summary": "Des employés de Google exigent des garde-fous contre l'utilisation de l'IA dans des applications militaires, rejoignant les préoccupations d'Anthropic.",
-        "summary_en": "More than 100 Google A.I. employees sent a letter to Jeff Dean, a chief scientist, opposing Gemini’s use for U.S. surveillance and some autonomous weapons. ... Jeff Dean, the chief scientist of Google",
-        "long_summary": "Des employés de Google s'inspirent d'Anthropic pour demander des limites claires sur l'utilisation de l'IA dans des projets militaires.\n\nPoints clés :\n• Des employés de Google rejoignent le mouvement lancé par Anthropic pour limiter l'IA militaire\n• Des craintes sur l'utilisation éthique des modèles de langage avancés\n• Un débat croissant sur le rôle des entreprises tech dans la défense\n\nConclusion sur les implications :\nCette initiative pourrait influencer les politiques internes des géants de la tech et relancer le débat sur la régulation de l'IA.",
-        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
-        "image": "https://dnyuz.com/wp-content/uploads/2026/02/26biz-deepmind-letter-jeff-vtkq-facebookJumbo-1024x536.jpg",
-        "source": "Nytimes",
-        "url": "https://www.nytimes.com/2026/02/26/technology/google-deepmind-letter-pentagon.html",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Sakana AI révolutionne l'adaptation des LLMs avec Doc-to-LoRA et Text-to-LoRA",
-        "title_en": "Sakana AI Introduces Doc-to-LoRA and Text-to-LoRA: Hypernetworks that Instantly Internalize Long Contexts and Adapt LLMs via Zero-Shot Natural Language",
-        "summary": "Sakana AI propose une nouvelle méthode pour adapter les LLMs sans compromis entre flexibilité et efficacité.",
-        "summary_en": "Customizing Large Language Models (LLMs) currently presents a significant engineering trade-off between the flexibility of In-Context Learning (ICL) and the efficiency of Context Distillation (CD) or ",
-        "long_summary": "Les modèles de langage actuels peinent à concilier apprentissage en contexte et distillation de contexte. Sakana AI propose une solution innovante via des hyperréseaux.\n\nPoints clés :\n• Introduction de Text-to-LoRA (T2L) et Doc-to-LoRA pour une adaptation instantanée\n• Méthode zero-shot en langage naturel pour internaliser des contextes longs\n• Solution optimisée pour réduire les coûts d'adaptation des LLMs\n\nCette avancée pourrait transformer l'utilisation des LLMs en entreprise, en rendant leur personnalisation plus accessible et économique.",
-        "long_summary_en": "Customizing Large Language Models (LLMs) currently presents a significant engineering trade-off between the flexibility of In-Context Learning (ICL) and the efficiency of Context Distillation (CD) or Supervised Fine-Tuning (SFT). Tokyo-based Sakana AI has proposed a new approach to bypass these constraints through cost amortization. In two of their recent papers, they introduced Text-to-LoRA (T2L) and […]\nThe post Sakana AI Introduces Doc-to-LoRA and Text-to-LoRA: Hypernetworks that Instantly Internalize Long Contexts and Adapt LLMs via Zero-Shot Natural Language appeared first on MarkTechPost",
-        "image": "https://external-preview.redd.it/sakana-ai-introduces-text-to-lora-t2l-a-hypernetwork-that-v0-lhUK0lpvl-HlwPQkgxq1p5it09fiwwLvSKQ6mHHQtjk.png?width=640&crop=smart&auto=webp&s=0292fdb7baf5eb856d5d01d15b061361353a6747",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Créer un agent IA planificateur hiérarchique avec des modèles open-source",
-        "title_en": "A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning",
-        "summary": "Un tutoriel pour concevoir un agent multi-agents avec planification, exécution et agrégation de tâches complexes.",
-        "summary_en": "In this tutorial, we build a hierarchical planner agent using an open-source instruct model. We design a structured multi-agent architecture comprising a planner agent, an executor agent, and an aggre",
-        "long_summary": "Ce tutoriel montre comment construire un agent IA planificateur hiérarchique utilisant des modèles open-source. L'architecture repose sur trois agents spécialisés : un planificateur, un exécuteur et un agrégateur.\n\nPoints clés :\n• Décomposition des objectifs en étapes actionnables\n• Exécution structurée des tâches via des outils\n• Agrégation des résultats pour une résolution optimale\n\nCette approche ouvre la voie à des systèmes IA plus autonomes et efficaces pour des tâches complexes.",
-        "long_summary_en": "In this tutorial, we build a hierarchical planner agent using an open-source instruct model. We design a structured multi-agent architecture comprising a planner agent, an executor agent, and an aggregator agent, where each component plays a specialized role in solving complex tasks. We use the planner agent to decompose high-level goals into actionable steps, the […]\nThe post A Coding Implementation to Build a Hierarchical Planner AI Agent Using Open-Source LLMs with Tool Execution and Structured Multi-Agent Reasoning appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-70-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/02/27/a-coding-implementation-to-build-a-hierarchical-planner-ai-agent-using-open-source-llms-with-tool-execution-and-structured-multi-agent-reasoning/",
         "date": "28 February 2026"
       }
     ],
@@ -914,13 +914,6 @@
   },
   "hotNews": [
     {
-      "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
-      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-      "date": "28 February 2026"
-    },
-    {
       "title": "Prix de l'IA en 2026 : Google Gemini vs. OpenAI GPT - Analyse comparative",
       "title_en": "AI Image Pricing 2026: Google Gemini vs. OpenAI GPT Cost Analysis | IntuitionLabs",
       "source": "Intuitionlabs",
@@ -928,10 +921,17 @@
       "date": "26 February 2026"
     },
     {
-      "title": "Pentagone vs Anthropic : l'IA Claude au cœur d'un conflit militaire",
-      "title_en": "Pentagon Presses Anthropic Guardrails, Gemini’s Agentic Debut, Viture Raises $100 Million",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/charliefink/2026/02/27/pentagon-presses-anthropic-guardrails-geminis-agentic-debut-viture-raises-100-million/",
+      "title": "Gemini 3.1 Pro : Google DeepMind révolutionne l'IA avec un modèle multimodal ultra-performant",
+      "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/ai-news",
+      "date": "01 March 2026"
+    },
+    {
+      "title": "ChatGPT atteint 900 millions d'utilisateurs actifs par semaine",
+      "title_en": "ChatGPT reaches 900M weekly active users",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
       "date": "28 February 2026"
     }
   ]
