@@ -1,7 +1,55 @@
 {
-  "lastUpdate": "01 March 2026 - 12:32",
+  "lastUpdate": "01 March 2026 - 18:31",
   "categories": {
     "general": [
+      {
+        "title": "Google DeepMind révolutionne l'IA avec Unified Latents (UL)",
+        "title_en": "Google DeepMind Introduces Unified Latents (UL): A Machine Learning Framework that Jointly Regularizes Latents Using a Diffusion Prior and Decoder",
+        "summary": "DeepMind propose un cadre unifiant pour optimiser les latents en IA générative, combinant diffusion et décodage.",
+        "summary_en": "Generative AI’s current trajectory relies heavily on Latent Diffusion Models (LDMs) to manage the computational cost of high-resolution synthesis. By compressing data into a lower-dimensional latent s",
+        "long_summary": "Les modèles d'IA générative reposent sur des espaces latents compressés pour réduire les coûts. DeepMind introduit Unified Latents (UL), une approche innovante combinant régularisation par diffusion et décodage.\n\nPoints clés :\n• UL résout le compromis entre qualité de reconstruction et densité d'information\n• La méthode utilise un prior de diffusion pour guider l'apprentissage des latents\n• Potentiel pour améliorer les modèles de langage et l'IA générative\n\nCette avancée pourrait transformer la manière dont les modèles traitent les données, ouvrant la voie à des synthèses plus précises et efficaces.",
+        "long_summary_en": "Generative AI’s current trajectory relies heavily on Latent Diffusion Models (LDMs) to manage the computational cost of high-resolution synthesis. By compressing data into a lower-dimensional latent space, models can scale effectively. However, a fundamental trade-off persists: lower information density makes latents easier to learn but sacrifices reconstruction quality, while higher density enables near-perfect reconstruction but […]\nThe post Google DeepMind Introduces Unified Latents (UL): A Machine Learning Framework that Jointly Regularizes Latents Using a Diffusion Prior and Decoder appea",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-71-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "L'Amérique perd la course à la vie extraterrestre, tandis que la Chine accélère",
+        "title_en": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+        "summary": "Les États-Unis dominent moins la quête de vie martienne face à la Chine. L'IA pourrait révolutionner l'analyse des données extraterrestres.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China ",
+        "long_summary": "Le rover Perseverance de la NASA a découvert des roches étranges sur Mars, mais la Chine investit massivement dans l'exploration spatiale.\n\nPoints clés :\n• La Chine accélère ses missions martiennes, menaçant la suprématie américaine\n• L'IA et le machine learning pourraient accélérer l'analyse des échantillons extraterrestres\n• Les modèles de langage comme ceux d'OpenAI ou Google pourraient aider à interpréter les données\n\nLes implications sont majeures pour la recherche spatiale et la course technologique mondiale.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. America was winning the race to find Martian life. Then China jumped in. In July 2024, NASA’s Perseverance rover came across a peculiar rocky outcrop on Mars covered in strange spots. On Earth,…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260225_xinmei_TR_RacetoMars_image1intro_final.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Le Honor Magic V6 redéfinit les standards des smartphones pliables avec une IA intégrée",
+        "title_en": "I held the thinnest foldable phone at MWC 2026, and it sets a satisfying new standard",
+        "summary": "Le Honor Magic V6 combine une batterie massive et un design ultra-fin, avec une IA avancée pour une expérience utilisateur optimisée.",
+        "summary_en": "The Honor Magic V6 packs a massive battery and razor-thin profile into a foldable that feels like a regular phone. Here's what stood out during my first hands-on.",
+        "long_summary": "Le Honor Magic V6, présenté au MWC 2026, marie un design pliable ultra-mince à des fonctionnalités IA révolutionnaires.\n\nPoints clés :\n• Batterie massive et profil ultra-fin pour un confort d'utilisation\n• IA intégrée pour une personnalisation intelligente des performances\n• Interface adaptative grâce aux modèles de langage avancés\n\nL'intégration de l'IA dans les smartphones pliables pourrait bien devenir la norme, transformant l'expérience utilisateur.",
+        "long_summary_en": "The Honor Magic V6 packs a massive battery and razor-thin profile into a foldable that feels like a regular phone. Here's what stood out during my first hands-on.",
+        "image": "https://www.zdnet.com/a/img/resize/5b8118d8a24b5158399645162679fd6629fbe012/2026/02/28/e7c949bc-7651-4a72-8177-02543c2279a5/pxl-20260228-005534451-portrait.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/honor-magic-v-6-hands-on-mwc-2026/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "L'attaque AirSnitch contourne le chiffrement Wi-Fi, même sur les réseaux invités",
+        "title_en": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
+        "summary": "Les réseaux Wi-Fi invités, souvent considérés comme sécurisés, sont vulnérables à une nouvelle attaque exploitant l'IA.",
+        "summary_en": "That guest network you set up for your neighbors may not be as secure as you think.",
+        "long_summary": "Les chercheurs ont découvert une faille permettant de contourner le chiffrement Wi-Fi via des réseaux invités.\n\nPoints clés :\n• L'attaque AirSnitch exploite les protocoles Wi-Fi standard pour accéder aux données.\n• Elle cible aussi bien les particuliers que les entreprises.\n• Les solutions actuelles de sécurité ne détectent pas cette menace.\n\nCette vulnérabilité souligne l'importance de renforcer les protocoles Wi-Fi et d'intégrer des outils d'IA pour détecter les attaques sophistiquées.",
+        "long_summary_en": "That guest network you set up for your neighbors may not be as secure as you think.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
+        "date": "01 March 2026"
+      },
       {
         "title": "Guide complet pour suivre les expériences MLflow, optimiser les hyperparamètres et déployer des modèles en production",
         "title_en": "A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Model Evaluation, and Live Model Deployment",
@@ -132,54 +180,6 @@
         "image": "https://media.wired.com/photos/69a099a68b4e433f4999c9c4/3:2/w_1280,c_limit/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg",
         "source": "Wired",
         "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "L'IA transforme la pensée des meilleurs joueurs de Go au monde",
-        "title_en": "AI is rewiring how the world’s best Go players think",
-        "summary": "L'IA révolutionne la stratégie des joueurs de Go, influençant leur façon de penser et de jouer.",
-        "summary_en": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. Th",
-        "long_summary": "L'IA, notamment les modèles de langage avancés, redéfinit les standards du jeu de Go, un jeu ancestral en Corée du Sud.\n\nPoints clés :\n• Les joueurs intègrent des stratégies inspirées par l'IA, comme AlphaGo.\n• Les modèles d'IA génèrent des coups imprévisibles, forçant les humains à s'adapter.\n• Cette évolution pourrait influencer d'autres domaines stratégiques, comme les affaires ou la politique.\n\nCette transformation montre comment l'IA repousse les limites de la pensée humaine.",
-        "long_summary_en": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.  But inside the building, rooms once filled with the soft clatter of hands dipping into…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "MWC Barcelone 2026 : L'IA et les innovations technologiques à l'honneur",
-        "title_en": "MWC Barcelona 2026: All the New Tech, Phones, Wearables and AI We Expect to See",
-        "summary": "Le MWC 2026 promet des révélations majeures en IA, smartphones et wearables par Xiaomi, Nvidia et d'autres géants.",
-        "summary_en": "This year's Mobile World Congress starts Monday and will be packed with reveals from Xiaomi, Honor, Nvidia and more.",
-        "long_summary": "Le Mobile World Congress 2026 s'ouvre lundi avec des annonces attendues sur l'IA générative, les LLMs et les nouveaux appareils.\n\nPoints clés :\n• Xiaomi et Honor dévoileront des smartphones intégrant des modèles de langage avancés\n• Nvidia présentera des avancées en IA et machine learning pour les wearables\n• Les géants de l'IA comme OpenAI, Google et Anthropic pourraient annoncer des partenariats technologiques\n\nL'événement marquera une étape clé dans l'adoption massive de l'IA dans les appareils grand public.",
-        "long_summary_en": "This year's Mobile World Congress starts Monday and will be packed with reveals from Xiaomi, Honor, Nvidia and more.",
-        "image": "https://www.cnet.com/a/img/resize/c5097f3047b78b550abdefb1f8e911b74bee4490/hub/2026/02/28/ee4252cf-2066-48b8-8ac6-20e766f77270/mwc26-v2.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/mobile/mwc-2026-barcelona-what-to-expect-and-how-to-watch/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Samsung Unpacked 2026 : IA générative et écran privé pour le Galaxy S26 Ultra",
-        "title_en": "Everything Samsung announced at Unpacked this week: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro",
-        "summary": "Samsung dévoile le Galaxy S26 Ultra avec IA avancée et écran privé, ainsi que les Buds 4 Pro et une IA agentique.",
-        "summary_en": "From Galaxy S26 phones with creative features to new earbuds and agentic AI, here's everything unveiled at Samsung Unpacked 2026.",
-        "long_summary": "Samsung a présenté sa nouvelle gamme Galaxy S26 Ultra, intégrant des modèles de langage génératifs et un écran privé pour la confidentialité.\n\nPoints clés :\n• IA générative pour des fonctionnalités créatives\n• Écran privé pour protéger les données sensibles\n• Buds 4 Pro avec traitement audio par IA\n• Collaboration avec OpenAI et Google pour les LLMs\n\nCes innovations positionnent Samsung comme un leader dans l'IA embarquée, rivalisant avec Apple et Google.",
-        "long_summary_en": "From Galaxy S26 phones with creative features to new earbuds and agentic AI, here's everything unveiled at Samsung Unpacked 2026.",
-        "image": "https://www.zdnet.com/a/img/resize/3a30ef4302060f616d78967f815e36db64ae9612/2024/02/26/d29eced9-82ac-46e7-90ce-6986023eb437/dsc01316.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/everything-announced-at-samsung-unpacked-2026/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Un mini PC Windows aussi puissant qu'un ordinateur de bureau",
-        "title_en": "I replaced my full-sized desktop with a mini Windows PC, and it's somehow just as capable",
-        "summary": "Le Veriton NUC AI d'Acer combine compacité et puissance, idéal pour l'IA et le machine learning.",
-        "summary_en": "Acer's Veriton NUC AI is a compact Windows PC with a bevy of ports and a portable form factor.",
-        "long_summary": "Le Veriton NUC AI d'Acer est un PC Windows ultra-compact doté de nombreuses connectiques et d'une puissance adaptée aux applications IA.\n\nPoints clés :\n• Design portable et performant pour l'IA et le machine learning\n• Nombreux ports pour une connectivité optimale\n• Puissance équivalente à un desktop traditionnel\n\nCette innovation montre que les mini-PC peuvent rivaliser avec les machines plus volumineuses, ouvrant la voie à des solutions IA plus accessibles.",
-        "long_summary_en": "Acer's Veriton NUC AI is a compact Windows PC with a bevy of ports and a portable form factor.",
-        "image": "https://www.zdnet.com/a/img/resize/f5c6cce5b7548b9eba3b1a0b6c0938da857c6ba1/2025/12/02/96a56a5d-65ee-4738-bfd7-c84d999e20a1/acer-veriton-mini-pc-image-6.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/acer-veriton-nuc-pc-review/",
         "date": "28 February 2026"
       }
     ],
@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "Le piège dans lequel Anthropic s'est enfermé",
+        "title_en": "The trap Anthropic built for itself",
+        "summary": "Anthropic et ses pairs promettent une IA responsable, mais sans régulation, ils n'ont plus de protection.",
+        "summary_en": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+        "long_summary": "Anthropic, OpenAI et Google DeepMind ont longtemps affirmé leur engagement envers une IA responsable. Aujourd'hui, l'absence de cadre réglementaire les expose.\n\nPoints clés :\n• Les géants de l'IA s'auto-régulent, mais sans règles claires\n• Le manque de régulation crée un vide juridique et éthique\n• Les entreprises risquent des conséquences imprévues\n\nConclusion sur les implications : Sans régulation, l'IA avancée pourrait échapper à tout contrôle, menaçant à la fois les entreprises et la société.",
+        "long_summary_en": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "Claude d'Anthropic domine l'App Store après un conflit avec le Pentagone",
+        "title_en": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+        "summary": "L'IA Claude d'Anthropic profite de la médiatisation de ses négociations tendues avec le Pentagone pour atteindre la première place.",
+        "summary_en": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+        "long_summary": "Anthropic, rival d'OpenAI et Google, voit son chatbot Claude grimper en tête des téléchargements.\n\nPoints clés :\n• L'attention médiatique sur les négociations avec le Pentagone a boosté sa visibilité\n• Claude surpasse des modèles comme ChatGPT et Bard\n• Cette ascension reflète l'intérêt croissant pour les LLMs spécialisés\n\nCette dynamique montre l'impact des controverses sur l'adoption des IA génératives.",
+        "long_summary_en": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+        "date": "01 March 2026"
+      },
+      {
+        "title": "OpenAI révèle des détails sur son accord controversé avec le Pentagone",
+        "title_en": "OpenAI reveals more details about its agreement with the Pentagon",
+        "summary": "Sam Altman admet que l'accord avec le Pentagone était précipité et mal perçu.",
+        "summary_en": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+        "long_summary": "OpenAI a signé un accord avec le Pentagone, suscitant des critiques sur son indépendance.\n\nPoints clés :\n• Sam Altman reconnaît que le partenariat a été conclu trop rapidement\n• Les critiques pointent les risques pour l'éthique et l'indépendance d'OpenAI\n• Le Pentagone cherche à intégrer l'IA dans ses opérations militaires\n\nConclusion sur les implications : Cet accord soulève des questions sur l'influence des gouvernements sur les modèles d'IA et les risques de militarisation.",
+        "long_summary_en": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+        "date": "01 March 2026"
+      },
+      {
         "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
         "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
         "summary": "Analyse détaillée des coûts des modèles Grok, Gemini, GPT-4o et Claude pour les entreprises et développeurs.",
@@ -691,45 +727,21 @@
         "source": "Wired",
         "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
         "date": "01 March 2026"
-      },
-      {
-        "title": "Trump ordonne aux agences fédérales d'abandonner l'IA d'Anthropic",
-        "title_en": "Trump orders federal agencies to drop Anthropic’s AI",
-        "summary": "Donald Trump accuse Anthropic de forcer la main au Pentagone et exige l'arrêt immédiat de ses outils IA.",
-        "summary_en": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CE",
-        "long_summary": "Le président américain a publié un message sur Truth Social, critiquant le refus d'Anthropic de signer un accord militaire.\n\nPoints clés :\n• Trump accuse Anthropic de pression sur le Pentagone\n• L'entreprise refuse un accord autorisant « tout usage légal »\n• Les agences fédérales sont sommées d'arrêter l'utilisation de Claude\n\nCette décision pourrait accélérer la fragmentation du marché de l'IA aux États-Unis.",
-        "long_summary_en": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "Le Pentagone qualifie Anthropic de risque pour la chaîne d'approvisionnement",
-        "title_en": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-        "summary": "Le Pentagone étend l'interdiction de Trump contre Anthropic, la qualifiant de risque pour la chaîne d'approvisionnement. L'entreprise conteste cette décision.",
-        "summary_en": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further a",
-        "long_summary": "Le secrétaire à la Défense Pete Hegseth a désigné Anthropic comme un risque pour la chaîne d'approvisionnement, quelques heures après l'annonce de Trump interdisant ses produits.\n\nPoints clés :\n• Le Pentagone étend l'interdiction de Trump contre Anthropic\n• L'entreprise conteste cette décision en justice\n• Impact potentiel sur les contrats fédéraux et la concurrence dans l'IA\n\nCette décision pourrait avoir des répercussions sur l'écosystème de l'IA, notamment pour les modèles de langage comme ceux d'Anthropic, OpenAI ou Google.",
-        "long_summary_en": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&strip=all&crop=0%2C10.737015400442%2C100%2C78.525969199116&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "Les méga-investissements qui alimentent l'explosion de l'IA",
-        "title_en": "The billion-dollar infrastructure deals powering the AI boom",
-        "summary": "Les géants tech déploient des milliards pour des centres de données et des modèles d'IA. Qui investit le plus ?",
-        "summary_en": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
-        "long_summary": "Les acteurs majeurs de l'IA multiplient les investissements dans des infrastructures dédiées, avec des projets colossaux en cours.\n\nPoints clés :\n• Meta, Oracle, Microsoft, Google et OpenAI dépensent des milliards dans des centres de données et des modèles d'IA\n• Ces investissements visent à soutenir les LLMs et l'IA générative\n• La course aux infrastructures reflète la compétition pour dominer le marché de l'IA\n\nCes dépenses record pourraient accélérer l'innovation mais soulèvent des questions sur la durabilité et l'éthique.",
-        "long_summary_en": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-        "date": "01 March 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Les écouteurs Soundcore Space 2 révolutionnent l'IA audio avec des améliorations majeures",
+        "title_en": "Soundcore's latest budget headphones fix my biggest issues with last year's model",
+        "summary": "Les nouveaux écouteurs Soundcore Space 2 intègrent des modèles d'IA avancés pour une expérience audio optimisée.",
+        "summary_en": "The $130 Soundcore Space 2 headphones debut at MWC 2026 with upgrades to audio hardware, noise cancellation, and battery life.",
+        "long_summary": "Les Soundcore Space 2, présentés au MWC 2026, marquent une avancée majeure dans l'audio intelligent grâce à l'IA.\n\nPoints clés :\n• Amélioration de la réduction de bruit via des algorithmes d'IA générative\n• Optimisation du son avec des modèles de langage pour une personnalisation avancée\n• Autonomie prolongée grâce à l'apprentissage automatique\n\nCes innovations positionnent Soundcore comme un leader dans l'intégration de l'IA dans les appareils grand public.",
+        "long_summary_en": "The $130 Soundcore Space 2 headphones debut at MWC 2026 with upgrades to audio hardware, noise cancellation, and battery life.",
+        "image": "https://www.zdnet.com/a/img/resize/c980f5a7f0cb69f0070b29eb34e256e29a1bce1f/2026/02/27/1fbd694a-1700-47b1-9e25-838fa7c7599f/space2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/soundcore-space-2-news/",
+        "date": "01 March 2026"
+      },
       {
         "title": "Spotify intègre les classements d'audiolivres grâce à l'IA",
         "title_en": "Spotify Expands Into Audiobook Rankings With Weekly Charts",
@@ -897,18 +909,6 @@
         "source": "cnet_ai",
         "url": "https://www.cnet.com/tech/mobile/why-stopped-wearing-earbuds-hearing-loss/",
         "date": "21 February 2026"
-      },
-      {
-        "title": "La censure algorithmique s'attaque à Colbert : l'IA et la régulation des discours",
-        "title_en": "The speech police came for Colbert",
-        "summary": "Les régulateurs américains menacent les humoristes, soulevant des questions sur l'IA et la liberté d'expression.",
-        "summary_en": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ",
-        "long_summary": "Le commissaire Brendan Carr de la FCC cible les émissions humoristiques, invoquant des règles obscures. Cela soulève des débats sur l'utilisation de l'IA pour modérer le contenu.\n\nPoints clés :\n• L'IA pourrait être utilisée pour automatiser la censure des discours.\n• Les modèles de langage comme ceux d'OpenAI ou Google pourraient influencer ces décisions.\n• Cela menace la liberté d'expression et la satire.\n\nConclusion sur les implications : Cette affaire pourrait normaliser l'utilisation de l'IA pour contrôler les médias, posant des risques pour la démocratie.",
-        "long_summary_en": "Generally speaking, arcane and mostly unenforced FCC rules are not the province of late night talk shows. FCC Commissioner Brendan Carr seems intent on changing that, though; not long after causing a ruckus that briefly took Jimmy Kimmel off the air, his vague threats appear to have been enough to convince CBS to tell Stephen […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/VRG_VST_021926_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/881222/fcc-colbert-talarico-brendan-carr-vergecast",
-        "date": "20 February 2026"
       }
     ]
   },
@@ -921,17 +921,17 @@
       "date": "01 March 2026"
     },
     {
-      "title": "Claude vs ChatGPT vs Copilot vs Gemini : Guide 2026 pour les entreprises",
-      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-      "date": "01 March 2026"
-    },
-    {
       "title": "Gemini 3.1 Pro : Google DeepMind révolutionne l'IA avec un modèle multimodal ultra-performant",
       "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
       "source": "Llm-Stats",
       "url": "https://llm-stats.com/ai-news",
+      "date": "01 March 2026"
+    },
+    {
+      "title": "Claude vs ChatGPT vs Copilot vs Gemini : Guide 2026 pour les entreprises",
+      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
       "date": "01 March 2026"
     }
   ]
