@@ -1,7 +1,115 @@
 {
-  "lastUpdate": "01 March 2026 - 18:31",
+  "lastUpdate": "02 March 2026 - 08:02",
   "categories": {
     "general": [
+      {
+        "title": "Pony AI atteint la rentabilité avec ses robotaxis Gen-7 à Shenzhen",
+        "title_en": "AI Stock News Today News Live Feed | Stock Titan",
+        "summary": "Pony AI franchit une étape majeure en atteignant la rentabilité avec ses robotaxis Gen-7 à Shenzhen, renforçant sa position dans la course à la commercialisation.",
+        "summary_en": "PONY AI Inc. Achieved Gen-7 Robotaxi UE Breakeven in Shenzhen, Strengthening Path to Scalable Commercialization",
+        "long_summary": "Pony AI Inc. a annoncé que ses robotaxis autonomes de 7e génération ont atteint le seuil de rentabilité à Shenzhen, marquant une avancée significative dans l'industrie.\n\nPoints clés :\n• Rentabilité atteinte avec les robotaxis Gen-7, une première pour Pony AI\n• Renforcement de la position concurrentielle face à des acteurs comme Waymo et Cruise\n• Accélération du déploiement commercial à grande échelle\n\nCette percée pourrait redéfinir les standards de l'autonomie et influencer les stratégies des géants de l'IA comme OpenAI et Google dans les transports intelligents.",
+        "long_summary_en": "PONY AI Inc. Achieved Gen-7 Robotaxi UE Breakeven in Shenzhen, Strengthening Path to Scalable Commercialization",
+        "image": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+        "source": "Stocktitan",
+        "url": "https://www.stocktitan.net/news/ai.html",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "La crise de l'exploitation des enfants par l'IA est là",
+        "title_en": "The AI child exploitation crisis is here",
+        "summary": "L'IA facilite la création de contenus pédopornographiques, défiant les forces de l'ordre et les législateurs.",
+        "summary_en": "<strong>The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months</strong>.",
+        "long_summary": "L'essor de l'IA permet aux criminels de générer des images d'exploitation sexuelle d'enfants, réels ou fictifs, exploitant les failles des systèmes.\n\nPoints clés :\n• Plus d'un million de signalements liés à l'IA reçus en 2025 par le CyberTipline aux États-Unis\n• Les images générées sont quasi indistinguables des vraies, compliquant l'identification des victimes\n• Les modèles open-source et les plateformes spécialisées accélèrent la diffusion de ces contenus\n\nConclusion sur les implications : Les avancées technologiques dépassent les capacités de régulation, nécessitant des mesures urgentes.",
+        "long_summary_en": "AI has added a confounding element to child sexual abuse cases for law enforcement. Justine Goode / NBC News; Getty Images Share Add NBC News to Google Feb. 28, 2026, 7:00 AM EST By Bruna Horvath Listen to this article with a free account 00:00 00:00 The rapid advancement of artificial intelligence has made it easier than ever for bad actors to create child sexual abuse material, leaving prosecutors and lawmakers struggling to keep up. Despite efforts by tech companies, law enforcement and activists, offenders consistently exploit system loopholes, open-source AI models and ready-made sexual e",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260220-CSAM-AI-jg-abaa2c.jpg",
+        "source": "Nbcnews",
+        "url": "https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Artificial Intelligence News -- ScienceDaily",
+        "title_en": "Artificial Intelligence News -- ScienceDaily",
+        "summary": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature opti",
+        "summary_en": "New Prediction Breakthrough Delivers Results Shockingly Close to Reality · Nov. 14, 2025  Researchers have created a prediction method that comes startlingly close to real-world results. It works by ",
+        "long_summary": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature optical cavities that efficiently collect light from individual atoms, allowing ... Unbreakable? Researchers Warn Quantum Computers Have Serious Security Flaws Jan. 20, 2026 Â Quantum computers could revolutionize everything from drug discovery to business analyticsâbut their incredible power also makes them surprisingly vulnerable. New research from Penn State warns ... The Breakthrough That Makes Robot Faces Feel Less Creepy Jan. 16, 2026 Â Humans pay enormous attention to lips during conversation, and robots have struggled badly to keep up. A new robot developed at Columbia Engineering learned realistic lip movements by watching its ... Less Than a Trillionth of a Second: Ultrafast UV Light Could Transform Communications and Imaging Jan. 7, 2026 Â Researchers have built a new platform that produces ultrashort UV-C laser pulses and detects them at room temperature using atom-thin materials. The ... Scientists Create Robots Smaller Than a Grain of Salt That Can Think Jan. 6, 2026 Â Researchers have created microscopic robots so small theyâre barely visible, yet smart enough to sense, decide, and move completely on their own. Powered by light and equipped with tiny computers, ... AI May Not Need Massive Training Data After All Jan. 4, 2026 Â New research shows that AI doesnâ",
+        "long_summary_en": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature optical cavities that efficiently collect light from individual atoms, allowing ... Unbreakable? Researchers Warn Quantum Computers Have Serious Security Flaws Jan. 20, 2026 Â Quantum computers could revolutionize everything from drug discovery to business analyticsâbut their incredible power also makes them surprisingly vulnerable. New research from Penn State warns ... The Breakthrough That Makes",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "source": "Sciencedaily",
+        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Comment construire un pipeline d'IA explicable avec SHAP-IQ pour analyser l'importance des caractéristiques et les interactions",
+        "title_en": "How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature Importance, Interaction Effects, and Model Decision Breakdown",
+        "summary": "Découvrez comment créer un pipeline d'IA explicable avec SHAP-IQ pour analyser l'importance des caractéristiques et les interactions dans les modèles de machine learning.",
+        "summary_en": "In this tutorial, we build an advanced explainable AI analysis pipeline using SHAP-IQ to understand both feature importance and interaction effects directly inside our Python environment. We load a re",
+        "long_summary": "Ce tutoriel montre comment construire un pipeline d'IA explicable en utilisant SHAP-IQ pour comprendre l'importance des caractéristiques et les effets d'interaction dans un modèle Random Forest.\n\nPoints clés :\n• Utilisation de SHAP-IQ pour des explications théoriquement fondées\n• Analyse des interactions entre caractéristiques\n• Extraction d'explications précises des prédictions\n\nCette approche améliore la transparence des modèles d'IA, essentielle pour leur adoption dans des domaines critiques.",
+        "long_summary_en": "In this tutorial, we build an advanced explainable AI analysis pipeline using SHAP-IQ to understand both feature importance and interaction effects directly inside our Python environment. We load a real-world dataset, train a high-performance Random Forest model, and then apply the SHAP-IQ interaction index to compute precise, theoretically grounded explanations of model predictions. We extract […]\nThe post How to Build an Explainable AI Analysis Pipeline Using SHAP-IQ to Understand Feature Importance, Interaction Effects, and Model Decision Breakdown appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-70-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/01/how-to-build-an-explainable-ai-analysis-pipeline-using-shap-iq-to-understand-feature-importance-interaction-effects-and-model-decision-breakdown/",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "L'IA transforme la réflexion des meilleurs joueurs de Go au monde",
+        "title_en": "AI is rewiring how the world’s best Go players think",
+        "summary": "L'IA révolutionne la stratégie des joueurs de Go, influençant leur approche et leur apprentissage.",
+        "summary_en": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. Th",
+        "long_summary": "Le jeu de Go, ancré dans la culture coréenne, voit ses champions s'adapter aux modèles d'IA comme AlphaGo.\n\nPoints clés :\n• L'IA a introduit des stratégies inédites, forçant les joueurs à repenser leur jeu\n• Les modèles comme AlphaGo ont révélé des mouvements contre-intuitifs mais efficaces\n• Les joueurs intègrent désormais l'analyse IA dans leur entraînement\n\nCette évolution montre comment l'IA influence les domaines traditionnels, poussant l'excellence humaine à se réinventer.",
+        "long_summary_en": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.  But inside the building, rooms once filled with the soft clatter of hands dipping into…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Lenovo séduit avec ses compagnons AI de bureau, bientôt disponibles",
+        "title_en": "I'm Enamored With Lenovo's Desktop AI Companions, and I Could Use Their Help",
+        "summary": "Lenovo présente des concepts AI innovants au MWC 2026, dont un modèle commercialisable rapidement.",
+        "summary_en": "Lenovo brought some adorable AI concepts to MWC 2026 -- one of which you'll actually be able to buy soon.",
+        "long_summary": "Lenovo a dévoilé des concepts AI charmants lors du MWC 2026, dont un modèle qui sera commercialisé prochainement.\n\nPoints clés :\n• Lenovo explore des assistants AI physiques pour le bureau\n• Intégration de LLMs et d'IA générative pour des interactions naturelles\n• Collaboration potentielle avec des acteurs majeurs comme OpenAI ou Google\n\nCes innovations pourraient redéfinir l'interaction homme-machine au travail, en combinant design et intelligence artificielle avancée.",
+        "long_summary_en": "Lenovo brought some adorable AI concepts to MWC 2026 -- one of which you'll actually be able to buy soon.",
+        "image": "https://www.cnet.com/a/img/resize/4a1f2ed592a706733ae7e124ee3565ed23a7eaa6/hub/2026/03/01/c4f942d1-b27d-40d3-b573-79427e3d59f7/img-5285.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/services-and-software/lenovo-magic-bay-tico-desktop-ai-companions/",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Le Motorola Razr Fold allie batterie XXL et design élégant",
+        "title_en": "Motorola's Upcoming Razr Fold Pairs a Massive Battery With a Sleek Design",
+        "summary": "Motorola dévoile son nouveau Razr Fold à MWC, avec une batterie optimisée et un design pliable innovant.",
+        "summary_en": "At Mobile World Congress, the company shares more details about its upcoming book-style foldable.",
+        "long_summary": "Motorola a présenté son prochain smartphone pliable lors du Mobile World Congress, mettant en avant une batterie performante et un design élégant.\n\nPoints clés :\n• Batterie optimisée pour une meilleure autonomie\n• Design pliable de type livre pour une expérience utilisateur intuitive\n• Intégration potentielle d'IA pour l'optimisation des performances\n\nL'annonce souligne l'importance des innovations matérielles dans l'ère de l'IA, où les appareils doivent concilier puissance et efficacité.",
+        "long_summary_en": "At Mobile World Congress, the company shares more details about its upcoming book-style foldable.",
+        "image": "https://www.cnet.com/a/img/resize/c7be99f82746b6273d3e091b81cb3fad006bad4f/hub/2026/03/01/075558cd-d8ef-4679-a40f-680fe548cdf8/motorola-razr-fold.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/mobile/motorola-razr-battery-design-details-mwc-2026/",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
+        "title_en": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
+        "summary": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed",
+        "summary_en": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed",
+        "long_summary": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship. Lenovo describes its AI Workmate Concept as an \"always-on […]",
+        "long_summary_en": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship. Lenovo describes its AI Workmate Concept as an \"always-on […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/lenovo1.jpg?quality=90&strip=all&crop=0%2C10.740836125969%2C100%2C78.518327748063&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Google renforce la lutte contre le spam RCS en Inde grâce à l'IA",
+        "title_en": "Google looks to tackle longstanding RCS spam in India — but not alone",
+        "summary": "Google collabore avec Airtel pour intégrer des filtres IA dans RCS et réduire les spams en Inde.",
+        "summary_en": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+        "long_summary": "Google s'associe à Airtel pour renforcer la sécurité des messages RCS en Inde en y intégrant des filtres basés sur l'IA.\n\nPoints clés :\n• Utilisation de modèles de machine learning pour détecter et bloquer les spams\n• Collaboration avec les opérateurs pour une approche centralisée\n• Solution inspirée des avancées en IA générative et traitement du langage\n\nCette initiative pourrait réduire significativement les spams tout en posant des questions sur la vie privée et la centralisation des données.",
+        "long_summary_en": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2169510461.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+        "date": "02 March 2026"
+      },
       {
         "title": "Google DeepMind révolutionne l'IA avec Unified Latents (UL)",
         "title_en": "Google DeepMind Introduces Unified Latents (UL): A Machine Learning Framework that Jointly Regularizes Latents Using a Diffusion Prior and Decoder",
@@ -73,114 +181,6 @@
         "source": "mit_tech",
         "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
         "date": "01 March 2026"
-      },
-      {
-        "title": "Que sont devenus ces téléphones et gadgets futuristes du MWC ?",
-        "title_en": "These MWC Phones and Gadgets Were Wild, So What Happened to Them?",
-        "summary": "Des appareils portables aux gadgets IA extravagants, ces innovations ont disparu aussi vite qu’elles sont apparues.",
-        "summary_en": "From phones you can wear like a bracelet to weird AI gadgets packed with lasers, these products went hard and then went home.",
-        "long_summary": "Le Mobile World Congress (MWC) a souvent été le théâtre de concepts audacieux, mais peu survivent.\n\nPoints clés :\n• Les modèles de langage (LLMs) pourraient révolutionner l’interface utilisateur des gadgets.\n• OpenAI et Google dominent le marché des assistants IA intégrés.\n• L’échec commercial de certains produits s’explique par un manque de maturité technologique.\n\nConclusion sur les implications: L’IA générative et le machine learning pourraient sauver les gadgets futuristes en les rendant plus utiles et accessibles.",
-        "long_summary_en": "From phones you can wear like a bracelet to weird AI gadgets packed with lasers, these products went hard and then went home.",
-        "image": "https://www.cnet.com/a/img/resize/4a3937be74c328af2fbc0e3ca6d855c741648feb/hub/2024/02/27/f3cc8097-dd93-4174-bf53-42d027d8f9f3/humane-ai-pin-mwc-2024-04.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/mobile/i-was-wowed-by-these-mwc-phones-and-gadgets-but-where-are-they-now/",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "L'IA et la transformation Industry 5.0 : vers une valeur augmentée",
-        "title_en": "Finding value with AI and Industry 5.0 transformation",
-        "summary": "L'IA et les technologies émergentes redéfinissent l'industrie avec Industry 5.0, axée sur l'échelle et l'augmentation humaine.",
-        "summary_en": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shi",
-        "long_summary": "L'ère Industry 4.0 a mis l'accent sur l'intégration de l'IA, du cloud et des robots. Industry 5.0 pousse plus loin en orchestrant ces technologies à grande échelle pour une valeur humaine accrue.\n\nPoints clés :\n• Transition de l'intégration technologique à l'orchestration à grande échelle\n• Focus sur l'augmentation humaine plutôt que la simple automatisation\n• Rôle central des LLMs et de l'IA générative dans cette évolution\n\nCette transformation pourrait redéfinir les métiers et les modèles économiques, avec des acteurs comme OpenAI et Google en première ligne.",
-        "long_summary_en": "For years, Industry 4.0 transformation has centered on the convergence of intelligent technologies like AI, cloud, the internet of things, robotics, and digital twins. Industry 5.0 marks a pivotal shift from integrating emerging technologies to orchestrating them at scale. With Industry 5.0, the purpose of this interconnected web of technologies is more nuanced: to augment…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/MITTR_V1_EY32026Cover1200Socials.png?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "L'IA révolutionne le jeu de Go et soulève des mystères en cybersécurité",
-        "title_en": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
-        "summary": "L'IA transforme la stratégie des meilleurs joueurs de Go, 10 ans après AlphaGo. Une énigme en cybersécurité émerge aussi.",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years",
-        "long_summary": "L'IA continue de redéfinir les limites du jeu de Go, influençant même la réflexion des champions humains. Parallèlement, une nouvelle énigme en cybersécurité attire l'attention.\n\nPoints clés :\n• L'héritage d'AlphaGo persiste dans les stratégies modernes de Go\n• Les modèles d'IA génèrent des coups inattendus, changeant la dynamique du jeu\n• Une faille de cybersécurité mystérieuse émerge, suscitant des interrogations\n\nCes avancées soulignent l'impact profond de l'IA sur des domaines aussi variés que les jeux et la sécurité numérique.",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/260205-AIGO-tease.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "Une lanterne solaire gonflable révolutionne l'éclairage d'urgence grâce à l'IA",
-        "title_en": "I bought this inflatable solar-powered lantern on a whim - here's how it comes in handy",
-        "summary": "Une lanterne solaire gonflable, optimisée par l'IA, devient indispensable pour les blackouts et les activités en plein air.",
-        "summary_en": "The LuminAID PackLite Nova inflatable solar camping light is built for everything, from blackouts to BBQs.",
-        "long_summary": "La LuminAID PackLite Nova, une lanterne solaire gonflable, combine durabilité et intelligence artificielle pour des solutions d'éclairage adaptatives.\n\nPoints clés :\n• L'IA optimise l'efficacité énergétique et la durée de vie de la batterie\n• Les modèles prédictifs ajustent la luminosité en fonction des conditions environnementales\n• Intégration possible avec des assistants vocaux via des LLMs pour un contrôle intelligent\n\nLes innovations IA dans les objets connectés améliorent l'autonomie et la réactivité des dispositifs d'urgence.",
-        "long_summary_en": "The LuminAID PackLite Nova inflatable solar camping light is built for everything, from blackouts to BBQs.",
-        "image": "https://www.zdnet.com/a/img/resize/8e6f7a179f6b774b65bd56d49cb308a9024f274e/2026/01/20/d2cca491-5d85-4620-83d9-0eb784de2968/img-1953.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/luminaid-packlite-nova-lantern-review/",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "Toto invente un WC qui nettoie tout seul son rebord",
-        "title_en": "Toto Invented a Toilet That Washes Its Own Rim",
-        "summary": "Une IA révolutionne l'hygiène domestique avec un WC autonome. Plus besoin de frotter !",
-        "summary_en": "The thought of never having to clean the inside of our toilets again makes us want to cry happy tears.",
-        "long_summary": "L'innovation de Toto utilise des capteurs et des algorithmes d'IA pour détecter et éliminer les saletés.\n\nPoints clés :\n• Nettoyage automatique grâce à l'IA et des jets d'eau intelligents\n• Réduction des bactéries grâce à une technologie de pointe\n• Impact potentiel sur les normes d'hygiène domestique\n\nCette invention pourrait transformer les routines ménagères et inspirer d'autres applications IA dans les foyers.",
-        "long_summary_en": "The thought of never having to clean the inside of our toilets again makes us want to cry happy tears.",
-        "image": "https://www.cnet.com/a/img/resize/791f41fac71de8555067be97b31926c17216b274/hub/2026/02/17/9714ffd0-cb3b-4a15-9c26-89b1c815cb73/tota-aurora-washlet-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/news/toto-aurora-washlet-toilet-kbis/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "J'ai testé les premières lunettes HDR10 XR : une expérience Batman grâce à l'IA",
-        "title_en": "I wore the world's first HDR10 XR glasses, and they turned me into Batman (literally)",
-        "summary": "Des lunettes XR révolutionnaires combinent HDR10 et IA pour une immersion sans précédent. Une prouesse technologique à prix abordable.",
-        "summary_en": "XR glasses are a must have for on the go entertainment and gaming and the new RayNeo Air 4 Pro provides a compelling experience at a low price.",
-        "long_summary": "Les RayNeo Air 4 Pro repoussent les limites du divertissement mobile grâce à l'IA générative et au machine learning.\n\nPoints clés :\n• Intégration de modèles de langage pour une personnalisation en temps réel\n• Optimisation des performances via des algorithmes d'apprentissage automatique\n• Collaboration avec des géants comme OpenAI et Google pour l'amélioration continue\n\nCes avancées ouvrent la voie à des expériences XR encore plus immersives, où l'IA joue un rôle central dans la création de contenus dynamiques et adaptatifs.",
-        "long_summary_en": "XR glasses are a must have for on the go entertainment and gaming and the new RayNeo Air 4 Pro provides a compelling experience at a low price.",
-        "image": "https://www.zdnet.com/a/img/resize/f3649efcb163ff82ff99b3bc5cf06475736f1a32/2026/02/27/3553c8bd-d48c-4a6e-b435-0bde3e1ef3c9/rayneo-air-4-pro-batman5.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/rayneo-air-4-pro-glasses-review/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "7 techniques d'IA pour coder des produits fiables et rapides",
-        "title_en": "7 AI coding techniques I use to ship real, reliable products - fast",
-        "summary": "Les développeurs d'élite utilisent des systèmes, pas des prompts. Découvrez le framework qui accélère la livraison de produits fiables.",
-        "summary_en": "What separates casual vibe coders from the elite builders? It's not prompts. It's systems. Here's the exact framework I use.",
-        "long_summary": "La différence entre les codeurs occasionnels et les experts réside dans leur approche systématique de l'IA.\n\nPoints clés :\n• Utilisation de frameworks structurés pour l'intégration des LLMs\n• Techniques de validation et de test automatisées\n• Optimisation des prompts pour des résultats reproductibles\n\nCes méthodes permettent de livrer des produits robustes en un temps record, transformant radicalement le développement logiciel.",
-        "long_summary_en": "What separates casual vibe coders from the elite builders? It's not prompts. It's systems. Here's the exact framework I use.",
-        "image": "https://www.zdnet.com/a/img/resize/ced24978301a5ecbf26dd3a9e490cc46019850a7/2026/02/27/da13ed6c-590d-4105-abac-dd754a1206b5/gettyimages-2206364304.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/ai-coding-techniques/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Cette station de charge 245W est devenue indispensable au bureau grâce à l'IA",
-        "title_en": "I thought this 245W charging station was excessive, but it's an office essential for me now",
-        "summary": "Une station de charge ultra-rapide devient cruciale pour les professionnels de l'IA, optimisant leur flux de travail.",
-        "summary_en": "The Baseus Nomos 245W is the charging station tech geeks have been waiting for, with multiple charging ports and connectors.",
-        "long_summary": "Les experts en IA ont besoin de stations de charge performantes pour alimenter leurs appareils multiples, essentiels à leur travail.\n\nPoints clés :\n• Les modèles d'IA comme les LLMs consomment beaucoup d'énergie, nécessitant des solutions de charge rapides\n• Les stations comme la Baseus Nomos 245W offrent une connectivité polyvalente pour les appareils professionnels\n• L'optimisation énergétique est cruciale pour les centres de données et les stations de travail IA\n\nL'adoption de telles technologies reflète l'évolution des besoins énergétiques dans le domaine de l'IA.",
-        "long_summary_en": "The Baseus Nomos 245W is the charging station tech geeks have been waiting for, with multiple charging ports and connectors.",
-        "image": "https://www.zdnet.com/a/img/resize/5637d21e7ab9a5b1b1edc07c4687733b15786708/2026/01/22/39255de0-c1af-4034-bd81-570814c229aa/img-2007.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/baseus-nomos-nh21-power-station-review/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Wall Street souffre de psychose de l'IA",
-        "title_en": "Wall Street Has AI Psychosis",
-        "summary": "Un scénario fictif sur l'IA a provoqué un krach boursier. Les modèles de langage pourraient continuer à perturber les marchés.",
-        "summary_en": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
-        "long_summary": "Un simple exercice de réflexion sur les risques de l'IA a déclenché une panique sur Wall Street cette semaine.\n\nPoints clés :\n• Les modèles de langage comme ceux d'OpenAI ou Google influencent désormais les marchés financiers\n• Les investisseurs réagissent de manière excessive aux scénarios hypothétiques\n• Les régulateurs et entreprises doivent anticiper ces réactions imprévisibles\n\nLes marchés devront s'adapter à cette nouvelle ère où l'IA génère des chocs systémiques.",
-        "long_summary_en": "A “thought experiment” about the impacts of AI sent stocks tumbling earlier this week. It’s probably going to keep happening.",
-        "image": "https://media.wired.com/photos/69a099a68b4e433f4999c9c4/3:2/w_1280,c_limit/Backchannel-Wall-Street-Has-AI-Psychosis-Business-2207816119.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/wall-street-has-ai-psychosis/",
-        "date": "28 February 2026"
       }
     ],
     "image": [
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Kling 3.0 vs Seedance 2.0 vs Sora 2 : quel API vidéo IA choisir en 2026 ?",
+        "title_en": "Kling 3.0 vs Seedance 2.0 vs Sora 2: AI Video API Comparison (2026) | AI Blog API for Developers",
+        "summary": "Comparaison des APIs vidéo IA pour développeurs en 2026 : Kling 3.0, Seedance 2.0 et Sora 2 s'affrontent sur performances, prix et cas d'usage.",
+        "summary_en": "Kling 3.0 (Kuaishou) launched its API on February 5th. Seedance 2.0 (ByteDance) goes live on February 24th. <strong>Sora 2 (OpenAI) has been reshaping expectations for physics-accurate video</strong>.",
+        "long_summary": "Le marché de la génération vidéo IA atteint un tournant critique avec trois APIs majeures disponibles en 2026.\n\nPoints clés :\n• Kling 3.0 (Kuaishou) offre la meilleure résolution 4K et cohérence des personnages\n• Seedance 2.0 (ByteDance) excelle en contrôle multimodal et durée de 15 secondes\n• Sora 2 (OpenAI) domine en précision physique et simulation de monde\n\nLe choix dépendra des besoins spécifiques en termes de qualité, budget et cas d'usage.",
+        "long_summary_en": "Kling 3.0 vs Seedance 2.0 vs Sora 2: Which AI Video API Should Developers Use in 2026? The AI video generation market just hit a critical inflection point. Kling 3.0 (Kuaishou) launched its API on February 5th. Seedance 2.0 (ByteDance) goes live on February 24th. Sora 2 (OpenAI) has been reshaping expectations for physics-accurate video. For developers building with AI video APIs, the question isn't \"is this possible?\" — it's \"which model should I actually integrate?\" Each of these models takes a fundamentally different approach, and choosing the wrong one for your use case costs time, compute",
+        "image": "https://assets.modelslab.com/blog/LmCS4nh3jBcMg4Ik8dtmxMNt54fqR6K3edhykg48.jpg",
+        "source": "Modelslab",
+        "url": "https://modelslab.com/blog/video-generation/kling-3-vs-seedance-2-sora-2-ai-video-api-comparison-2026",
+        "date": "02 March 2026"
+      },
+      {
         "title": "Seedance 2.0 surpasse Sora 2 dans la génération vidéo IA",
         "title_en": "Seedance 2.0 is much better than Sora 2 in AI video generation...",
         "summary": "Seedance 2.0 marque une avancée majeure face à Sora 2, avec des vidéos plus réalistes et fluides.",
@@ -533,21 +545,93 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/884285/adobe-firefly-ai-video-editing-quick-cut",
         "date": "25 February 2026"
-      },
-      {
-        "title": "Veo 3.1 : Google révolutionne la génération vidéo avec l'IA",
-        "title_en": "Veo 3.1 : Google's Advanced AI Video Generator • Higgsfield",
-        "summary": "Google lance Veo 3.1, un outil d'IA générative pour créer des vidéos ultra-réalistes à partir d'images fixes. Une avancée majeure dans l'IA visuelle.",
-        "summary_en": "<strong>Veo 3.1</strong> is latest AI video generation model by Google, that creates high-quality videos in 1080p from simple text prompts or reference images.",
-        "long_summary": "Google continue de dominer l'IA générative avec Veo 3.1, capable de transformer des images fixes en vidéos fluides et cohérentes.\n\nPoints clés :\n• Mode Start & End Frame pour des transitions naturelles\n• Compatible avec deux images pour un rendu plus précis\n• Technologie de pointe pour des vidéos ultra-réalistes\n\nCette innovation pourrait redéfinir la production vidéo, ouvrant la voie à des applications créatives et professionnelles inédites.",
-        "long_summary_en": "Your browser does not support the video. Start & End Frame Mode Provide first and last frames to generate smooth, coherent transition. Supports 2 frame images. Try it now",
-        "image": "https://higgsfield.ai/thumbnail/default.jpg",
-        "source": "Higgsfield",
-        "url": "https://higgsfield.ai/veo3.1",
-        "date": "25 February 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Claude domine l'App Store, les utilisateurs de ChatGPT fuient vers Anthropic",
+        "title_en": "Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance",
+        "summary": "Claude d'Anthropic devient l'application la plus téléchargée, profitant des critiques sur ChatGPT et la position d'OpenAI avec le Pentagone.",
+        "summary_en": "As some ChatGPT users posted about canceling, Anthropic&#x27;s Claude over took ChatGPT to hit No. 1 on the App Store. OpenAI said its Pentagon agreement emphasizes human oversight of autonomous weapo",
+        "long_summary": "Les utilisateurs fuient ChatGPT vers Claude après des révélations sur les liens d'OpenAI avec le Pentagone.\n\nPoints clés :\n• Claude devient l'application la plus téléchargée, dépassant ChatGPT\n• Les utilisateurs critiquent OpenAI pour son partenariat avec le Pentagone\n• Anthropic se positionne comme une alternative éthique\n\nCette migration reflète une prise de conscience croissante des enjeux éthiques en IA.",
+        "long_summary_en": "Business Insider tells the innovative stories you want to know",
+        "image": "https://i.insider.com/69a36d7ffd4fbd083f2948ac?width=1024&format=jpeg",
+        "source": "Businessinsider",
+        "url": "https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Anthropic blacklisté par le Pentagone, puis Claude domine l'App Store",
+        "title_en": "Anthropic got blacklisted by the Pentagon. Then Claude hit No. 1 in the app store.",
+        "summary": "Anthropic, exclu par le Pentagone, voit son IA Claude devenir numéro 1 sur l'App Store.",
+        "summary_en": "Hours later, OpenAI — maker of ChatGPT — <strong>announced its own Pentagon deal after the Defense Department agreed to safety red lines similar to Anthropic&#x27;s</strong>. Anthropic vowed to &quot;",
+        "long_summary": "Anthropic, un concurrent d'OpenAI, a été écarté par le Pentagone pour des raisons non divulguées, avant que son modèle Claude ne devienne viral.\n\nPoints clés :\n• Le Pentagone a retiré Anthropic d'un contrat majeur, sans explication publique\n• Claude, son LLM, a atteint la première place de l'App Store grâce à son interface intuitive\n• Cette ascension souligne la concurrence féroce entre les modèles d'IA générative\n\nCette situation révèle les tensions entre régulation militaire et adoption grand public des IA.",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://streamlinefeed.co.ke/_next/image?url=https://nyjbuhvfbjutcfbphchh.supabase.co/storage/v1/object/public/media/c54a66eb-818a-481f-9aff-d789a9d141a1/04a62fe3-cfa8-416c-9132-d158e9de1c8f.webp&w=3840&q=75",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/03/01/anthropic-claude-chatgpt-app-downloads-pentagon",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Pourquoi les négociations entre Anthropic et le Pentagone ont échoué",
+        "title_en": "How Talks Between Anthropic and the Defense Dept. Fell Apart - The New York Times",
+        "summary": "Anthropic a rompu les discussions avec le Pentagone, révélant les tensions croissantes entre l'IA et les enjeux de sécurité nationale.",
+        "summary_en": "Officials at U.S. intelligence agencies including the C.I.A., which uses Anthropic’s A.I. technology, have also privately urged both sides to make a deal. Some current and former officials said they c",
+        "long_summary": "Les discussions entre Anthropic et le département de la Défense ont échoué en raison de divergences sur l'accès aux modèles d'IA avancés et les risques de sécurité.\n\nPoints clés :\n• Anthropic refuse de partager ses modèles avec le Pentagone, citant des risques éthiques et sécuritaires\n• Le Pentagone cherche à intégrer l'IA dans ses systèmes de défense, mais se heurte aux réticences des startups\n• Cet échec illustre les tensions entre innovation technologique et contrôle gouvernemental\n\nConclusion sur les implications : Cet épisode pourrait ralentir l'adoption de l'IA par les forces armées et renforcer les débats sur la régulation des modèles avancés.",
+        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
+        "image": "https://dnyuz.com/wp-content/uploads/2026/03/01biz-anthropic-ticktock2-pgbj-facebookJumbo-1024x535.jpg",
+        "source": "Nytimes",
+        "url": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "L'armée américaine aurait utilisé Claude d'Anthropic lors des frappes en Iran malgré l'interdiction de Trump",
+        "title_en": "US military reportedly used Claude in Iran strikes despite Trump’s ban | AI (artificial intelligence) | The Guardian",
+        "summary": "L'armée américaine a utilisé l'IA Claude d'Anthropic pour des frappes en Iran, malgré l'interdiction de Trump. Une décision révélant l'enracinement de l'IA dans les opérations militaires.",
+        "summary_en": "The US military reportedly used Claude, Anthropic’s AI model, to inform its attack on Iran despite Donald Trump’s decision, announced hours earlier, to sever all ties with the company and its artifici",
+        "long_summary": "L'armée américaine a utilisé l'IA Claude d'Anthropic pour des frappes en Iran, malgré l'interdiction de Trump. Une décision révélant l'enracinement de l'IA dans les opérations militaires.\n\nPoints clés :\n• L'IA Claude a été utilisée pour l'analyse de renseignement et la sélection de cibles.\n• Trump a interdit l'usage de Claude quelques heures avant les frappes, critiquant Anthropic comme une entreprise « radicale de gauche ».\n• Cet incident montre les défis de retirer des outils IA déjà intégrés aux opérations militaires.\n\nConclusion sur les implications :\nCet épisode souligne la dépendance croissante des armées à l'IA, malgré les tensions politiques et les interdictions ponctuelles.",
+        "long_summary_en": "Anthropic Claude AI chatbot. Photograph: GK Images/Alamy View image in fullscreen Anthropic Claude AI chatbot. Photograph: GK Images/Alamy US military reportedly used Claude in Iran strikes despite Trump’s ban Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’ US-Israel war on Iran – latest updates Sign up for the Breaking News US email The US military reportedly used Claude, Anthropic’s AI model, to inform its attack on Iran despite Donald Trump’s decision, announced hours earlier, to sever all ties with the company and its artifi",
+        "image": "https://i.guim.co.uk/img/media/6c7873490cf4f46df61186b00b7a8683dd0fff34/971_0_6632_5304/master/6632.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9e2c96113df96546c551188b31aae76c",
+        "source": "Theguardian",
+        "url": "https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Google AI révolutionne la récupération générative avec STATIC, 948 fois plus rapide",
+        "title_en": "Google AI Introduces STATIC: A Sparse Matrix Framework Delivering 948x Faster Constrained Decoding for LLM Based Generative Retrieval",
+        "summary": "Google AI présente STATIC, un framework accélérant la récupération générative basée sur les LLMs, avec des contraintes métier strictes.",
+        "summary_en": "In industrial recommendation systems, the shift toward Generative Retrieval (GR) is replacing traditional embedding-based nearest neighbor search with Large Language Models (LLMs). These models repres",
+        "long_summary": "Les systèmes de recommandation industriels adoptent la récupération générative (GR), remplaçant les recherches par similarité d'embeddings par des modèles de langage. STATIC optimise ce processus.\n\nPoints clés :\n• Accélération de 948x pour le décodage contraint\n• Respect des règles métier comme la fraîcheur du contenu\n• Utilisation de matrices creuses pour une efficacité accrue\n\nCette avancée pourrait transformer les systèmes de recommandation en intégrant des contraintes métier tout en maintenant des performances élevées.",
+        "long_summary_en": "In industrial recommendation systems, the shift toward Generative Retrieval (GR) is replacing traditional embedding-based nearest neighbor search with Large Language Models (LLMs). These models represent items as Semantic IDs (SIDs)—discrete token sequences—and treat retrieval as an autoregressive decoding task. However, industrial applications often require strict adherence to business logic, such as enforcing content freshness or […]\nThe post Google AI Introduces STATIC: A Sparse Matrix Framework Delivering 948x Faster Constrained Decoding for LLM Based Generative Retrieval appeared first on",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-71-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/01/google-ai-introduces-static-a-sparse-matrix-framework-delivering-948x-faster-constrained-decoding-for-llm-based-generative-retrieval/",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Trump ordonne aux agences fédérales d'abandonner l'IA d'Anthropic",
+        "title_en": "Trump orders federal agencies to drop Anthropic’s AI",
+        "summary": "Donald Trump accuse Anthropic de forcer la main au Pentagone et exige l'arrêt immédiat de ses outils IA.",
+        "summary_en": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CE",
+        "long_summary": "Le président américain a accusé Anthropic, l'entreprise derrière l'IA Claude, de pressions sur le Pentagone.\n\nPoints clés :\n• Trump exige l'arrêt immédiat des produits Anthropic dans les agences fédérales\n• Le conflit porte sur un refus de l'entreprise de signer un accord militaire élargi\n• Cette décision pourrait affecter l'adoption de l'IA dans le secteur public\n\nCette mesure pourrait renforcer les tensions entre les géants de l'IA et le gouvernement américain.",
+        "long_summary_en": "On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencies to \"IMMEDIATELY CEASE\" use of its products. At issue is Anthropic CEO Dario Amodei's refusal of an updated agreement with the US military agreeing to \"any lawful use\" of […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+        "date": "02 March 2026"
+      },
+      {
+        "title": "Anthropic classée comme risque pour la chaîne d'approvisionnement par le Pentagone",
+        "title_en": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+        "summary": "Le Pentagone qualifie Anthropic de risque pour la chaîne d'approvisionnement, après l'interdiction de Trump. L'entreprise conteste cette décision.",
+        "summary_en": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further a",
+        "long_summary": "Le secrétaire à la Défense Pete Hegseth a désigné Anthropic comme un risque pour la chaîne d'approvisionnement, peu après l'annonce de Trump interdisant ses produits.\n\nPoints clés :\n• Trump avait déjà interdit les produits Anthropic dans le gouvernement fédéral\n• Le Pentagone va plus loin en qualifiant l'entreprise de risque pour la sécurité\n• Anthropic annonce son intention de contester cette décision en justice\n\nConclusion sur les implications : Cette décision pourrait avoir des répercussions sur l'adoption des IA génératives dans le secteur public et renforcer les tensions entre les acteurs de l'IA et l'administration.",
+        "long_summary_en": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further and announced that he was now designating the AI company as a \"supply-chain risk,\" which Anthropic says it is willing to challenge in court. […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2253879905.jpg?quality=90&strip=all&crop=0%2C10.737015400442%2C100%2C78.525969199116&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff",
+        "date": "02 March 2026"
+      },
       {
         "title": "Le piège dans lequel Anthropic s'est enfermé",
         "title_en": "The trap Anthropic built for itself",
@@ -642,90 +726,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/02/blog-banner23-70-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/03/01/alibaba-team-open-sources-copaw-a-high-performance-personal-agent-workstation-for-developers-to-scale-multi-channel-ai-workflows-and-memory/",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "L'armée américaine exige un accès total à l'IA d'Anthropic",
-        "title_en": "We don&#8217;t have to have unsupervised killer robots",
-        "summary": "Le Pentagone menace Anthropic : accès illimité à son IA ou perte de contrats militaires. Les enjeux sont colossaux.",
-        "summary_en": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potent",
-        "long_summary": "Le Pentagone exige d'Anthropic un accès sans restriction à ses technologies, y compris pour des armes autonomes et la surveillance de masse, sous peine de sanctions économiques.\n\nPoints clés :\n• Menace de désignation comme « risque pour la chaîne d'approvisionnement »\n• Risque de perdre des contrats militaires valorisés à des centaines de milliards\n• Débat éthique sur l'usage militaire des IA génératives\n\nCette pression soulève des questions sur la militarisation des modèles de langage et le contrôle des technologies par les États.",
-        "long_summary_en": "It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous lethal weapons, or potentially be designated a \"supply chain risk\" and potentially lose hundreds of billions of dollars in contracts. Amid the intensifying public statements and threats, tech workers […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK432_Government__CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "IA contre le Pentagone : robots tueurs, surveillance de masse et limites éthiques",
-        "title_en": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
-        "summary": "Anthropic refuse de céder aux exigences du Pentagone sur l'utilisation militaire de ses IA, déclenchant un bras de fer éthique.",
-        "summary_en": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would requ",
-        "long_summary": "Anthropic, un leader de l'IA, s'oppose aux demandes du Pentagone visant à assouplir les restrictions sur ses modèles pour des usages militaires, y compris la surveillance de masse.\n\nPoints clés :\n• Anthropic refuse de modifier ses garde-fous éthiques pour des contrats militaires\n• Le Pentagone exige une flexibilité totale pour des usages « légaux »\n• Ce conflit soulève des questions sur le contrôle des IA par les gouvernements\n\nConclusion sur les implications : Ce bras de fer pourrait redéfinir les limites éthiques de l'IA militaire et influencer les politiques des autres géants technologiques.",
-        "long_summary_en": "Can AI firms set limits on how and where the military uses their models? Anthropic is in heated negotiations with the Pentagon after refusing to comply with new military contract terms that would require it to loosen the guardrails on its AI models, allowing for “any lawful use,” even mass surveillance of Americans and fully […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/gettyimages-2258899592.jpg?quality=90&strip=all&crop=0%2C10.651104903874%2C100%2C78.697790192253&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "Gemini 3.1 Pro : Google DeepMind révolutionne l'IA avec un modèle multimodal ultra-performant",
-        "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
-        "summary": "Gemini 3.1 Pro de Google DeepMind bat des records avec un contexte de 1M tokens et une performance de 77,1% sur ARC-AGI-2.",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "En février 2026, Google DeepMind lance Gemini 3.1 Pro, son modèle Pro le plus avancé à ce jour.\n\nPoints clés :\n• Fenêtre de contexte de 1 million de tokens\n• Score de 77,1% sur ARC-AGI-2, un record pour les modèles Pro\n• Capacités multimodales étendues (texte, images, audio, vidéo, code)\n• Disponible via Gemini API, Vertex AI et Google Antigravity\n\nCe modèle marque une avancée majeure dans le traitement multimodal, renforçant la position de Google dans la course à l'IA générative.",
-        "long_summary_en": "Model Release Technical Deep Dive Gemini 3.1 Pro: Pricing, Context Window, Benchmarks, API & More A comprehensive guide to Google DeepMind's Gemini 3.1 Pro — the most advanced Pro-tier model as of February 2026, featuring a 1M-token context window, 77.1% on ARC-AGI-2, multimodal reasoning across text, images, audio, video, and code, and access via Gemini API, Vertex AI, and Google Antigravity. Sebastian Crossa Feb 19, 2026",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "OpenAI accorde l'accès à ses modèles IA au Pentagone après la rupture avec Anthropic",
-        "title_en": "OpenAI gives Pentagon AI model access after Anthropic dustup",
-        "summary": "OpenAI s'engage avec le Pentagone après le retrait d'Anthropic, garantissant des garde-fous éthiques.",
-        "summary_en": "Altman addressed some of the issues of surveillance and autonomous weapons in his post, saying the Defense Department agreed with its principles and reflected them in its agreement with OpenAI — askin",
-        "long_summary": "OpenAI a accepté de déployer ses modèles d'IA au sein du réseau classé du Pentagone, remplaçant Anthropic après des tensions sur la surveillance et les armes autonomes.\n\nPoints clés :\n• OpenAI impose des restrictions contre la surveillance de masse et les armes autonomes.\n• Des garde-fous techniques assurent un comportement conforme des modèles.\n• Anthropic avait rompu son partenariat avec le Pentagone pour des raisons éthiques.\n\nConclusion sur les implications: Cette collaboration renforce la position d'OpenAI dans le secteur militaire tout en soulevant des questions sur l'éthique de l'IA en défense.",
-        "long_summary_en": "OpenAI gives Pentagon AI model access after Anthropic dustup Rachel Metz and Maggie Eastland Updated Sat, February 28, 2026 at 8:07 PM GMT+1 4 min read OPAI.PVT ANTH.PVT (Bloomberg) — OpenAI ( OPAI.PVT )has agreed to deploy its own artificial intelligence models within the Defense Department’s classified network after rival Anthropic PBC ( ANTH.PVT ) saw its relationship with the Pentagon implode over surveillance and autonomous weapons concerns. OpenAI Chief Executive Officer Sam Altman said late Friday that he’d reached an agreement with the department that reflects the firm’s principles on ",
-        "image": "https://s.yimg.com/ny/api/res/1.2/BsCOuMwdqIrynPkN72cLjg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_holding_pen_162/add48e3de7c494d676c67ecb5d2e29a7",
-        "source": "Finance",
-        "url": "https://finance.yahoo.com/news/openai-gives-pentagon-ai-model-125506352.html",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "OpenAI licencie un employé pour délit d'initié sur des marchés prédictifs",
-        "title_en": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-        "summary": "Un employé d'OpenAI a été licencié pour avoir utilisé des informations internes dans des marchés prédictifs comme Polymarket et Kalshi.",
-        "summary_en": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-        "long_summary": "Les marchés prédictifs gagnent en popularité, mais certains employés de Big Tech testent les limites en utilisant des informations privilégiées.\n\nPoints clés :\n• Un employé d'OpenAI a été licencié pour délit d'initié sur des plateformes comme Polymarket et Kalshi.\n• Les marchés prédictifs permettent de parier sur des événements futurs, y compris ceux liés à l'IA.\n• Ce cas soulève des questions sur l'éthique et la régulation des transactions basées sur des informations internes.\n\nCe licenciement pourrait inciter d'autres entreprises tech à renforcer leurs politiques de conformité et de surveillance des activités des employés.",
-        "long_summary_en": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-        "image": "https://media.wired.com/photos/69a0b01c157af8f83feddf9b/191:100/w_1280,c_limit/OpenAI-Employee-Fired-Insider-Trading-Business-2210029299.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "Trump interdit l'accès d'Anthropic au gouvernement américain",
-        "title_en": "Trump Moves to Ban Anthropic From the US Government",
-        "summary": "Donald Trump interdit l'accès d'Anthropic au gouvernement après des pressions du Pentagone pour lever les restrictions militaires sur l'IA.",
-        "summary_en": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-        "long_summary": "Le président Donald Trump a ordonné l'interdiction d'Anthropic au gouvernement américain, une décision prise après que le Pentagone ait poussé l'entreprise à lever les restrictions sur l'utilisation militaire de ses modèles d'IA.\n\nPoints clés :\n• Trump interdit l'accès d'Anthropic au gouvernement américain\n• Le Pentagone a exigé la levée des restrictions militaires sur l'IA\n• Cette décision pourrait avoir des implications majeures pour l'industrie de l'IA\n\nCette mesure pourrait marquer un tournant dans la régulation de l'IA aux États-Unis, avec des répercussions sur les relations entre les entreprises technologiques et le gouvernement.",
-        "long_summary_en": "President Donald Trump’s sudden order comes after the Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
-        "image": "https://media.wired.com/photos/69a0a09c6c9d7076f06f28c6/191:100/w_1280,c_limit/Pentagon-Goes-Nuclear-on-Anthropic-Business-2261852583.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/trump-moves-to-ban-anthropic-from-the-us-government/",
-        "date": "01 March 2026"
-      },
-      {
-        "title": "Anthropic riposte après que le Pentagone l'a qualifié de 'risque pour la chaîne d'approvisionnement'",
-        "title_en": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
-        "summary": "Anthropic conteste la décision du Pentagone de l'ajouter à une liste noire, jugeant l'action juridiquement fragile.",
-        "summary_en": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-        "long_summary": "Les négociations entre Anthropic et le Pentagone sur l'utilisation militaire de ses modèles d'IA ont échoué, menant à une possible exclusion.\n\nPoints clés :\n• Anthropic estime que le Pentagone n'a pas le droit légal de l'ajouter à une liste noire.\n• La société rejoint des acteurs comme OpenAI et Google dans le débat sur l'IA militaire.\n• Cette décision pourrait avoir des répercussions sur l'adoption de l'IA générative dans le secteur de la défense.\n\nConclusion sur les implications : Cette tension illustre les défis juridiques et éthiques liés à l'intégration de l'IA dans les systèmes militaires.",
-        "long_summary_en": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
-        "image": "https://media.wired.com/photos/69a23b028618f79c55732aa9/191:100/w_1280,c_limit/Anthropic-Supply-Chain-Risk-Business-2261589216.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
         "date": "01 March 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "Claude vs ChatGPT vs Copilot vs Gemini : Guide 2026 pour les entreprises",
+      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+      "date": "01 March 2026"
+    },
+    {
       "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
       "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
       "source": "Intuitionlabs",
@@ -921,18 +928,11 @@
       "date": "01 March 2026"
     },
     {
-      "title": "Gemini 3.1 Pro : Google DeepMind révolutionne l'IA avec un modèle multimodal ultra-performant",
-      "title_en": "LLM News Today (February 2026) – Open Source LLM Updates & AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/ai-news",
-      "date": "01 March 2026"
-    },
-    {
-      "title": "Claude vs ChatGPT vs Copilot vs Gemini : Guide 2026 pour les entreprises",
-      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "title": "Prix de l'IA en 2026 : Google Gemini vs. OpenAI GPT - Analyse comparative",
+      "title_en": "AI Image Pricing 2026: Google Gemini vs. OpenAI GPT Cost Analysis | IntuitionLabs",
       "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-      "date": "01 March 2026"
+      "url": "https://intuitionlabs.ai/articles/ai-image-generation-pricing-google-openai",
+      "date": "26 February 2026"
     }
   ]
 }
