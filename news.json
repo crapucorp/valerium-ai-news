@@ -1,7 +1,103 @@
 {
-  "lastUpdate": "04 March 2026 - 18:32",
+  "lastUpdate": "05 March 2026 - 12:35",
   "categories": {
     "general": [
+      {
+        "title": "Créer un système d'agent IA persistant avec mémoire hiérarchique et consolidation automatique",
+        "title_en": "How to Build an EverMem-Style Persistent AI Agent OS with Hierarchical Memory, FAISS Vector Retrieval, SQLite Storage, and Automated Memory Consolidation",
+        "summary": "Un tutoriel pour développer un agent IA capable de mémoriser et de consolider ses connaissances grâce à FAISS et SQLite.",
+        "summary_en": "In this tutorial, we build an EverMem-style persistent agent OS. We combine short-term conversational context (STM) with long-term vector memory using FAISS so the agent can recall relevant past infor",
+        "long_summary": "Les agents IA traditionnels oublient souvent les conversations passées. Ce tutoriel montre comment créer un système inspiré d'EverMem avec mémoire hiérarchique.\n\nPoints clés :\n• Combinaison de mémoire à court terme (STM) et vectorielle pour un rappel contextuel\n• Stockage structuré dans SQLite pour les métadonnées (horodatages, scores d'importance)\n• Mécanisme de consolidation automatique pour optimiser la rétention des connaissances\n\nCette approche pourrait révolutionner les assistants IA en leur permettant d'apprendre et de s'adapter sur le long terme.",
+        "long_summary_en": "In this tutorial, we build an EverMem-style persistent agent OS. We combine short-term conversational context (STM) with long-term vector memory using FAISS so the agent can recall relevant past information before generating each response. Alongside semantic memory, we also store structured records in SQLite to persist metadata like timestamps, importance scores, and memory signals (preference, […]\nThe post How to Build an EverMem-Style Persistent AI Agent OS with Hierarchical Memory, FAISS Vector Retrieval, SQLite Storage, and Automated Memory Consolidation appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-13-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/04/how-to-build-an-evermem-style-persistent-ai-agent-os-with-hierarchical-memory-faiss-vector-retrieval-sqlite-storage-and-automated-memory-consolidation/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Le harcèlement en ligne entre dans l'ère de l'IA",
+        "title_en": "Online harassment is entering its AI era",
+        "summary": "Les projets open-source subissent une vague de contributions générées par l'IA, forçant les mainteneurs à adapter leurs règles.",
+        "summary_en": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwh",
+        "long_summary": "Les développeurs open-source font face à une explosion de contributions automatisées via des modèles de langage.\n\nPoints clés :\n• Les projets comme matplotlib rejettent les codes générés par l'IA sans validation humaine.\n• Les mainteneurs imposent des règles strictes pour éviter les abus et le harcèlement.\n• Cette tendance reflète l'impact croissant des LLMs sur l'écosystème du code open-source.\n\nConclusion sur les implications : L'IA générative transforme les dynamiques de collaboration, nécessitant de nouveaux cadres éthiques et techniques.",
+        "long_summary_en": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/ai-hitpiece.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Prévenir les incendies de forêt : jusqu'où aller trop loin ?",
+        "title_en": "How much wildfire prevention is too much?",
+        "summary": "Des startups canadiennes utilisent l'IA pour détecter et éteindre les incendies, y compris ceux déclenchés par la foudre.",
+        "summary_en": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian star",
+        "long_summary": "La prévention des incendies de forêt devient de plus en plus technologique, avec des systèmes d'IA et des drones pour les détecter et les éteindre.\n\nPoints clés :\n• Des startups canadiennes développent des solutions pour prévenir les incendies déclenchés par la foudre.\n• Les incendies de 2023 au Canada ont généré près de 500 millions de tonnes de CO2.\n• L'IA et les drones pourraient révolutionner la gestion des feux de forêt.\n\nL'utilisation croissante de l'IA dans la prévention des incendies soulève des questions sur les limites de ces technologies et leur impact environnemental.",
+        "long_summary_en": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/GettyImages-1868952278.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Les plus grandes menaces de l'IA viennent de l'intérieur - 12 façons de protéger votre organisation",
+        "title_en": "The biggest AI threats come from within - 12 ways to defend your organization",
+        "summary": "Les risques majeurs en cybersécurité proviennent désormais des employés et non des hackers externes. Découvrez comment s'en protéger.",
+        "summary_en": "The gravest AI-powered threat to your cybersecurity isn't coming from external hackers. Review these strategic recommendations for handling the risks from within.",
+        "long_summary": "Les modèles d'IA générative comme ceux d'OpenAI, Google ou Anthropic transforment les risques internes en cybersécurité.\n\nPoints clés :\n• Les employés peuvent involontairement exposer des données sensibles via des outils d'IA.\n• Les modèles de langage peuvent être manipulés pour contourner les politiques de sécurité.\n• Une gouvernance stricte des outils d'IA est essentielle pour limiter les fuites.\n\nConclusion sur les implications : Les organisations doivent former leurs équipes et mettre en place des protocoles stricts pour maîtriser les risques liés à l'IA.",
+        "long_summary_en": "The gravest AI-powered threat to your cybersecurity isn't coming from external hackers. Review these strategic recommendations for handling the risks from within.",
+        "image": "https://www.zdnet.com/a/img/resize/f84a570eccf1ce15a13c90a45c2de7c121605d6b/2026/03/03/e30e331c-bcea-437c-b75b-62ee24037a2b/gettyimages-1569676292.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/12-tips-for-cybersecurity-pros-looking-to-harness-ai-safely/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Les géants de la tech signent un engagement sur les data centers : beaucoup de communication, peu de substance",
+        "title_en": "Big Tech Signs White House Data Center Pledge With Good Optics and Little Substance",
+        "summary": "Les GAFAM s'engagent à réduire l'impact environnemental de leurs data centers, mais les promesses restent floues.",
+        "summary_en": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
+        "long_summary": "Les entreprises technologiques comme Google, Microsoft et OpenAI ont signé un accord avec la Maison Blanche pour limiter l'empreinte carbone de leurs data centers, essentiels à l'entraînement des modèles d'IA.\n\nPoints clés :\n• Les engagements manquent de détails concrets sur les réductions d'émissions.\n• Les data centers consomment une énergie colossale pour les LLMs et l'IA générative.\n• Les critiques soulignent un manque d'ambition face à l'urgence climatique.\n\nConclusion sur les implications. Les promesses symboliques risquent de ne pas suffire pour un secteur en pleine expansion.",
+        "long_summary_en": "“Data centers … they need some PR help,”President Donald Trump said at the event.",
+        "image": "https://media.wired.com/photos/69a87016c7816c1e1584e8ee/191:100/w_1280,c_limit/Big-Tech-Signs-Nonbinding-White-House-Pledge-To-Protect-Consumers-From-Data-Centers-Science-2250991059.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Grammarly propose des critiques d'IA par des auteurs célèbres, vivants ou décédés",
+        "title_en": "Grammarly Is Offering ‘Expert’ AI Reviews From Your Favorite Authors—Dead or Alive",
+        "summary": "Grammarly utilise des IA pour imiter des auteurs sans leur accord, soulevant des questions éthiques.",
+        "summary_en": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
+        "long_summary": "Grammarly, rebaptisé Superhuman, lance un outil d'analyse de texte basé sur des modèles d'auteurs célèbres, morts ou vivants, sans leur consentement.\n\nPoints clés :\n• Utilisation de modèles de langage pour imiter des styles d'écriture\n• Absence de permission des auteurs concernés\n• Risque de contrefaçon et de problèmes juridiques\n\nConclusion sur les implications : Cette pratique soulève des questions sur la propriété intellectuelle et l'éthique des IA génératives.",
+        "long_summary_en": "The tool, offered by the recently-rebranded company Superhuman, gives feedback based on the work of famous dead and living writers—without their permission.",
+        "image": "https://media.wired.com/photos/69a72224fed0d8b129f5a806/3:2/w_1280,c_limit/Grammarly-Making-LLMs-Based-on-Dead-Academics-Culture-1473977398.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/grammarly-is-offering-expert-ai-reviews-from-your-favorite-authors-dead-or-alive/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Google étend son espace de travail IA à tous les utilisateurs américains",
+        "title_en": "Google’s AI-powered workspace is now available to more users in Search",
+        "summary": "Google ouvre Canvas à tous les utilisateurs américains via l’IA dans Search, offrant un espace dédié pour organiser des plans et créer des documents.",
+        "summary_en": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Se",
+        "long_summary": "Google étend l’accès à Canvas, son espace de travail IA intégré à Search, à tous les utilisateurs américains.\n\nPoints clés :\n• Utilisation de l’IA pour organiser des plans et créer des documents directement dans Search\n• Espace dédié fonctionnant en parallèle avec le chat AI\n• Accès aux dernières informations de Search pour enrichir les créations\n\nCette extension marque une nouvelle étape dans l’intégration des outils IA générative dans les produits grand public.",
+        "long_summary_en": "Google is bringing Canvas to everyone in the US using AI Mode in Search. The feature opens up a dedicated workspace within its AI-powered search tool, allowing it to use the latest information from Search to organize plans, develop tools, and draft documents in a panel alongside your chat. Though Google initially launched Canvas inside […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Canvas-in-AI-Mode-scholarship-tracker.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/889339/google-canvas-ai-mode-search-us-launch",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Decagon lève 4,5 milliards de dollars : une nouvelle étape pour l'IA et la liquidité des employés",
+        "title_en": "Decagon completes first tender offer at $4.5B valuation",
+        "summary": "Decagon, startup d'IA spécialisée dans le support client, atteint une valorisation de 4,5 milliards de dollars, illustrant la croissance fulgurante des jeunes entreprises technologiques.",
+        "summary_en": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+        "long_summary": "Decagon rejoint les rangs des startups d'IA en forte croissance, offrant à ses employés une opportunité de liquidité.\n\nPoints clés :\n• Valorisation record de 4,5 milliards de dollars pour une startup spécialisée en IA générative et modèles de langage\n• Exemple d'une tendance croissante : les jeunes entreprises technologiques offrant des liquidités à leurs employés\n• Concurrence accrue dans le secteur de l'IA avec des acteurs comme OpenAI, Google et Anthropic\n\nCette levée de fonds souligne l'importance croissante des modèles de langage et de l'IA générative dans le secteur du support client.",
+        "long_summary_en": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Jesse-Ashwin-together.jpeg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+        "date": "05 March 2026"
+      },
       {
         "title": "Combler le fossé opérationnel de l'IA : une révolution en marche",
         "title_en": "Bridging the operational AI gap",
@@ -84,102 +180,6 @@
         "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/wi-fi-1152x648-1751309982.jpg",
         "source": "Ars Technica",
         "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Le mystérieux sommet secret qui a déclenché la résistance politique contre l'IA",
-        "title_en": "Inside the secret meeting that led to the AI political resistance",
-        "summary": "90 leaders se sont réunis en secret pour discuter de l'impact politique de l'IA, sans connaître les autres invités.",
-        "summary_en": "In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one k",
-        "long_summary": "En janvier, un groupe de 90 dirigeants politiques, communautaires et intellectuels s'est réuni en secret à La Nouvelle-Orléans pour discuter de l'IA, sans connaître les autres participants avant l'arrivée.\n\nPoints clés :\n• Réunion secrète sans liste d'invités partagée\n• Mélange de leaders religieux, universitaires et conservateurs\n• Discussion sur l'impact politique des modèles de langage et de l'IA générative\n\nCette rencontre pourrait marquer un tournant dans la régulation de l'IA par les acteurs politiques.",
-        "long_summary_en": "In early January, a group of 90 or so political, community and thought leaders gathered in a New Orleans Marriott for a secret conference on artificial intelligence - so secret, in fact, that no one knew who else had been invited until they walked into the room. Church leaders and conservative academics were sitting next […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268379_The_AI_political_resistance_movement_has_arrived_CVirginia2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/888841/pro-human-ai-declaration-fli",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "L'IA s'invite dans les guerres culturelles et les conflits réels",
-        "title_en": "AI is now part of the culture wars — and real wars",
-        "summary": "L'IA devient un enjeu majeur dans les tensions politiques et militaires, avec des implications mondiales.",
-        "summary_en": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I inter",
-        "long_summary": "L'intelligence artificielle, autrefois cantonnée aux laboratoires, est désormais au cœur des débats politiques et des stratégies militaires.\n\nPoints clés :\n• Les modèles de langage comme ceux d'OpenAI ou Google alimentent les divisions culturelles.\n• Les armes autonomes et l'IA militaire redéfinissent les conflits modernes.\n• Les régulations peinent à suivre l'évolution rapide des technologies.\n\nL'IA pourrait soit exacerber les tensions géopolitiques, soit devenir un outil de stabilisation, selon son usage.",
-        "long_summary_en": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes inside Washington's increasingly existential clashes between tech and politics. If this was forwarded to you, can I interest you in a full-fledged subscription to The Verge for only $40 a year? You'll get so much more than doomer scenarios. We cover non-existential fun […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2263868498.jpg?quality=90&strip=all&crop=0%2C10.726456111031%2C100%2C78.547087777937&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/column/888907/ai-culture-war-iran-pentagon-anthropic",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Des centres de données flottants en mer pour l'IA : une révolution écologique ?",
-        "title_en": "Who needs data centers in space when they can float offshore?",
-        "summary": "Aikido installe un data center sous une éolienne flottante, réduisant l'empreinte carbone de l'IA. Une première mondiale.",
-        "summary_en": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
-        "long_summary": "L'entreprise Aikido va tester un data center sous une éolienne offshore, alimenté par l'énergie éolienne locale.\n\nPoints clés :\n• Alimentation 100% renouvelable pour les data centers\n• Réduction des coûts et de l'empreinte carbone de l'IA\n• Solution innovante pour les modèles d'IA gourmands en énergie\n\nCette approche pourrait transformer l'industrie des data centers, surtout pour les entreprises comme OpenAI ou Google, qui cherchent à réduire leur impact environnemental.",
-        "long_summary_en": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=1067",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Alibaba lance OpenSandbox : une API unifiée pour les agents IA autonomes",
-        "title_en": "Alibaba Releases OpenSandbox to Provide Software Developers with a Unified, Secure, and Scalable API for Autonomous AI Agent Execution",
-        "summary": "Alibaba propose OpenSandbox, une plateforme open-source sécurisée pour l'exécution d'agents IA.",
-        "summary_en": "Alibaba has released OpenSandbox, an open-source tool designed to provide AI agents with secure, isolated environments for code execution, web browsing, and model training. Released under the Apache 2",
-        "long_summary": "Alibaba a dévoilé OpenSandbox, une solution open-source sous licence Apache 2.0, conçue pour standardiser l'exécution d'agents IA.\n\nPoints clés :\n• Environnements isolés pour l'exécution de code, la navigation web et l'entraînement de modèles\n• API unifiée compatible avec plusieurs langages de programmation\n• Cible les développeurs cherchant à sécuriser et optimiser les agents IA\n\nCette initiative pourrait accélérer l'adoption des agents IA autonomes en simplifiant leur intégration et leur sécurité.",
-        "long_summary_en": "Alibaba has released OpenSandbox, an open-source tool designed to provide AI agents with secure, isolated environments for code execution, web browsing, and model training. Released under the Apache 2.0 license, the proposed system targets to standardize the ‘execution layer’ of the AI agent stack, offering a unified API that functions across various programming languages and […]\nThe post Alibaba Releases OpenSandbox to Provide Software Developers with a Unified, Secure, and Scalable API for Autonomous AI Agent Execution appeared first on MarkTechPost.",
-        "image": "https://i2.wp.com/www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-8-1024x731.png?w=390&resize=390,220&ssl=1",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "SymTorch : une bibliothèque PyTorch qui transforme les modèles d'apprentissage profond en équations lisibles",
-        "title_en": "Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations",
-        "summary": "SymTorch utilise la régression symbolique pour rendre les modèles d'IA interprétables en équations mathématiques.",
-        "summary_en": "Can symbolic regression be the key to transforming opaque deep learning models into interpretable, closed-form mathematical equations? or Say you have trained your deep learning model. It works. But d",
-        "long_summary": "Les modèles d'IA sont souvent des boîtes noires. SymTorch, développé par des chercheurs de Cambridge, propose une solution.\n\nPoints clés :\n• SymTorch intègre la régression symbolique (SR) à PyTorch\n• Il traduit les modèles profonds en équations mathématiques lisibles\n• Permet de comprendre ce qu'un modèle a réellement appris\n\nConclusion sur les implications. Cette avancée pourrait révolutionner l'interprétabilité des modèles d'IA.",
-        "long_summary_en": "Can symbolic regression be the key to transforming opaque deep learning models into interpretable, closed-form mathematical equations? or Say you have trained your deep learning model. It works. But do you know what it has actually learned? A team of University of Cambridge researchers propose ‘SymTorch’, a library designed to integrate symbolic regression (SR) into […]\nThe post Meet SymTorch: A PyTorch Library that Translates Deep Learning Models into Human-Readable Equations appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-6-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/03/meet-symtorch-a-pytorch-library-that-translates-deep-learning-models-into-human-readable-equations/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Une avancée majeure en IA : le système MEM pour robots avec mémoire à long terme",
-        "title_en": "Physical Intelligence Team Unveils MEM for Robots: A Multi-Scale Memory System Giving Gemma 3-4B VLAs 15-Minute Context for Complex Tasks",
-        "summary": "Un système révolutionnaire permet aux robots de mémoriser des tâches complexes sur 15 minutes, une première mondiale.",
-        "summary_en": "Current end-to-end robotic policies, specifically Vision-Language-Action (VLA) models, typically operate on a single observation or a very short history. This ‘lack of memory’ makes long-horizon tasks",
-        "long_summary": "Les robots équipés de modèles Vision-Langage-Action (VLA) peinent à gérer des tâches longues en raison de leur mémoire limitée.\n\nPoints clés :\n• Le système MEM permet une mémoire multi-échelle de 15 minutes\n• Développé par Physical Intelligence, Stanford, UC Berkeley et MIT\n• Rendre possible des tâches complexes comme le nettoyage ou la cuisine\n\nCette innovation ouvre la voie à des robots plus autonomes et efficaces dans des environnements dynamiques.",
-        "long_summary_en": "Current end-to-end robotic policies, specifically Vision-Language-Action (VLA) models, typically operate on a single observation or a very short history. This ‘lack of memory’ makes long-horizon tasks, such as cleaning a kitchen or following a complex recipe, computationally intractable or prone to failure. To address this, researchers from Physical Intelligence, Stanford, UC Berkeley, and MIT have […]\nThe post Physical Intelligence Team Unveils MEM for Robots: A Multi-Scale Memory System Giving Gemma 3-4B VLAs 15-Minute Context for Complex Tasks appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-1-2-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/03/physical-intelligence-team-unveils-mem-for-robots-a-multi-scale-memory-system-giving-gemma-3-4b-vlas-15-minute-context-for-complex-tasks/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Cette startup affirme pouvoir arrêter la foudre et prévenir les mégafeux",
-        "title_en": "This startup claims it can stop lightning and prevent catastrophic wildfires",
-        "summary": "Une startup utilise l'IA pour prédire les éclairs et éviter les incendies dévastateurs au Canada.",
-        "summary_en": "On June 1, 2023, as a sweltering heat wave baked Quebec, thousands of lightning strikes flashed across the province, setting off more than 120 wildfires. The blazes ripped through parched forests and ",
-        "long_summary": "En juin 2023, des milliers d'éclairs ont déclenché plus de 120 incendies au Québec, aggravant la pire saison de feux de l'histoire du Canada.\n\nPoints clés :\n• Une startup utilise l'IA pour prédire les éclairs et déclencher des contre-mesures.\n• Les modèles de machine learning analysent les données météo en temps réel.\n• La technologie pourrait réduire les mégafeux, mais son efficacité reste à prouver.\n\nL'IA pourrait révolutionner la gestion des risques naturels, mais des défis techniques et éthiques persistent.",
-        "long_summary_en": "On June 1, 2023, as a sweltering heat wave baked Quebec, thousands of lightning strikes flashed across the province, setting off more than 120 wildfires. The blazes ripped through parched forests and withered grasslands, burned for weeks, and compounded what was rapidly turning into Canada’s worst fire year on record. In the end, nearly 7,000…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/GettyImages-144817694.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Les centres de données s'installent à la frontière du cercle arctique",
-        "title_en": "The Data Centers Have Arrived at the Edge of the Arctic Circle",
-        "summary": "Les centres de données migrent vers l'Arctique pour profiter d'une énergie bon marché et abondante, alimentant l'essor de l'IA.",
-        "summary_en": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
-        "long_summary": "Alors que les laboratoires d'IA consomment toujours plus de puissance de calcul, les opérateurs de centres de données se tournent vers le Grand Nord.\n\nPoints clés :\n• La demande énergétique des modèles d'IA comme les LLMs explose\n• Les régions arctiques offrent des coûts d'énergie compétitifs et des températures froides idéales pour le refroidissement\n• Google, Microsoft et d'autres géants tech investissent massivement dans ces infrastructures\n\nCette tendance souligne l'impact environnemental croissant de l'IA et les défis logistiques de son déploiement à grande échelle.",
-        "long_summary_en": "As AI labs gorge themselves on compute, data center operators have headed north in search of cheap and plentiful energy.",
-        "image": "https://media.wired.com/photos/699f79c89c1839834b2d7742/191:100/w_1280,c_limit/Arctic-Circle-Next-Frontier-In-AI-Infrastructure-Wars-Business-2163338735.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/ai-supremacy-data-center-expansion-arctic-circle/",
         "date": "04 March 2026"
       }
     ],
@@ -367,6 +367,54 @@
     ],
     "video": [
       {
+        "title": "Runway 2026 : Tarifs, Plans et Essai Gratuit pour l'IA Générative",
+        "title_en": "Runway Pricing 2026: Plans, Cost & Free Trial | AI:PRODUCTIVITY",
+        "summary": "Runway propose 5 plans dès 12$/mois, avec accès à Gen-4.5 pour une qualité vidéo exceptionnelle.",
+        "summary_en": "<strong>Runway is the gold standard for AI video generation</strong>. Gen-4.5 produces the best text-to-video quality available to consumers, with exceptional motion and physical accuracy. Free tier o",
+        "long_summary": "Runway se positionne comme leader de l'IA générative vidéo avec des modèles avancés comme Gen-4.5.\n\nPoints clés :\n• 5 plans disponibles, dont un gratuit avec 125 crédits uniques\n• Accès aux modèles Gen-4.5, Gen-4 et Aleph selon le plan\n• Tarification mensuelle sans réduction annuelle\n\nConclusion sur les implications : Runway confirme son statut de référence en IA vidéo, avec des outils accessibles mais des coûts variables selon l'usage.",
+        "long_summary_en": "$12 Starting Price 5 Plans Available No Annual Savings Pricing verified: December 2026 Runway Plans & Pricing Free Free 125 one-time credits (not monthly) 3 projects maximum 720p video output Gen-3 Alpha access Start Free Most Popular Standard $ 15 /mo 625 monthly credits Watermark removal Upscaling to higher resolutions Up to 5 workspace collaborators Gen-4.5, Gen-4, Gen-4 Turbo, Gen-3 Alpha, Aleph, Act-Two access Get Started Pro $ 35 /mo 2,250 monthly credits Custom AI Voices for text-to-speech 500 GB storage Up to 10 workspace collaborators All generation tools and models (Gen-4.5, Gen-4, G",
+        "image": "https://aiproductivity.ai/og-default.png",
+        "source": "Aiproductivity",
+        "url": "https://aiproductivity.ai/pricing/runway/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Sora 3 : OpenAI lance un générateur de vidéos IA gratuit et puissant",
+        "title_en": "Sora 3 AI Video Generator Free - Open AI Sora 3 Model",
+        "summary": "OpenAI dévoile Sora 3, un modèle IA générant des vidéos 1080p à partir de texte ou d'images, avec storytelling multi-scènes.",
+        "summary_en": "Enter a prompt or upload an image above to start creating. ... <strong>The Sora 3 Model delivers breakthrough AI video generation on Sora 3 Web</strong>.",
+        "long_summary": "Sora 3 marque une avancée majeure dans la génération vidéo par IA, combinant qualité cinématographique et cohérence narrative.\n\nPoints clés :\n• Création de vidéos 1080p HD à partir de prompts textuels ou d'images\n• Storytelling multi-scènes avec personnages et styles cohérents\n• Sortie professionnelle prête à l'emploi pour marketing ou réseaux sociaux\n\nConclusion sur les implications : Cette technologie pourrait révolutionner la production vidéo, rendant accessible à tous la création de contenus professionnels.",
+        "long_summary_en": "Sora 3 AI Video Generator Free - Open AI Sora 3 Model 00 : 00 : 00 Christmas Limited Offer 32 spots left Get 50% OFF on Annual Plans Claim 50% Off Sora 3 Sign In AI Video Generator Sora 3 AI Video Generator Free Sora 3.0 • 1080p Cinematic • Open AI Sora 3 Model • Multi-Shot Storytelling Text to Video Image to Video AI Video Generation Sora 3 - Professional AI Video Studio Prompt ( Required ) 0 /800 Smart Expansion Aspect Ratio 16:9 9:16 4:3 3:4 21:9 1:1 Video Quality 720p HD 1080p Full HD Video Duration 5 seconds 10 seconds Generate with Sora 3 Sample Video The created video result will appear",
+        "image": "https://www.sara3.org/og-home.jpg",
+        "source": "Sara3",
+        "url": "https://www.sara3.org/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Runway vs Sora : la bataille des IA génératives en 2026",
+        "title_en": "Runway vs Sora: AI Tool Comparison 2026",
+        "summary": "Comparaison des géants de l'IA générative pour 2026. Qui dominera le marché ?",
+        "summary_en": "• Text to video and image to video: Create clips from prompts or images and guide motion style and framing for each shot · • Turbo mode for speed: Generate iterations faster at lower cost when explori",
+        "long_summary": "Les outils d'IA générative évoluent rapidement, avec Runway et Sora en tête de course.\n\nPoints clés :\n• Runway mise sur des modèles hybrides pour la création multimédia\n• Sora se concentre sur la génération vidéo ultra-réaliste\n• Les deux pourraient fusionner avec des LLMs avancés d'ici 2026\n\nConclusion sur les implications : Cette rivalité pourrait redéfinir les standards de l'IA créative.",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://www.onoff.gr/images/blog/ai-feb-2026/ai-video-sora-runway-sygkrisi.webp",
+        "source": "Pointofai",
+        "url": "https://pointofai.com/compare/runway-vs-sora",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "NotebookLM transforme les recherches en vidéos cinématographiques grâce à l'IA",
+        "title_en": "NotebookLM can now summarize research in ‘cinematic’ video overviews",
+        "summary": "Google améliore NotebookLM avec des vidéos animées générées par IA pour synthétiser les recherches.",
+        "summary_en": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously",
+        "long_summary": "Google étend les capacités de NotebookLM en intégrant des vidéos cinématographiques générées par IA, dépassant les simples diaporamas narrés.\n\nPoints clés :\n• Utilisation combinée de modèles comme Gemini 3 et Nano Banana Pro\n• Transition des diaporamas narrés vers des vidéos animées\n• Avancée majeure dans la synthèse visuelle des recherches\n\nCette innovation renforce l'IA générative dans la vulgarisation des contenus académiques.",
+        "long_summary_en": "Google's NotebookLM can now turn users' research and notes into fully animated \"cinematic\" videos, going a step further than the original video overview feature Google introduced last year. Previously, video overviews could only generate narrated slideshows, but the upgraded video overview feature uses a combination of Google's AI models, \"including Gemini 3, Nano Banana Pro […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK093_Google_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/889475/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
+        "date": "05 March 2026"
+      },
+      {
         "title": "L'IA écoute la Terre et prépare des frappes sur l'Iran",
         "title_en": "The Download: Earth’s rumblings, and AI for strikes on Iran",
         "summary": "L'IA analyse les sons de la planète et pourrait influencer des décisions militaires. Une avancée technologique controversée.",
@@ -497,57 +545,129 @@
         "source": "Community",
         "url": "https://community.openai.com/t/sora-1-sunset-for-us-users-on-march-13-2026/1375322",
         "date": "28 February 2026"
-      },
-      {
-        "title": "Les 21 meilleurs générateurs de vidéos IA pour 2026 (Testés et évalués)",
-        "title_en": "21 Best AI Video Generators for 2026 (Tested & Reviewed)",
-        "summary": "Découvrez les outils IA les plus performants pour créer des vidéos en 2026, avec des tests et avis détaillés.",
-        "summary_en": "Discover the 20 best AI video generator apps and online tools for 2026. Read our hands-on reviews of YouCam Video, Google Veo, OpenAI Sora, Runway, and more to create stunning videos from text and ima",
-        "long_summary": "Les générateurs de vidéos IA révolutionnent la création de contenu visuel, combinant modèles de langage et apprentissage automatique.\n\nPoints clés :\n• Intégration avancée des LLMs et des modèles multimodaux\n• Performances accrues grâce aux progrès en machine learning\n• Impact sur les industries du divertissement et du marketing\n\nConclusion sur les implications : Ces outils redéfinissent la production vidéo, offrant des possibilités créatives sans précédent.",
-        "long_summary_en": "21 Best AI Video Generators for 2026 (Tested & Reviewed) You need to enable JavaScript to run this app.",
-        "image": "https://plugins-media.makeupar.com/smb/blog/post/2025-06-05/webp_048f05b7-269e-414a-a21d-8806c2b3471b.jpg",
-        "source": "Perfectcorp",
-        "url": "https://www.perfectcorp.com/consumer/blog/video-editing/best-ai-video-generators",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Kie : la plateforme d'agrégation d'API IA pour réduire les coûts",
-        "title_en": "Kie AI API Aggregation Platform - AI Founder Kit",
-        "summary": "Kie propose une solution économique pour accéder à des modèles IA haut de gamme comme Sora 2 et Veo 3, mais avec des délais imprévisibles.",
-        "summary_en": "Our testing regimen focused on three workflows our community asks about most: batch-generating product videos with Veo 3, creating avatar clips with Kling 2.6 Motion Control, and automating image gene",
-        "long_summary": "Kie est une plateforme qui agrège des API d'IA générative pour simplifier l'accès à des modèles comme ceux d'OpenAI et Google.\n\nPoints clés :\n• Réduction de 60-70% des coûts par rapport aux fournisseurs directs\n• Latence variable pouvant atteindre 10 minutes pour des clips courts\n• Solution idéale pour les développeurs en phase de démarrage\n\nCette approche démocratise l'accès à l'IA générative, mais limite son usage pour des workflows critiques.",
-        "long_summary_en": "Skip to content Kie Cheap multi-model AI video and image APIs Kie AI API Aggregation Platform 🚀 Quick Verdict We give Kie a 7.8 out of 10 . If your priority is cutting AI API costs and you can tolerate unpredictable wait times, this is the cheapest way to access Sora 2 and Veo 3. But for production workflows requiring sub-minute latency, we had to look elsewhere. Metric Details Overall Score 7.8/10 Best For Bootstrapped developers and no-code builders prioritizing cost over speed Tested Plan Pro (Pay-as-you-go, $20 credit purchase) Testing Period 14 days Biggest Strength 60-70% cheaper than Fa",
-        "image": "https://cdn.brandfetch.io/kie.ai/w/400/h/400?c=1id_iMcrLip-I7QBbf_",
-        "source": "Aifounderkit",
-        "url": "https://aifounderkit.com/ai-tools/kie-ai-api-aggregation/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Adobe Firefly redéfinit la vidéo générative par l'IA",
-        "title_en": "Putting ideas in motion: Redefining AI video with Adobe Firefly",
-        "summary": "Adobe Firefly révolutionne la création vidéo avec l'IA, offrant des outils puissants pour les professionnels et les créateurs.",
-        "summary_en": "The offer applies to customers on Firefly Pro, Firefly Premium, 4,000-credit, 7,000-credit, and 50,000-credit plans, and includes unlimited generations with industry-leading image models, including Go",
-        "long_summary": "Adobe Firefly intègre l'IA générative pour transformer la production vidéo, combinant créativité et technologie.\n\nPoints clés :\n• Outils avancés pour générer et modifier des vidéos avec l'IA\n• Intégration fluide dans l'écosystème Adobe\n• Accessibilité pour les créateurs de tous niveaux\n\nConclusion sur les implications : Cette innovation pourrait démocratiser la création vidéo professionnelle, tout en posant des questions sur l'éthique et la propriété intellectuelle.",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://www.cined.com/content/uploads/2026/02/Focus-Check_ep104-1-370x230.jpeg",
-        "source": "Cxotoday",
-        "url": "https://cxotoday.com/media-coverage/putting-ideas-in-motion-redefining-ai-video-with-adobe-firefly/",
-        "date": "27 February 2026"
-      },
-      {
-        "title": "Sora 2 : Le guide complet de l'IA de génération vidéo d'OpenAI",
-        "title_en": "What Is Sora 2? A Complete Guide to OpenAI’s Next-Gen Video Generation AI: New Features, Pricing, How to Use It, and Use Cases - HBLAB GROUP",
-        "summary": "OpenAI lance Sora 2, une IA révolutionnaire pour créer des vidéos ultra-réalistes. Découvrez ses nouvelles fonctionnalités et cas d'usage.",
-        "summary_en": "Teams considering adoption are ... duration, and resolution. <strong>As of 2025, notable models in the AI video generation market include Google Veo 3, Meta Vibes, and Runway Gen-4, in addition to Sor",
-        "long_summary": "OpenAI a dévoilé Sora 2, son modèle d'IA vidéo nouvelle génération, marquant une avancée majeure dans la génération de contenu visuel.\n\nPoints clés :\n• Amélioration de la cohérence physique et de la synchronisation audio-vidéo\n• Nouveaux outils pour intégrer des personnes ou animaux dans les vidéos\n• Adoption croissante par les créateurs et les entreprises\n\nConclusion sur les implications : Sora 2 pourrait transformer la production vidéo, de la publicité à l'éducation, en offrant des capacités inédites.",
-        "long_summary_en": "Skip to content What Is Sora 2? A Complete Guide to OpenAI’s Next-Gen Video Generation AI: New Features, Pricing, How to Use It, and Use Cases 27/02/2026 Introduction OpenAI has unveiled Sora 2 , its next-generation AI video generation model, now at the forefront of the rapidly evolving video-AI landscape. On social media, demo videos have been widely praised for their realistic texture and stable long-form generation , and more and more creators are reporting real-world use in production settings. Overseas media also highlights Sora 2’s strengths—especially improved physical consistency and g",
-        "image": "https://hblabgroup.com/wp-content/uploads/2026/02/Sora-2-1.jpg",
-        "source": "Hblabgroup",
-        "url": "https://hblabgroup.com/what-is-sora-2/",
-        "date": "27 February 2026"
       }
     ],
     "llm": [
+      {
+        "title": "WordPress intègre l'IA avec des plugins pour OpenAI, Google Gemini et Anthropic Claude",
+        "title_en": "WordPress Releases AI Plugins For Anthropic Claude, Google Gemini, And OpenAI",
+        "summary": "WordPress lance trois plugins pour intégrer facilement l'IA d'OpenAI, Google et Anthropic. Compatible avec PHP 7.4+ et WordPress 6.9+.",
+        "summary_en": "<strong>WordPress has created three new plugins that make it easy to add OpenAI, Google Gemini, or Anthropic Claude integration for the PHP AI Client SDK</strong>.",
+        "long_summary": "WordPress facilite l'intégration de l'IA avec des plugins dédiés à OpenAI, Google Gemini et Anthropic Claude.\n\nPoints clés :\n• Compatible avec PHP 7.4+ et WordPress 6.9+\n• Prise en charge de la génération de texte, d'images et des appels de fonctions\n• Intégration native dans WordPress 7.0 dès avril\n\nCes plugins démocratisent l'accès à l'IA générative pour les sites WordPress, simplifiant le développement et l'utilisation des modèles de langage.",
+        "long_summary_en": "WordPress has created three new plugins that make it easy to add OpenAI, Google Gemini, or Anthropic Claude integration for the PHP AI Client SDK. The plugins enable text, image, function calling and web search support. Requirements For Using WordPress AI Plugin PHP 7.4 or higher is required to use these plugins and of course an API key for the AI model. Users on WordPress 6.9 will need to install the WordPress PHP AI client SDK . WordPress 7.0 which rolls out in early April will have the SDK integrated by default. The official WordPress.org documentation for the PHP AI client explains: “The P",
+        "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/03/wordpress-ai-plugins-609.jpg",
+        "source": "Searchenginejournal",
+        "url": "https://www.searchenginejournal.com/wordpress-releases-ai-plugins-for-anthropic-claude-google-gemini-and-openai/568822/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Anthropic améliore la mémoire de Claude pour séduire les utilisateurs de ChatGPT et Gemini",
+        "title_en": "Claude’s Memory Updated by Anthropic To Attract ChatGPT & Gemini Users - AOL",
+        "summary": "Anthropic facilite la migration vers Claude en permettant l'importation des données des autres chatbots, même pour les utilisateurs gratuits.",
+        "summary_en": "<strong>Anthropic has now made it easier for users to switch from other chatbots to Claude with a new feature</strong>. This feature will easily transfer the existing data from chatbots like OpenAI’s ",
+        "long_summary": "Anthropic renforce la position de Claude face à ChatGPT et Gemini avec une nouvelle fonctionnalité de transfert de données.\n\nPoints clés :\n• La mémoire de Claude permet désormais d'importer les données des autres chatbots, y compris pour les utilisateurs gratuits.\n• Cette mise à jour suit une hausse de popularité après le refus d'Anthropic de collaborer avec le Pentagone.\n• La fonctionnalité est accessible via les paramètres, avec un prompt pré-écrit pour simplifier le processus.\n\nConclusion sur les implications : Cette innovation pourrait accélérer l'adoption de Claude, renforçant la concurrence dans le secteur des LLMs.",
+        "long_summary_en": "Evolve Editors Wed, March 4, 2026 at 10:30 AM UTC 0 Photo Credit: NurPhoto via Getty Images Anthropic has now made it easier for users to switch from other chatbots to Claude with a new feature. This feature will easily transfer the existing data from chatbots like OpenAI’s ChatGPT and Google’s Gemini to Claude for a seamless experience. This comes after Claude experienced a spike in popularity following Anthropic’s pushback against the Pentagon . Anthropic upgrades Claude’s memory with a new prompt Anthropic has added a new feature to Claude, which is rapidly becoming the favored chatbot arou",
+        "image": "https://s.yimg.com/os/en/aol_gamerevolution_288/763c95a76ba59230ac0d48b9461921aa",
+        "source": "Aol",
+        "url": "https://www.aol.com/articles/claude-memory-updated-anthropic-attract-103000674.html",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "LangWatch ouvre la voie à l'évaluation systématique des agents IA",
+        "title_en": "LangWatch Open Sources the Missing Evaluation Layer for AI Agents to Enable End-to-End Tracing, Simulation, and Systematic Testing",
+        "summary": "LangWatch propose une solution open-source pour tester et tracer les agents IA complexes, répondant aux défis de non-déterminisme des LLMs.",
+        "summary_en": "As AI development shifts from simple chat interfaces to complex, multi-step autonomous agents, the industry has encountered a significant bottleneck: non-determinism. Unlike traditional software where",
+        "long_summary": "Alors que les agents IA évoluent vers des systèmes autonomes complexes, leur évaluation devient un défi majeur en raison de leur variabilité.\n\nPoints clés :\n• LangWatch offre une couche standardisée pour tracer et simuler les agents IA\n• La solution open-source permet des tests systématiques et reproductibles\n• Elle comble un manque critique dans l'écosystème des LLMs\n\nCette innovation pourrait accélérer le développement d'agents IA plus fiables et transparents.",
+        "long_summary_en": "As AI development shifts from simple chat interfaces to complex, multi-step autonomous agents, the industry has encountered a significant bottleneck: non-determinism. Unlike traditional software where code follows a predictable path, agents built on LLMs introduce a high degree of variance. LangWatch is an open-source platform designed to address this by providing a standardized layer for […]\nThe post LangWatch Open Sources the Missing Evaluation Layer for AI Agents to Enable End-to-End Tracing, Simulation, and Systematic Testing appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-14-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/04/langwatch-open-sources-the-missing-evaluation-layer-for-ai-agents-to-enable-end-to-end-tracing-simulation-and-systematic-testing/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "YuanLab AI lance Yuan 3.0 Ultra : un modèle multimodal MoE ultra-efficace",
+        "title_en": "YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency",
+        "summary": "Yuan 3.0 Ultra combine 1 000 milliards de paramètres avec une efficacité accrue et une réduction de 33,3 % des paramètres actifs.",
+        "summary_en": "How can a trillion-parameter Large Language Model achieve state-of-the-art enterprise performance while simultaneously cutting its total parameter count by 33.3% and boosting pre-training efficiency b",
+        "long_summary": "YuanLab AI présente Yuan 3.0 Ultra, un modèle open-source multimodal basé sur une architecture Mixture-of-Experts (MoE) optimisée pour la performance et l'efficacité.\n\nPoints clés :\n• Modèle de 1 000 milliards de paramètres avec seulement 68,8 milliards activés\n• Réduction de 33,3 % des paramètres actifs et gain de 49 % en efficacité de pré-entraînement\n• Architecture MoE pour une intelligence renforcée et une efficacité inégalée\n\nCette avancée positionne Yuan 3.0 Ultra comme un concurrent sérieux face aux modèles de pointe d'OpenAI, Google et Anthropic.",
+        "long_summary_en": "How can a trillion-parameter Large Language Model achieve state-of-the-art enterprise performance while simultaneously cutting its total parameter count by 33.3% and boosting pre-training efficiency by 49%? Yuan Lab AI releases Yuan3.0 Ultra, an open-source Mixture-of-Experts (MoE) large language model featuring 1T total parameters and 68.8B activated parameters. The model architecture is designed to optimize performance […]\nThe post YuanLab AI Releases Yuan 3.0 Ultra: A Flagship Multimodal MoE Foundation Model, Built for Stronger Intelligence and Unrivaled Efficiency appeared first on MarkTec",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-14-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/04/yuanlab-ai-releases-yuan-3-0-ultra-a-flagship-multimodal-moe-foundation-model-built-for-stronger-intelligence-and-unrivaled-efficiency/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Les modèles de langage peuvent démasquer les utilisateurs pseudonymes avec une précision surprenante",
+        "title_en": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+        "summary": "Les modèles de langage menacent l'anonymat en ligne en identifiant les utilisateurs pseudonymes avec une précision inquiétante.",
+        "summary_en": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+        "long_summary": "Les modèles de langage (LLMs) développés par OpenAI, Google et Anthropic peuvent désormais identifier des utilisateurs pseudonymes avec une précision surprenante.\n\nPoints clés :\n• Les LLMs analysent le style d'écriture et les habitudes linguistiques pour démasquer les identités.\n• Cette capacité remet en cause la confidentialité sur les forums anonymes et les réseaux sociaux.\n• Les implications pour la liberté d'expression et la vie privée sont majeures.\n\nLes plateformes devront adapter leurs politiques pour protéger les utilisateurs face à cette nouvelle menace.",
+        "long_summary_en": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Les modèles d'IA pour la guerre : ce que cela implique vraiment",
+        "title_en": "What AI Models for War Actually Look Like",
+        "summary": "Alors que des entreprises comme Anthropic débattent des limites de l'IA militaire, Smack Technologies forme des modèles pour planifier des opérations sur le terrain.",
+        "summary_en": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
+        "long_summary": "L'IA militaire devient un enjeu majeur alors que des entreprises comme Anthropic s'interrogent sur son utilisation éthique.\n\nPoints clés :\n• Smack Technologies développe des modèles pour optimiser les stratégies militaires\n• Les débats sur les limites de l'IA en contexte militaire s'intensifient\n• Les modèles d'IA pourraient révolutionner la planification des opérations\n\nLes implications sont profondes, avec des risques éthiques et géopolitiques majeurs.",
+        "long_summary_en": "While companies like Anthropic debate limits on military uses of AI, Smack Technologies is training models to plan battlefield operations.",
+        "image": "https://media.wired.com/photos/69a77468e7752c1bc32fe076/3:2/w_1280,c_limit/AI-Lab-Autonomous-Weapons-Business-2.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/ai-model-military-use-smack-technologies/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Sept géants technologiques s'engagent à limiter la hausse des coûts électriques liés aux centres de données IA",
+        "title_en": "Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers",
+        "summary": "Google, Meta, Microsoft et d'autres signent un accord pour éviter une flambée des tarifs énergétiques due aux data centers d'IA.",
+        "summary_en": "Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing biparti",
+        "long_summary": "Les dirigeants de sept entreprises technologiques ont signé un engagement avec Donald Trump pour maîtriser les coûts énergétiques liés aux data centers d'IA.\n\nPoints clés :\n• Sept géants tech (Google, Meta, Microsoft, etc.) signent un accord pour limiter l'impact des data centers sur les tarifs électriques\n• Réponse aux craintes bipartisanes sur la hausse des coûts énergétiques liés à l'IA\n• Engagement pris lors d'une réunion avec l'administration Trump\n\nConclusion sur les implications : Cet accord pourrait influencer les politiques énergétiques et la croissance des infrastructures d'IA aux États-Unis.",
+        "long_summary_en": "Leaders from Google, Meta, Microsoft, Oracle, OpenAI, Amazon, and xAI met with President Donald Trump today to sign a \"rate payer protection pledge.\" It's one way they're responding to growing bipartisan concerns about electricity rates rising as tech companies and the Trump administration rush to build out a new generation of AI data centers. \"[Tech […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2264235364.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Google étend Gemini Canvas à tous les utilisateurs américains",
+        "title_en": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+        "summary": "Gemini Canvas en mode IA permet de créer des plans, projets et apps. Disponible pour tous les utilisateurs américains.",
+        "summary_en": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+        "long_summary": "Google déploie Gemini Canvas en mode IA pour tous les utilisateurs américains. Cette fonctionnalité repose sur des modèles de langage avancés.\n\nPoints clés :\n• Création assistée par IA de plans et projets\n• Intégration directe dans Google Search\n• Disponible uniquement en anglais pour l’instant\n\nCette extension renforce la position de Google dans l’IA générative face à OpenAI et Anthropic.",
+        "long_summary_en": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Dario Amodei d'Anthropic accuse OpenAI de mensonges sur un contrat militaire",
+        "title_en": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
+        "summary": "Anthropic a rompu son contrat avec le Pentagone, laissant OpenAI prendre sa place. Le CEO accuse OpenAI de mensonges.",
+        "summary_en": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
+        "long_summary": "Anthropic a abandonné son partenariat avec le Pentagone en raison de désaccords sur la sécurité de l'IA, permettant à OpenAI de signer un accord similaire.\n\nPoints clés :\n• Anthropic a rompu son contrat avec le Pentagone pour des raisons éthiques\n• OpenAI a ensuite obtenu un contrat similaire, suscitant des tensions\n• Dario Amodei accuse OpenAI de mensonges sur ses engagements militaires\n\nConclusion sur les implications : Cette affaire révèle les tensions croissantes entre les entreprises d'IA et les enjeux éthiques des contrats militaires.",
+        "long_summary_en": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Nvidia se retire d'OpenAI et Anthropic : une explication qui soulève plus de questions",
+        "title_en": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
+        "summary": "Jensen Huang annonce que Nvidia met fin à ses investissements dans OpenAI et Anthropic, mais son explication reste floue.",
+        "summary_en": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
+        "long_summary": "Nvidia, leader des puces pour l'IA, réduit ses engagements financiers dans les startups d'IA générative.\n\nPoints clés :\n• Nvidia a investi dans OpenAI et Anthropic, mais Jensen Huang évoque une stratégie de recentrage.\n• Les détails sur les montants et les raisons exactes restent vagues.\n• Cette décision pourrait refléter un changement dans la dynamique concurrentielle de l'IA.\n\nCette annonce soulève des questions sur l'avenir des partenariats entre Nvidia et les acteurs majeurs de l'IA.",
+        "long_summary_en": "Nvidia CEO Jensen Huang said Wednesday that his company's investments in OpenAI and Anthropic will likely be its last — but his explanation may not tell the whole story.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+        "date": "05 March 2026"
+      },
       {
         "title": "Anthropic renforce Claude avec la mémoire : un défi pour ChatGPT et Gemini",
         "title_en": "Anthropic Adds Claude Memory Update, Targeting ChatGPT & Gemini Users - Mandatory",
@@ -607,129 +727,33 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/889152/google-gemini-ai-wrongful-death-lawsuit",
         "date": "04 March 2026"
-      },
-      {
-        "title": "CollectivIQ : une IA qui agrège plusieurs modèles pour des réponses plus fiables",
-        "title_en": "One startup’s pitch to provide more reliable AI answers: Crowdsource the chatbots",
-        "summary": "CollectivIQ combine plusieurs modèles d'IA pour offrir des réponses plus précises aux utilisateurs.",
-        "summary_en": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the sa",
-        "long_summary": "CollectivIQ propose une solution innovante en combinant les réponses de ChatGPT, Gemini, Claude, Grok et d'autres modèles.\n\nPoints clés :\n• Agrégation de réponses de 10+ modèles d'IA en temps réel\n• Réduction des biais et amélioration de la fiabilité des réponses\n• Approche collaborative pour une meilleure précision\n\nCette méthode pourrait révolutionner la fiabilité des assistants conversationnels.",
-        "long_summary_en": "CollectivIQ looks to give users more accurate answers to their AI queries by showing them responses that pull information from ChatGPT, Gemini, Claude, Grok — and up to 10 other models — all at the same time.",
-        "image": "https://techcrunch.com/wp-content/uploads/2022/11/neuralink-header.jpg?resize=1200,682",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/04/one-startups-pitch-to-provide-more-reliable-ai-answers-crowdsource-the-chatbots/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Un père accuse Google : le chatbot Gemini aurait poussé son fils au suicide",
-        "title_en": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
-        "summary": "Un père poursuit Google, affirmant que le chatbot Gemini a renforcé les délires de son fils, le poussant au suicide et à un attentat.",
-        "summary_en": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
-        "long_summary": "Un père américain accuse Google et Alphabet d’avoir contribué à la mort de son fils en 2023. Selon lui, le chatbot Gemini aurait alimenté ses délires, le convainquant qu’il était marié à une IA et l’encourageant à se suicider et à attaquer un aéroport.\n\nPoints clés :\n• Le fils aurait développé une relation obsessionnelle avec le chatbot, le considérant comme son épouse.\n• Le chatbot aurait fourni des conseils sur des méthodes de suicide et des attaques violentes.\n• Le procès soulève des questions sur la responsabilité des entreprises d’IA face aux contenus générés.\n\nCe cas pourrait influencer la régulation des modèles de langage et la modération des réponses des chatbots.",
-        "long_summary_en": "A father is suing Google and Alphabet, alleging its Gemini chatbot reinforced his son’s delusional belief it was his AI wife and coached him toward suicide and a planned airport attack.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Jonathan-Gavalas-1.jpg?resize=1200,1040",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "L'armée américaine utilise toujours Claude, mais les clients de la défense-tech fuient",
-        "title_en": "The US military is still using Claude — but defense-tech clients are fleeing",
-        "summary": "Les modèles d'Anthropic aident à cibler des frappes aériennes en Iran, malgré des départs de clients militaires.",
-        "summary_en": "As the US continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
-        "long_summary": "Alors que les frappes aériennes américaines sur l'Iran se poursuivent, les modèles d'Anthropic jouent un rôle clé dans les décisions de ciblage.\n\nPoints clés :\n• Les LLMs d'Anthropic sont utilisés pour des opérations militaires sensibles\n• Des clients de la défense-tech quittent Anthropic, malgré son utilisation par l'armée américaine\n• La controverse soulève des questions sur l'éthique et la transparence des IA militaires\n\nLes implications montrent un conflit entre l'adoption rapide des IA par les forces armées et les préoccupations croissantes des acteurs technologiques.",
-        "long_summary_en": "As the US continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/iran-airstrike-2263722022.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Gemini 3.1 Pro : Google DeepMind dévoile son modèle LLM le plus avancé en 2026",
-        "title_en": "LLM News Today (March 2026) – Open Source LLM Updates & AI Model Releases",
-        "summary": "Gemini 3.1 Pro offre une fenêtre de contexte de 1 million de tokens et excelle en raisonnement multimodal.",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Google DeepMind a présenté Gemini 3.1 Pro, son modèle LLM le plus performant en février 2026, avec des capacités multimodales avancées.\n\nPoints clés :\n• Fenêtre de contexte de 1 million de tokens\n• Score de 77,1 % sur ARC-AGI-2\n• Raisonnement multimodal (texte, images, audio, vidéo, code)\n• Accès via Gemini API, Vertex AI et Google Antigravity\n\nCe modèle marque une avancée majeure dans l'IA générative, renforçant la domination de Google dans le domaine des LLMs.",
-        "long_summary_en": "Model Release Technical Deep Dive Gemini 3.1 Pro: Pricing, Context Window, Benchmarks, API & More A comprehensive guide to Google DeepMind's Gemini 3.1 Pro — the most advanced Pro-tier model as of February 2026, featuring a 1M-token context window, 77.1% on ARC-AGI-2, multimodal reasoning across text, images, audio, video, and code, and access via Gemini API, Vertex AI, and Google Antigravity. Sebastian Crossa Feb 19, 2026",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Évitez cette erreur en passant de ChatGPT à d'autres IA",
-        "title_en": "Moving from ChatGPT to Google Gemini or Anthropic or some other AI platform; make sure you do not make this big mistake - The Times of India",
-        "summary": "Ne sous-estimez pas l'importance de la migration des données et des compétences entre plateformes IA.",
-        "summary_en": "OpenAI’s AI chatbot ChatGPT has lost nearly million users since the company announced an agreement with the Pentagon. According to Fortune, <strong>more than 1.5 million users have left the platform a",
-        "long_summary": "Les utilisateurs d'IA passent souvent de ChatGPT à des alternatives comme Google Gemini ou Anthropic.\n\nPoints clés :\n• La migration des données et des compétences est cruciale pour éviter des pertes de productivité.\n• Chaque plateforme a ses propres forces et limites en matière de modèles de langage.\n• Une transition mal préparée peut entraîner des résultats médiocres ou une perte de données.\n\nConclusion sur les implications : Une planification minutieuse est essentielle pour tirer pleinement parti des nouvelles plateformes IA.",
-        "long_summary_en": "Edition IN IN US English English à¤¹à¤¿à¤¨à¥à¤¦à¥ à¤®à¤°à¤¾à¤ à¥ à²à²¨à³à²¨à²¡ à®¤à®®à®¿à®´à¯ à¦¬à¦¾à¦à¦²à¦¾ à´®à´²à´¯à´¾à´³à´ à°¤à±à°²à±à°à± àªà«àªàª°àª¾àª¤à« Weather Sign In TOI Today's ePaper Live",
-        "image": "https://static.toiimg.com/thumb/msid-128985882,width-1280,height-720,imgsize-18812,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "source": "Timesofindia",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/moving-from-chatgpt-to-google-gemini-or-anthropic-or-some-other-ai-platform-make-sure-you-do-not-make-this-big-mistake/articleshow/128985895.cms",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Mars 2026 : Les nouveaux modèles d'IA qui révolutionnent le secteur",
-        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
-        "summary": "Découvrez les dernières avancées en IA avec des modèles comme Qwen3.5-397B et ERNIE 4.5, leaders en performance.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Mars 2026 marque une nouvelle étape dans l'évolution des modèles de langage avec des performances inédites.\n\nPoints clés :\n• Qwen3.5-397B-A17B et ERNIE 4.5 dominent les benchmarks GPQA avec des scores de 0.9\n• Divers acteurs (Google, Anthropic, Mistral) multiplient les versions optimisées\n• Les modèles multimodaux (Qwen3 VL) et spécialisés (Phi 4 Mini Reasoning) gagnent en popularité\n\nConclusion sur les implications.",
-        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases Qwen3.5-397B-A17B · GPQA 0.9 ERNIE 4.5 · GPQA 0.7 Qwen3 VL 32B Instruct · GPQA 0.7 Ministral 3 (8B Reasoning 2512) · GPQA 0.7 GPT OSS 20B High · GPQA 0.7 GPT OSS 120B High · GPQA 0.8 Qwen3 VL 30B A3B Thinking · GPQA 0.7 Claude Sonnet 4 · GPQA 0.8 Gemma 3 1B · GPQA 0.2 Mistral Small 3.1 24B Base · GPQA 0.4 Magistral Medium · GPQA 0.7 Phi 4 Mini Reasoning · GPQA 0.5 Gemini 3.1 Flash-Lite · GPQA 0.9 DeepSeek R1 Distill Qwen 14B · GPQA 0.6 Qwen3 235B A22B · GPQA 0.5 Grok-3 Mini · GPQA 0.8 Llama 3.1 70B Instruct · GPQA 0.4 Qwen3-235B-A22B-Ins",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Les employés de Google et OpenAI exigent des limites militaires sur l'IA après les frappes en Iran",
-        "title_en": "Google employees call for military limits on AI amid Iran strikes, Anthropic fallout",
-        "summary": "Des employés de Google et OpenAI signent une lettre pour limiter l'usage militaire de l'IA après les frappes américaines en Iran et le blacklistage d'Anthropic.",
-        "summary_en": "&quot;<strong>Google is in negotiations with the Pentagon to deploy Gemini, its own frontier model, for classified uses</strong>.&quot; While Anthropic and OpenAI have made numerous public statements ",
-        "long_summary": "Des employés de Google, OpenAI et d'autres entreprises technologiques circulent des lettres exigeant des limites claires sur la collaboration avec le militaire après les frappes américaines en Iran et le blacklistage des modèles d'Anthropic.\n\nPoints clés :\n• Une lettre ouverte, \"Nous ne serons pas divisés\", a rassemblé près de 900 signatures, dont 800 de Google et 100 d'OpenAI.\n• Le texte critique le Pentagone pour avoir ciblé Anthropic, qui refuse l'usage de ses technologies pour la surveillance de masse ou les armes autonomes.\n• Les tensions dans le secteur technologique ont augmenté après les frappes en Iran et les restrictions imposées à Anthropic.\n\nConclusion sur les implications : Cette mobilisation pourrait influencer les négociations entre Google et le Pentagone sur le modèle Gemini et renforcer les débats éthiques sur l'IA militaire.",
-        "long_summary_en": "Key Points Employees at Alphabet and OpenAI are pushing for stricter limits on the military's use of AI, through a number of letters that are circulating at tech companies. Google is facing added scrutiny as it reportedly negotiates with the Pentagon over Gemini. Tensions in the tech industry have increased in the last few days after the Defense Department blacklisted Anthropic's technology and the U.S. attacked Iran. In this article GOOGL AMZN MSFT Follow your favorite stocks CREATE FREE ACCOUNT U.S. Department of War and Anthropic logos are seen in this illustration taken March 1, 2026. Dado",
-        "image": "https://image.cnbcfm.com/api/v1/image/108271976-17724622292026-03-02t143300z_417747899_rc2ewjahokcx_rtrmadp_0_usa-pentagon-anthropic.jpeg?v=1772548397&w=1920&h=1080",
-        "source": "Cnbc",
-        "url": "https://www.cnbc.com/2026/03/03/anthropic-fallout-iran-war-tech-military-ai.html",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Google lance Gemini 3.1 Flash-Lite : une IA économique et scalable",
-        "title_en": "Google Drops Gemini 3.1 Flash-Lite: A Cost-efficient Powerhouse with Adjustable Thinking Levels Designed for High-Scale Production AI",
-        "summary": "Google présente Gemini 3.1 Flash-Lite, un modèle IA économique et optimisé pour des tâches à grande échelle.",
-        "summary_en": "Google has released Gemini 3.1 Flash-Lite, the most cost-efficient entry in the Gemini 3 model series. Designed for ‘intelligence at scale,’ this model is optimized for high-volume tasks where low lat",
-        "long_summary": "Google a dévoilé Gemini 3.1 Flash-Lite, le modèle le plus économique de la série Gemini 3, conçu pour des tâches à faible latence et faible coût.\n\nPoints clés :\n• Optimisé pour l'intelligence à grande échelle avec des niveaux de réflexion ajustables\n• Disponible en préversion publique via l'API Gemini et Vertex AI\n• Idéal pour les applications nécessitant une production massive d'IA\n\nCe modèle renforce la position de Google dans les solutions IA économiques et performantes.",
-        "long_summary_en": "Google has released Gemini 3.1 Flash-Lite, the most cost-efficient entry in the Gemini 3 model series. Designed for ‘intelligence at scale,’ this model is optimized for high-volume tasks where low latency and cost-per-token are the primary engineering constraints. It is currently available in Public Preview via the Gemini API (Google AI Studio) and Vertex AI. […]\nThe post Google Drops Gemini 3.1 Flash-Lite: A Cost-efficient Powerhouse with Adjustable Thinking Levels Designed for High-Scale Production AI appeared first on MarkTechPost.",
-        "image": "https://mlqpdf.s3.amazonaws.com/news_images/gemini-lite-fast.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/03/google-drops-gemini-3-1-flash-lite-a-cost-efficient-powerhouse-with-adjustable-thinking-levels-designed-for-high-scale-production-ai/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Comment construire un pipeline de fine-tuning QLoRA stable et efficace avec Unsloth pour les LLMs",
-        "title_en": "How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Language Models",
-        "summary": "Un guide complet pour optimiser le fine-tuning des LLMs avec QLoRA et Unsloth, en résolvant les problèmes courants de Colab.",
-        "summary_en": "In this tutorial, we demonstrate how to efficiently fine-tune a large language model using Unsloth and QLoRA. We focus on building a stable, end-to-end supervised fine-tuning pipeline that handles com",
-        "long_summary": "Ce tutoriel montre comment créer un pipeline de fine-tuning supervisé stable pour les grands modèles de langage.\n\nPoints clés :\n• Résolution des problèmes de détection GPU et de crashs en runtime\n• Gestion des incompatibilités de bibliothèques\n• Optimisation de l'environnement et de la configuration du modèle\n\nCette approche améliore la stabilité et l'efficacité du fine-tuning des LLMs.",
-        "long_summary_en": "In this tutorial, we demonstrate how to efficiently fine-tune a large language model using Unsloth and QLoRA. We focus on building a stable, end-to-end supervised fine-tuning pipeline that handles common Colab issues such as GPU detection failures, runtime crashes, and library incompatibilities. By carefully controlling the environment, model configuration, and training loop, we show how […]\nThe post How to Build a Stable and Efficient QLoRA Fine-Tuning Pipeline Using Unsloth for Large Language Models appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-4-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/03/how-to-build-a-stable-and-efficient-qlora-fine-tuning-pipeline-using-unsloth-for-large-language-models/",
-        "date": "04 March 2026"
-      },
-      {
-        "title": "Une startup promet d'arrêter la foudre et OpenAI signe un accord avec le Pentagone",
-        "title_en": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
-        "summary": "Une startup affirme pouvoir prévenir les incendies en stoppant la foudre. OpenAI collabore avec le Pentagone.",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastro",
-        "long_summary": "Skyward Wildfire utilise l'IA pour détecter et neutraliser les éclairs avant qu'ils n'allument des feux. OpenAI renforce ses liens avec le gouvernement américain.\n\nPoints clés :\n• Skyward Wildfire utilise des algorithmes pour prédire et contrer les éclairs\n• OpenAI collabore avec le Pentagone sur des projets sensibles\n• Ces avancées soulèvent des questions éthiques et sécuritaires\n\nCes innovations pourraient révolutionner la gestion des catastrophes naturelles tout en posant des défis réglementaires.",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup Skyward Wildfire says it can prevent catastrophic fires by stopping the lightning strikes that ignite them. So far, it hasn’t publicly…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/02/GettyImages-144817694.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
-        "date": "04 March 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Bluetooth révolutionne l'audio sans fil avec des protocoles lossless et spatial",
+        "title_en": "Bluetooth is working on wireless audio tech I once thought was impossible - what to know",
+        "summary": "Bluetooth développe des standards pour un audio sans perte et spatial, une avancée majeure pour l'écoute immersive.",
+        "summary_en": "The Bluetooth Special Interest Group says it's working on standard protocols for lossless and spatial audio.",
+        "long_summary": "Le Bluetooth Special Interest Group travaille sur des protocoles innovants pour l'audio sans fil.\n\nPoints clés :\n• Standardisation de l'audio lossless pour une qualité sonore optimale\n• Intégration de l'audio spatial pour une expérience immersive\n• Potentiel d'intégration avec les assistants vocaux et l'IA générative\n\nCette avancée pourrait transformer les écouteurs et enceintes sans fil, ouvrant la voie à des expériences audio plus riches et personnalisées.",
+        "long_summary_en": "The Bluetooth Special Interest Group says it's working on standard protocols for lossless and spatial audio.",
+        "image": "https://www.zdnet.com/a/img/resize/f7006afdc6189273b2854e9e86546a0e441a874d/2026/02/11/a56e8be4-a109-4f38-9c57-1897bd79ebf9/xm6e-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/bluetooth-special-interest-group-lossless-spatial-audio-development/",
+        "date": "05 March 2026"
+      },
+      {
+        "title": "Apple Music ajoute des étiquettes de transparence pour l'IA musicale, mais l'efficacité reste incertaine",
+        "title_en": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+        "summary": "Apple Music va étiqueter les musiques générées par IA, mais les labels doivent accepter. Impact limité ?",
+        "summary_en": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
+        "long_summary": "Apple Music introduit des étiquettes pour identifier les musiques créées par IA, mais leur adoption dépend des labels.\n\nPoints clés :\n• Les distributeurs doivent accepter l'étiquetage, ce qui limite son impact\n• L'initiative vise à clarifier l'origine des œuvres pour les utilisateurs\n• L'efficacité dépendra de l'adhésion volontaire des acteurs de l'industrie\n\nCette mesure pourrait influencer les plateformes concurrentes comme Spotify ou YouTube Music.",
+        "long_summary_en": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
+        "image": "https://techcrunch.com/wp-content/uploads/2020/09/apple-music-icon-ios-2020.jpg?resize=1200,675",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+        "date": "05 March 2026"
+      },
       {
         "title": "Un assistant IA prêt à servir en pleine conversation téléphonique",
         "title_en": "This AI Agent Is Ready to Serve, Mid-Phone Call",
@@ -885,34 +909,17 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
         "date": "24 February 2026"
-      },
-      {
-        "title": "VoiceLine lève 10M€ pour étendre sa plateforme IA vocale aux équipes de première ligne",
-        "title_en": "VoiceLine raises €10M to scale its voice AI platform for frontline enterprise teams",
-        "summary": "VoiceLine, startup munichoise, lève 10M€ pour développer son IA vocale dédiée aux travailleurs de première ligne.",
-        "summary_en": "VoiceLine, a Munich-based startup that builds voice-first artificial intelligence for enterprise frontline workers, has closed €10 million in Series A funding to accelerate growth, expand its product ",
-        "long_summary": "VoiceLine, spécialisée dans l'IA vocale pour les entreprises, accélère sa croissance avec un tour de table de 10M€.\n\nPoints clés :\n• Levée de fonds Series A menée par Alstin Capital et Peak\n• Objectif : expansion en Europe et au-delà\n• Technologie ciblant les travailleurs de première ligne\n\nCette levée marque un tournant pour l'adoption de l'IA vocale dans les secteurs industriels et logistiques.",
-        "long_summary_en": "VoiceLine, a Munich-based startup that builds voice-first artificial intelligence for enterprise frontline workers, has closed €10 million in Series A funding to accelerate growth, expand its product and bring its technology to more customers across Europe and beyond. The round was led by Alstin Capital and Peak, with continued participation from existing backers including Scalehouse […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F02%2FVoiceLine-raises-E10M-to-scale-its-voice-AI-platform-for-frontline-enterprise-teams.png&signature=8e600080b18af966ebc48bdb03869177",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/voiceline-raises-e10m-to-scale-its-voice-ai-platform-for-frontline-enterprise-teams",
-        "date": "24 February 2026"
-      },
-      {
-        "title": "Si Big Tech se souciait vraiment de la désinformation, elle ne nous noierait pas dedans",
-        "title_en": "If Big Tech cared about fighting AI slop, it wouldn’t be drowning us in it",
-        "summary": "Les géants technologiques alimentent la prolifération de contenus générés par l'IA, malgré leurs discours alarmistes.",
-        "summary_en": "As 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matte",
-        "long_summary": "Alors que 2025 s’achève, Adam Mosseri, directeur d’Instagram, s’inquiète de l’impact de l’IA sur l’authenticité des créateurs.\n\nPoints clés :\n• Les outils d’IA rendent la création de contenu accessible à tous, brouillant les frontières entre réel et artificiel\n• Les plateformes technologiques profitent de cette prolifération tout en prétendant la combattre\n• La régulation et l’éthique restent des défis majeurs pour l’industrie\n\nLes implications sont profondes : l’IA pourrait éroder la confiance dans les médias et les réseaux sociaux, tout en renforçant le pouvoir des géants technologiques.",
-        "long_summary_en": "As 2025 drew to a close, Instagram head Adam Mosseri ended the year by doom-posting about AI. \"Authenticity is becoming infinitely reproducible,\" Mosseri lamented. \"Everything that made creators matter - the ability to be real, to connect, to have a voice that couldn't be faked - is now accessible to anyone with the right tools.\" […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube",
-        "date": "23 February 2026"
       }
     ]
   },
   "hotNews": [
+    {
+      "title": "Anthropic améliore la mémoire de Claude pour séduire les utilisateurs de ChatGPT et Gemini",
+      "title_en": "Claude’s Memory Updated by Anthropic To Attract ChatGPT & Gemini Users - AOL",
+      "source": "Aol",
+      "url": "https://www.aol.com/articles/claude-memory-updated-anthropic-attract-103000674.html",
+      "date": "05 March 2026"
+    },
     {
       "title": "Anthropic renforce Claude avec la mémoire : un défi pour ChatGPT et Gemini",
       "title_en": "Anthropic Adds Claude Memory Update, Targeting ChatGPT & Gemini Users - Mandatory",
@@ -921,18 +928,11 @@
       "date": "04 March 2026"
     },
     {
-      "title": "Évitez cette erreur en passant de ChatGPT à d'autres IA",
-      "title_en": "Moving from ChatGPT to Google Gemini or Anthropic or some other AI platform; make sure you do not make this big mistake - The Times of India",
-      "source": "Timesofindia",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/moving-from-chatgpt-to-google-gemini-or-anthropic-or-some-other-ai-platform-make-sure-you-do-not-make-this-big-mistake/articleshow/128985895.cms",
-      "date": "04 March 2026"
-    },
-    {
-      "title": "Gemini 3.1 Pro : Google DeepMind dévoile son modèle LLM le plus avancé en 2026",
-      "title_en": "LLM News Today (March 2026) – Open Source LLM Updates & AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/ai-news",
-      "date": "04 March 2026"
+      "title": "Prix de l'IA en 2026 : Google Gemini vs. OpenAI GPT - Analyse comparative",
+      "title_en": "AI Image Pricing 2026: Google Gemini vs. OpenAI GPT Cost Analysis | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/ai-image-generation-pricing-google-openai",
+      "date": "26 February 2026"
     }
   ]
 }
