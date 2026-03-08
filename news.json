@@ -1,7 +1,91 @@
 {
-  "lastUpdate": "08 March 2026 - 12:31",
+  "lastUpdate": "08 March 2026 - 18:31",
   "categories": {
     "general": [
+      {
+        "title": "Les AirPods Pro 3 révolutionnent l'ANC grâce à l'IA",
+        "title_en": "Apple AirPods Pro 3 review: I didn't think earbuds could pull off immersive ANC like this",
+        "summary": "Les AirPods Pro 3 utilisent l'IA pour une réduction de bruit inégalée, marquant une avancée majeure dans l'audio intelligent.",
+        "summary_en": "After testing AirPods Pro 3 for months, one feature stood out above all the upgrades.",
+        "long_summary": "Apple intègre des modèles d'IA avancés dans ses écouteurs pour une adaptation dynamique du bruit ambiant.\n\nPoints clés :\n• Utilisation de l'apprentissage automatique pour une réduction de bruit personnalisée\n• Modèles de langage pour une reconnaissance vocale optimisée\n• Collaboration avec des acteurs majeurs de l'IA comme OpenAI et Google\n\nL'IA devient un pilier des écouteurs haut de gamme, ouvrant la voie à des innovations audio encore plus intelligentes.",
+        "long_summary_en": "After testing AirPods Pro 3 for months, one feature stood out above all the upgrades.",
+        "image": "https://www.zdnet.com/a/img/resize/204d22e9ddf520bfd7f31256819a8bc212953d27/2025/09/15/3015f86f-0624-4595-8db5-3b7e9906a553/zdnet-airpods-pro-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/apple-airpods-pro-3-review/",
+        "date": "08 March 2026"
+      },
+      {
+        "title": "Comment désactiver HDMI-CEC sur votre TV et pourquoi c'est crucial",
+        "title_en": "How to turn off HDMI-CEC on your TV - and why doing so is such a big deal",
+        "summary": "Les TV analysent vos habitudes via HDMI-CEC pour cibler pubs et recommandations. Voici comment reprendre le contrôle.",
+        "summary_en": "TVs often analyze what you watch to curate suggestions and serve you ads, even through HDMI-connected devices. But I've found ways to regain control.",
+        "long_summary": "Les téléviseurs modernes exploitent l'IA pour analyser vos comportements via HDMI-CEC, même avec des appareils externes.\n\nPoints clés :\n• HDMI-CEC permet aux TV de collecter des données de visionnage\n• Ces données alimentent des algorithmes de recommandation et de publicité ciblée\n• La désactivation de HDMI-CEC limite cette surveillance\n\nCette pratique soulève des questions sur la vie privée à l'ère de l'IA générative et des modèles de langage.",
+        "long_summary_en": "TVs often analyze what you watch to curate suggestions and serve you ads, even through HDMI-connected devices. But I've found ways to regain control.",
+        "image": "https://www.zdnet.com/a/img/resize/e66f1008886d588af6556fc3142aab5264d27e7c/2025/04/01/6772821c-86ee-4fab-b650-0c356db070ea/dsc04792.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/how-to-turn-off-hdmi-cec-on-your-tv/",
+        "date": "08 March 2026"
+      },
+      {
+        "title": "L'Iran dans l'ère de l'IA : éthique des marchés prédictifs et la guerre des géants du streaming",
+        "title_en": "‘Uncanny Valley’: Iran War in the AI Era, Prediction Market Ethics, and Paramount Beats Netflix",
+        "summary": "L'IA s'immisce dans les conflits géopolitiques, tandis que les marchés prédictifs soulèvent des questions éthiques. Paramount surpasse Netflix.",
+        "summary_en": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+        "long_summary": "L'industrie de l'IA collabore de plus en plus avec les départements de défense, notamment dans le contexte du conflit au Moyen-Orient.\n\nPoints clés :\n• L'IA et le machine learning jouent un rôle croissant dans les stratégies militaires.\n• Les marchés prédictifs soulèvent des débats éthiques sur la manipulation des données.\n• Paramount dépasse Netflix dans la course aux contenus générés par l'IA.\n\nL'intégration de l'IA dans les conflits et l'économie soulève des questions sur la transparence et la régulation.",
+        "long_summary_en": "In this episode, our hosts unpack the ongoing conflict in the Middle East, particularly as the AI industry has been entrenching itself with the Department of Defense.",
+        "image": "https://media.wired.com/photos/69a8b38b4d0db9b1303572a9/3:2/w_1280,c_limit/Uncanny-Valley-Iran-Politics-2264385014.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/uncanny-valley-podcast-iran-war-artificial-intelligence-prediction-markets-paramount-warner-bros/",
+        "date": "08 March 2026"
+      },
+      {
+        "title": "Ce brouilleur veut bloquer les wearables IA toujours à l'écoute. Cela marchera-t-il ?",
+        "title_en": "This Jammer Wants to Block Always-Listening AI Wearables. It Probably Won’t Work",
+        "summary": "Un ancien étudiant de Harvard a développé un dispositif pour contrer les wearables intelligents, mais la physique pourrait lui mettre des bâtons dans les roues.",
+        "summary_en": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+        "long_summary": "Deveillance’s Spectre I vise à donner aux utilisateurs un contrôle sur les wearables toujours actifs, mais les lois de la physique pourraient limiter son efficacité.\n\nPoints clés :\n• Le Spectre I cible les wearables toujours à l'écoute, comme les assistants vocaux.\n• Son efficacité est remise en question par les limites physiques des ondes radio.\n• La solution soulève des questions sur la vie privée face à l'IA omniprésente.\n\nConclusion sur les implications :\nBien que l'initiative soit louable, elle montre les défis techniques et éthiques des dispositifs anti-surveillance dans un monde dominé par l'IA.",
+        "long_summary_en": "Deveillance’s Spectre I, developed by a recent Harvard grad, wants to give people control over the always-on wearables surrounding their lives. The problem? Physics.",
+        "image": "https://media.wired.com/photos/69a9ed524d78fe1b285c59c4/3:2/w_1280,c_limit/Gear_Spectre_2.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/deveillance-spectre-i/",
+        "date": "08 March 2026"
+      },
+      {
+        "title": "Netflix rachète la startup d'IA de Ben Affleck",
+        "title_en": "Netflix is buying Ben Affleck’s AI startup",
+        "summary": "Netflix renforce son expertise en IA avec l'acquisition d'InterPositive, spécialisée dans la production cinématographique.",
+        "summary_en": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired InterPositive, Ben ",
+        "long_summary": "Netflix, après avoir perdu la bataille pour Warner Bros., se tourne vers l'IA en rachetant InterPositive, la startup de Ben Affleck.\n\nPoints clés :\n• Acquisition stratégique pour renforcer les outils de production audiovisuelle\n• InterPositive développe des solutions d'IA générative et de modèles de langage\n• Netflix pourrait concurrencer des géants comme OpenAI ou Google dans le domaine de l'IA créative\n\nCette acquisition marque un tournant pour Netflix dans l'intégration de l'IA dans sa chaîne de production.",
+        "long_summary_en": "Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired InterPositive, Ben Affleck's AI company that specializes in tools for film and television production. The deal will see all 16 of InterPositive's current team of engineers […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2256155551.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+        "date": "08 March 2026"
+      },
+      {
+        "title": "Google offre un package de 692 millions de dollars à Sundar Pichai, lié à l'IA et aux projets autonomes",
+        "title_en": "Google just gave Sundar Pichai a $692M pay package",
+        "summary": "Sundar Pichai reçoit 692M$ de Google, lié à la performance et aux projets IA comme Waymo et Wing.",
+        "summary_en": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+        "long_summary": "Google a accordé à son PDG un package de rémunération record, majoritairement lié à des objectifs de performance, dont des actions liées à Waymo et Wing, ses filiales spécialisées en véhicules autonomes et livraisons par drones.\n\nPoints clés :\n• Le package inclut des stock options liées aux performances de Waymo et Wing, deux projets clés pour l'IA et l'autonomie.\n• Cette rémunération reflète l'importance stratégique de l'IA pour Google, en concurrence avec OpenAI et Anthropic.\n• Les LLMs et l'IA générative sont au cœur des ambitions technologiques de Google.\n\nConclusion sur les implications. Cette décision souligne l'engagement de Google dans l'IA et les technologies autonomes, renforçant sa position face à ses concurrents comme OpenAI et Anthropic.",
+        "long_summary_en": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+        "date": "08 March 2026"
+      },
+      {
+        "title": "Des centres de données IA s'installent dans des camps pour hommes isolés",
+        "title_en": "Owner of ICE detention facility sees big opportunity in AI man camps",
+        "summary": "Des centres de données IA s'implantent dans des camps initialement conçus pour les travailleurs du pétrole, une tendance inquiétante.",
+        "summary_en": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+        "long_summary": "Les développeurs de centres de données IA adoptent un modèle de camps isolés, popularisé pour loger les travailleurs masculins des champs pétroliers.\n\nPoints clés :\n• Les centres de données IA nécessitent des infrastructures isolées et peu coûteuses\n• Ces camps offrent une main-d'œuvre disponible et des coûts réduits\n• Des questions éthiques se posent sur l'exploitation des travailleurs et l'impact environnemental\n\nCette tendance reflète une course aux économies dans le déploiement de l'IA, mais soulève des inquiétudes sur les conditions de travail et la durabilité.",
+        "long_summary_en": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2203455424.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+        "date": "08 March 2026"
+      },
       {
         "title": "Le harcèlement en ligne entre dans l'ère de l'IA",
         "title_en": "Online harassment is entering its AI era",
@@ -96,90 +180,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=9.622877930477,0,80.754244139046,100",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Google lance TensorFlow 2.21 et LiteRT : performances GPU boostées et déploiement simplifié",
-        "title_en": "Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And Seamless PyTorch Edge Deployment Upgrades",
-        "summary": "TensorFlow 2.21 intègre LiteRT, remplaçant TFLite pour une inférence optimisée sur appareils mobiles et edge.",
-        "summary_en": "Google has officially released TensorFlow 2.21. The most significant update in this release is the graduation of LiteRT from its preview stage to a fully production-ready stack. Moving forward, LiteRT",
-        "long_summary": "Google a officialisé TensorFlow 2.21, marquant la sortie de LiteRT de sa phase bêta.\n\nPoints clés :\n• LiteRT devient le framework universel pour l'inférence sur appareils, remplaçant TFLite\n• Améliorations des performances GPU et accélération NPU\n• Intégration simplifiée avec PyTorch pour le déploiement edge\n\nCette mise à jour renforce l'écosystème Google pour le machine learning embarqué, facilitant le déploiement multi-framework.",
-        "long_summary_en": "Google has officially released TensorFlow 2.21. The most significant update in this release is the graduation of LiteRT from its preview stage to a fully production-ready stack. Moving forward, LiteRT serves as the universal on-device inference framework, officially replacing TensorFlow Lite (TFLite). This update streamlines the deployment of machine learning models to mobile and edge […]\nThe post Google Launches TensorFlow 2.21 And LiteRT: Faster GPU Performance, New NPU Acceleration, And Seamless PyTorch Edge Deployment Upgrades appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-24-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/06/google-launches-tensorflow-2-21-and-litert-faster-gpu-performance-new-npu-acceleration-and-seamless-pytorch-edge-deployment-upgrades/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Yann LeCun remet en cause la définition de l'IA générale et propose une alternative",
-        "title_en": "Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead",
-        "summary": "Yann LeCun critique la définition floue de l'IA générale et propose une nouvelle approche : l'Intelligence Adaptable Supérieure (SAI).",
-        "summary_en": "What if the AI industry is optimizing for a goal that cannot be clearly defined or reliably measured? That is the central argument of a new paper by Yann LeCun, and his team, which claims that Artific",
-        "long_summary": "Yann LeCun et son équipe remettent en question l'utilisation inconsistante du terme AGI dans la recherche et l'industrie.\n\nPoints clés :\n• L'AGI est un terme trop vague et mal défini\n• Propose l'Intelligence Adaptable Supérieure (SAI) comme alternative\n• Met en avant l'importance de l'adaptabilité et de l'apprentissage autonome\n\nCette redéfinition pourrait influencer les recherches futures en IA et les objectifs des grands acteurs du secteur.",
-        "long_summary_en": "What if the AI industry is optimizing for a goal that cannot be clearly defined or reliably measured? That is the central argument of a new paper by Yann LeCun, and his team, which claims that Artificial General Intelligence has become an overloaded term used in inconsistent ways across academia and industry. The research team […]\nThe post Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead appeared first on MarkTechPost.",
-        "image": "https://the-decoder.com/wp-content/uploads/2026/03/Superhuman-Adaptable-Intelligence.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Construire l'IA agentique de nouvelle génération : un cadre complet pour des agents cognitifs avec mémoire et validation",
-        "title_en": "Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation",
-        "summary": "Un cadre innovant pour des agents IA capables de planifier, exécuter et s'améliorer grâce à des outils de mémoire et de validation.",
-        "summary_en": "In this tutorial, we build a complete cognitive blueprint and runtime agent framework. We define structured blueprints for identity, goals, planning, memory, validation, and tool access, and use them ",
-        "long_summary": "Les chercheurs proposent un modèle complet pour des agents IA autonomes dotés de capacités cognitives avancées.\n\nPoints clés :\n• Cadre structuré pour l'identité, les objectifs et la planification des agents\n• Intégration d'outils de mémoire et de validation pour améliorer les performances\n• Approche modulaire permettant une amélioration systématique des agents\n\nCe framework ouvre la voie à des assistants IA plus autonomes et fiables, capables d'apprendre de leurs interactions.",
-        "long_summary_en": "In this tutorial, we build a complete cognitive blueprint and runtime agent framework. We define structured blueprints for identity, goals, planning, memory, validation, and tool access, and use them to create agents that not only respond but also plan, execute, validate, and systematically improve their outputs. Along the tutorial, we show how the same runtime […]\nThe post Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation appeared first on MarkTechPost.",
-        "image": "https://wizr.ai/wp-content/uploads/2025/06/Agentic-AI-Frameworks.webp",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Samsung lance des lunettes intelligentes avec IA pour rivaliser avec les Ray-Ban de Meta",
-        "title_en": "Samsung confirms smart glasses capabilities to compete with Meta Ray-Bans - what's coming",
-        "summary": "Samsung dévoile des lunettes intelligentes équipées d'une caméra et d'IA pour analyser le contexte visuel.",
-        "summary_en": "The upcoming glasses will feature a camera at eye level and use AI to process and understand your visual context.",
-        "long_summary": "Samsung prépare des lunettes intelligentes avec une caméra au niveau des yeux et une IA pour comprendre l'environnement visuel.\n\nPoints clés :\n• Utilisation de modèles d'IA pour analyser les images en temps réel\n• Concurrence directe avec les Ray-Ban de Meta\n• Potentiel pour des applications génératives et d'assistance visuelle\n\nCes lunettes pourraient révolutionner l'interaction homme-machine en intégrant des technologies avancées d'IA et de vision par ordinateur.",
-        "long_summary_en": "The upcoming glasses will feature a camera at eye level and use AI to process and understand your visual context.",
-        "image": "https://www.zdnet.com/a/img/resize/4792b5fbff0834d473f6ccc76332cf12d9854d8b/2026/03/02/0ba59407-7f45-4ab2-b433-de6cfc03e748/dsc09561.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/samsung-ai-smart-glasses-features/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Un système d'IA surpasse les médecins dans le diagnostic de maladies rares",
-        "title_en": "How an AI system beat experienced doctors at diagnosing rare diseases",
-        "summary": "DeepRare, une IA intégrant 40 outils spécialisés, a surpassé des médecins dans un test publié dans Nature.",
-        "summary_en": "DeepRare, an agentic AI system integrating 40 specialised tools, outperformed medical specialists in identifying rare conditions in a head-to-head study published in Nature. For millions of people wit",
-        "long_summary": "Le diagnostic des maladies rares reste un défi majeur pour les patients, souvent confrontés à des années d'errance médicale.\n\nPoints clés :\n• DeepRare a intégré 40 outils spécialisés pour analyser des symptômes complexes.\n• L'IA a surpassé des médecins expérimentés dans un test publié dans Nature.\n• Cette avancée pourrait révolutionner le diagnostic des maladies rares.\n\nCette performance ouvre la voie à une médecine plus précise et rapide pour des millions de patients.",
-        "long_summary_en": "DeepRare, an agentic AI system integrating 40 specialised tools, outperformed medical specialists in identifying rare conditions in a head-to-head study published in Nature. For millions of people with rare diseases, the path to diagnosis is a labyrinth. Patients bounce between generalist GPs and specialists across years, sometimes decades, piecing together symptoms that fall outside textbook […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FDeepRare-outperforms-doctors-in-a-rare-disease-diagnosis-study.png&signature=0cd580191f4cfbd267d5d32c87898cdd",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/how-an-ai-system-beat-experienced-doctors-at-diagnosing-rare-diseases",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Jack Dorsey justifie les licenciements massifs de Block : une stratégie axée sur l'IA",
-        "title_en": "Jack Dorsey Is Ready to Explain the Block Layoffs",
-        "summary": "Block licencie 40% de ses effectifs pour se recentrer sur l'IA, selon son PDG Jack Dorsey.",
-        "summary_en": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
-        "long_summary": "Block, la société derrière Cash App et Square, a licencié 40% de ses employés pour se reconstruire comme une entreprise axée sur l'intelligence artificielle.\n\nPoints clés :\n• Jack Dorsey justifie cette décision comme une étape nécessaire pour transformer Block en une entreprise centrée sur l'IA.\n• Les licenciements visent à réduire les coûts et à réallouer les ressources vers des projets liés à l'IA et au machine learning.\n• Cette stratégie s'inscrit dans un contexte où les géants technologiques comme OpenAI, Google et Anthropic dominent le marché des modèles de langage.\n\nConclusion sur les implications. Cette décision pourrait accélérer l'adoption de l'IA dans les services financiers, mais soulève des questions sur l'impact humain des restructurations massives.",
-        "long_summary_en": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
-        "image": "https://media.wired.com/photos/69aa3519fd9d3f6311038e57/191:100/w_1280,c_limit/Big-Interview-Jack-Dorsey-Business-2001060765.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Pourquoi Alexa+ est-elle si décevante ?",
-        "title_en": "Why Is Alexa+ So Bad?",
-        "summary": "Un test d'un mois de l'Echo Show 15 et d'Alexa+ révèle des performances décevantes en IA générative.",
-        "summary_en": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-        "long_summary": "L'Echo Show 15 et son assistant Alexa+ ont été testés dans un cadre domestique pour évaluer leurs capacités en IA générative.\n\nPoints clés :\n• Performances médiocres en compréhension contextuelle\n• Difficultés à gérer des requêtes complexes\n• Problèmes de personnalisation et d'adaptation\n\nConclusion sur les implications: Les assistants vocaux peinent à rivaliser avec les modèles avancés comme ceux d'OpenAI ou Google, soulignant les limites actuelles des LLMs en contexte réel.",
-        "long_summary_en": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-        "image": "https://media.wired.com/photos/69aa27d5d871d7f0e8562540/191:100/w_1280,c_limit/Gear_Echo15_GettyImages-1343644732.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
         "date": "08 March 2026"
       }
     ],
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Kling AI 2026 : Test complet et prix du générateur vidéo IA",
+        "title_en": "Kling AI Avis 2026 : test complet et prix du générateur vidéo IA",
+        "summary": "Test approfondi de Kling AI, l'outil de génération vidéo IA qui séduit les créateurs de contenu. Qualité, prix et performances analysés.",
+        "summary_en": "Face à Sora et Runway, <strong>Kling AI</strong> tire son épingle du jeu grâce à un excellent rapport qualité-prix et des vidéos jusqu’à 3 minutes. Il reste très compétitif, surtout pour les créateurs",
+        "long_summary": "En 2026, les outils de génération vidéo IA se multiplient, mais Kling AI se distingue par sa qualité et son accessibilité.\n\nPoints clés :\n• Qualité vidéo réaliste et compétitive\n• Plan gratuit pour tester les fonctionnalités\n• Interface intuitive et évolutive\n• Bon rapport qualité-prix\n• Avis positifs des utilisateurs\n\nConclusion sur les implications : Kling AI s'impose comme une alternative sérieuse face aux géants comme OpenAI et Google, avec des performances qui pourraient révolutionner la création de contenu.",
+        "long_summary_en": "Accueil » Kling AI Avis 2026 : notre test complet et honnête du générateur vidéo IA ⏱ 16 min de lecture · 📅 Mis à jour le 8 mars 2026 · ✅ Vérifié par l’équipe Formalive Vous cherchez un avis honnête sur Kling AI et on comprend pourquoi : en 2025, les outils de génération vidéo IA se multiplient à une vitesse folle, et il devient franchement difficile de savoir lesquels valent vraiment le coup. Kling AI s’est imposé comme l’un des acteurs les plus sérieux du secteur, avec des résultats qui ont fait parler d’eux dans la communauté des créateurs de contenu . Mais est-ce que ça tient la route dans",
+        "image": "https://www.formalive.fr/wp-content/uploads/2026/02/featured-kling-ai-avis.jpg",
+        "source": "Formalive",
+        "url": "https://www.formalive.fr/kling-ai-avis/",
+        "date": "08 March 2026"
+      },
+      {
         "title": "Explosion de vidéos de guerre Iran-US générées par IA : une menace pour l'information",
         "title_en": "AI-generated Iran war videos surge as creators use new tech to cash in - BBC News",
         "summary": "Des vidéos de guerre Iran-US générées par IA inondent les réseaux sociaux, exploitées par des créateurs pour de l'argent.",
@@ -533,21 +545,33 @@
         "source": "Jenova",
         "url": "https://www.jenova.ai/en/resources/best-ai-for-prompt-generation",
         "date": "05 March 2026"
-      },
-      {
-        "title": "Anthropic atteint 19 milliards de dollars de revenus annuels, Qwen perd ses chercheurs, Google et OpenAI accélèrent",
-        "title_en": "[AINews] Anthropic @ $19B ARR, Qwen team leaves, Gemini and GPT bump up fast models",
-        "summary": "Anthropic frôle les 20 milliards de revenus annuels, tandis que Qwen perd ses chercheurs et Google lance Gemini 3.1 Flash-Lite.",
-        "summary_en": "If Anthropic does “flip” OpenAI it will certainly be an earth-shattering reorder in the hierarchy that has existed since ChatGPT’s launch. Lots of small notables today - we recommend the delightful so",
-        "long_summary": "Anthropic confirme un chiffre d'affaires annuel record, se rapprochant dangereusement d'OpenAI. Pendant ce temps, Qwen subit des départs massifs et Google lance un modèle ultra-rapide.\n\nPoints clés :\n• Anthropic atteint 19 milliards de dollars de revenus annuels, approchant les 20 milliards d'OpenAI\n• Départs massifs chez Qwen, un coup dur pour l'open source\n• Google lance Gemini 3.1 Flash-Lite, misant sur la vitesse et l'efficacité\n• OpenAI améliore GPT 5.3 avec un focus sur l'alignement\n\nConclusion sur les implications : Cette dynamique pourrait redessiner la hiérarchie de l'IA, avec Anthropic comme futur leader, tandis que l'open source subit un revers significatif.",
-        "long_summary_en": "AINews: Weekday Roundups [AINews] Anthropic @ $19B ARR, Qwen team leaves, Gemini and GPT bump up fast models a quiet day Mar 04, 2026 ∙ Paid 41 Share AI News for 3/2/2026-3/3/2026. We checked 12 subreddits, 544 Twitters and 24 Discords ( 264 channels, and 12765 messages) for you. Estimated reading time saved (at 200wpm): 1137 minutes. AINews’ website lets you search all past issues. As a reminder, AINews is now a section of Latent Space . You can opt in/out of email frequencies! Probably the most consequential news of today is the confirmation that Anthropic has hit $19B ARR after an extraordi",
-        "image": "https://substackcdn.com/image/fetch/$s_!RPbg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8d40f52-7af5-4969-b941-896fbbd80306_1184x1702.png",
-        "source": "Latent",
-        "url": "https://www.latent.space/p/ainews-anthropic-19b-arr-qwen-team",
-        "date": "05 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "OpenAI lance GPT-5.4 : 1 million de tokens et des agents IA autonomes",
+        "title_en": "Dev Weekly Mar 2-8, 2026: GPT-5.4 Launch, Cursor AI Agents, US Gov Drops Anthropic, Oracle 30K Cuts - Ajit Singh",
+        "summary": "GPT-5.4 d'OpenAI révolutionne les LLMs avec un contexte étendu et des capacités natives d'automatisation. Le gouvernement américain abandonne Anthropic.",
+        "summary_en": "OpenAI’s GPT-4.1. Treasury Secretary Scott Bessent announced <strong>Treasury was ending all use of Anthropic products</strong>. Around 100 engineers who had been using Claude for coding assistance sw",
+        "long_summary": "Cette semaine a été marquée par des avancées majeures en IA, notamment le lancement de GPT-5.4 par OpenAI, un modèle capable de traiter 1 million de tokens et d'interagir directement avec des logiciels.\n\nPoints clés :\n• GPT-5.4 offre un contexte de 1 million de tokens, permettant des analyses approfondies de code et de documents.\n• Cursor lance des agents IA pilotés par des événements, marquant un tournant vers l'automatisation intelligente.\n• Le gouvernement américain abandonne Anthropic au profit d'OpenAI et Google, suivant une directive de Trump.\n• Oracle prévoit de licencier 30 000 employés pour financer ses centres de données IA.\n• Une faille de sécurité touche l'extension Aqua Trivy de VS Code, et LexisNexis confirme une fuite de données sensibles.\n\nConclusion sur les implications : Ces développements accélèrent l'adoption de l'IA en entreprise et soulèvent des questions sur la sécurité et l'éthique des modèles avancés.",
+        "long_summary_en": "Big week. OpenAI shipped GPT-5.4, their most capable model yet, with a 1 million token context window and 33% fewer hallucinations. Cursor launched Automations, making AI agents event-driven instead of prompt-driven. The US government started dropping Anthropic across agencies following a Trump directive, with State, Treasury, and HHS all switching to OpenAI and Google. Oracle revealed plans to cut up to 30,000 jobs to fund its AI data center buildout. On the security side, a supply chain attack hit the Aqua Trivy VS Code extension, and LexisNexis confirmed a breach affecting government and la",
+        "image": "https://singhajit.com/assets/img/posts/dev_weekly/tech-news-2-8mar-2026.svg",
+        "source": "Singhajit",
+        "url": "https://singhajit.com/dev-weekly/2026/mar-2-8/gpt-54-cursor-automations-us-agencies-anthropic-oracle/",
+        "date": "08 March 2026"
+      },
+      {
+        "title": "Anthropic contre le Pentagone : l'IA au cœur d'un conflit juridique",
+        "title_en": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+        "summary": "Anthropic envisage de poursuivre le Pentagone. MIT Technology Review analyse 10 enjeux clés de l'IA aujourd'hui.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For yea",
+        "long_summary": "Anthropic, un acteur majeur de l'IA, pourrait attaquer le Pentagone en justice. Parallèlement, MIT Technology Review publie une analyse des 10 tendances les plus importantes en IA.\n\nPoints clés :\n• Anthropic accuse le Pentagone de violations potentielles\n• MIT Technology Review identifie les avancées critiques en IA\n• Les modèles de langage et l'IA générative dominent les discussions\n\nConclusion sur les implications : Ce conflit juridique pourrait influencer la régulation de l'IA, tandis que les avancées technologiques continuent de transformer les industries.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/EmTech-AI-Nav-Thumbnail_1080x1080_2X.png?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+        "date": "08 March 2026"
+      },
       {
         "title": "Les LLMs peuvent démasquer les utilisateurs pseudonymes avec une précision surprenante",
         "title_en": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
@@ -702,30 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-        "date": "07 March 2026"
-      },
-      {
-        "title": "Claude d'Anthropic découvre 22 failles critiques dans Firefox en deux semaines",
-        "title_en": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-        "summary": "Anthropic a identifié 22 failles dans Firefox, dont 14 jugées graves, via une collaboration avec Mozilla.",
-        "summary_en": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-        "long_summary": "Dans le cadre d’un partenariat avec Mozilla, l’IA Claude d’Anthropic a analysé Firefox et détecté 22 vulnérabilités, dont 14 classées comme graves.\n\nPoints clés :\n• 22 failles découvertes en seulement deux semaines\n• 14 vulnérabilités jugées critiques par les experts\n• Collaboration inédite entre un LLM et un navigateur open-source\n\nCette découverte souligne le potentiel des modèles de langage avancés pour renforcer la cybersécurité.",
-        "long_summary_en": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-        "date": "07 March 2026"
-      },
-      {
-        "title": "Microsoft, Google et Amazon maintiennent Claude accessible aux clients non-défense",
-        "title_en": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-        "summary": "Les tensions entre Trump et Anthropic n'affectent pas les utilisateurs de Claude via Microsoft et Google.",
-        "summary_en": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-        "long_summary": "Les géants technologiques confirment que leurs clients non-défense peuvent continuer à utiliser Claude.\n\nPoints clés :\n• Microsoft, Google et Amazon assurent la disponibilité de Claude pour les clients civils\n• Les restrictions visent uniquement les contrats liés à la défense\n• OpenAI et d'autres acteurs observent l'évolution de la situation\n\nCette décision renforce la position d'Anthropic face aux pressions politiques.",
-        "long_summary_en": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-1.14.37PM.png?resize=1200,626",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
         "date": "07 March 2026"
       }
     ],
@@ -914,11 +914,11 @@
   },
   "hotNews": [
     {
-      "title": "Anthropic atteint 19 milliards de dollars de revenus annuels, Qwen perd ses chercheurs, Google et OpenAI accélèrent",
-      "title_en": "[AINews] Anthropic @ $19B ARR, Qwen team leaves, Gemini and GPT bump up fast models",
-      "source": "Latent",
-      "url": "https://www.latent.space/p/ainews-anthropic-19b-arr-qwen-team",
-      "date": "05 March 2026"
+      "title": "OpenAI lance GPT-5.4 : 1 million de tokens et des agents IA autonomes",
+      "title_en": "Dev Weekly Mar 2-8, 2026: GPT-5.4 Launch, Cursor AI Agents, US Gov Drops Anthropic, Oracle 30K Cuts - Ajit Singh",
+      "source": "Singhajit",
+      "url": "https://singhajit.com/dev-weekly/2026/mar-2-8/gpt-54-cursor-automations-us-agencies-anthropic-oracle/",
+      "date": "08 March 2026"
     },
     {
       "title": "WordPress lance des plugins officiels pour ChatGPT, Gemini et Claude",
@@ -928,11 +928,11 @@
       "date": "07 March 2026"
     },
     {
-      "title": "Mises à jour IA en mars 2026 : les nouveaux modèles qui révolutionnent l'IA générative",
-      "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
-      "date": "08 March 2026"
+      "title": "Claude vs ChatGPT vs Copilot vs Gemini : Guide 2026 pour les entreprises",
+      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+      "date": "07 March 2026"
     }
   ]
 }
