@@ -1,7 +1,67 @@
 {
-  "lastUpdate": "08 March 2026 - 18:31",
+  "lastUpdate": "09 March 2026 - 08:01",
   "categories": {
     "general": [
+      {
+        "title": "Construire l'IA agentique de prochaine génération : un cadre complet pour des agents cognitifs avec mémoire et validation",
+        "title_en": "Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation",
+        "summary": "Un cadre révolutionnaire pour des agents IA capables de planifier, exécuter et s'améliorer grâce à une mémoire et une validation intégrées.",
+        "summary_en": "In this tutorial, we build a complete cognitive blueprint and runtime agent framework. We define structured blueprints for identity, goals, planning, memory, validation, and tool access, and use them ",
+        "long_summary": "Les chercheurs proposent un modèle complet pour des agents IA autonomes dotés de capacités cognitives avancées.\n\nPoints clés :\n• Cadre structuré pour l'identité, les objectifs et la planification\n• Intégration de outils de mémoire et de validation\n• Agents capables d'auto-amélioration systématique\n\nCette avancée pourrait transformer les applications des LLMs dans des tâches complexes.",
+        "long_summary_en": "In this tutorial, we build a complete cognitive blueprint and runtime agent framework. We define structured blueprints for identity, goals, planning, memory, validation, and tool access, and use them to create agents that not only respond but also plan, execute, validate, and systematically improve their outputs. Along the tutorial, we show how the same runtime […]\nThe post Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-19-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
+        "date": "09 March 2026"
+      },
+      {
+        "title": "Au-delà de la précision : Mesurer la fragilité des modèles due aux caractéristiques excessives, redondantes et peu informatives",
+        "title_en": "Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regression",
+        "summary": "Ajouter trop de caractéristiques à un modèle peut fragiliser son déploiement en production malgré des gains initiaux en précision.",
+        "summary_en": "At first glance, adding more features to a model seems like an obvious way to improve performance. If a model can learn from more information, it should be able to make better predictions. In practice",
+        "long_summary": "L'ajout de caractéristiques semble intuitif pour améliorer les performances, mais cela crée des dépendances cachées et des risques structurels.\n\nPoints clés :\n• Chaque nouvelle caractéristique augmente la complexité des pipelines de données\n• Les données redondantes ou peu informatives dégradent la robustesse du modèle\n• La fragilité en production peut surpasser les gains en précision\n\nLes équipes doivent équilibrer précision et simplicité pour des modèles plus fiables.",
+        "long_summary_en": "At first glance, adding more features to a model seems like an obvious way to improve performance. If a model can learn from more information, it should be able to make better predictions. In practice, however, this instinct often introduces hidden structural risks. Every additional feature creates another dependency on upstream data pipelines, external systems, […]\nThe post Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regression appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-28-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/08/beyond-accuracy-quantifying-the-production-fragility-caused-by-excessive-redundant-and-low-signal-features-in-regression/",
+        "date": "09 March 2026"
+      },
+      {
+        "title": "How an AI system beat experienced doctors at diagnosing rare diseases",
+        "title_en": "How an AI system beat experienced doctors at diagnosing rare diseases",
+        "summary": "DeepRare, an agentic AI system integrating 40 specialised tools, outperformed medical specialists in identifying rare conditions in a head-to-head study published in Nature. For millions of people wit",
+        "summary_en": "DeepRare, an agentic AI system integrating 40 specialised tools, outperformed medical specialists in identifying rare conditions in a head-to-head study published in Nature. For millions of people wit",
+        "long_summary": "DeepRare, an agentic AI system integrating 40 specialised tools, outperformed medical specialists in identifying rare conditions in a head-to-head study published in Nature. For millions of people with rare diseases, the path to diagnosis is a labyrinth. Patients bounce between generalist GPs and specialists across years, sometimes decades, piecing together symptoms that fall outside textbook […]\nThis story continues at The Next Web",
+        "long_summary_en": "DeepRare, an agentic AI system integrating 40 specialised tools, outperformed medical specialists in identifying rare conditions in a head-to-head study published in Nature. For millions of people with rare diseases, the path to diagnosis is a labyrinth. Patients bounce between generalist GPs and specialists across years, sometimes decades, piecing together symptoms that fall outside textbook […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FDeepRare-outperforms-doctors-in-a-rare-disease-diagnosis-study.png&signature=0cd580191f4cfbd267d5d32c87898cdd",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/how-an-ai-system-beat-experienced-doctors-at-diagnosing-rare-diseases",
+        "date": "09 March 2026"
+      },
+      {
+        "title": "Jack Dorsey Is Ready to Explain the Block Layoffs",
+        "title_en": "Jack Dorsey Is Ready to Explain the Block Layoffs",
+        "summary": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
+        "summary_en": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
+        "long_summary": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
+        "long_summary_en": "In an exclusive interview with WIRED, Block’s cofounder and CEO says he axed 40 percent of his workforce so that he can rebuild the company “as an intelligence.”",
+        "image": "https://media.wired.com/photos/69aa3519fd9d3f6311038e57/191:100/w_1280,c_limit/Big-Interview-Jack-Dorsey-Business-2001060765.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/jack-dorsey-explains-block-layoffs/",
+        "date": "09 March 2026"
+      },
+      {
+        "title": "Pourquoi Alexa+ est-elle si décevante ?",
+        "title_en": "Why Is Alexa+ So Bad?",
+        "summary": "Un test d'un mois de l'Echo Show 15 et Alexa+ révèle des performances médiocres. L'IA peine à rivaliser avec les leaders du secteur.",
+        "summary_en": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+        "long_summary": "L'Echo Show 15 et son assistant Alexa+ ont été testés dans une cuisine pendant un mois, avec des résultats décevants.\n\nPoints clés :\n• L'IA peine à comprendre les commandes complexes\n• Des réponses souvent incomplètes ou erronées\n• Un retard technologique face à Google Assistant et Siri\n\nLes limites d'Alexa+ soulèvent des questions sur la capacité d'Amazon à rivaliser avec les géants de l'IA comme OpenAI ou Anthropic.",
+        "long_summary_en": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
+        "image": "https://media.wired.com/photos/69aa27d5d871d7f0e8562540/191:100/w_1280,c_limit/Gear_Echo15_GettyImages-1343644732.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
+        "date": "09 March 2026"
+      },
       {
         "title": "Les AirPods Pro 3 révolutionnent l'ANC grâce à l'IA",
         "title_en": "Apple AirPods Pro 3 review: I didn't think earbuds could pull off immersive ANC like this",
@@ -120,66 +180,6 @@
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/ai-hitpiece.jpg?resize=1200,600",
         "source": "mit_tech",
         "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "iPhone 17e vs. iPhone 17 : l'IA révèle la différence de 200$",
-        "title_en": "iPhone 17e vs. iPhone 17: I compared both models to uncover the $200 difference",
-        "summary": "L'iPhone 17e, un milieu de gamme prometteur, affronte l'iPhone 17. L'IA analyse les écarts.",
-        "summary_en": "Apple's latest iPhone 17e is shaping up to be a great midrange device, but how does it stack up against the base iPhone 17?",
-        "long_summary": "Apple lance l'iPhone 17e, une alternative abordable à l'iPhone 17. L'IA et le machine learning aident à comparer les performances.\n\nPoints clés :\n• L'iPhone 17e utilise des modèles d'IA optimisés pour le milieu de gamme\n• Les LLMs d'Apple améliorent la reconnaissance vocale et la génération de texte\n• Les différences de prix s'expliquent par les capteurs et la puissance de calcul\n\nConclusion sur les implications : L'IA devient un critère clé dans le choix des smartphones, avec des modèles adaptés à chaque segment de marché.",
-        "long_summary_en": "Apple's latest iPhone 17e is shaping up to be a great midrange device, but how does it stack up against the base iPhone 17?",
-        "image": "https://www.zdnet.com/a/img/resize/febd6ae567e9b28510df7a5d8170c7ecec77e151/2026/03/04/712fe2e2-266a-46ed-bd10-baa030703aec/dsc09699.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/iphone-17e-vs-iphone-17/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "L'IA va révolutionner la recherche en 2026",
-        "title_en": "Dominate AI search in 2026",
-        "summary": "Les acheteurs utilisent déjà l'IA pour des décisions rapides, réduisant les recherches traditionnelles.",
-        "summary_en": "Discovery has already changed, even if many teams have not fully felt the consequences yet. Buyers no longer open ten tabs, skim through blog posts, and slowly form an opinion over weeks. Instead, the",
-        "long_summary": "Les comportements d'achat évoluent rapidement avec l'IA, remplaçant les recherches longues par des réponses instantanées.\n\nPoints clés :\n• Les acheteurs préfèrent les réponses synthétiques d'IA aux recherches manuelles\n• Les modèles de langage réduisent le temps de décision à quelques secondes\n• Les entreprises doivent s'adapter pour apparaître dans les résultats d'IA\n\nCette transformation impacte les stratégies marketing et la visibilité des marques.",
-        "long_summary_en": "Discovery has already changed, even if many teams have not fully felt the consequences yet. Buyers no longer open ten tabs, skim through blog posts, and slowly form an opinion over weeks. Instead, they ask a single question to an AI system and receive a shortlist in return, usually two or three companies that feel […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FDominate-AI-search-in-2026.png&signature=75f8ff391cb71ac47cdbf579aebf14de",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/dominate-ai-search-in-2026",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Google simplifie l'accès à Gmail et Drive pour les agents IA",
-        "title_en": "Google made Gmail and Drive easier for AI agents to use",
-        "summary": "Google lance un outil CLI unifié pour Workspace, facilitant l'accès aux APIs pour les humains et les IA.",
-        "summary_en": "A new command-line tool published to GitHub consolidates Workspace’s sprawling APIs into a single interface. It also signals how seriously the company is taking the agentic AI moment. The tool, whose ",
-        "long_summary": "Google renforce son engagement dans l'IA agentique avec un nouvel outil CLI consolidant les APIs de Workspace.\n\nPoints clés :\n• Un outil CLI unique pour toutes les applications Workspace\n• Conçu pour les humains et les agents IA\n• Signal d'une stratégie IA ambitieuse chez Google\n\nCette initiative montre l'importance croissante des agents IA dans l'écosystème Google.",
-        "long_summary_en": "A new command-line tool published to GitHub consolidates Workspace’s sprawling APIs into a single interface. It also signals how seriously the company is taking the agentic AI moment. The tool, whose documentation describes it as “one CLI for all of Google Workspace, built for humans and AI agents,” is called gws. It provides unified command-line […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FGoogle-made-Gmail-and-Drive-easier-for-AI-agents-to-use.png&signature=050c591e8beebcdaf6d2e0962c316692",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/google-made-gmail-and-drive-easier-for-ai-agents-to-use",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "L'IA générative : entre hype et réalité, un débat passionné",
-        "title_en": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
-        "summary": "L'IA générative suscite des réactions extrêmes, entre enthousiasme et craintes apocalyptiques. Comment démêler le vrai du faux ?",
-        "summary_en": "We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that ma",
-        "long_summary": "L'IA générative envahit tous les secteurs, mais son fonctionnement reste mal compris. Proches et opposants l'évoquent avec un enthousiasme excessif.\n\nPoints clés :\n• L'IA générative est omniprésente mais souvent mal expliquée\n• Les discours des partisans et détracteurs manquent de nuance\n• Les modèles comme ceux d'OpenAI ou Google alimentent le débat\n\nConclusion sur les implications :\nLe manque de clarté sur l'IA génère des peurs infondées et des attentes irréalistes, freinant son adoption raisonnée.",
-        "long_summary_en": "We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to be confused about what it is and how it works. It doesn't help that many of gen AI's proponents and detractors both speak about it with a feverish hyperbole […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Screenshot-2026-03-06-at-1.32.13%E2%80%AFPM.png?quality=90&strip=all&crop=0%2C2.6342944624415%2C100%2C94.731411075117&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Grammarly utilise nos identités sans permission",
-        "title_en": "Grammarly is using our identities without permission",
-        "summary": "Grammarly utilise des profils d'experts, y compris des personnes décédées, pour son outil d'IA, suscitant des questions éthiques.",
-        "summary_en": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the f",
-        "long_summary": "Grammarly propose une fonctionnalité d'évaluation par des experts, mais certains profils utilisés sont des personnes réelles non consentantes, comme des professeurs décédés ou des supérieurs hiérarchiques.\n\nPoints clés :\n• Grammarly utilise des identités réelles sans autorisation pour son outil d'IA.\n• Des experts décédés et des supérieurs hiérarchiques sont inclus dans la base de données.\n• Cela soulève des questions sur l'éthique des données et la transparence des modèles de langage.\n\nLes implications montrent un manque de contrôle sur les données utilisées par les LLMs, posant des risques juridiques et éthiques pour les entreprises d'IA.",
-        "long_summary_en": "Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday. When I tried the feature out myself, I found some experts that came as a surprise for a different reason - one of them was my boss. The AI-generated feedback included […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=9.622877930477,0,80.754244139046,100",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
         "date": "08 March 2026"
       }
     ],
@@ -549,6 +549,66 @@
     ],
     "llm": [
       {
+        "title": "ChatGPT vs Gemini vs Claude : le marché de l'IA générative en 2026",
+        "title_en": "AI Comparisons 2026: ChatGPT vs Gemini vs Claude ...",
+        "summary": "En 2026, l'IA générative n'a plus de champion unique. Chaque modèle excelle dans un domaine spécifique.",
+        "summary_en": "Models update at an unprecedented pace: <strong>OpenAI releases GPT-4o versions every quarter</strong>, Google has natively integrated Gemini 2.0 throughout its ecosystem, Anthropic has positioned Cla",
+        "long_summary": "Le paysage de l'IA générative a radicalement évolué. OpenAI, Google, Anthropic et DeepSeek se partagent le marché, chacun avec des forces distinctes.\n\nPoints clés :\n• Plus de modèle universel : le choix dépend de l'usage\n• Mises à jour fréquentes (versions trimestrielles chez OpenAI)\n• DeepSeek prouve que la Chine peut rivaliser avec des coûts réduits\n• Les comparaisons deviennent obsolètes en quelques mois\n\nConclusion sur les implications : L'IA est devenue un écosystème où la spécialisation prime sur la généralisation.",
+        "long_summary_en": "In 2026, ChatGPT , Gemini , and Claude dominate the generative AI market, but each excels in different areas. What was a two-model race a year ago has become an ecosystem with at least four serious competitors, where the right choice depends on the specific use you give the tool. There's no longer a universal \"best AI\": there's the best AI for your use case. The reality is that most online comparisons you find are obsolete within two months of publication. Models update at an unprecedented pace: OpenAI releases GPT-4o versions every quarter, Google has natively integrated Gemini 2.0 throughout",
+        "image": "https://res.cloudinary.com/dhqzl4gpk/image/upload/v1771362322/featured_comparativas_ia_c451d8fc4e.jpg",
+        "source": "Gurusup",
+        "url": "https://gurusup.com/blog/ai-comparisons",
+        "date": "09 March 2026"
+      },
+      {
+        "title": "Gemini 3.1 Pro : Google DeepMind révolutionne l'IA avec un modèle multimodal ultra-performant",
+        "title_en": "LLM News Today (March 2026) – Open Source LLM Updates & AI Model Releases",
+        "summary": "Gemini 3.1 Pro de Google DeepMind bat des records avec un contexte de 1M tokens et une précision de 77,1% sur ARC-AGI-2.",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Google DeepMind lance Gemini 3.1 Pro, le modèle Pro le plus avancé en février 2026, combinant puissance et polyvalence.\n\nPoints clés :\n• Fenêtre de contexte de 1 million de tokens pour des analyses approfondies\n• Score de 77,1% sur ARC-AGI-2, un record pour les modèles Pro\n• Capacités multimodales : traitement du texte, images, audio, vidéo et code\n• Disponible via Gemini API, Vertex AI et Google Antigravity\n\nConclusion sur les implications : Ce modèle pourrait redéfinir les standards de l'IA générative et accélérer l'adoption de l'IA multimodale dans les entreprises.",
+        "long_summary_en": "Model Release Technical Deep Dive Gemini 3.1 Pro: Pricing, Context Window, Benchmarks, API & More A comprehensive guide to Google DeepMind's Gemini 3.1 Pro — the most advanced Pro-tier model as of February 2026, featuring a 1M-token context window, 77.1% on ARC-AGI-2, multimodal reasoning across text, images, audio, video, and code, and access via Gemini API, Vertex AI, and Google Antigravity. Sebastian Crossa Feb 19, 2026",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "09 March 2026"
+      },
+      {
+        "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
+        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+        "summary": "Analyse détaillée des coûts des modèles Grok, Gemini, GPT-4o et Claude en 2026. Des écarts de prix significatifs selon les fournisseurs.",
+        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Mu",
+        "long_summary": "Les prix des API d'IA évoluent rapidement en 2026, avec des différences marquées entre les modèles. Cette étude compare les tarifs de Grok, Gemini, GPT-4o et Claude.\n\nPoints clés :\n• Grok propose les tarifs les plus bas ($0,20/$0,50 par million de tokens)\n• GPT-5.2 et Gemini 3.1 sont les plus chers (jusqu'à $14 par million de tokens)\n• Claude offre des options intermédiaires avec trois niveaux de prix\n\nConclusion sur les implications : Les entreprises doivent évaluer leurs besoins en tokens pour optimiser leurs coûts.",
+        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 3/8/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 20",
+        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
+        "source": "Intuitionlabs",
+        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
+        "date": "09 March 2026"
+      },
+      {
+        "title": "Andrej Karpathy libère 'Autoresearch', un outil Python de 630 lignes pour des expériences ML autonomes sur GPU unique",
+        "title_en": "Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experiments on Single GPUs",
+        "summary": "Un outil minimaliste pour des expériences ML autonomes, optimisé pour un seul GPU NVIDIA.",
+        "summary_en": "Andrej Karpathy released autoresearch, a minimalist Python tool designed to enable AI agents to autonomously conduct machine learning experiments. The project is a stripped-down version of the nanocha",
+        "long_summary": "Andrej Karpathy a publié 'autoresearch', une version allégée du noyau de formation de nanochat, condensée en un seul fichier de 630 lignes.\n\nPoints clés :\n• Optimisé pour un seul GPU NVIDIA\n• Permet des expériences ML autonomes\n• Basé sur le code de nanochat\n\nCette libération pourrait accélérer la recherche en IA en démocratisant l'accès aux expériences autonomes.",
+        "long_summary_en": "Andrej Karpathy released autoresearch, a minimalist Python tool designed to enable AI agents to autonomously conduct machine learning experiments. The project is a stripped-down version of the nanochat LLM training core, condensed into a single-file repository of approximately ~630 lines of code. It is optimized for execution on a single NVIDIA GPU. The Autonomous Iteration […]\nThe post Andrej Karpathy Open-Sources ‘Autoresearch’: A 630-Line Python Tool Letting AI Agents Run Autonomous ML Experiments on Single GPUs appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-19-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/08/andrej-karpathy-open-sources-autoresearch-a-630-line-python-tool-letting-ai-agents-run-autonomous-ml-experiments-on-single-gpus/",
+        "date": "09 March 2026"
+      },
+      {
+        "title": "La controverse Anthropic-Pentagone va-t-elle effrayer les startups de l'IA ?",
+        "title_en": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+        "summary": "La polémique autour d'Anthropic et le Pentagone pourrait dissuader les startups tech de collaborer avec le gouvernement.",
+        "summary_en": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+        "long_summary": "La récente polémique impliquant Anthropic et le Pentagone soulève des questions sur les partenariats entre startups d'IA et institutions militaires.\n\nPoints clés :\n• Les startups d'IA pourraient hésiter à collaborer avec le gouvernement après cette affaire.\n• Le débat porte sur l'éthique et la transparence des contrats militaires en IA.\n• OpenAI et Google pourraient aussi être impactés par cette controverse.\n\nCette affaire pourrait ralentir l'innovation en IA pour la défense, mais aussi renforcer les exigences éthiques.",
+        "long_summary_en": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1461207630.jpg?resize=1200,857",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+        "date": "09 March 2026"
+      },
+      {
         "title": "OpenAI lance GPT-5.4 : 1 million de tokens et des agents IA autonomes",
         "title_en": "Dev Weekly Mar 2-8, 2026: GPT-5.4 Launch, Cursor AI Agents, US Gov Drops Anthropic, Oracle 30K Cuts - Ajit Singh",
         "summary": "GPT-5.4 d'OpenAI révolutionne les LLMs avec un contexte étendu et des capacités natives d'automatisation. Le gouvernement américain abandonne Anthropic.",
@@ -667,66 +727,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/openais-robotics-chief-quits-over-the-pentagon-deal",
         "date": "08 March 2026"
-      },
-      {
-        "title": "La dirigeante robotique d'OpenAI quitte en réponse à l'accord avec le Pentagone",
-        "title_en": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
-        "summary": "Caitlin Kalinowski, responsable robotique chez OpenAI, démissionne après l'accord controversé avec le Pentagone.",
-        "summary_en": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics t",
-        "long_summary": "Caitlin Kalinowski, ancienne dirigeante de l'équipe robotique d'OpenAI, quitte l'entreprise en réaction à l'accord avec le Pentagone.\n\nPoints clés :\n• Démission en signe de désaccord avec la collaboration militaire\n• Impact potentiel sur les projets robotiques d'OpenAI\n• Questions éthiques sur l'utilisation de l'IA par les gouvernements\n\nCette décision souligne les tensions croissantes entre les ambitions commerciales et les enjeux éthiques dans l'industrie de l'IA.",
-        "long_summary_en": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Une feuille de route pour l'IA, si quelqu'un veut bien écouter",
-        "title_en": "A roadmap for AI, if anyone will listen",
-        "summary": "La Déclaration Pro-Humaine finalisée avant l'affrontement Pentagon-Anthropic relance le débat sur l'avenir de l'IA.",
-        "summary_en": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
-        "long_summary": "La Déclaration Pro-Humaine et l'incident entre le Pentagone et Anthropic soulignent les tensions croissantes autour de l'IA.\n\nPoints clés :\n• La Déclaration Pro-Humaine vise à encadrer l'IA pour protéger l'humanité\n• L'affrontement Pentagon-Anthropic révèle les enjeux géopolitiques des modèles avancés\n• Les acteurs majeurs comme OpenAI et Google sont sous pression pour des régulations plus strictes\n\nCes événements accélèrent la nécessité d'une gouvernance mondiale de l'IA, mais les divergences d'intérêts pourraient freiner les progrès.",
-        "long_summary_en": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-871198558.jpg?resize=1200,772",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-        "date": "08 March 2026"
-      },
-      {
-        "title": "Claude vs ChatGPT vs Copilot vs Gemini : Guide 2026 pour les entreprises",
-        "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-        "summary": "Comparaison des leaders de l'IA générative pour les entreprises en 2026 : ChatGPT, Claude, Copilot et Gemini.",
-        "summary_en": "While no public metrics exist, vendor claims are notable: Anthropic insists its Claude has lower “falsehood rates” and shows internal citations to sources. OpenAI has begun offering “agentic retrieval",
-        "long_summary": "Le marché des modèles de langage pour entreprises s'est recentré autour de quatre géants : ChatGPT, Claude, Copilot et Gemini.\n\nPoints clés :\n• ChatGPT domine avec une adoption massive dans les grandes entreprises\n• Claude mise sur la sécurité et des fenêtres de contexte étendues\n• Copilot s'intègre parfaitement à l'écosystème Microsoft\n• Gemini offre une expérience unifiée via Google Cloud et Workspace\n\nConclusion sur les implications : Les entreprises doivent choisir en fonction de leurs besoins spécifiques en matière d'intégration, de sécurité et de productivité.",
-        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 3/6/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative ",
-        "image": "https://intuitionlabs.ai/images/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-        "date": "07 March 2026"
-      },
-      {
-        "title": "Anthropic vs. le Pentagone : la guerre des IA et ses enjeux",
-        "title_en": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
-        "summary": "Le Pentagone qualifie Anthropic de risque pour la chaîne d'approvisionnement après un désaccord sur le contrôle des IA. OpenAI prend sa place.",
-        "summary_en": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap",
-        "long_summary": "Le Pentagone et Anthropic ont rompu leur partenariat après des désaccords sur l'usage des IA, notamment dans les armes autonomes et la surveillance.\n\nPoints clés :\n• Le Pentagone considère Anthropic comme un risque pour la chaîne d'approvisionnement.\n• OpenAI remplace Anthropic, malgré une hausse des désinstallations de ChatGPT.\n• La compétition entre acteurs de l'IA pourrait accélérer l'innovation.\n\nCette rupture souligne les tensions entre sécurité nationale et liberté technologique.",
-        "long_summary_en": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
-        "date": "07 March 2026"
-      },
-      {
-        "title": "Le contrat Pentagon-Anthropic : un avertissement pour les startups de l'IA",
-        "title_en": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
-        "summary": "Le Pentagone a classé Anthropic comme un risque pour la chaîne d'approvisionnement après un désaccord sur le contrôle de ses modèles d'IA.",
-        "summary_en": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weap",
-        "long_summary": "Le Pentagone a rompu un contrat de 200 millions de dollars avec Anthropic en raison de divergences sur l'usage de l'IA dans les armes autonomes et la surveillance. OpenAI a pris le relais, mais a vu ChatGPT perdre 295% d'utilisateurs.\n\nPoints clés :\n• Le Pentagone exige un contrôle accru sur les modèles d'IA militaires\n• Anthropic refuse de céder le contrôle total de ses algorithmes\n• OpenAI accepte les conditions et subit des conséquences imprévues\n\nConclusion sur les implications :\nLes startups de l'IA doivent peser les risques avant de s'engager avec le gouvernement, car les exigences militaires peuvent nuire à leur réputation et à leur croissance.",
-        "long_summary_en": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-        "date": "07 March 2026"
       }
     ],
     "audio": [
@@ -921,18 +921,18 @@
       "date": "08 March 2026"
     },
     {
-      "title": "WordPress lance des plugins officiels pour ChatGPT, Gemini et Claude",
-      "title_en": "WordPress Launches AI Plugins for ChatGPT, Gemini, and Claude",
-      "source": "Rswebsols",
-      "url": "https://www.rswebsols.com/news/wordpress-launches-official-ai-plugins-for-chatgpt-gemini-and-claude-what-you-need-to-know/",
-      "date": "07 March 2026"
+      "title": "ChatGPT vs Gemini vs Claude : le marché de l'IA générative en 2026",
+      "title_en": "AI Comparisons 2026: ChatGPT vs Gemini vs Claude ...",
+      "source": "Gurusup",
+      "url": "https://gurusup.com/blog/ai-comparisons",
+      "date": "09 March 2026"
     },
     {
-      "title": "Claude vs ChatGPT vs Copilot vs Gemini : Guide 2026 pour les entreprises",
-      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
+      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
       "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-      "date": "07 March 2026"
+      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
+      "date": "09 March 2026"
     }
   ]
 }
