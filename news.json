@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "10 March 2026 - 08:02",
+  "lastUpdate": "10 March 2026 - 12:32",
   "categories": {
     "general": [
+      {
+        "title": "Whoop intègre l'IA pour révolutionner le suivi de la santé féminine",
+        "title_en": "The Whoop Health Tracker Hops on the Women’s Health Train With 2 New Offerings",
+        "summary": "Whoop lance deux nouvelles fonctionnalités IA pour analyser les hormones et les bilans sanguins des femmes.",
+        "summary_en": "If you’re a Whoop member, you can expect to see two new women’s health updates for both hormonal insights and blood panels.",
+        "long_summary": "Whoop, leader du suivi santé, intègre désormais l'IA pour offrir des analyses personnalisées aux femmes.\n\nPoints clés :\n• Utilisation de modèles de langage pour interpréter les données hormonales\n• Algorithmes de machine learning pour détecter des anomalies dans les bilans sanguins\n• Collaboration avec des experts en santé pour valider les résultats\n\nL'IA pourrait démocratiser l'accès à des diagnostics précoces et personnalisés.",
+        "long_summary_en": "If you’re a Whoop member, you can expect to see two new women’s health updates for both hormonal insights and blood panels.",
+        "image": "https://www.cnet.com/a/img/resize/10877f15bd7965fb203ec1fbad21431a86e9d1a7/hub/2026/03/09/e94b6a7e-8d35-4e0f-b1a8-f1a3ccaad0da/lifestyle8.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/health/medical/whoop-womens-health-update-blood-panel/",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Le Lexar TouchLock Portable SSD : un rêve pour les utilisateurs d'iPhone grâce à l'IA",
+        "title_en": "Lexar TouchLock Portable SSD review: An iPhone user's dream storage device",
+        "summary": "Un SSD portable avec déverrouillage NFC, idéal pour les utilisateurs d'iPhone. L'IA pourrait révolutionner la sécurité des données.",
+        "summary_en": "The Lexar TouchLock Portable SSD uses the magic of NFC to unlock itself, and fits snuggly on the back of most phones.",
+        "long_summary": "Le Lexar TouchLock combine NFC et stockage portable pour une expérience utilisateur fluide.\n\nPoints clés :\n• Déverrouillage sans contact via NFC\n• Conception adaptée aux smartphones\n• Potentiel d'intégration avec des modèles d'IA pour la gestion sécurisée des données\n\nL'innovation pourrait inspirer des solutions plus intelligentes pour le stockage et la sécurité des données.",
+        "long_summary_en": "The Lexar TouchLock Portable SSD uses the magic of NFC to unlock itself, and fits snuggly on the back of most phones.",
+        "image": "https://www.zdnet.com/a/img/resize/bd7789605eaaad12aca16c195fe48cc7fd70ef5e/2026/02/08/8c35181f-a0e0-4cb4-a43f-8855d9e1f03c/img-2194.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/lexar-touchlock-portable-ssd-review/",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Escape lève 18M$ pour remplacer les testeurs de sécurité par des agents IA",
+        "title_en": "Escape raises $18M to replace pen-testers with AI agents",
+        "summary": "Escape utilise l'IA pour détecter des milliers de vulnérabilités dans des apps low-code, levant 18M$ pour automatiser la cybersécurité.",
+        "summary_en": "The timing is not coincidental. In October 2025, Escape published research that scanned more than 5,600 publicly deployed applications built with vibe coding platforms, tools like Lovable, Base44, and",
+        "long_summary": "En octobre 2025, Escape a révélé des failles critiques dans 5 600 applications low-code. L'entreprise lève désormais 18M$ pour développer des agents IA capables de remplacer les testeurs humains.\n\nPoints clés :\n• 2 000 vulnérabilités hautement critiques identifiées\n• Automatisation de la détection de failles via des modèles de langage\n• Levée de fonds pour accélérer l'adoption de l'IA en cybersécurité\n\nConclusion sur les implications : Cette avancée pourrait révolutionner la sécurité logicielle en réduisant les coûts et les délais de détection des failles.",
+        "long_summary_en": "The timing is not coincidental. In October 2025, Escape published research that scanned more than 5,600 publicly deployed applications built with vibe coding platforms, tools like Lovable, Base44, and Bolt.new that let non-developers build and ship apps by describing what they want in plain English. The results were stark: over 2,000 high-impact vulnerabilities, hundreds of […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FEscape-raises-18M.png&signature=882c6eee86915d66eb8a164fe9d37b01",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/escape-18m-series-a-ai-security-vibe-coding",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Saltz révolutionne la chaîne d'approvisionnement des restaurants européens avec 20M€ et l'IA",
+        "title_en": "The Oberlo veterans taking on Europe&#8217;s restaurant supply chain raise €20M",
+        "summary": "Saltz, ex-Oberlo, lève 20M€ pour digitaliser l'approvisionnement des restaurants avec l'IA.",
+        "summary_en": "Lithuanian food marketplace Saltz pulls in a €20M Series A backed by the EBRD, Inovo, Lifeline, and a roster of Baltic tech founders, to digitalise how restaurants across Europe source their ingredien",
+        "long_summary": "Saltz, une marketplace alimentaire lituanienne, utilise l'IA pour optimiser l'approvisionnement des restaurants européens.\n\nPoints clés :\n• Lève 20M€ avec EBRD, Inovo et Lifeline\n• Exploite le machine learning pour prédire les besoins en ingrédients\n• Vise à réduire les coûts et gaspillages dans la restauration\n\nL'IA pourrait transformer la logistique alimentaire en Europe, réduisant les inefficacités.",
+        "long_summary_en": "Lithuanian food marketplace Saltz pulls in a €20M Series A backed by the EBRD, Inovo, Lifeline, and a roster of Baltic tech founders, to digitalise how restaurants across Europe source their ingredients. When Andrius and Tomas Šlimas sold their dropshipping platform Oberlo to Shopify in 2017, they could have sat out the next decade comfortably. […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FSaltz-pulls-in-a-E20M-Series-A.png&signature=e97c7a1134774d56a6dc58ed4478d0fe",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/saltz-series-a-restaurant-supply-europe",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "BMW intègre des robots humanoïdes dans ses usines allemandes",
+        "title_en": "BMW Group brings humanoid robots to Germany",
+        "summary": "BMW teste des robots humanoïdes dans son usine de Leipzig, après un succès aux États-Unis avec Figure AI.",
+        "summary_en": "The automaker has launched a pilot at its Leipzig plant using Hexagon Robotics’ AEON humanoid. The move follows a successful 11-month run in the US with Figure AI’s robots, and arrives just as the pro",
+        "long_summary": "Le constructeur automobile étend son programme de robots humanoïdes en Europe, après une phase réussie aux États-Unis.\n\nPoints clés :\n• BMW utilise désormais les robots AEON de Hexagon Robotics en Allemagne\n• Le projet suit un essai de 11 mois aux États-Unis avec Figure AI\n• Le directeur de production à l'origine du programme prendra bientôt la tête de l'entreprise\n\nCette initiative marque une avancée majeure dans l'automatisation industrielle, avec des implications potentielles pour la productivité et la collaboration homme-machine.",
+        "long_summary_en": "The automaker has launched a pilot at its Leipzig plant using Hexagon Robotics’ AEON humanoid. The move follows a successful 11-month run in the US with Figure AI’s robots, and arrives just as the production chief who championed the programme prepares to take the top job. A new colleague has arrived on the shop floor […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FBMW-brings-humanoid-robots-to-Germany.png&signature=85e43116678fd3730121c31c49e1fa62",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/bmw-group-brings-humanoid-robots-to-germany",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "L'IA menace-t-elle votre emploi ? Le cas de Katya",
+        "title_en": "You Could Be Next",
+        "summary": "Une journaliste freelance découvre que l'IA a automatisé son domaine. Un avertissement sur l'impact des LLMs sur les emplois.",
+        "summary_en": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then ",
+        "long_summary": "Katya, journaliste freelance, a vu son secteur se faire automatiser par l'IA. Son histoire illustre la menace croissante des modèles de langage sur les métiers créatifs.\n\nPoints clés :\n• Les LLMs remplacent des emplois dans le contenu et le marketing\n• Les travailleurs qualifiés ne sont pas à l'abri\n• L'IA générative accélère la disruption des métiers traditionnels\n\nCette situation soulève des questions sur la formation professionnelle et l'adaptation aux nouvelles technologies.",
+        "long_summary_en": "The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a living as a freelance journalist, gone to grad school, then pivoted to what she hoped would be a more stable career in content marketing — only to find AI had automated […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/cover-mobile-version-glitch.png?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor",
+        "date": "10 March 2026"
+      },
       {
         "title": "L'IA en direct : avancées et mouvements boursiers des géants technologiques",
         "title_en": "AI & Technology Stock News | StockTitan",
@@ -109,81 +181,21 @@
         "source": "Wired",
         "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
         "date": "10 March 2026"
-      },
-      {
-        "title": "AMI Labs lève 1,03 milliard de dollars pour construire des modèles du monde",
-        "title_en": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-        "summary": "AMI Labs, cofondée par Yann LeCun, lève 1,03 milliard de dollars pour rivaliser avec OpenAI et Google.",
-        "summary_en": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-        "long_summary": "AMI Labs, nouvelle startup d'IA cofondée par Yann LeCun après son départ de Meta, vise à développer des modèles d'IA avancés.\n\nPoints clés :\n• Levée record de 1,03 milliard de dollars à une valorisation de 3,5 milliards de dollars\n• Objectif : construire des modèles du monde pour surpasser les LLMs existants\n• Concurrence directe avec OpenAI, Google et Anthropic\n\nCette levée positionne AMI Labs comme un acteur majeur dans la course à l'IA générative, avec des ambitions comparables à celles des géants du secteur.",
-        "long_summary_en": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2261869274.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-        "date": "10 March 2026"
-      },
-      {
-        "title": "L'IA génère-t-elle un épuisement professionnel ? Une étude révèle un nouveau phénomène de \"brain fry\"",
-        "title_en": "Is AI productivity prompting burnout? Study finds new pattern of \"AI brain fry\" - CBS News",
-        "summary": "Une étude révèle que l'utilisation intensive d'outils IA peut causer fatigue mentale et erreurs chez les travailleurs.",
-        "summary_en": "&quot;The AI can run out far ahead of us, but we&#x27;re still here with the same brain we had yesterday,&quot; said Julie Bedard, managing director and partner at Boston Consulting Group and an autho",
-        "long_summary": "Une étude publiée dans le Harvard Business Review montre que l'utilisation de multiples outils IA peut entraîner une fatigue cognitive, surnommée \"brain fry\".\n\nPoints clés :\n• 14% des travailleurs ressentent une fatigue mentale liée à l'IA\n• La supervision intensive d'outils IA augmente l'épuisement\n• L'IA peut réduire le stress si elle automatise des tâches répétitives\n\nLes résultats suggèrent que l'IA doit être utilisée de manière stratégique pour éviter la surcharge cognitive.",
-        "long_summary_en": "The promise of artificial intelligence has been simple: let the machines do the work. Instead, it may be creating a new headache from babysitting the machines. A new study published in Harvard Business Review suggests that instead of making work easier, AI may be giving some workers what researchers are calling \"brain fry.\" Researchers surveyed about 1,500 workers and found that people constantly bouncing between multiple AI tools reported more decision fatigue and more errors. About one in seven workers said they had experienced mental fatigue from juggling AI tools at work. \"The AI can run o",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/07/2f6cc657-64fe-4131-80b3-14d399b28099/thumbnail/1200x630/69b7f86718be51ad0d0b9588f95bfc8e/cbsn-fusion-ai-overuse-brain-fry-study-thumbnail.jpg",
-        "source": "Cbsnews",
-        "url": "https://www.cbsnews.com/news/is-ai-productivity-prompting-burnout-study-finds-new-pattern-of-ai-brain-fry/",
-        "date": "09 March 2026"
-      },
-      {
-        "title": "Une avancée majeure en IA et quantique pourrait révolutionner la technologie",
-        "title_en": "Artificial Intelligence News -- ScienceDaily",
-        "summary": "Des percées en IA et en informatique quantique pourraient transformer la médecine, la robotique et les communications.",
-        "summary_en": "New Prediction Breakthrough Delivers Results Shockingly Close to Reality · Nov. 14, 2025  Researchers have created a prediction method that comes startlingly close to real-world results. It works by ",
-        "long_summary": "Les chercheurs explorent des technologies quantiques et des modèles d'IA avancés pour résoudre des défis complexes.\n\nPoints clés :\n• Des pièges à lumière miniatures pourraient permettre des ordinateurs quantiques à millions de qubits\n• Les IA détectent des signes de maladie cachés pendant le sommeil\n• Des robots ultra-miniatures capables de raisonnement autonome sont développés\n\nCes avancées pourraient accélérer la découverte de médicaments, améliorer la sécurité et transformer les interactions homme-machine.",
-        "long_summary_en": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature optical cavities that efficiently collect light from individual atoms, allowing ... Unbreakable? Researchers Warn Quantum Computers Have Serious Security Flaws Jan. 20, 2026 Â Quantum computers could revolutionize everything from drug discovery to business analyticsâbut their incredible power also makes them surprisingly vulnerable. New research from Penn State warns ... The Breakthrough That Makes",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "source": "Sciencedaily",
-        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "date": "09 March 2026"
-      },
-      {
-        "title": "OpenAI et Google rivalisent dans la course aux modèles d'IA générative",
-        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "summary": "OpenAI et Google dévoilent des avancées majeures dans les LLMs, relançant la compétition pour l'IA générative.",
-        "summary_en": "How Artificial Intelligence is ... SPAC deal · <strong>Lithium developer Controlled Thermal Resources (CTR) will go public in the U.S. through a $4.7 ​billion merger with blank-check firm Plum Acquisi",
-        "long_summary": "Les géants de la tech accélèrent le développement de modèles de langage plus puissants et accessibles.\n\nPoints clés :\n• OpenAI améliore ses modèles avec des capacités multilingues avancées\n• Google intègre l'IA générative dans ses services cloud et Android\n• Anthropic se positionne comme un acteur clé avec des modèles éthiques\n\nLes innovations pourraient transformer les secteurs de la santé, de l'éducation et de la finance.",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://emerj.com/wp-content/uploads/2018/04/automated-journalism-ai-applications-at-new-york-times-reuters-and-other-media-giants-4.png",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "09 March 2026"
-      },
-      {
-        "title": "Comment l'IA transforme le conflit iranien en spectacle",
-        "title_en": "How AI is turning the Iran conflict into theater",
-        "summary": "Des dashboards IA transforment le conflit iranien en spectacle en temps réel, alimentant une nouvelle forme de guerre médiatique.",
-        "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a ",
-        "long_summary": "Des outils d'IA comme les dashboards d'intelligence en temps réel transforment les conflits géopolitiques en spectacles accessibles au grand public.\n\nPoints clés :\n• Des plateformes IA analysent et visualisent les données du conflit iranien en temps réel\n• Ces outils démocratisent l'accès à l'information stratégique, mais risquent de biaiser la perception des événements\n• L'IA générative pourrait amplifier la désinformation dans les zones de conflit\n\nL'utilisation croissante de l'IA dans les conflits soulève des questions sur l'éthique et la fiabilité des informations diffusées.",
-        "long_summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was referring to an online intelligence dashboard following…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/photo-BASEd3.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-        "date": "09 March 2026"
-      },
-      {
-        "title": "iPad Air M4 : l'option idéale pour l'instant, mais l'IA pourrait tout changer",
-        "title_en": "iPad Air M4 Review: The Best Option for the Moment",
-        "summary": "L'iPad Air M4 offre un équilibre parfait entre performance et prix, mais l'IA pourrait révolutionner les tablettes.",
-        "summary_en": "This is the best balance of future-proofing and price for now, but this may not be the final iPad release this year.",
-        "long_summary": "Apple a lancé l'iPad Air M4, un modèle qui combine puissance et accessibilité, mais l'intégration de l'IA pourrait redéfinir les attentes des utilisateurs.\n\nPoints clés :\n• L'iPad Air M4 est optimisé pour les tâches multitâches et la productivité.\n• Les modèles de langage comme ceux d'OpenAI ou Google pourraient transformer l'expérience utilisateur.\n• Apple pourrait intégrer des fonctionnalités IA avancées dans ses futurs iPads.\n\nL'arrivée de l'IA générative pourrait rendre les tablettes encore plus indispensables, mais l'iPad Air M4 reste un choix solide pour l'instant.",
-        "long_summary_en": "This is the best balance of future-proofing and price for now, but this may not be the final iPad release this year.",
-        "image": "https://www.cnet.com/a/img/resize/dead9134718d0dac69f2efb3c65132947b6e1afe/hub/2026/03/06/639bc7b5-2115-4f3f-8fc3-8e98b119e590/ipad-air-m4-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/computing/ipad-air-m4-review/",
-        "date": "09 March 2026"
       }
     ],
     "image": [
+      {
+        "title": "WordPress intègre ChatGPT, Gemini et Claude pour révolutionner les sites web",
+        "title_en": "WordPress Integrates ChatGPT, Gemini, and Claude for Websites",
+        "summary": "WordPress officialise l’intégration de ChatGPT, Gemini et Claude via des plugins dédiés, boostant l’IA générative et l’automatisation.",
+        "summary_en": "Anthropic Integration: Leverages Claude’s capabilities for profound reasoning, interactive dialogue, and structured function calls, all while emphasising coherent and thoughtful content responses. Goo",
+        "long_summary": "Le leader des CMS franchit un cap en intégrant nativement trois modèles d’IA majeurs. Cette avancée ouvre des possibilités inédites pour les créateurs de contenu.\n\nPoints clés :\n• Plugins officiels pour ChatGPT, Gemini et Claude disponibles dans le dépôt WordPress\n• Fonctionnalités étendues : génération de texte, images et raisonnement avancé\n• Automatisation renforcée pour les sites web\n\nCette intégration marque un tournant pour l’IA générative dans l’écosystème WordPress, simplifiant l’accès à des outils puissants.",
+        "long_summary_en": "Table of Contents The world’s leading content management system is undergoing a significant evolution. WordPress now officially facilitates seamless integration with prominent artificial intelligence models , empowered by three distinct plugins, each unlocking a unique realm of AI capabilities. This new functionality signifies an important development for publishers, developers, and site administrators eager to elevate their platforms through enhanced content generation and sophisticated automation. Unpacking WordPress’s Approach to Unified AI Access Historically, connecting a website with sta",
+        "image": "https://cdn.rswebsols.com/wp-content/uploads/2025/09/nexm5pbegyg.jpg",
+        "source": "Rswebsols",
+        "url": "https://www.rswebsols.com/news/wordpress-integrates-chatgpt-gemini-and-claude-a-game-changer-for-websites/",
+        "date": "10 March 2026"
+      },
       {
         "title": "L'IA au quotidien : actualités et analyses en podcast",
         "title_en": "The AI Daily Brief: Artificial Intelligence News and Analysis - Podcast - Apple Podcasts",
@@ -351,21 +363,33 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/02/26/google-ai-just-released-nano-banana-2-the-new-ai-model-featuring-advanced-subject-consistency-and-sub-second-4k-image-synthesis-performance/",
         "date": "27 February 2026"
-      },
-      {
-        "title": "Nano Banana 2 : Google révolutionne l'édition d'images avec son IA",
-        "title_en": "Hands-On With Nano Banana 2, the Latest Version of Google’s AI Image Generator",
-        "summary": "Google lance Nano Banana 2, un outil d'édition d'images par IA qui repousse les limites de la réalité, parfois avec des résultats surprenants.",
-        "summary_en": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
-        "long_summary": "Google dévoile Nano Banana 2, un modèle d'IA générative capable de modifier des images avec une précision inédite.\n\nPoints clés :\n• Nano Banana 2 utilise des techniques avancées de machine learning pour altérer des photos de manière réaliste\n• L'outil peut parfois produire des résultats inattendus, brouillant la frontière entre réalité et fiction\n• Cette innovation s'inscrit dans la course aux modèles d'IA générative face à des acteurs comme OpenAI et Anthropic\n\nConclusion sur les implications : Nano Banana 2 illustre les progrès fulgurants de l'IA générative, tout en soulevant des questions sur l'éthique et la fiabilité des outils d'édition d'images.",
-        "long_summary_en": "Google’s latest image model, Nano Banana 2, is a powerful AI photo editor that punctures reality. Well, sometimes.",
-        "image": "https://media.wired.com/photos/69a070265fd6da9c76c63408/191:100/w_1280,c_limit/Aspect%20Ratio.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/google-nano-banana-2-ai-image-generator-hands-on/",
-        "date": "27 February 2026"
       }
     ],
     "video": [
+      {
+        "title": "Meilleurs générateurs de vidéos IA en 2026 : 7 outils révolutionnaires",
+        "title_en": "Best AI Video Generators 2026: 7 Ultimate Tools to Supercharge Your Co",
+        "summary": "En 2026, l'IA révolutionne la création vidéo, réduisant coûts et temps de production. Découvrez les 7 meilleurs outils pour des vidéos pro en quelques minutes.",
+        "summary_en": "The main advantage of <strong>EaseMate AI</strong> is probably its single workflow. Instead of opening different tools, users can script, illustrate, animate images, and video production all in one pl",
+        "long_summary": "L'IA générative a rendu la production vidéo accessible à tous, remplaçant les équipes coûteuses par des outils automatisés. Les modèles de langage et l'apprentissage automatique permettent désormais de créer des vidéos 4K en quelques clics.\n\nPoints clés :\n• Réduction drastique des coûts et du temps de production\n• Intégration des modèles avancés comme Sora 2 et Veo 3.1\n• Personnalisation poussée avec avatars et templates viraux\n\nConclusion sur les implications : L'IA démocratise la création vidéo, ouvrant de nouvelles opportunités pour les créateurs et les entreprises.",
+        "long_summary_en": "I. Introduction In 2026, AI-powered video making has changed drastically and is no longer just a fun experiment but a must-have for commercial use. What used to be done by big production teams with costly equipment can now be accomplished by one individual using AI tools that are highly capable. Modern AI video creators slash production time and expense significantly. This change has made it possible for someone to transform a mere script into a fully edited 4K video with a professional look in just a few minutes. After testing more than 20 AI platforms, we compared them against criteria such ",
+        "image": "https://cdn.shopify.com/s/files/1/0090/2125/9831/articles/best_ai_video_generators_2026_40ed3a03-f9c8-479c-8cd0-e393f2744b7d.png?v=1773049043",
+        "source": "Softwarekeep",
+        "url": "https://softwarekeep.com/blogs/news/best-ai-video-generators-2026-7-ultimate-tools-to-supercharge-your-content",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Mantle8 obtient 2,06 millions d'euros pour industrialiser l'hydrogène naturel grâce à l'IA",
+        "title_en": "Mantle8 secures €2.06M EU grant to scale natural hydrogen tech",
+        "summary": "Une subvention européenne accélère le développement d'une plateforme technologique utilisant l'IA pour l'hydrogène naturel.",
+        "summary_en": "A €2.06 million EU grant gives the Grenoble deep-tech startup non-dilutive runway to industrialise a four-component technology platform, and moves it one step closer to its first commercial drilling c",
+        "long_summary": "Mantle8, startup grenobloise, utilise l'IA pour optimiser l'extraction d'hydrogène naturel. Points clés :\n• Subvention non-dilutive de 2,06 millions d'euros pour industrialiser la technologie.\n• Prochaine campagne de forage commerciale prévue.\n• Soutien de Breakthrough Energy Ventures et Kiko Ventures.\n\nCette avancée pourrait révolutionner la production d'hydrogène vert, réduisant la dépendance aux énergies fossiles.",
+        "long_summary_en": "A €2.06 million EU grant gives the Grenoble deep-tech startup non-dilutive runway to industrialise a four-component technology platform, and moves it one step closer to its first commercial drilling campaign. Fourteen months after closing a €3.4 million seed round backed by Bill Gates’ Breakthrough Energy Ventures and Kiko Ventures, Mantle8 has secured a second source […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FMantle8-secures-E2.06M-EU-grant.png&signature=b7240ec3bfa55c8cf47b5d448912c280",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/mantle8-secures-e2-06m-eu-grant-to-scale-natural-hydrogen-tech",
+        "date": "10 March 2026"
+      },
       {
         "title": "L'IA ouvre des perspectives aux jeunes cinéastes en quête d'un Oscar",
         "title_en": "AI offers hope for young filmmakers dreaming of an Oscar - Digital Journal",
@@ -521,33 +545,105 @@
         "source": "Windowsnews",
         "url": "https://windowsnews.ai/article/microsoft-integrates-sora-2-ai-video-into-bing-365-what-it-means-for-windows-users.404172",
         "date": "07 March 2026"
-      },
-      {
-        "title": "L'IA en 2024 : OpenAI, Google et les modèles révolutionnaires",
-        "title_en": "The Latest AI News and Analysis | PCMag",
-        "summary": "OpenAI et Google rivalisent avec des IA génératives toujours plus puissantes. Quelles innovations et enjeux pour 2024 ?",
-        "summary_en": "<strong>Labels and distributors would have to apply &#x27;Transparency Tags&#x27; to metadata for any AI-generated artwork, tracks, compositions, or music videos available on Apple Music</strong>. ...",
-        "long_summary": "L'IA générative domine l'actualité technologique, avec des modèles comme GPT-4 et Gemini d'OpenAI et Google.\n\nPoints clés :\n• OpenAI et Google accélèrent le développement des LLMs (Large Language Models)\n• Les modèles multilingues et multimodaux deviennent la norme\n• Les enjeux éthiques et réglementaires s'intensifient\n\nLes avancées en IA pourraient transformer plusieurs secteurs, mais soulèvent aussi des questions sur la transparence et la gouvernance.",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://sm.pcmag.com/t/pcmag_au/news/c/chatgpt-de/chatgpt-deep-research-now-lets-you-pick-sources-adds-built-i_9hde.300.jpg",
-        "source": "Pcmag",
-        "url": "https://www.pcmag.com/news/categories/ai",
-        "date": "07 March 2026"
-      },
-      {
-        "title": "Veo 3.1 vs Kling 3.0 vs Sora 2 : Comparatif des prix des API vidéo IA en 2026",
-        "title_en": "Veo 3.1 vs Kling 3.0 vs Sora 2: AI Video API Pricing 2026 | AI Blog API for Developers",
-        "summary": "Comparaison des tarifs des API vidéo IA en 2026 : Veo 3.1, Kling 3.0 et Sora 2 s'affrontent pour dominer le marché.",
-        "summary_en": "Compare per-second costs for Veo 3.1, Kling 3.0, Sora 2, Runway Gen-4.5, and Seedance 2.0. Full developer guide to choosing the right AI video API in 2026.",
-        "long_summary": "Les API vidéo générative évoluent rapidement, avec des acteurs majeurs comme OpenAI, Google et Anthropic en lice.\n\nPoints clés :\n• Veo 3.1 propose des tarifs compétitifs pour les créateurs indépendants\n• Kling 3.0 se distingue par sa personnalisation avancée\n• Sora 2 mise sur l'intégration avec les LLMs pour des vidéos ultra-réalistes\n\nConclusion sur les implications : Ces API pourraient redéfinir la production de contenu vidéo, mais leur adoption dépendra de leur accessibilité financière.",
-        "long_summary_en": "Veo 3.1 vs Kling 3.0 vs Sora 2: AI Video API Pricing 2026 | AI Blog API for Developers",
-        "image": "https://imagedelivery.net/PP4qZJxMlvGLHJQBm3ErNg/58efe4a6-3522-4240-b80c-7c3140109300/1200",
-        "source": "Modelslab",
-        "url": "https://modelslab.com/blog/api/veo-3-1-vs-kling-3-sora-2-ai-video-api-cost-2026",
-        "date": "06 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Anthropic attaque le Pentagone pour une étiquette de 'risque de chaîne d'approvisionnement'",
+        "title_en": "Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label - The New York Times",
+        "summary": "Anthropic poursuit le Pentagone pour avoir été classé comme un risque de sécurité nationale. Un bras de fer juridique inédit dans l'IA.",
+        "summary_en": "<strong>The artificial intelligence company filed two lawsuits against the Department of Defense, saying it was being punished on ideological grounds</strong>.",
+        "long_summary": "Anthropic, un concurrent d'OpenAI, conteste une décision du Pentagone qui le classe comme un risque pour la sécurité nationale.\n\nPoints clés :\n• Le DoD a étiqueté Anthropic comme un risque potentiel de chaîne d'approvisionnement.\n• L'entreprise accuse le gouvernement de nuire à son développement et à sa compétitivité.\n• Ce procès pourrait influencer la régulation des modèles d'IA avancés aux États-Unis.\n\nCe litige met en lumière les tensions croissantes entre l'industrie de l'IA et les agences gouvernementales sur les questions de sécurité et de contrôle.",
+        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
+        "image": "https://www.techbuzz.ai/_next/image?url=https://charming-card-d91ad3487b.media.strapiapp.com/large_file_b5b65584f7.png&w=3840&q=75",
+        "source": "Nytimes",
+        "url": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "La mise à jour « bayésienne » de Google AI : la clé pour améliorer le raisonnement des LLMs",
+        "title_en": "The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
+        "summary": "Google AI propose une méthode bayésienne pour améliorer le raisonnement probabiliste des LLMs, souvent limités par leur rigidité logique.",
+        "summary_en": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers fro",
+        "long_summary": "Les modèles de langage (LLMs) excellent dans l’imitation mais peinent à raisonner de manière probabiliste. Google propose une méthode bayésienne pour les former.\n\nPoints clés :\n• Les LLMs actuels manquent de flexibilité dans la mise à jour de leurs croyances face à de nouvelles preuves\n• La méthode bayésienne permet un apprentissage plus logique et adaptatif\n• Cette avancée pourrait révolutionner l’IA générative en renforçant sa cohérence et sa fiabilité\n\nCette innovation pourrait marquer un tournant dans la capacité des IA à traiter des informations complexes de manière plus humaine.",
+        "long_summary_en": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers from Google argue that the current crop of AI agents falls far short of ‘probabilistic reasoning’—the ability to maintain and update a […]\nThe post The ‘Bayesian’ Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning appeared first on MarkTechPost.",
+        "image": "https://cryptopond.com/wp-content/uploads/2026/03/The-Bayesian-Upgrade-Why-Google-AIs-New-Teaching-Method-is-300x214.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/09/the-bayesian-upgrade-why-google-ais-new-teaching-method-is-the-key-to-llm-reasoning/",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Le Pentagone peut-il surveiller les Américains avec l'IA ?",
+        "title_en": "Is the Pentagon allowed to surveil Americans with AI?",
+        "summary": "Un conflit public entre le Pentagone et Anthropic relance le débat sur la surveillance de masse aux États-Unis.",
+        "summary_en": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass su",
+        "long_summary": "La dispute entre le Pentagone et l'entreprise d'IA Anthropic soulève une question cruciale : la loi autorise-t-elle la surveillance de masse des citoyens américains ?\n\nPoints clés :\n• La réponse légale reste floue malgré les révélations d'Edward Snowden\n• Les modèles d'IA comme ceux d'Anthropic ou OpenAI pourraient être utilisés à cette fin\n• Les implications pour les libertés individuelles et la vie privée sont majeures\n\nLa question de l'équilibre entre sécurité nationale et droits fondamentaux reste entière.",
+        "long_summary_en": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/crawl-data2.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "L'ombre des lois floues sur la surveillance par IA et la répression du gouvernement américain",
+        "title_en": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+        "summary": "Le Pentagone peut-il surveiller les Américains avec l'IA ? La querelle entre le DoD et Anthropic soulève des questions sans réponse.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongo",
+        "long_summary": "Le conflit entre le Pentagone et l'entreprise d'IA Anthropic relance le débat sur l'utilisation de l'IA pour la surveillance.\n\nPoints clés :\n• Le DoD et Anthropic s'affrontent sur les limites légales de la surveillance par IA\n• Les lois actuelles sont floues et manquent de clarté\n• Cette querelle pourrait influencer la régulation future de l'IA\n\nCette affaire met en lumière les tensions croissantes entre les agences gouvernementales et les laboratoires d'IA, avec des implications majeures pour les libertés civiles.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/crawl-data2.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Yann LeCun lève 1 milliard de dollars pour prouver que l'IA a pris le mauvais chemin",
+        "title_en": "Yann LeCun just raised $1bn to prove the AI industry has got it wrong",
+        "summary": "Le lauréat du prix Turing quitte Meta pour financer une alternative aux LLMs, avec le plus gros tour de table européen.",
+        "summary_en": "The Turing Award winner left Meta four months ago convinced that large language models are a dead end. Today he announced $1.03 billion in seed funding, Europe’s largest ever, to build something diffe",
+        "long_summary": "Yann LeCun, ancien directeur scientifique de Meta, a quitté l'entreprise en novembre 2025, convaincu que les grands modèles de langage (LLMs) sont une impasse. Il vient d'annoncer une levée de fonds record de 1,03 milliard de dollars pour développer une approche différente.\n\nPoints clés :\n• LeCun critique les LLMs, jugés inefficaces et peu évolutifs\n• Il mise sur une nouvelle architecture d'IA inspirée de la cognition humaine\n• Ce financement est le plus important jamais réalisé en Europe pour une startup IA\n\nCette initiative pourrait redéfinir la course à l'IA, en opposition aux géants comme OpenAI ou Google.",
+        "long_summary_en": "The Turing Award winner left Meta four months ago convinced that large language models are a dead end. Today he announced $1.03 billion in seed funding, Europe’s largest ever, to build something different. In November 2025, Yann LeCun walked into Mark Zuckerberg’s office and told his boss he was leaving. He had spent twelve years […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FYann-LeCun-just-raised-1bn.png&signature=e6f0eb8d4ce6eef047f85f0d06fc0cce",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/yann-lecun-ami-labs-world-models-billion",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Anthropic attaque le Pentagone après une interdiction fédérale de ses technologies",
+        "title_en": "Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation",
+        "summary": "Anthropic accuse l'administration Trump d'avoir transformé un litige contractuel en interdiction fédérale de ses outils d'IA.",
+        "summary_en": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
+        "long_summary": "Le développeur du chatbot Claude conteste une décision jugée abusive par le gouvernement américain.\n\nPoints clés :\n• Anthropic accuse l'administration Trump d'avoir outrepassé ses droits\n• La société dénonce une interdiction fédérale de ses technologies d'IA\n• Ce litige pourrait avoir des répercussions sur l'industrie de l'IA générative\n\nCette affaire pourrait influencer les relations entre les startups technologiques et le gouvernement fédéral.",
+        "long_summary_en": "The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s technology.",
+        "image": "https://external-preview.redd.it/anthropic-sues-department-of-defense-over-supply-chain-risk-v0-8AHIYhXV-0QzwFFru5rjK6hwzBU4k2oGg6a8IUc2_wc.jpeg?width=640&crop=smart&auto=webp&s=7bc8b85c654c66cc6f24f2919c543a58afe65a65",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Anthropic attaque le Pentagone en justice pour son étiquetage comme risque pour la chaîne d'approvisionnement",
+        "title_en": "Anthropic is suing the Department of Defense",
+        "summary": "Anthropic poursuit le gouvernement américain après avoir été classé comme risque pour la chaîne d'approvisionnement, dans un conflit avec le Pentagone sur l'usage militaire de l'IA.",
+        "summary_en": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI te",
+        "long_summary": "Anthropic, un concurrent d'OpenAI, conteste une décision de l'administration Trump qui limite ses collaborations avec le Pentagone.\n\nPoints clés :\n• Anthropic accuse le gouvernement d'avoir agi illégalement en le punissant pour ses restrictions éthiques.\n• Le conflit porte sur l'utilisation de l'IA générative dans des applications militaires.\n• Cette affaire pourrait influencer la régulation des modèles de langage avancés.\n\nCette bataille juridique pourrait redéfinir les limites entre innovation technologique et contrôle gouvernemental dans le domaine de l'IA.",
+        "long_summary_en": "Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases for its military AI tech. The suit, filed in a California district court, accuses the Trump administration of illegally punishing the company for setting \"red […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+        "date": "10 March 2026"
+      },
+      {
+        "title": "Anthropic attaque le Pentagone après avoir été classé comme risque pour la chaîne d'approvisionnement",
+        "title_en": "Anthropic sues Defense Department over supply-chain risk designation",
+        "summary": "Anthropic poursuit le Pentagone après avoir été étiqueté comme un risque pour la chaîne d'approvisionnement, qualifiant l'action d'illégale.",
+        "summary_en": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+        "long_summary": "Anthropic, un concurrent d'OpenAI et Google dans le domaine des modèles de langage, conteste une décision du Pentagone.\n\nPoints clés :\n• Le DOD a classé Anthropic comme un risque pour la chaîne d'approvisionnement, une décision rare.\n• La plainte accuse le gouvernement d'abus de pouvoir et de violation de la loi.\n• Cette affaire pourrait avoir des répercussions sur la régulation des IA génératives.\n\nCette bataille juridique pourrait influencer la manière dont les agences gouvernementales traitent les entreprises d'IA.",
+        "long_summary_en": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+        "date": "10 March 2026"
+      },
       {
         "title": "Gemini 3.1 Pro : Google DeepMind révolutionne les modèles de langage en 2026",
         "title_en": "LLM News Today (March 2026) – Open Source LLM Updates & AI Model Releases",
@@ -631,102 +727,6 @@
         "source": "Ars Technica",
         "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
         "date": "10 March 2026"
-      },
-      {
-        "title": "OpenAI et Google soutiennent Anthropic contre le gouvernement américain",
-        "title_en": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government",
-        "summary": "Des chercheurs d'OpenAI et Google défendent Anthropic dans un procès contre le gouvernement américain.",
-        "summary_en": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
-        "long_summary": "Des employés d'OpenAI et Google DeepMind, dont Jeff Dean, ont déposé un mémoire d'amicus pour soutenir Anthropic.\n\nPoints clés :\n• Des géants de l'IA s'unissent pour défendre une start-up face à des restrictions gouvernementales\n• Le dossier porte sur des enjeux clés comme la régulation des modèles de langage et la liberté d'innovation\n• Cette alliance inédite pourrait influencer les futures politiques américaines en IA\n\nCette mobilisation montre la solidarité du secteur face aux régulations perçues comme trop strictes.",
-        "long_summary_en": "Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.",
-        "image": "https://media.wired.com/photos/69af06ccc120eecf3f401e44/191:100/w_1280,c_limit/OpenAI-Google-Employees-Support-Anthropic-Business-2185274983.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/",
-        "date": "10 March 2026"
-      },
-      {
-        "title": "Anthropic accuse le Pentagone de lui coûter des milliards",
-        "title_en": "Anthropic Claims Pentagon Feud Could Cost It Billions",
-        "summary": "Anthropic accuse le Pentagone de lui faire perdre des milliards après avoir été étiqueté comme un risque pour la chaîne d'approvisionnement.",
-        "summary_en": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
-        "long_summary": "Le Pentagone a classé Anthropic comme un risque pour la chaîne d'approvisionnement, ce qui a poussé des entreprises à suspendre les négociations.\n\nPoints clés :\n• Anthropic accuse le Pentagone de nuire à ses revenus\n• Des entreprises ont gelé les discussions après l'étiquetage\n• L'entreprise craint un impact financier majeur\n\nLes tensions entre le gouvernement et les startups d'IA pourraient ralentir l'innovation et les partenariats technologiques.",
-        "long_summary_en": "Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that the fallout could cause a major revenue hit.",
-        "image": "https://media.wired.com/photos/69af1b724c895b3ad54af4cd/191:100/w_1280,c_limit/Anthropic-Claims-Business-Is-in-Peril-Business-2235057484.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/",
-        "date": "10 March 2026"
-      },
-      {
-        "title": "Des employés d'OpenAI et Google soutiennent le procès d'Anthropic contre le Pentagone",
-        "title_en": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
-        "summary": "Des employés de Google et OpenAI, dont Jeff Dean, soutiennent Anthropic dans son procès contre le Pentagone, critiquant une décision de l'ère Trump.",
-        "summary_en": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Go",
-        "long_summary": "Anthropic a intenté un procès contre le Pentagone pour avoir été désigné comme un risque pour la chaîne d'approvisionnement.\n\nPoints clés :\n• Près de 40 employés d'OpenAI et Google ont soutenu la plainte.\n• Jeff Dean, scientifique en chef de Google, est parmi les signataires.\n• La plainte remet en cause une décision de l'administration Trump.\n\nConclusion sur les implications :\nCette affaire pourrait influencer la régulation des IA génératives et les relations entre le gouvernement et les entreprises technologiques.",
-        "long_summary_en": "On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - including Jeff Dean, Google's chief scientist and Gemini lead - filed an amicus brief in support of Anthropic's lawsuit, detailing their concerns over the Trump administration's […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
-        "date": "10 March 2026"
-      },
-      {
-        "title": "OpenAI rachète Promptfoo pour sécuriser ses agents IA",
-        "title_en": "OpenAI acquires Promptfoo to secure its AI agents",
-        "summary": "OpenAI renforce sa position dans l'IA avec l'acquisition de Promptfoo, spécialiste de la sécurité des agents IA.",
-        "summary_en": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-        "long_summary": "Cette acquisition souligne l'importance croissante de la sécurité dans les applications critiques de l'IA.\n\nPoints clés :\n• OpenAI intègre des outils de test automatisé pour ses modèles de langage\n• Renforcement de la fiabilité des agents IA dans les opérations sensibles\n• Concurrence accrue avec Google et Anthropic dans la course à l'IA sécurisée\n\nCette acquisition marque un tournant dans la course à l'IA fiable et sécurisée, avec des implications majeures pour les entreprises dépendantes de ces technologies.",
-        "long_summary_en": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-        "date": "10 March 2026"
-      },
-      {
-        "title": "Anthropic lance un outil de révision de code pour gérer l'explosion de code généré par l'IA",
-        "title_en": "Anthropic launches code review tool to check flood of AI-generated code",
-        "summary": "Anthropic introduit Claude Code, un système multi-agent pour analyser et corriger le code généré par l'IA, aidant les développeurs à gérer le volume croissant.",
-        "summary_en": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code",
-        "long_summary": "Anthropic renforce son offre avec Claude Code, un outil dédié à l'analyse automatisée du code généré par l'IA.\n\nPoints clés :\n• Système multi-agent pour détecter les erreurs logiques\n• Intégration dans les workflows des entreprises\n• Réponse à la prolifération du code généré par l'IA\n\nCette innovation pourrait standardiser la qualité du code produit par les modèles de langage, réduisant les risques de bugs critiques.",
-        "long_summary_en": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Claude-Code-Code-Review.png?resize=1200,677",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-        "date": "10 March 2026"
-      },
-      {
-        "title": "Des employés d'OpenAI et Google soutiennent Anthropic dans son procès contre le Pentagone",
-        "title_en": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-        "summary": "Plus de 30 employés d'OpenAI et Google DeepMind soutiennent Anthropic dans son procès contre le Pentagone, qualifiant la décision de risque pour la chaîne d'approvisionnement.",
-        "summary_en": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, accord",
-        "long_summary": "Anthropic conteste une décision du Pentagone qui la qualifie de risque pour la chaîne d'approvisionnement, limitant ses contrats fédéraux.\n\nPoints clés :\n• Plus de 30 employés d'OpenAI et Google DeepMind ont signé une déclaration de soutien\n• Le Pentagone accuse Anthropic de menacer la sécurité nationale\n• Le procès pourrait influencer la régulation des IA génératives\n\nCette affaire souligne les tensions croissantes entre les géants de l'IA et les agences gouvernementales sur la sécurité et l'innovation.",
-        "long_summary_en": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-        "date": "10 March 2026"
-      },
-      {
-        "title": "Mises à jour IA en mars 2026 : les nouveaux modèles qui révolutionnent l'IA",
-        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
-        "summary": "Mars 2026 marque l'arrivée de modèles IA avancés comme Gemini 3.1 Pro et Qwen3-Next-80B, repoussant les limites de la performance.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Les géants de l'IA dévoilent leurs dernières innovations en mars 2026, avec des modèles optimisés pour la raisonnement et la génération de texte.\n\nPoints clés :\n• Gemini 3.1 Pro atteint un score GPQA de 0.9, un record pour les modèles de langage\n• Qwen3-Next-80B et Claude Sonnet 4 dominent les benchmarks avec des scores supérieurs à 0.7\n• Les modèles légers comme Nova Lite et DeepSeek R1 Zero offrent des performances élevées avec des ressources réduites\n\nCes avancées accélèrent l'adoption de l'IA générative dans des applications industrielles et grand public.",
-        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases Gemini 2.0 Flash-Lite · GPQA 0.5 Gemma 3n E4B Instructed · GPQA 0.2 Nemotron Nano 9B v2 · GPQA 0.6 DeepSeek R1 Zero · GPQA 0.7 Qwen3-Next-80B-A3B-Thinking · GPQA 0.8 Grok-1.5 · GPQA 0.4 Qwen3-Next-80B-A3B-Instruct · GPQA 0.7 Claude Sonnet 4 · GPQA 0.8 Qwen3-235B-A22B-Instruct-2507 · GPQA 0.8 Gemini 2.0 Flash Thinking · GPQA 0.7 Min istral 3 (3B Reasoning 2512) · GPQA 0.5 GPT-4 · GPQA 0.4 Claude Opus 4.1 · GPQA 0.8 Gemini 1.5 Flash 8B · GPQA 0.4 Nova Lite · GPQA 0.4 Gemini 3.1 Pro · GPQA 0.9 Gemini 1.5 Flash · GPQA 0.5 DeepSeek R1 Distill",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "09 March 2026"
-      },
-      {
-        "title": "L'IA physique s'allie à la puissance de NVIDIA pour révolutionner l'industrie",
-        "title_en": "AI, Artificial intelligence News & Updates | Fox Business",
-        "summary": "Marc Segura, PDG d'ABB Robotics, révèle comment l'IA physique et le partenariat avec NVIDIA transforment la robotique.",
-        "summary_en": "<strong>OpenAI strikes Pentagon AI deal hours after President Trump orders federal agencies to phase out rival Anthropic over military AI safety concerns and policies</strong>. ... BCA research chief ",
-        "long_summary": "L'IA physique, combinée à l'expertise de NVIDIA en calcul accéléré, ouvre de nouvelles perspectives pour la robotique industrielle.\n\nPoints clés :\n• ABB Robotics et NVIDIA collaborent pour intégrer l'IA dans les robots industriels\n• L'IA physique permet une meilleure adaptabilité et autonomie des machines\n• Cette alliance pourrait accélérer l'adoption de l'IA dans les usines intelligentes\n\nCette collaboration marque un tournant pour l'industrie 4.0, où l'IA et la robotique redéfinissent les standards de productivité.",
-        "long_summary_en": "video ABB Robotics President Marc Segura explains physical AI and discusses the company's partnership with NVIDIA on 'Varney & Co.'",
-        "image": "//static.foxnews.com/static/orion/styles/img/fox-business/og/og-fox-business.png",
-        "source": "Foxbusiness",
-        "url": "https://www.foxbusiness.com/category/artificial-intelligence",
-        "date": "09 March 2026"
       }
     ],
     "audio": [
@@ -928,11 +928,11 @@
       "date": "07 March 2026"
     },
     {
-      "title": "Gemini 3.1 Pro : Google DeepMind révolutionne les modèles de langage en 2026",
-      "title_en": "LLM News Today (March 2026) – Open Source LLM Updates & AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/ai-news",
-      "date": "10 March 2026"
+      "title": "Comparaison des coûts de l'IA générative en 2026 : Google Gemini vs. OpenAI GPT",
+      "title_en": "AI Image Pricing 2026: Google Gemini vs. OpenAI GPT Cost Analysis | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/ai-image-generation-pricing-google-openai",
+      "date": "07 March 2026"
     }
   ]
 }
