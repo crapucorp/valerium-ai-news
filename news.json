@@ -1,7 +1,103 @@
 {
-  "lastUpdate": "12 March 2026 - 08:01",
+  "lastUpdate": "12 March 2026 - 12:32",
   "categories": {
     "general": [
+      {
+        "title": "Comment créer un méta-agent auto-conception qui génère des IA spécialisées",
+        "title_en": "How to Build a Self-Designing Meta-Agent That Automatically Constructs, Instantiates, and Refines Task-Specific AI Agents",
+        "summary": "Un méta-agent capable de concevoir automatiquement des IA sur mesure à partir d'une simple description de tâche.",
+        "summary_en": "In this tutorial, we build a Meta-Agent that designs other agents automatically from a simple task description. We implement a system that analyzes the task, selects tools, chooses a memory architectu",
+        "long_summary": "Les chercheurs ont développé un méta-agent capable de créer, déployer et affiner des agents IA spécialisés sans intervention humaine.\n\nPoints clés :\n• Analyse automatique des tâches et sélection des outils adaptés\n• Architecture mémoire et planification configurables dynamiquement\n• Génération d'agents opérationnels sans templates fixes\n\nCette avancée pourrait révolutionner l'automatisation des processus complexes en IA.",
+        "long_summary_en": "In this tutorial, we build a Meta-Agent that designs other agents automatically from a simple task description. We implement a system that analyzes the task, selects tools, chooses a memory architecture, configures a planner, and then instantiates a fully working agent runtime. We go beyond static agent templates and instead build a dynamic, self-configuring architecture […]\nThe post How to Build a Self-Designing Meta-Agent That Automatically Constructs, Instantiates, and Refines Task-Specific AI Agents appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-36-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/10/how-to-build-a-self-designing-meta-agent-that-automatically-constructs-instantiates-and-refines-task-specific-ai-agents/",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Pokémon Go et les robots livreurs : une alliance inattendue pour l'IA",
+        "title_en": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
+        "summary": "Pokémon Go aide à former des robots livreurs grâce à ses données AR. La course IA entre les USA et la Chine s'intensifie.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view ",
+        "long_summary": "Niantic, créateur de Pokémon Go, partage ses données AR pour améliorer la vision des robots livreurs. Parallèlement, les USA et la Chine rivalisent dans l'IA pour détecter des signaux extraterrestres.\n\nPoints clés :\n• Pokémon Go fournit des données AR précises pour l'entraînement des robots\n• Les modèles d'IA exploitent ces données pour une meilleure navigation en milieu urbain\n• La course aux technologies IA s'étend à la recherche d'intelligence extraterrestre\n\nCette collaboration montre comment les jeux mobiles peuvent accélérer l'innovation en robotique et IA.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world  Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/coco-night-4.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Les escrocs profitent de la folie OpenClaw en Chine",
+        "title_en": "Hustlers are cashing in on China’s OpenClaw AI craze",
+        "summary": "Des escrocs exploitent la popularité d'OpenClaw, un outil IA open-source capable d'automatiser des tâches complexes.",
+        "summary_en": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started ",
+        "long_summary": "Feng Qingyang, un ingénieur logiciel de 27 ans, a profité de l'essor d'OpenClaw pour lancer son entreprise. Cet outil open-source, capable d'automatiser des tâches, attire aussi des escrocs.\n\nPoints clés :\n• OpenClaw permet une automatisation avancée des tâches via l'IA\n• Des entrepreneurs comme Feng en profitent pour créer des startups\n• Le risque d'abus par des escrocs grandit avec sa popularité\n\nConclusion sur les implications: OpenClaw illustre le potentiel et les risques des outils IA open-source, entre innovation et exploitation malveillante.",
+        "long_summary_en": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/lobster-pets2a.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "L'industrie des batteries américaine en crise : l'IA peut-elle sauver le secteur ?",
+        "title_en": "Brutal times for the US battery industry",
+        "summary": "L'industrie des batteries américaine traverse une crise majeure. L'IA pourrait-elle être la solution ?",
+        "summary_en": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest probl",
+        "long_summary": "Après des années de croissance fulgurante, l'industrie des batteries américaine subit un brutal ralentissement en 2026.\n\nPoints clés :\n• L'essor des startups spécialisées dans les batteries a cédé la place à des difficultés financières.\n• L'IA et le machine learning pourraient optimiser la recherche et la production de batteries.\n• Les géants de l'IA comme OpenAI et Google pourraient collaborer avec les fabricants de batteries.\n\nConclusion sur les implications : L'IA pourrait accélérer l'innovation dans le secteur, mais les défis économiques restent majeurs.",
+        "long_summary_en": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/battery-unicorn-1a.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Quels kits repas offrent le meilleur rapport qualité-prix ? L'IA analyse 7 services",
+        "title_en": "Which Meal Kits Are the Best Value? We Analyzed Recipes From 7 Services to Find Out",
+        "summary": "L'IA compare les prix des kits repas contre les courses en supermarché pour identifier les meilleures offres en 2026.",
+        "summary_en": "Meal kits cost more than buying groceries outright -- but some are a better deal than others. We priced out recipes from seven leading kits against supermarket equivalents to find the best value in 20",
+        "long_summary": "Les kits repas coûtent plus cher que les courses classiques, mais certains offrent un meilleur rapport qualité-prix.\n\nPoints clés :\n• L'IA a analysé 7 services majeurs en 2026\n• Les modèles de langage ont comparé les prix et les recettes\n• Certains kits rivalisent avec les supermarchés\n\nL'étude montre que l'IA peut optimiser les choix alimentaires en analysant des données complexes.",
+        "long_summary_en": "Meal kits cost more than buying groceries outright -- but some are a better deal than others. We priced out recipes from seven leading kits against supermarket equivalents to find the best value in 2026.",
+        "image": "https://www.cnet.com/a/img/resize/3d3a962d6bc67b577146f58cb62c17eb02b57c5d/hub/2025/12/11/b1f52d2b-3724-49ab-add0-44b049737764/best-meal-delivery-servicesmeal-kit-3.png?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/health/nutrition/which-meal-kit-is-the-best-value-we-evaluated-recipes-from-7-to-find-out/",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Elaia lève 134M€ pour son fonds deep-tech dédié à l'IA",
+        "title_en": "Elaia closes its third deep-tech seed fund at €134M",
+        "summary": "Le VC parisien dépasse son objectif initial de 120M€ pour financer des startups en IA et machine learning.",
+        "summary_en": "The Paris-based VC backed by Bpifrance and Université PSL has exceeded the €120M goal it set at first close in March 2024. When Elaia first raised its third deep-tech seed fund in March 2024, the targ",
+        "long_summary": "Elaia, soutenu par Bpifrance et l'Université PSL, a finalisé son troisième fonds deep-tech avec 134M€, dépassant son objectif initial.\n\nPoints clés :\n• Fonds dédié aux startups en IA, LLMs et modèles génératifs\n• Partenariats stratégiques avec des acteurs majeurs comme OpenAI et Google\n• Impact potentiel sur l'écosystème deep-tech européen\n\nCette levée renforce la position d'Elaia comme acteur clé dans le financement des technologies avancées en Europe.",
+        "long_summary_en": "The Paris-based VC backed by Bpifrance and Université PSL has exceeded the €120M goal it set at first close in March 2024. When Elaia first raised its third deep-tech seed fund in March 2024, the target was €120 million. The final figure has come in higher. The Paris-based venture capital firm has closed its DTS3 […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FElaia-closes-its-third-deep-tech-seed-fund-at-E134M.png&signature=24437eafd91310072282041c84bbd3e8",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/elaia-dts3-deep-tech-seed-fund-134m",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Endform lève 1,5 million d'euros pour accélérer les tests de code généré par IA",
+        "title_en": "Endform raises €1.5M as faster AI-generated code puts new pressure",
+        "summary": "La startup suédoise Endform lève des fonds pour résoudre les goulots d'étranglement des pipelines CI dans l'ère du code généré par IA.",
+        "summary_en": "The Swedish testing startup has secured seed funding to take on the CI pipeline bottleneck in the age of AI-generated code. The code review has always had a bottleneck, not the code itself, but the wa",
+        "long_summary": "Les équipes d'ingénierie sont confrontées à des pipelines CI saturés alors que les cycles de développement s'accélèrent.\n\nPoints clés :\n• Endform lève 1,5 million d'euros pour optimiser les tests de code généré par IA\n• Les pipelines CI deviennent un goulot d'étranglement face à l'augmentation des suites de tests\n• La solution vise à réduire les temps d'attente pour les revues de code\n\nLes outils d'IA générative comme ceux d'OpenAI ou Google pourraient bénéficier de cette optimisation pour accélérer les déploiements.",
+        "long_summary_en": "The Swedish testing startup has secured seed funding to take on the CI pipeline bottleneck in the age of AI-generated code. The code review has always had a bottleneck, not the code itself, but the wait. As test suites swell alongside faster development cycles, engineering teams have increasingly found themselves staring at CI pipelines that […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FEndform-raises-E1.5M.png&signature=aa5e252dcf41a906f3200b727e72baec",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/endform-seed-funding",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Meta développe 4 nouveaux puces pour alimenter ses systèmes d'IA et de recommandation",
+        "title_en": "Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems",
+        "summary": "Meta mise sur ses propres puces MTIA pour rivaliser avec Nvidia dans l'IA générative et le machine learning.",
+        "summary_en": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+        "long_summary": "Meta accélère son indépendance technologique avec des processeurs dédiés à l'IA, malgré ses investissements massifs chez Nvidia.\n\nPoints clés :\n• Meta développe 4 nouveaux processeurs MTIA pour ses modèles d'IA et systèmes de recommandation\n• Ces puces visent à réduire la dépendance aux solutions externes comme celles de Nvidia\n• Le géant technologique investit massivement dans l'IA générative et les LLMs\n\nCette initiative pourrait bouleverser l'écosystème de l'IA en renforçant la concurrence face à OpenAI, Google et Anthropic.",
+        "long_summary_en": "The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+        "image": "https://d5bp8bijhhba2.cloudfront.net/image/cover_image/20260311220454_a2a605c89e4334111b223dc1da02c2fd.jpeg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/",
+        "date": "12 March 2026"
+      },
       {
         "title": "NVIDIA dévoile Nemotron 3 Super : un modèle open-source hybride de 120 milliards de paramètres pour l'IA agentique",
         "title_en": "NVIDIA Releases Nemotron 3 Super: A 120B Parameter Open-Source Hybrid Mamba-Attention MoE Model Delivering 5x Higher Throughput for Agentic AI",
@@ -85,105 +181,21 @@
         "source": "Wired",
         "url": "https://www.wired.com/story/nick-clegg-ai-startup-efekta-superintelligence/",
         "date": "12 March 2026"
-      },
-      {
-        "title": "Grammarly poursuivi pour utilisation non autorisée d'auteurs dans son IA",
-        "title_en": "Grammarly Is Facing a Class Action Lawsuit Over Its AI ‘Expert Review’ Feature",
-        "summary": "Grammarly est poursuivi pour avoir utilisé des noms d'auteurs sans consentement dans son outil IA. La fonction a été fermée.",
-        "summary_en": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
-        "long_summary": "Grammarly a été accusé d'avoir présenté des suggestions d'édition comme provenant d'auteurs et d'académiciens reconnus, sans leur accord.\n\nPoints clés :\n• La fonctionnalité 'Expert Review' a été désactivée mercredi.\n• Les plaignants dénoncent une utilisation abusive de l'identité des experts.\n• L'affaire soulève des questions sur l'éthique des IA génératives.\n\nCette affaire pourrait influencer la régulation des modèles de langage et la transparence des outils IA.",
-        "long_summary_en": "The feature, which Grammarly shut down Wednesday, presented editing suggestions as if they came from established authors and academics—without their consent.",
-        "image": "https://media.wired.com/photos/69b1c8b19fd417e67bc5b525/191:100/w_1280,c_limit/031126-grammarly-AI-experts-1.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/",
-        "date": "12 March 2026"
-      },
-      {
-        "title": "Grammarly abandonne le clonage d'experts sans autorisation",
-        "title_en": "Grammarly says it will stop using AI to clone experts without permission",
-        "summary": "Grammarly désactive sa fonctionnalité controversée de clonage d'experts, sous pression des médias.",
-        "summary_en": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"Aft",
-        "long_summary": "Grammarly a annoncé la fin de son outil \"Expert Review\", accusé d'utiliser des contenus d'auteurs sans consentement.\n\nPoints clés :\n• Grammarly désactive la fonctionnalité après des critiques de médias comme The Verge\n• La technologie utilisait des modèles de langage pour imiter des experts sans autorisation\n• L'entreprise promet de repenser la fonctionnalité pour mieux respecter les droits des auteurs\n\nCette décision souligne les enjeux éthiques des IA génératives et leur utilisation des données protégées.",
-        "long_summary_en": "Superhuman says it has disabled Grammarly's \"expert review\" AI feature that said its edit suggestions were \"inspired by\" real writers, including our editor-in-chief and other Verge staff members. \"After careful consideration, we have decided to disable Expert Review as we reimagine the feature to make it more useful for users, while giving experts real control […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/grammr-crop.jpg?quality=90&strip=all&crop=9.622877930477,0,80.754244139046,100",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
-        "date": "12 March 2026"
-      },
-      {
-        "title": "Grammarly poursuivi pour avoir utilisé l'identité de journalistes sans consentement",
-        "title_en": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
-        "summary": "Grammarly est accusé d'avoir exploité des identités réelles pour son IA sans autorisation, déclenchant un procès collectif.",
-        "summary_en": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the",
-        "long_summary": "Grammarly utilise depuis des mois des identités de journalistes pour ses suggestions IA, sans leur accord. Une plainte collective a été déposée par Julia Angwin.\n\nPoints clés :\n• Grammarly a exploité des identités réelles pour son outil d'expertise IA\n• Une journaliste a porté plainte pour violation de droits\n• L'affaire soulève des questions sur l'éthique des données en IA\n\nL'affaire pourrait influencer les pratiques des entreprises utilisant des modèles de langage pour générer du contenu.",
-        "long_summary_en": "For months, Grammarly has been using the identities of real people (including us) for its \"Expert Review\" AI suggestions without getting their permission, and now it's facing a lawsuit from one of the journalists included, as previously reported by Wired. The class-action complaint filed by journalist Julia Angwin on Wednesday alleges that Superhuman violated the […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-1244428289.jpg?quality=90&strip=all&crop=0%2C10.491678610079%2C100%2C79.016642779841&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
-        "date": "12 March 2026"
-      },
-      {
-        "title": "Netflix aurait dépensé 600 millions de dollars pour une startup IA de Ben Affleck",
-        "title_en": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-        "summary": "Netflix pourrait avoir réalisé l'une de ses plus grosses acquisitions avec une startup IA liée à Ben Affleck.",
-        "summary_en": "This deal could rank as among the streaming giant's largest acquisitions ever.",
-        "long_summary": "Cette acquisition pourrait marquer un tournant dans l’intégration de l’IA par Netflix.\n\nPoints clés :\n• Netflix investit massivement dans l’IA générative et les LLMs\n• La startup de Ben Affleck pourrait révolutionner la personnalisation des contenus\n• Un signe de la course aux talents IA entre géants tech et médias\n\nCette acquisition souligne l’importance croissante de l’IA dans l’industrie du divertissement.",
-        "long_summary_en": "This deal could rank as among the streaming giant's largest acquisitions ever.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/03/cash-ransomware-ransom-payments-hackers-getty.jpg?resize=1200,675",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-        "date": "12 March 2026"
-      },
-      {
-        "title": "L'assistant IA de Ford surveille l'utilisation des ceintures de sécurité",
-        "title_en": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-        "summary": "Ford Pro AI détecte si les conducteurs attachent leur ceinture, améliorant la sécurité des flottes.",
-        "summary_en": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-        "long_summary": "Ford Pro AI, lancé lors du Work Truck Week, est désormais accessible aux abonnés Pro telematics aux États-Unis.\n\nPoints clés :\n• Utilisation de l'IA pour surveiller les comportements de sécurité en temps réel\n• Intégration dans les systèmes telematics existants\n• Potentiel pour réduire les accidents et les coûts d'assurance\n\nCette innovation pourrait standardiser les solutions IA dans les véhicules commerciaux.",
-        "long_summary_en": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/ford-pro-fleet.jpg?resize=1200,675",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-        "date": "12 March 2026"
-      },
-      {
-        "title": "Tilly Norwood, l'actrice IA, sort la pire chanson jamais entendue",
-        "title_en": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-        "summary": "Une chanson générée par IA, censée inspirer les acteurs virtuels, soulève des questions sur l'authenticité artistique des modèles de langage.",
-        "summary_en": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-        "long_summary": "Une chanson produite par l'actrice IA Tilly Norwood, destinée à motiver les autres IA face aux sceptiques, a été critiquée pour son manque de pertinence.\n\nPoints clés :\n• La chanson illustre les limites créatives des modèles de langage actuels\n• Elle soulève des débats sur l'identité et l'authenticité des créations IA\n• Les critiques pointent l'absence de résonance émotionnelle\n\nLes implications questionnent la place de l'IA dans l'art et la culture, alors que les modèles comme ceux d'OpenAI ou Google continuent d'évoluer.",
-        "long_summary_en": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-        "date": "12 March 2026"
-      },
-      {
-        "title": "Artificial Intelligence News -- ScienceDaily",
-        "title_en": "Artificial Intelligence News -- ScienceDaily",
-        "summary": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature opti",
-        "summary_en": "New Prediction Breakthrough Delivers Results Shockingly Close to Reality · Nov. 14, 2025  Researchers have created a prediction method that comes startlingly close to real-world results. It works by ",
-        "long_summary": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature optical cavities that efficiently collect light from individual atoms, allowing ... Unbreakable? Researchers Warn Quantum Computers Have Serious Security Flaws Jan. 20, 2026 Â Quantum computers could revolutionize everything from drug discovery to business analyticsâbut their incredible power also makes them surprisingly vulnerable. New research from Penn State warns ... The Breakthrough That Makes Robot Faces Feel Less Creepy Jan. 16, 2026 Â Humans pay enormous attention to lips during conversation, and robots have struggled badly to keep up. A new robot developed at Columbia Engineering learned realistic lip movements by watching its ... Stanfordâs AI Spots Hidden Disease Warnings That Show Up While You Sleep Jan. 9, 2026 Â Stanford researchers have developed an AI that can predict future disease risk using data from just one night of sleep. The system analyzes detailed physiological signals, looking for hidden patterns ... Less Than a Trillionth of a Second: Ultrafast UV Light Could Transform Communications and Imaging Jan. 7, 2026 Â Researchers have built a new platform that produces ultrashort UV-C laser pulses and detects them at room temperature using atom-thin materials. The ... Scientists Create Robots Smaller Than a Grain of Salt That Can Think Jan. 6, 2026 Â Resea",
-        "long_summary_en": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature optical cavities that efficiently collect light from individual atoms, allowing ... Unbreakable? Researchers Warn Quantum Computers Have Serious Security Flaws Jan. 20, 2026 Â Quantum computers could revolutionize everything from drug discovery to business analyticsâbut their incredible power also makes them surprisingly vulnerable. New research from Penn State warns ... The Breakthrough That Makes",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "source": "Sciencedaily",
-        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "date": "11 March 2026"
-      },
-      {
-        "title": "Ces maladies étaient jugées incurables. L'IA ouvre désormais de nouveaux traitements",
-        "title_en": "These diseases were thought to be incurable. Now AI is unlocking new treatments",
-        "summary": "L'IA révolutionne la découverte de médicaments contre des maladies comme Parkinson ou des superbugs résistants aux antibiotiques.",
-        "summary_en": "<strong>Artificial intelligence is inventing new drugs against Parkinson&#x27;s disease, antibiotic-resistant superbugs and many rare diseases</strong> – progress that many scientists never dreamed po",
-        "long_summary": "L'IA accélère la recherche de traitements contre des maladies considérées comme incurables, comme la maladie de Parkinson ou les infections résistantes aux antibiotiques.\n\nPoints clés :\n• L'IA permet d'analyser des milliers de composés chimiques en quelques jours\n• Les antibiotiques traditionnels deviennent inefficaces face aux superbugs\n• L'IA pourrait relancer la découverte de nouveaux médicaments grâce à son efficacité et sa rapidité\n\nL'IA pourrait sauver des millions de vies en accélérant la découverte de traitements contre des maladies mortelles.",
-        "long_summary_en": "These diseases were thought to be incurable. Now AI is unlocking new treatments 1 day ago Share Save Laurie Clarke Share Save Getty Images (Credit: Getty Images) Artificial intelligence is inventing new drugs against Parkinson's disease, antibiotic-resistant superbugs and many rare diseases – progress that many scientists never dreamed possible. For around half a century, humanity has been slowly losing its battle against bacteria. The most powerful weapons we have in this fight, antibiotics, are increasingly ineffective as drug resistance spreads. Around 1.1 million people now die every year ",
-        "image": "https://ychef.files.bbci.co.uk/624x351/p0n5lbl5.jpg",
-        "source": "Bbc",
-        "url": "https://www.bbc.com/future/article/20260309-ai-is-finding-treatments-for-incurable-diseases",
-        "date": "11 March 2026"
       }
     ],
     "image": [
+      {
+        "title": "L'UE interdit les deepfakes intimes non consentis dans sa loi sur l'IA",
+        "title_en": "EU lawmakers deal to ban AI non-consensual intimate deepfakes",
+        "summary": "L'UE renforce sa loi sur l'IA pour interdire les deepfakes intimes sans consentement, suite au scandale Grok.",
+        "summary_en": "A March 11 political agreement on AI Act amendments will add an explicit prohibition on non-consensual intimate AI-generated images, direct fallout from the Grok scandal. It took a scandal, a wave of ",
+        "long_summary": "Les législateurs européens ont ajouté une interdiction explicite des deepfakes intimes générés par l'IA sans consentement.\n\nPoints clés :\n• La mesure suit le scandale Grok et une pression réglementaire accrue\n• 57 membres du Parlement européen ont soutenu l'amendement\n• L'UE renforce sa position de leader en matière de régulation de l'IA\n\nCette interdiction marque un tournant dans la lutte contre les abus des technologies génératives.",
+        "long_summary_en": "A March 11 political agreement on AI Act amendments will add an explicit prohibition on non-consensual intimate AI-generated images, direct fallout from the Grok scandal. It took a scandal, a wave of regulatory anger, and a coalition of 57 European Parliament members to get there,  but the EU’s landmark AI Act will now contain an […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FEU-lawmakers-deal-to-ban-AI-non-consensual-intimate-deepfakes.png&signature=b78a0758ce110bd47a0bb28f32068783",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/eu-lawmakers-deal-to-ban-ai-non-consensual-intimate-deepfakes",
+        "date": "12 March 2026"
+      },
       {
         "title": "Nano Banana 2 : Google améliore-t-il vraiment ses modèles d'IA générative ?",
         "title_en": "Nano Banana 2: How Much of an Improvement Is Google's New AI Image Model?",
@@ -351,21 +363,21 @@
         "source": "cnet_ai",
         "url": "https://www.cnet.com/tech/mobile/samsung-s26-ultra-xiaomi-leica-leitzphone/",
         "date": "02 March 2026"
-      },
-      {
-        "title": "Nvidia mise 4 milliards dans la photonique pour dominer l'IA",
-        "title_en": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
-        "summary": "Nvidia investit 4 milliards dans la photonique pour booster les data centers et l'IA. Une révolution en vue pour les transferts de données.",
-        "summary_en": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches,",
-        "long_summary": "Nvidia investit 2 milliards dans Lumentum et Coherent, deux leaders de la photonique. Leur technologie pourrait transformer les data centers en accélérant les transferts de données et en réduisant la consommation énergétique.\n\nPoints clés :\n• Investissement de 4 milliards dans la photonique pour l'IA\n• Technologies comme les transceivers optiques et les lasers pour des data centers plus efficaces\n• Impact potentiel sur les modèles d'IA générative et le machine learning\n\nCette avancée pourrait donner à Nvidia un avantage décisif face à ses concurrents comme Google et OpenAI.",
-        "long_summary_en": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
-        "date": "02 March 2026"
       }
     ],
     "video": [
+      {
+        "title": "OpenAI pourrait intégrer Sora à ChatGPT pour générer des vidéos IA",
+        "title_en": "OpenAI may bring Sora's video generation capabilities to ChatGPT: Report | Tech News - Business Standard",
+        "summary": "OpenAI envisage d'intégrer Sora à ChatGPT, permettant la création de vidéos IA directement dans le chat, mais soulève des craintes sur les deepfakes.",
+        "summary_en": "According to OpenAI, <strong>Sora allows users to generate new videos based on text prompts, remix existing content and discover creations through a personalised feed</strong>. One of the key features",
+        "long_summary": "OpenAI pourrait intégrer son outil de génération vidéo Sora directement dans ChatGPT, selon un rapport de The Verge.\n\nPoints clés :\n• L'intégration faciliterait la création de vidéos IA via des prompts textuels dans ChatGPT.\n• Sora permet déjà de générer des vidéos, de remixer du contenu et d'utiliser des Cameos (insertion de personnes réelles).\n• Cette fusion pourrait démocratiser l'accès à l'IA générative, mais pose des questions sur la désinformation et les deepfakes.\n\nConclusion sur les implications : Cette intégration pourrait révolutionner la création de contenu, mais nécessite des garde-fous éthiques.",
+        "long_summary_en": "Home / Technology / Tech News / OpenAI may bring Sora's video generation capabilities to ChatGPT: Report OpenAI may bring Sora's video generation capabilities to ChatGPT: Report OpenAI may integrate Sora into ChatGPT, letting users create AI videos directly in chat, a move that could expand access but may also raise concerns around deepfakes and misuse OpenAI may integrate Sora into ChatGPT. Sweta Kumari New Delhi 3 min read Last Updated : Mar 12 2026 | 11:58 AM IST Listen to This Article OpenAI’s video generation tool Sora is expected to be integrated directly into ChatGPT, according to a rep",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/12/thumb/featurecrop/1200X630/1773296628-8568.png",
+        "source": "Business-Standard",
+        "url": "https://www.business-standard.com/technology/tech-news/openai-may-bring-sora-s-video-generation-capabilities-to-chatgpt-report-126031200377_1.html",
+        "date": "12 March 2026"
+      },
       {
         "title": "Sora, l'IA vidéo d'OpenAI, pourrait bientôt intégrer ChatGPT",
         "title_en": "Report: Sora AI Video Generation May Be Coming to ChatGPT | PCMag",
@@ -533,21 +545,57 @@
         "source": "Uk",
         "url": "https://uk.investing.com/news/stock-market-news/openai-plans-to-launch-sora-video-ai-in-chatgpt-the-information-4551906",
         "date": "11 March 2026"
-      },
-      {
-        "title": "OpenAI prévoit d'intégrer son outil vidéo Sora dans ChatGPT",
-        "title_en": "OpenAI plans to launch its Sora video tool in ChatGPT, The Information reports | Reuters",
-        "summary": "OpenAI envisage d'ajouter Sora, son outil de génération vidéo, à ChatGPT, selon The Information.",
-        "summary_en": "REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights, opens new tab · March 10 (Reuters) - <strong>OpenAI plans to soon launch its AI video generator Sora ​in ChatGPT</strong>, The Inf",
-        "long_summary": "OpenAI, leader de l'IA générative, pourrait bientôt étendre les capacités de ChatGPT avec Sora, un modèle capable de créer des vidéos à partir de simples descriptions textuelles.\n\nPoints clés :\n• Sora pourrait être intégré à ChatGPT pour générer des vidéos directement dans la conversation\n• Cette avancée renforcerait la position d'OpenAI face à Google et Anthropic\n• L'IA générative continue de repousser les limites de la créativité numérique\n\nCette intégration pourrait révolutionner la communication visuelle et accélérer l'adoption de l'IA dans les médias.",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://img.dunyanews.tv/news/2026/March/03-11-26/news_big_images/939913_71629047.jpg",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/openai-plans-launch-its-sora-video-tool-chatgpt-information-reports-2026-03-11/",
-        "date": "11 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Les LLMs open source en 2026 : GRPO, DAPO et RLVR révolutionnent l'entraînement post-training",
+        "title_en": "LLM News Today (March 2026) – Open Source LLM Updates & AI Model Releases",
+        "summary": "En 2026, les modèles GRPO, DAPO et RLVR dominent l'entraînement post-training, remplaçant le RLHF. Décryptage technique.",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Les avancées en IA générative ont radicalement transformé l'entraînement des LLMs en 2026.\n\nPoints clés :\n• GRPO, DAPO et RLVR surpassent le RLHF en efficacité et scalabilité\n• Le synthetic self-play devient la norme pour l'alignement des modèles\n• OpenAI, Google et Anthropic adoptent ces nouvelles méthodes\n\nCes innovations accélèrent le développement des LLMs open source, réduisant les coûts et améliorant les performances.",
+        "long_summary_en": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of what changed and why. Jonathan Chavez Mar 11, 2026",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Le Sénat américain valide l'usage de ChatGPT, Gemini et Copilot malgré la polémique Anthropic",
+        "title_en": "US Senate approves use of ChatGPT, Gemini and Copilot amid Anthropic row – Firstpost",
+        "summary": "Le Sénat américain autorise l'utilisation d'IA générative malgré les tensions autour d'Anthropic.",
+        "summary_en": "US Senate approves the usage of AI tools including ChatGPT, Google’s Gemini and Microsoft Copilot within internal systems, according to a report by New York Times, as debate grows in Washington over A",
+        "long_summary": "Le Sénat américain a validé l'utilisation d'outils comme ChatGPT, Gemini et Copilot dans un contexte géopolitique tendu au Moyen-Orient.\n\nPoints clés :\n• Adoption accélérée des LLMs malgré les risques de désinformation\n• Anthropic au cœur d'une polémique sur la transparence des modèles\n• Implications stratégiques pour la défense et la diplomatie\n\nCette décision souligne l'importance croissante de l'IA dans les enjeux sécuritaires.",
+        "long_summary_en": "West Asia war",
+        "image": "https://images.firstpost.com/uploads/2025/09/gpt2-2025-09-e92e0a3012a79106fa97878bbfbb01ed.jpg?im=FitAndFill=(1200,675)",
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/tech/us-senate-approves-use-of-chatgpt-gemini-and-copilot-amid-anthropic-row-13988265.html",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Moltbook et OpenClaw : l'or des fous de l'essor de l'IA",
+        "title_en": "Why Moltbook and OpenClaw are the fool's gold in our AI boom",
+        "summary": "Meta et OpenAI ont surpayé pour des IA surévaluées. Des alternatives plus performantes existent déjà.",
+        "summary_en": "Commentary: Whatever Meta and OpenAI paid, it was too much. Other, better programs can do the same jobs.",
+        "long_summary": "Les récentes acquisitions de Moltbook et OpenClaw soulèvent des questions sur leur réelle valeur. Des modèles plus efficaces et moins chers sont disponibles.\n\nPoints clés :\n• Les investissements dans ces IA pourraient être mal placés\n• Des alternatives open-source ou moins coûteuses offrent des performances similaires\n• Le marché de l'IA risque de subir une correction après cette surchauffe\n\nLes implications sont majeures pour les investisseurs et les utilisateurs, qui pourraient se tourner vers des solutions plus économiques.",
+        "long_summary_en": "Commentary: Whatever Meta and OpenAI paid, it was too much. Other, better programs can do the same jobs.",
+        "image": "https://www.zdnet.com/a/img/resize/fa748642a59fbec3d2379fa21ba89743fa4fb5dd/2026/03/11/af8867e4-58fa-4794-81c4-162a0f669da7/goldbroken-gettyimages-2222204565.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "Google utilise l'IA et les anciennes actualités pour prédire les inondations éclair",
+        "title_en": "Google is using old news reports and AI to predict flash floods",
+        "summary": "Google transforme des articles anciens en données quantitatives via l'IA pour anticiper les inondations soudaines.",
+        "summary_en": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+        "long_summary": "Google exploite des rapports journalistiques anciens et des modèles de langage pour combler le manque de données environnementales.\n\nPoints clés :\n• Utilisation de LLMs pour extraire des données précises à partir de textes qualitatifs\n• Solution innovante face à la rareté des données hydrologiques\n• Potentiel pour améliorer les systèmes d'alerte précoce\n\nCette approche pourrait révolutionner la gestion des risques naturels en intégrant l'IA dans les processus scientifiques.",
+        "long_summary_en": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-7.14.04-PM.png?resize=1200,757",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+        "date": "12 March 2026"
+      },
       {
         "title": "Les départements américains adoptent Gemini, ChatGPT et Copilot, tandis que l'interdiction d'Anthropic entre en vigueur",
         "title_en": "US government departments switch to Gemini, ChatGPT, and Copilot and Anthropic ban takes effect",
@@ -679,57 +727,33 @@
         "source": "Intuitionlabs",
         "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
         "date": "11 March 2026"
-      },
-      {
-        "title": "NVIDIA investit massivement dans le lab d'IA de Mira Murati",
-        "title_en": "NVIDIA makes &#8216;significant investment&#8217; in Mira Murati&#8217;s Thinking Machines Lab",
-        "summary": "NVIDIA s'associe à Thinking Machines Lab, fondé par l'ex-CTO d'OpenAI, avec un engagement de calculs à plusieurs milliards.",
-        "summary_en": "The deal pairs one of the world’s most powerful chip companies with the AI startup founded by OpenAI’s former CTO, and the compute commitment alone runs to tens of billions of dollars. When Mira Murat",
-        "long_summary": "Mira Murati, ex-CTO d'OpenAI, lance un nouveau lab d'IA avec un partenariat stratégique avec NVIDIA.\n\nPoints clés :\n• Investissement majeur de NVIDIA dans Thinking Machines Lab\n• Engagement de calculs à plusieurs milliards de dollars\n• Renforcement de la concurrence dans l'IA générative\n\nConclusion sur les implications : Cette alliance pourrait accélérer l'innovation en IA et bousculer le paysage des LLMs.",
-        "long_summary_en": "The deal pairs one of the world’s most powerful chip companies with the AI startup founded by OpenAI’s former CTO, and the compute commitment alone runs to tens of billions of dollars. When Mira Murati left OpenAI in September 2024, she declined to say much about what came next. What has become clear, roughly 18 […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FThinking-Machines-Lab-secures-NVIDIA-investment.png&signature=06c4ea61271a210bff2930eddfe0e338",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/thinking-machines-lab-secures-nvidia-investment",
-        "date": "11 March 2026"
-      },
-      {
-        "title": "Lemrock lève 6M€ pour devenir l'interface commerciale des agents IA",
-        "title_en": "Paris startup Lemrock raises €6M to become the commerce layer inside AI agents",
-        "summary": "Lemrock, fondée par des entrepreneurs expérimentés, mise sur les agents IA comme nouveaux points de vente, un marché que les marques ne maîtrisent pas encore.",
-        "summary_en": "Founded just months ago by two repeat Y Combinator founders and a retail veteran, Lemrock is betting that AI agents are becoming the new storefront,  and that brands are nowhere near ready for it. Whe",
-        "long_summary": "Cette startup parisienne veut révolutionner le commerce en intégrant des agents IA comme intermédiaires entre les marques et les consommateurs.\n\nPoints clés :\n• Levée de 6M€ pour développer une infrastructure dédiée aux agents IA\n• Les marques ne sont pas préparées à l'essor des assistants conversationnels comme canaux de vente\n• Lemrock cible les secteurs où les recommandations personnalisées sont cruciales (sport, mode, etc.)\n\nLes agents IA pourraient redéfinir les stratégies marketing, forçant les entreprises à s'adapter rapidement.",
-        "long_summary_en": "Founded just months ago by two repeat Y Combinator founders and a retail veteran, Lemrock is betting that AI agents are becoming the new storefront,  and that brands are nowhere near ready for it. When you ask ChatGPT or Perplexity which running shoes to buy, someone has to make sure the right brands show up, […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FStartup-Lemrock-raises-E6M-to-fix-agentic-commerce.png&signature=b7888c3c1942ede1c0dda2095077db71",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/lemrock-raises-6m-agentic-commerce-ai-agents",
-        "date": "11 March 2026"
-      },
-      {
-        "title": "OpenAI en retard sur la révolution du code généré par IA",
-        "title_en": "Inside OpenAI’s Race to Catch Up to Claude Code",
-        "summary": "OpenAI peine à rivaliser avec Claude dans la génération de code par IA, malgré son leadership historique.",
-        "summary_en": "Why is the biggest name in AI late to the AI coding revolution?",
-        "long_summary": "OpenAI, pionnier de l'IA, accuse un retard face à des concurrents comme Claude dans la génération de code. Points clés :\n• Claude surpasse OpenAI en précision et rapidité de codage.\n• OpenAI mise sur des modèles plus généralistes, moins spécialisés.\n• La course aux modèles spécialisés s'intensifie dans l'industrie.\n\nConclusion : Ce retard pourrait ébranler la domination d'OpenAI sur le marché de l'IA.",
-        "long_summary_en": "Why is the biggest name in AI late to the AI coding revolution?",
-        "image": "https://media.wired.com/photos/69b092fdb9e03828e1c694b8/191:100/w_1280,c_limit/FF_CODINGAGENTS_MJQ_20260209_SF_WIRED_OPENAI_1111.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/openai-codex-race-claude-code/",
-        "date": "11 March 2026"
-      },
-      {
-        "title": "Anthropic lance un think tank face à la bataille avec le Pentagone",
-        "title_en": "Anthropic is launching a new think tank amid Pentagon blacklist fight",
-        "summary": "Anthropic crée un think tank interne pour étudier l'impact de l'IA, alors que le conflit avec le Pentagone s'intensifie.",
-        "summary_en": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a",
-        "long_summary": "Anthropic, en pleine bataille juridique avec le Pentagone, restructure ses équipes de recherche.\n\nPoints clés :\n• Création de l'Anthropic Institute, fusionnant trois équipes de recherche\n• Focus sur les implications à grande échelle de l'IA\n• Mouvements dans la direction générale de l'entreprise\n\nCette initiative pourrait influencer la régulation et l'éthique de l'IA, alors que les tensions avec les autorités américaines persistent.",
-        "long_summary_en": "Amid a weekslong conflict with the Pentagon, resulting in a blacklist and a lawsuit, Anthropic is shaking up its C-suite and research initiatives. The company announced Wednesday that it's launching a new internal think tank, called the Anthropic Institute, that combines three of Anthropic's current research teams. It will focus on researching AI's large-scale implications, […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK485_STK414_AI_SAFETY_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/892478/anthropic-institute-think-tank-claude-pentagon-jack-clark",
-        "date": "11 March 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Gestala lève 21,6M$ pour une technologie BCI non invasive par ultrasons",
+        "title_en": "Chinese BCI startup Gestala raises $21.6M for non-invasive ultrasound brain tech",
+        "summary": "Gestala, fondée il y a seulement deux mois, lève un record en Chine pour son interface cerveau-machine par ultrasons.",
+        "summary_en": "The startup, founded just two months before its raise, has secured China’s largest early-stage brain-computer interface round, heavily oversubscribed. Phoenix Peng has already built one brain-computer",
+        "long_summary": "Gestala, startup chinoise spécialisée dans les interfaces cerveau-machine (BCI), vient de lever 21,6 millions de dollars, un record pour un tour de financement précoce en Chine.\n\nPoints clés :\n• Fondée par Phoenix Peng, déjà à l’origine de NeuroXess (BCI implantables)\n• Technologie non invasive basée sur les ultrasons\n• Tour largement sur-souscrit, signe d’un fort intérêt pour les BCI\n\nCette levée pourrait accélérer le développement des BCI non invasives, ouvrant la voie à des applications grand public.",
+        "long_summary_en": "The startup, founded just two months before its raise, has secured China’s largest early-stage brain-computer interface round, heavily oversubscribed. Phoenix Peng has already built one brain-computer interface company. NeuroXess, his first venture, develops implantable BCI systems designed to restore communication and motor function for people with severe neurological conditions. His second company, Gestala, takes a […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FGestala-raises-21.6M-for-non-invasive-ultrasound-brain-tech.png&signature=89a3d520c6e800f4b5fcea7d65d18140",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/gestala-bci-ultrasound-funding-china",
+        "date": "12 March 2026"
+      },
+      {
+        "title": "NVIDIA investit 2 milliards de dollars dans Nebius, un acteur clé du cloud IA",
+        "title_en": "NVIDIA invests $2 billion in Nebius",
+        "summary": "NVIDIA mise sur Nebius pour déployer 5 GW de puissance de calcul IA, renforçant son écosystème face à OpenAI et Google.",
+        "summary_en": "  NVIDIA has agreed to invest $2 billion in Nebius Group, the Amsterdam-based AI cloud company that emerged from the wreckage of Yandex after Russia’s invasion of Ukraine, in a deal that pairs a subst",
+        "long_summary": "NVIDIA investit 2 milliards de dollars dans Nebius Group, une entreprise néerlandaise issue de Yandex, pour accélérer le déploiement de l'IA.\n\nPoints clés :\n• Injection de capital et partenariat technique pour 5 GW de puissance NVIDIA\n• Nebius, anciennement lié à Yandex, se repositionne dans le cloud IA post-guerre en Ukraine\n• Renforcement de l'infrastructure IA face aux géants comme OpenAI et Google\n\nCette alliance pourrait redéfinir la compétition dans le cloud IA, avec des implications majeures pour les modèles de langage et l'IA générative.",
+        "long_summary_en": "  NVIDIA has agreed to invest $2 billion in Nebius Group, the Amsterdam-based AI cloud company that emerged from the wreckage of Yandex after Russia’s invasion of Ukraine, in a deal that pairs a substantial capital injection with a deep technical partnership aimed at deploying more than 5 gigawatts of NVIDIA-powered compute capacity by the […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FNVIDIA-invests-2-billion-in-Nebius.png&signature=1391dd9014d1150e827b210833f03282",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/nvidia-invests-2-billion-in-nebius",
+        "date": "12 March 2026"
+      },
       {
         "title": "SXSW 2026 : l'IA au cœur de l'innovation et de la culture",
         "title_en": "SXSW 2026 Updates: What We Expect on Tech and Culture From Austin",
@@ -885,30 +909,6 @@
         "source": "zdnet_ai",
         "url": "https://www.zdnet.com/article/soundcore-space-2-news/",
         "date": "01 March 2026"
-      },
-      {
-        "title": "Spotify intègre les classements d'audiolivres grâce à l'IA",
-        "title_en": "Spotify Expands Into Audiobook Rankings With Weekly Charts",
-        "summary": "Spotify lance des classements hebdomadaires d'audiolivres, accessibles à tous. Wuthering Heights domine aux États-Unis et au Royaume-Uni.",
-        "summary_en": "The feature is available to both free users and Premium subscribers. Wuthering Heights is reaching the heights on both the US and UK charts.",
-        "long_summary": "Spotify étend ses fonctionnalités avec des classements d'audiolivres, exploitant probablement des algorithmes d'IA pour analyser les tendances.\n\nPoints clés :\n• Disponible pour les utilisateurs gratuits et Premium\n• Wuthering Heights en tête des charts US et UK\n• Potentiel d'utilisation de modèles de langage pour recommandations personnalisées\n\nCette initiative pourrait influencer le marché des audiolivres et renforcer l'intégration de l'IA dans les plateformes de streaming.",
-        "long_summary_en": "The feature is available to both free users and Premium subscribers. Wuthering Heights is reaching the heights on both the US and UK charts.",
-        "image": "https://www.cnet.com/a/img/resize/904a2483c171b06feb2057d150a6b54e85b79b65/hub/2026/02/27/26b5b298-fe01-470c-ac76-801113646845/spotify-listener-gettyimages-2212525048.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/spotify-adds-audiobooks-chart-for-better-user-discovery/",
-        "date": "28 February 2026"
-      },
-      {
-        "title": "Un nouveau collectible Game Boy mini ne joue que de la musique Pokémon ? Quelle provocation !",
-        "title_en": "A New Mini Game Boy Collectible That Just Plays Pokemon Music? What a Tease",
-        "summary": "Un nouveau collectible Game Boy mini joue uniquement de la musique Pokémon via des cartouches interchangeables. Les fans réclament un vrai Game Boy.",
-        "summary_en": "A surprise collectible on Pokemon Day looks just like a tiny Game Boy and plays music on swappable cartridges. Give us the real Game Boy again, come on.",
-        "long_summary": "À l'occasion du Pokémon Day, un nouveau collectible en forme de Game Boy mini a été révélé, capable de jouer de la musique via des cartouches interchangeables.\n\nPoints clés :\n• Design nostalgique rappelant la Game Boy originale\n• Fonctionnalité limitée à la lecture de musique\n• Réactions mitigées des fans, certains réclamant un vrai Game Boy\n\nConclusion sur les implications : Ce collectible montre l'intérêt pour la nostalgie technologique, mais aussi les attentes des fans pour des expériences plus complètes.",
-        "long_summary_en": "A surprise collectible on Pokemon Day looks just like a tiny Game Boy and plays music on swappable cartridges. Give us the real Game Boy again, come on.",
-        "image": "https://www.cnet.com/a/img/resize/532cd0dacc2a71b502ed761a5118f0e6cb1a0885/hub/2026/02/27/c5a0703d-e862-47f9-b04d-53cf3e121885/pokemon-presents-2-27-2026-3-57-screenshot.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/gaming/a-new-mini-game-boy-collectible-that-just-plays-pokemon-music-what-a-tease/",
-        "date": "27 February 2026"
       }
     ]
   },
