@@ -1,7 +1,103 @@
 {
-  "lastUpdate": "14 March 2026 - 08:02",
+  "lastUpdate": "14 March 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Les pionniers profitent de la folie OpenClaw en Chine",
+        "title_en": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+        "summary": "Des ingénieurs chinois exploitent OpenClaw, un outil IA autonome capable de prendre le contrôle d’appareils.",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze  In Janua",
+        "long_summary": "En janvier, un ingénieur logiciel basé à Pékin a commencé à expérimenter avec OpenClaw, un outil IA capable d’automatiser des tâches sur des appareils.\n\nPoints clés :\n• OpenClaw permet une automatisation avancée des tâches via l’IA\n• Des utilisateurs profitent déjà de cette technologie émergente\n• L’outil pourrait révolutionner l’automatisation industrielle\n\nCette tendance illustre l’essor rapide des IA autonomes en Chine, avec des implications potentielles pour l’industrie mondiale.",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze  In January, Beijing-based software engineer Feng Qingyang started tinkering with OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/lobster-pets2a.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "L'IA physique, le prochain avantage de la fabrication",
+        "title_en": "Why physical AI is becoming manufacturing’s next advantage",
+        "summary": "L'IA physique révolutionne la fabrication en combinant automatisation et intelligence artificielle pour surmonter les défis actuels.",
+        "summary_en": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufactur",
+        "long_summary": "Les fabricants cherchent depuis des décennies à automatiser pour améliorer l'efficacité et réduire les coûts. Aujourd'hui, ils doivent aussi innover plus vite sans compromettre la qualité ou la sécurité.\n\nPoints clés :\n• L'IA physique combine robotique et modèles de langage pour des solutions adaptatives\n• Les LLMs comme ceux d'OpenAI ou Google optimisent les processus en temps réel\n• Cette approche répond aux pénuries de main-d'œuvre et à la complexité croissante\n\nCette évolution pourrait redéfinir les standards industriels en matière d'agilité et de personnalisation.",
+        "long_summary_en": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MIT-Article-Image-1200x675_C.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "Elon Musk démantèle xAI pour tout reconstruire... encore une fois",
+        "title_en": "Elon Musk is tearing xAI down to build it back up. Again.",
+        "summary": "xAI, l'entreprise d'IA de Musk, perd des cofondateurs et des employés, et accuse un retard technologique. Sa solution : tout reconstruire.",
+        "summary_en": "The AI company he founded three years ago has lost six co-founders, is slashing staff, and trails badly in coding benchmarks. Musk’s remedy: rebuild from scratch, for the second time. In March 2023, E",
+        "long_summary": "Fondée en 2023 avec 12 cofondateurs, xAI visait à créer l'IA la plus puissante au monde. Trois ans plus tard, l'entreprise traverse une crise interne.\n\nPoints clés :\n• Six cofondateurs ont quitté xAI, dont des figures clés comme Igor Babuschkin.\n• L'entreprise réduit ses effectifs et accuse un retard dans les benchmarks de codage face à OpenAI et Google.\n• Musk ordonne une refonte totale du projet, la deuxième depuis sa création.\n\nConclusion sur les implications. Cette restructuration reflète les défis persistants de xAI pour rivaliser avec les géants de l'IA comme OpenAI et Anthropic.",
+        "long_summary_en": "The AI company he founded three years ago has lost six co-founders, is slashing staff, and trails badly in coding benchmarks. Musk’s remedy: rebuild from scratch, for the second time. In March 2023, Elon Musk launched xAI with 12 co-founders and a stated ambition to build “the most powerful AI in the world.” Three years […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FEU-lawmakers-deal-to-ban-AI-non-consensual-intimate-deepfakes-1.png&signature=946ad1e419190e9471ac00e1e4155c7c",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/elon-musk-is-tearing-xai-down-to-build-it-back-up",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "L'essor du protocole de contexte des modèles à l'ère des agents intelligents",
+        "title_en": "Rise of model context protocol in the agentic era",
+        "summary": "Le protocole de contexte des modèles (MCP) révolutionne l'IA. Pourquoi est-il indispensable malgré les APIs existantes ?",
+        "summary_en": "We have all heard about model context protocol (MCP) in the context of artificial intelligence. In this article, we will dive into what MCP is and why it is becoming more important by the day. When AP",
+        "long_summary": "Le protocole de contexte des modèles (MCP) émerge comme un standard clé pour les agents IA. Il permet une meilleure gestion des données et des interactions entre modèles.\n\nPoints clés :\n• Le MCP standardise la communication entre modèles et agents IA\n• Il résout les limites des APIs traditionnelles en offrant une flexibilité accrue\n• OpenAI, Google et Anthropic explorent son potentiel pour les LLMs\n\nConclusion sur les implications : Le MCP pourrait devenir la colonne vertébrale des systèmes d'IA autonomes, facilitant l'interopérabilité et l'évolution des agents intelligents.",
+        "long_summary_en": "We have all heard about model context protocol (MCP) in the context of artificial intelligence. In this article, we will dive into what MCP is and why it is becoming more important by the day. When APIs are already available then why do we need MCP? Although we have seen a large rise in popularity […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FRise-of-model-context-protocol-in-the-agentic-era.png&signature=75ea8aa7854e6aa9a02cf2ff977b36cb",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/rise-of-model-context-protocol-in-the-agentic-era",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "L'explosion d'OpenClaw : une ruée vers l'or pour les entreprises d'IA",
+        "title_en": "China’s OpenClaw Boom Is a Gold Rush for AI Companies",
+        "summary": "L'engouement pour l'agent open source pousse à louer des serveurs cloud et à souscrire à des services IA, profitant aux géants tech.",
+        "summary_en": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+        "long_summary": "L'essor d'OpenClaw, un agent open source, crée une frénésie autour de l'IA en Chine.\n\nPoints clés :\n• Les utilisateurs louent massivement des serveurs cloud pour tester l'outil\n• Les abonnements à des services IA explosent, profitant à des acteurs comme OpenAI ou Google\n• Ce phénomène rappelle la ruée vers l'or, avec des opportunités pour les entreprises tech\n\nConclusion sur les implications : Cette tendance pourrait accélérer l'adoption de l'IA générative et renforcer la position des leaders du secteur.",
+        "long_summary_en": "Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for tech companies.",
+        "image": "https://media.wired.com/photos/69af4032df27a642d70d9a52/191:100/w_1280,c_limit/Made-In-China-China-Going-All-in-on-OpenClaw-Business-2260596359.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/china-is-going-all-in-on-openclaw/",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "Les résultats de recherche IA de Google privilégient ses propres services",
+        "title_en": "Google's AI Search Results Love to Refer You Back to Google",
+        "summary": "Google oriente ses outils IA vers ses plateformes comme Search et YouTube, au détriment des éditeurs tiers.",
+        "summary_en": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
+        "long_summary": "Google intègre de plus en plus ses propres services dans les résultats de ses outils IA génératifs.\n\nPoints clés :\n• Les modèles de langage de Google citent prioritairement Search, YouTube et d'autres services maison.\n• Cette pratique pourrait marginaliser les éditeurs externes et renforcer le contrôle de Google sur l'information.\n• La concurrence avec OpenAI et Anthropic s'intensifie dans la course aux modèles de langage.\n\nConclusion sur les implications : Cette stratégie pourrait modifier l'écosystème du web en favorisant les géants technologiques au détriment des médias indépendants.",
+        "long_summary_en": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
+        "image": "https://i2.wp.com/media.wired.com/photos/69b2ee5feadc91f592dc322f/191:100/w_1280,c_limit/shutterstock_2668436833.jpg?w=1920&resize=1920,0&ssl=1",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "Facebook Marketplace intègre des réponses automatiques IA pour les messages gênants",
+        "title_en": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+        "summary": "Facebook Marketplace utilise l'IA pour répondre automatiquement aux questions récurrentes, simplifiant la vente d'objets.",
+        "summary_en": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to",
+        "long_summary": "Meta intègre des outils IA dans Facebook Marketplace pour optimiser les transactions.\n\nPoints clés :\n• Réponses automatiques aux messages comme 'Est-ce toujours disponible ?'\n• Activation optionnelle lors de la création d'une annonce\n• Utilisation de modèles de langage avancés pour générer des réponses pertinentes\n\nCette innovation réduit la charge des vendeurs tout en accélérant les échanges, illustrant l'impact croissant des LLMs dans les services grand public.",
+        "long_summary_en": "Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to automatically respond to those annoying \"Is this still available?\" messages. You can toggle on the auto-reply option when creating a listing, and Meta AI […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK040_VRG_Illo_N_Barclay_2_facebook.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "xAI de Musk repart de zéro, encore une fois",
+        "title_en": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+        "summary": "xAI relance son projet d'outil d'IA pour le codage avec deux nouveaux dirigeants de Cursor.",
+        "summary_en": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+        "long_summary": "L'équipe de xAI, dirigée par Elon Musk, abandonne une nouvelle fois son projet initial pour se concentrer sur un outil d'IA générative dédié au codage.\n\nPoints clés :\n• xAI recrute deux anciens de Cursor pour relancer son projet.\n• Le laboratoire abandonne une nouvelle fois son approche initiale.\n• Cette décision reflète les défis persistants dans le développement des LLMs.\n\nCette restructuration souligne les difficultés des startups d'IA à rivaliser avec les géants comme OpenAI ou Google.",
+        "long_summary_en": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+        "date": "14 March 2026"
+      },
       {
         "title": "OpenJarvis : le framework open-source pour des agents IA personnels locaux",
         "title_en": "Stanford Researchers Release OpenJarvis: A Local-First Framework for Building On-Device Personal AI Agents with Tools, Memory, and Learning",
@@ -84,102 +180,6 @@
         "image": "https://www.zdnet.com/a/img/resize/bc061af1e914ac28e5d49d6192a606494b8a1180/2026/03/13/f677ffc6-b287-42c4-9e66-e80c91738ff1/untitled-design-2026-03-13t140211-684.jpg?auto=webp&fit=crop&height=675&width=1200",
         "source": "zdnet_ai",
         "url": "https://www.zdnet.com/article/milwaukee-wrench-set-deal-home-depot/",
-        "date": "14 March 2026"
-      },
-      {
-        "title": "Votre agent IA est-il un risque pour la sécurité ? NanoClaw veut l'enfermer dans une cage virtuelle",
-        "title_en": "Is your AI agent a security risk? NanoClaw wants to put it in a virtual cage",
-        "summary": "NanoClaw intègre des agents IA open-source avec Docker pour sécuriser leur déploiement. Une avancée majeure pour la cybersécurité.",
-        "summary_en": "The new partnership enables integration of the open-source AI agent platform with Docker containers. Here's why it's a smart move.",
-        "long_summary": "La nouvelle collaboration permet d'encadrer les agents IA dans des conteneurs Docker pour limiter les risques de sécurité.\n\nPoints clés :\n• Intégration des agents IA open-source avec Docker\n• Renforcement de la sécurité des modèles de langage\n• Solution adaptée aux entreprises et aux développeurs\n\nCette approche pourrait devenir une norme pour le déploiement sécurisé des IA génératives.",
-        "long_summary_en": "The new partnership enables integration of the open-source AI agent platform with Docker containers. Here's why it's a smart move.",
-        "image": "https://www.zdnet.com/a/img/resize/6659202dedbc60309fc338fd05c90b16eeee44b8/2026/03/10/902f5a40-8479-43b7-bdc4-30e48864519f/aicontainersgettyimages-2252957381.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/nanoclaw-docker-sandbox/",
-        "date": "14 March 2026"
-      },
-      {
-        "title": "L'IA va-t-elle vous voler votre emploi ? Une enquête complexe le révèle",
-        "title_en": "Will AI steal your job? It's complicated, new survey reveals",
-        "summary": "Une étude Snowflake montre que les métiers tech évoluent vers la supervision de l'IA plutôt que des compétences basiques.",
-        "summary_en": "New Snowflake survey shows demand for tech jobs evolving away from basic skills toward high-level AI oversight.",
-        "long_summary": "Une nouvelle enquête de Snowflake révèle que la demande pour les métiers tech se déplace vers la supervision de l'IA plutôt que vers des compétences de base.\n\nPoints clés :\n• Les entreprises cherchent des experts en IA pour superviser les modèles de langage comme ceux d'OpenAI ou Google.\n• Les compétences en machine learning et en modèles génératifs deviennent essentielles.\n• Les métiers traditionnels sont transformés plutôt que remplacés par l'IA.\n\nLes implications montrent que l'IA ne remplace pas les emplois, mais les reconfigurent vers des rôles plus stratégiques.",
-        "long_summary_en": "New Snowflake survey shows demand for tech jobs evolving away from basic skills toward high-level AI oversight.",
-        "image": "https://www.zdnet.com/a/img/resize/1aef3f698de25d612229024fc7f5f0a510a34f50/2026/03/10/cfe67e7d-673e-481f-9dcb-3b9885bac6bd/gettyimages-2207848138.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/",
-        "date": "14 March 2026"
-      },
-      {
-        "title": "Une attaque de chaîne d'approvisionnement exploite un code invisible sur GitHub",
-        "title_en": "Supply-chain attack using invisible code hits GitHub and other repositories",
-        "summary": "Des caractères Unicode invisibles à l'œil nu sont utilisés dans des attaques ciblant GitHub et d'autres dépôts.",
-        "summary_en": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-        "long_summary": "Des chercheurs ont découvert des attaques utilisant des caractères Unicode invisibles, autrefois abandonnés, pour compromettre des dépôts de code.\n\nPoints clés :\n• Les attaquants insèrent des caractères invisibles dans le code pour contourner les vérifications.\n• Cette technique permet d'injecter des malwares ou des backdoors dans des projets open source.\n• Les modèles d'IA et les outils de détection peuvent être trompés par ces caractères invisibles.\n\nLes implications sont majeures pour la sécurité des logiciels et la confiance dans les dépôts open source.",
-        "long_summary_en": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/hidden-eye-1152x648.jpg",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
-        "date": "14 March 2026"
-      },
-      {
-        "title": "Les pires cauchemars des gamers sur l'IA deviennent réalité",
-        "title_en": "Gamers’ Worst Nightmares About AI Are Coming True",
-        "summary": "Pénurie de RAM, hausse des prix des consoles et pertes d'emplois : l'IA menace l'industrie du jeu vidéo.",
-        "summary_en": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
-        "long_summary": "L'industrie du jeu vidéo subit de plein fouet les conséquences de l'essor de l'IA, entre pénuries de composants et automatisation.\n\nPoints clés :\n• La pénurie mondiale de RAM fait flamber les prix des consoles\n• L'automatisation menace les emplois dans le développement et le test de jeux\n• Les modèles de langage comme ceux d'OpenAI ou Google pourraient remplacer les scénaristes\n\nL'IA risque de transformer radicalement l'industrie, avec des impacts économiques et culturels majeurs.",
-        "long_summary_en": "From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest casualties.",
-        "image": "https://media.wired.com/photos/69af25ebb25d3d9157fd32fb/191:100/w_1280,c_limit/AI-Swallowing-Gaming-Culture.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/",
-        "date": "14 March 2026"
-      },
-      {
-        "title": "Microsoft Copilot débarque sur les consoles Xbox cette année",
-        "title_en": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
-        "summary": "L’assistant IA Copilot arrive sur les Xbox Series X|S en 2024, intégrant des fonctionnalités avancées de langage et de gaming.",
-        "summary_en": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, r",
-        "long_summary": "Microsoft prépare le déploiement de son assistant IA Copilot sur les consoles Xbox actuelles, selon un rapport de GamesRadar.\n\nPoints clés :\n• Lancement prévu en 2024 sur Xbox Series X|S\n• Développement piloté par Sonali Yadav, product manager gaming AI chez Xbox\n• Intégration future dans d’autres services Microsoft\n\nCette annonce confirme l’ambition de Microsoft d’intégrer l’IA générative dans l’écosystème gaming, renforçant la concurrence avec Google et OpenAI.",
-        "long_summary_en": "Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product manager for gaming AI, revealed the news during a panel at the Game Developers Conference (GDC), adding that the company will also add the assistant to \"more services that […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25676324/twarren_xboxseriesxwhite__6_.JPG?quality=90&strip=all&crop=0%2C10.467829490999%2C100%2C79.064341018002&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
-        "date": "14 March 2026"
-      },
-      {
-        "title": "Les plus grandes avancées de l'IA en 2024 (jusqu'ici)",
-        "title_en": "The biggest AI stories of the year (so far)",
-        "summary": "L'IA domine l'actualité avec des rachats majeurs, des succès indépendants et des débats éthiques.",
-        "summary_en": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
-        "long_summary": "L'industrie de l'IA évolue à un rythme effréné, marquée par des innovations et des controverses.\n\nPoints clés :\n• OpenAI et Google rivalisent sur les modèles de langage avancés\n• Les développeurs indépendants révolutionnent l'IA générative\n• Les négociations contractuelles soulèvent des questions existentielles\n\nCes avancées redéfinissent les limites de l'IA, mais posent aussi des défis éthiques et réglementaires.",
-        "long_summary_en": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
-        "date": "14 March 2026"
-      },
-      {
-        "title": "Steven Spielberg rejette l'IA dans la création cinématographique",
-        "title_en": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
-        "summary": "Spielberg exclut l'IA pour remplacer les créateurs dans le cinéma et la TV, malgré ses usages dans d'autres domaines.",
-        "summary_en": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
-        "long_summary": "Lors du SXSW, le réalisateur a affirmé que l'IA a sa place dans de nombreux secteurs, mais pas pour supplanter les scénaristes.\n\nPoints clés :\n• L'IA ne doit pas remplacer les créateurs dans le cinéma\n• Spielberg valorise l'humain dans l'écriture scénaristique\n• L'IA reste utile dans d'autres industries\n\nL'industrie du divertissement doit trouver un équilibre entre innovation technologique et préservation de la créativité humaine.",
-        "long_summary_en": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/steven-spielberg-GettyImages-2260428164.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
-        "date": "14 March 2026"
-      },
-      {
-        "title": "Nyne révolutionne l'IA en ajoutant du contexte humain aux agents artificiels",
-        "title_en": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-        "summary": "Nyne lève 5,3M$ pour humaniser l'IA avec du contexte réel. Une avancée majeure pour les agents artificiels.",
-        "summary_en": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-        "long_summary": "Fondée par un duo père-fils, Nyne développe une infrastructure de données pour enrichir les modèles d'IA avec du contexte humain.\n\nPoints clés :\n• Levée de 5,3M$ avec Wischoff Ventures et South Park Commons\n• Solution pour combler le manque de compréhension contextuelle des LLMs\n• Potentiel disruptif pour les agents conversationnels et les assistants IA\n\nCette innovation pourrait redéfinir l'interaction entre humains et IA, rendant les agents artificiels plus pertinents et adaptés aux besoins réels.",
-        "long_summary_en": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Nyne.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
         "date": "14 March 2026"
       }
     ],
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "OpenAI envisage d'intégrer Sora, son générateur de vidéos IA, à ChatGPT",
+        "title_en": "OpenAI May Add Sora AI Video Generator to ChatGPT, Report Says | Artificial Intelligence News - News9live",
+        "summary": "OpenAI pourrait intégrer Sora à ChatGPT, boostant la création de vidéos IA directement dans l'interface.",
+        "summary_en": "However, the expansion may ... New Delhi: <strong>OpenAI is reportedly planning to deploy its Sora video generation model as a direct integration with ChatGPT and possibly make it capable of more than",
+        "long_summary": "OpenAI planifierait d'intégrer son modèle Sora de génération vidéo à ChatGPT, élargissant ainsi ses fonctionnalités au-delà du texte et des images.\n\nPoints clés :\n• L'intégration pourrait relancer l'intérêt pour Sora, dont l'usage a décliné en raison de limitations.\n• ChatGPT compte déjà 900 millions d'utilisateurs actifs hebdomadaires, un potentiel énorme pour Sora.\n• Cette intégration pourrait augmenter les coûts infrastructurels d'OpenAI en raison de la demande accrue.\n\nCette fusion pourrait renforcer l'adoption de l'IA générative tout en posant des défis logistiques et économiques.",
+        "long_summary_en": "Artificial Intelligence News OpenAI may add Sora AI Video generator to ChatGPT, report says OpenAI is reportedly planning to integrate its Sora video generation model directly into ChatGPT, allowing users to create AI-generated videos within the app. The move could help revive interest in Sora and expand ChatGPT’s user base, which already has around 900 million weekly active users. Pragya Singha Roy Published: 14 Mar 2026 10:42:AM However, the expansion may significantly increase OpenAI’s AI infrastructure costs as demand for video generation grows. New Delhi: OpenAI is reportedly planning to ",
+        "image": "https://images.news9live.com/wp-content/uploads/2024/12/Sora-1.png",
+        "source": "News9Live",
+        "url": "https://www.news9live.com/technology/artificial-intelligence/openai-may-add-sora-ai-video-generator-to-chatgpt-report-says-2942990",
+        "date": "14 March 2026"
+      },
+      {
         "title": "ChatGPT intègre Sora AI pour générer des vidéos à partir de texte",
         "title_en": "ChatGPT to Get Built-In Sora AI Video Generation Feature",
         "summary": "OpenAI intègre Sora dans ChatGPT pour créer des vidéos via l'IA, marquant une avancée majeure en multimodalité.",
@@ -533,21 +545,93 @@
         "source": "Reuters",
         "url": "https://www.reuters.com/business/openai-plans-launch-its-sora-video-tool-chatgpt-information-reports-2026-03-11/",
         "date": "12 March 2026"
-      },
-      {
-        "title": "Les modèles IA sur mesure révolutionnent le cinéma",
-        "title_en": "Bespoke AI models are the next big thing in filmmaking",
-        "summary": "Les modèles IA personnalisés comme Sora et Runway transforment le cinéma, mais les promesses d'une révolution totale restent prématurées.",
-        "summary_en": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what peopl",
-        "long_summary": "Les modèles IA génératifs comme Sora, Veo et Runway promettent de révolutionner le cinéma, mais leurs résultats actuels restent limités.\n\nPoints clés :\n• Les modèles IA peinent à créer des films complets de qualité professionnelle\n• Les outils existants sont plutôt des assistants que des remplaçants pour les créateurs\n• Les studios explorent des usages hybrides combinant IA et travail humain\n\nLes implications sont majeures pour l'industrie, avec des gains de productivité potentiels mais aussi des défis éthiques et créatifs à relever.",
-        "long_summary_en": "Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature when you see what people are making with the most popular image/video models on the market. Models like Sora, Veo, and Runway just do not seem all that […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2247850099.jpg?quality=90&strip=all&crop=0%2C10.756336666495%2C100%2C78.487326667009&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
-        "date": "12 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Pourquoi les utilisateurs quittent ChatGPT en 2026 ? Raisons et alternatives",
+        "title_en": "Why Are People Leaving ChatGPT in 2026? Real Reasons & Best Alternatives | NxCode",
+        "summary": "ChatGPT perd des utilisateurs en 2026 face à des alternatives plus performantes. Décryptage des raisons et solutions.",
+        "summary_en": "Anthropic&#x27;s Claude has positioned itself as the privacy-conscious alternative, with a firm policy of not training on user conversations by default. DeepSeek&#x27;s open-source models can be self-",
+        "long_summary": "ChatGPT, pionnier de l'IA grand public, voit son hégémonie s'effriter en 2026. Les utilisateurs migrent vers des concurrents comme Google Gemini ou Anthropic.\n\nPoints clés :\n• Perte de parts de marché (60% à 45% en un an)\n• Concurrence accrue avec des modèles plus performants\n• Critiques sur les limitations techniques et éthiques\n\nConclusion sur les implications : L'IA générative évolue rapidement, et ChatGPT doit innover pour rester leader.",
+        "long_summary_en": "N NxCode Team 2026-03-13 • 10 min read Disclosure: This article is published by NxCode. Some products or services mentioned may include NxCode's own offerings. We strive to provide accurate, objective analysis to help you make informed decisions. Pricing and features were accurate at the time of writing. Why Are People Leaving ChatGPT in 2026? The Real Reasons and Best Alternatives March 2026 — ChatGPT was the app that brought AI to the mainstream. It hit 100 million users faster than any product in history. For two years, \"ChatGPT\" was practically synonymous with \"AI.\" That dominance is slipp",
+        "image": "/images/news/why-leaving-chatgpt-2026.svg",
+        "source": "Nxcode",
+        "url": "https://www.nxcode.io/resources/news/why-people-leaving-chatgpt-alternatives-2026",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "OpenAI et Google révolutionnent l'IA avec GPT-5.4 et Gemini 3.1 Flash Lite",
+        "title_en": "LWiAI Podcast #236 - GPT 5.4, Gemini 3.1 Flash Lite, Supply Chain Risk",
+        "summary": "OpenAI et Google dévoilent des IA plus puissantes et économiques, avec des risques de sécurité et d'efficacité en question.",
+        "summary_en": "<strong>OpenAI launches GPT-5.4 with Pro and Thinking versions, Google releases Gemini 3.1 Flash Lite at 1/8th the cost of Pro</strong>, Where things stand with the Department of War Anthropic ...",
+        "long_summary": "Les géants de l'IA accélèrent l'innovation avec des modèles plus performants et accessibles.\n\nPoints clés :\n• OpenAI lance GPT-5.4 Pro avec une fenêtre de contexte de 1M tokens et des capacités avancées de sécurité\n• Google propose Gemini 3.1 Flash Lite à 1/8e du coût de la version Pro, avec des risques d'agents défaillants\n• Les modèles améliorent l'efficacité mais soulèvent des questions sur la fiabilité et l'éthique\n\nConclusion sur les implications : Ces avancées montrent une course à l'IA plus performante, mais les risques opérationnels et éthiques restent critiques.",
+        "long_summary_en": "Podcast LWiAI Podcast #236 - GPT 5.4, Gemini 3.1 Flash Lite, Supply Chain Risk 12 2 1× 0:00 Current time: 0:00 / Total time: -1:28:34 -1:28:34 Audio playback is not supported on your browser. Please upgrade. LWiAI Podcast #236 - GPT 5.4, Gemini 3.1 Flash Lite, Supply Chain Risk OpenAI launches GPT-5.4 with Pro and Thinking versions, Google releases Gemini 3.1 Flash Lite at 1/8th the cost of Pro, Where things stand with the Department of War Anthropic Last Week in AI Mar 13, 2026 12 2 Share Transcript Our 236th episode with a summary and discussion of last week’s big AI news! Recorded on 03/06/",
+        "image": "https://substackcdn.com/image/youtube/w_728,c_limit/On4oQsNjIYk",
+        "source": "Lastweekin",
+        "url": "https://lastweekin.ai/p/lwiai-podcast-236-gpt-54-gemini-31",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "Garry Tan lance gstack : un système open-source pour optimiser le développement logiciel avec l'IA",
+        "title_en": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
+        "summary": "gstack, un outil open-source basé sur Claude Code, révolutionne le développement logiciel en séparant planification, revue de code, QA et déploiement.",
+        "summary_en": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-s",
+        "long_summary": "Garry Tan propose une nouvelle approche du développement logiciel assisté par IA avec gstack, un outil open-source qui structure le processus en 8 compétences spécialisées.\n\nPoints clés :\n• Sépare planification, revue de code, QA et déploiement en modes distincts\n• Utilise Claude Code avec un runtime navigateur persistant\n• Open-source pour une adoption flexible et collaborative\n\nCette innovation pourrait standardiser les workflows IA en développement logiciel, réduisant les erreurs et accélérant les livraisons.",
+        "long_summary_en": "What if AI-assisted coding became more reliable by separating product planning, engineering review, release, and QA into distinct operating modes? That is the idea behind Garry Tan’s gstack, an open-source toolkit that packages Claude Code into 8 opinionated workflow skills backed by a persistent browser runtime. The tookit describes itself as ‘Eight opinionated workflow skills […]\nThe post Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping appeared first on MarkTechPost.",
+        "image": "",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "Demander des conseils médicaux à l'IA ? Il y a une bonne et une mauvaise façon de faire, selon un médecin",
+        "title_en": "Asking AI for medical advice? There's a right and wrong way, one doctor explains",
+        "summary": "Les outils IA santé de Microsoft, Google et OpenAI nécessitent une utilisation éclairée. Les experts donnent leurs conseils.",
+        "summary_en": "Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools. Here's how to use them, according to experts.",
+        "long_summary": "Les géants de la tech déploient des outils d'IA médicale. Comment les utiliser sans risques ?\n\nPoints clés :\n• Les LLMs peuvent aider à trier l'information médicale, mais ne remplacent pas un diagnostic.\n• Les experts recommandent de croiser les sources et de consulter un professionnel de santé.\n• L'IA générative doit être utilisée avec prudence pour éviter les erreurs critiques.\n\nConclusion sur les implications : L'IA peut améliorer l'accès à l'information médicale, mais son usage doit rester complémentaire à l'expertise humaine.",
+        "long_summary_en": "Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools. Here's how to use them, according to experts.",
+        "image": "https://www.zdnet.com/a/img/resize/31c38e7511de67fd33e160650914c726495efda8/2026/03/13/d6c807dc-7d4d-4f65-bc95-bbd9be588eb2/gettyimages-2217535730.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "Le mode vocal de ChatGPT n'est plus un gadget : 7 cas d'usage qui m'ont convaincu",
+        "title_en": "I thought ChatGPT's voice mode was a gimmick - these 7 use cases changed my mind",
+        "summary": "Le mode vocal de ChatGPT, autrefois limité, révèle désormais des applications concrètes grâce aux progrès des LLMs.",
+        "summary_en": "Voice Mode fabricated answers the last time I used it, but a revisit revealed that it's actually useful now.",
+        "long_summary": "Initialement sceptique face au mode vocal de ChatGPT, une réévaluation révèle des améliorations majeures.\n\nPoints clés :\n• Intégration fluide avec les assistants vocaux\n• Réponses plus précises grâce aux modèles de langage améliorés\n• Applications pratiques dans l'éducation et la productivité\n\nConclusion sur les implications : Les progrès des LLMs transforment les assistants vocaux en outils indispensables.",
+        "long_summary_en": "Voice Mode fabricated answers the last time I used it, but a revisit revealed that it's actually useful now.",
+        "image": "https://www.zdnet.com/a/img/resize/7aad59c7d1596f83df1dadac53ab915c43d89496/2025/11/26/9bcbdb03-f5a2-4df4-affd-a335cad87c43/like-to-chat-with-chatgpt-by-voice-youll-love-this-new-feature.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/chatgpt-voice-mode-tricks/",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "Google Maps révolutionne la navigation avec l'IA Gemini",
+        "title_en": "Google&#8217;s biggest Maps update in a decade puts Gemini in the passenger seat",
+        "summary": "Google Maps intègre l'IA pour des requêtes naturelles et une navigation 3D immersive, sa plus grande mise à jour depuis Street View.",
+        "summary_en": "Ask Maps lets users query the world in natural language. Immersive Navigation rebuilds directions in 3D. Together, they mark the most significant overhaul of Google Maps since Street View. The questio",
+        "long_summary": "Google Maps lance une mise à jour majeure avec Ask Maps, permettant des requêtes en langage naturel, et Immersive Navigation, offrant des directions en 3D.\n\nPoints clés :\n• Ask Maps utilise l'IA pour répondre à des questions complexes comme 'Où puis-je recharger mon téléphone rapidement ?'\n• Immersive Navigation recrée les trajets en 3D pour une expérience plus intuitive\n• Cette refonte est la plus importante depuis l'introduction de Street View\n\nCette innovation positionne Google Maps comme un leader dans l'intégration de l'IA générative, rivalisant avec les modèles d'OpenAI et Anthropic.",
+        "long_summary_en": "Ask Maps lets users query the world in natural language. Immersive Navigation rebuilds directions in 3D. Together, they mark the most significant overhaul of Google Maps since Street View. The question Google is now asking its users to ask Maps is: “My phone is dying, where can I charge it without a long wait for […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FGoogle-Maps-launches-Ask-Maps.png&signature=fcd7e9e7fad8d3b334a42ba94c3a1f1e",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/google-maps-launches-ask-maps",
+        "date": "14 March 2026"
+      },
+      {
+        "title": "Palantir montre comment l'armée pourrait utiliser des chatbots IA pour planifier des guerres",
+        "title_en": "Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans",
+        "summary": "Des démonstrations de Palantir révèlent comment des chatbots comme Claude pourraient aider le Pentagone à analyser des données et suggérer des stratégies.",
+        "summary_en": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
+        "long_summary": "Des démonstrations et des documents du Pentagone montrent comment des modèles de langage comme Claude d'Anthropic pourraient révolutionner la planification militaire.\n\nPoints clés :\n• Les chatbots IA pourraient analyser des données d'intelligence en temps réel\n• Des suggestions stratégiques générées par l'IA pourraient accélérer la prise de décision\n• Des entreprises comme Palantir, OpenAI et Google développent des solutions pour le secteur militaire\n\nL'intégration de l'IA dans les opérations militaires soulève des questions éthiques et de sécurité, tout en promettant des gains d'efficacité.",
+        "long_summary_en": "Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest next steps.",
+        "image": "https://media.wired.com/photos/69af2189bf4114a40fa286f0/191:100/w_1280,c_limit/How-Palantir-Deploys-Claude-for-US%20Military-Business-2256533238.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/",
+        "date": "14 March 2026"
+      },
       {
         "title": "En 2026, les entreprises préfèrent Claude d'Anthropic à ChatGPT d'OpenAI",
         "title_en": "Businesses Are Choosing Anthropic’s Claude AI Over OpenAI's ChatGPT in 2026",
@@ -643,93 +727,21 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
         "date": "13 March 2026"
-      },
-      {
-        "title": "Gemini révolutionne l'automatisation des tâches : et c'est impressionnant",
-        "title_en": "Gemini’s task automation is here and it’s wild",
-        "summary": "Google et Samsung intègrent l'automatisation des tâches via Gemini, permettant à l'IA de gérer des commandes et réservations à votre place.",
-        "summary_en": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to us",
-        "long_summary": "Google et Samsung ont annoncé une avancée majeure avec Gemini : l'automatisation des tâches via des applications tierces.\n\nPoints clés :\n• Gemini peut désormais interagir avec des apps comme Uber Eats ou Lyft dans une fenêtre virtuelle\n• L'IA gère des tâches comme commander un repas ou réserver un trajet\n• Cette fonctionnalité sera déployée sur les nouveaux appareils des deux géants tech\n\nCette innovation marque un tournant dans l'automatisation intelligente, rivalisant avec les solutions d'OpenAI et Anthropic.",
-        "long_summary_en": "A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food delivery and rideshare apps, Gemini would be able to use certain apps on your behalf in a virtual window to take care of things like ordering dinner or getting a car to […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dsc03087_processed.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
-        "date": "13 March 2026"
-      },
-      {
-        "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
-        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "summary": "Analyse détaillée des tarifs des modèles Grok, Gemini, GPT-4o et Claude en 2026. Des écarts significatifs selon les fournisseurs.",
-        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Mu",
-        "long_summary": "Cette étude compare les modèles de tarification des API d'IA leaders en 2026, avec des différences marquées entre les fournisseurs.\n\nPoints clés :\n• Grok 4.1 est le moins cher ($0,20/$0,50 par million de tokens)\n• GPT-5.2 et Gemini 3.1 Pro sont les plus coûteux\n• Claude propose une gamme de prix selon les modèles\n\nConclusion sur les implications : Les entreprises doivent évaluer leurs besoins en tokens pour optimiser leurs coûts.",
-        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 3/12/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2",
-        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-        "date": "13 March 2026"
-      },
-      {
-        "title": "Claude vs ChatGPT vs Copilot vs Gemini : Guide 2026 pour les entreprises",
-        "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-        "summary": "Comparaison des leaders IA en 2026 : ChatGPT, Claude, Copilot et Gemini pour les entreprises.",
-        "summary_en": "While no public metrics exist, vendor claims are notable: Anthropic insists its Claude has lower “falsehood rates” and shows internal citations to sources. OpenAI has begun offering “agentic retrieval",
-        "long_summary": "Le marché des modèles de langage pour entreprises s'est recentré autour de quatre géants en 2026.\n\nPoints clés :\n• ChatGPT domine avec une adoption massive dans les grandes entreprises\n• Claude mise sur la sécurité et des fenêtres de contexte étendues\n• Copilot offre une intégration profonde dans l'écosystème Microsoft\n• Gemini propose une expérience unifiée via Google Cloud et Workspace\n\nConclusion sur les implications : Ces solutions redéfinissent la productivité et la sécurité des données en entreprise.",
-        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 3/12/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative",
-        "image": "https://intuitionlabs.ai/images/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-        "date": "13 March 2026"
-      },
-      {
-        "title": "Mises à jour IA en mars 2026 : les nouveaux modèles qui révolutionnent l'intelligence artificielle",
-        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
-        "summary": "Mars 2026 marque l'arrivée de modèles IA performants comme DeepSeek R1 Zero et GPT-5.4, avec des scores GPQA impressionnants.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Le mois de mars 2026 est marqué par une vague de lancements de modèles d'IA avancés, avec des améliorations significatives en raisonnement et en performance.\n\nPoints clés :\n• DeepSeek R1 Zero et GPT-5.4 dominent les classements GPQA avec des scores supérieurs à 0.8\n• Google et NVIDIA sortent des modèles open-source et propriétaires performants\n• Les modèles multimodaux et multi-agents gagnent en popularité\n\nConclusion sur les implications. Ces avancées accélèrent l'adoption de l'IA dans des secteurs variés, tout en soulevant des questions sur l'éthique et la régulation.",
-        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases DeepSeek R1 Zero · GPQA 0.7 Gemma 3 27B · GPQA 0.4 Claude Sonnet 4.5 · GPQA 0.8 Gemma 3 1B · GPQA 0.2 Gemma 3 12B · GPQA 0.4 GPT OSS 20B · GPQA 0.7 Gemini 2.0 Flash Thinking · GPQA 0.7 Kimi K2 0905 · GPQA 0.8 Kimi K2-Thinking-0905 · GPQA 0.8 Llama 3.3 70B Instruct · GPQA 0.5 Min istral 3 (3B Reasoning 2512) · GPQA 0.5 Llama 4 Scout · GPQA 0.6 Llama 3.1 Nemotron Ultra 253B v1 · GPQA 0.8 Gemini 3 Pro · GPQA 0.9 Gemini 1.5 Pro · GPQA 0.6 Grok-3 · GPQA 0.8 DeepSeek-V3.2 (Thinking) · GPQA 0.8 DeepSeek R1 Distill Qwen 1.5B · GPQA 0.3 DeepSeek ",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "13 March 2026"
-      },
-      {
-        "title": "L'IA en 2024 : les dernières avancées et défis technologiques",
-        "title_en": "Artificial Intelligence: Read latest news updates on AI technology | The Indian Express",
-        "summary": "Découvrez les dernières innovations en IA, des LLMs aux modèles génératifs, et leurs impacts sur l'industrie.",
-        "summary_en": "Artificial Intelligence: Read latest updates on AI like Google AI, ChatGPT, Google Lamda, Bard chatbot and more along with latest news as AI technology advances and makes new progress. All get detaile",
-        "long_summary": "L'intelligence artificielle continue de révolutionner les secteurs technologiques, avec des modèles de langage toujours plus performants.\n\nPoints clés :\n• Les LLMs d'OpenAI, Google et Anthropic repoussent les limites du traitement du langage.\n• L'IA générative transforme la création de contenu, mais soulève des questions éthiques.\n• Les régulations se renforcent face aux risques liés à l'IA.\n\nConclusion sur les implications : L'IA reste un domaine en pleine expansion, mais son développement doit s'accompagner de cadres éthiques et juridiques solides.",
-        "long_summary_en": "skip to content",
-        "image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
-        "source": "Indianexpress",
-        "url": "https://indianexpress.com/section/technology/artificial-intelligence/",
-        "date": "13 March 2026"
-      },
-      {
-        "title": "Google AI révolutionne l'analyse des données avec Groundsource",
-        "title_en": "Google AI Introduces ‘Groundsource’: A New Methodology that Uses Gemini Model to Transform Unstructured Global News into Actionable, Historical Data",
-        "summary": "Google AI utilise Gemini pour structurer des données historiques à partir d'articles non organisés sur les catastrophes naturelles.",
-        "summary_en": "Google AI Research team recently released Groundsource, a new methodology that uses Gemini model to extract structured historical data from unstructured public news reports. The project addresses the ",
-        "long_summary": "L'équipe de recherche de Google AI a développé Groundsource, une méthode exploitant le modèle Gemini pour transformer des articles non structurés en données exploitables.\n\nPoints clés :\n• Extraction de 2,6 millions d'événements de crues urbaines à partir de sources publiques\n• Solution au manque de données historiques sur les catastrophes naturelles soudaines\n• Dataset ouvert pour améliorer la préparation aux risques\n\nCette innovation pourrait révolutionner la gestion des catastrophes et l'analyse des risques climatiques.",
-        "long_summary_en": "Google AI Research team recently released Groundsource, a new methodology that uses Gemini model to extract structured historical data from unstructured public news reports. The project addresses the lack of historical data for rapid-onset natural disasters. Its first output is an open-source dataset containing 2.6 million historical urban flash flood events across more than 150 […]\nThe post Google AI Introduces ‘Groundsource’: A New Methodology that Uses Gemini Model to Transform Unstructured Global News into Actionable, Historical Data appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-38-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/13/google-ai-introduces-groundsource-a-new-methodology-that-uses-gemini-model-to-transform-unstructured-global-news-into-actionable-historical-data/",
-        "date": "13 March 2026"
-      },
-      {
-        "title": "MCP vs. Compétences d'Agents IA : Comparaison des Outils Structurés et de la Guidance Comportementale",
-        "title_en": "Model Context Protocol (MCP) vs. AI Agent Skills: A Deep Dive into Structured Tools and Behavioral Guidance for LLMs",
-        "summary": "Deux approches clés émergent pour améliorer les agents IA : les compétences et le MCP. Décryptage de leurs différences et implications.",
-        "summary_en": "In recent times, many developments in the agent ecosystem have focused on enabling AI agents to interact with external tools and access domain-specific knowledge more effectively. Two common approache",
-        "long_summary": "Les agents IA évoluent pour mieux interagir avec des outils externes et accéder à des connaissances spécialisées. Deux méthodes se distinguent : les compétences et le MCP.\n\nPoints clés :\n• Les compétences d'agents IA structurent des actions spécifiques pour des tâches ciblées\n• Le MCP (Model Context Protocol) cadre l'exécution des tâches via des protocoles standardisés\n• Différences clés dans la flexibilité, la maintenance et l'intégration avec les LLMs\n\nCes approches révolutionnent la manière dont les modèles de langage interagissent avec leur environnement, ouvrant la voie à des agents plus autonomes et performants.",
-        "long_summary_en": "In recent times, many developments in the agent ecosystem have focused on enabling AI agents to interact with external tools and access domain-specific knowledge more effectively. Two common approaches that have emerged are skills and MCPs. While they may appear similar at first, they differ in how they are set up, how they execute tasks, […]\nThe post Model Context Protocol (MCP) vs. AI Agent Skills: A Deep Dive into Structured Tools and Behavioral Guidance for LLMs appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-1-4-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/13/model-context-protocol-mcp-vs-ai-agent-skills-a-deep-dive-into-structured-tools-and-behavioral-guidance-for-llms/",
-        "date": "13 March 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Uber founder Travis Kalanick launches robotics company Atoms",
+        "title_en": "Uber founder Travis Kalanick launches robotics company Atoms",
+        "summary": "The Uber founder re-emerges with Atoms, a stealth robotics venture that quietly employed thousands before going public, and a philosophy about ‘gainfully employed robots’ that sounds a lot like Uber, ",
+        "summary_en": "The Uber founder re-emerges with Atoms, a stealth robotics venture that quietly employed thousands before going public, and a philosophy about ‘gainfully employed robots’ that sounds a lot like Uber, ",
+        "long_summary": "The Uber founder re-emerges with Atoms, a stealth robotics venture that quietly employed thousands before going public, and a philosophy about ‘gainfully employed robots’ that sounds a lot like Uber, but for warehouses. For eight years, Travis Kalanick ran a company whose thousands of employees were not allowed to list their employer publicly. On March […]\nThis story continues at The Next Web",
+        "long_summary_en": "The Uber founder re-emerges with Atoms, a stealth robotics venture that quietly employed thousands before going public, and a philosophy about ‘gainfully employed robots’ that sounds a lot like Uber, but for warehouses. For eight years, Travis Kalanick ran a company whose thousands of employees were not allowed to list their employer publicly. On March […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FTravis-Kalanick-launches-robotics-company-Atoms.png&signature=6c1c2180ac650ea897368439148c4bc4",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/uber-founder-travis-kalanick-launches-robotics-company-atoms",
+        "date": "14 March 2026"
+      },
       {
         "title": "L'IA révolutionne les systèmes audio : l'offre exceptionnelle de LG",
         "title_en": "We highly recommend this high-end LG home audio system - and it's nearly half off",
@@ -897,22 +909,17 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
         "date": "06 March 2026"
-      },
-      {
-        "title": "Bluetooth révolutionne l'audio sans fil avec des protocoles lossless et spatial",
-        "title_en": "Bluetooth is working on wireless audio tech I once thought was impossible - what to know",
-        "summary": "Bluetooth développe des standards pour un audio sans perte et spatial, une avancée majeure pour l'écoute immersive.",
-        "summary_en": "The Bluetooth Special Interest Group says it's working on standard protocols for lossless and spatial audio.",
-        "long_summary": "Le Bluetooth Special Interest Group travaille sur des protocoles innovants pour l'audio sans fil.\n\nPoints clés :\n• Standardisation de l'audio lossless pour une qualité sonore optimale\n• Intégration de l'audio spatial pour une expérience immersive\n• Potentiel d'intégration avec les assistants vocaux et l'IA générative\n\nCette avancée pourrait transformer les écouteurs et enceintes sans fil, ouvrant la voie à des expériences audio plus riches et personnalisées.",
-        "long_summary_en": "The Bluetooth Special Interest Group says it's working on standard protocols for lossless and spatial audio.",
-        "image": "https://www.zdnet.com/a/img/resize/f7006afdc6189273b2854e9e86546a0e441a874d/2026/02/11/a56e8be4-a109-4f38-9c57-1897bd79ebf9/xm6e-2.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/bluetooth-special-interest-group-lossless-spatial-audio-development/",
-        "date": "05 March 2026"
       }
     ]
   },
   "hotNews": [
+    {
+      "title": "WordPress lance des plugins officiels pour ChatGPT, Gemini et Claude",
+      "title_en": "WordPress Launches AI Plugins for ChatGPT, Gemini, and Claude",
+      "source": "Rswebsols",
+      "url": "https://www.rswebsols.com/news/wordpress-launches-official-ai-plugins-for-chatgpt-gemini-and-claude-what-you-need-to-know/",
+      "date": "07 March 2026"
+    },
     {
       "title": "En 2026, les entreprises préfèrent Claude d'Anthropic à ChatGPT d'OpenAI",
       "title_en": "Businesses Are Choosing Anthropic’s Claude AI Over OpenAI's ChatGPT in 2026",
@@ -921,18 +928,11 @@
       "date": "14 March 2026"
     },
     {
-      "title": "Comparaison des prix des API IA en 2026 : Grok, Gemini, GPT-4o et Claude",
-      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-      "date": "13 March 2026"
-    },
-    {
-      "title": "WordPress lance des plugins officiels pour ChatGPT, Gemini et Claude",
-      "title_en": "WordPress Launches AI Plugins for ChatGPT, Gemini, and Claude",
-      "source": "Rswebsols",
-      "url": "https://www.rswebsols.com/news/wordpress-launches-official-ai-plugins-for-chatgpt-gemini-and-claude-what-you-need-to-know/",
-      "date": "07 March 2026"
+      "title": "OpenAI et Google révolutionnent l'IA avec GPT-5.4 et Gemini 3.1 Flash Lite",
+      "title_en": "LWiAI Podcast #236 - GPT 5.4, Gemini 3.1 Flash Lite, Supply Chain Risk",
+      "source": "Lastweekin",
+      "url": "https://lastweekin.ai/p/lwiai-podcast-236-gpt-54-gemini-31",
+      "date": "14 March 2026"
     }
   ]
 }
