@@ -167,15 +167,32 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
-# Mistral API for translation
-# Mistral API key from secrets file
-def get_mistral_key():
+# Gemini CLI for summaries (replaces Mistral)
+import subprocess
+
+def call_gemini(prompt):
+    """Call Gemini CLI for text generation."""
     try:
-        with open("/home/ubuntu/.openclaw/workspace/.secrets/mistral.key") as f:
-            return f.read().strip()
-    except:
-        return os.environ.get("MISTRAL_API_KEY", "")
-MISTRAL_API_KEY = get_mistral_key()
+        result = subprocess.run(
+            ["gemini", "-p", prompt],
+            capture_output=True,
+            text=True,
+            timeout=90
+        )
+        if result.returncode == 0:
+            return result.stdout.strip()
+        else:
+            print(f"  Gemini CLI error: {result.stderr[:100]}")
+            return None
+    except subprocess.TimeoutExpired:
+        print("  Gemini CLI timeout")
+        return None
+    except FileNotFoundError:
+        print("  Gemini CLI not found")
+        return None
+    except Exception as e:
+        print(f"  Gemini error: {e}")
+        return None
 
 def clean_prompt_leaks(text):
     """Remove any leaked prompt instructions from text."""
@@ -207,62 +224,31 @@ def clean_prompt_leaks(text):
     return cleaned
 
 def generate_article_summary(title, content, url):
-    """Generate professional FR/EN summaries using Mistral."""
-    if not MISTRAL_API_KEY:
-        return {
-            "title": title,
-            "title_en": title,
-            "summary": content[:200],
-            "summary_en": content[:200],
-            "long_summary": content,
-            "long_summary_en": content
-        }
+    """Generate professional FR/EN summaries using Gemini CLI."""
     
     prompt = f"""Tu es un journaliste spécialisé en Intelligence Artificielle. Génère un article structuré en FR et EN sur cette actualité IA.
 
 TITRE ORIGINAL: {title}
-CONTENU: {content}
+CONTENU: {content[:2000]}
 
-FOCUS: Intelligence Artificielle, Machine Learning, LLMs, AI générative, modèles de langage, OpenAI, Google, Anthropic, etc.
+FORMAT DE RÉPONSE - JSON strict uniquement, sans markdown:
+{{"title": "Titre accrocheur traduit en français", "title_en": "Original or improved English title", "summary": "Résumé FR percutant en 1-2 phrases (max 150 caractères)", "summary_en": "Punchy EN summary in 1-2 sentences (max 150 chars)", "long_summary": "Contexte. Points clés: • Point 1 • Point 2 • Point 3. Conclusion.", "long_summary_en": "Context. Key points: • Point 1 • Point 2 • Point 3. Conclusion."}}
 
-FORMAT DE RÉPONSE - JSON strict:
-{{
-  "title": "Titre accrocheur traduit en français",
-  "title_en": "Original or improved English title",
-  "summary": "Résumé FR percutant en 1-2 phrases (max 150 caractères)",
-  "summary_en": "Punchy EN summary in 1-2 sentences (max 150 chars)",
-  "long_summary": "Contexte en 1-2 phrases.\\n\\nPoints clés :\\n• Premier point important\\n• Deuxième point\\n• Troisième point\\n\\nConclusion sur les implications.",
-  "long_summary_en": "Context in 1-2 sentences.\\n\\nKey points:\\n• First key point\\n• Second point\\n• Third point\\n\\nConclusion on implications."
-}}
-
-RÈGLES STRICTES:
-- NE PAS inclure de texte entre crochets comme [Contexte:] ou [Conclusion:]
-- Écrire directement le contenu, pas des instructions
-- Utiliser • pour les bullet points
-- JSON valide uniquement, pas de markdown"""
+RÈGLES: JSON valide uniquement, pas de markdown, pas de texte avant/après."""
 
     try:
-        resp = requests.post(
-            "https://api.mistral.ai/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {MISTRAL_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "mistral-small-latest",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": 1500
-            },
-            timeout=60
-        )
-        if resp.status_code == 200:
-            result = resp.json()["choices"][0]["message"]["content"].strip()
+        result = call_gemini(prompt)
+        if result:
             # Remove markdown code blocks if present
             result = re.sub(r'^```json\s*', '', result)
             result = re.sub(r'\s*```$', '', result)
+            result = re.sub(r'^```\s*', '', result)
+            # Try to extract JSON from response
+            json_match = re.search(r'\{[^{}]*"title"[^{}]*\}', result, re.DOTALL)
+            if json_match:
+                result = json_match.group(0)
             parsed = json.loads(result)
             
-            # Clean any leaked prompts from all fields
             return {
                 "title": clean_prompt_leaks(parsed.get("title", title)),
                 "title_en": clean_prompt_leaks(parsed.get("title_en", title)),
@@ -271,8 +257,6 @@ RÈGLES STRICTES:
                 "long_summary": clean_prompt_leaks(parsed.get("long_summary", content)),
                 "long_summary_en": clean_prompt_leaks(parsed.get("long_summary_en", content))
             }
-        else:
-            print(f"  API error: {resp.status_code} - {resp.text[:100]}")
     except Exception as e:
         print(f"Summary generation error: {e}")
     
