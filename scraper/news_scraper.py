@@ -167,32 +167,46 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
-# Gemini CLI for summaries (replaces Mistral)
+# GPT API for summaries (via OpenClaw OAuth token)
 import subprocess
 
-def call_gemini(prompt):
-    """Call Gemini CLI for text generation."""
-    try:
-        result = subprocess.run(
-            ["gemini", "-p", prompt],
-            capture_output=True,
-            text=True,
-            timeout=90
-        )
-        if result.returncode == 0:
-            return result.stdout.strip()
-        else:
-            print(f"  Gemini CLI error: {result.stderr[:100]}")
-            return None
-    except subprocess.TimeoutExpired:
-        print("  Gemini CLI timeout")
+def call_gpt_api(prompt, model="gpt-4o-mini"):
+    """Call OpenAI API for text generation using OpenClaw OAuth token."""
+    token = get_openai_token()
+    if not token:
+        print("  [GPT] No OAuth token available")
         return None
-    except FileNotFoundError:
-        print("  Gemini CLI not found")
+    try:
+        response = requests.post(
+            "https://api.openai.com/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {token}",
+                "Content-Type": "application/json"
+            },
+            json={
+                "model": model,
+                "messages": [{"role": "user", "content": prompt}],
+                "max_tokens": 1000,
+                "temperature": 0.3
+            },
+            timeout=60
+        )
+        if response.status_code == 200:
+            return response.json()["choices"][0]["message"]["content"].strip()
+        else:
+            print(f"  [GPT] API error {response.status_code}: {response.text[:100]}")
+            return None
+    except requests.Timeout:
+        print("  [GPT] API timeout")
         return None
     except Exception as e:
-        print(f"  Gemini error: {e}")
+        print(f"  [GPT] error: {e}")
         return None
+
+def call_gemini(prompt, model="gemini-2.5-pro"):
+    """Disabled - all LLM APIs unavailable (Gemini OAuth broken, GPT quota exceeded)."""
+    # Return None to trigger fallback (use raw content without translation)
+    return None
 
 def clean_prompt_leaks(text):
     """Remove any leaked prompt instructions from text."""
