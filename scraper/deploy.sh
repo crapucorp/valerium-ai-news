@@ -37,7 +37,7 @@ fi
 
 # Check if news.json was updated
 if [ -f "$NEWS_DIR/news.json" ]; then
-    # Git push (news.json only)
+    # Git push (news.json only) - using SSH deploy key
     echo "Pushing news.json to GitHub..." | tee -a "$LOG_FILE"
     cd "$NEWS_DIR"
     git add news.json
@@ -46,8 +46,10 @@ if [ -f "$NEWS_DIR/news.json" ]; then
         echo "No changes to commit" | tee -a "$LOG_FILE"
     else
         git commit -m "Auto-update news $(date '+%Y-%m-%d %H:%M')" | tee -a "$LOG_FILE"
-        git remote set-url origin "https://$(cat $TOKEN_FILE)@github.com/crapucorp/valerium-ai-news.git"
-        if git push 2>&1 | tee -a "$LOG_FILE"; then
+        # Use SSH with deploy key (PAT was revoked 2026-03-15)
+        git remote set-url origin git@github.com:crapucorp/valerium-ai-news.git
+        export GIT_SSH_COMMAND="ssh -i ~/.ssh/ohvali_deploy -o IdentitiesOnly=yes"
+        if git push origin main 2>&1 | tee -a "$LOG_FILE"; then
             echo "Push successful" | tee -a "$LOG_FILE"
         else
             echo "Push failed" | tee -a "$LOG_FILE"
