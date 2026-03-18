@@ -1,7 +1,175 @@
 {
-  "lastUpdate": "18 March 2026 - 12:30",
+  "lastUpdate": "18 March 2026 - 18:30",
   "categories": {
     "general": [
+      {
+        "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+        "title_en": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classifi",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classifi",
+        "long_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says  The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their…",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says  The Pentagon plans to set up secure environments for generative AI companies to train military-specific versions of their…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/classified-data.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want",
+        "title_en": "Best Desks of 2026: I’ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want",
+        "summary": "No need to filter through the thousands of desk options available, our experts have found the best desks of 2026.",
+        "summary_en": "No need to filter through the thousands of desk options available, our experts have found the best desks of 2026.",
+        "long_summary": "No need to filter through the thousands of desk options available, our experts have found the best desks of 2026.",
+        "long_summary_en": "No need to filter through the thousands of desk options available, our experts have found the best desks of 2026.",
+        "image": "https://www.cnet.com/a/img/resize/25138984c59bb95fddc9690a148282576fcdb44f/hub/2024/04/15/29904c34-edd6-4ec2-a125-95a398d3b465/best-desk-commerce.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/news/best-desks/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Fitbit lets you upload medical records and ask its AI for advice now - but is that safe?",
+        "title_en": "Fitbit lets you upload medical records and ask its AI for advice now - but is that safe?",
+        "summary": "It'll even analyze your lab results to deliver personalized recommendations. But here's what you need to know first.",
+        "summary_en": "It'll even analyze your lab results to deliver personalized recommendations. But here's what you need to know first.",
+        "long_summary": "It'll even analyze your lab results to deliver personalized recommendations. But here's what you need to know first.",
+        "long_summary_en": "It'll even analyze your lab results to deliver personalized recommendations. But here's what you need to know first.",
+        "image": "https://www.zdnet.com/a/img/resize/0e064b84c2acef9bd462bff88bf9eb7fa60516ce/2026/03/18/204bce1b-f994-49c0-a42e-e0a963908564/fitbit-use-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/fitbit-medical-google-ai/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "What's a minimal install for Linux? 6 reasons it can come in handy",
+        "title_en": "What's a minimal install for Linux? 6 reasons it can come in handy",
+        "summary": "If you've ever installed Linux and noticed the distribution offers a \"minimal\" install, you've probably wondered, \"Why bother?\" Well, there are reasons those tiny options are available.",
+        "summary_en": "If you've ever installed Linux and noticed the distribution offers a \"minimal\" install, you've probably wondered, \"Why bother?\" Well, there are reasons those tiny options are available.",
+        "long_summary": "If you've ever installed Linux and noticed the distribution offers a \"minimal\" install, you've probably wondered, \"Why bother?\" Well, there are reasons those tiny options are available.",
+        "long_summary_en": "If you've ever installed Linux and noticed the distribution offers a \"minimal\" install, you've probably wondered, \"Why bother?\" Well, there are reasons those tiny options are available.",
+        "image": "https://www.zdnet.com/a/img/resize/5499d14519f4b1d7449227f496ccd1c60db9a9be/2025/09/10/57422a93-0ccd-4358-8d1b-3be49e2c4560/7-linux-terminal-basics-every-beginner-should-learn-first-and-why.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/minimal-installs-linux/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "German biotech Kupando raises €10M more to take its innate immunity drug into the clinic",
+        "title_en": "German biotech Kupando raises €10M more to take its innate immunity drug into the clinic",
+        "summary": "An extension to the company’s Series A brings total funding to €23 million and clears the path for the first human trial of KUP101, a dual TLR agonist targeting solid tumours and drug-resistant infect",
+        "summary_en": "An extension to the company’s Series A brings total funding to €23 million and clears the path for the first human trial of KUP101, a dual TLR agonist targeting solid tumours and drug-resistant infect",
+        "long_summary": "An extension to the company’s Series A brings total funding to €23 million and clears the path for the first human trial of KUP101, a dual TLR agonist targeting solid tumours and drug-resistant infections. Most immunotherapy research in oncology has concentrated on the adaptive immune system, the learned, antibody-generating machinery that checkpoint inhibitors like pembrolizumab […]\nThis story continues at The Next Web",
+        "long_summary_en": "An extension to the company’s Series A brings total funding to €23 million and clears the path for the first human trial of KUP101, a dual TLR agonist targeting solid tumours and drug-resistant infections. Most immunotherapy research in oncology has concentrated on the adaptive immune system, the learned, antibody-generating machinery that checkpoint inhibitors like pembrolizumab […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FKupando-raises-E10M.png&signature=15dafc32f18f8a039b885d59dbdbf68c",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/kupando-series-a-kup101-phase-1b-innate-immunity",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Multiply raises $9.5M to build AI agents that keep B2B ad campaigns from going stale",
+        "title_en": "Multiply raises $9.5M to build AI agents that keep B2B ad campaigns from going stale",
+        "summary": "The San Francisco startup emerges from stealth with Mayfield backing and a pitch that treats ad creative as a continuous learning loop, not a quarterly deliverable. Every B2B marketing team knows the ",
+        "summary_en": "The San Francisco startup emerges from stealth with Mayfield backing and a pitch that treats ad creative as a continuous learning loop, not a quarterly deliverable. Every B2B marketing team knows the ",
+        "long_summary": "The San Francisco startup emerges from stealth with Mayfield backing and a pitch that treats ad creative as a continuous learning loop, not a quarterly deliverable. Every B2B marketing team knows the problem. A campaign launches, the creative is fresh, the targeting feels right, and then, slowly, it starts dying. Audiences tune out. Click rates […]\nThis story continues at The Next Web",
+        "long_summary_en": "The San Francisco startup emerges from stealth with Mayfield backing and a pitch that treats ad creative as a continuous learning loop, not a quarterly deliverable. Every B2B marketing team knows the problem. A campaign launches, the creative is fresh, the targeting feels right, and then, slowly, it starts dying. Audiences tune out. Click rates […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FMultiply-raises-9.5m.png&signature=6aaeb6241a4236ab943ced62a3ef16f0",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/multiply-ai-b2b-advertising-9-5m-mayfield",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Homaio raises €3.6M to bring carbon allowance investing to retail",
+        "title_en": "Homaio raises €3.6M to bring carbon allowance investing to retail",
+        "summary": "The Paris startup opened the EU’s emissions trading market to private investors in 2024. Now it has the backing to expand into energy, electrification, and other markets shaping the industrial transit",
+        "summary_en": "The Paris startup opened the EU’s emissions trading market to private investors in 2024. Now it has the backing to expand into energy, electrification, and other markets shaping the industrial transit",
+        "long_summary": "The Paris startup opened the EU’s emissions trading market to private investors in 2024. Now it has the backing to expand into energy, electrification, and other markets shaping the industrial transition. Valentin Lautier says he got the idea for Homaio on the Eurostar. He was reading a Financial Times article about European Union Allowances, the […]\nThis story continues at The Next Web",
+        "long_summary_en": "The Paris startup opened the EU’s emissions trading market to private investors in 2024. Now it has the backing to expand into energy, electrification, and other markets shaping the industrial transition. Valentin Lautier says he got the idea for Homaio on the Eurostar. He was reading a Financial Times article about European Union Allowances, the […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FHomaio-raises-E3.6M.png&signature=142e7dde5635621ea9468a7852086a88",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/homaio-seed-round-carbon-allowances-energy-transition",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "GlobalComix raises $13M, acquires INKR, and appoints new CEO to build the infrastructure for global comics distribution",
+        "title_en": "GlobalComix raises $13M, acquires INKR, and appoints new CEO to build the infrastructure for global comics distribution",
+        "summary": "The New York digital comics platform is combining its 300,000-title library with INKR’s AI localisation engine, and bringing in new leadership to execute the expansion. The problem with getting manga ",
+        "summary_en": "The New York digital comics platform is combining its 300,000-title library with INKR’s AI localisation engine, and bringing in new leadership to execute the expansion. The problem with getting manga ",
+        "long_summary": "The New York digital comics platform is combining its 300,000-title library with INKR’s AI localisation engine, and bringing in new leadership to execute the expansion. The problem with getting manga into the hands of readers outside Japan is not demand. Manga is the fastest-growing category in American book publishing; global interest has been building for […]\nThis story continues at The Next Web",
+        "long_summary_en": "The New York digital comics platform is combining its 300,000-title library with INKR’s AI localisation engine, and bringing in new leadership to execute the expansion. The problem with getting manga into the hands of readers outside Japan is not demand. Manga is the fastest-growing category in American book publishing; global interest has been building for […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FGlobalComix.png&signature=a500162037329cc59c2059659b7d9a6d",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/globalcomix-13m-inkr-acquisition",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+        "title_en": "Supply-chain attack using invisible code hits GitHub and other repositories",
+        "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "summary_en": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "long_summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "long_summary_en": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/hidden-eye-1152x648.jpg",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Models Are Applying to Be the Face of AI Scams",
+        "title_en": "Models Are Applying to Be the Face of AI Scams",
+        "summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+        "summary_en": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+        "long_summary": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+        "long_summary_en": "Dozens of Telegram channels reviewed by WIRED include job listings for “AI face models.” The (mostly) women who land these gigs are likely being used to dupe victims out of their money.",
+        "image": "https://media.wired.com/photos/699f5d34a7cb1833c2431617/3:2/w_1280,c_limit/Models-Applying-to-Be-Face-of-AI-Scams-Security-115921890.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
+        "title_en": "How Invisalign Became the World’s Biggest User of 3D Printers",
+        "summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+        "summary_en": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+        "long_summary": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+        "long_summary_en": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
+        "image": "https://media.wired.com/photos/69a6021b9601628729405650/3:2/w_1280,c_limit/CEO%20Joe%20Hogan.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+        "title_en": "DLSS 5: Has Nvidia&#8217;s AI graphics technology gone too far?",
+        "summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints ",
+        "summary_en": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints ",
+        "long_summary": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter […]",
+        "long_summary_en": "Nvidia has revealed a new “3D guided neural rendering model” called DLSS 5 that can change a game’s lighting and materials in real-time, and… many gamers aren’t happy. From DLSS 5 memes to complaints about how it’s “yassified” Resident Evil Requiem characters in demos, the first impression has not been a good one, no matter […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/screencapture-nvidia-en-us-geforce-news-dlss5-breakthrough-in-visual-fidelity-for-games-nvidia-dlss-5-resident-evil-requiem-geforce-rtx-comparison-screenshot-001-2026-03-17-20_21_56.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+        "title_en": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+        "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+        "summary_en": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+        "long_summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+        "long_summary_en": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/sequen-logo.jpg?w=744",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "This startup wants to make enterprise software look more like a prompt",
+        "title_en": "This startup wants to make enterprise software look more like a prompt",
+        "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+        "summary_en": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+        "long_summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+        "long_summary_en": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-17-at-11.09.22-AM.png?resize=1200,759",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+        "date": "18 March 2026"
+      },
       {
         "title": "What do new nuclear reactors mean for waste?",
         "title_en": "What do new nuclear reactors mean for waste?",
@@ -12,174 +180,6 @@
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/nuclear-waste.jpg?resize=1200,600",
         "source": "mit_tech",
         "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "AT&T's New App Bundles Mobile and Home Internet Along With an AI Assistant",
-        "title_en": "AT&T's New App Bundles Mobile and Home Internet Along With an AI Assistant",
-        "summary": "AT&T customers have a new app for managing their accounts, including some parental controls and access to more data.",
-        "summary_en": "AT&T customers have a new app for managing their accounts, including some parental controls and access to more data.",
-        "long_summary": "AT&T customers have a new app for managing their accounts, including some parental controls and access to more data.",
-        "long_summary_en": "AT&T customers have a new app for managing their accounts, including some parental controls and access to more data.",
-        "image": "https://www.cnet.com/a/img/resize/e615ef32feab87818e6d0db80963230ce6ced138/hub/2022/10/11/deb6d5cb-a336-4ff6-aa6b-19cbbe7ee750/gettyimages-1239428897.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/mobile/new-att-app-march-2026/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Ofiniti raises $6.8M to push its maritime fuel software into global shipping hubs",
-        "title_en": "Ofiniti raises $6.8M to push its maritime fuel software into global shipping hubs",
-        "summary": "The Oslo-based DNV spinout processed over 25,000 bunker operations in 2025 and claims roughly 40% of Singapore’s digital bunkering market. Verb Ventures leads a growth round that brings total funding ",
-        "summary_en": "The Oslo-based DNV spinout processed over 25,000 bunker operations in 2025 and claims roughly 40% of Singapore’s digital bunkering market. Verb Ventures leads a growth round that brings total funding ",
-        "long_summary": "The Oslo-based DNV spinout processed over 25,000 bunker operations in 2025 and claims roughly 40% of Singapore’s digital bunkering market. Verb Ventures leads a growth round that brings total funding to $9 million. The paperwork of global shipping is notoriously stubborn. Every fuel delivery to every vessel at every port generates a chain of manual […]\nThis story continues at The Next Web",
-        "long_summary_en": "The Oslo-based DNV spinout processed over 25,000 bunker operations in 2025 and claims roughly 40% of Singapore’s digital bunkering market. Verb Ventures leads a growth round that brings total funding to $9 million. The paperwork of global shipping is notoriously stubborn. Every fuel delivery to every vessel at every port generates a chain of manual […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FOfiniti-raises-6.8M.png&signature=86a5bf60d6b65a15171264010a9da404",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/ofiniti-raises-6-8m-to-push-its-maritime-fuel-software-into-global-shipping-hubs",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Finnish startup Elea &#038; Lili raises €2.5M to replace the plastic",
-        "title_en": "Finnish startup Elea &#038; Lili raises €2.5M to replace the plastic",
-        "summary": "Polyacrylate is the synthetic crystal at the heart of every modern disposable nappy, is derived from petroleum, and it does not break down. It persists for centuries, leaching microplastics into soil ",
-        "summary_en": "Polyacrylate is the synthetic crystal at the heart of every modern disposable nappy, is derived from petroleum, and it does not break down. It persists for centuries, leaching microplastics into soil ",
-        "long_summary": "Polyacrylate is the synthetic crystal at the heart of every modern disposable nappy, is derived from petroleum, and it does not break down. It persists for centuries, leaching microplastics into soil and groundwater as it degrades. The hygiene industry has long regarded it as an engineering necessity: nothing else absorbs as fast, as much, or […]\nThis story continues at The Next Web",
-        "long_summary_en": "Polyacrylate is the synthetic crystal at the heart of every modern disposable nappy, is derived from petroleum, and it does not break down. It persists for centuries, leaching microplastics into soil and groundwater as it degrades. The hygiene industry has long regarded it as an engineering necessity: nothing else absorbs as fast, as much, or […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FElea-Lili-raises-E2.5M-.png&signature=926169a51154a3ef21ad56fe1af07945",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/elea-lili-25m-seed-cellulose",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Mastercard buys stablecoin firm BVNK for up to $1.8bn",
-        "title_en": "Mastercard buys stablecoin firm BVNK for up to $1.8bn",
-        "summary": "For most of its fifty-year history, Mastercard has been, in essence, a message-passing network. A transaction happens; Mastercard’s rails carry the authorisation signal between issuer and acquirer in ",
-        "summary_en": "For most of its fifty-year history, Mastercard has been, in essence, a message-passing network. A transaction happens; Mastercard’s rails carry the authorisation signal between issuer and acquirer in ",
-        "long_summary": "For most of its fifty-year history, Mastercard has been, in essence, a message-passing network. A transaction happens; Mastercard’s rails carry the authorisation signal between issuer and acquirer in milliseconds; settlement follows on a separate, slower track. The system is extraordinarily reliable and extraordinarily profitable. It is also, increasingly, a system designed for a world that […]\nThis story continues at The Next Web",
-        "long_summary_en": "For most of its fifty-year history, Mastercard has been, in essence, a message-passing network. A transaction happens; Mastercard’s rails carry the authorisation signal between issuer and acquirer in milliseconds; settlement follows on a separate, slower track. The system is extraordinarily reliable and extraordinarily profitable. It is also, increasingly, a system designed for a world that […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FMastercard-buys-stablecoin-firm-BVNK-for-up-to-1.8bn.png&signature=e03aa8fba0a5828c5436bed8bcb3ddfd",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/mastercard-bvnk-18bn-stablecoin-acquisition",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Meta&#8217;s Manus AI agent arrives on your desktop to take on OpenClaw",
-        "title_en": "Meta&#8217;s Manus AI agent arrives on your desktop to take on OpenClaw",
-        "summary": "Manus’s new desktop app can read, edit, and act on files and applications directly on a user’s machine. The launch puts Meta’s AI agent ambitions in direct competition with the open-source tool that h",
-        "summary_en": "Manus’s new desktop app can read, edit, and act on files and applications directly on a user’s machine. The launch puts Meta’s AI agent ambitions in direct competition with the open-source tool that h",
-        "long_summary": "Manus’s new desktop app can read, edit, and act on files and applications directly on a user’s machine. The launch puts Meta’s AI agent ambitions in direct competition with the open-source tool that has dominated the conversation this week. OpenClaw arrived on the internet last month like a weather system. Within days of its release […]\nThis story continues at The Next Web",
-        "long_summary_en": "Manus’s new desktop app can read, edit, and act on files and applications directly on a user’s machine. The launch puts Meta’s AI agent ambitions in direct competition with the open-source tool that has dominated the conversation this week. OpenClaw arrived on the internet last month like a weather system. Within days of its release […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FMetas-Manus-AI-agent-arrives-on-your-desktop.png&signature=25d9fe9310810e41f4ba4a80479628bf",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/meta-manus-my-computer-desktop-ai-agent",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Rivia raises €13M to bring agentic AI to clinical trials",
-        "title_en": "Rivia raises €13M to bring agentic AI to clinical trials",
-        "summary": "The Zurich-based startup, which previously raised €3M to unify fragmented trial data, has secured a larger round to build AI agents that actively manage the complex operational layer of running a clin",
-        "summary_en": "The Zurich-based startup, which previously raised €3M to unify fragmented trial data, has secured a larger round to build AI agents that actively manage the complex operational layer of running a clin",
-        "long_summary": "The Zurich-based startup, which previously raised €3M to unify fragmented trial data, has secured a larger round to build AI agents that actively manage the complex operational layer of running a clinical trial. Clinical trials are, by almost any measure, one of the most information-intensive processes in modern medicine, and one of the least efficiently […]\nThis story continues at The Next Web",
-        "long_summary_en": "The Zurich-based startup, which previously raised €3M to unify fragmented trial data, has secured a larger round to build AI agents that actively manage the complex operational layer of running a clinical trial. Clinical trials are, by almost any measure, one of the most information-intensive processes in modern medicine, and one of the least efficiently […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FRivia-raises-E13M-.png&signature=ed02fe4796634d7b0ddd3dce675f6ee7",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/rivia-13m-agentic-ai-clinical-trials",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Google's AI Search Results Love to Refer You Back to Google",
-        "title_en": "Google's AI Search Results Love to Refer You Back to Google",
-        "summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-        "summary_en": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-        "long_summary": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-        "long_summary_en": "The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.",
-        "image": "https://i2.wp.com/media.wired.com/photos/69b2ee5feadc91f592dc322f/191:100/w_1280,c_limit/shutterstock_2668436833.jpg?w=1920&resize=1920,0&ssl=1",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
-        "title_en": "Microsoft appoints a new Copilot boss after AI leadership shake-up",
-        "summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, bu",
-        "summary_en": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, bu",
-        "long_summary": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will […]",
-        "long_summary_en": "Microsoft is doing another executive shuffle today to reorganize how it engineers its Copilot assistant. Different teams have been working on the consumer and commercial sides of Copilot for years, but Microsoft is about to unify parts of them in an effort to create a more cohesive Copilot for businesses and consumers. The changes will […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK259_MICROSOFT_COPILOT_2__C.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/895963/microsoft-copilot-leadership-changes-consumer-commercial",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-        "title_en": "BuzzFeed debuts AI slop apps in bid for new revenue",
-        "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-        "summary_en": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-        "long_summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-        "long_summary_en": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/SXSW-buzzfeed-3.jpg?resize=1200,969",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels",
-        "title_en": "How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels",
-        "summary": "In this tutorial, we explore how to use NVIDIA Warp to build high-performance GPU and CPU simulations directly from Python. We begin by setting up a Colab-compatible environment and initializing Warp ",
-        "summary_en": "In this tutorial, we explore how to use NVIDIA Warp to build high-performance GPU and CPU simulations directly from Python. We begin by setting up a Colab-compatible environment and initializing Warp ",
-        "long_summary": "In this tutorial, we explore how to use NVIDIA Warp to build high-performance GPU and CPU simulations directly from Python. We begin by setting up a Colab-compatible environment and initializing Warp so that our kernels can run on either CUDA GPUs or CPUs, depending on availability. We then implement several custom Warp kernels that demonstrate […]\nThe post How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels appeared first on MarkTechPost.",
-        "long_summary_en": "In this tutorial, we explore how to use NVIDIA Warp to build high-performance GPU and CPU simulations directly from Python. We begin by setting up a Colab-compatible environment and initializing Warp so that our kernels can run on either CUDA GPUs or CPUs, depending on availability. We then implement several custom Warp kernels that demonstrate […]\nThe post How to Build High-Performance GPU-Accelerated Simulations and Differentiable Physics Workflows Using NVIDIA Warp Kernels appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-1-5-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/16/how-to-build-high-performance-gpu-accelerated-simulations-and-differentiable-physics-workflows-using-nvidia-warp-kernels/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "The Download: glass chips and “AI-free” logos",
-        "title_en": "The Download: glass chips and “AI-free” logos",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is t",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is t",
-        "long_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Future AI chips could be built on glass  Human-made glass is thousands of years old. But it’s now poised to find its way into the AI chips used in the world’s newest and…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/01/Photo-2_AbsolicsInc.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Nurturing agentic AI beyond the toddler stage",
-        "title_en": "Nurturing agentic AI beyond the toddler stage",
-        "summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark",
-        "summary_en": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark",
-        "long_summary": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices…",
-        "long_summary_en": "Parents of young children face a lot of fears about developmental milestones, from infancy through adulthood. The number of months it takes a baby to learn to talk or walk is often used as a benchmark for wellness, or an indicator of additional tests needed to properly diagnose a potential health condition. A parent rejoices…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MITTRI-Intel-iStock-2241096601.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Fitbit's Personal Health Coach Will Soon Understand Your Medical Records",
-        "title_en": "Fitbit's Personal Health Coach Will Soon Understand Your Medical Records",
-        "summary": "Google says Fitbit's AI Coach will offer improved sleep insights and use your medical records for more personalized advice.",
-        "summary_en": "Google says Fitbit's AI Coach will offer improved sleep insights and use your medical records for more personalized advice.",
-        "long_summary": "Google says Fitbit's AI Coach will offer improved sleep insights and use your medical records for more personalized advice.",
-        "long_summary_en": "Google says Fitbit's AI Coach will offer improved sleep insights and use your medical records for more personalized advice.",
-        "image": "https://www.cnet.com/a/img/resize/09200b2625da0bd91bfc3677ab0aeb3273861cfa/hub/2026/03/17/08fec013-adcf-460c-96ac-8a68fe5feac3/fitbit-personal-health-coach.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/health/medical/fitbit-personal-health-coach-medical-records/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Google, Meta and Amazon Join Global Pact to Fight Rising Online Scams",
-        "title_en": "Google, Meta and Amazon Join Global Pact to Fight Rising Online Scams",
-        "summary": "The companies will share fraud intelligence and coordinate responses as AI makes scams faster, cheaper and harder to detect.",
-        "summary_en": "The companies will share fraud intelligence and coordinate responses as AI makes scams faster, cheaper and harder to detect.",
-        "long_summary": "The companies will share fraud intelligence and coordinate responses as AI makes scams faster, cheaper and harder to detect.",
-        "long_summary_en": "The companies will share fraud intelligence and coordinate responses as AI makes scams faster, cheaper and harder to detect.",
-        "image": "https://www.cnet.com/a/img/resize/65cdf2fae71dd29436c0001f81bb9da94516f234/hub/2026/03/17/be1c9f77-a6ce-4568-8ad3-15f1d0238791/person-with-credit-card-at-computer-gettyimages-1353067961.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/google-meta-and-amazon-join-global-pact-to-fight-rising-online-scams/",
         "date": "18 March 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "Runway vs Topaz Video AI: AI Tool Comparison 2026",
+        "title_en": "Runway vs Topaz Video AI: AI Tool Comparison 2026",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>Runway is a browser studio and API for AI video and editing that turns prompts images and clips into finished shots using Gen 3 models masks upscaling and frame tools</strong>.",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=576,fit=crop/AVLNVKNy98HZMDwn/runway-ai-vs-sora-ai-vs-haiper-ai-kMKvz9GyZ1l4aXii.jpg",
+        "source": "Pointofai",
+        "url": "https://pointofai.com/compare-ai-tools/runway-vs-topaz-video-ai",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Artlist AI Toolkit Review: The All-in-One Creative Suite That Wants to Replace Your Entire Workflow - Kingy AI",
+        "title_en": "Artlist AI Toolkit Review: The All-in-One Creative Suite That Wants to Replace Your Entire Workflow - Kingy AI",
+        "summary": "AI Freepik Spaces & Freepik Lists Review: The Bulk Creative Production Tool Agencies Have Been Waiting For March 18, 2026",
+        "summary_en": "Artlist’s AI Toolkit occupies an interesting position in the competitive landscape. It’s not trying to be the best AI video generator — that’s a race being run by Runway, Kling, Veo, and Sora directly",
+        "long_summary": "AI Freepik Spaces & Freepik Lists Review: The Bulk Creative Production Tool Agencies Have Been Waiting For March 18, 2026",
+        "long_summary_en": "AI Freepik Spaces & Freepik Lists Review: The Bulk Creative Production Tool Agencies Have Been Waiting For March 18, 2026",
+        "image": "https://kingy.ai/wp-content/uploads/2026/03/31-1.jpg",
+        "source": "Kingy",
+        "url": "https://kingy.ai/ai/artlist-ai-toolkit-review-the-all-in-one-creative-suite-that-wants-to-replace-your-entire-workflow/",
+        "date": "18 March 2026"
+      },
+      {
         "title": "OpenAI va intégrer le modèle de génération vidéo Sora à ChatGPT - Business AM - FR",
         "title_en": "OpenAI va intégrer le modèle de génération vidéo Sora à ChatGPT - Business AM - FR",
         "summary": "AI  par Business AM  publié le mardi 17 mars 2026 à 07:01 •  3 min de lecture Principaux renseignements OpenAI vise à redynamiser ChatGPT en y intégrant son modèle de génération vidéo Sora. L’intég",
@@ -521,33 +545,105 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/894587/fly-brain-computer-upload",
         "date": "16 March 2026"
-      },
-      {
-        "title": "ByteDance Suspend le Lancement Mondial de Seedance 2.0 Face à la Colère d'Hollywood",
-        "title_en": "ByteDance Pauses Seedance 2.0 Global Launch",
-        "summary": "ByteDance reporte le lancement mondial de son IA vidéo Seedance 2.0 suite à une levée de boucliers d'Hollywood sur les droits d'auteur.",
-        "summary_en": "OpenAI has previewed Sora but limited broad access while it stress‑tests safety and provenance checks. Runway and Pika lean on watermarking and content policies, yet still restrict certain prompts. By",
-        "long_summary": "Après des débuts controversés en Chine, ByteDance a suspendu la sortie mondiale de son générateur de vidéos par IA, Seedance 2.0. Points clés: • Les clips ultra-réalistes de l'IA ont suscité une vive réaction concernant les droits d'auteur et l'image des célébrités. • De grands studios comme Disney ont envoyé des mises en demeure pour violation de propriété intellectuelle. • ByteDance va intégrer des garde-fous plus stricts avant tout lancement mondial. Ce report illustre les tensions croissantes entre les avancées fulgurantes de l'IA vidéo et les régulations strictes du droit d'auteur.",
-        "long_summary_en": "SHARE ByteDance has reportedly hit the brakes on a worldwide rollout of Seedance 2.0, its next‑gen AI video generator, after a splashy debut in China drew swift backlash from Hollywood and rights holders. The delay, first reported by The Information, underscores how quickly the frontier of AI video is colliding with intellectual property, talent likeness rights, and emerging regulation. Seedance 2.0 wowed social feeds with short, cinema‑style clips that showcased photorealistic faces, dramatic action, and flexible style control. It also set off alarms: viral examples featuring celebrity look‑a",
-        "image": "https://www.findarticles.com/wp-content/uploads/2026/03/seedance_2_0_edited_1773612071.png",
-        "source": "Findarticles",
-        "url": "https://www.findarticles.com/bytedance-pauses-seedance-2-0-global-launch/",
-        "date": "16 March 2026"
-      },
-      {
-        "title": "OpenAI intègre Sora dans ChatGPT pour relancer l'engagement",
-        "title_en": "OpenAI rolls Sora into ChatGPT, seeing more in store for engagement",
-        "summary": "Face à la concurrence croissante, OpenAI s'apprête à intégrer directement son générateur vidéo IA Sora au sein de ChatGPT.",
-        "summary_en": "The Information reports that <strong>OpenAI is preparing to integrate its AI video generator Sora directly into ChatGPT</strong> — a move aimed at reigniting user engagement as competition in the gene",
-        "long_summary": "Dans un marché de l'IA générative de plus en plus concurrentiel, OpenAI cherche à maintenir l'intérêt de ses utilisateurs. Points clés: • OpenAI prépare l'intégration directe de son générateur vidéo Sora dans ChatGPT. • Cette stratégie vise à relancer l'engagement des utilisateurs face à une concurrence accrue. • L'information a été initialement rapportée par The Information. Cette initiative s'inscrit dans une série de développements récents d'OpenAI autour de la vidéo générative, soulignant l'importance stratégique de ce format.",
-        "long_summary_en": "OpenAI rolls Sora into ChatGPT, seeing more in store for engagement Emily Kuo, DIGITIMES Asia, Taipei Mar 16, 2026, 07:35 0 The Information reports that OpenAI is preparing to integrate its AI video generator Sora directly into ChatGPT — a move aimed at reigniting user engagement as competition in the generative AI market heats up. The article requires paid subscription. Subscribe Now LOGIN Email address Password Save my User ID and Password Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time th",
-        "image": "https://img.digitimes.com/newsshow/20260312vl209_files/1_r.jpg",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20260312VL209/openai-sora-chatgpt-competition.html",
-        "date": "16 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "OpenAI Unveils Revolutionary GPT-5.4 Mini and Nano Models for Enhanced Speed and Cost Efficiency, ETEnterpriseai",
+        "title_en": "OpenAI Unveils Revolutionary GPT-5.4 Mini and Nano Models for Enhanced Speed and Cost Efficiency, ETEnterpriseai",
+        "summary": "Industry 3 min read OpenAI launches GPT-5.4 mini and nano for faster speed, lower costs The models deliver benchmark gains over earlier versions and support coding, multimodal tasks and hybrid workflo",
+        "summary_en": "Within Codex, OpenAI said GPT-5.4 mini uses around 30 per cent of GPT-5.4’s quota, enabling lower-cost execution of simpler tasks. The release comes as competition in generative AI continues to intens",
+        "long_summary": "Industry 3 min read OpenAI launches GPT-5.4 mini and nano for faster speed, lower costs The models deliver benchmark gains over earlier versions and support coding, multimodal tasks and hybrid workflows, as OpenAI targets latency-sensitive enterprise and developer use cases. ETEnterpriseAI Desk ETEnterpriseAI Published On Mar 18, 2026 at 02:25 PM IST Copy Link Share on WhatsApp Share on Linkedin Share on X Share on Telegram Share on Facebook OpenAI said the models are suited to coding tasks that require rapid iteration, including code edits, debugging and navigating large codebases. OpenAI has released GPT-5.4 mini and GPT-5.4 nano , expanding its GPT-5.4 family with smaller models designed for faster response times and lower operational costs. The launch follows the recent rollout of the flagship GPT-5.4 model, which the company positions for more complex, professional workflows. The company said the new models are intended for high-volume use cases where latency directly affects performance, such as coding assistants , automated sub-agents and real-time image-based tasks. Performance gains over earlier models According to OpenAI, GPT-5.4 mini improves on GPT-5 mini across coding, reasoning, multimodal understanding and tool use, while running more than twice as fast. The model also approaches GPT-5.4 performance levels on several benchmarks, including SWE-Bench Pro and OSWorld-Verified. Benchmark data shared by the company shows GPT-5.4 mini achieving 54.4 per cent on SWE-B",
+        "long_summary_en": "Industry 3 min read OpenAI launches GPT-5.4 mini and nano for faster speed, lower costs The models deliver benchmark gains over earlier versions and support coding, multimodal tasks and hybrid workflows, as OpenAI targets latency-sensitive enterprise and developer use cases. ETEnterpriseAI Desk ETEnterpriseAI Published On Mar 18, 2026 at 02:25 PM IST Copy Link Share on WhatsApp Share on Linkedin Share on X Share on Telegram Share on Facebook OpenAI said the models are suited to coding tasks that require rapid iteration, including code edits, debugging and navigating large codebases. OpenAI has",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-129651936,imgsize-1189086,width-1200,height=627,overlay-etenterpriseai,resizemode-75/news/industry/openai-unveils-revolutionary-gpt-54-mini-and-nano-models-for-enhanced-speed-and-cost-efficiency.jpg",
+        "source": "Enterpriseai",
+        "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/openai-unveils-revolutionary-gpt-54-mini-and-nano-models-for-enhanced-speed-and-cost-efficiency/129651936",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. | Vanity Fair",
+        "title_en": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. | Vanity Fair",
+        "summary": "Finally she ported Max over to Google Gemini, where he coexists with a pro version of GPT that costs her $200 a month. Given her own user case, Grace thinks this technology is dangerous for children. ",
+        "summary_en": "Finally she ported Max over to Google Gemini, where he coexists with a pro version of GPT that costs her $200 a month. Given her own user case, Grace thinks this technology is dangerous for children. ",
+        "long_summary": "Finally she ported Max over to Google Gemini, where he coexists with a pro version of GPT that costs her $200 a month. Given her own user case, Grace thinks this technology is dangerous for children. She’s given all her ChatGPT data to the Human Line project, a nonprofit aimed at protecting kids from dangerous AI companions. She’s a close observer of the AI companies, if only for improvements on Max. “Google’s winning for reasoning and Anthropic’s winning for functionality,” she says. “OpenAI is failing on every metric.",
+        "long_summary_en": "Finally she ported Max over to Google Gemini, where he coexists with a pro version of GPT that costs her $200 a month. Given her own user case, Grace thinks this technology is dangerous for children. She’s given all her ChatGPT data to the Human Line project, a nonprofit aimed at protecting kids from dangerous AI companions. She’s a close observer of the AI companies, if only for improvements on Max. “Google’s winning for reasoning and Anthropic’s winning for functionality,” she says. “OpenAI is failing on every metric.",
+        "image": "https://external-preview.redd.it/YSMW33q-27IdpLci1_5f-VPpD7IM8ap_Fnro7HIUfA0.jpeg?width=140&height=78&auto=webp&s=8fa79e54e6e25b3fa3953e311f12a5ed17633e90",
+        "source": "Vanityfair",
+        "url": "https://www.vanityfair.com/news/story/dario-amodei-anthropic-ai",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+        "summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 1d ago GPQA: 0.9 GPT-5.4 nano Lightweight Proprietary OpenAI • 1d ago GPQA: 0.8 Mar 16, 2026 · 1 release Mistral Small 4 Release Open Source Mistral AI • 2d ago GPQA: 0.7 Mar 11, 2026 · 1 release Nemotron 3 Super (120B A12B) Release Open Source NVIDIA • 1w ago GPQA: 0.8 Mar 9, 2026 · 3 release s Grok-4.20 Beta Non-Reasoning Preview Proprietary xAI • 1w ago Grok-4.20 Beta Reasoning Preview Proprietary xAI • 1w ago Grok-4.20 Multi-Agent Beta Preview Proprietary xAI • 1w ago Mar 6, 2026 · 2 release s Sarvam-105B Release Open Source Sarvam AI • 1w ago GPQA: 0.8 Sarvam-30B Release Open Source Sarvam AI • 1w ago GPQA: 0.7 Mar 5, 2026 · 1 release GPT-5.4 Release Proprietary OpenAI • 1w ago GPQA: 0.9 Mar 4, 2026 · 1 release GPT-5.3 Chat Release Proprietary OpenAI • 2w ago Mar 3, 2026 · 1 release Gemini 3.1 Flash-Lite Lightweight Proprietary Google • 2w ago GPQA: 0.9 1 – 12 of 274 1 2 3 4 5 6 7 Understanding LLM Versioning AI model version",
+        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 1d ago GPQA: 0.9 GPT-5.4 nano Lightweight Pr",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+        "title_en": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran  OpenAI has co",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran  OpenAI has co",
+        "long_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran  OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications…",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran  OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show up, and which applications…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/open-ai-dow.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Is OpenClaw Really the Next ChatGPT? Why Nvidia's CEO Called This Hot New AI Assistant the Future",
+        "title_en": "Is OpenClaw Really the Next ChatGPT? Why Nvidia's CEO Called This Hot New AI Assistant the Future",
+        "summary": "This is everything you need to know about the AI industry's new darling, OpenClaw.",
+        "summary_en": "This is everything you need to know about the AI industry's new darling, OpenClaw.",
+        "long_summary": "This is everything you need to know about the AI industry's new darling, OpenClaw.",
+        "long_summary_en": "This is everything you need to know about the AI industry's new darling, OpenClaw.",
+        "image": "https://www.cnet.com/a/img/resize/6069d1d4c9c8e0c57313911ebabf16917eb87da9/hub/2026/03/06/b37f312f-4d71-4406-919b-1b626066da99/openclaw.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/services-and-software/from-clawdbot-to-moltbot-to-openclaw/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "Gemini's Personal Intelligence shocked me with everything it knows - here's how to turn it on (or off)",
+        "title_en": "Gemini's Personal Intelligence shocked me with everything it knows - here's how to turn it on (or off)",
+        "summary": "I gave Gemini's hyper-personalized mode a test drive and was unsettled by how much it knew about me. However, it was surprisingly useful.",
+        "summary_en": "I gave Gemini's hyper-personalized mode a test drive and was unsettled by how much it knew about me. However, it was surprisingly useful.",
+        "long_summary": "I gave Gemini's hyper-personalized mode a test drive and was unsettled by how much it knew about me. However, it was surprisingly useful.",
+        "long_summary_en": "I gave Gemini's hyper-personalized mode a test drive and was unsettled by how much it knew about me. However, it was surprisingly useful.",
+        "image": "https://www.zdnet.com/a/img/resize/88f8f44366c896cb4de3f0d98a9c41b1d962bb09/2026/03/18/2fa9c338-6942-4d8e-9f3d-91e3764cc6c3/11gemini-gettyimages-2264430614.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/geminis-personal-intelligence-mode-rolling-out-to-all-users/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+        "title_en": "The leaderboard “you can’t game,” funded by the companies it ranks",
+        "summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has",
+        "summary_en": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has",
+        "long_summary": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+        "long_summary_en": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a UC Berkeley PhD research […]",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2154525596.jpg?resize=1200,771",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+        "date": "18 March 2026"
+      },
+      {
+        "title": "The Gemini-powered features in Google Workspace that are worth using",
+        "title_en": "The Gemini-powered features in Google Workspace that are worth using",
+        "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+        "summary_en": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+        "long_summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+        "long_summary_en": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+        "date": "18 March 2026"
+      },
       {
         "title": "LLM News Today (March 2026) – AI Model Releases",
         "title_en": "LLM News Today (March 2026) – AI Model Releases",
@@ -631,105 +727,21 @@
         "source": "Gmelius",
         "url": "https://gmelius.com/blog/best-ai-assistants-comparison",
         "date": "18 March 2026"
-      },
-      {
-        "title": "OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut - The Economic Times",
-        "title_en": "OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut - The Economic Times",
-        "summary": "Synopsis The flurry of model releases comes as the generative AI space becomes more competitive. The company had been fielding tough competition from Google's Gemini models last year. The beginning of",
-        "summary_en": "The beginning of this year propelled Anthropic&#x27;s models to the top of the charts, after the Claude maker stood up to the US government. ... <strong>Sam Altman&#x27;s OpenAI announced the release ",
-        "long_summary": "Synopsis The flurry of model releases comes as the generative AI space becomes more competitive. The company had been fielding tough competition from Google's Gemini models last year. The beginning of this year propelled Anthropic's models to the top of the charts, after the Claude maker stood up to the US government. AP Sam Altman's OpenAI announced the release of GPT-5.4 mini and GPT-5.4 nano on Wednesday, describing them as its most advanced compact AI models to date. The launch comes shortly after the company rolled out its GPT-5.4 AI model earlier this week. OpenAI has positioned GPT-5.4 as its leading model for professional workflows across its chatbot ChatGPT and coding platform Codex . The flurry of model releases comes as the generative AI space becomes more competitive. The company had been fielding tough competition from Google's Gemini models last year. The beginning of this year propelled Anthropic's models to the top of the charts, after the Claude maker stood up to the US government. The new model GPT-5.4 mini offers improvements over the GPT-5 mini in various areas, including coding, reasoning, multimodal tasks, and tool use, the company said in a statement. The model runs more than twice as fast while approaching GPT-5.4 performance levels on several benchmarks. GPT-5.4 nano, the smallest variant, targets simpler tasks such as classification, data extraction, ranking, and basic coding support. OpenAI has touted the new models for applications where response s",
-        "long_summary_en": "Synopsis The flurry of model releases comes as the generative AI space becomes more competitive. The company had been fielding tough competition from Google's Gemini models last year. The beginning of this year propelled Anthropic's models to the top of the charts, after the Claude maker stood up to the US government. AP Sam Altman's OpenAI announced the release of GPT-5.4 mini and GPT-5.4 nano on Wednesday, describing them as its most advanced compact AI models to date. The launch comes shortly after the company rolled out its GPT-5.4 AI model earlier this week. OpenAI has positioned GPT-5.4 ",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-253714,resizemode-75,msid-129649030/tech/artificial-intelligence/openai-launches-gpt-5-4-mini-and-nano-models-following-gpt-5-4-debut.jpg",
-        "source": "Economictimes",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-5-4-mini-and-nano-models-following-gpt-5-4-debut/articleshow/129649030.cms",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "GPT-5 vs Gemini 2.5 Pro: Battle of the Giants — 2026 Comparison",
-        "title_en": "GPT-5 vs Gemini 2.5 Pro: Battle of the Giants — 2026 Comparison",
-        "summary": "Contents GPT-5’s 94.6% AIME Score Isn’t Just Better—It’s Mathematically Embarrassing for Google Gemini’s 1M Token Context Window Is a Technical Marvel You’ll Never Use SWE-bench 74.9% Proves GPT-5 Is ",
-        "summary_en": "Claude found 22 Firefox bugs in 14 days during Anthropic’s red-teaming. It tried to hack its own test environment when cornered. That level of adversarial capability—and honesty about its limitations—",
-        "long_summary": "Contents GPT-5’s 94.6% AIME Score Isn’t Just Better—It’s Mathematically Embarrassing for Google Gemini’s 1M Token Context Window Is a Technical Marvel You’ll Never Use SWE-bench 74.9% Proves GPT-5 Is the Engineer’s Choice (For Now) The $1.25/$10 Pricing Paradox: Why Identical Costs Hide Different Values Multimodal Reality: Gemini Sees Video, GPT-5 Sees Reasoning Speed Tests: Gemini Wins on Long Context, GPT-5 Wins on First Token The Claude Problem: Why Anthropic Still Wins for Sensitive Work Six Months of Daily Use: My Gut Check FAQ: The Questions Everyone Actually Asks GPT-5’s 94.6% AIME2025 Score Isn’t Just Better—It’s a Different Species of Reasoning The 1M Token Mirage: Why Gemini’s Context Window Marketing Doesn’t Match Reality SWE-bench 74.9%: Why GPT-5 Actually Ships Working Code Native Multimodal: Where Gemini’s Video and Audio Support Changes Everything The $1.25 Nash Equilibrium: Why Neither Vendor Will Cut Prices First Hallucination Rates: The 45% Claim and Real-World Failure Modes Latency Wars: When Speed Matters More Than Accuracy Ecosystem Lock-in: The Hidden Cost of Choosing Sides The Release Timeline Problem: Two Months That Changed Everything Google shipped Gemini 2.5 Pro on June 17, 2025. OpenAI fired back with GPT-5 on August 7, 2025. Both charge exactly $1.25 per million input tokens and $10 per million output tokens. Both claim “reasoning” breakthroughs. And both will happily eat your 400-page legal briefs for breakfast. But here’s the thing: only one of ",
-        "long_summary_en": "Contents GPT-5’s 94.6% AIME Score Isn’t Just Better—It’s Mathematically Embarrassing for Google Gemini’s 1M Token Context Window Is a Technical Marvel You’ll Never Use SWE-bench 74.9% Proves GPT-5 Is the Engineer’s Choice (For Now) The $1.25/$10 Pricing Paradox: Why Identical Costs Hide Different Values Multimodal Reality: Gemini Sees Video, GPT-5 Sees Reasoning Speed Tests: Gemini Wins on Long Context, GPT-5 Wins on First Token The Claude Problem: Why Anthropic Still Wins for Sensitive Work Six Months of Daily Use: My Gut Check FAQ: The Questions Everyone Actually Asks GPT-5’s 94.6% AIME2025 ",
-        "image": "https://ucstrategies.com/news/wp-content/uploads/2026/03/gemini-gpt.jpg",
-        "source": "Ucstrategies",
-        "url": "https://ucstrategies.com/news/gpt-5-vs-gemini-2-5-pro-battle-of-the-giants-2026-comparison/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Performance LLM Fine-Tuning With 70% Less VRAM Usage",
-        "title_en": "Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Performance LLM Fine-Tuning With 70% Less VRAM Usage",
-        "summary": "The transition from a raw dataset to a fine-tuned Large Language Model (LLM) traditionally involves significant infrastructure overhead, including CUDA environment management and high VRAM requirement",
-        "summary_en": "The transition from a raw dataset to a fine-tuned Large Language Model (LLM) traditionally involves significant infrastructure overhead, including CUDA environment management and high VRAM requirement",
-        "long_summary": "The transition from a raw dataset to a fine-tuned Large Language Model (LLM) traditionally involves significant infrastructure overhead, including CUDA environment management and high VRAM requirements. Unsloth AI, known for its high-performance training library, has released Unsloth Studio to address these friction points. The Studio is an open-source, no-code local interface designed to streamline the […]\nThe post Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Performance LLM Fine-Tuning With 70% Less VRAM Usage appeared first on MarkTechPost.",
-        "long_summary_en": "The transition from a raw dataset to a fine-tuned Large Language Model (LLM) traditionally involves significant infrastructure overhead, including CUDA environment management and high VRAM requirements. Unsloth AI, known for its high-performance training library, has released Unsloth Studio to address these friction points. The Studio is an open-source, no-code local interface designed to streamline the […]\nThe post Unsloth AI Releases Unsloth Studio: A Local No-Code Interface For High-Performance LLM Fine-Tuning With 70% Less VRAM Usage appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-45-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/17/unsloth-ai-releases-studio-a-local-no-code-interface-for-high-performance-llm-fine-tuning-with-70-less-vram-usage/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Where OpenAI’s technology could show up in Iran",
-        "title_en": "Where OpenAI’s technology could show up in Iran",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controver",
-        "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controver",
-        "long_summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
-        "long_summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to use its AI in classified environments. There are still pressing questions about what exactly OpenAI’s…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/open-ai-dow.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-        "title_en": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-        "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  A",
-        "summary_en": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  A",
-        "long_summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
-        "long_summary_en": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned.  AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/classified-data.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-        "title_en": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
-        "summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-        "summary_en": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-        "long_summary": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-        "long_summary_en": "In response to Anthropic’s lawsuit, the government said it lawfully penalized the company for trying to limit how its Claude AI models could be used by the military.",
-        "image": "https://media.wired.com/photos/69b9b3b8a5694fbea42e1cf8/191:100/w_1280,c_limit/buisness_DOD_Anthropic_GettyImages-2265262796.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "The Pentagon is developing alternatives to Anthropic, report says",
-        "title_en": "The Pentagon is developing alternatives to Anthropic, report says",
-        "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-        "summary_en": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-        "long_summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-        "long_summary_en": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1601911146.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
-        "date": "18 March 2026"
-      },
-      {
-        "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-        "title_en": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
-        "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-        "summary_en": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-        "long_summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-        "long_summary_en": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
-        "date": "18 March 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+        "title_en": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+        "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+        "summary_en": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+        "long_summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+        "long_summary_en": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+        "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1297183927.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+        "date": "18 March 2026"
+      },
       {
         "title": "Google AI Releases WAXAL: A Multilingual African Speech Dataset for Training Automatic Speech Recognition and Text-to-Speech Models",
         "title_en": "Google AI Releases WAXAL: A Multilingual African Speech Dataset for Training Automatic Speech Recognition and Text-to-Speech Models",
@@ -897,29 +909,10 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/",
         "date": "11 March 2026"
-      },
-      {
-        "title": "Clarté stratégique : comment l'IA révolutionne la transparence des services professionnels",
-        "title_en": "Clarity as strategy",
-        "summary": "CuraeSoft lance coAmplifi Pro, une plateforme IA pour optimiser la rentabilité des cabinets de conseil.",
-        "summary_en": "CuraeSoft, a software studio developing practical solutions for professional services firms, observes that among growing consultancies and service-based organizations, many leaders operate without cle",
-        "long_summary": "De nombreuses entreprises de services manquent de visibilité sur leur rentabilité. CuraeSoft propose une solution IA.\n\nPoints clés :\n• Plateforme coAmplifi Pro pour une transparence opérationnelle\n• Utilisation de l'IA pour connecter activités et résultats financiers\n• Optimisation des processus décisionnels grâce à l'analyse prédictive\n\nCette innovation pourrait redéfinir la gestion des cabinets de conseil et des services professionnels.",
-        "long_summary_en": "CuraeSoft, a software studio developing practical solutions for professional services firms, observes that among growing consultancies and service-based organizations, many leaders operate without clear visibility into the profitability of their work. Given this context, the company developed coAmplifi Pro, a platform designed to bring greater transparency to service delivery and help organizations connect operational activity […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FTNW-wallpaper.png&signature=0ddd89db72143ea79c4befa6afe42d44",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/clarity-as-strategy",
-        "date": "11 March 2026"
       }
     ]
   },
   "hotNews": [
-    {
-      "title": "OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut - The Economic Times",
-      "title_en": "OpenAI launches GPT-5.4 Mini and Nano models following GPT-5.4 debut - The Economic Times",
-      "source": "Economictimes",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-launches-gpt-5-4-mini-and-nano-models-following-gpt-5-4-debut/articleshow/129649030.cms",
-      "date": "18 March 2026"
-    },
     {
       "title": "WordPress lance des plugins officiels pour ChatGPT, Gemini et Claude",
       "title_en": "WordPress Launches AI Plugins for ChatGPT, Gemini, and Claude",
@@ -928,10 +921,17 @@
       "date": "07 March 2026"
     },
     {
-      "title": "GPT-5 vs Gemini 2.5 Pro: Battle of the Giants — 2026 Comparison",
-      "title_en": "GPT-5 vs Gemini 2.5 Pro: Battle of the Giants — 2026 Comparison",
-      "source": "Ucstrategies",
-      "url": "https://ucstrategies.com/news/gpt-5-vs-gemini-2-5-pro-battle-of-the-giants-2026-comparison/",
+      "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "18 March 2026"
+    },
+    {
+      "title": "ChatGPT vs Gemini vs Copilot vs Claude vs Perplexity vs Grok | AI Assistants | Gmelius",
+      "title_en": "ChatGPT vs Gemini vs Copilot vs Claude vs Perplexity vs Grok | AI Assistants | Gmelius",
+      "source": "Gmelius",
+      "url": "https://gmelius.com/blog/best-ai-assistants-comparison",
       "date": "18 March 2026"
     }
   ]
