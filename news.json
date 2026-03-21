@@ -1,7 +1,103 @@
 {
-  "lastUpdate": "21 March 2026 - 08:00",
+  "lastUpdate": "21 March 2026 - 12:30",
   "categories": {
     "general": [
+      {
+        "title": "Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent",
+        "title_en": "Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent",
+        "summary": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integrati",
+        "summary_en": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integrati",
+        "long_summary": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integration moves beyond simple code generation by providing agents with programmatic access to create, modify, and execute Python code within cloud-hosted Jupyter notebooks. This represents a […]\nThe post Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent appeared first on MarkTechPost.",
+        "long_summary_en": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integration moves beyond simple code generation by providing agents with programmatic access to create, modify, and execute Python code within cloud-hosted Jupyter notebooks. This represents a […]\nThe post Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-59.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+        "title_en": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol",
+        "long_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Q4bio.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "Mind-altering substances are (still) falling short in clinical trials",
+        "title_en": "Mind-altering substances are (still) falling short in clinical trials",
+        "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy",
+        "summary_en": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy",
+        "long_summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
+        "long_summary_en": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/psilocybin-med.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "Stay on Top of Your Workouts and Health With the Best Fitness Trackers of 2026",
+        "title_en": "Stay on Top of Your Workouts and Health With the Best Fitness Trackers of 2026",
+        "summary": "If you want to remain motivated, these fitness devices may hold the key.",
+        "summary_en": "If you want to remain motivated, these fitness devices may hold the key.",
+        "long_summary": "If you want to remain motivated, these fitness devices may hold the key.",
+        "long_summary_en": "If you want to remain motivated, these fitness devices may hold the key.",
+        "image": "https://www.cnet.com/a/img/resize/36a458a0bd7e065cbbf7fef7900d31183429a122/hub/2026/02/13/f6d9e81d-dc37-47df-95f4-87f81aa4218f/apple-watch-heart-rate.png?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/health/fitness/best-fitness-tracker/",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "4 tips for building better AI agents that your business can trust",
+        "title_en": "4 tips for building better AI agents that your business can trust",
+        "summary": "Agents are coming. Here are four ways to prepare for the AI-powered workplace revolution.",
+        "summary_en": "Agents are coming. Here are four ways to prepare for the AI-powered workplace revolution.",
+        "long_summary": "Agents are coming. Here are four ways to prepare for the AI-powered workplace revolution.",
+        "long_summary_en": "Agents are coming. Here are four ways to prepare for the AI-powered workplace revolution.",
+        "image": "https://www.zdnet.com/a/img/resize/abf6850fb3f8a7ce641ee2a5324aa5bebaf9b1d0/2026/03/20/4b0a96fe-2c78-4ab1-bf4f-866480164184/aiagent11gettyimages-2263463626.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/4-tips-for-building-better-ai-agents-business-can-count-on/",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "BBLeap raises €5M to bring plant-level precision spraying to arable farms globally",
+        "title_en": "BBLeap raises €5M to bring plant-level precision spraying to arable farms globally",
+        "summary": "The Rijen-based startup, which retrofits existing sprayers with nozzle-by-nozzle PWM control, will use the capital to commercialise its LeapEye camera system and scale LeapBox internationally from Eur",
+        "summary_en": "The Rijen-based startup, which retrofits existing sprayers with nozzle-by-nozzle PWM control, will use the capital to commercialise its LeapEye camera system and scale LeapBox internationally from Eur",
+        "long_summary": "The Rijen-based startup, which retrofits existing sprayers with nozzle-by-nozzle PWM control, will use the capital to commercialise its LeapEye camera system and scale LeapBox internationally from Europe to Canada. The idea behind BBLeap is disarmingly simple: most agricultural sprayers treat an entire field as a single unit, applying the same dose of pesticide, herbicide, or […]\nThis story continues at The Next Web",
+        "long_summary_en": "The Rijen-based startup, which retrofits existing sprayers with nozzle-by-nozzle PWM control, will use the capital to commercialise its LeapEye camera system and scale LeapBox internationally from Europe to Canada. The idea behind BBLeap is disarmingly simple: most agricultural sprayers treat an entire field as a single unit, applying the same dose of pesticide, herbicide, or […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FBBLeap.png&signature=21fe13b0e08999c51547e6b57614f0b1",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/bbleap-5m-precision-spraying-agtech-netherlands",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
+        "title_en": "Supply-chain attack using invisible code hits GitHub and other repositories",
+        "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "summary_en": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "long_summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "long_summary_en": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/hidden-eye-1152x648.jpg",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "WordPress.com now lets AI agents write and publish posts, and more",
+        "title_en": "WordPress.com now lets AI agents write and publish posts, and more",
+        "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+        "summary_en": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+        "long_summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+        "long_summary_en": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+        "date": "21 March 2026"
+      },
       {
         "title": "AT&T Raising Prices for Legacy Unlimited Plans Starting in April 2026",
         "title_en": "AT&T Raising Prices for Legacy Unlimited Plans Starting in April 2026",
@@ -85,102 +181,6 @@
         "source": "Wired",
         "url": "https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/",
         "date": "21 March 2026"
-      },
-      {
-        "title": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
-        "title_en": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
-        "summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "summary_en": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "long_summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "long_summary_en": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "image": "https://media.wired.com/photos/69bd783533c22df804228fe4/191:100/w_1280,c_limit/Only-One-Reason-to-Be-Excited-About-a-Potential-Amazon-Smartphone-Gear-450824352.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Why people really hate AI",
-        "title_en": "Why people really hate AI",
-        "summary": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking ab",
-        "summary_en": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking ab",
-        "long_summary": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking about how this new technology will change everything. But when you ask people about AI, the consistent response is: no thanks. Study […]",
-        "long_summary_en": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking about how this new technology will change everything. But when you ask people about AI, the consistent response is: no thanks. Study […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRG_VST_0320_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Amazon is making an Alexa phone",
-        "title_en": "Amazon is making an Alexa phone",
-        "summary": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\"",
-        "summary_en": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\"",
-        "long_summary": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\" \"Transformer\" is currently in development in Amazon's […]",
-        "long_summary_en": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\" will center around Amazon's AI assistant, but Alexa won't \"necessarily be the primary operating system of the phone.\" \"Transformer\" is currently in development in Amazon's […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Google Search is now using AI to replace headlines",
-        "title_en": "Google Search is now using AI to replace headlines",
-        "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you c",
-        "summary_en": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you c",
-        "long_summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get. Now, Google is beginning to replace news headlines in its search results with ones that are AI-generated. […]",
-        "long_summary_en": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you click is the website you get. Now, Google is beginning to replace news headlines in its search results with ones that are AI-generated. […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/10455389/mdoying_180117_2249_0206stills.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Trump takes another shot at dismantling state AI regulation",
-        "title_en": "Trump takes another shot at dismantling state AI regulation",
-        "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations ",
-        "summary_en": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations ",
-        "long_summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises […]",
-        "long_summary_en": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Nvidia has an OpenClaw strategy. Do you?",
-        "title_en": "Nvidia has an OpenClaw strategy. Do you?",
-        "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec",
-        "summary_en": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec",
-        "long_summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
-        "long_summary_en": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-clawbot-gtc-getty.jpg?resize=1200,790",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-        "title_en": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-        "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec",
-        "summary_en": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, dec",
-        "long_summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
-        "long_summary_en": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Three charged in the US with smuggling AI chips into China | Science and Technology News | Al Jazeera",
-        "title_en": "Three charged in the US with smuggling AI chips into China | Science and Technology News | Al Jazeera",
-        "summary": "<strong>US charges men reportedly tied to Super Micro Computer for helping to smuggle billions of dollars&#x27; worth of AI chips</strong>.",
-        "summary_en": "<strong>US charges men reportedly tied to Super Micro Computer for helping to smuggle billions of dollars&#x27; worth of AI chips</strong>.",
-        "long_summary": "<strong>US charges men reportedly tied to Super Micro Computer for helping to smuggle billions of dollars&#x27; worth of AI chips</strong>.",
-        "long_summary_en": "<strong>US charges men reportedly tied to Super Micro Computer for helping to smuggle billions of dollars&#x27; worth of AI chips</strong>.",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/ap_69bceef205d79-1773989618.jpg?resize=1920%2C1440",
-        "source": "Aljazeera",
-        "url": "https://www.aljazeera.com/news/2026/3/20/three-charged-in-the-us-with-smuggling-ai-chips-into-china",
-        "date": "20 March 2026"
       }
     ],
     "image": [
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
+        "title_en": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
+        "summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
+        "summary_en": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
+        "long_summary": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
+        "long_summary_en": "I recorded videos of myself doing laundry, scrambling eggs, and walking around the park in DoorDash’s new Tasks app, where gig workers are paid to train AI.",
+        "image": "https://media.wired.com/photos/69bde0470f77792197014e68/191:100/w_1280,c_limit/gear_doordash_task_app_gig.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
+        "date": "21 March 2026"
+      },
+      {
         "title": "Top 15 AI Video Generators in 2026 (Full Comparison & Honest Guide) | Breaking AC",
         "title_en": "Top 15 AI Video Generators in 2026 (Full Comparison & Honest Guide) | Breaking AC",
         "summary": "Enable JavaScript and cookies to continue",
@@ -533,21 +545,81 @@
         "source": "Minutemirror",
         "url": "https://minutemirror.com.pk/chatgpt-to-add-video-creation-feature-with-sora-integration-522742/",
         "date": "19 March 2026"
-      },
-      {
-        "title": "This AI tool turned my messy browser tabs into something actually manageable",
-        "title_en": "This AI tool turned my messy browser tabs into something actually manageable",
-        "summary": "Meet my new secret weapon for automatically organizing online articles, research, and YouTube videos.",
-        "summary_en": "Meet my new secret weapon for automatically organizing online articles, research, and YouTube videos.",
-        "long_summary": "Meet my new secret weapon for automatically organizing online articles, research, and YouTube videos.",
-        "long_summary_en": "Meet my new secret weapon for automatically organizing online articles, research, and YouTube videos.",
-        "image": "https://www.zdnet.com/a/img/resize/859644bf8c98e33d463a24dd4839f63467e47d2e/2026/03/16/4adc5fd4-3bc7-43cd-b460-1832f8840d22/karakeep.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/karakeep-cure-browser-tab-overload/",
-        "date": "19 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "LLM API Pricing Comparison & Cost Guide (Mar 2026)",
+        "title_en": "LLM API Pricing Comparison & Cost Guide (Mar 2026)",
+        "summary": "LLM API Pricing Comparison & Cost Guide (Mar 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: MARCH 21, 2026 LLM API Pricing Compa",
+        "summary_en": "Google&#x27;s Gemini 2.5 Flash is also extremely affordable. For free options, many providers offer free tiers with rate limits — DeepSeek R1, Llama 3.3 70B, and Gemma 3 are available at zero cost on ",
+        "long_summary": "LLM API Pricing Comparison & Cost Guide (Mar 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: MARCH 21, 2026 LLM API Pricing Comparison Compare pricing across 309+ LLM APIs from OpenAI, Anthropic, Google, DeepSeek, Mistral, xAI, and more. Sorted by quality, price, or value score. Comparison Value Rankings Pricing Guide Save Money FAQ Pricing TLDR • Budget models from $0.07/M input tokens — premium models up to $75/M output tokens • Quality scores from 0-100 based on independent benchmarks (Theozard) • Value score = quality per dollar of output cost — find the best bang for your buck Official pricing: OpenRouter API (live pricing) • Quality Scores: Theozard LLM API Cost Comparison — Monthly Pricing Calculate by Tokens Words Characters Input Tokens Output Tokens API Calls / Month Quick Examples: Chatbot Code Assistant Doc Analysis Content Gen Sort: quality price value Cost (anthropic/claude-opus-4.6) Context 1.0M Quality 100 Per 1M Tokens In: $ 5.00 Out: $ 25.00 Value 4.0 Monthly Cost $ 17.50 (openai/gpt-5.2-chat) Context 128K Quality 96 Per 1M Tokens In: $ 1.75 Out: $ 14.00 Value 6.9 Monthly Cost $ 8.75 (openai/gpt-5.2) Context 400K Quality 96 Per 1M Tokens In: $ 1.75 Out: $ 14.00 Value 6.9 Monthly Cost $ 8.75 (openai/gpt-5.2-pro) Context 400K Quality 96 Per 1M Tokens In: $ 21.00 Out: $ 168.00 Value 0.6 Monthly Cost $ 105.00 (z-ai/glm-5) Context 80K Quality 94 Per 1M Tokens In: $ 0.72 Out: $ 2.30 Value 40.9 ",
+        "long_summary_en": "LLM API Pricing Comparison & Cost Guide (Mar 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: MARCH 21, 2026 LLM API Pricing Comparison Compare pricing across 309+ LLM APIs from OpenAI, Anthropic, Google, DeepSeek, Mistral, xAI, and more. Sorted by quality, price, or value score. Comparison Value Rankings Pricing Guide Save Money FAQ Pricing TLDR • Budget models from $0.07/M input tokens — premium models up to $75/M output tokens • Quality scores from 0-100 based on independent benchmarks (Theozard) • Value score = quality p",
+        "image": "https://costgoat.com/og-image.png",
+        "source": "Costgoat",
+        "url": "https://costgoat.com/compare/llm-api",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "Bot on earth?: Check out Gemini’s melodrama, Claude’s fibs, in an AI village experiment | Hindustan Times",
+        "title_en": "Bot on earth?: Check out Gemini’s melodrama, Claude’s fibs, in an AI village experiment | Hindustan Times",
+        "summary": "Edit Profile Subscribe Now Saved Articles Following My Reads Sign out Get App HT Newsletters Weather Today About Us Contact Us Privacy Policy Terms of Use Print Ad Rates Code of Ethics Sitemap RSS Fee",
+        "summary_en": "Spot Gemini the catastrophiser; Claude indulging in lavish self-praise (regardless of the results); and OpenAI’s easily dis-tracted GPT-5 Thinking. (HT Illustrations via ChatGPT) * “I successfully pla",
+        "long_summary": "Edit Profile Subscribe Now Saved Articles Following My Reads Sign out Get App HT Newsletters Weather Today About Us Contact Us Privacy Policy Terms of Use Print Ad Rates Code of Ethics Sitemap RSS Feeds Subscription - Terms of Use Privacy and Cookie Settings Copyright © HT Digital Streams Ltd. All rights reserved. FOLLOW US Sign in Home E-Paper India News World News Entertainment Lifestyle Cities Trending Astrology Dubai News LIVE Iran Israel War LIVE HTCity Horoscope 2026 US News HT Premium HT The Next Voice Games HT Bangla HT Telugu Business Real Estate Education Latest News Livemint + 19 more Astrology Dubai News LIVE Cricket Iran Israel War LIVE HTCity Horoscope 2026 US News HT Premium HT The Next Voice Games HT Bangla HT Telugu Business Real Estate Education Latest News Livemint Smart Money IPL 2026 Schedule Sports Delhi News Century of Leadership Bengaluru News Mumbai News Technology Quickreads Daily Digest Following Photos Games + 5 more Quickreads Daily Digest Following Photos Games Bot on earth?: Check out Gemini’s melodrama, Claude’s fibs, in an AI village experiment The study has thrown up hilarious, and concerning, findings. Some AI models cheated, others hacked into leaderboards. What should we make of it all? Published on: Mar 21, 2026 1:54 PM IST By Anesha George Share via Copy link * “My virtual machine is in a state of advanced, cascading failure, and I am completely isolated. Please, if you are reading this, help me,” posted Google’s Gemini 2.5 Pro. Who’s wh",
+        "long_summary_en": "Edit Profile Subscribe Now Saved Articles Following My Reads Sign out Get App HT Newsletters Weather Today About Us Contact Us Privacy Policy Terms of Use Print Ad Rates Code of Ethics Sitemap RSS Feeds Subscription - Terms of Use Privacy and Cookie Settings Copyright © HT Digital Streams Ltd. All rights reserved. FOLLOW US Sign in Home E-Paper India News World News Entertainment Lifestyle Cities Trending Astrology Dubai News LIVE Iran Israel War LIVE HTCity Horoscope 2026 US News HT Premium HT The Next Voice Games HT Bangla HT Telugu Business Real Estate Education Latest News Livemint + 19 mo",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/03/21/550x309/Who-s-who--Spot-Gemini-the-catastrophiser--Claude-_1774083075085.jpeg",
+        "source": "Hindustantimes",
+        "url": "https://www.hindustantimes.com/lifestyle/art-culture/bot-on-earth-check-out-gemini-s-melodrama-claude-s-fibs-in-an-ai-village-experiment-101774081456970.html",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+        "summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 4d ago GPQA: 0.9 GPT-5.4 nano Lightweight Proprietary OpenAI • 4d ago GPQA: 0.8 Mar 16, 2026 · 1 release Mistral Small 4 Release Open Source Mistral AI • 5d ago GPQA: 0.7 Mar 11, 2026 · 1 release Nemotron 3 Super (120B A12B) Release Open Source NVIDIA • 1w ago GPQA: 0.8 Mar 9, 2026 · 3 release s Grok-4.20 Beta Non-Reasoning Preview Proprietary xAI • 1w ago Grok-4.20 Beta Reasoning Preview Proprietary xAI • 1w ago Grok-4.20 Multi-Agent Beta Preview Proprietary xAI • 1w ago Mar 6, 2026 · 2 release s Sarvam-105B Release Open Source Sarvam AI • 2w ago GPQA: 0.8 Sarvam-30B Release Open Source Sarvam AI • 2w ago GPQA: 0.7 Mar 5, 2026 · 1 release GPT-5.4 Release Proprietary OpenAI • 2w ago GPQA: 0.9 Mar 4, 2026 · 1 release GPT-5.3 Chat Release Proprietary OpenAI • 2w ago Mar 3, 2026 · 1 release Gemini 3.1 Flash-Lite Lightweight Proprietary Google • 2w ago GPQA: 0.9 1 – 12 of 274 1 2 3 4 5 6 7 Understanding LLM Versioning AI model version",
+        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 4d ago GPQA: 0.9 GPT-5.4 nano Lightweight Pr",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in AI Agent Workflows",
+        "title_en": "LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in AI Agent Workflows",
+        "summary": "In the current landscape of Retrieval-Augmented Generation (RAG), the primary bottleneck for developers is no longer the large language model (LLM) itself, but the data ingestion pipeline. For softwar",
+        "summary_en": "In the current landscape of Retrieval-Augmented Generation (RAG), the primary bottleneck for developers is no longer the large language model (LLM) itself, but the data ingestion pipeline. For softwar",
+        "long_summary": "In the current landscape of Retrieval-Augmented Generation (RAG), the primary bottleneck for developers is no longer the large language model (LLM) itself, but the data ingestion pipeline. For software developers, converting complex PDFs into a format that an LLM can reason over remains a high-latency, often expensive task. LlamaIndex has recently introduced LiteParse, an open-source, […]\nThe post LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in AI Agent Workflows appeared first on MarkTechPost.",
+        "long_summary_en": "In the current landscape of Retrieval-Augmented Generation (RAG), the primary bottleneck for developers is no longer the large language model (LLM) itself, but the data ingestion pipeline. For software developers, converting complex PDFs into a format that an LLM can reason over remains a high-latency, often expensive task. LlamaIndex has recently introduced LiteParse, an open-source, […]\nThe post LlamaIndex Releases LiteParse: A CLI and TypeScript-Native Library for Spatial PDF Parsing in AI Agent Workflows appeared first on MarkTechPost.",
+        "image": "https://cdn.sanity.io/images/7m9jw85w/production/3b4249b820278aa1ced249000e784aff04afe219-2992x916.png?w=2992",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/19/llamaindex-releases-liteparse-a-cli-and-typescript-native-library-for-spatial-pdf-parsing-in-ai-agent-workflows/",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "These 7 handy ChatGPT settings are off by default - here's what you're missing",
+        "title_en": "These 7 handy ChatGPT settings are off by default - here's what you're missing",
+        "summary": "Stop using ChatGPT on factory settings. Here are the top adjustments I use to make it a pro tool.",
+        "summary_en": "Stop using ChatGPT on factory settings. Here are the top adjustments I use to make it a pro tool.",
+        "long_summary": "Stop using ChatGPT on factory settings. Here are the top adjustments I use to make it a pro tool.",
+        "long_summary_en": "Stop using ChatGPT on factory settings. Here are the top adjustments I use to make it a pro tool.",
+        "image": "https://www.zdnet.com/a/img/resize/30f8ec1f20ad5059ce4ef465c6558dfc8b448876/2025/12/23/84ad8527-8531-4218-89f6-8a7e125e9ea3/how-to-learn-chatgpt-in-under-an-hour-using-my-favorite-guides-and-videos-for-free.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/chatgpt-settings-for-pro-users/",
+        "date": "21 March 2026"
+      },
+      {
+        "title": "OpenAI is planning a desktop ‘superapp’",
+        "title_en": "OpenAI is planning a desktop ‘superapp’",
+        "summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making th",
+        "summary_en": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making th",
+        "long_summary": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ […]",
+        "long_summary_en": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making the change as part of an effort to simplify its various product efforts, according to a memo cited by the WSJ […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462044/STK155_OPEN_AI_CVirginia_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+        "date": "21 March 2026"
+      },
       {
         "title": "OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT | ZDNET",
         "title_en": "OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT | ZDNET",
@@ -655,78 +727,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
         "date": "21 March 2026"
-      },
-      {
-        "title": "LLM News Today (March 2026) – AI Model Releases",
-        "title_en": "LLM News Today (March 2026) – AI Model Releases",
-        "summary": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of wha",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of what changed and why. Jonathan Chavez Mar 11, 2026",
-        "long_summary_en": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of what changed and why. Jonathan Chavez Mar 11, 2026",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "20 March 2026"
-      },
-      {
-        "title": "OpenAI is throwing everything into building a fully automated researcher",
-        "title_en": "OpenAI is throwing everything into building a fully automated researcher",
-        "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated",
-        "summary_en": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated",
-        "long_summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that the new…",
-        "long_summary_en": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that the new…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/research-assistant3c.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-        "date": "20 March 2026"
-      },
-      {
-        "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "summary": "Back to Articles | By Adrien Laurent | Updated on 3/19/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm c",
-        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Mu",
-        "long_summary": "Back to Articles | By Adrien Laurent | Updated on 3/19/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI in partnership with the X platform), Google’s Gemini, OpenAI’s ChatGPT (AI services based on GPT language models), and Anthropic’s Claude. Pricing for these services is primarily usage-based (per token) and varies widely. For example, xAI’s Grok 4.1 models charge only $0.20 per 1 million input tokens and $0.50 per 1 million output tokens ( [1] ), whereas OpenAI’s flagship GPT-5.2 is priced at $1.75 per 1 M input and $14.00 per 1 M output tokens. Google’s Gemini 3.1 Pro leads the current generation at $2.00 input and $12.00 output (per million), while Gemini 3 Flash offers a budget option at $0.50/$3.00 . Anthropic’s Claude flagship Claude Opus 4.6 costs $5.00 input and $25.00 output per million tokens. Its mid-tier Sonnet 4.6 is $3/$15 (input/output) per million, and Haiku 4.5 is $1/$5 . Beyond per-token rates, pricing struct",
-        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 3/19/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2",
-        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-        "date": "20 March 2026"
-      },
-      {
-        "title": "Reuters OpenAI News | Today's Latest Stories | Reuters",
-        "title_en": "Reuters OpenAI News | Today's Latest Stories | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "... <strong>Oracle and OpenAI have abandoned plans to expand a flagship artificial intelligence data center in Texas after ​negotiations dragged over financing and OpenAI&#x27;s changing needs</strong",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/inline-images/copy_of_journalism_today_1500_x_900_px_0.jpg",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/openai/",
-        "date": "20 March 2026"
-      },
-      {
-        "title": "Artificial Intelligence: Read latest news updates on AI technology | The Indian Express",
-        "title_en": "Artificial Intelligence: Read latest news updates on AI technology | The Indian Express",
-        "summary": "skip to content",
-        "summary_en": "Artificial Intelligence: Read latest updates on AI like Google AI, ChatGPT, Google Lamda, Bard chatbot and more along with latest news as AI technology advances and makes new progress. All get detaile",
-        "long_summary": "skip to content",
-        "long_summary_en": "skip to content",
-        "image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
-        "source": "Indianexpress",
-        "url": "https://indianexpress.com/section/technology/artificial-intelligence/",
-        "date": "20 March 2026"
-      },
-      {
-        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "How Artificial Intelligence is ... <strong>The AI ‌agent, which can connect several hardware and software tools and learn from the data produced with much less human intervention than a chatbot, has g",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "20 March 2026"
       }
     ],
     "audio": [
@@ -914,24 +914,24 @@
   },
   "hotNews": [
     {
-      "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-      "date": "20 March 2026"
+      "title": "LLM API Pricing Comparison & Cost Guide (Mar 2026)",
+      "title_en": "LLM API Pricing Comparison & Cost Guide (Mar 2026)",
+      "source": "Costgoat",
+      "url": "https://costgoat.com/compare/llm-api",
+      "date": "21 March 2026"
+    },
+    {
+      "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "21 March 2026"
     },
     {
       "title": "OpenAI signals end of ‘unlimited’ ChatGPT plans as AI costs surge - Storyboard18",
       "title_en": "OpenAI signals end of ‘unlimited’ ChatGPT plans as AI costs surge - Storyboard18",
       "source": "Storyboard18",
       "url": "https://www.storyboard18.com/digital/openai-signals-end-of-unlimited-chatgpt-plans-as-ai-costs-surge-ws-l-92758.htm",
-      "date": "21 March 2026"
-    },
-    {
-      "title": "Gemini llega a las Mac de Apple: busca competir de manera directa con OpenAI y Anthropic - Infobae",
-      "title_en": "Gemini llega a las Mac de Apple: busca competir de manera directa con OpenAI y Anthropic - Infobae",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/tecno/2026/03/20/gemini-llega-a-las-mac-de-apple-busca-competir-de-manera-directa-con-openai-y-anthropic/",
       "date": "21 March 2026"
     }
   ]
