@@ -1,7 +1,91 @@
 {
-  "lastUpdate": "21 March 2026 - 18:30",
+  "lastUpdate": "22 March 2026 - 08:00",
   "categories": {
     "general": [
+      {
+        "title": "OpenCode – Open source AI coding agent | Hacker News",
+        "title_en": "OpenCode – Open source AI coding agent | Hacker News",
+        "summary": "OpenCode – Open source AI coding agent | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login OpenCode – Open source AI coding agent ( opencode.ai ) 1207 points by rbanffy ",
+        "summary_en": "More than that, <strong>it&#x27;s an extremely large and complex TypeScript code base</strong> — probably larger and more complex than it needs to be — and (partly as a result) it&#x27;s fairly resour",
+        "long_summary": "OpenCode – Open source AI coding agent | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login OpenCode – Open source AI coding agent ( opencode.ai ) 1207 points by rbanffy 1 day ago | hide | past | favorite | 595 comments help logicprog 1 day ago | next [–] OpenCode was the first open source agent I used, and my main workhorse after experimenting briefly with Claude Code and realizing the potential of agentic coding. Due to that, and because it's a popular an open source alternative, I want to be able to recommend it and be enthusiastic about it. The problem for me is that the development practices of the people that are working on it are suboptimal at best; they're constantly releasing at an extremely high cadence, where they don't even spend the time to test or fix things (or even build a proper list of changes for each release), and they add, remove, refine, change, fix, and break features constantly at that accelerated pace. More than that, it's an extremely large and complex TypeScript code base — probably larger and more complex than it needs to be — and (partly as a result) it's fairly resource inefficient (often uses 1GB of RAM or more. For a TUI). On top of that , at least I personally find the TUI to be overbearing and a little bit buggy, and the agent to be so full of features that I don't really need — also mildly buggy — that it sort of becomes hard to use and remember how everything is supposed to work and interact. reply jmmv 21 hour",
+        "long_summary_en": "OpenCode – Open source AI coding agent | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login OpenCode – Open source AI coding agent ( opencode.ai ) 1207 points by rbanffy 1 day ago | hide | past | favorite | 595 comments help logicprog 1 day ago | next [–] OpenCode was the first open source agent I used, and my main workhorse after experimenting briefly with Claude Code and realizing the potential of agentic coding. Due to that, and because it's a popular an open source alternative, I want to be able to recommend it and be enthusiastic about it. The problem for me ",
+        "image": "https://abit.ee/images/opencode-ai-agent-coding-claude-code-open-source-github-anthropic-openai-01.webp",
+        "source": "News",
+        "url": "https://news.ycombinator.com/item?id=47460525",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing)",
+        "title_en": "Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing)",
+        "summary": "Deploying a new machine learning model to production is one of the most critical stages of the ML lifecycle. Even if a model performs well on validation and test datasets, directly replacing the exist",
+        "summary_en": "Deploying a new machine learning model to production is one of the most critical stages of the ML lifecycle. Even if a model performs well on validation and test datasets, directly replacing the exist",
+        "long_summary": "Deploying a new machine learning model to production is one of the most critical stages of the ML lifecycle. Even if a model performs well on validation and test datasets, directly replacing the existing production model can be risky. Offline evaluation rarely captures the full complexity of real-world environments—data distributions may shift, user behavior can […]\nThe post Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing) appeared first on MarkTechPost.",
+        "long_summary_en": "Deploying a new machine learning model to production is one of the most critical stages of the ML lifecycle. Even if a model performs well on validation and test datasets, directly replacing the existing production model can be risky. Offline evaluation rarely captures the full complexity of real-world environments—data distributions may shift, user behavior can […]\nThe post Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing) appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-60-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/21/safely-deploying-ml-models-to-production-four-controlled-strategies-a-b-canary-interleaved-shadow-testing/",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "How to AirDrop on an Android phone (and the few models that can actually do it)",
+        "title_en": "How to AirDrop on an Android phone (and the few models that can actually do it)",
+        "summary": "Google has found a way for Quick Share to play nicely with AirDrop, paving the way for the new sharing method.",
+        "summary_en": "Google has found a way for Quick Share to play nicely with AirDrop, paving the way for the new sharing method.",
+        "long_summary": "Google has found a way for Quick Share to play nicely with AirDrop, paving the way for the new sharing method.",
+        "long_summary_en": "Google has found a way for Quick Share to play nicely with AirDrop, paving the way for the new sharing method.",
+        "image": "https://www.zdnet.com/a/img/resize/6d3443eb571095719668e135fc380f44d8880221/2026/03/13/e5919096-14d5-47dc-a350-38b319cd2b50/dsc09804.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/how-to-airdrop-on-android-to-iphone/",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "The dummy server and the chip war",
+        "title_en": "The dummy server and the chip war",
+        "summary": "The indictment of Super Micro’s co-founder exposes not just a $2.5 billion scheme, it exposes a system that was never built to stop one. Somewhere in a rented warehouse in Southeast Asia, a man was us",
+        "summary_en": "The indictment of Super Micro’s co-founder exposes not just a $2.5 billion scheme, it exposes a system that was never built to stop one. Somewhere in a rented warehouse in Southeast Asia, a man was us",
+        "long_summary": "The indictment of Super Micro’s co-founder exposes not just a $2.5 billion scheme, it exposes a system that was never built to stop one. Somewhere in a rented warehouse in Southeast Asia, a man was using a hair dryer on a server box. Not to dry it. To loosen the adhesive on a serial-number sticker, […]\nThis story continues at The Next Web",
+        "long_summary_en": "The indictment of Super Micro’s co-founder exposes not just a $2.5 billion scheme, it exposes a system that was never built to stop one. Somewhere in a rented warehouse in Southeast Asia, a man was using a hair dryer on a server box. Not to dry it. To loosen the adhesive on a serial-number sticker, […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FYih-Shyan-Wally-Liaw.png&signature=02d18fd8d17bfe877e43d215953f0043",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/supermicro-chip-smuggling-export-controls-china",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+        "title_en": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+        "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "summary_en": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "long_summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "long_summary_en": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+        "title_en": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+        "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+        "summary_en": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+        "long_summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+        "long_summary_en": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+        "title_en": "Are AI tokens the new signing bonus or just a cost of doing business?",
+        "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+        "summary_en": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+        "long_summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+        "long_summary_en": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1151746484.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+        "date": "22 March 2026"
+      },
       {
         "title": "I Tried Cooking Bacon 3 Ways. It Turns Out I've Been Doing It All Wrong",
         "title_en": "I Tried Cooking Bacon 3 Ways. It Turns Out I've Been Doing It All Wrong",
@@ -96,90 +180,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-2026-getty.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent",
-        "title_en": "Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent",
-        "summary": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integrati",
-        "summary_en": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integrati",
-        "long_summary": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integration moves beyond simple code generation by providing agents with programmatic access to create, modify, and execute Python code within cloud-hosted Jupyter notebooks. This represents a […]\nThe post Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent appeared first on MarkTechPost.",
-        "long_summary_en": "Google has officially released the Colab MCP Server, an implementation of the Model Context Protocol (MCP) that enables AI agents to interact directly with the Google Colab environment. This integration moves beyond simple code generation by providing agents with programmatic access to create, modify, and execute Python code within cloud-hosted Jupyter notebooks. This represents a […]\nThe post Google Colab Now Has an Open-Source MCP (Model Context Protocol) Server: Use Colab Runtimes with GPUs from Any Local AI Agent appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-59.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/19/google-colab-now-has-an-open-source-mcp-model-context-protocol-server-use-colab-runtimes-with-gpus-from-any-local-ai-agent/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-        "title_en": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol",
-        "long_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Q4bio.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Mind-altering substances are (still) falling short in clinical trials",
-        "title_en": "Mind-altering substances are (still) falling short in clinical trials",
-        "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy",
-        "summary_en": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy",
-        "long_summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
-        "long_summary_en": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/psilocybin-med.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Stay on Top of Your Workouts and Health With the Best Fitness Trackers of 2026",
-        "title_en": "Stay on Top of Your Workouts and Health With the Best Fitness Trackers of 2026",
-        "summary": "If you want to remain motivated, these fitness devices may hold the key.",
-        "summary_en": "If you want to remain motivated, these fitness devices may hold the key.",
-        "long_summary": "If you want to remain motivated, these fitness devices may hold the key.",
-        "long_summary_en": "If you want to remain motivated, these fitness devices may hold the key.",
-        "image": "https://www.cnet.com/a/img/resize/36a458a0bd7e065cbbf7fef7900d31183429a122/hub/2026/02/13/f6d9e81d-dc37-47df-95f4-87f81aa4218f/apple-watch-heart-rate.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/health/fitness/best-fitness-tracker/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "4 tips for building better AI agents that your business can trust",
-        "title_en": "4 tips for building better AI agents that your business can trust",
-        "summary": "Agents are coming. Here are four ways to prepare for the AI-powered workplace revolution.",
-        "summary_en": "Agents are coming. Here are four ways to prepare for the AI-powered workplace revolution.",
-        "long_summary": "Agents are coming. Here are four ways to prepare for the AI-powered workplace revolution.",
-        "long_summary_en": "Agents are coming. Here are four ways to prepare for the AI-powered workplace revolution.",
-        "image": "https://www.zdnet.com/a/img/resize/abf6850fb3f8a7ce641ee2a5324aa5bebaf9b1d0/2026/03/20/4b0a96fe-2c78-4ab1-bf4f-866480164184/aiagent11gettyimages-2263463626.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/4-tips-for-building-better-ai-agents-business-can-count-on/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "BBLeap raises €5M to bring plant-level precision spraying to arable farms globally",
-        "title_en": "BBLeap raises €5M to bring plant-level precision spraying to arable farms globally",
-        "summary": "The Rijen-based startup, which retrofits existing sprayers with nozzle-by-nozzle PWM control, will use the capital to commercialise its LeapEye camera system and scale LeapBox internationally from Eur",
-        "summary_en": "The Rijen-based startup, which retrofits existing sprayers with nozzle-by-nozzle PWM control, will use the capital to commercialise its LeapEye camera system and scale LeapBox internationally from Eur",
-        "long_summary": "The Rijen-based startup, which retrofits existing sprayers with nozzle-by-nozzle PWM control, will use the capital to commercialise its LeapEye camera system and scale LeapBox internationally from Europe to Canada. The idea behind BBLeap is disarmingly simple: most agricultural sprayers treat an entire field as a single unit, applying the same dose of pesticide, herbicide, or […]\nThis story continues at The Next Web",
-        "long_summary_en": "The Rijen-based startup, which retrofits existing sprayers with nozzle-by-nozzle PWM control, will use the capital to commercialise its LeapEye camera system and scale LeapBox internationally from Europe to Canada. The idea behind BBLeap is disarmingly simple: most agricultural sprayers treat an entire field as a single unit, applying the same dose of pesticide, herbicide, or […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FBBLeap.png&signature=21fe13b0e08999c51547e6b57614f0b1",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/bbleap-5m-precision-spraying-agtech-netherlands",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-        "title_en": "Supply-chain attack using invisible code hits GitHub and other repositories",
-        "summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-        "summary_en": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-        "long_summary": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-        "long_summary_en": "Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.",
-        "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/hidden-eye-1152x648.jpg",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
         "date": "21 March 2026"
       }
     ],
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Pippit AI: AI Video Generator - AI Tools Explorer",
+        "title_en": "Pippit AI: AI Video Generator - AI Tools Explorer",
+        "summary": "AI Ecommerce Tools • AI Video Generator Tools • Video Avatars Pippit AI: AI Video Generator Pricing Freemium Best for Ecommerce Platform(s) : Web ✔️ Integrations: Facebook , Instagram , Shopify , TikT",
+        "summary_en": "... <strong>Pippit AI</strong> offers a freemium model — it has a free plan with limited features and paid plans for full access. ... <strong>Pippit AI</strong> is available on: Web. ... <strong>Pippi",
+        "long_summary": "AI Ecommerce Tools • AI Video Generator Tools • Video Avatars Pippit AI: AI Video Generator Pricing Freemium Best for Ecommerce Platform(s) : Web ✔️ Integrations: Facebook , Instagram , Shopify , TikTok AI models : Nano Banana Pro , Seedream , Sora , Veo Try AI Tool Updated March 21, 2026 ▲ 26 Upvotes What is Pippit AI? Pippit AI is an AI video generator built for e-commerce sellers, marketers, and content creators. It turns product links, images, and scripts into finished marketing videos without requiring design or editing skills. The platform covers the full content workflow — from video and image creation to scheduling, publishing, and performance tracking. Pippit is powered by CapCut . Features & Benefits One-click video generation – Generate marketing videos from a product URL, uploaded media, or document. The AI video generator pulls product visuals and details to produce multiple video options automatically. AI avatars and voice synthesis – Present scripts on-screen using realistic digital avatars with multilingual voice output. Create a custom avatar for brand consistency across videos. AI product image generation – Generate professional product photos in batch for use on Shopify, TikTok Shop, Amazon, and other marketplaces. Batch image creation – Produce high volumes of product visuals at once to support large catalogs or frequent campaign updates. Image Studio – Replace product backgrounds, remove backgrounds in one click, add AI-generated shadows and lighting, and",
+        "long_summary_en": "AI Ecommerce Tools • AI Video Generator Tools • Video Avatars Pippit AI: AI Video Generator Pricing Freemium Best for Ecommerce Platform(s) : Web ✔️ Integrations: Facebook , Instagram , Shopify , TikTok AI models : Nano Banana Pro , Seedream , Sora , Veo Try AI Tool Updated March 21, 2026 ▲ 26 Upvotes What is Pippit AI? Pippit AI is an AI video generator built for e-commerce sellers, marketers, and content creators. It turns product links, images, and scripts into finished marketing videos without requiring design or editing skills. The platform covers the full content workflow — from video an",
+        "image": "https://aitoolsexplorer.com/wp-content/uploads/2024/06/AITE.webp",
+        "source": "Aitoolsexplorer",
+        "url": "https://aitoolsexplorer.com/ai-tools/pippit-ai-ai-video-generator/",
+        "date": "22 March 2026"
+      },
+      {
         "title": "The gen AI Kool-Aid tastes like eugenics",
         "title_en": "The gen AI Kool-Aid tastes like eugenics",
         "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, ",
@@ -533,21 +545,81 @@
         "source": "Colombiaone",
         "url": "https://colombiaone.com/2026/03/18/bytedance-seedance-2-0-hollywood-copyright-dispute/",
         "date": "19 March 2026"
-      },
-      {
-        "title": "Top Performing AI Video Generators: For Filmmaking, Advertising, & Content Creation",
-        "title_en": "Top Performing AI Video Generators: For Filmmaking, Advertising, & Content Creation",
-        "summary": "Latest Celebrity News & Entertainment News | RadarOnline Sign up for your daily dose of dope. × or Sign in with lockrMail LOG IN LOG IN EXCLUSIVE: Spencer Pratt Loses Sister's Vote — TV Villain Can't ",
-        "summary_en": "Rather than prioritising ... AI-powered tools: <strong>generative video, inpainting, background removal, motion tracking, and style transfers that read more like VFX tools than templated content gener",
-        "long_summary": "Latest Celebrity News & Entertainment News | RadarOnline Sign up for your daily dose of dope. × or Sign in with lockrMail LOG IN LOG IN EXCLUSIVE: Spencer Pratt Loses Sister's Vote — TV Villain Can't Even Get Family Behind Run for L.A. Mayor Exclusive Exclusive EXCLUSIVES EXCLUSIVE: Spencer Pratt Loses Sister's Vote — TV Villain Can't Even Get Family Behind Run for L.A. Mayor Exclusive EXCLUSIVES EXCLUSIVE: Sharon Stone's Losing Face — How 'Basic Instinct' Star, 67, is Being Branded a Hypocrite Over 'Obvious New Plastic Surgery' Exclusive EXCLUSIVES EXCLUSIVE: Robert Carradine Killed by Inner Demons — Star Driven to Suicide by Bipolar Disorder and Devastating Losses Exclusive EXCLUSIVES EXCLUSIVE: R. Kelly Sex Slave's Shocking Story — Shattered Victim Finally Fires Back in Revenge Tell-All Exclusive EXCLUSIVES EXCLUSIVE: Demi Moore Has 'Shrugged Off Bitterness' to Become Rock of Support for Ex Ashton Kutcher — 10 Years After Break-Up TRUE CRIME NEWS New Duggars House of Horrors: Sickening Details About Joseph's Arrest Are Released — As Older Brother Josh Serves 12-Year Sentence for Child Pornography TRUE CRIME NEWS Joseph Duggar Lamented Brother Josh's 'Secret Life' Amid Ashley Madison Cheating Scandal in Resurfaced Clip — Years Before His Own Arrest for 'Unlawful' Behavior With a Minor TRUE CRIME NEWS New Duggars House of Horrors: Sickening Details About Joseph's Arrest Are Released — As Older Brother Josh Serves 12-Year Sentence for Child Pornography TRUE CRIME NEWS Joseph ",
-        "long_summary_en": "Latest Celebrity News & Entertainment News | RadarOnline Sign up for your daily dose of dope. × or Sign in with lockrMail LOG IN LOG IN EXCLUSIVE: Spencer Pratt Loses Sister's Vote — TV Villain Can't Even Get Family Behind Run for L.A. Mayor Exclusive Exclusive EXCLUSIVES EXCLUSIVE: Spencer Pratt Loses Sister's Vote — TV Villain Can't Even Get Family Behind Run for L.A. Mayor Exclusive EXCLUSIVES EXCLUSIVE: Sharon Stone's Losing Face — How 'Basic Instinct' Star, 67, is Being Branded a Hypocrite Over 'Obvious New Plastic Surgery' Exclusive EXCLUSIVES EXCLUSIVE: Robert Carradine Killed by Inner ",
-        "image": "https://images.ctfassets.net/lzny33ho1g45/1B6tM8jHJC48XfE2RigLSD/8b94c7f08d473ec17a85c4460c413266/image8.jpeg",
-        "source": "Okmagazine",
-        "url": "https://okmagazine.com/p/top-performing-ai-video-generators-for-filmmaking-advertising-content-creation/",
-        "date": "19 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "BrowserOS 0.44.0 - Neowin",
+        "title_en": "BrowserOS 0.44.0 - Neowin",
+        "summary": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access neowin.net Why have I been blocked? This website is using a security service to protect it",
+        "summary_en": "BrowserOS works with OpenAI GPT models, Anthropic Claude, Google Gemini, and local AI models via Ollama or LMStudio.",
+        "long_summary": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access neowin.net Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 9e0351f77866f4e7 • Your IP: Click to reveal 2001:41d0:305:2100::ce09 • Performance & security by Cloudflare",
+        "long_summary_en": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access neowin.net Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray",
+        "image": "",
+        "source": "Neowin",
+        "url": "https://www.neowin.net/software/browseros-0440",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "How to Install OpenCode: Step-by-Step Setup Guide (2026) | NxCode",
+        "title_en": "How to Install OpenCode: Step-by-Step Setup Guide (2026) | NxCode",
+        "summary": "N NxCode Team 2026-03-22 • 9 min read Key Takeaways Multiple install paths : npm, Homebrew, curl script, Go install, Docker, and building from source -- pick whichever fits your toolchain. Five minute",
+        "summary_en": "<strong>Anthropic has restricted Claude access in third-party tools including OpenCode</strong>. If you have an API key that still works: ... However, most users in 2026 are using OpenAI or Gemini as ",
+        "long_summary": "N NxCode Team 2026-03-22 • 9 min read Key Takeaways Multiple install paths : npm, Homebrew, curl script, Go install, Docker, and building from source -- pick whichever fits your toolchain. Five minutes to first run : The fastest path (curl install script) gets OpenCode running in under five minutes on any Unix system. Provider-agnostic : OpenCode works with OpenAI, Google Gemini, Ollama local models, and more -- you are not locked into a single AI provider. Configuration is minimal : A single config.toml file and one environment variable are all you need to start coding with AI in your terminal. How to Install OpenCode: Step-by-Step Setup Guide (2026) OpenCode is the open-source AI coding agent built for the terminal. It brings the power of large language models directly into your command line, letting you write, refactor, debug, and understand code without leaving your editor or terminal workflow. Whether you are setting up OpenCode for the first time or migrating from another AI coding tool, this guide walks you through every installation method, initial configuration, provider setup, and troubleshooting step you will need. Prerequisites Before installing OpenCode, confirm your system meets the following requirements. Operating System OpenCode runs on macOS, Linux, and Windows. For Windows users, WSL (Windows Subsystem for Linux) is strongly recommended. Native Windows support via Scoop is also available. Runtime Requirements (depends on install method) Install Method Requi",
+        "long_summary_en": "N NxCode Team 2026-03-22 • 9 min read Key Takeaways Multiple install paths : npm, Homebrew, curl script, Go install, Docker, and building from source -- pick whichever fits your toolchain. Five minutes to first run : The fastest path (curl install script) gets OpenCode running in under five minutes on any Unix system. Provider-agnostic : OpenCode works with OpenAI, Google Gemini, Ollama local models, and more -- you are not locked into a single AI provider. Configuration is minimal : A single config.toml file and one environment variable are all you need to start coding with AI in your termina",
+        "image": "/images/news/opencode-install-guide-2026.svg",
+        "source": "Nxcode",
+        "url": "https://www.nxcode.io/resources/news/opencode-install-guide-step-by-step-2026",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research",
+        "title_en": "A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research",
+        "summary": "In this tutorial, we build an uncertainty-aware large language model system that not only generates answers but also estimates the confidence in those answers. We implement a three-stage reasoning pip",
+        "summary_en": "In this tutorial, we build an uncertainty-aware large language model system that not only generates answers but also estimates the confidence in those answers. We implement a three-stage reasoning pip",
+        "long_summary": "In this tutorial, we build an uncertainty-aware large language model system that not only generates answers but also estimates the confidence in those answers. We implement a three-stage reasoning pipeline in which the model first produces an answer along with a self-reported confidence score and a justification. We then introduce a self-evaluation step that allows […]\nThe post A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we build an uncertainty-aware large language model system that not only generates answers but also estimates the confidence in those answers. We implement a three-stage reasoning pipeline in which the model first produces an answer along with a self-reported confidence score and a justification. We then introduce a self-evaluation step that allows […]\nThe post A Coding Implementation to Build an Uncertainty-Aware LLM System with Confidence Estimation, Self-Evaluation, and Automatic Web Research appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-60-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/21/a-coding-implementation-to-build-an-uncertainty-aware-llm-system-with-confidence-estimation-self-evaluation-and-automatic-web-research/",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "WordPress.com lets AI agents write, publish, and manage your site",
+        "title_en": "WordPress.com lets AI agents write, publish, and manage your site",
+        "summary": "Automattic has added write capabilities to WordPress.com’s MCP integration, giving AI agents like Claude and ChatGPT the ability to create posts, build pages, manage comments, and restructure content,",
+        "summary_en": "Automattic has added write capabilities to WordPress.com’s MCP integration, giving AI agents like Claude and ChatGPT the ability to create posts, build pages, manage comments, and restructure content,",
+        "long_summary": "Automattic has added write capabilities to WordPress.com’s MCP integration, giving AI agents like Claude and ChatGPT the ability to create posts, build pages, manage comments, and restructure content, all through natural conversation, with human approval at every step. For most of the past six months, connecting an AI agent to your WordPress.com site has meant […]\nThis story continues at The Next Web",
+        "long_summary_en": "Automattic has added write capabilities to WordPress.com’s MCP integration, giving AI agents like Claude and ChatGPT the ability to create posts, build pages, manage comments, and restructure content, all through natural conversation, with human approval at every step. For most of the past six months, connecting an AI agent to your WordPress.com site has meant […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FWordPress.com_.png&signature=32e653ad364ea72bcd052ab0c804eee9",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/wordpress-com-mcp-write-capabilities-ai-agent",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+        "title_en": "Anthropic Denies It Could Sabotage AI Tools During War",
+        "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+        "summary_en": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+        "long_summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+        "long_summary_en": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
+        "image": "https://media.wired.com/photos/69bdd83054a6d8f67d317f75/191:100/w_1280,c_limit/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+        "date": "22 March 2026"
+      },
+      {
+        "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+        "title_en": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+        "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec",
+        "summary_en": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec",
+        "long_summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+        "long_summary_en": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+        "date": "22 March 2026"
+      },
       {
         "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
         "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
@@ -655,81 +727,21 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
         "date": "21 March 2026"
-      },
-      {
-        "title": "OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT | ZDNET",
-        "title_en": "OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT | ZDNET",
-        "summary": "Home Innovation Artificial Intelligence OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT Commentary: OpenAI reportedly wants one app for everything, and I'm here f",
-        "summary_en": "The Wall Street Journal reported that top executives, including Altman, have spent the last few weeks reviewing OpenAI&#x27;s product portfolio and identifying areas to deprioritize. In a recent all-h",
-        "long_summary": "Home Innovation Artificial Intelligence OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT Commentary: OpenAI reportedly wants one app for everything, and I'm here for it. Written by Elyse Betters Picaro, Senior Contributing Editor Senior Contributing Editor March 20, 2026 at 11:12 a.m. PT",
-        "long_summary_en": "Home Innovation Artificial Intelligence OpenAI's rumored 'superapp' could finally solve one of my biggest issues with ChatGPT Commentary: OpenAI reportedly wants one app for everything, and I'm here for it. Written by Elyse Betters Picaro, Senior Contributing Editor Senior Contributing Editor March 20, 2026 at 11:12 a.m. PT",
-        "image": "https://www.zdnet.com/a/img/resize/7013fc9b3800f52b435ccf23e796bf8a684daecb/2026/03/20/0b6723a8-6d5b-4460-8720-ed349ab686b2/superapp.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "Zdnet",
-        "url": "https://www.zdnet.com/article/openai-superapp-merges-chatgpt-codex-atlas-together/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "OpenAI signals end of ‘unlimited’ ChatGPT plans as AI costs surge - Storyboard18",
-        "title_en": "OpenAI signals end of ‘unlimited’ ChatGPT plans as AI costs surge - Storyboard18",
-        "summary": "OpenAI may switch from flat-rate to usage-based pricing for ChatGPT due to rising AI demands and competition from Google’s Gemini and Anthropic’s Claude, says Nick Turley.",
-        "summary_en": "OpenAI may switch from flat-rate to usage-based pricing for ChatGPT due to rising AI demands and competition from Google’s Gemini and Anthropic’s Claude, says Nick Turley.",
-        "long_summary": "OpenAI may switch from flat-rate to usage-based pricing for ChatGPT due to rising AI demands and competition from Google’s Gemini and Anthropic’s Claude, says Nick Turley.",
-        "long_summary_en": "OpenAI may switch from flat-rate to usage-based pricing for ChatGPT due to rising AI demands and competition from Google’s Gemini and Anthropic’s Claude, says Nick Turley.",
-        "image": "https://images.storyboard18.com/storyboard18/2026/01/RESIZE-2-PB-2026-01-23T111151.741-2026-01-f04d598c007b47fcdbe4364e4d453cb3-1019x573.png",
-        "source": "Storyboard18",
-        "url": "https://www.storyboard18.com/digital/openai-signals-end-of-unlimited-chatgpt-plans-as-ai-costs-surge-ws-l-92758.htm",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "OpenAI 'Superapp' to Merge ChatGPT, Codex, and Atlas Browser | MacRumors Forums",
-        "title_en": "OpenAI 'Superapp' to Merge ChatGPT, Codex, and Atlas Browser | MacRumors Forums",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "Genuinely curious what makes Anthropic ... as a whole. Click to expand... <strong>Anthropic has just had positive marketing/news/spin the last few weeks, combined with OpenAI having the opposite</stro",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://www.androidheadlines.com/wp-content/uploads/2025/08/GPT-5-feature-image-1420x799.webp",
-        "source": "Forums",
-        "url": "https://forums.macrumors.com/threads/openai-superapp-to-merge-chatgpt-codex-and-atlas-browser.2479611/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "Gemini llega a las Mac de Apple: busca competir de manera directa con OpenAI y Anthropic - Infobae",
-        "title_en": "Gemini llega a las Mac de Apple: busca competir de manera directa con OpenAI y Anthropic - Infobae",
-        "summary": "20 Mar, 2026 11:49 a.m. EST Guardar Google empezó a probar Gemini en Mac. (Imagen ilustrativa) La competencia por dominar la inteligencia artificial en dispositivos personales se intensifica. Google h",
-        "summary_en": "<strong>Google ha comenzado a probar una aplicación dedicada de Gemini para computadoras Mac de Apple</strong>, con el objetivo de competir de forma directa con soluciones ya consolidadas como ChatGPT",
-        "long_summary": "20 Mar, 2026 11:49 a.m. EST Guardar Google empezó a probar Gemini en Mac. (Imagen ilustrativa) La competencia por dominar la inteligencia artificial en dispositivos personales se intensifica. Google ha comenzado a probar una aplicación dedicada de Gemini para computadoras Mac de Apple , con el objetivo de competir de forma directa con soluciones ya consolidadas como ChatGPT de OpenAI y Claude de Anthropic , que actualmente cuentan con presencia nativa en este ecosistema. Según información difundida por Bloomberg, la compañía inició esta semana la distribución de una versión preliminar de la app entre un grupo reducido de usuarios, en el marco de un programa privado de pruebas. Esta fase permitirá recoger retroalimentación, detectar errores y ajustar el funcionamiento antes de un eventual lanzamiento público. Aunque no se ha confirmado una fecha oficial, el inicio de estas pruebas sugiere que el desarrollo se encuentra en una etapa avanzada . Google empezó a trabajar en una app de Gemini para Mac. (Apple) De acuerdo con fuentes cercanas al proyecto, Google ha advertido a los testers que se trata de una versión temprana, limitada a funciones esenciales . Esto indica que la versión final incorporará herramientas más completas, alineadas con la creciente demanda de asistentes de inteligencia artificial capaces de integrarse de forma profunda en la productividad diaria. El desarrollo de Gemini para Mac se enmarca en una carrera cada vez más agresiva entre las principales tecnológi",
-        "long_summary_en": "20 Mar, 2026 11:49 a.m. EST Guardar Google empezó a probar Gemini en Mac. (Imagen ilustrativa) La competencia por dominar la inteligencia artificial en dispositivos personales se intensifica. Google ha comenzado a probar una aplicación dedicada de Gemini para computadoras Mac de Apple , con el objetivo de competir de forma directa con soluciones ya consolidadas como ChatGPT de OpenAI y Claude de Anthropic , que actualmente cuentan con presencia nativa en este ecosistema. Según información difundida por Bloomberg, la compañía inició esta semana la distribución de una versión preliminar de la ap",
-        "image": "https://www.infobae.com/resizer/v2/AC2Z7FKJQRDE5JRNXROVZ5I5F4.png?auth=0e3c8720b531d1fd18db2f47dc131bc81bf28f10addaaa66f2862c2b80479235&smart=true&width=1200&height=630&quality=85",
-        "source": "Infobae",
-        "url": "https://www.infobae.com/tecno/2026/03/20/gemini-llega-a-las-mac-de-apple-busca-competir-de-manera-directa-con-openai-y-anthropic/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestration with OpenAI Function Calling",
-        "title_en": "A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestration with OpenAI Function Calling",
-        "summary": "In this comprehensive tutorial, we present the core architecture of ClawTeam, an open-source Agent Swarm Intelligence framework developed by HKUDS. We implement the fundamental concepts that make Claw",
-        "summary_en": "In this comprehensive tutorial, we present the core architecture of ClawTeam, an open-source Agent Swarm Intelligence framework developed by HKUDS. We implement the fundamental concepts that make Claw",
-        "long_summary": "In this comprehensive tutorial, we present the core architecture of ClawTeam, an open-source Agent Swarm Intelligence framework developed by HKUDS. We implement the fundamental concepts that make ClawTeam powerful: a leader agent that decomposes complex goals into sub-tasks, specialized worker agents that execute those tasks autonomously, a shared task board with automatic dependency resolution, and […]\nThe post A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestration with OpenAI Function Calling appeared first on MarkTechPost.",
-        "long_summary_en": "In this comprehensive tutorial, we present the core architecture of ClawTeam, an open-source Agent Swarm Intelligence framework developed by HKUDS. We implement the fundamental concepts that make ClawTeam powerful: a leader agent that decomposes complex goals into sub-tasks, specialized worker agents that execute those tasks autonomously, a shared task board with automatic dependency resolution, and […]\nThe post A Coding Implementation Showcasing ClawTeam’s Multi-Agent Swarm Orchestration with OpenAI Function Calling appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-60-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/20/a-coding-implementation-showcasing-clawteams-multi-agent-swarm-orchestration-with-openai-function-calling/",
-        "date": "21 March 2026"
-      },
-      {
-        "title": "NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Parameters, Delivering Better Reasoning and Strong Agentic Capabilities",
-        "title_en": "NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Parameters, Delivering Better Reasoning and Strong Agentic Capabilities",
-        "summary": "NVIDIA has announced the release of Nemotron-Cascade 2, an open-weight 30B Mixture-of-Experts (MoE) model with 3B activated parameters. The model focuses on maximizing ‘intelligence density,’ deliveri",
-        "summary_en": "NVIDIA has announced the release of Nemotron-Cascade 2, an open-weight 30B Mixture-of-Experts (MoE) model with 3B activated parameters. The model focuses on maximizing ‘intelligence density,’ deliveri",
-        "long_summary": "NVIDIA has announced the release of Nemotron-Cascade 2, an open-weight 30B Mixture-of-Experts (MoE) model with 3B activated parameters. The model focuses on maximizing ‘intelligence density,’ delivering advanced reasoning capabilities at a fraction of the parameter scale used by frontier models. Nemotron-Cascade 2 is the second open-weight LLM to achieve Gold Medal-level performance in the 2025 […]\nThe post NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Parameters, Delivering Better Reasoning and Strong Agentic Capabilities appeared first on MarkTechPost.",
-        "long_summary_en": "NVIDIA has announced the release of Nemotron-Cascade 2, an open-weight 30B Mixture-of-Experts (MoE) model with 3B activated parameters. The model focuses on maximizing ‘intelligence density,’ delivering advanced reasoning capabilities at a fraction of the parameter scale used by frontier models. Nemotron-Cascade 2 is the second open-weight LLM to achieve Gold Medal-level performance in the 2025 […]\nThe post NVIDIA Releases Nemotron-Cascade 2: An Open 30B MoE with 3B Active Parameters, Delivering Better Reasoning and Strong Agentic Capabilities appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-61-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/",
-        "date": "21 March 2026"
       }
     ],
     "audio": [
+      {
+        "title": "I found true AirPods Pro rivals in these Samsung earbuds - and they're better in several ways",
+        "title_en": "I found true AirPods Pro rivals in these Samsung earbuds - and they're better in several ways",
+        "summary": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades are just as impactful.",
+        "summary_en": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades are just as impactful.",
+        "long_summary": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades are just as impactful.",
+        "long_summary_en": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades are just as impactful.",
+        "image": "https://www.zdnet.com/a/img/resize/9714795134447e3b4f70daf7abee012564c7561c/2026/03/16/116d9940-f082-4210-9002-e2360afb2aa5/4pro-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/samsung-galaxy-buds-4-review/",
+        "date": "22 March 2026"
+      },
       {
         "title": "Starling launches an AI banking assistant that actually does things",
         "title_en": "Starling launches an AI banking assistant that actually does things",
@@ -897,18 +909,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/uber-founder-travis-kalanick-launches-robotics-company-atoms",
         "date": "14 March 2026"
-      },
-      {
-        "title": "L'IA révolutionne les systèmes audio : l'offre exceptionnelle de LG",
-        "title_en": "We highly recommend this high-end LG home audio system - and it's nearly half off",
-        "summary": "LG propose un système audio haut de gamme avec IA, en promotion à moitié prix. Une révolution pour l'audio intelligent.",
-        "summary_en": "The LG S95TR sound system comes with a soundbar, two rear surround speakers, and a wireless subwoofer. Amazon is offering a great deal on it right now.",
-        "long_summary": "Les systèmes audio intégrant l'IA transforment l'expérience sonore grâce à l'apprentissage automatique et aux modèles de langage.\n\nPoints clés :\n• Optimisation du son en temps réel via l'IA\n• Personnalisation des profils audio avec le machine learning\n• Intégration des assistants vocaux avancés\n\nLes progrès en IA générative et LLMs permettent des systèmes audio plus intelligents, adaptés aux préférences des utilisateurs.",
-        "long_summary_en": "The LG S95TR sound system comes with a soundbar, two rear surround speakers, and a wireless subwoofer. Amazon is offering a great deal on it right now.",
-        "image": "https://www.zdnet.com/a/img/resize/34fe7da4229b6d3fd55797a99fdb938e0bee4e10/2024/06/13/95f6cf91-23d7-404c-ad47-d247efbd41a4/pxl-20240613-142436656-portrait.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/lg-s95tr-amazon-deal/",
-        "date": "13 March 2026"
       }
     ]
   },
@@ -928,10 +928,10 @@
       "date": "21 March 2026"
     },
     {
-      "title": "Gemini llega a las Mac de Apple: busca competir de manera directa con OpenAI y Anthropic - Infobae",
-      "title_en": "Gemini llega a las Mac de Apple: busca competir de manera directa con OpenAI y Anthropic - Infobae",
-      "source": "Infobae",
-      "url": "https://www.infobae.com/tecno/2026/03/20/gemini-llega-a-las-mac-de-apple-busca-competir-de-manera-directa-con-openai-y-anthropic/",
+      "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
       "date": "21 March 2026"
     }
   ]
