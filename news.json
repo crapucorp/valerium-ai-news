@@ -1,7 +1,115 @@
 {
-  "lastUpdate": "23 March 2026 - 08:00",
+  "lastUpdate": "23 March 2026 - 12:30",
   "categories": {
     "general": [
+      {
+        "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+        "title_en": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol",
+        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can sol",
+        "long_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
+        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/Q4bio.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "Mind-altering substances are (still) falling short in clinical trials",
+        "title_en": "Mind-altering substances are (still) falling short in clinical trials",
+        "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy",
+        "summary_en": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocy",
+        "long_summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
+        "long_summary_en": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/psilocybin-med.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "The Bay Area’s animal welfare movement wants to recruit AI",
+        "title_en": "The Bay Area’s animal welfare movement wants to recruit AI",
+        "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers",
+        "summary_en": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Pers",
+        "long_summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.  In the common area, a wildlife advocate spoke passionately to a crowd lounging in…",
+        "long_summary_en": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.  In the common area, a wildlife advocate spoke passionately to a crowd lounging in…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260320_AIfarming3.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "Samsung adopting AirDrop compatibility is exactly what Android needs right now",
+        "title_en": "Samsung adopting AirDrop compatibility is exactly what Android needs right now",
+        "summary": "A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.",
+        "summary_en": "A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.",
+        "long_summary": "A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.",
+        "long_summary_en": "A global rollout this week will allow the latest Samsung phones to Quick Share with various Apple devices.",
+        "image": "https://www.zdnet.com/a/img/resize/209b553d214c850b97dbd9f2ac6bd941c56f5951/2026/03/17/6d45ade8-96b8-4312-ae27-d5cec2f67050/img-20260317-205218.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/samsung-adopting-airdrop-compatibility/",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "Air Street Capital&#8217;s $232m fund is now Europe&#8217;s biggest solo GP raise",
+        "title_en": "Air Street Capital&#8217;s $232m fund is now Europe&#8217;s biggest solo GP raise",
+        "summary": "For most of the past decade, the received wisdom in European venture capital was simple enough: if you wanted a serious fund, you needed a partnership. The large teams, the committee structures, the d",
+        "summary_en": "For most of the past decade, the received wisdom in European venture capital was simple enough: if you wanted a serious fund, you needed a partnership. The large teams, the committee structures, the d",
+        "long_summary": "For most of the past decade, the received wisdom in European venture capital was simple enough: if you wanted a serious fund, you needed a partnership. The large teams, the committee structures, the distributed decision-making, these were treated not merely as operational choices but as a kind of institutional legitimacy. Nathan Benaich has spent the […]\nThis story continues at The Next Web",
+        "long_summary_en": "For most of the past decade, the received wisdom in European venture capital was simple enough: if you wanted a serious fund, you needed a partnership. The large teams, the committee structures, the distributed decision-making, these were treated not merely as operational choices but as a kind of institutional legitimacy. Nathan Benaich has spent the […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FAir-Street-Capitals-232m-fund.png&signature=c8bde4c4ebf00dfb6ba77c7593eeceb8",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/air-street-capital-fund-iii-232m-europe",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "360 Capital raises €85M for deeptech fund backed by European defence prime",
+        "title_en": "360 Capital raises €85M for deeptech fund backed by European defence prime",
+        "summary": "The Paris-Milan VC’s new vehicle is the latest sign that European investors are hardwiring defence into their deeptech strategy. There is a version of this story that could have been told three years ",
+        "summary_en": "The Paris-Milan VC’s new vehicle is the latest sign that European investors are hardwiring defence into their deeptech strategy. There is a version of this story that could have been told three years ",
+        "long_summary": "The Paris-Milan VC’s new vehicle is the latest sign that European investors are hardwiring defence into their deeptech strategy. There is a version of this story that could have been told three years ago and would have raised eyebrows in polite European venture circles: a deeptech fund, backed by a major defence prime, raising tens […]\nThis story continues at The Next Web",
+        "long_summary_en": "The Paris-Milan VC’s new vehicle is the latest sign that European investors are hardwiring defence into their deeptech strategy. There is a version of this story that could have been told three years ago and would have raised eyebrows in polite European venture circles: a deeptech fund, backed by a major defence prime, raising tens […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2F360-Capital-raises-E85M-.png&signature=e9a6259153b2ff84f273efe2b60a847a",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/360-capital-85m-deeptech-fund-european-defence",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "Air defence startup Egide raises €8M seed to take on Europe&#8217;s sky protection gap",
+        "title_en": "Air defence startup Egide raises €8M seed to take on Europe&#8217;s sky protection gap",
+        "summary": "A new entrant into the crowded but urgent European air defence startup space has closed its first significant round, as capital chases the continent’s most pressing military capability shortfall. The ",
+        "summary_en": "A new entrant into the crowded but urgent European air defence startup space has closed its first significant round, as capital chases the continent’s most pressing military capability shortfall. The ",
+        "long_summary": "A new entrant into the crowded but urgent European air defence startup space has closed its first significant round, as capital chases the continent’s most pressing military capability shortfall. The phrase ‘air defence gap’ has become one of the defining anxieties of European security policy in the years since Russia’s full-scale invasion of Ukraine. The […]\nThis story continues at The Next Web",
+        "long_summary_en": "A new entrant into the crowded but urgent European air defence startup space has closed its first significant round, as capital chases the continent’s most pressing military capability shortfall. The phrase ‘air defence gap’ has become one of the defining anxieties of European security policy in the years since Russia’s full-scale invasion of Ukraine. The […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FAir-defence-startup-Egide.png&signature=b97edd0704bd463f7efbb49768c4dced",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/egide-air-defence-startup-8m-seed-round-europe",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
+        "title_en": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
+        "summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+        "summary_en": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+        "long_summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+        "long_summary_en": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
+        "image": "https://media.wired.com/photos/69bda22b3c74bb28e577eb8a/191:100/w_1280,c_limit/business_ai_data_center_power_grid.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "Meet the Gods of AI Warfare",
+        "title_en": "Meet the Gods of AI Warfare",
+        "summary": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+        "summary_en": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+        "long_summary": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+        "long_summary_en": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
+        "image": "https://media.wired.com/photos/69bda9155b7879007eb95904/191:100/w_1280,c_limit/Big-Story-Pentagon-Embraced-AI-Warfare.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
+        "date": "23 March 2026"
+      },
       {
         "title": "Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing)",
         "title_en": "Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing)",
@@ -73,114 +181,6 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
         "date": "23 March 2026"
-      },
-      {
-        "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-        "title_en": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-        "summary": "Building on top of a Chinese model feels particularly fraught right now.",
-        "summary_en": "Building on top of a Chinese model feels particularly fraught right now.",
-        "long_summary": "Building on top of a Chinese model feels particularly fraught right now.",
-        "long_summary_en": "Building on top of a Chinese model feels particularly fraught right now.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-        "date": "23 March 2026"
-      },
-      {
-        "title": "Do you want to build a robot snowman?",
-        "title_en": "Do you want to build a robot snowman?",
-        "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-        "summary_en": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-        "long_summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-        "long_summary_en": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-        "date": "23 March 2026"
-      },
-      {
-        "title": "Nosh Robotics Launched a $1,500 Cooking Robot. Here's What It Does (and Doesn't Do)",
-        "title_en": "Nosh Robotics Launched a $1,500 Cooking Robot. Here's What It Does (and Doesn't Do)",
-        "summary": "I saw the wild Nosh One up close in January and it's available for preorder now. Here's my take on the pricey robo-chef.",
-        "summary_en": "I saw the wild Nosh One up close in January and it's available for preorder now. Here's my take on the pricey robo-chef.",
-        "long_summary": "I saw the wild Nosh One up close in January and it's available for preorder now. Here's my take on the pricey robo-chef.",
-        "long_summary_en": "I saw the wild Nosh One up close in January and it's available for preorder now. Here's my take on the pricey robo-chef.",
-        "image": "https://www.cnet.com/a/img/resize/b2681f45196efbdb749c8a4e7e1a7aaa1009db56/hub/2026/03/20/4af42ba9-92e8-44e5-8ea6-94228f81182c/screenshot-2026-03-20-at-10-17-07am.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/news/ai-cooking-robots-have-flopped-will-the-nosh-one-be-any-different-heres-my-take/",
-        "date": "22 March 2026"
-      },
-      {
-        "title": "Chimp Slasher Flick 'Primate' Hits Streaming. Warning: This Ain't No Punch the Monkey Story",
-        "title_en": "Chimp Slasher Flick 'Primate' Hits Streaming. Warning: This Ain't No Punch the Monkey Story",
-        "summary": "It does for chimps what Stephen King's Cujo did for dogs.",
-        "summary_en": "It does for chimps what Stephen King's Cujo did for dogs.",
-        "long_summary": "It does for chimps what Stephen King's Cujo did for dogs.",
-        "long_summary_en": "It does for chimps what Stephen King's Cujo did for dogs.",
-        "image": "https://www.cnet.com/a/img/resize/efebe64d572235f158bc7ebba8d69102fbd78a29/hub/2026/03/19/adec30d3-addb-42ec-b845-dd6992166e5e/primate-johnny-sequoyah-paramount-plus.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/primate-movie-streaming-how-to-watch-paramount-plus/",
-        "date": "22 March 2026"
-      },
-      {
-        "title": "Recap: Europe&#8217;s top funding rounds this week (16 -22 March)",
-        "title_en": "Recap: Europe&#8217;s top funding rounds this week (16 -22 March)",
-        "summary": "A quieter week by headline standards, but one that reveals a great deal about where European venture capital is quietly concentrating: AI agents for physical industries, agritech automation, and the g",
-        "summary_en": "A quieter week by headline standards, but one that reveals a great deal about where European venture capital is quietly concentrating: AI agents for physical industries, agritech automation, and the g",
-        "long_summary": "A quieter week by headline standards, but one that reveals a great deal about where European venture capital is quietly concentrating: AI agents for physical industries, agritech automation, and the growing operator-to-VC pipeline. What the week of 16-22 March delivered was something different in texture rather than volume: smaller rounds, more specific theses, and a […]\nThis story continues at The Next Web",
-        "long_summary_en": "A quieter week by headline standards, but one that reveals a great deal about where European venture capital is quietly concentrating: AI agents for physical industries, agritech automation, and the growing operator-to-VC pipeline. What the week of 16-22 March delivered was something different in texture rather than volume: smaller rounds, more specific theses, and a […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FEurope-funding-week-16-22.png&signature=1896772c99929546e5a731b1748251e2",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/europes-top-funding-rounds-week-16-22-march",
-        "date": "22 March 2026"
-      },
-      {
-        "title": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
-        "title_en": "There Aren’t a Lot of Reasons to Get Excited About a New Amazon Smartphone",
-        "summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "summary_en": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "long_summary": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "long_summary_en": "The company is reportedly building a new AI-powered mobile device. If Amazon follows through on the plan, experts warn it would be next to impossible to break into a crowded market.",
-        "image": "https://media.wired.com/photos/69bd783533c22df804228fe4/191:100/w_1280,c_limit/Only-One-Reason-to-Be-Excited-About-a-Potential-Amazon-Smartphone-Gear-450824352.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/amazon-smartphone-rumor-2026/",
-        "date": "22 March 2026"
-      },
-      {
-        "title": "Trump takes another shot at dismantling state AI regulation",
-        "title_en": "Trump takes another shot at dismantling state AI regulation",
-        "summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations ",
-        "summary_en": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations ",
-        "long_summary": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises […]",
-        "long_summary_en": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations beyond a set of child safety rules, and it should bar states from messing with the \"national strategy to achieve global AI dominance.\" The plan advises […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK470_AI_LAW_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-        "date": "22 March 2026"
-      },
-      {
-        "title": "AI was everywhere at gaming’s big developer conference — except the games",
-        "title_en": "AI was everywhere at gaming’s big developer conference — except the games",
-        "summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show flo",
-        "summary_en": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show flo",
-        "long_summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. In […]",
-        "long_summary_en": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. In […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/55146110863_3ec9504855_o.jpg?quality=90&strip=all&crop=0%2C10.757510848913%2C100%2C78.484978302174&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-        "date": "22 March 2026"
-      },
-      {
-        "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
-        "title_en": "Musk says he’s building Terafab chip plant in Austin, Texas",
-        "summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence,",
-        "summary_en": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence,",
-        "long_summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability […]",
-        "long_summary_en": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK171_VRG_Illo_15_Normand_ElonMusk_15.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
-        "date": "22 March 2026"
       }
     ],
     "image": [
@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "ChatGPT 5.4 Pro vs Claude Opus 4.6 vs Gemini 3 Pro: Full Report and Comparison on Pricing, Access, Context Window, Multimodality, and what actually changes across app and API",
+        "title_en": "ChatGPT 5.4 Pro vs Claude Opus 4.6 vs Gemini 3 Pro: Full Report and Comparison on Pricing, Access, Context Window, Multimodality, and what actually changes across app and API",
+        "summary": "These three names sit at the top end of their respective ecosystems, but they do not line up as neatly as many comparison pages suggest. GPT-5.4 Pro is the easiest one to classify, because OpenAI expo",
+        "summary_en": "OpenAI’s materials position GPT-5.4 Pro as a higher-end ChatGPT option associated with upper-tier access rather than a free or broadly standard mode. Anthropic’s pricing places Claude Pro at around th",
+        "long_summary": "These three names sit at the top end of their respective ecosystems, but they do not line up as neatly as many comparison pages suggest. GPT-5.4 Pro is the easiest one to classify, because OpenAI exposes it both as a high-end ChatGPT mode and as a clearly named API model. Claude Opus 4.6 is similarly straightforward, because Anthropic presents it as a flagship Claude model across claude.ai , the API, and major cloud platforms. Gemini 3 Pro is the least cleanly aligned of the three, because Google uses Gemini 3 Pro in the consumer app layer while the developer-facing documentation is more explicit around Gemini 3.1 Pro Preview. That naming split is not a minor editorial issue. It changes what is really being compared when someone moves from app usage to API pricing or Vertex deployment. The most useful way to compare these models is therefore not through vague claims about which one is smartest. The more serious comparison starts with product layer, access path, cost structure, context limits, multimodality, and the constraints each vendor places around the highest-end experience. This is also where the differences become commercially meaningful. ·········· Understand what is actually being compared. These three offerings overlap in role, but they are not exposed by their vendors in exactly the same way. GPT-5.4 Pro is OpenAI’s highest-capability GPT-5.4 option for the hardest tasks and long-running workflows in ChatGPT, and it is also exposed as gpt-5.4-pro in the API. Claude",
+        "long_summary_en": "These three names sit at the top end of their respective ecosystems, but they do not line up as neatly as many comparison pages suggest. GPT-5.4 Pro is the easiest one to classify, because OpenAI exposes it both as a high-end ChatGPT mode and as a clearly named API model. Claude Opus 4.6 is similarly straightforward, because Anthropic presents it as a flagship Claude model across claude.ai , the API, and major cloud platforms. Gemini 3 Pro is the least cleanly aligned of the three, because Google uses Gemini 3 Pro in the consumer app layer while the developer-facing documentation is more expli",
+        "image": "https://static.wixstatic.com/media/c5719c_bb28258353d64a7797f82b54f976f8e2~mv2.png/v1/fill/w_795,h_344,al_c,lg_1,q_85/c5719c_bb28258353d64a7797f82b54f976f8e2~mv2.png",
+        "source": "Datastudios",
+        "url": "https://www.datastudios.org/post/chatgpt-5-4-pro-vs-claude-opus-4-6-vs-gemini-3-pro-full-report-and-comparison-on-pricing-access-c",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "AI Comparisons 2026: ChatGPT vs Gemini vs Claude ...",
+        "title_en": "AI Comparisons 2026: ChatGPT vs Gemini vs Claude ...",
+        "summary": "The AI landscape in 2026 looks nothing like it did two years ago. Four frontier models now compete across coding, reasoning, writing, and business automation — and none of them wins everything. This p",
+        "summary_en": "<strong>Gemini vs ChatGPT: Full 2026 Comparison — Google&#x27;s flagship against OpenAI&#x27;s</strong>. Perplexity vs ChatGPT: Full 2026 Comparison — Search-native AI vs the generalist. DeepSeek vs C",
+        "long_summary": "The AI landscape in 2026 looks nothing like it did two years ago. Four frontier models now compete across coding, reasoning, writing, and business automation — and none of them wins everything. This page gives you the high-level picture. For the deep dives, we wrote dedicated head-to-head comparisons you can read below. AI Models at a Glance: 2026 Overview Here is where the four frontier models stand right now: Category | GPT-5.4 | Claude Opus 4.6 | Gemini 3.1 Pro | Grok 4 **Coding** | Strong (74.9% SWE-bench) | Strong (74%+, powers Cursor) | Good (63.8%, 1M context) | Leader (75%) **Reasoning** | 92.8% GPQA | 91.3% GPQA | Leader (94.3% GPQA) | Competitive **Writing** | Good (Canvas editor) | Leader (128K output, natural prose) | Good (Docs integration) | Uncensored style **Multimodal** | Vision + audio + computer use | Vision + tool use | Leader (video, audio, 1M context) | Vision + real-time X data **API Price (in/out per 1M)** | $2.50/$15 | $15/$75 (Opus), $3/$15 (Sonnet) | $2/$12 | $2/$15 **Consumer Plan** | $20/mo (Plus) | $20/mo (Pro) | $19.99/mo (Advanced) | $22/mo (X Premium+) No single model dominates every row. That is the defining feature of 2026: specialization. Which AI Model Should You Choose? The answer depends on your primary use case. Here is a simplified decision tree: You write code most of the day — Claude or Grok lead SWE-bench. Claude powers the two most popular AI coding editors (Cursor, Windsurf). Grok leads raw benchmarks. Read our Best AI for Coding ",
+        "long_summary_en": "The AI landscape in 2026 looks nothing like it did two years ago. Four frontier models now compete across coding, reasoning, writing, and business automation — and none of them wins everything. This page gives you the high-level picture. For the deep dives, we wrote dedicated head-to-head comparisons you can read below. AI Models at a Glance: 2026 Overview Here is where the four frontier models stand right now: Category | GPT-5.4 | Claude Opus 4.6 | Gemini 3.1 Pro | Grok 4 **Coding** | Strong (74.9% SWE-bench) | Strong (74%+, powers Cursor) | Good (63.8%, 1M context) | Leader (75%) **Reasoning",
+        "image": "https://res.cloudinary.com/dhqzl4gpk/image/upload/v1771362322/featured_comparativas_ia_c451d8fc4e.jpg",
+        "source": "Gurusup",
+        "url": "https://gurusup.com/blog/ai-comparisons",
+        "date": "23 March 2026"
+      },
+      {
+        "title": "OpenAI is throwing everything into building a fully automated researcher",
+        "title_en": "OpenAI is throwing everything into building a fully automated researcher",
+        "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated",
+        "summary_en": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated",
+        "long_summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new…",
+        "long_summary_en": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/research-assistant3c.jpg?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+        "date": "23 March 2026"
+      },
+      {
         "title": "New AI Model Releases Today — LLM Release Changelog | Price Per Token",
         "title_en": "New AI Model Releases Today — LLM Release Changelog | Price Per Token",
         "summary": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token Get real-time LLM pricing in Claude Code and Cursor. Try Price Per Token MCP New Models Today — AI & LLM Releases New models releas",
@@ -691,42 +727,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/wordpress-com-mcp-write-capabilities-ai-agent",
         "date": "22 March 2026"
-      },
-      {
-        "title": "Anthropic Denies It Could Sabotage AI Tools During War",
-        "title_en": "Anthropic Denies It Could Sabotage AI Tools During War",
-        "summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-        "summary_en": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-        "long_summary": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-        "long_summary_en": "The Department of Defense alleges the AI developer could manipulate models in the middle of war. Company executives argue that’s impossible.",
-        "image": "https://media.wired.com/photos/69bdd83054a6d8f67d317f75/191:100/w_1280,c_limit/Anthropic-Denies-It-Could-Sabotage-AI-Tools-In-Middle-of-War-Business.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
-        "date": "22 March 2026"
-      },
-      {
-        "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
-        "title_en": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
-        "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec",
-        "summary_en": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec",
-        "long_summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
-        "long_summary_en": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-        "date": "22 March 2026"
-      },
-      {
-        "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "summary": "Back to Articles | By Adrien Laurent | Updated on 3/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm c",
-        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Mu",
-        "long_summary": "Back to Articles | By Adrien Laurent | Updated on 3/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI in partnership with the X platform), Google’s Gemini, OpenAI’s ChatGPT (AI services based on GPT language models), and Anthropic’s Claude. Pricing for these services is primarily usage-based (per token) and varies widely. For example, xAI’s Grok 4.1 models charge only $0.20 per 1 million input tokens and $0.50 per 1 million output tokens ( [1] ), whereas OpenAI’s flagship GPT-5.2 is priced at $1.75 per 1 M input and $14.00 per 1 M output tokens. Google’s Gemini 3.1 Pro leads the current generation at $2.00 input and $12.00 output (per million), while Gemini 3 Flash offers a budget option at $0.50/$3.00 . Anthropic’s Claude flagship Claude Opus 4.6 costs $5.00 input and $25.00 output per million tokens. Its mid-tier Sonnet 4.6 is $3/$15 (input/output) per million, and Haiku 4.5 is $1/$5 . Beyond per-token rates, pricing struct",
-        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 3/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2",
-        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-        "date": "21 March 2026"
       }
     ],
     "audio": [
@@ -914,24 +914,24 @@
   },
   "hotNews": [
     {
-      "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-      "date": "21 March 2026"
+      "title": "AI Comparisons 2026: ChatGPT vs Gemini vs Claude ...",
+      "title_en": "AI Comparisons 2026: ChatGPT vs Gemini vs Claude ...",
+      "source": "Gurusup",
+      "url": "https://gurusup.com/blog/ai-comparisons",
+      "date": "23 March 2026"
+    },
+    {
+      "title": "ChatGPT 5.4 Pro vs Claude Opus 4.6 vs Gemini 3 Pro: Full Report and Comparison on Pricing, Access, Context Window, Multimodality, and what actually changes across app and API",
+      "title_en": "ChatGPT 5.4 Pro vs Claude Opus 4.6 vs Gemini 3 Pro: Full Report and Comparison on Pricing, Access, Context Window, Multimodality, and what actually changes across app and API",
+      "source": "Datastudios",
+      "url": "https://www.datastudios.org/post/chatgpt-5-4-pro-vs-claude-opus-4-6-vs-gemini-3-pro-full-report-and-comparison-on-pricing-access-c",
+      "date": "23 March 2026"
     },
     {
       "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
       "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
       "source": "Llm-Stats",
       "url": "https://llm-stats.com/llm-updates",
-      "date": "23 March 2026"
-    },
-    {
-      "title": "New AI Model Releases Today — LLM Release Changelog | Price Per Token",
-      "title_en": "New AI Model Releases Today — LLM Release Changelog | Price Per Token",
-      "source": "Pricepertoken",
-      "url": "https://pricepertoken.com/news/model-releases",
       "date": "23 March 2026"
     }
   ]
