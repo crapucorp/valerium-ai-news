@@ -1,7 +1,151 @@
 {
-  "lastUpdate": "25 March 2026 - 18:30",
+  "lastUpdate": "26 March 2026 - 08:00",
   "categories": {
     "general": [
+      {
+        "title": "How to Build a Vision-Guided Web AI Agent with MolmoWeb-4B Using Multimodal Reasoning and Action Prediction",
+        "title_en": "How to Build a Vision-Guided Web AI Agent with MolmoWeb-4B Using Multimodal Reasoning and Action Prediction",
+        "summary": "In this tutorial, we explore MolmoWeb, Ai2’s open multimodal web agent that understands and interacts with websites directly from screenshots, without relying on HTML or DOM parsing. We set up the ful",
+        "summary_en": "In this tutorial, we explore MolmoWeb, Ai2’s open multimodal web agent that understands and interacts with websites directly from screenshots, without relying on HTML or DOM parsing. We set up the ful",
+        "long_summary": "In this tutorial, we explore MolmoWeb, Ai2’s open multimodal web agent that understands and interacts with websites directly from screenshots, without relying on HTML or DOM parsing. We set up the full environment in Colab, load the MolmoWeb-4B model with efficient 4-bit quantization, and build the exact prompting workflow that lets the model reason about […]\nThe post How to Build a Vision-Guided Web AI Agent with MolmoWeb-4B Using Multimodal Reasoning and Action Prediction appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we explore MolmoWeb, Ai2’s open multimodal web agent that understands and interacts with websites directly from screenshots, without relying on HTML or DOM parsing. We set up the full environment in Colab, load the MolmoWeb-4B model with efficient 4-bit quantization, and build the exact prompting workflow that lets the model reason about […]\nThe post How to Build a Vision-Guided Web AI Agent with MolmoWeb-4B Using Multimodal Reasoning and Action Prediction appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Roundtables: The Next Era of Space Exploration",
+        "title_en": "Roundtables: The Next Era of Space Exploration",
+        "summary": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ ef",
+        "summary_en": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ ef",
+        "long_summary": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities…",
+        "long_summary_en": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities…",
+        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MITTR-Roundtables-Zoom-Opening-Overlay_3aaab2.png?resize=1200,600",
+        "source": "mit_tech",
+        "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit",
+        "title_en": "Melania Trump Escorted by Talking Humanoid Robot at White House Tech Summit",
+        "summary": "The first lady shared the spotlight with the robot to promote the use of artificial intelligence in education.",
+        "summary_en": "The first lady shared the spotlight with the robot to promote the use of artificial intelligence in education.",
+        "long_summary": "The first lady shared the spotlight with the robot to promote the use of artificial intelligence in education.",
+        "long_summary_en": "The first lady shared the spotlight with the robot to promote the use of artificial intelligence in education.",
+        "image": "https://www.cnet.com/a/img/resize/dcb035e63e2d03464377e1b26ed1a1dd75a2e32b/hub/2026/03/25/b9c0c607-10d3-463f-87dd-d63c410c59a6/gettyimages-2267794879.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/first-lady-melania-trump-humanoid-robot-childrens-technology-educational-summit/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "iOS 26.4 brings meaningful upgrades to your iPhone - including a long-awaited keyboard fix",
+        "title_en": "iOS 26.4 brings meaningful upgrades to your iPhone - including a long-awaited keyboard fix",
+        "summary": "But a new and improved Siri isn't coming until a few more months.",
+        "summary_en": "But a new and improved Siri isn't coming until a few more months.",
+        "long_summary": "But a new and improved Siri isn't coming until a few more months.",
+        "long_summary_en": "But a new and improved Siri isn't coming until a few more months.",
+        "image": "https://www.zdnet.com/a/img/resize/6961234e74447f602b62d398f54cbcd2fda575ef/2026/03/25/dea17748-aab4-48fe-8cff-233b96eb9fee/apples-ios-26-4-adds-a-host-of-new-features-but-smarter-siri-is-still-on-hold.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "zdnet_ai",
+        "url": "https://www.zdnet.com/article/apple-ios-26-4-new-features-siri/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Google&#8217;s new compression algorithm cut memory stocks within hours of publication",
+        "title_en": "Google&#8217;s new compression algorithm cut memory stocks within hours of publication",
+        "summary": "Google published a research blog post on Tuesday about a new compression algorithm for AI models. Within hours, memory stocks were falling. Micron dropped 3 per cent, Western Digital lost 4.7 per cent",
+        "summary_en": "Google published a research blog post on Tuesday about a new compression algorithm for AI models. Within hours, memory stocks were falling. Micron dropped 3 per cent, Western Digital lost 4.7 per cent",
+        "long_summary": "Google published a research blog post on Tuesday about a new compression algorithm for AI models. Within hours, memory stocks were falling. Micron dropped 3 per cent, Western Digital lost 4.7 per cent, and SanDisk fell 5.7 per cent, as investors recalculated how much physical memory the AI industry might actually need. The algorithm is […]\nThis story continues at The Next Web",
+        "long_summary_en": "Google published a research blog post on Tuesday about a new compression algorithm for AI models. Within hours, memory stocks were falling. Micron dropped 3 per cent, Western Digital lost 4.7 per cent, and SanDisk fell 5.7 per cent, as investors recalculated how much physical memory the AI industry might actually need. The algorithm is […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fgoogle-turboquant-ai-compression-memory-stocks.png&signature=f51e3fdd897d1d3e44186dd8f8ddaad8",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/google-turboquant-ai-compression-memory-stocks",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+        "title_en": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+        "summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "summary_en": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "long_summary": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "long_summary_en": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg",
+        "source": "Ars Technica",
+        "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+        "title_en": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+        "summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+        "summary_en": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+        "long_summary": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+        "long_summary_en": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+        "image": "https://media.wired.com/photos/69c2ef3f0355f9e1ff2fd1e1/191:100/w_1280,c_limit/JC_WIRED_ARM_4316_flat.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
+        "title_en": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
+        "summary": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscri",
+        "summary_en": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscri",
+        "long_summary": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me). I was taking […]",
+        "long_summary_en": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscriber, sign up here so you can get that pure, uncut Regulator every Wednesday, straight from the source (aka me). I was taking […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2267134964.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Meta is laying off hundreds of employees as it pours money into AI",
+        "title_en": "Meta is laying off hundreds of employees as it pours money into AI",
+        "summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media",
+        "summary_en": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media",
+        "long_summary": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets. \"Teams across Meta […]",
+        "long_summary_en": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media, and sales teams, along with Reality Labs, the division that develops the company's smart glasses and virtual reality headsets. \"Teams across Meta […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Melania Trump wants a robot to homeschool your child",
+        "title_en": "Melania Trump wants a robot to homeschool your child",
+        "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+        "summary_en": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+        "long_summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+        "long_summary_en": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268315984.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+        "title_en": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+        "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe",
+        "summary_en": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab expe",
+        "long_summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+        "long_summary_en": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+        "image": "https://techcrunch.com/wp-content/uploads/2017/05/section_homepage_bg_2.jpg?resize=1200,675",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+        "title_en": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+        "summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+        "summary_en": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+        "long_summary": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+        "long_summary_en": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/deccan-ai-founder-rukesh-reddy.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+        "date": "26 March 2026"
+      },
       {
         "title": "Agentic commerce runs on truth and context",
         "title_en": "Agentic commerce runs on truth and context",
@@ -36,150 +180,6 @@
         "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/260320_MathAI.jpg?resize=1200,600",
         "source": "mit_tech",
         "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "58 of the Best TV Shows on Netflix That Will Keep You Entertained",
-        "title_en": "58 of the Best TV Shows on Netflix That Will Keep You Entertained",
-        "summary": "Yes, you should absolutely marathon them.",
-        "summary_en": "Yes, you should absolutely marathon them.",
-        "long_summary": "Yes, you should absolutely marathon them.",
-        "long_summary_en": "Yes, you should absolutely marathon them.",
-        "image": "https://www.cnet.com/a/img/resize/4bb26d39886f45ef81ac439dc0efee6e61f91e7a/hub/2025/05/01/36a1e046-293f-4c6d-9807-263082c4fadd/love-on-the-spectrum.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix/",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "This gadget lets you use your own Bluetooth headphones on a plane - and it's on sale",
-        "title_en": "This gadget lets you use your own Bluetooth headphones on a plane - and it's on sale",
-        "summary": "The AirFly Pro 2 is on sale. Here's why you need it.",
-        "summary_en": "The AirFly Pro 2 is on sale. Here's why you need it.",
-        "long_summary": "The AirFly Pro 2 is on sale. Here's why you need it.",
-        "long_summary_en": "The AirFly Pro 2 is on sale. Here's why you need it.",
-        "image": "https://www.zdnet.com/a/img/resize/aa52de6de9c15dedcedfadc798be2aea293ac40a/2026/03/25/0d08544e-b8df-4e94-bd4b-ee741503a093/screenshot-2026-03-25-at-12-40-46-pm-removebg-preview.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/airfly-pro-2-deal-amazon-spring-sale-2026/",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Meta cuts hundreds more jobs across Reality Labs, recruiting, and sales as AI spending doubles",
-        "title_en": "Meta cuts hundreds more jobs across Reality Labs, recruiting, and sales as AI spending doubles",
-        "summary": "Meta began cutting hundreds of jobs on Wednesday across Reality Labs, Facebook, recruiting, sales, and global operations, according to people familiar with the matter and LinkedIn posts from affected ",
-        "summary_en": "Meta began cutting hundreds of jobs on Wednesday across Reality Labs, Facebook, recruiting, sales, and global operations, according to people familiar with the matter and LinkedIn posts from affected ",
-        "long_summary": "Meta began cutting hundreds of jobs on Wednesday across Reality Labs, Facebook, recruiting, sales, and global operations, according to people familiar with the matter and LinkedIn posts from affected employees. The layoffs are the latest in a rolling series of workforce reductions that have accelerated sharply in 2026, as the company redirects resources toward artificial […]\nThis story continues at The Next Web",
-        "long_summary_en": "Meta began cutting hundreds of jobs on Wednesday across Reality Labs, Facebook, recruiting, sales, and global operations, according to people familiar with the matter and LinkedIn posts from affected employees. The layoffs are the latest in a rolling series of workforce reductions that have accelerated sharply in 2026, as the company redirects resources toward artificial […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fmeta-layoffs.png&signature=3d480bd6f08cecc1f5ea909f62011629",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/meta-cuts-hundreds-more-jobs-across-reality-labs-recruiting-and-sales-as-ai-spending-doubles",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Decathlon doubles warehouse output with Exotec&#8217;s climbing robots across seven European sites",
-        "title_en": "Decathlon doubles warehouse output with Exotec&#8217;s climbing robots across seven European sites",
-        "summary": "The world’s largest sporting goods retailer has turned seven of its European warehouses over to robots, and the early results suggest the machines are earning their keep. Decathlon announced on Tuesda",
-        "summary_en": "The world’s largest sporting goods retailer has turned seven of its European warehouses over to robots, and the early results suggest the machines are earning their keep. Decathlon announced on Tuesda",
-        "long_summary": "The world’s largest sporting goods retailer has turned seven of its European warehouses over to robots, and the early results suggest the machines are earning their keep. Decathlon announced on Tuesday that its partnership with Exotec, a French warehouse robotics company, has delivered what it calls significant productivity gains across sites in France, the United […]\nThis story continues at The Next Web",
-        "long_summary_en": "The world’s largest sporting goods retailer has turned seven of its European warehouses over to robots, and the early results suggest the machines are earning their keep. Decathlon announced on Tuesday that its partnership with Exotec, a French warehouse robotics company, has delivered what it calls significant productivity gains across sites in France, the United […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fdecathlon-exotec-warehouse-robots.png&signature=bb26a460fd34c4e51529f1006442da84",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/decathlon-exotec-warehouse-robots-europe-productivity",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "London&#8217;s Granola raises $125M to turn meeting recordings into enterprise AI infrastructure",
-        "title_en": "London&#8217;s Granola raises $125M to turn meeting recordings into enterprise AI infrastructure",
-        "summary": "Granola, the London-based AI meeting app that records conversations without dropping a bot into the call, has raised $125 million in a Series C round led by Danny Rimer at Index Ventures, with partici",
-        "summary_en": "Granola, the London-based AI meeting app that records conversations without dropping a bot into the call, has raised $125 million in a Series C round led by Danny Rimer at Index Ventures, with partici",
-        "long_summary": "Granola, the London-based AI meeting app that records conversations without dropping a bot into the call, has raised $125 million in a Series C round led by Danny Rimer at Index Ventures, with participation from Mamoon Hamid at Kleiner Perkins. The round values the company at $1.5 billion, a sixfold increase from its $250 million […]\nThis story continues at The Next Web",
-        "long_summary_en": "Granola, the London-based AI meeting app that records conversations without dropping a bot into the call, has raised $125 million in a Series C round led by Danny Rimer at Index Ventures, with participation from Mamoon Hamid at Kleiner Perkins. The round values the company at $1.5 billion, a sixfold increase from its $250 million […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fgranola-series-c.png&signature=b06c504336298a0b65c0493cbcb96590",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/granola-series-c-meeting-ai-enterprise-context",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Pepper acquires YC-backed Alima to bring AI to food distribution&#8217;s messy product catalogues",
-        "title_en": "Pepper acquires YC-backed Alima to bring AI to food distribution&#8217;s messy product catalogues",
-        "summary": "Pepper, a New York-based technology platform for independent food distributors, has acquired Alima, a Y Combinator-backed startup that built ordering and procurement software for small food distributo",
-        "summary_en": "Pepper, a New York-based technology platform for independent food distributors, has acquired Alima, a Y Combinator-backed startup that built ordering and procurement software for small food distributo",
-        "long_summary": "Pepper, a New York-based technology platform for independent food distributors, has acquired Alima, a Y Combinator-backed startup that built ordering and procurement software for small food distributors in Latin America. The deal, announced on Tuesday with no disclosed financial terms, brings Alima’s two cofounders into Pepper’s leadership team and extends the company’s push into AI-driven […]\nThis story continues at The Next Web",
-        "long_summary_en": "Pepper, a New York-based technology platform for independent food distributors, has acquired Alima, a Y Combinator-backed startup that built ordering and procurement software for small food distributors in Latin America. The deal, announced on Tuesday with no disclosed financial terms, brings Alima’s two cofounders into Pepper’s leadership team and extends the company’s push into AI-driven […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fpepper-acquires-alima.png&signature=4af0cebc1736bdd98e05bc67f814c292",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/pepper-acquires-alima-ai-food-distribution",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-        "title_en": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
-        "summary": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-        "summary_en": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-        "long_summary": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-        "long_summary_en": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
-        "image": "https://media.wired.com/photos/69c2e3e5a650a44d3b555dcb/191:100/w_1280,c_limit/AOC-Bernie-Sanders-Introduce-Data-Center-Moratorium-Politics-2253720668.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
-        "title_en": "Mark Zuckerberg and Jensen Huang are part of Trump’s new ‘tech panel’",
-        "summary": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Adviso",
-        "summary_en": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Adviso",
-        "long_summary": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal. The panel, which will \"weigh in on AI policy,\" will include 13 […]",
-        "long_summary_en": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Technology (PCAST), according to the Wall Street Journal. The panel, which will \"weigh in on AI policy,\" will include 13 […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-        "title_en": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-        "summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its pla",
-        "summary_en": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its pla",
-        "long_summary": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
-        "long_summary_en": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its platforms to grow and connect with customers, the company wants to do more in the space.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-        "title_en": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-        "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-        "summary_en": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-        "long_summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-        "long_summary_en": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Granola-home.jpeg?resize=1200,675",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Bernie Sanders and AOC propose a ban on data center construction",
-        "title_en": "Bernie Sanders and AOC propose a ban on data center construction",
-        "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-        "summary_en": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-        "long_summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-        "long_summary_en": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-688308688.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "The Best Hair Dryers of 2026, Tested on 6 Different Hair Types",
-        "title_en": "The Best Hair Dryers of 2026, Tested on 6 Different Hair Types",
-        "summary": "If you’re looking for the best hair dryer for your specific hair type and budget, we tested popular models from Shark, Dyson and more.",
-        "summary_en": "If you’re looking for the best hair dryer for your specific hair type and budget, we tested popular models from Shark, Dyson and more.",
-        "long_summary": "If you’re looking for the best hair dryer for your specific hair type and budget, we tested popular models from Shark, Dyson and more.",
-        "long_summary_en": "If you’re looking for the best hair dryer for your specific hair type and budget, we tested popular models from Shark, Dyson and more.",
-        "image": "https://www.cnet.com/a/img/resize/a56448e051e17e54dbe40f41bd3d992ab7469d47/hub/2026/03/16/d32edef0-69e9-43f3-b1e7-00034b36f893/cnet-hairdryers.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/health/personal-care/best-hair-dryer/",
         "date": "25 March 2026"
       }
     ],
@@ -367,6 +367,54 @@
     ],
     "video": [
       {
+        "title": "7 Best AI Video Generation API Alternatives After Sora’s Confirmed Shutdown: A Complete Migration Guide - Apiyi.com Blog",
+        "title_en": "7 Best AI Video Generation API Alternatives After Sora’s Confirmed Shutdown: A Complete Migration Guide - Apiyi.com Blog",
+        "summary": "On March 24, 2026, OpenAI officially announced the complete shutdown of its Sora video generation application and API. This product, which once shook the entire AI industry, has come to an end just si",
+        "summary_en": "While the sunsetting of Sora is certainly a bummer, the good news is that <strong>the AI video generation landscape in 2026 is far more mature than when Sora first launched</strong>. You’ve got more a",
+        "long_summary": "On March 24, 2026, OpenAI officially announced the complete shutdown of its Sora video generation application and API. This product, which once shook the entire AI industry, has come to an end just six months after its launch. If you are currently using the Sora API, you need to plan your migration immediately . Core Value : After reading this article, you'll understand the full context behind Sora's shutdown, master 7 field-tested alternatives, and receive migration advice and code examples tailored to your specific scenarios. The Background of Sora's Shutdown: Why OpenAI Gave Up on Video Generation Sora Shutdown Timeline Date Event February 2024 Sora technical preview released, stunning the industry Sept-Oct 2025 Sora app officially launches, exceeding 1 million downloads in 5 days November 2025 Downloads peak at ~3.33 million December 2025 Downloads drop by 32%, continuing a downward trend January 10, 2026 Free tier discontinued February 2026 Downloads fall to ~1.13 million March 24, 2026 OpenAI officially announces the shutdown of the Sora app and API 3 Core Reasons for the Shutdown Reason 1: Cost Cutting Before IPO OpenAI is preparing for an IPO and needs to demonstrate a healthier financial position. Video generation consumes massive amounts of GPU resources, yet revenue lags far behind text and coding products. Reallocating GPU compute from video generation to more profitable businesses like the GPT-5.x series and Codex is a purely commercial decision. Reason 2: Declin",
+        "long_summary_en": "On March 24, 2026, OpenAI officially announced the complete shutdown of its Sora video generation application and API. This product, which once shook the entire AI industry, has come to an end just six months after its launch. If you are currently using the Sora API, you need to plan your migration immediately . Core Value : After reading this article, you'll understand the full context behind Sora's shutdown, master 7 field-tested alternatives, and receive migration advice and code examples tailored to your specific scenarios. The Background of Sora's Shutdown: Why OpenAI Gave Up on Video Gen",
+        "image": "https://help.apiyi.com/wp-content/uploads/2025/02/cropped-apiyi-logo-250207.png",
+        "source": "Help",
+        "url": "https://help.apiyi.com/en/sora-shutdown-7-best-ai-video-generation-api-alternatives-guide-en.html",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Ring Finally Goes Wire-Free for Its Latest 4K Video Doorbells",
+        "title_en": "Ring Finally Goes Wire-Free for Its Latest 4K Video Doorbells",
+        "summary": "The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.",
+        "summary_en": "The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.",
+        "long_summary": "The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.",
+        "long_summary_en": "The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.",
+        "image": "https://www.cnet.com/a/img/resize/8c0c1f0cf59405592c52a33aea9b9b9ff1ab2849/hub/2026/03/25/04e0b932-ff2c-42d4-a773-eb93cca4d4b6/ring-battery-doorbell-4k.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "source": "cnet_ai",
+        "url": "https://www.cnet.com/tech/ring-finally-goes-wire-free-for-its-latest-4k-video-doorbells/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+        "title_en": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+        "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+        "summary_en": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+        "long_summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+        "long_summary_en": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+        "image": "https://media.wired.com/photos/69c42ba58f5df464316bf77f/191:100/w_1280,c_limit/ai-fruit-microdramas.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+        "title_en": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+        "summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting d",
+        "summary_en": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting d",
+        "long_summary": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-generation program just months after Disney announced a $1 billion dollar collaboration to bake the tech into Disney Plus. […]",
+        "long_summary_en": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting down its Sora image-generation program just months after Disney announced a $1 billion dollar collaboration to bake the tech into Disney Plus. […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/darth-vader-fortnite-1920x1080-95ea0f1d91f3.jpg?quality=90&strip=all&crop=2.1505208333333%2C0%2C95.698958333333%2C100&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+        "date": "26 March 2026"
+      },
+      {
         "title": "OpenAI pulls the plug on Sora video generator | AP News",
         "title_en": "OpenAI pulls the plug on Sora video generator | AP News",
         "summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Iran rejects US ceasefire plan, issues its own demands as strikes land across the Mideast LIVE I",
@@ -497,57 +545,57 @@
         "source": "Securitybrief",
         "url": "https://securitybrief.news/story/openai-details-sora-2-safeguards-on-likeness-teens",
         "date": "24 March 2026"
-      },
-      {
-        "title": "OpenAI details Sora 2 safeguards on likeness & teens",
-        "title_en": "OpenAI details Sora 2 safeguards on likeness & teens",
-        "summary": "OpenAI details Sora 2 safeguards on likeness & teens FutureFive New Zealand - Consumer technology news & reviews from the future New Zealand International Women’s Day 392 opinions Read now Guides # ca",
-        "summary_en": "<strong>OpenAI has outlined the safety measures for its Sora 2 video generation model and Sora app</strong>, adding safeguards around provenance, likeness, teen protections, harmful content and audio.",
-        "long_summary": "OpenAI details Sora 2 safeguards on likeness & teens FutureFive New Zealand - Consumer technology news & reviews from the future New Zealand International Women’s Day 392 opinions Read now Guides # cartech # crypto # drones # gaming # smartphones Search # GenAI # AI Ethics & Governance # Copyright OpenAI details Sora 2 safeguards on likeness & teens Wed, 25th Mar 2026 (Today) By Sean Mitchell, Publisher OpenAI has outlined the safety measures for its Sora 2 video generation model and Sora app, adding safeguards around provenance, likeness, teen protections, harmful content and audio. The update explains how OpenAI plans to manage risks as it expands Sora beyond text prompts into tools that can generate video from uploaded images, include synthetic speech and let users create consent-based digital characters built from their own appearance and voice. Each video generated with Sora carries visible and invisible provenance markers. All Sora videos embed C2PA metadata, an industry standard for content authenticity, and OpenAI also uses internal reverse-image and audio search tools to trace videos back to Sora. Many outputs also include visible moving watermarks with the creator's name. Videos created from images featuring people will always carry watermarks when shared. Likeness controls A central part of the policy covers uploaded images of real people. Users will be able to make videos from photos of family and friends if they attest that they have consent from those featured a",
-        "long_summary_en": "OpenAI details Sora 2 safeguards on likeness & teens FutureFive New Zealand - Consumer technology news & reviews from the future New Zealand International Women’s Day 392 opinions Read now Guides # cartech # crypto # drones # gaming # smartphones Search # GenAI # AI Ethics & Governance # Copyright OpenAI details Sora 2 safeguards on likeness & teens Wed, 25th Mar 2026 (Today) By Sean Mitchell, Publisher OpenAI has outlined the safety measures for its Sora 2 video generation model and Sora app, adding safeguards around provenance, likeness, teen protections, harmful content and audio. The updat",
-        "image": "https://futurefive.co.nz/uploads/story/2026/03/24/compatible_editorial-smartphone-video-creation-moderation-shields-audio-waveform.jpg",
-        "source": "Futurefive",
-        "url": "https://futurefive.co.nz/story/openai-details-sora-2-safeguards-on-likeness-teens",
-        "date": "24 March 2026"
-      },
-      {
-        "title": "OpenAI details Sora 2 safeguards on likeness & teens",
-        "title_en": "OpenAI details Sora 2 safeguards on likeness & teens",
-        "summary": "OpenAI details Sora 2 safeguards on likeness & teens IT Brief Asia - Technology news for CIOs & IT decision-makers Asia International Women’s Day 392 opinions Read now Guides # artificial intelligence",
-        "summary_en": "<strong>OpenAI has outlined the safety measures for its Sora 2 video generation model and Sora app</strong>, adding safeguards around provenance, likeness, teen protections, harmful content and audio.",
-        "long_summary": "OpenAI details Sora 2 safeguards on likeness & teens IT Brief Asia - Technology news for CIOs & IT decision-makers Asia International Women’s Day 392 opinions Read now Guides # artificial intelligence # digital transformation # disaster recovery # hybrid & remote work # internet of things Search # GenAI # AI Ethics & Governance # Copyright OpenAI details Sora 2 safeguards on likeness & teens Wed, 25th Mar 2026 (Today) By Sean Mitchell, Publisher OpenAI has outlined the safety measures for its Sora 2 video generation model and Sora app, adding safeguards around provenance, likeness, teen protections, harmful content and audio. The update explains how OpenAI plans to manage risks as it expands Sora beyond text prompts into tools that can generate video from uploaded images, include synthetic speech and let users create consent-based digital characters built from their own appearance and voice. Each video generated with Sora carries visible and invisible provenance markers. All Sora videos embed C2PA metadata, an industry standard for content authenticity, and OpenAI also uses internal reverse-image and audio search tools to trace videos back to Sora. Many outputs also include visible moving watermarks with the creator's name. Videos created from images featuring people will always carry watermarks when shared. Likeness controls A central part of the policy covers uploaded images of real people. Users will be able to make videos from photos of family and friends if they attest t",
-        "long_summary_en": "OpenAI details Sora 2 safeguards on likeness & teens IT Brief Asia - Technology news for CIOs & IT decision-makers Asia International Women’s Day 392 opinions Read now Guides # artificial intelligence # digital transformation # disaster recovery # hybrid & remote work # internet of things Search # GenAI # AI Ethics & Governance # Copyright OpenAI details Sora 2 safeguards on likeness & teens Wed, 25th Mar 2026 (Today) By Sean Mitchell, Publisher OpenAI has outlined the safety measures for its Sora 2 video generation model and Sora app, adding safeguards around provenance, likeness, teen protec",
-        "image": "https://itbrief.asia/uploads/story/2026/03/24/compatible_editorial-smartphone-video-creation-moderation-shields-audio-waveform.jpg",
-        "source": "Itbrief",
-        "url": "https://itbrief.asia/story/openai-details-sora-2-safeguards-on-likeness-teens",
-        "date": "24 March 2026"
-      },
-      {
-        "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
-        "title_en": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
-        "summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-        "summary_en": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-        "long_summary": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-        "long_summary_en": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF).",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/09/Mirage-background.png?w=1200",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-        "date": "24 March 2026"
-      },
-      {
-        "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-        "title_en": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ",
-        "summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated ",
-        "long_summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher  OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
-        "long_summary_en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher  OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/research-assistant3c.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-        "date": "24 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "ChatGPT vs Claude vs Gemini 2026: Which AI Is Best? - K-Antenna",
+        "title_en": "ChatGPT vs Claude vs Gemini 2026: Which AI Is Best? - K-Antenna",
+        "summary": "Full disclosure: I’m a Claude user. I’ve been using it as my daily AI assistant for months, so I won’t pretend I’m coming into this comparison with zero bias. But that’s exactly why I wanted to do thi",
+        "summary_en": "The free plan provides access to GPT-5.3 with usage limits, while ChatGPT Plus ($20/month) unlocks higher rate limits and access to more advanced models. For power users, ChatGPT Pro ($200/month) offe",
+        "long_summary": "Full disclosure: I’m a Claude user. I’ve been using it as my daily AI assistant for months, so I won’t pretend I’m coming into this comparison with zero bias. But that’s exactly why I wanted to do this test properly — with identical prompts, fresh accounts, and free-tier access across all three platforms. I wanted to see if my preference was justified, or if I’d been missing out. Here’s what I found after running six head-to-head tests — ChatGPT vs Claude vs Gemini — in March 2026. Quick comparison: ChatGPT vs Claude vs Gemini at a glance What is ChatGPT? ChatGPT is OpenAI’s flagship AI assistant and the most widely recognized name in AI. Built on the GPT-5 series, it offers a broad range of capabilities including text generation, image creation with DALL-E, code execution, file analysis, and web browsing. Its Plugin and GPT Store ecosystem gives it the largest collection of third-party integrations. The free plan provides access to GPT-5.3 with usage limits, while ChatGPT Plus ($20/month) unlocks higher rate limits and access to more advanced models. For power users, ChatGPT Pro ($200/month) offers unlimited access to all models including reasoning-focused ones. What is Claude? Claude is built by Anthropic, a company founded by former OpenAI researchers. The current lineup includes Sonnet 4.6 (fast and balanced) and Opus 4.6 (the most capable model). Claude is known for its strong writing ability, careful reasoning, and an unusually large context window that handles long doc",
+        "long_summary_en": "Full disclosure: I’m a Claude user. I’ve been using it as my daily AI assistant for months, so I won’t pretend I’m coming into this comparison with zero bias. But that’s exactly why I wanted to do this test properly — with identical prompts, fresh accounts, and free-tier access across all three platforms. I wanted to see if my preference was justified, or if I’d been missing out. Here’s what I found after running six head-to-head tests — ChatGPT vs Claude vs Gemini — in March 2026. Quick comparison: ChatGPT vs Claude vs Gemini at a glance What is ChatGPT? ChatGPT is OpenAI’s flagship AI assist",
+        "image": "https://k-antenna.com/wp-content/uploads/2026/03/compare_table-1.png",
+        "source": "K-Antenna",
+        "url": "https://k-antenna.com/chatgpt-vs-claude-vs-gemini/",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "Gemini to lead the AI race? Sundar Pichai’s push to stay ahead",
+        "title_en": "Gemini to lead the AI race? Sundar Pichai’s push to stay ahead",
+        "summary": "West Asia war updates",
+        "summary_en": "Pichai fought against the enveloping ... company’s Gemini 3, which debuted in November, <strong>beat its rivals from OpenAI and Anthropic across an array of industry-standard benchmarks</strong>....",
+        "long_summary": "West Asia war updates",
+        "long_summary_en": "West Asia war updates",
+        "image": "https://images.firstpost.com/uploads/2025/10/Firstpost-2025-10-24T145741.655-2025-10-5821957ab298b5f2fb0d781dec80fb50.jpg?im=FitAndFill=(1200,675)",
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/tech/gemini-to-lead-the-ai-race-sundar-pichais-push-to-stay-ahead-13993252.html",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+        "summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 1w ago GPQA: 0.9 GPT-5.4 nano Lightweight Proprietary OpenAI • 1w ago GPQA: 0.8 Mar 16, 2026 · 1 release Mistral Small 4 Release Open Source Mistral AI • 1w ago GPQA: 0.7 Mar 11, 2026 · 1 release Nemotron 3 Super (120B A12B) Release Open Source NVIDIA • 2w ago GPQA: 0.8 Mar 9, 2026 · 3 release s Grok-4.20 Beta Non-Reasoning Preview Proprietary xAI • 2w ago Grok-4.20 Beta Reasoning Preview Proprietary xAI • 2w ago Grok-4.20 Multi-Agent Beta Preview Proprietary xAI • 2w ago Mar 6, 2026 · 2 release s Sarvam-105B Release Open Source Sarvam AI • 2w ago GPQA: 0.8 Sarvam-30B Release Open Source Sarvam AI • 2w ago GPQA: 0.7 Mar 5, 2026 · 1 release GPT-5.4 Release Proprietary OpenAI • 3w ago GPQA: 0.9 Mar 4, 2026 · 1 release GPT-5.3 Chat Release Proprietary OpenAI • 3w ago Mar 3, 2026 · 1 release Gemini 3.1 Flash-Lite Lightweight Proprietary Google • 3w ago GPQA: 0.9 1 – 12 of 274 1 2 3 4 5 6 7 Understanding LLM Versioning AI model version",
+        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 1w ago GPQA: 0.9 GPT-5.4 nano Lightweight Pr",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "26 March 2026"
+      },
+      {
+        "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+        "title_en": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+        "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+        "summary_en": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+        "long_summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+        "long_summary_en": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0605.jpeg?resize=1200,900",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+        "date": "26 March 2026"
+      },
       {
         "title": "Google’s Gemini Just Ate OpenAI’s Lunch — And The AI Race Will Never Look The Same - Web And IT News",
         "title_en": "Google’s Gemini Just Ate OpenAI’s Lunch — And The AI Race Will Never Look The Same - Web And IT News",
@@ -679,57 +727,21 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/",
         "date": "25 March 2026"
-      },
-      {
-        "title": "The AI Hype Index: AI goes to war",
-        "title_en": "The AI Hype Index: AI goes to war",
-        "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatG",
-        "summary_en": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatG",
-        "long_summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded…",
-        "long_summary_en": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MA26-Thumb2.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Openreach expands collaboration with Google Cloud AI to plan its full-fibre rollout",
-        "title_en": "Openreach expands collaboration with Google Cloud AI to plan its full-fibre rollout",
-        "summary": "The BT subsidiary, operator of the UK’s largest broadband network and the country’s second-largest commercial fleet, has built a digital twin of the UK’s transport and broadband infrastructure on Vert",
-        "summary_en": "The BT subsidiary, operator of the UK’s largest broadband network and the country’s second-largest commercial fleet, has built a digital twin of the UK’s transport and broadband infrastructure on Vert",
-        "long_summary": "The BT subsidiary, operator of the UK’s largest broadband network and the country’s second-largest commercial fleet, has built a digital twin of the UK’s transport and broadband infrastructure on Vertex AI, and is using Gemini Enterprise to cut engineering overhead by more than half. Openreach, the BT subsidiary that operates the UK’s largest broadband network, […]\nThis story continues at The Next Web",
-        "long_summary_en": "The BT subsidiary, operator of the UK’s largest broadband network and the country’s second-largest commercial fleet, has built a digital twin of the UK’s transport and broadband infrastructure on Vertex AI, and is using Gemini Enterprise to cut engineering overhead by more than half. Openreach, the BT subsidiary that operates the UK’s largest broadband network, […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FOpenreach.png&signature=861e5c7095e8bec738ba5b7fd8a4ba4a",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/openreach-google-cloud-ai-full-fibre",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "RWS launches Language Weaver Pro",
-        "title_en": "RWS launches Language Weaver Pro",
-        "summary": "The AIM-listed language technology company says its new model, the largest dedicated translation model in production, ranked first in 31 of 32 languages in internal benchmarking against DeepL and Gemi",
-        "summary_en": "The AIM-listed language technology company says its new model, the largest dedicated translation model in production, ranked first in 31 of 32 languages in internal benchmarking against DeepL and Gemi",
-        "long_summary": "The AIM-listed language technology company says its new model, the largest dedicated translation model in production, ranked first in 31 of 32 languages in internal benchmarking against DeepL and Gemini. The model is natively integrated into the Trados portfolio. The problem RWS is describing is a real one in enterprise translation: the tools that move […]\nThis story continues at The Next Web",
-        "long_summary_en": "The AIM-listed language technology company says its new model, the largest dedicated translation model in production, ranked first in 31 of 32 languages in internal benchmarking against DeepL and Gemini. The model is natively integrated into the Trados portfolio. The problem RWS is describing is a real one in enterprise translation: the tools that move […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FLanguage-Weaver-Pro.png&signature=b92972d442e7ba359202a7cdf01c863d",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/rws-launches-language-weaver-pro",
-        "date": "25 March 2026"
-      },
-      {
-        "title": "Arm Is Now Making Its Own Chips",
-        "title_en": "Arm Is Now Making Its Own Chips",
-        "summary": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-        "summary_en": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-        "long_summary": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-        "long_summary_en": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-        "image": "https://media.wired.com/photos/69c1dcea9b0c01414434424c/191:100/w_1280,c_limit/Chip-Design-Firm-Arm-Making-Own-AI-CPU-Business-2250850574.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-        "date": "25 March 2026"
       }
     ],
     "audio": [
+      {
+        "title": "A new app wants to cure loneliness by getting people off their phones and into the same room",
+        "title_en": "A new app wants to cure loneliness by getting people off their phones and into the same room",
+        "summary": "A startup called Friending has launched a social platform built around a premise that sounds almost quaint in 2026: helping people make friends by meeting in person. The app, based in Raleigh, North C",
+        "summary_en": "A startup called Friending has launched a social platform built around a premise that sounds almost quaint in 2026: helping people make friends by meeting in person. The app, based in Raleigh, North C",
+        "long_summary": "A startup called Friending has launched a social platform built around a premise that sounds almost quaint in 2026: helping people make friends by meeting in person. The app, based in Raleigh, North Carolina, connects users by shared interests and geographic proximity, then deliberately limits chat functionality to push them toward face-to-face meetings rather than […]\nThis story continues at The Next Web",
+        "long_summary_en": "A startup called Friending has launched a social platform built around a premise that sounds almost quaint in 2026: helping people make friends by meeting in person. The app, based in Raleigh, North Carolina, connects users by shared interests and geographic proximity, then deliberately limits chat functionality to push them toward face-to-face meetings rather than […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Ffriending-app-loneliness.png&signature=bffa202703590378d88ec2741567d56d",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/friending-app-loneliness-real-world-friendships",
+        "date": "26 March 2026"
+      },
       {
         "title": "Why this battery company is pivoting to AI",
         "title_en": "Why this battery company is pivoting to AI",
@@ -897,41 +909,29 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/ringtime-seed-round-blue-collar-recruitment-ai",
         "date": "19 March 2026"
-      },
-      {
-        "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
-        "title_en": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
-        "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
-        "summary_en": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
-        "long_summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
-        "long_summary_en": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
-        "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1297183927.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-        "date": "18 March 2026"
       }
     ]
   },
   "hotNews": [
     {
+      "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "26 March 2026"
+    },
+    {
+      "title": "ChatGPT vs Claude vs Gemini 2026: Which AI Is Best? - K-Antenna",
+      "title_en": "ChatGPT vs Claude vs Gemini 2026: Which AI Is Best? - K-Antenna",
+      "source": "K-Antenna",
+      "url": "https://k-antenna.com/chatgpt-vs-claude-vs-gemini/",
+      "date": "26 March 2026"
+    },
+    {
       "title": "Google’s Gemini Just Ate OpenAI’s Lunch — And The AI Race Will Never Look The Same - Web And IT News",
       "title_en": "Google’s Gemini Just Ate OpenAI’s Lunch — And The AI Race Will Never Look The Same - Web And IT News",
       "source": "Webanditnews",
       "url": "https://www.webanditnews.com/2026/03/24/googles-gemini-just-ate-openais-lunch-and-the-ai-race-will-never-look-the-same/",
-      "date": "25 March 2026"
-    },
-    {
-      "title": "OpenAI’s Sora video app is going away | PCWorld",
-      "title_en": "OpenAI’s Sora video app is going away | PCWorld",
-      "source": "Pcworld",
-      "url": "https://www.pcworld.com/article/3098094/openais-sora-video-app-is-going-away.html",
-      "date": "25 March 2026"
-    },
-    {
-      "title": "OpenAI says it's pulling the plug on Sora, its generative AI video creation tool - SiliconANGLE",
-      "title_en": "OpenAI says it's pulling the plug on Sora, its generative AI video creation tool - SiliconANGLE",
-      "source": "Siliconangle",
-      "url": "https://siliconangle.com/2026/03/24/openai-says-pulling-plug-sora-generative-ai-video-creation-tool/",
       "date": "25 March 2026"
     }
   ]
