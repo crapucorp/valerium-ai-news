@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "27 March 2026 - 11:48",
+  "lastUpdate": "27 March 2026 - 18:30",
   "categories": {
     "general": [
+      {
+        "title": "openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management",
+        "title_en": "openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management",
+        "summary": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent",
+        "summary_en": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent",
+        "long_summary": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent during a conversation, they often ‘drop the ball’ when it comes to executing real-world tasks. Whether it’s an office workflow that breaks when requirements […]\nThe post openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management appeared first on MarkTechPost.",
+        "long_summary_en": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent during a conversation, they often ‘drop the ball’ when it comes to executing real-world tasks. Whether it’s an office workflow that breaks when requirements […]\nThe post openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-7-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/",
+        "date": "27 March 2026"
+      },
+      {
+        "title": "ActiveCampaign’s free trial lets you test AI-powered marketing automation before you commit",
+        "title_en": "ActiveCampaign’s free trial lets you test AI-powered marketing automation before you commit",
+        "summary": "Most marketing platforms promise automation. In practice, what they deliver is a glorified email scheduler with a few if-then rules bolted on. ActiveCampaign is one of the few tools where the automati",
+        "summary_en": "Most marketing platforms promise automation. In practice, what they deliver is a glorified email scheduler with a few if-then rules bolted on. ActiveCampaign is one of the few tools where the automati",
+        "long_summary": "Most marketing platforms promise automation. In practice, what they deliver is a glorified email scheduler with a few if-then rules bolted on. ActiveCampaign is one of the few tools where the automation actually lives up to the branding, and right now you can test the full platform free for 14 days with no credit card […]\nThis story continues at The Next Web",
+        "long_summary_en": "Most marketing platforms promise automation. In practice, what they deliver is a glorified email scheduler with a few if-then rules bolted on. ActiveCampaign is one of the few tools where the automation actually lives up to the branding, and right now you can test the full platform free for 14 days with no credit card […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FActivecampaign-TNW-Article-Banner.png&signature=713c2b53114be0fbc6826b04e31b400c",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/activecampaign-free-trial-marketing-automation",
+        "date": "27 March 2026"
+      },
       {
         "title": "OMB convenes agencies, industry to talk AI for cyber defense | Federal News Network",
         "title_en": "OMB convenes agencies, industry to talk AI for cyber defense | Federal News Network",
@@ -29,8 +53,8 @@
       {
         "title": "Shield AI raises $2 billion to scale its autonomous combat pilot Hivemind",
         "title_en": "Shield AI raises $2 billion to scale its autonomous combat pilot Hivemind",
-        "summary": "Shield AI, the San Diego defence technology company behind the autonomous pilot system Hivemind, announced on Wednesday that it has raised $2 billion in combined funding at a $12.7 billion valuation. ",
-        "summary_en": "Shield AI, the San Diego defence technology company behind the autonomous pilot system Hivemind, announced on Wednesday that it has raised $2 billion in combined funding at a $12.7 billion valuation. ",
+        "summary": "Shield AI, the San Diego defence technology company behind the autonomous pilot system Hivemind, announced on Wednesday that it has raised $2 billion in combined funding at a $12.7 billion valuation.",
+        "summary_en": "Shield AI, the San Diego defence technology company behind the autonomous pilot system Hivemind, announced on Wednesday that it has raised $2 billion in combined funding at a $12.7 billion valuation.",
         "long_summary": "Shield AI, the San Diego defence technology company behind the autonomous pilot system Hivemind, announced on Wednesday that it has raised $2 billion in combined funding at a $12.7 billion valuation. The company will use part of the proceeds to acquire Aechelon Technology, a simulation platform that supports the Pentagon’s Joint Simulation Environment. The raise […]\nThis story continues at The Next Web",
         "long_summary_en": "Shield AI, the San Diego defence technology company behind the autonomous pilot system Hivemind, announced on Wednesday that it has raised $2 billion in combined funding at a $12.7 billion valuation. The company will use part of the proceeds to acquire Aechelon Technology, a simulation platform that supports the Pentagon’s Joint Simulation Environment. The raise […]\nThis story continues at The Next Web",
         "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Fshield-ai-2-billion-hivemind-autonomous-defence.png&signature=12a0bc77c88d683fe48a35e996823144",
@@ -139,8 +163,8 @@
       {
         "title": "Microsoft&#8217;s MAI-Image-2 enters the top three AI image generators in the world",
         "title_en": "Microsoft&#8217;s MAI-Image-2 enters the top three AI image generators in the world",
-        "summary": "The second version of Microsoft’s in-house image model lands at #3 on Arena.ai’s leaderboard, behind only Google and OpenAI, and begins rolling out across Copilot and Bing Image Creator today. A year ",
-        "summary_en": "The second version of Microsoft’s in-house image model lands at #3 on Arena.ai’s leaderboard, behind only Google and OpenAI, and begins rolling out across Copilot and Bing Image Creator today. A year ",
+        "summary": "The second version of Microsoft’s in-house image model lands at #3 on Arena.ai’s leaderboard, behind only Google and OpenAI, and begins rolling out across Copilot and Bing Image Creator today. A year",
+        "summary_en": "The second version of Microsoft’s in-house image model lands at #3 on Arena.ai’s leaderboard, behind only Google and OpenAI, and begins rolling out across Copilot and Bing Image Creator today. A year",
         "long_summary": "The second version of Microsoft’s in-house image model lands at #3 on Arena.ai’s leaderboard, behind only Google and OpenAI, and begins rolling out across Copilot and Bing Image Creator today. A year ago, Microsoft was generating images for Bing and Copilot almost entirely with OpenAI’s models. On Thursday, the company’s in-house team announced MAI-Image-2, a […]\nThis story continues at The Next Web",
         "long_summary_en": "The second version of Microsoft’s in-house image model lands at #3 on Arena.ai’s leaderboard, behind only Google and OpenAI, and begins rolling out across Copilot and Bing Image Creator today. A year ago, Microsoft was generating images for Bing and Copilot almost entirely with OpenAI’s models. On Thursday, the company’s in-house team announced MAI-Image-2, a […]\nThis story continues at The Next Web",
         "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FMicrosofts-MAI-Image-2.png&signature=27cc188843f8f549463a6432247f592d",
@@ -224,7 +248,7 @@
         "title": "L'UE interdit les deepfakes intimes non consentis dans sa loi sur l'IA",
         "title_en": "EU lawmakers deal to ban AI non-consensual intimate deepfakes",
         "summary": "L'UE renforce sa loi sur l'IA pour interdire les deepfakes intimes sans consentement, suite au scandale Grok.",
-        "summary_en": "A March 11 political agreement on AI Act amendments will add an explicit prohibition on non-consensual intimate AI-generated images, direct fallout from the Grok scandal. It took a scandal, a wave of ",
+        "summary_en": "A March 11 political agreement on AI Act amendments will add an explicit prohibition on non-consensual intimate AI-generated images, direct fallout from the Grok scandal. It took a scandal, a wave of",
         "long_summary": "Les législateurs européens ont ajouté une interdiction explicite des deepfakes intimes générés par l'IA sans consentement.\n\nPoints clés :\n• La mesure suit le scandale Grok et une pression réglementaire accrue\n• 57 membres du Parlement européen ont soutenu l'amendement\n• L'UE renforce sa position de leader en matière de régulation de l'IA\n\nCette interdiction marque un tournant dans la lutte contre les abus des technologies génératives.",
         "long_summary_en": "A March 11 political agreement on AI Act amendments will add an explicit prohibition on non-consensual intimate AI-generated images, direct fallout from the Grok scandal. It took a scandal, a wave of regulatory anger, and a coalition of 57 European Parliament members to get there,  but the EU’s landmark AI Act will now contain an […]\nThis story continues at The Next Web",
         "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FEU-lawmakers-deal-to-ban-AI-non-consensual-intimate-deepfakes.png&signature=b78a0758ce110bd47a0bb28f32068783",
@@ -259,10 +283,46 @@
     ],
     "video": [
       {
+        "title": "With OpenAI’s Sora gone, who will take up the AI video mantle?",
+        "title_en": "With OpenAI’s Sora gone, who will take up the AI video mantle?",
+        "summary": "Advertisement OpenAI’s unexpected decision to shut down its Sora app , which allowed users to generate video clips by describing them, may open the door for other companies to make it big in AI video.",
+        "summary_en": "But that still leaves several companies that could step up to fill the void left by Sora, especially since the OpenAI model had created cottage industries of AI prompters, ad agencies, aggregators and",
+        "long_summary": "Advertisement OpenAI’s unexpected decision to shut down its Sora app , which allowed users to generate video clips by describing them, may open the door for other companies to make it big in AI video. But it also highlights the many ways in which the technology may simply be more trouble than it’s worth. The AI giant and ChatGPT creator closed Sora this week as part of a widespread effort to cut costs, ahead of a rumoured public offering. In the six months it was available, the app created almost as many headaches for OpenAI as it did copyright-infringing SpongeBob clips for its dedicated audience. Sora was originally revealed in early 2024, and made available to paying OpenAI customers later that year. But it didn’t hit the mainstream until it was released as an app in October 2025, hitting a million downloads in a matter of days. Structured like TikTok but with AI content generated by other users, the app encouraged people to make models of their own faces that others could use. It was immediately filled with violent, racist content, sexualised deepfakes of real people, and famous copyrighted cartoon characters in compromising situations. In a blog post at the time, OpenAI chief executive Sam Altman said he was “hearing from a lot of rights holders who are very excited for this new kind of interactive fan fiction, and think this new kind of engagement will accrue a lot of value to them, but want the ability to specify how their characters can be used”, which is surely a gen",
+        "long_summary_en": "Advertisement OpenAI’s unexpected decision to shut down its Sora app , which allowed users to generate video clips by describing them, may open the door for other companies to make it big in AI video. But it also highlights the many ways in which the technology may simply be more trouble than it’s worth. The AI giant and ChatGPT creator closed Sora this week as part of a widespread effort to cut costs, ahead of a rumoured public offering. In the six months it was available, the app created almost as many headaches for OpenAI as it did copyright-infringing SpongeBob clips for its dedicated audi",
+        "image": "https://static.ffx.io/images/$zoom_1.8750264550264553%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_603%2C$y_286/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/c0da07c5bf605064c10ee46731972d24618b9d690589bb47885e55cae5bccd1a",
+        "source": "Smh",
+        "url": "https://www.smh.com.au/technology/with-openai-s-sora-gone-who-will-take-up-the-ai-video-mantle-20260326-p5ziuy.html",
+        "date": "27 March 2026"
+      },
+      {
+        "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+        "title_en": "OpenAI shuts down Sora while Meta gets shut out in court",
+        "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby ",
+        "summary_en": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby ",
+        "long_summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+        "long_summary_en": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+        "date": "27 March 2026"
+      },
+      {
+        "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+        "title_en": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+        "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby ",
+        "summary_en": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby ",
+        "long_summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+        "long_summary_en": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+        "date": "27 March 2026"
+      },
+      {
         "title": "Sora 2: Free Text to Video Generator by Open AI",
         "title_en": "Sora 2: Free Text to Video Generator by Open AI",
         "summary": "Sora 2: Free Text to Video Generator by Open AI Sora 2 + INVIDEO Your AI production house that creates scripts, storyboards, visuals, and edits autonomously. No watermarks. No 12-second limit. AI Twin",
-        "summary_en": "Sora 2, OpenAI’s new frontier model for video, has the most advanced world simulation capabilities. It’s a big leap forward for controllability, real-world physics, and styles.Invideo acts like an AI ",
+        "summary_en": "Sora 2, OpenAI’s new frontier model for video, has the most advanced world simulation capabilities. It’s a big leap forward for controllability, real-world physics, and styles.Invideo acts like an AI",
         "long_summary": "Sora 2: Free Text to Video Generator by Open AI Sora 2 + INVIDEO Your AI production house that creates scripts, storyboards, visuals, and edits autonomously. No watermarks. No 12-second limit. AI Twins Try now! Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Film a snow leopard chasing light through an abandoned Himalayan temple Show off our new candle line in an aesthetic product reel Make a UGC ad reviewing our new peanut butter protein bar I need a 45s onboarding video for new hires, casual tone Show my younger self everything he becomes, and why Create a documentary-style video of the first humans discovering fire Create a fast-paced explainer on how cold plunges actually work Create an animated bedtime story video for my child, using my voice Film a snow leopard chasing light through an abandoned Himalayan",
         "long_summary_en": "Sora 2: Free Text to Video Generator by Open AI Sora 2 + INVIDEO Your AI production house that creates scripts, storyboards, visuals, and edits autonomously. No watermarks. No 12-second limit. AI Twins Try now! Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Create A 30-second cinemat",
         "image": "https://p16-seeyou-useast5.capcutcdn-us.com/tos-useast5-i-2zwwjm3azk-tx/52fbdf18f215496d996036bfb52374c1~tplv-2zwwjm3azk-image.image",
@@ -401,45 +461,69 @@
         "source": "Veed",
         "url": "https://www.veed.io/learn/sora-alternatives",
         "date": "26 March 2026"
-      },
-      {
-        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "How Artificial Intelligence is creating the next normal · March 25, 2026 · OpenAI drops AI video tool Sora, startling Disney, sources say · On Monday evening, Walt Disney Co and OpenAI teams ​were wor",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://www.reuters.com/resizer/v2/MHD5G76PKRIK5EWDLX4DWXZAPQ.jpg?auth=49b05f88c4d6de8b81f3c8297496ea0d9bca0f706606e8cf029d7d263a189fc5&width=1920&quality=80",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "26 March 2026"
-      },
-      {
-        "title": "7 Best AI Video Generation API Alternatives After Sora’s Confirmed Shutdown: A Complete Migration Guide - Apiyi.com Blog",
-        "title_en": "7 Best AI Video Generation API Alternatives After Sora’s Confirmed Shutdown: A Complete Migration Guide - Apiyi.com Blog",
-        "summary": "On March 24, 2026, OpenAI officially announced the complete shutdown of its Sora video generation application and API. This product, which once shook the entire AI industry, has come to an end just si",
-        "summary_en": "While the sunsetting of Sora is certainly a bummer, the good news is that <strong>the AI video generation landscape in 2026 is far more mature than when Sora first launched</strong>. You’ve got more a",
-        "long_summary": "On March 24, 2026, OpenAI officially announced the complete shutdown of its Sora video generation application and API. This product, which once shook the entire AI industry, has come to an end just six months after its launch. If you are currently using the Sora API, you need to plan your migration immediately . Core Value : After reading this article, you'll understand the full context behind Sora's shutdown, master 7 field-tested alternatives, and receive migration advice and code examples tailored to your specific scenarios. The Background of Sora's Shutdown: Why OpenAI Gave Up on Video Generation Sora Shutdown Timeline Date Event February 2024 Sora technical preview released, stunning the industry Sept-Oct 2025 Sora app officially launches, exceeding 1 million downloads in 5 days November 2025 Downloads peak at ~3.33 million December 2025 Downloads drop by 32%, continuing a downward trend January 10, 2026 Free tier discontinued February 2026 Downloads fall to ~1.13 million March 24, 2026 OpenAI officially announces the shutdown of the Sora app and API 3 Core Reasons for the Shutdown Reason 1: Cost Cutting Before IPO OpenAI is preparing for an IPO and needs to demonstrate a healthier financial position. Video generation consumes massive amounts of GPU resources, yet revenue lags far behind text and coding products. Reallocating GPU compute from video generation to more profitable businesses like the GPT-5.x series and Codex is a purely commercial decision. Reason 2: Declin",
-        "long_summary_en": "On March 24, 2026, OpenAI officially announced the complete shutdown of its Sora video generation application and API. This product, which once shook the entire AI industry, has come to an end just six months after its launch. If you are currently using the Sora API, you need to plan your migration immediately . Core Value : After reading this article, you'll understand the full context behind Sora's shutdown, master 7 field-tested alternatives, and receive migration advice and code examples tailored to your specific scenarios. The Background of Sora's Shutdown: Why OpenAI Gave Up on Video Gen",
-        "image": "https://help.apiyi.com/wp-content/uploads/2025/02/cropped-apiyi-logo-250207.png",
-        "source": "Help",
-        "url": "https://help.apiyi.com/en/sora-shutdown-7-best-ai-video-generation-api-alternatives-guide-en.html",
-        "date": "26 March 2026"
-      },
-      {
-        "title": "Ring Finally Goes Wire-Free for Its Latest 4K Video Doorbells",
-        "title_en": "Ring Finally Goes Wire-Free for Its Latest 4K Video Doorbells",
-        "summary": "The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.",
-        "summary_en": "The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.",
-        "long_summary": "The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.",
-        "long_summary_en": "The launch of battery-powered versions of the company's powerful AI doorbells has been highly anticipated.",
-        "image": "https://www.cnet.com/a/img/resize/8c0c1f0cf59405592c52a33aea9b9b9ff1ab2849/hub/2026/03/25/04e0b932-ff2c-42d4-a773-eb93cca4d4b6/ring-battery-doorbell-4k.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/ring-finally-goes-wire-free-for-its-latest-4k-video-doorbells/",
-        "date": "26 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Apple to let users route Siri queries to Gemini, Claude, move beyond OpenAI: Report | Mint",
+        "title_en": "Apple to let users route Siri queries to Gemini, Claude, move beyond OpenAI: Report | Mint",
+        "summary": "In practice, this would mean that if users have AI apps like Google&#x27;s Gemini, Anthropic&#x27;s Claude, and xAI&#x27;s Grok installed on their iPhones, they can send queries to those assistants vi",
+        "summary_en": "In practice, this would mean that if users have AI apps like Google&#x27;s Gemini, Anthropic&#x27;s Claude, and xAI&#x27;s Grok installed on their iPhones, they can send queries to those assistants vi",
+        "long_summary": "In practice, this would mean that if users have AI apps like Google&#x27;s Gemini, Anthropic&#x27;s Claude, and xAI&#x27;s Grok installed on their iPhones, they can send queries to those assistants via Siri.",
+        "long_summary_en": "In practice, this would mean that if users have AI apps like Google&#x27;s Gemini, Anthropic&#x27;s Claude, and xAI&#x27;s Grok installed on their iPhones, they can send queries to those assistants via Siri.",
+        "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/Apple_Siri__1774590303174_1774590303342.jpg",
+        "source": "Livemint",
+        "url": "https://www.livemint.com/technology/tech-news/apple-moves-to-break-openais-siri-monopoly-set-to-allow-users-to-route-siri-queries-to-gemini-and-claude-report-11774588198902.html",
+        "date": "27 March 2026"
+      },
+      {
+        "title": "Fortune Tech: Anthropic's powerful Mythos model revealed | Fortune",
+        "title_en": "Fortune Tech: Anthropic's powerful Mythos model revealed | Fortune",
+        "summary": "Good morning . In case you missed the breaking news last night, a federal judge has blocked the Trump administration’s ban on Anthropic , ruling that the Pentagon’s designation of Anthropic’s AI techn",
+        "summary_en": "The change to Siri, which could ... or answer queries. <strong>Apple currently routes many such Siri requests through OpenAI&#x27;s ChatGPT as a result of a partnership that Apple and OpenAI announced",
+        "long_summary": "Good morning . In case you missed the breaking news last night, a federal judge has blocked the Trump administration’s ban on Anthropic , ruling that the Pentagon’s designation of Anthropic’s AI technology as a supply chain risk seems “Orwellian” and punitive. It’s just a temporary pause while lawyers from all sides prepare to fight the main legal battle, but the judge’s choice of words certainly don’t bode well for the government’s case. Meanwhile, in other ICYMI news, I’m proud to report that two Fortune feature stories about tech were recognized by the Society for Advancing Business Editing and Writing in its 2025 Best in Business awards . Jeff John Roberts’ story on prediction markets Kalshi and Polymarket won the award in the Investing/Markets category for medium-sized publications. The judges called it an “entertaining read” with “impressive sourcing” and a “clarity of thought” about the battle at the forefront of the emerging industry.” You can read Jeff’s story here. And Jessica Mathews and Leo Schwartz’s investigation into Elon Musk’s Boring Co won Honorable Mention in the Transportation category for “strong reporting on the risks faced by those building and maintaining tunnels underneath Las Vegas, a $400,000 disappearing fine, and the cozy relationship between company and state officials.” You can read Jessica and Leo’s investigation here. Today’s news below. Alexei Oreskovic @lexnfx alexei.oreskovic@fortune.com Want to send thoughts or suggestions to Fortune Tech?",
+        "long_summary_en": "Good morning . In case you missed the breaking news last night, a federal judge has blocked the Trump administration’s ban on Anthropic , ruling that the Pentagon’s designation of Anthropic’s AI technology as a supply chain risk seems “Orwellian” and punitive. It’s just a temporary pause while lawyers from all sides prepare to fight the main legal battle, but the judge’s choice of words certainly don’t bode well for the government’s case. Meanwhile, in other ICYMI news, I’m proud to report that two Fortune feature stories about tech were recognized by the Society for Advancing Business Editing",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2194801091-e1774580699589.jpg?resize=1200,600",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/03/27/anthropic-data-leak-reveals-powerful-secret-mythos-ai-model/",
+        "date": "27 March 2026"
+      },
+      {
+        "title": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages - ABC News",
+        "title_en": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages - ABC News",
+        "summary": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages L By Luke Cooper Topic: AI 18h ago 18 hours ago Thu 26 Mar 2026 at 11:11pm Millions of people are beginning to protest against t",
+        "summary_en": "The US market share of Anthropic&#x27;s ... data analyst Apptopia. <strong>ChatGPT&#x27;s share of overall AI platform users fell from 69.1 per cent to 45.3 per cent, while Google&#x27;s Gemini almost",
+        "long_summary": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages L By Luke Cooper Topic: AI 18h ago 18 hours ago Thu 26 Mar 2026 at 11:11pm Millions of people are beginning to protest against the unfettered use and development of artificial intelligence. ( Reuters: Manuel Orbegozo ) Artificial intelligence (AI) companies are stuck in a \"perfect storm\", experts say. The sector is trying to control the use and output of its platforms while maintaining profits and contending with a campaign to boycott the technology. A \"QuitGPT\" protest movement has been launched against OpenAI's ChatGPT amid industry concerns that the Trump administration could use AI for autonomous warfare and mass surveillance. Technology company OpenAI says its ChatGPT artificial intelligence platform is used worldwide by 900 million people weekly. ( Reuters: Dado Ruvic ) Sean Parnell, the Pentagon's top spokesman, has posted on social media that the military \"has no interest in using AI to conduct mass surveillance of Americans [which is illegal] nor do we want to use AI to develop autonomous weapons that operate without human involvement\". Rival AI company Anthropic and the US government are also embroiled in a legal stoush over the Pentagon placing it on a national security blacklist after the start-up refused to remove guardrails on the use of its technology. The Trump administration has struck a deal with OpenAI to deploy its technology into classified networks, with the company setting out three",
+        "long_summary_en": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages L By Luke Cooper Topic: AI 18h ago 18 hours ago Thu 26 Mar 2026 at 11:11pm Millions of people are beginning to protest against the unfettered use and development of artificial intelligence. ( Reuters: Manuel Orbegozo ) Artificial intelligence (AI) companies are stuck in a \"perfect storm\", experts say. The sector is trying to control the use and output of its platforms while maintaining profits and contending with a campaign to boycott the technology. A \"QuitGPT\" protest movement has been launched against OpenAI's ChatGPT a",
+        "image": "https://live-production.wcms.abc-cdn.net.au/9ffaf027d3fd16b818e952270817932d?impolicy=wcms_watermark_news&cropH=2809&cropW=4994&xPos=0&yPos=84&width=862&height=485&imformat=generic",
+        "source": "Abc",
+        "url": "https://www.abc.net.au/news/2026-03-27/quitgpt-openai-boycott-movement-ethical-debate-explained/106486206",
+        "date": "27 March 2026"
+      },
+      {
+        "title": "A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization",
+        "title_en": "A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization",
+        "summary": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit versi",
+        "summary_en": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit versi",
+        "long_summary": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit version with a single flag. We start by validating GPU availability, then conditionally install either llama.cpp or transformers with bitsandbytes, depending on […]\nThe post A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit version with a single flag. We start by validating GPU availability, then conditionally install either llama.cpp or transformers with bitsandbytes, depending on […]\nThe post A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-7-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/26/a-coding-implementation-to-run-qwen3-5-reasoning-models-distilled-with-claude-style-thinking-using-gguf-and-4-bit-quantization/",
+        "date": "27 March 2026"
+      },
+      {
+        "title": "SoftBank secures $40B bridge loan to fund its OpenAI bet",
+        "title_en": "SoftBank secures $40B bridge loan to fund its OpenAI bet",
+        "summary": "The unsecured facility, arranged with JPMorgan Chase, Goldman Sachs, Mizuho, SMBC and MUFG, matures in March 2027. Once SoftBank’s $30B follow-on investment in OpenAI closes, its cumulative stake will",
+        "summary_en": "The unsecured facility, arranged with JPMorgan Chase, Goldman Sachs, Mizuho, SMBC and MUFG, matures in March 2027. Once SoftBank’s $30B follow-on investment in OpenAI closes, its cumulative stake will",
+        "long_summary": "The unsecured facility, arranged with JPMorgan Chase, Goldman Sachs, Mizuho, SMBC and MUFG, matures in March 2027. Once SoftBank’s $30B follow-on investment in OpenAI closes, its cumulative stake will total approximately $64.6B, representing roughly 13% of the company. Masayoshi Son has never been accused of thinking small, but the pace and scale of his bet […]\nThis story continues at The Next Web",
+        "long_summary_en": "The unsecured facility, arranged with JPMorgan Chase, Goldman Sachs, Mizuho, SMBC and MUFG, matures in March 2027. Once SoftBank’s $30B follow-on investment in OpenAI closes, its cumulative stake will total approximately $64.6B, representing roughly 13% of the company. Masayoshi Son has never been accused of thinking small, but the pace and scale of his bet […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FSoftBank.png&signature=f1f34607e8b5d8c2b32c101c8030a461",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/softbank-40-billion-bridge-loan-openai",
+        "date": "27 March 2026"
+      },
       {
         "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
         "title_en": "Apple will reportedly allow other AI chatbots to plug into Siri",
@@ -516,7 +600,7 @@
         "title": "Google Gemini Lets You Import ChatGPT and Claude Memories",
         "title_en": "Google Gemini Lets You Import ChatGPT and Claude Memories",
         "summary": "The Buzz ■ Google launches Import Memory and Import Chat History tools for Gemini , targeting users frustrated with retraining new AI chatbots ■ The copy-paste process transfers user preferences, chat",
-        "summary_en": "Google just made it radically easier to ditch ChatGPT for Gemini. The company rolled out two new features Thursday - <strong>Import Memory and Import Chat History</strong> - that let users seamlessly ",
+        "summary_en": "Google just made it radically easier to ditch ChatGPT for Gemini. The company rolled out two new features Thursday - <strong>Import Memory and Import Chat History</strong> - that let users seamlessly",
         "long_summary": "The Buzz ■ Google launches Import Memory and Import Chat History tools for Gemini , targeting users frustrated with retraining new AI chatbots ■ The copy-paste process transfers user preferences, chat histories, and personalization data from competing AI assistants directly into Gemini ■ Move directly challenges ChatGPT and Claude's user lock-in advantage by eliminating switching costs ■ Feature arrives as AI chatbot competition intensifies, with user stickiness becoming the new battleground Google just made it radically easier to ditch ChatGPT for Gemini. The company rolled out two new features Thursday - Import Memory and Import Chat History - that let users seamlessly transfer everything their current AI knows about them with simple copy-paste prompts. It's a direct shot at OpenAI and Anthropic's Claude, removing the biggest barrier to switching: the hassle of retraining a new assistant on your preferences, work style, and personal details. Google just lowered the drawbridge on its AI fortress. The company's new Import Memory and Import Chat History features for Gemini are designed to do one thing: make it dead simple for ChatGPT and Claude users to jump ship without losing months of personalization. Here's how it works. Users copy a pre-written prompt from Gemini and paste it into their current AI assistant - whether that's OpenAI's ChatGPT, Anthropic's Claude, or another competitor. That AI spits out a summary of everything it knows about the user. Copy that output, past",
         "long_summary_en": "The Buzz ■ Google launches Import Memory and Import Chat History tools for Gemini , targeting users frustrated with retraining new AI chatbots ■ The copy-paste process transfers user preferences, chat histories, and personalization data from competing AI assistants directly into Gemini ■ Move directly challenges ChatGPT and Claude's user lock-in advantage by eliminating switching costs ■ Feature arrives as AI chatbot competition intensifies, with user stickiness becoming the new battleground Google just made it radically easier to ditch ChatGPT for Gemini. The company rolled out two new featur",
         "image": "https://charming-card-d91ad3487b.media.strapiapp.com/STK_255_Google_Gemini_B_474198_bdaac1a735.jpg",
@@ -558,66 +642,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/llm-updates",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "Judge temporarily blocks Trump administration's Anthropic ban : NPR",
-        "title_en": "Judge temporarily blocks Trump administration's Anthropic ban : NPR",
-        "summary": "Business Judge temporarily blocks Trump administration's Anthropic ban Updated March 26, 2026 9:14 PM ET Originally published March 26, 2026 8:17 PM ET John Ruwitch Anthropic is an American artificial",
-        "summary_en": "A federal judge in San Francisco ordered a preliminary injunction against the Pentagon on Thursday that temporarily puts on ice its potentially-crippling decision to label Anthropic a &quot;supply cha",
-        "long_summary": "Business Judge temporarily blocks Trump administration's Anthropic ban Updated March 26, 2026 9:14 PM ET Originally published March 26, 2026 8:17 PM ET John Ruwitch Anthropic is an American artificial intelligence (AI) company founded in 2021. RICCARDO MILANI/Hans Lucas/AFP via Getty Images hide caption toggle caption RICCARDO MILANI/Hans Lucas/AFP via Getty Images A federal judge in San Francisco ordered a preliminary injunction against the Pentagon on Thursday that temporarily puts on ice its potentially-crippling decision to label Anthropic a \"supply chain risk.\" The tech company and the Pentagon are in the middle of a dispute over how the military might use the company's artificial intelligence model, Claude. Technology Anthropic sues the Trump administration over 'supply chain risk' label Judge Rita F. Lin of the District Court for the Northern District of California also temporarily halted a directive from President Trump ordering all federal agencies to stop using Anthropic's technology. These actions pause the government's ban until the court can decide on the merits of the underlying case. In the order, Lin wrote that the supply chain risk designation is usually reserved for foreign intelligence agencies and terrorists, not for American companies. \"These broad measures do not appear to be directed at the government's stated national security interests,\" Lin wrote. \"If the concern is the integrity of the operational chain of command, the Department of War could just s",
-        "long_summary_en": "Business Judge temporarily blocks Trump administration's Anthropic ban Updated March 26, 2026 9:14 PM ET Originally published March 26, 2026 8:17 PM ET John Ruwitch Anthropic is an American artificial intelligence (AI) company founded in 2021. RICCARDO MILANI/Hans Lucas/AFP via Getty Images hide caption toggle caption RICCARDO MILANI/Hans Lucas/AFP via Getty Images A federal judge in San Francisco ordered a preliminary injunction against the Pentagon on Thursday that temporarily puts on ice its potentially-crippling decision to label Anthropic a \"supply chain risk.\" The tech company and the Pe",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3967x2231+0+207/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F24%2F9a%2F49fe40a34290a448114444d2824f%2Fgettyimages-2227254922.jpg",
-        "source": "Npr",
-        "url": "https://www.npr.org/2026/03/26/nx-s1-5762971/judge-temporarily-blocks-anthropic-ban",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "Tencent AI Open Sources Covo-Audio: A 7B Speech Language Model and Inference Pipeline for Real-Time Audio Conversations and Reasoning",
-        "title_en": "Tencent AI Open Sources Covo-Audio: A 7B Speech Language Model and Inference Pipeline for Real-Time Audio Conversations and Reasoning",
-        "summary": "Tencent AI Lab has released Covo-Audio, a 7B-parameter end-to-end Large Audio Language Model (LALM). The model is designed to unify speech processing and language intelligence by directly processing c",
-        "summary_en": "Tencent AI Lab has released Covo-Audio, a 7B-parameter end-to-end Large Audio Language Model (LALM). The model is designed to unify speech processing and language intelligence by directly processing c",
-        "long_summary": "Tencent AI Lab has released Covo-Audio, a 7B-parameter end-to-end Large Audio Language Model (LALM). The model is designed to unify speech processing and language intelligence by directly processing continuous audio inputs and generating audio outputs within a single architecture. System Architecture The Covo-Audio framework consists of four primary components designed for seamless cross-modal interaction: Hierarchical […]\nThe post Tencent AI Open Sources Covo-Audio: A 7B Speech Language Model and Inference Pipeline for Real-Time Audio Conversations and Reasoning appeared first on MarkTechPost",
-        "long_summary_en": "Tencent AI Lab has released Covo-Audio, a 7B-parameter end-to-end Large Audio Language Model (LALM). The model is designed to unify speech processing and language intelligence by directly processing continuous audio inputs and generating audio outputs within a single architecture. System Architecture The Covo-Audio framework consists of four primary components designed for seamless cross-modal interaction: Hierarchical […]\nThe post Tencent AI Open Sources Covo-Audio: A 7B Speech Language Model and Inference Pipeline for Real-Time Audio Conversations and Reasoning appeared first on MarkTechPost",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2025/12/blog-banner23-5-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/26/tencent-ai-open-sources-covo-audio-a-7b-speech-language-model-and-inference-pipeline-for-real-time-audio-conversations-and-reasoning/",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-        "title_en": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-        "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-        "summary_en": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-        "long_summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-        "long_summary_en": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-        "image": "https://media.wired.com/photos/69c566552e06a34450ad87fa/191:100/w_1280,c_limit/Asked-ChatGPT-Questions-Here-Are-Ads-I-Saw-Most-Often-Gear-1258531803.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "Behind the Curtain: How Anthropic's Pentagon deal could get revived",
-        "title_en": "Behind the Curtain: How Anthropic's Pentagon deal could get revived",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "Anthropic&#x27;s AI is vastly better for warfare than any other AI on the market. It could take ChatGPT, Gemini or Grok months to come close, insiders tell us.",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2346x1564+0+0/resize/1100/quality/50/format/jpeg/?url=http://npr-brightspot.s3.amazonaws.com/b4/ea/bfec70974d408a48598215de7c04/ap26036779392489.jpg",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/03/26/anthropic-pentagon-ai-deal",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "Best AI Chatbots 2026: I Tested ChatGPT, Claude, Gemini, Perplexity and Grok",
-        "title_en": "Best AI Chatbots 2026: I Tested ChatGPT, Claude, Gemini, Perplexity and Grok",
-        "summary": "Contents ChatGPT’s 60.4% Market Share Is A Double-Edged Sword That Cuts Deep Claude’s 14% Growth Spurt Reveals What Users Actually Want From AI Gemini 3 And The Google Workspace Trap That’s Snaring Mi",
-        "summary_en": "My gut feeling? <strong>Anthropic will hit 8% market share by June</strong>. They’re not winning the consumer war, but they’re winning the people who matter for enterprise contracts. Google owns 15.2%",
-        "long_summary": "Contents ChatGPT’s 60.4% Market Share Is A Double-Edged Sword That Cuts Deep Claude’s 14% Growth Spurt Reveals What Users Actually Want From AI Gemini 3 And The Google Workspace Trap That’s Snaring Millions Perplexity Sonar Pro Is The Only Honest Research Tool Left In 2026 Microsoft Copilot’s Prometheus Architecture Hits A Wall In Real Workflows DeepSeek V3.2 And The Open Source Threat To The $20 Subscription Model Grok’s Real-Time Twitter Access Creates More Noise Than Signal The Benchmark Data Reveals Which Models Actually Understand Context Who’s Worth Your $20 Per Month In March 2026? FAQ: The Questions Everyone Actually Asks Claude’s 14% Growth Proves Quality Beats Distribution in 2026 GPT-5.2’s 90.3% Coding Benchmark Is Misleading DeepSeek V3.2 Costs $0.00015 Per 1K Tokens—If You Ignore Geopolitics Perplexity Sonar Pro Cites Sources ChatGPT hallucinates Microsoft Copilot Is a $30 Monthly Tax on Enterprise Inertia Gemini 3’s 2 Million Token Window Collapses After 400K AI Chatbots Stole 42% of Informational Search by March 2026 I’ve spent the last three weeks stress-testing every major ai chatbots 2026 release. We’re talking GPT-5.2, Claude Sonnet 4.5, Gemini 3, Perplexity’s Sonar Pro, and yes, even Grok’s latest “mind-blowing” update. The results? Most of these tools are running on reputation, not results. As of March 12, 2026, the market has crystallized into three distinct camps: the incumbent (ChatGPT), the insurgent (Claude), and the ecosystem players (Gemini and Cop",
-        "long_summary_en": "Contents ChatGPT’s 60.4% Market Share Is A Double-Edged Sword That Cuts Deep Claude’s 14% Growth Spurt Reveals What Users Actually Want From AI Gemini 3 And The Google Workspace Trap That’s Snaring Millions Perplexity Sonar Pro Is The Only Honest Research Tool Left In 2026 Microsoft Copilot’s Prometheus Architecture Hits A Wall In Real Workflows DeepSeek V3.2 And The Open Source Threat To The $20 Subscription Model Grok’s Real-Time Twitter Access Creates More Noise Than Signal The Benchmark Data Reveals Which Models Actually Understand Context Who’s Worth Your $20 Per Month In March 2026? FAQ:",
-        "image": "https://ucstrategies.com/news/wp-content/uploads/2026/03/chatbot.webp",
-        "source": "Ucstrategies",
-        "url": "https://ucstrategies.com/news/best-ai-chatbots-2026-i-tested-chatgpt-claude-gemini-perplexity-and-grok/",
         "date": "27 March 2026"
       }
     ],
@@ -794,13 +818,6 @@
   },
   "hotNews": [
     {
-      "title": "Best AI Chatbots 2026: I Tested ChatGPT, Claude, Gemini, Perplexity and Grok",
-      "title_en": "Best AI Chatbots 2026: I Tested ChatGPT, Claude, Gemini, Perplexity and Grok",
-      "source": "Ucstrategies",
-      "url": "https://ucstrategies.com/news/best-ai-chatbots-2026-i-tested-chatgpt-claude-gemini-perplexity-and-grok/",
-      "date": "27 March 2026"
-    },
-    {
       "title": "Google Gemini Lets You Import ChatGPT and Claude Memories",
       "title_en": "Google Gemini Lets You Import ChatGPT and Claude Memories",
       "source": "Techbuzz",
@@ -812,6 +829,13 @@
       "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
       "source": "Llm-Stats",
       "url": "https://llm-stats.com/llm-updates",
+      "date": "27 March 2026"
+    },
+    {
+      "title": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages - ABC News",
+      "title_en": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages - ABC News",
+      "source": "Abc",
+      "url": "https://www.abc.net.au/news/2026-03-27/quitgpt-openai-boycott-movement-ethical-debate-explained/106486206",
       "date": "27 March 2026"
     }
   ]
