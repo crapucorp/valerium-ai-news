@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27 March 2026 - 08:00",
+  "lastUpdate": "27 March 2026 - 11:41",
   "categories": {
     "general": [
       {
@@ -933,6 +933,22 @@
       "source": "Adweek",
       "url": "https://www.adweek.com/media/openai-killed-sora-the-ad-industry-had-already-moved-on/",
       "date": "27 March 2026"
+    }
+  ],
+  "hot_news": [
+    {
+      "title": "LEAK : Claude Mythos, le modèle IA d'Anthropic trop puissant pour être publié",
+      "title_en": "LEAK: Claude Mythos, Anthropic's AI model too powerful to release",
+      "summary": "Anthropic confirme tester Claude Mythos, son modèle le plus avancé, après une fuite de documents révélant des capacités cybersécurité \"sans précédent\" et des risques majeurs.",
+      "summary_en": "Anthropic confirms testing Claude Mythos, its most advanced model, after document leak reveals 'unprecedented' cybersecurity capabilities and major risks.",
+      "long_summary": "Une fuite accidentelle de documents internes révèle Claude Mythos (Capybara), le nouveau modèle d'Anthropic au-dessus d'Opus. L'entreprise l'a confirmé : c'est leur système le plus puissant jamais développé, avec des capacités en cybersécurité 'largement supérieures à tout autre modèle IA'. Le problème : il peut exploiter des vulnérabilités logicielles inconnues à une échelle industrielle. Anthropic prévoit une sortie prudente, d'abord réservée aux équipes de cyberdéfense pour les armer face aux attaques IA. Le leak via un CMS mal configuré a exposé ~3000 assets, dont un draft blog complet et des détails sur un sommet CEO privé en Europe. Contexte : des hackers chinois ont déjà utilisé Claude Code pour infiltrer 30 organisations (nov 2025). Mythos marque un 'step change' dans la puissance IA, mais aussi dans les risques.",
+      "long_summary_en": "An accidental leak of internal documents reveals Claude Mythos (Capybara), Anthropic's new model tier above Opus. The company confirmed: it's their most powerful system ever built, with cybersecurity capabilities 'far ahead of any other AI model'. The problem: it can exploit unknown software vulnerabilities at industrial scale. Anthropic plans a cautious release, first reserved for cyber defense teams to arm them against AI attacks. The leak via a misconfigured CMS exposed ~3000 assets, including a complete draft blog and details about a private CEO summit in Europe. Context: Chinese hackers already used Claude Code to infiltrate 30 organizations (Nov 2025). Mythos marks a 'step change' in AI power, but also in risks.",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1917471614-e1743028920894.jpg",
+      "source": "fortune",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "date": "27 March 2026",
+      "breaking": true,
+      "score": 100
     }
   ]
 }
