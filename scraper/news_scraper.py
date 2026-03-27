@@ -43,18 +43,11 @@ def get_openai_token():
 OPENAI_API_KEY = None  # Will be loaded dynamically
 
 RSS_SOURCES = {
-    # Major tech news
+    # AI-specific feeds only (removed general tech sources)
     "techcrunch_ai": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "theverge_ai": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-    "wired_ai": "https://www.wired.com/feed/tag/ai/latest/rss",
-    "ars_ai": "https://feeds.arstechnica.com/arstechnica/technology-lab",
-    # AI-focused sources
     "venturebeat_ai": "https://venturebeat.com/category/ai/feed/",
     "thenextweb_ai": "https://thenextweb.com/neural/feed/",
-    "zdnet_ai": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
-    "cnet_ai": "https://www.cnet.com/rss/news/",
-    # Research & deep AI
-    "mit_tech": "https://www.technologyreview.com/feed/",
     "marktechpost": "https://www.marktechpost.com/feed/",
 }
 
@@ -159,9 +152,33 @@ AI_KEYWORDS = [
 ]
 
 def is_ai_related(title, summary):
-    """Check if article is AI-related. Returns True only for AI content."""
+    """Check if article is AI-related. Returns True only for AI content.
+    STRICT FILTER: Requires at least 2 AI keywords OR 1 strong keyword in title.
+    """
     text = (title + " " + summary).lower()
-    return any(kw in text for kw in AI_KEYWORDS)
+    title_lower = title.lower()
+    
+    # Strong keywords that alone prove it's AI-related
+    strong_keywords = [
+        "openai", "anthropic", "claude", "chatgpt", "gemini", "deepseek",
+        "llama", "mistral", "stable diffusion", "midjourney", "dall-e",
+        "sora", "runway", "llm", "large language model", "neural network",
+        "machine learning", "deep learning", "artificial intelligence",
+        "generative ai", "ai model", "ai agent"
+    ]
+    
+    # If title contains a strong keyword, it's definitely AI
+    if any(kw in title_lower for kw in strong_keywords):
+        return True
+    
+    # Otherwise, require at least 2 AI keywords in full text
+    matches = sum(1 for kw in AI_KEYWORDS if kw in text)
+    
+    # Reject if only "ai" appears (too vague)
+    if matches == 1 and "ai" in text and not any(kw in text for kw in strong_keywords):
+        return False
+    
+    return matches >= 2
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
