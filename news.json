@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "28 March 2026 - 18:30",
+  "lastUpdate": "29 March 2026 - 08:00",
   "categories": {
     "general": [
+      {
+        "title": "A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling",
+        "title_en": "A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling",
+        "summary": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simp",
+        "summary_en": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simp",
+        "long_summary": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simply installing and running it out of the box, we crack open the hood and manually recreate each of its core subsystems, the agent […]\nThe post A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simply installing and running it out of the box, we crack open the hood and manually recreate each of its core subsystems, the agent […]\nThe post A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling appeared first on MarkTechPost.",
+        "image": "https://media.brightdata.com/2026/03/rJWzUgaK-l.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/",
+        "date": "29 March 2026"
+      },
       {
         "title": "openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management",
         "title_en": "openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management",
@@ -112,6 +124,18 @@
       }
     ],
     "image": [
+      {
+        "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+        "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+        "summary": "ETV Bharat / technology Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How Users can now switch from ChatGPT and transfer their chat history to either Gemini or Claude ",
+        "summary_en": "It is worth noting that images and files generated in the previous AI chatbot service will not be included. How to transfer your information from ChatGPT to Claude · Earlier this month, <strong>Anthro",
+        "long_summary": "ETV Bharat / technology Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How Users can now switch from ChatGPT and transfer their chat history to either Gemini or Claude without losing old chats and personal information. Transfer chat histroy from ChatGPT to Gemini ( Image Credit: Google Blog ) By ETV Bharat Tech Team Published : March 28, 2026 at 6:05 PM IST 3 Min Read Hyderabad: Google recently updated its Artificial Intelligence (AI) model, Gemini, which now allows users to easily switch between AI chatbot services like ChatGPT, Claude, and Perplexity. Users can now easily transfer their chats and personal information, helping them to continue their old conversations without starting from scratch. Google states, “We're introducing the ability to import your full chat history, too. To reflect this evolution, we’re also renaming our “past chats” feature to “memory,” a change you’ll see rolling out in the app over the next few weeks.” The tech giant also mentions that users can simply upload a ZIP file of their chat history from other AI chatbot services and seamlessly start from where they left off. They can search their past conversation threads and continue building on them within Gemini. Switching to Gemini from other AI apps just got easier. Starting to roll out today on desktop, you can now bring your preferences and chat history into Gemini, so you can pick up right where you left off in just a few clicks. 🧵 pic.twitter.com/zlR1XceNkU — Go",
+        "long_summary_en": "ETV Bharat / technology Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How Users can now switch from ChatGPT and transfer their chat history to either Gemini or Claude without losing old chats and personal information. Transfer chat histroy from ChatGPT to Gemini ( Image Credit: Google Blog ) By ETV Bharat Tech Team Published : March 28, 2026 at 6:05 PM IST 3 Min Read Hyderabad: Google recently updated its Artificial Intelligence (AI) model, Gemini, which now allows users to easily switch between AI chatbot services like ChatGPT, Claude, and Perplexity. Users ca",
+        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/28-03-2026/1200-675-26349406-219-26349406-1774701163977.jpg",
+        "source": "Etvbharat",
+        "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
+        "date": "29 March 2026"
+      },
       {
         "title": "Giraffe360 raises $10M Series B to expand AI property media platform",
         "title_en": "Giraffe360 raises $10M Series B to expand AI property media platform",
@@ -283,6 +307,30 @@
     ],
     "video": [
       {
+        "title": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape",
+        "title_en": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape",
+        "summary": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape The shutdown of OpenAI’s Sora sent shockwaves through the creative industry, but the AI video ecosystem in 2026 is more ro",
+        "summary_en": "For professionals who used Sora as part of a larger production pipeline, <strong>Runway offers the most seamless integration of generation, editing, and refinement</strong>. ... Unified Workflow: Comb",
+        "long_summary": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape The shutdown of OpenAI’s Sora sent shockwaves through the creative industry, but the AI video ecosystem in 2026 is more robust, specialized, and production-ready than ever. Here’s your definitive guide to the best alternatives. When OpenAI announced the immediate sunset of Sora this past Tuesday, citing “completely unsustainable” computing costs, it left thousands of creators, marketers, and filmmakers scrambling. The tool that had become synonymous with hyper-realistic AI-generated video vanished overnight, taking with it established workflows and projects in progress. Yet, as one door closes, a dozen more have opened. The post-Sora era is not a void—it’s a diversified landscape where specialized tools have matured beyond simple generation to offer cinematic control, character consistency , native audio, and production-grade quality . The key is no longer finding an AI video tool, but selecting the right one for your specific creative or commercial need. Based on extensive testing, hands-on workflows, and the latest model releases of 2026, here are the 7 best Sora alternatives—including one that surpasses the original in its own domain. 1. Google Veo 3.1 : The 4K Cinematic Powerhouse with Native Audio Best for: Broadcast-quality content, film production, and projects requiring synchronized sound. If Sora’s claim to fame was cinematic beauty, Google Veo 3.1 has claimed the throne for technical supre",
+        "long_summary_en": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape The shutdown of OpenAI’s Sora sent shockwaves through the creative industry, but the AI video ecosystem in 2026 is more robust, specialized, and production-ready than ever. Here’s your definitive guide to the best alternatives. When OpenAI announced the immediate sunset of Sora this past Tuesday, citing “completely unsustainable” computing costs, it left thousands of creators, marketers, and filmmakers scrambling. The tool that had become synonymous with hyper-realistic AI-generated video vanished overnight, taking w",
+        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgJmhntqBtg2ZqpunJa66ye-cy1SxhSddHFMaVOC9uhBpFhmIyt7_kQYgmu2OsI_0G2k857124_1ETpjxDBiGdrlhZItyQBsRnQY-vNaWVvir60wFp8gCvmI-QHODO_Lnw-5bgwLk3uGbKx0NrmjQnmSdPPC3oehWqFwg5W2HEsxhMU9KYk7gL5zqmk7OGO=w1200-h630-p-k-no-nu",
+        "source": "Masrawysat111",
+        "url": "https://www.masrawysat111.com/2020/04/ali-100.html",
+        "date": "29 March 2026"
+      },
+      {
+        "title": "The Best AI Image-to-Video Generators in 2026: Start With Runway, Then Override | LaoZhang AI Blog",
+        "title_en": "The Best AI Image-to-Video Generators in 2026: Start With Runway, Then Override | LaoZhang AI Blog",
+        "summary": "If you want one AI image-to-video generator that makes sense for most people in 2026, start with Runway . It is the cleanest default when your real job is turning a still image into a usable clip with",
+        "summary_en": "Use Veo 3.1 when your real job is reference-image control and native audio, <strong>Sora when you already create inside ChatGPT</strong>, Kling when you need multi-image motion and effects, and Pika w",
+        "long_summary": "If you want one AI image-to-video generator that makes sense for most people in 2026, start with Runway . It is the cleanest default when your real job is turning a still image into a usable clip without first committing to an API-heavy setup, a region-limited app flow, or an effects-first playground. If your real job is different, the overrides are clear: use Veo 3.1 for API-grade reference control and native audio, use Sora if you already create inside ChatGPT and want storyboard-first iteration, use Kling for multi-image and effects-heavy motion workflows, and use Pika when you want quick, lower-friction experiments more than the neatest professional workflow. That distinction matters because image-to-video is not the same buying decision as \"best AI video model.\" Once your starting asset is already a still image, the winner is not just the tool with the flashiest demo. It is the tool that handles references the way you need, gives you the right amount of motion control, and does not block your workflow with the wrong plan or access model. All freshness-sensitive facts below were rechecked against official pricing, help, or product documentation on March 28, 2026 . TL;DR If this is your real job Best pick Why it wins Main catch You want the best default for most creator workflows Runway The strongest overall mix of polished workflow, reference-led creation, and readable paid plans Free access behaves more like a one-time trial than a durable free tier You need API-grade co",
+        "long_summary_en": "If you want one AI image-to-video generator that makes sense for most people in 2026, start with Runway . It is the cleanest default when your real job is turning a still image into a usable clip without first committing to an API-heavy setup, a region-limited app flow, or an effects-first playground. If your real job is different, the overrides are clear: use Veo 3.1 for API-grade reference control and native audio, use Sora if you already create inside ChatGPT and want storyboard-first iteration, use Kling for multi-image and effects-heavy motion workflows, and use Pika when you want quick, ",
+        "image": "https://blog.laozhang.ai/posts/en/best-ai-image-to-video-generator/img/cover.png",
+        "source": "Blog",
+        "url": "https://blog.laozhang.ai/en/posts/best-ai-image-to-video-generator",
+        "date": "29 March 2026"
+      },
+      {
         "title": "Why OpenAI killed Sora | The Verge",
         "title_en": "Why OpenAI killed Sora | The Verge",
         "summary": "AI Report Analysis Why OpenAI killed Sora Too much compute, too much competition, and skeptical investors. by Hayden Field Mar 28, 2026, 12:00 PM UTC Link Share Gift AI Report Analysis Why OpenAI kill",
@@ -437,33 +485,69 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
         "date": "27 March 2026"
-      },
-      {
-        "title": "Sora 2: Free Text to Video Generator by Open AI",
-        "title_en": "Sora 2: Free Text to Video Generator by Open AI",
-        "summary": "Sora 2: Free Text to Video Generator by Open AI Sora 2 + INVIDEO Your AI production house that creates scripts, storyboards, visuals, and edits autonomously. No watermarks. No 12-second limit. AI Twin",
-        "summary_en": "Sora 2, OpenAI’s new frontier model for video, has the most advanced world simulation capabilities. It’s a big leap forward for controllability, real-world physics, and styles.Invideo acts like an AI",
-        "long_summary": "Sora 2: Free Text to Video Generator by Open AI Sora 2 + INVIDEO Your AI production house that creates scripts, storyboards, visuals, and edits autonomously. No watermarks. No 12-second limit. AI Twins Try now! Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Film a snow leopard chasing light through an abandoned Himalayan temple Show off our new candle line in an aesthetic product reel Make a UGC ad reviewing our new peanut butter protein bar I need a 45s onboarding video for new hires, casual tone Show my younger self everything he becomes, and why Create a documentary-style video of the first humans discovering fire Create a fast-paced explainer on how cold plunges actually work Create an animated bedtime story video for my child, using my voice Film a snow leopard chasing light through an abandoned Himalayan",
-        "long_summary_en": "Sora 2: Free Text to Video Generator by Open AI Sora 2 + INVIDEO Your AI production house that creates scripts, storyboards, visuals, and edits autonomously. No watermarks. No 12-second limit. AI Twins Try now! Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Create A 30-second cinemat",
-        "image": "https://p16-seeyou-useast5.capcutcdn-us.com/tos-useast5-i-2zwwjm3azk-tx/52fbdf18f215496d996036bfb52374c1~tplv-2zwwjm3azk-image.image",
-        "source": "Invideo",
-        "url": "https://invideo.io/make/sora/",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "OpenAI Shuts Down Sora AI Video Generator — 5 Alternatives Creators Can Use Instead",
-        "title_en": "OpenAI Shuts Down Sora AI Video Generator — 5 Alternatives Creators Can Use Instead",
-        "summary": "Just over a year and a half ago, Sora , OpenAI’s video generation model, burst onto the scene. It got everyone in the industry talking, with people creating funny videos of animals engaging in ridicul",
-        "summary_en": "<strong>It allows creators to transform images, artwork, or existing videos into stylized animations</strong>. This flexibility has made it popular among musicians, digital artists, and designers.",
-        "long_summary": "Just over a year and a half ago, Sora , OpenAI’s video generation model, burst onto the scene. It got everyone in the industry talking, with people creating funny videos of animals engaging in ridiculous activities. It quickly spread across social media platforms like X , TikTok , and Instagram . All that now seems short-lived as on Tuesday, OpenAI announced it was pulling the plug on the AI video generation chatbot. In a statement the company provided to the BBC , it cited the need to shift its attention to other areas “that will help people solve real-world, physical tasks.” This move aligns with recent statements about the company’s business strategy. According to a report from the Wall Street Journal , Fidji Simo, OpenAI’s CEO of applications, informed employees that the company “cannot miss this moment because we are distracted by side quests.” She added that the company needs “to nail productivity in general and particularly productivity on the business front.” OpenAI finally launches Sora, its powerful AI Video generator If you’ve ever wanted to bring your imagination to life in video form—without a camera or editing software—Sora might be the tool you’ve been waiting for. Techloy Emmanuel Oyedeji Why OpenAI shut down Sora’s AI video generator But there could be more to the shutdown of Sora than OpenAI is letting on. When the app launched in 2024, it quickly climbed to number one on the Apple App Store, reaching over 1 million downloads in under five days. Despite thos",
-        "long_summary_en": "Just over a year and a half ago, Sora , OpenAI’s video generation model, burst onto the scene. It got everyone in the industry talking, with people creating funny videos of animals engaging in ridiculous activities. It quickly spread across social media platforms like X , TikTok , and Instagram . All that now seems short-lived as on Tuesday, OpenAI announced it was pulling the plug on the AI video generation chatbot. In a statement the company provided to the BBC , it cited the need to shift its attention to other areas “that will help people solve real-world, physical tasks.” This move aligns",
-        "image": "https://images.unsplash.com/photo-1712002641088-1191ef635cf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGNoYXRncHR8ZW58MHx8fHwxNzc0NTM3NjMyfDA&ixlib=rb-4.1.0&q=80&w=2000",
-        "source": "Techloy",
-        "url": "https://www.techloy.com/openai-shuts-down-sora-ai-video-generator-5-alternatives-creators-can-use-instead/",
-        "date": "27 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Why Anthropic is 'refusing' to release an AI model that the company says is the most powerful AI it has ever developed - The Times of India",
+        "title_en": "Why Anthropic is 'refusing' to release an AI model that the company says is the most powerful AI it has ever developed - The Times of India",
+        "summary": "Edition IN IN US GCC English English à¤¹à¤¿à¤¨à¥à¤¦à¥ à¤®à¤°à¤¾à¤ à¥ à²à²¨à³à²¨à²¡ à®¤à®®à®¿à®´à¯ à¦¬à¦¾à¦à¦²à¦¾ à´®à´²à´¯à´¾à´³à´ à°¤à±à°²à±à°à± àªà«àªàª°àª¾àª¤à« Weather Sign In TOI ",
+        "summary_en": "That&#x27;s Anthropic&#x27;s own evaluation of a model it built.The concern is real enough that Anthropic has structured the entire early rollout around it. Rather than a standard launch, the company ",
+        "long_summary": "Edition IN IN US GCC English English à¤¹à¤¿à¤¨à¥à¤¦à¥ à¤®à¤°à¤¾à¤ à¥ à²à²¨à³à²¨à²¡ à®¤à®®à®¿à®´à¯ à¦¬à¦¾à¦à¦²à¦¾ à´®à´²à´¯à´¾à´³à´ à°¤à±à°²à±à°à± àªà«àªàª°àª¾àª¤à« Weather Sign In TOI Today's ePaper Live",
+        "long_summary_en": "Edition IN IN US GCC English English à¤¹à¤¿à¤¨à¥à¤¦à¥ à¤®à¤°à¤¾à¤ à¥ à²à²¨à³à²¨à²¡ à®¤à®®à®¿à®´à¯ à¦¬à¦¾à¦à¦²à¦¾ à´®à´²à´¯à´¾à´³à´ à°¤à±à°²à±à°à± àªà«àªàª°àª¾àª¤à« Weather Sign In TOI Today's ePaper Live",
+        "image": "https://static.toiimg.com/thumb/msid-129848108,width-1280,height-720,imgsize-15030,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "source": "Timesofindia",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-anthropic-is-refusing-to-release-an-ai-model-that-the-company-says-is-the-most-powerful-ai-it-has-ever-developed/articleshow/129848108.cms",
+        "date": "29 March 2026"
+      },
+      {
+        "title": "AI race turns into real-time elimination game as advantages fade within months",
+        "title_en": "AI race turns into real-time elimination game as advantages fade within months",
+        "summary": "AI race turns into real-time elimination game as advantages fade within months Jingyue Hsiao, DIGITIMES Asia, Taipei Mar 29, 2026, 08:56 0 Credit: AFP The global AI is entering a new phase where compe",
+        "summary_en": "Analysis: <strong>OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI</strong> · OpenClaw lands in WeChat, signaling a new era of AI agents in messaging · OpenClaw AI agen",
+        "long_summary": "AI race turns into real-time elimination game as advantages fade within months Jingyue Hsiao, DIGITIMES Asia, Taipei Mar 29, 2026, 08:56 0 Credit: AFP The global AI is entering a new phase where competitive advantages are increasingly short-lived, often eroding within months or even weeks. Across models, products, and platforms, no single player appears able to maintain a durable lead. Instead, the... The article requires paid subscription. Subscribe Now LOGIN Email address Password Save my User ID and Password Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the 'Save my User ID and Password' box in the log-in section. This will save the password on the computer you're using to access the site. Note: If you choose to use the log-out feature, you will lose your saved information. This means you will be required to log-in the next time you visit our site. SIGN IN NEW individual users please REGISTER first. Enterprise user first-time LOGIN . I forgot my ID and/or password? MEMBERSHIP BENEFITS Full access to articles dating back to 2000. Real-time access to the news as it breaks. Access to premium content. Full access to Tomorrow's Headlines. Asia Supply Chain 250 dataset access. Related stories Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI OpenClaw lands in WeChat, signaling a ne",
+        "long_summary_en": "AI race turns into real-time elimination game as advantages fade within months Jingyue Hsiao, DIGITIMES Asia, Taipei Mar 29, 2026, 08:56 0 Credit: AFP The global AI is entering a new phase where competitive advantages are increasingly short-lived, often eroding within months or even weeks. Across models, products, and platforms, no single player appears able to maintain a durable lead. Instead, the... The article requires paid subscription. Subscribe Now LOGIN Email address Password Save my User ID and Password Save my User ID and Password Some subscribers prefer to save their log-in informati",
+        "image": "https://img.digitimes.com/newsshow/20260328vl201_files/1_2b.jpg",
+        "source": "Digitimes",
+        "url": "https://www.digitimes.com/news/a20260328VL201/tencent-openai-gemini-anthropic-midjourney.html",
+        "date": "29 March 2026"
+      },
+      {
+        "title": "Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation",
+        "title_en": "Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation",
+        "summary": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models",
+        "summary_en": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models",
+        "long_summary": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. […]\nThe post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation appeared first on MarkTechPost.",
+        "long_summary_en": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. […]\nThe post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-10-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/",
+        "date": "29 March 2026"
+      },
+      {
+        "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+        "title_en": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
+        "summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blackl",
+        "summary_en": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blackl",
+        "long_summary": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner […]",
+        "long_summary_en": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blacklisting while the judicial process plays out. \"The Department of War's records show that it designated Anthropic as a supply chain risk because of its 'hostile manner […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268367_dod_and_anthropics_public_fight_over_lethal_autonomous_weapons_a_mass_surveillance_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+        "date": "29 March 2026"
+      },
+      {
+        "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+        "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+        "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+        "summary_en": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+        "long_summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+        "long_summary_en": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+        "date": "29 March 2026"
+      },
       {
         "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
         "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
@@ -583,69 +667,21 @@
         "source": "Fortune",
         "url": "https://fortune.com/2026/03/27/anthropic-data-leak-reveals-powerful-secret-mythos-ai-model/",
         "date": "27 March 2026"
-      },
-      {
-        "title": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages - ABC News",
-        "title_en": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages - ABC News",
-        "summary": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages L By Luke Cooper Topic: AI 18h ago 18 hours ago Thu 26 Mar 2026 at 11:11pm Millions of people are beginning to protest against t",
-        "summary_en": "The US market share of Anthropic&#x27;s ... data analyst Apptopia. <strong>ChatGPT&#x27;s share of overall AI platform users fell from 69.1 per cent to 45.3 per cent, while Google&#x27;s Gemini almost",
-        "long_summary": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages L By Luke Cooper Topic: AI 18h ago 18 hours ago Thu 26 Mar 2026 at 11:11pm Millions of people are beginning to protest against the unfettered use and development of artificial intelligence. ( Reuters: Manuel Orbegozo ) Artificial intelligence (AI) companies are stuck in a \"perfect storm\", experts say. The sector is trying to control the use and output of its platforms while maintaining profits and contending with a campaign to boycott the technology. A \"QuitGPT\" protest movement has been launched against OpenAI's ChatGPT amid industry concerns that the Trump administration could use AI for autonomous warfare and mass surveillance. Technology company OpenAI says its ChatGPT artificial intelligence platform is used worldwide by 900 million people weekly. ( Reuters: Dado Ruvic ) Sean Parnell, the Pentagon's top spokesman, has posted on social media that the military \"has no interest in using AI to conduct mass surveillance of Americans [which is illegal] nor do we want to use AI to develop autonomous weapons that operate without human involvement\". Rival AI company Anthropic and the US government are also embroiled in a legal stoush over the Pentagon placing it on a national security blacklist after the start-up refused to remove guardrails on the use of its technology. The Trump administration has struck a deal with OpenAI to deploy its technology into classified networks, with the company setting out three",
-        "long_summary_en": "'QuitGPT' boycott could spark AI flashpoint as ethical use debate rages L By Luke Cooper Topic: AI 18h ago 18 hours ago Thu 26 Mar 2026 at 11:11pm Millions of people are beginning to protest against the unfettered use and development of artificial intelligence. ( Reuters: Manuel Orbegozo ) Artificial intelligence (AI) companies are stuck in a \"perfect storm\", experts say. The sector is trying to control the use and output of its platforms while maintaining profits and contending with a campaign to boycott the technology. A \"QuitGPT\" protest movement has been launched against OpenAI's ChatGPT a",
-        "image": "https://live-production.wcms.abc-cdn.net.au/9ffaf027d3fd16b818e952270817932d?impolicy=wcms_watermark_news&cropH=2809&cropW=4994&xPos=0&yPos=84&width=862&height=485&imformat=generic",
-        "source": "Abc",
-        "url": "https://www.abc.net.au/news/2026-03-27/quitgpt-openai-boycott-movement-ethical-debate-explained/106486206",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization",
-        "title_en": "A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization",
-        "summary": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit versi",
-        "summary_en": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit versi",
-        "long_summary": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit version with a single flag. We start by validating GPU availability, then conditionally install either llama.cpp or transformers with bitsandbytes, depending on […]\nThe post A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization appeared first on MarkTechPost.",
-        "long_summary_en": "In this tutorial, we work directly with Qwen3.5 models distilled with Claude-style reasoning and set up a Colab pipeline that lets us switch between a 27B GGUF variant and a lightweight 2B 4-bit version with a single flag. We start by validating GPU availability, then conditionally install either llama.cpp or transformers with bitsandbytes, depending on […]\nThe post A Coding Implementation to Run Qwen3.5 Reasoning Models Distilled with Claude-Style Thinking Using GGUF and 4-Bit Quantization appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-7-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/26/a-coding-implementation-to-run-qwen3-5-reasoning-models-distilled-with-claude-style-thinking-using-gguf-and-4-bit-quantization/",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "SoftBank secures $40B bridge loan to fund its OpenAI bet",
-        "title_en": "SoftBank secures $40B bridge loan to fund its OpenAI bet",
-        "summary": "The unsecured facility, arranged with JPMorgan Chase, Goldman Sachs, Mizuho, SMBC and MUFG, matures in March 2027. Once SoftBank’s $30B follow-on investment in OpenAI closes, its cumulative stake will",
-        "summary_en": "The unsecured facility, arranged with JPMorgan Chase, Goldman Sachs, Mizuho, SMBC and MUFG, matures in March 2027. Once SoftBank’s $30B follow-on investment in OpenAI closes, its cumulative stake will",
-        "long_summary": "The unsecured facility, arranged with JPMorgan Chase, Goldman Sachs, Mizuho, SMBC and MUFG, matures in March 2027. Once SoftBank’s $30B follow-on investment in OpenAI closes, its cumulative stake will total approximately $64.6B, representing roughly 13% of the company. Masayoshi Son has never been accused of thinking small, but the pace and scale of his bet […]\nThis story continues at The Next Web",
-        "long_summary_en": "The unsecured facility, arranged with JPMorgan Chase, Goldman Sachs, Mizuho, SMBC and MUFG, matures in March 2027. Once SoftBank’s $30B follow-on investment in OpenAI closes, its cumulative stake will total approximately $64.6B, representing roughly 13% of the company. Masayoshi Son has never been accused of thinking small, but the pace and scale of his bet […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FSoftBank.png&signature=f1f34607e8b5d8c2b32c101c8030a461",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/softbank-40-billion-bridge-loan-openai",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
-        "title_en": "Apple will reportedly allow other AI chatbots to plug into Siri",
-        "summary": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from th",
-        "summary_en": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from th",
-        "long_summary": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - similar to how the […]",
-        "long_summary_en": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from the App Store, like Google's Gemini or Anthropic's Claude, will be able to fetch replies for Siri - similar to how the […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25698444/DSC08567_processed_2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "Google is making it easier to import another AI’s memory into Gemini",
-        "title_en": "Google is making it easier to import another AI’s memory into Gemini",
-        "summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can",
-        "summary_en": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can",
-        "long_summary": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about them. To use the \"Import Memory\" tool, users copy and paste […]",
-        "long_summary_en": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can help users quickly copy over everything their current AI already knows about them. To use the \"Import Memory\" tool, users copy and paste […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/stk414-chatbot-ai.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-        "date": "27 March 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Suno leans into customization with v5.5",
+        "title_en": "Suno leans into customization with v5.5",
+        "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us",
+        "summary_en": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us",
+        "long_summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices […]",
+        "long_summary_en": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/1774532259-suno_v5-5_blogouterbanner.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+        "date": "29 March 2026"
+      },
       {
         "title": "Apple’s AI Playlist Playground is bad at music",
         "title_en": "Apple’s AI Playlist Playground is bad at music",
@@ -818,13 +854,6 @@
   },
   "hotNews": [
     {
-      "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
-      "title_en": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
-      "source": "The-Decoder",
-      "url": "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/",
-      "date": "28 March 2026"
-    },
-    {
       "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
       "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
       "source": "Llm-Stats",
@@ -832,11 +861,18 @@
       "date": "28 March 2026"
     },
     {
-      "title": "Apple to let users route Siri queries to Gemini, Claude, move beyond OpenAI: Report | Mint",
-      "title_en": "Apple to let users route Siri queries to Gemini, Claude, move beyond OpenAI: Report | Mint",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/technology/tech-news/apple-moves-to-break-openais-siri-monopoly-set-to-allow-users-to-route-siri-queries-to-gemini-and-claude-report-11774588198902.html",
-      "date": "27 March 2026"
+      "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
+      "title_en": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
+      "source": "The-Decoder",
+      "url": "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/",
+      "date": "28 March 2026"
+    },
+    {
+      "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+      "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+      "source": "Etvbharat",
+      "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
+      "date": "29 March 2026"
     }
   ]
 }
