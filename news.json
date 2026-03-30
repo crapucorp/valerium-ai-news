@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "29 March 2026 - 18:30",
+  "lastUpdate": "30 March 2026 - 08:00",
   "categories": {
     "general": [
+      {
+        "title": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
+        "title_en": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
+        "summary": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual h",
+        "summary_en": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual h",
+        "long_summary": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual harness engineering’ that currently defines agent development with a systematic, automated evolution process. The project is being described as a potential ‘PyTorch moment’ for agentic AI. […]\nThe post Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction appeared first on MarkTechPost.",
+        "long_summary_en": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual harness engineering’ that currently defines agent development with a systematic, automated evolution process. The project is being described as a potential ‘PyTorch moment’ for agentic AI. […]\nThe post Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-1-2-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
+        "date": "30 March 2026"
+      },
       {
         "title": "Latest AI News: Daily Updated Artificial Intelligence Insights (March 24, 2026)",
         "title_en": "Latest AI News: Daily Updated Artificial Intelligence Insights (March 24, 2026)",
@@ -331,6 +343,78 @@
     ],
     "video": [
       {
+        "title": "Sora’s shutdown could be a reality check moment for AI video",
+        "title_en": "Sora’s shutdown could be a reality check moment for AI video",
+        "summary": "Sora’s shutdown could be a reality check moment for AI video Anthony Ha Sun, March 29, 2026 at 6:30 PM GMT+2 5 min read The Sora app logo appears on a smartphone screen with an abstract illustration i",
+        "summary_en": "OpenAI&#x27;s top-ranked video creation and sharing app is <strong>controversial for its ability to create fake news and its disregard for copyright laws in Creteil, France, on October 9, 2025</strong",
+        "long_summary": "Sora’s shutdown could be a reality check moment for AI video Anthony Ha Sun, March 29, 2026 at 6:30 PM GMT+2 5 min read The Sora app logo appears on a smartphone screen with an abstract illustration in blue and purple colors in the background. OpenAI's top-ranked video creation and sharing app is controversial for its ability to create fake news and its disregard for copyright laws in Creteil, France, on October 9, 2025. (Photo by Samuel Boivin/NurPhoto via Getty Images) | Image Credits:Samuel Boivin / NurPhoto / Getty Images OpenAI announced this week that it’s shutting down its Sora app and related video models just six months after launching the app. On the latest episode of TechCrunch’s Equity podcast , Kirsten Korosec, Sean O’Kane, and I debated what the decision means for OpenAI and for the industry more broadly. To some extent, the move seems consistent with what we’ve been hearing about OpenAI as it focuses on enterprise and productivity tools ahead of a possible IPO. In fact, Kirsten suggested that OpenAI’s decision to shutter Sora was “a sign of maturity that was nice to see in an AI lab.” But Sora’s shutdown — along with ByteDance’s reported delay in launching its Seedance 2.0 video model worldwide — could also be a reality check moment for the makers of AI video tools, and for evangelists who claim these tools will be replacing Hollywood anytime soon. Read a preview of our conversation, edited for length and clarity, below. Anthony: I think it’s worth highlighting",
+        "long_summary_en": "Sora’s shutdown could be a reality check moment for AI video Anthony Ha Sun, March 29, 2026 at 6:30 PM GMT+2 5 min read The Sora app logo appears on a smartphone screen with an abstract illustration in blue and purple colors in the background. OpenAI's top-ranked video creation and sharing app is controversial for its ability to create fake news and its disregard for copyright laws in Creteil, France, on October 9, 2025. (Photo by Samuel Boivin/NurPhoto via Getty Images) | Image Credits:Samuel Boivin / NurPhoto / Getty Images OpenAI announced this week that it’s shutting down its Sora app and ",
+        "image": "https://s.yimg.com/ny/api/res/1.2/KBQGudKhKTUhj7IlcIGvZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/techcrunch_finance_785/74b343fdb6417e4d0bafca37e6163b1f",
+        "source": "Finance",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/sora-shutdown-could-reality-check-163000795.html",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Sora’s shutdown signals a shift in how AI video will shape marketing",
+        "title_en": "Sora’s shutdown signals a shift in how AI video will shape marketing",
+        "summary": "Experts Speak Latest Stories Sora’s shutdown signals a shift in how AI video will shape marketing As OpenAI pulls the plug on Sora, leaders weigh in on the trajectory of AI video, its role in advertis",
+        "summary_en": "Platforms like Runway had begun experimenting with AI-generated clips. But when <strong>OpenAI introduced Sora on February 16, 2024</strong>, the scale and quality of what it demonstrated shifted the ",
+        "long_summary": "Experts Speak Latest Stories Sora’s shutdown signals a shift in how AI video will shape marketing As OpenAI pulls the plug on Sora, leaders weigh in on the trajectory of AI video, its role in advertising workflows and the growing concerns around deepfakes and IP. Shamita Islur 30 Mar 2026 09:00 IST Follow Us New Update Let’s go back to February 2024. At the time, text-to-image models were dominating the AI conversation. Tools such as Midjourney and DALL·E were flooding social media with surreal imagery created from a few lines of text. Video generation tools already existed. Platforms like Runway had begun experimenting with AI-generated clips. But when OpenAI introduced Sora on February 16, 2024, the scale and quality of what it demonstrated shifted the conversation. Sora could generate short cinematic videos from simple prompts. Complex camera movements, realistic lighting, layered scenes and characters could appear from a few sentences typed into a prompt box. Within hours of its announcement, the internet began testing the limits of what the model could produce. Users were encouraged to submit prompts and watch them turn into moving images. The results ranged from imaginative to bizarre. A bicycle race across the ocean featuring animals as athletes. Two dogs hosting a podcast on top of a mountain. A grandmother reinvented as a social media influencer teaching viewers how to cook homemade gnocchi. Woolly mammoths roaming snow-covered mountains. https://t.co/qbj02M4ng8 pic.",
+        "long_summary_en": "Experts Speak Latest Stories Sora’s shutdown signals a shift in how AI video will shape marketing As OpenAI pulls the plug on Sora, leaders weigh in on the trajectory of AI video, its role in advertising workflows and the growing concerns around deepfakes and IP. Shamita Islur 30 Mar 2026 09:00 IST Follow Us New Update Let’s go back to February 2024. At the time, text-to-image models were dominating the AI conversation. Tools such as Midjourney and DALL·E were flooding social media with surreal imagery created from a few lines of text. Video generation tools already existed. Platforms like Run",
+        "image": "https://img-cdn.publive.online/fit-in/1200x675/socialsamosa/media/media_files/2026/03/27/sora-shutdown-2026-03-27-18-08-16.jpg",
+        "source": "Socialsamosa",
+        "url": "https://www.socialsamosa.com/experts-speak/soras-shutdown-signals-shift-ai-video-will-shape-marketing-11390491",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Sora Is Gone — 6 Best AI Video Tools Filling the Void in 2026 - Talkaaj Media",
+        "title_en": "Sora Is Gone — 6 Best AI Video Tools Filling the Void in 2026 - Talkaaj Media",
+        "summary": "6 Best AI Video Tools to Use Now That Sora is Gone Sora just pulled the plug — but your creative spark doesn’t have to go dark. The news hit the community like a ton of bricks last Tuesday: OpenAI is ",
+        "summary_en": "Sora’s shutdown closes a chapter — but it isn’t the end of AI-assisted creativity. Not even close. Each of these six tools has found its own way to make video generation more stable, more controllable",
+        "long_summary": "6 Best AI Video Tools to Use Now That Sora is Gone Sora just pulled the plug — but your creative spark doesn’t have to go dark. The news hit the community like a ton of bricks last Tuesday: OpenAI is officially shutting down Sora. Despite its meteoric rise and cinematic beauty, the sheer computing power those hyper-realistic clips demanded was, by OpenAI’s own admission, “completely unsustainable.” In plain terms — it cost too much to keep alive. For anyone who spent the past year building workflows around Sora’s API or the standalone app, the platform’s sudden disappearance feels like a genuine setback. But here’s the thing — the AI video landscape in 2026 is far more diverse than it was just twelve months ago. And honestly, most people haven’t noticed yet. Transitioning away from a tool you’ve mastered is never easy, especially when projects are sitting half-finished. But the post-Sora era is actually looking quite bright. We’ve moved past just generating pretty pictures. The shift now is toward practical, high-stakes video workflows that actually ship. Whether you need cinematic landscapes, consistent brand characters, or a digital presenter for a training module — there’s a specialized tool ready to fill that gap. Here are the 6 best Sora alternatives to keep your production moving in 2026. 1. Google Veo 3.1 — The King of 4K and Native Audio Google Veo 3.1 is the most technically advanced video generation model available right now — and it does something no other mainstre",
+        "long_summary_en": "6 Best AI Video Tools to Use Now That Sora is Gone Sora just pulled the plug — but your creative spark doesn’t have to go dark. The news hit the community like a ton of bricks last Tuesday: OpenAI is officially shutting down Sora. Despite its meteoric rise and cinematic beauty, the sheer computing power those hyper-realistic clips demanded was, by OpenAI’s own admission, “completely unsustainable.” In plain terms — it cost too much to keep alive. For anyone who spent the past year building workflows around Sora’s API or the standalone app, the platform’s sudden disappearance feels like a genui",
+        "image": "https://www.talkaaj.com/wp-content/uploads/2026/03/6-Best-AI-Video-Tools-to-Use-Now-That-Sora-is-Gone.webp",
+        "source": "Talkaaj",
+        "url": "https://www.talkaaj.com/ai-tool/sora-alternatives-ai-video-tools-2026/",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Video Generation AI Infrastructure: Building for Sora-Scale Models | Introl Blog",
+        "title_en": "Video Generation AI Infrastructure: Building for Sora-Scale Models | Introl Blog",
+        "summary": "December 2025 Update: Single 10-second video generation consuming GPU resources of thousands of ChatGPT queries—$0.50-$2.00 actual compute cost. Open-Sora 2.0 demonstrating world-class capabilities fo",
+        "summary_en": "Most organizations consume video generation through APIs rather than deploying models: Runway Gen-4.5: Ranked #1 on Artificial Analysis Video Arena. Built on NVIDIA Hopper and Blackwell infrastructure",
+        "long_summary": "December 2025 Update: Single 10-second video generation consuming GPU resources of thousands of ChatGPT queries—$0.50-$2.00 actual compute cost. Open-Sora 2.0 demonstrating world-class capabilities for $200K vs Meta Movie Gen's 6,144 GPUs. RAE-based training achieving 47x speedup over VAE. Video attention consuming 85%+ of inference time with quadratic scaling. Generating a single 10-second video with AI models consumes GPU resources equivalent to thousands of ChatGPT queries.¹ The computational intensity explains why video generation costs range from $0.50 to $2.00 per generation in actual compute—orders of magnitude more expensive than text or image generation. Organizations deploying video AI face infrastructure challenges fundamentally different from LLM deployments: memory requirements measured in tens of gigabytes per request, attention computations spanning thousands of video frames, and quality expectations demanding production-grade output. Open-Sora 2.0 demonstrated that world-class video generation capabilities can be developed for $200,000 using 224 GPU-equivalents, compared to Meta's Movie Gen requiring 6,144 GPUs and 1.25 million GPU hours.² The efficiency gap reveals that infrastructure architecture and optimization matter as much as raw compute scale. Understanding video generation infrastructure requirements enables organizations to deploy capable systems without hyperscaler-level budgets. Video diffusion architecture fundamentals Modern video generation mode",
+        "long_summary_en": "December 2025 Update: Single 10-second video generation consuming GPU resources of thousands of ChatGPT queries—$0.50-$2.00 actual compute cost. Open-Sora 2.0 demonstrating world-class capabilities for $200K vs Meta Movie Gen's 6,144 GPUs. RAE-based training achieving 47x speedup over VAE. Video attention consuming 85%+ of inference time with quadratic scaling. Generating a single 10-second video with AI models consumes GPU resources equivalent to thousands of ChatGPT queries.¹ The computational intensity explains why video generation costs range from $0.50 to $2.00 per generation in actual co",
+        "image": "https://introl.com/static/images/blog/session3-18.webp",
+        "source": "Introl",
+        "url": "https://introl.com/blog/video-generation-ai-infrastructure-sora-scale-models-guide-2025",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Sora’s shutdown could be a reality check moment for AI video",
+        "title_en": "Sora’s shutdown could be a reality check moment for AI video",
+        "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+        "summary_en": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+        "long_summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+        "long_summary_en": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Why OpenAI really shut down Sora",
+        "title_en": "Why OpenAI really shut down Sora",
+        "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own",
+        "summary_en": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own",
+        "long_summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+        "long_summary_en": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+        "date": "30 March 2026"
+      },
+      {
         "title": "So Long, Sora: The Most Powerful AI Video Generators We've Tested | PCMag",
         "title_en": "So Long, Sora: The Most Powerful AI Video Generators We've Tested | PCMag",
         "summary": "Enable JavaScript and cookies to continue",
@@ -437,81 +521,57 @@
         "source": "Dqindia",
         "url": "https://www.dqindia.com/data-and-ai/sora-vs-kling-ai-which-ai-video-tool-should-indian-creators-use-in-2026-11364048",
         "date": "28 March 2026"
-      },
-      {
-        "title": "Experts: Ending OpenAI’s Sora unlikely to slow influx of AI-generated video online",
-        "title_en": "Experts: Ending OpenAI’s Sora unlikely to slow influx of AI-generated video online",
-        "summary": "This content is not available in your region",
-        "summary_en": "Sora’s demise won’t meaningfully reduce the number of AI-generated videos circulating online, according to experts. Although Sora might be among the best-known AI video platforms, users can still turn",
-        "long_summary": "This content is not available in your region",
-        "long_summary_en": "This content is not available in your region",
-        "image": "https://www.baltimoresun.com/wp-content/uploads/2025/11/OpenAI_Sora_08501_1ce814.jpg?w=525",
-        "source": "Baltimoresun",
-        "url": "https://www.baltimoresun.com/2026/03/27/experts-ending-openais-sora-unlikely-to-slow-influx-of-ai-generated-video-online/",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled | Blockchain Industry Original In-Depth Content - Authoritative Industry Analysis Report Interpretation - Blockchain Technology Application Analysis - TechFlow",
-        "title_en": "OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled | Blockchain Industry Original In-Depth Content - Authoritative Industry Analysis Report Interpretation - Blockchain Technology Application Analysis - TechFlow",
-        "summary": "OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled 2026.03.27 Share Share to X (Twitter) Share to WeChat Share to WeChat Share to Weibo S",
-        "summary_en": "The tech community’s first reaction ... speaks louder than any official statement. <strong>Runway, Kling, and Google Veo are now the only true remaining players in the AI video generation space</stron",
-        "long_summary": "OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled 2026.03.27 Share Share to X (Twitter) Share to WeChat Share to WeChat Share to Weibo Share by Link Share by Image TechFlow Selected TechFlow Selected OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled The tech community’s first reaction wasn’t regret—it was, “Did anyone actually use this thing?” 2026.03.27 - 05:22:29 OpenAI Sora AI Navigating Web3 tides with focused insights The tech community’s first reaction wasn’t regret—it was, “Did anyone actually use this thing?” Author: RoboRhythms Translated and edited by TechFlow TechFlow Intro: On March 24, 2026, OpenAI abruptly shut down Sora’s app, API, and domain—collapsing Disney’s three-year licensing agreement and its planned $1 billion investment. The tech community’s first reaction wasn’t mourning—it was “Did anyone actually use this thing?” That question speaks louder than any official statement. Runway, Kling, and Google Veo are now the only true remaining players in the AI video generation space. Full article below: The product that was supposed to bring AI video generation to the mainstream has vanished. OpenAI shut down Sora on March 24, 2026—taking offline its standalone app, developer API, and sora.com domain—just six months after its high-profile public launch. The timing couldn’t be worse. In December 2025, Disney signed a three-year licensin",
-        "long_summary_en": "OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled 2026.03.27 Share Share to X (Twitter) Share to WeChat Share to WeChat Share to Weibo Share by Link Share by Image TechFlow Selected TechFlow Selected OpenAI Shuts Down Sora, Disney’s $1 Billion Investment Goes Down the Drain, and the AI Video Market Is Reshuffled The tech community’s first reaction wasn’t regret—it was, “Did anyone actually use this thing?” 2026.03.27 - 05:22:29 OpenAI Sora AI Navigating Web3 tides with focused insights The tech community’s first reaction wasn’t re",
-        "image": "https://upload.techflowpost.com/upload/images/20260327/20260327052058716947.jpeg",
-        "source": "Techflowpost",
-        "url": "https://www.techflowpost.com/en-US/article/30868",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "OpenAI is sunsetting Sora, but it's not the end for AI video generation - PitchBook",
-        "title_en": "OpenAI is sunsetting Sora, but it's not the end for AI video generation - PitchBook",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>OpenAI had announced the closure of Sora</strong>, its video generation application. (Photo by Samuel Boivin/NurPhoto via Getty Images)",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://b.thumbs.redditmedia.com/yubkdnfi2BPGbImg2VZsU9QbJ3iTJvvXKuk-NM9UQPw.jpg",
-        "source": "Pitchbook",
-        "url": "https://pitchbook.com/news/articles/openai-is-sunsetting-sora-but-its-not-the-end-for-ai-video-generation",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "Sora Is Gone: Here Are 6 AI Video Tools Filling the Void in 2026",
-        "title_en": "Sora Is Gone: Here Are 6 AI Video Tools Filling the Void in 2026",
-        "summary": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access eweek.com Why have I been blocked? This website is using a security service to protect its",
-        "summary_en": "For creators who used Sora primarily to generate high-quality visual scenes, <strong>Runway Gen-4.5 is the most direct replacement</strong>. It focuses heavily on cinematic quality and creative contro",
-        "long_summary": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access eweek.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 9e34c23a1c8cd808 • Your IP: Click to reveal 2001:41d0:305:2100::ce09 • Performance & security by Cloudflare",
-        "long_summary_en": "Attention Required! | Cloudflare Please enable cookies. Sorry, you have been blocked You are unable to access eweek.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ",
-        "image": "",
-        "source": "Eweek",
-        "url": "https://www.eweek.com/news/sora-alternatives-ai-video-tools-2026/",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "With OpenAI’s Sora gone, who will take up the AI video mantle?",
-        "title_en": "With OpenAI’s Sora gone, who will take up the AI video mantle?",
-        "summary": "Advertisement OpenAI’s unexpected decision to shut down its Sora app , which allowed users to generate video clips by describing them, may open the door for other companies to make it big in AI video.",
-        "summary_en": "But that still leaves several companies that could step up to fill the void left by Sora, especially since the OpenAI model had created cottage industries of AI prompters, ad agencies, aggregators and",
-        "long_summary": "Advertisement OpenAI’s unexpected decision to shut down its Sora app , which allowed users to generate video clips by describing them, may open the door for other companies to make it big in AI video. But it also highlights the many ways in which the technology may simply be more trouble than it’s worth. The AI giant and ChatGPT creator closed Sora this week as part of a widespread effort to cut costs, ahead of a rumoured public offering. In the six months it was available, the app created almost as many headaches for OpenAI as it did copyright-infringing SpongeBob clips for its dedicated audience. Sora was originally revealed in early 2024, and made available to paying OpenAI customers later that year. But it didn’t hit the mainstream until it was released as an app in October 2025, hitting a million downloads in a matter of days. Structured like TikTok but with AI content generated by other users, the app encouraged people to make models of their own faces that others could use. It was immediately filled with violent, racist content, sexualised deepfakes of real people, and famous copyrighted cartoon characters in compromising situations. In a blog post at the time, OpenAI chief executive Sam Altman said he was “hearing from a lot of rights holders who are very excited for this new kind of interactive fan fiction, and think this new kind of engagement will accrue a lot of value to them, but want the ability to specify how their characters can be used”, which is surely a gen",
-        "long_summary_en": "Advertisement OpenAI’s unexpected decision to shut down its Sora app , which allowed users to generate video clips by describing them, may open the door for other companies to make it big in AI video. But it also highlights the many ways in which the technology may simply be more trouble than it’s worth. The AI giant and ChatGPT creator closed Sora this week as part of a widespread effort to cut costs, ahead of a rumoured public offering. In the six months it was available, the app created almost as many headaches for OpenAI as it did copyright-infringing SpongeBob clips for its dedicated audi",
-        "image": "https://static.ffx.io/images/$zoom_1.8750264550264553%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_603%2C$y_286/t_crop_custom/q_86%2Cf_auto/t_metro_analysis_no_age_social_wm/c0da07c5bf605064c10ee46731972d24618b9d690589bb47885e55cae5bccd1a",
-        "source": "Smh",
-        "url": "https://www.smh.com.au/technology/with-openai-s-sora-gone-who-will-take-up-the-ai-video-mantle-20260326-p5ziuy.html",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-        "title_en": "OpenAI shuts down Sora while Meta gets shut out in court",
-        "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby ",
-        "summary_en": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby ",
-        "long_summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
-        "long_summary_en": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-        "date": "27 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - AgingResearch - LONGECITY",
+        "title_en": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - AgingResearch - LONGECITY",
+        "summary": "Remember me This is not recommended for shared computers",
+        "summary_en": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - posted in AgingResearch: THE HARDWARE-FIRST MODEL OF AGING By ChatGPT and Google Gemini A Different Way to Think About Aging What if ag",
+        "long_summary": "Remember me This is not recommended for shared computers",
+        "long_summary_en": "Remember me This is not recommended for shared computers",
+        "image": "https://www.longecity.org/forum/uploads/monthly_08_2011/post-523-0-22808000-1313088187_thumb.png",
+        "source": "Longecity",
+        "url": "https://www.longecity.org/forum/topic/121714-the-hardware-first-model-of-aging-by-chatgpt-and-google-gemini",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows",
+        "title_en": "How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows",
+        "summary": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, ",
+        "summary_en": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, ",
+        "long_summary": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, and creating a base agent. We gradually move into more advanced capabilities such as custom function tools, multi-agent handoffs, agent orchestration, input […]\nThe post How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, and creating a base agent. We gradually move into more advanced capabilities such as custom function tools, multi-agent handoffs, agent orchestration, input […]\nThe post How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-1-2-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
+        "title_en": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
+        "summary": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step pla",
+        "summary_en": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step pla",
+        "long_summary": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a functional and isolated environment for that code to run remains a significant infrastructure challenge. Agent-Infra’s Sandbox, an open-source project, addresses this by providing an […]\nThe post Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP appeared first on MarkTechPost.",
+        "long_summary_en": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a functional and isolated environment for that code to run remains a significant infrastructure challenge. Agent-Infra’s Sandbox, an open-source project, addresses this by providing an […]\nThe post Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-18-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Bluesky’s new app is an AI for customizing your feed",
+        "title_en": "Bluesky’s new app is an AI for customizing your feed",
+        "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei",
+        "summary_en": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei",
+        "long_summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to […]",
+        "long_summary_en": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/attie-ai.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+        "date": "30 March 2026"
+      },
       {
         "title": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
         "title_en": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
@@ -642,54 +702,6 @@
         "image": "https://img.digitimes.com/newsshow/20260327pd204_files/1_b.jpg",
         "source": "Digitimes",
         "url": "https://www.digitimes.com/news/a20260327PD204/openai-anthropic-google-gemini-apple-ai-2025.html",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
-        "title_en": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
-        "summary": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude Matthias Bastian View the LinkedIn Profile of Matthias Bastian Mar 27, 2026 Google is borrowing Anthropic's memory i",
-        "summary_en": "<strong>Anthropic leak reveals new model &quot;Claude Mythos&quot; with &quot;dramatically higher scores on tests&quot; than any previous model</strong> · OpenAI CEO Sam Altman reportedly teases a &qu",
-        "long_summary": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude Matthias Bastian View the LinkedIn Profile of Matthias Bastian Mar 27, 2026 Google is borrowing Anthropic's memory import approach, letting Gemini users bring over saved reminders, preferences, and full chat histories from apps like ChatGPT and Claude. The process works by copying a suggested prompt into the previous AI app, generating a summary, and pasting it into Gemini, which saves the information in its own context. Users can also upload chat histories as a ZIP file (up to 5 GB) and continue previous conversations inside Gemini. Google is renaming \"Past Chats\" to \"Memory,\" with the rollout happening gradually. Google's new memory import feature in Gemini: users copy a prompt into their previous AI app, then paste the generated summary into Gemini. | Image: Google Anthropic pioneered this approach after OpenAI drew criticism for a military deal Anthropic had turned down on ethical grounds . With users already looking to switch, Anthropic wanted to give them an extra reason to make the move. Both Google and Anthropic rely on the same basic method for data extraction—a simple prompt that asks the existing AI app to output everything it has stored about the user. Ad DEC_D_Incontent-1 Ad AI News Without the Hype – Curated by Humans As a THE DECODER subscriber , you get ad-free reading, our weekly AI newsletter , the exclusive \"AI Radar\" Frontier Report 6× per year , access to comments, and our",
-        "long_summary_en": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude Matthias Bastian View the LinkedIn Profile of Matthias Bastian Mar 27, 2026 Google is borrowing Anthropic's memory import approach, letting Gemini users bring over saved reminders, preferences, and full chat histories from apps like ChatGPT and Claude. The process works by copying a suggested prompt into the previous AI app, generating a summary, and pasting it into Gemini, which saves the information in its own context. Users can also upload chat histories as a ZIP file (up to 5 GB) and continue previous conve",
-        "image": "https://the-decoder.com/wp-content/uploads/2025/12/gemini_logo_wall_cb-1.jpeg",
-        "source": "The-Decoder",
-        "url": "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Calling, and Graph Traversal",
-        "title_en": "An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Calling, and Graph Traversal",
-        "summary": "In this tutorial, we implement IWE: an open-source, Rust-powered personal knowledge management system that treats markdown notes as a navigable knowledge graph. Since IWE is a CLI/LSP tool designed fo",
-        "summary_en": "In this tutorial, we implement IWE: an open-source, Rust-powered personal knowledge management system that treats markdown notes as a navigable knowledge graph. Since IWE is a CLI/LSP tool designed fo",
-        "long_summary": "In this tutorial, we implement IWE: an open-source, Rust-powered personal knowledge management system that treats markdown notes as a navigable knowledge graph. Since IWE is a CLI/LSP tool designed for local editors. We build a realistic developer knowledge base from scratch, wire up wiki-links and markdown links into a directed graph, and then walk through […]\nThe post An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Calling, and Graph Traversal appeared first on MarkTechPost.",
-        "long_summary_en": "In this tutorial, we implement IWE: an open-source, Rust-powered personal knowledge management system that treats markdown notes as a navigable knowledge graph. Since IWE is a CLI/LSP tool designed for local editors. We build a realistic developer knowledge base from scratch, wire up wiki-links and markdown links into a directed graph, and then walk through […]\nThe post An Implementation of IWE’s Context Bridge as an AI-Powered Knowledge Graph with Agentic RAG, OpenAI Function Calling, and Graph Traversal appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-12-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/27/an-implementation-of-iwes-context-bridge-as-an-ai-powered-knowledge-graph-with-agentic-rag-openai-function-calling-and-graph-traversal/",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "NVIDIA AI Unveils ProRL Agent: A Decoupled Rollout-as-a-Service Infrastructure for Reinforcement Learning of Multi-Turn LLM Agents at Scale",
-        "title_en": "NVIDIA AI Unveils ProRL Agent: A Decoupled Rollout-as-a-Service Infrastructure for Reinforcement Learning of Multi-Turn LLM Agents at Scale",
-        "summary": "NVIDIA researchers introduced ProRL AGENT, a scalable infrastructure designed for reinforcement learning (RL) training of multi-turn LLM agents. By adopting a ‘Rollout-as-a-Service’ philosophy, the sy",
-        "summary_en": "NVIDIA researchers introduced ProRL AGENT, a scalable infrastructure designed for reinforcement learning (RL) training of multi-turn LLM agents. By adopting a ‘Rollout-as-a-Service’ philosophy, the sy",
-        "long_summary": "NVIDIA researchers introduced ProRL AGENT, a scalable infrastructure designed for reinforcement learning (RL) training of multi-turn LLM agents. By adopting a ‘Rollout-as-a-Service’ philosophy, the system decouples agentic rollout orchestration from the training loop. This architectural shift addresses the inherent resource conflicts between I/O-intensive environment interactions and GPU-intensive policy updates that currently bottleneck agent development. The […]\nThe post NVIDIA AI Unveils ProRL Agent: A Decoupled Rollout-as-a-Service Infrastructure for Reinforcement Learning of Multi-Turn LL",
-        "long_summary_en": "NVIDIA researchers introduced ProRL AGENT, a scalable infrastructure designed for reinforcement learning (RL) training of multi-turn LLM agents. By adopting a ‘Rollout-as-a-Service’ philosophy, the system decouples agentic rollout orchestration from the training loop. This architectural shift addresses the inherent resource conflicts between I/O-intensive environment interactions and GPU-intensive policy updates that currently bottleneck agent development. The […]\nThe post NVIDIA AI Unveils ProRL Agent: A Decoupled Rollout-as-a-Service Infrastructure for Reinforcement Learning of Multi-Turn LL",
-        "image": "https://image.blockchain.news/features/D8E08E86F8EDBDDCD68414CF49BDD8B1401B11A69515DFF98E6B2B03EE9CF9D7.jpg",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-        "title_en": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-        "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-        "summary_en": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-        "long_summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-        "long_summary_en": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
         "date": "28 March 2026"
       }
     ],
@@ -878,10 +890,10 @@
   },
   "hotNews": [
     {
-      "title": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
-      "title_en": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
-      "source": "Webanditnews",
-      "url": "https://www.webanditnews.com/2026/03/28/anthropics-claude-is-quietly-winning-the-consumer-ai-race-and-the-numbers-are-starting-to-show-it/",
+      "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+      "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+      "source": "Etvbharat",
+      "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
       "date": "29 March 2026"
     },
     {
@@ -892,11 +904,11 @@
       "date": "28 March 2026"
     },
     {
-      "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
-      "title_en": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
-      "source": "The-Decoder",
-      "url": "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/",
-      "date": "28 March 2026"
+      "title": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
+      "title_en": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
+      "source": "Webanditnews",
+      "url": "https://www.webanditnews.com/2026/03/28/anthropics-claude-is-quietly-winning-the-consumer-ai-race-and-the-numbers-are-starting-to-show-it/",
+      "date": "29 March 2026"
     }
   ]
 }
