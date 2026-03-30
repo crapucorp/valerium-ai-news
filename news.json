@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "30 March 2026 - 12:30",
+  "lastUpdate": "30 March 2026 - 18:30",
   "categories": {
     "general": [
+      {
+        "title": "Starcloud raises $170M at a $1.1B valuation to build data centres in orbit",
+        "title_en": "Starcloud raises $170M at a $1.1B valuation to build data centres in orbit",
+        "summary": "The Redmond, Washington startup, which already has an Nvidia H100 GPU operating in orbit and has trained the first AI model in space, is now building a Starship-class spacecraft designed to be the fir",
+        "summary_en": "The Redmond, Washington startup, which already has an Nvidia H100 GPU operating in orbit and has trained the first AI model in space, is now building a Starship-class spacecraft designed to be the fir",
+        "long_summary": "The Redmond, Washington startup, which already has an Nvidia H100 GPU operating in orbit and has trained the first AI model in space, is now building a Starship-class spacecraft designed to be the first orbital data centre cost-competitive with terrestrial facilities. Starcloud has raised $170 million in a Series A round led by Benchmark and […]\nThis story continues at The Next Web",
+        "long_summary_en": "The Redmond, Washington startup, which already has an Nvidia H100 GPU operating in orbit and has trained the first AI model in space, is now building a Starship-class spacecraft designed to be the first orbital data centre cost-competitive with terrestrial facilities. Starcloud has raised $170 million in a Series A round led by Benchmark and […]\nThis story continues at The Next Web",
+        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FStarcloud.png&signature=3fe21c41a102d62744167456f849bb5a",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/starcloud-170m-series",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Okta&#8217;s CEO is betting big on AI agent identity",
+        "title_en": "Okta&#8217;s CEO is betting big on AI agent identity",
+        "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of",
+        "summary_en": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of",
+        "long_summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta […]",
+        "long_summary_en": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_McKinnon_Okta.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+        "title_en": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+        "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+        "summary_en": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+        "long_summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+        "long_summary_en": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+        "date": "30 March 2026"
+      },
       {
         "title": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
         "title_en": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
@@ -144,18 +180,6 @@
         "image": "https://media.wired.com/photos/69c34605b292103938c0401f/191:100/w_1280,c_limit/culture_ai_clone_porn_stars.jpg",
         "source": "Wired",
         "url": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-        "title_en": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
-        "summary": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-        "summary_en": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-        "long_summary": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-        "long_summary_en": "Independent writers are using AI agents all throughout their reporting process. What’s the value of a human journalist, anyway?",
-        "image": "https://media.wired.com/photos/69c44c4c4ff31d9d83686fcc/191:100/w_1280,c_limit/Model-Behavior-Newsletter-Writers-Using-AI-to-Write-Their-Columns-Business.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
         "date": "27 March 2026"
       }
     ],
@@ -343,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "OpenAI killed the Sora AI video generator and you're probably guessing the \"why\" wrong - Digital Trends",
+        "title_en": "OpenAI killed the Sora AI video generator and you're probably guessing the \"why\" wrong - Digital Trends",
+        "summary": "OpenAI’s AI video generator Sora is officially done , less than a year after it went viral. At first glance, it’s easy to assume the shutdown was about safety concerns or creative backlash. But the re",
+        "summary_en": "Generating realistic videos is significantly more resource-intensive than text or images, and scaling it for millions of users simply didn’t make financial sense for the company. We’re saying goodbye ",
+        "long_summary": "OpenAI’s AI video generator Sora is officially done , less than a year after it went viral. At first glance, it’s easy to assume the shutdown was about safety concerns or creative backlash. But the real story is far less dramatic. So why did OpenAI actually shut Sora down? According to The Wall Street Journal , the biggest reason behind Sora’s untimely death wasn’t controversy. It came down to economics. The tool was incredibly expensive to run, reportedly costing OpenAI around $1 million per day due to massive compute demands. Generating realistic videos is significantly more resource-intensive than text or images, and scaling it for millions of users simply didn’t make financial sense for the company. We’re saying goodbye to the Sora app. To everyone who created with Sora, shared it, and built community around it: thank you. What you made with Sora mattered, and we know this news is disappointing. We’ll share more soon, including timelines for the app and API and details on… — Sora (@soraofficialapp) March 24, 2026 At the same time, user interest reportedly dropped in the months following Sora’s debut, with downloads and engagement declining sharply. This turned OpenAI’s viral sensation into a costly tool with shrinking returns. In other words, it wasn’t just expensive, it was also losing momentum. Recommended Videos Despite earlier reports suggesting OpenAI was planning to integrate Sora’s video generation capabilities into ChatGPT , that plan now appears to be off the tab",
+        "long_summary_en": "OpenAI’s AI video generator Sora is officially done , less than a year after it went viral. At first glance, it’s easy to assume the shutdown was about safety concerns or creative backlash. But the real story is far less dramatic. So why did OpenAI actually shut Sora down? According to The Wall Street Journal , the biggest reason behind Sora’s untimely death wasn’t controversy. It came down to economics. The tool was incredibly expensive to run, reportedly costing OpenAI around $1 million per day due to massive compute demands. Generating realistic videos is significantly more resource-intensi",
+        "image": "https://www.digitaltrends.com/tachyon/2025/10/openai-sora-price-free-limit.jpg?resize=1200%2C630",
+        "source": "Digitaltrends",
+        "url": "https://www.digitaltrends.com/computing/openai-killed-the-sora-ai-video-generator-and-youre-probably-guessing-the-why-wrong/",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives | Mashable",
+        "title_en": "OpenAI’s Sora shutting down: When it happens, 2 AI video alternatives | Mashable",
+        "summary": "RIP. Credit: Thomas Fuller/NurPhoto via Getty Images You may have heard that OpenAI is killing its Sora AI video generation tool . However, that doesn't mean it's the end of the line for AI video gene",
+        "summary_en": "RIP. Credit: Thomas Fuller/NurPhoto via Getty Images · You may have heard that <strong>OpenAI is killing its Sora AI video generation tool</strong>.",
+        "long_summary": "RIP. Credit: Thomas Fuller/NurPhoto via Getty Images You may have heard that OpenAI is killing its Sora AI video generation tool . However, that doesn't mean it's the end of the line for AI video generation in general. Sam Altman's company announced the surprising move on Tuesday afternoon, in conjunction with Disney axing its big-money partnership with OpenAI at the same time. The nature of the announcement made it seem, at least from the outside looking in, that things are moving quickly inside OpenAI right now. In other words, when Sora will fully shut down and what that means for your creations hasn't been revealed. In an X post announcing the decision, the Sora account merely said \"We’ll share more soon, including timelines for the app and API and details on preserving your work.\" Mashable Light Speed Want more out-of-this world tech, space and science stories? Sign up for Mashable's weekly Light Speed newsletter. Loading... Sign Me Up Use this instead By clicking Sign Me Up, you confirm you are 16+ and agree to our Terms of Use and Privacy Policy . Thanks for signing up! You May Also Like This Tweet is currently unavailable. It might be loading or has been removed. Well, OK then! While OpenAI works all of the specifics out, it's time for anyone who really liked using Sora to investigate other alternatives for AI video generation. Here are some easy options. Google Veo 3 The most mainstream option is going to be Google's Veo 3 model, which Mashable called \"shockingly rea",
+        "long_summary_en": "RIP. Credit: Thomas Fuller/NurPhoto via Getty Images You may have heard that OpenAI is killing its Sora AI video generation tool . However, that doesn't mean it's the end of the line for AI video generation in general. Sam Altman's company announced the surprising move on Tuesday afternoon, in conjunction with Disney axing its big-money partnership with OpenAI at the same time. The nature of the announcement made it seem, at least from the outside looking in, that things are moving quickly inside OpenAI right now. In other words, when Sora will fully shut down and what that means for your crea",
+        "image": "https://helios-i.mashable.com/imagery/articles/016wQMtpPIEJCoJsiyp4A9n/hero-image.fill.size_1200x675.v1774450903.jpg",
+        "source": "Mashable",
+        "url": "https://mashable.com/article/openai-sora-shut-down-when-happens-alternatives",
+        "date": "30 March 2026"
+      },
+      {
         "title": "OpenAI abandonne ses « quêtes secondaires » pour faire face à Anthropic",
         "title_en": "OpenAI abandonne ses « quêtes secondaires » pour faire face à Anthropic",
         "summary": "Sommaire Sora, la « side quest » de trop Trois signaux d’alarme successifs pour OpenAI OpenAI, du statut de locomotive à celui de poursuivant OpenAI traverse une semaine de ruptures. Entre la fermetur",
@@ -497,33 +545,45 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
         "date": "28 March 2026"
-      },
-      {
-        "title": "Sora, OpenAI's video generation application, is no longer in operation. Here’s what this implies for the company's future. - STL.News",
-        "title_en": "Sora, OpenAI's video generation application, is no longer in operation. Here’s what this implies for the company's future. - STL.News",
-        "summary": "SHARE Sora by OpenAI Shutters: Implications for Future Innovations Contents The Rise and Fall of Sora Financial Considerations Strategic Refocus Lessons Learned from Sora’s Closure Future Prospects fo",
-        "summary_en": "The Rise and Fall of SoraFinancial ConsiderationsStrategic RefocusLessons Learned from Sora’s ClosureFuture Prospects for OpenAIThe AI Landscape Post-SoraConclusion · <strong>OpenAI has announced the ",
-        "long_summary": "SHARE Sora by OpenAI Shutters: Implications for Future Innovations Contents The Rise and Fall of Sora Financial Considerations Strategic Refocus Lessons Learned from Sora’s Closure Future Prospects for OpenAI The AI Landscape Post-Sora Conclusion OpenAI has announced the termination of Sora, its generative video application, marking a significant shift in the company’s strategy this past Thursday. Initially launched with the promise of revolutionizing video creation, Sora aimed to leverage advanced AI techniques to streamline content production. However, continued challenges in user adoption and technical limitations have compelled OpenAI to reevaluate its resources and focus on upcoming projects that align with its broader vision. As the dust settles on the closure of Sora, industry analysts and tech enthusiasts are keen to understand what this development means for OpenAI’s trajectory. Here’s an in-depth look at the implications of this decision and the future of OpenAI’s generative technologies. The Rise and Fall of Sora Sora was introduced with high expectations, positioning itself as a cutting-edge tool for content creators, marketers, and educators alike. With capabilities that allowed users to generate videos from text prompts, Sora was touted as a game-changer in the realm of video editing and production. Yet, despite the intriguing premise, the app struggled to gain traction among its target audience. - Advertisement - User feedback indicated that the learning curve ",
-        "long_summary_en": "SHARE Sora by OpenAI Shutters: Implications for Future Innovations Contents The Rise and Fall of Sora Financial Considerations Strategic Refocus Lessons Learned from Sora’s Closure Future Prospects for OpenAI The AI Landscape Post-Sora Conclusion OpenAI has announced the termination of Sora, its generative video application, marking a significant shift in the company’s strategy this past Thursday. Initially launched with the promise of revolutionizing video creation, Sora aimed to leverage advanced AI techniques to streamline content production. However, continued challenges in user adoption a",
-        "image": "https://n3n9b4f6.delivery.rocketcdn.me/wp-content/uploads/2026/03/1774607401.jpg",
-        "source": "Stl",
-        "url": "https://www.stl.news/sora-openais-video-generation-application-is-no-longer-in-operation-heres-what-this-implies-for-the-companys-future/",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "Sora Is Dead. Veo 3.1 vs Runway Gen-4.5.5: Best AI Video Generator After the Shutdown [2026]",
-        "title_en": "Sora Is Dead. Veo 3.1 vs Runway Gen-4.5.5: Best AI Video Generator After the Shutdown [2026]",
-        "summary": "Sora is gone. OpenAI shut it down on March 25, 2026. It was burning $15 million a day and made $2.1 million total. Disney pulled their $1 billion deal. The market now splits into three: Runway Gen-4.5",
-        "summary_en": "<strong>Sora is gone</strong>. OpenAI shut it down on March 25, 2026. It was burning $15 million a day and made $2.1 million total. Disney pulled their $1 billion deal. The market now splits into thre",
-        "long_summary": "Sora is gone. OpenAI shut it down on March 25, 2026. It was burning $15 million a day and made $2.1 million total. Disney pulled their $1 billion deal. The market now splits into three: Runway Gen-4.5 for professional quality, Google Veo 3.1 for native audio and 4K, and Kling if you need cheap. OpenAI says a replacement called \"Spud\" is weeks away but nobody knows what it actually does yet. AI Video Generator Landscape - March 2026 Updated March 2026 OpenAI shut down Sora on March 25, 2026 - both the app and the API (CNN, NPR, TechCrunch) Sora cost an estimated $15 million per day to operate (eWeek, Cybernews) Total Sora in-app revenue was $2.1 million - against daily costs of $15 million (eWeek) Downloads dropped from 3.3 million in November 2025 to 1.1 million by February 2026 (eWeek) Disney exited their $1 billion OpenAI deal and 200+ character licensing agreement - no money changed hands (Variety, Deadline) OpenAI is building a replacement codenamed Spud on a different architecture, expected in weeks (Tom's Guide, Axios) Runway Gen-4.5 leads quality benchmarks at 1247 Elo, Veo 3.1 at 1226 Elo (Artificial Analysis) Veo 3.1 is the only AI video generator with native 4K output and built-in audio generation Six months. That's how long Sora lasted. Launched in late 2024, hit the App Store, briefly topped the charts, got a billion-dollar Disney deal, then got pulled on March 25, 2026. The Sora team posted on X: \"We're saying goodbye to Sora. To everyone who created with Sora, s",
-        "long_summary_en": "Sora is gone. OpenAI shut it down on March 25, 2026. It was burning $15 million a day and made $2.1 million total. Disney pulled their $1 billion deal. The market now splits into three: Runway Gen-4.5 for professional quality, Google Veo 3.1 for native audio and 4K, and Kling if you need cheap. OpenAI says a replacement called \"Spud\" is weeks away but nobody knows what it actually does yet. AI Video Generator Landscape - March 2026 Updated March 2026 OpenAI shut down Sora on March 25, 2026 - both the app and the API (CNN, NPR, TechCrunch) Sora cost an estimated $15 million per day to operate (",
-        "image": "https://spectrumailab.com/images/veo-3-vs-sora-vs-runway-comparison.png",
-        "source": "Spectrumailab",
-        "url": "https://spectrumailab.com/blog/veo-3-vs-sora-vs-runway-best-ai-video-generator-2026",
-        "date": "28 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Google’s Quiet Upgrade To Gemini Flash Just Made Real-Time AI Conversations Dramatically Smarter - Web And IT News",
+        "title_en": "Google’s Quiet Upgrade To Gemini Flash Just Made Real-Time AI Conversations Dramatically Smarter - Web And IT News",
+        "summary": "Google didn’t hold a press conference. There was no splashy keynote or countdown timer. The company simply flipped a switch, and Gemini Live — its real-time conversational AI feature — got substantial",
+        "summary_en": "The model upgrade is, in effect, an investment in the entire Gemini product strategy. There’s a broader pattern here worth examining. The AI industry has entered a phase where the most consequential i",
+        "long_summary": "Google didn’t hold a press conference. There was no splashy keynote or countdown timer. The company simply flipped a switch, and Gemini Live — its real-time conversational AI feature — got substantially better overnight. The upgrade from Flash 2.0 to Flash 3.1 as the underlying model powering Gemini Live represents one of the most significant under-the-hood improvements Google has made to its consumer AI product this year, and most users won’t even realize it happened. But they’ll feel it. As first reported by Android Central , the rollout of Gemini 3.1 Flash to power Gemini Live’s real-time voice interactions marks a leap in contextual understanding, reasoning accuracy, and the AI’s ability to handle complex multi-turn conversations without losing the thread. The publication’s testing revealed improvements that go well beyond incremental — this is the kind of model swap that transforms how useful the product actually is in daily life. To understand why this matters, you need to understand what Gemini Live is trying to be. Unlike standard chatbot interactions where you type a prompt and wait for a response, Gemini Live is designed for fluid, spoken conversation. Think of it as Google’s answer to the real-time voice mode that OpenAI demonstrated with GPT-4o last year — a back-and-forth dialogue where the AI can be interrupted, can ask clarifying questions, and maintains context across a sprawling conversation. It’s the kind of interface that makes AI feel less like a search en",
+        "long_summary_en": "Google didn’t hold a press conference. There was no splashy keynote or countdown timer. The company simply flipped a switch, and Gemini Live — its real-time conversational AI feature — got substantially better overnight. The upgrade from Flash 2.0 to Flash 3.1 as the underlying model powering Gemini Live represents one of the most significant under-the-hood improvements Google has made to its consumer AI product this year, and most users won’t even realize it happened. But they’ll feel it. As first reported by Android Central , the rollout of Gemini 3.1 Flash to power Gemini Live’s real-time v",
+        "image": "https://external-preview.redd.it/dDAzMzdvanQ2NzdnMczPXJuS0Ou1ML1bAlnJABejHicmiFYinI2vyXy6nYnY.png?width=140&height=78&format=jpg&auto=webp&s=b49b688134f9c6f0ef114268e1d7b1cc151ed929",
+        "source": "Webanditnews",
+        "url": "https://www.webanditnews.com/2026/03/29/googles-quiet-upgrade-to-gemini-flash-just-made-real-time-ai-conversations-dramatically-smarter/",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "LLM News Today (March 2026) – AI Model Releases",
+        "title_en": "LLM News Today (March 2026) – AI Model Releases",
+        "summary": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of wha",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of what changed and why. Jonathan Chavez Mar 11, 2026",
+        "long_summary_en": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of what changed and why. Jonathan Chavez Mar 11, 2026",
+        "image": "https://blog.mean.ceo/wp-content/uploads/2025/12/mean-ceo-female-entrepreneurs-news.webp",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "30 March 2026"
+      },
+      {
+        "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+        "title_en": "Mistral AI raises $830M in debt to set up a data center near Paris",
+        "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+        "summary_en": "Mistral aims to start operating the data center by the second quarter of 2026.",
+        "long_summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
+        "long_summary_en": "Mistral aims to start operating the data center by the second quarter of 2026.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+        "date": "30 March 2026"
+      },
       {
         "title": "Bluesky’s new Attie app uses AI to give you full control over your social feed",
         "title_en": "Bluesky’s new Attie app uses AI to give you full control over your social feed",
@@ -667,42 +727,6 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
         "date": "29 March 2026"
-      },
-      {
-        "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-        "title_en": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-        "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-        "summary_en": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-        "long_summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-        "long_summary_en": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-        "date": "29 March 2026"
-      },
-      {
-        "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
-        "summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 1w ago GPQA: 0.9 GPT-5.4 nano Lightweight Proprietary OpenAI • 1w ago GPQA: 0.8 Mar 16, 2026 · 1 release Mistral Small 4 Release Open Source Mistral AI • 1w ago GPQA: 0.7 Mar 11, 2026 · 1 release Nemotron 3 Super (120B A12B) Release Open Source NVIDIA • 2w ago GPQA: 0.8 Mar 9, 2026 · 3 release s Grok-4.20 Beta Non-Reasoning Preview Proprietary xAI • 2w ago Grok-4.20 Beta Reasoning Preview Proprietary xAI • 2w ago Grok-4.20 Multi-Agent Beta Preview Proprietary xAI • 2w ago Mar 6, 2026 · 2 release s Sarvam-105B Release Open Source Sarvam AI • 3w ago GPQA: 0.8 Sarvam-30B Release Open Source Sarvam AI • 3w ago GPQA: 0.7 Mar 5, 2026 · 1 release GPT-5.4 Release Proprietary OpenAI • 3w ago GPQA: 0.9 Mar 4, 2026 · 1 release GPT-5.3 Chat Release Proprietary OpenAI • 3w ago Mar 3, 2026 · 1 release Gemini 3.1 Flash-Lite Lightweight Proprietary Google • 3w ago GPQA: 0.9 1 – 12 of 274 1 2 3 4 5 6 7 Understanding LLM Versioning AI model version",
-        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 1w ago GPQA: 0.9 GPT-5.4 nano Lightweight Pr",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "28 March 2026"
-      },
-      {
-        "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-        "title_en": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-        "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch ",
-        "summary_en": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch ",
-        "long_summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-        "long_summary_en": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?resize=1200,675",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-        "date": "28 March 2026"
       }
     ],
     "audio": [
@@ -890,13 +914,6 @@
   },
   "hotNews": [
     {
-      "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
-      "date": "28 March 2026"
-    },
-    {
       "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
       "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
       "source": "Etvbharat",
@@ -909,6 +926,13 @@
       "source": "Webanditnews",
       "url": "https://www.webanditnews.com/2026/03/28/anthropics-claude-is-quietly-winning-the-consumer-ai-race-and-the-numbers-are-starting-to-show-it/",
       "date": "29 March 2026"
+    },
+    {
+      "title": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - AgingResearch - LONGECITY",
+      "title_en": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - AgingResearch - LONGECITY",
+      "source": "Longecity",
+      "url": "https://www.longecity.org/forum/topic/121714-the-hardware-first-model-of-aging-by-chatgpt-and-google-gemini",
+      "date": "30 March 2026"
     }
   ]
 }
