@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31 March 2026 - 08:00",
+  "lastUpdate": "31 March 2026 - 12:30",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Why can’t TikTok identify AI generated ads when I can?",
+        "title_en": "Why can’t TikTok identify AI generated ads when I can?",
+        "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usu",
+        "summary_en": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usu",
+        "long_summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, […]",
+        "long_summary_en": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&strip=all&crop=0,1.5826921155434,100,65.708980020247",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+        "date": "31 March 2026"
+      },
+      {
         "title": "Video Generation App Sora AI Is Shutting Down & Student Opinion – The Quad: Student News Service of WCU",
         "title_en": "Video Generation App Sora AI Is Shutting Down & Student Opinion – The Quad: Student News Service of WCU",
         "summary": "Image Credits: @complex via Instagram On Tuesday, March 24, OpenAI’s video generation app, Sora, announced on X that they are shutting down the app’s operations, stating that they know the news is “di",
@@ -532,18 +544,6 @@
         "image": "",
         "source": "Pcmag",
         "url": "https://www.pcmag.com/picks/the-best-ai-video-generators",
-        "date": "29 March 2026"
-      },
-      {
-        "title": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape",
-        "title_en": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape",
-        "summary": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape The shutdown of OpenAI’s Sora sent shockwaves through the creative industry, but the AI video ecosystem in 2026 is more ro",
-        "summary_en": "For professionals who used Sora as part of a larger production pipeline, <strong>Runway offers the most seamless integration of generation, editing, and refinement</strong>. ... Unified Workflow: Comb",
-        "long_summary": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape The shutdown of OpenAI’s Sora sent shockwaves through the creative industry, but the AI video ecosystem in 2026 is more robust, specialized, and production-ready than ever. Here’s your definitive guide to the best alternatives. When OpenAI announced the immediate sunset of Sora this past Tuesday, citing “completely unsustainable” computing costs, it left thousands of creators, marketers, and filmmakers scrambling. The tool that had become synonymous with hyper-realistic AI-generated video vanished overnight, taking with it established workflows and projects in progress. Yet, as one door closes, a dozen more have opened. The post-Sora era is not a void—it’s a diversified landscape where specialized tools have matured beyond simple generation to offer cinematic control, character consistency , native audio, and production-grade quality . The key is no longer finding an AI video tool, but selecting the right one for your specific creative or commercial need. Based on extensive testing, hands-on workflows, and the latest model releases of 2026, here are the 7 best Sora alternatives—including one that surpasses the original in its own domain. 1. Google Veo 3.1 : The 4K Cinematic Powerhouse with Native Audio Best for: Broadcast-quality content, film production, and projects requiring synchronized sound. If Sora’s claim to fame was cinematic beauty, Google Veo 3.1 has claimed the throne for technical supre",
-        "long_summary_en": "The End of Sora: 7 Superior AI Video Tools Defining 2026’s Creative Landscape The shutdown of OpenAI’s Sora sent shockwaves through the creative industry, but the AI video ecosystem in 2026 is more robust, specialized, and production-ready than ever. Here’s your definitive guide to the best alternatives. When OpenAI announced the immediate sunset of Sora this past Tuesday, citing “completely unsustainable” computing costs, it left thousands of creators, marketers, and filmmakers scrambling. The tool that had become synonymous with hyper-realistic AI-generated video vanished overnight, taking w",
-        "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgJmhntqBtg2ZqpunJa66ye-cy1SxhSddHFMaVOC9uhBpFhmIyt7_kQYgmu2OsI_0G2k857124_1ETpjxDBiGdrlhZItyQBsRnQY-vNaWVvir60wFp8gCvmI-QHODO_Lnw-5bgwLk3uGbKx0NrmjQnmSdPPC3oehWqFwg5W2HEsxhMU9KYk7gL5zqmk7OGO=w1200-h630-p-k-no-nu",
-        "source": "Masrawysat111",
-        "url": "https://www.masrawysat111.com/2020/04/ali-100.html",
         "date": "29 March 2026"
       }
     ],
