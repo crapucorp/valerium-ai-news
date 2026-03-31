@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "31 March 2026 - 12:30",
+  "lastUpdate": "31 March 2026 - 18:30",
   "categories": {
     "general": [
+      {
+        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+        "title_en": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+        "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+        "summary_en": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+        "long_summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+        "long_summary_en": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/founder_photo.jpeg?resize=1200,793",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+        "date": "31 March 2026"
+      },
       {
         "title": "Latest AI News and AI Breakthroughs that Matter Most: 2026 | News",
         "title_en": "Latest AI News and AI Breakthroughs that Matter Most: 2026 | News",
@@ -168,18 +180,6 @@
         "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FActivecampaign-TNW-Article-Banner.png&signature=713c2b53114be0fbc6826b04e31b400c",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/activecampaign-free-trial-marketing-automation",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "OMB convenes agencies, industry to talk AI for cyber defense | Federal News Network",
-        "title_en": "OMB convenes agencies, industry to talk AI for cyber defense | Federal News Network",
-        "summary": "Getty Images/Iurii Motov Stop the AI panic Commentary Read more",
-        "summary_en": "Federal agencies have been exploring using AI for cyber defense for several years. Meanwhile, in a Thursday afternoon news release, Director of National Intelligence Tulsi Gabbard announced her office",
-        "long_summary": "Getty Images/Iurii Motov Stop the AI panic Commentary Read more",
-        "long_summary_en": "Getty Images/Iurii Motov Stop the AI panic Commentary Read more",
-        "image": "https://federalnewsnetwork.com/wp-content/uploads/2025/03/GettyImages-2167444878-e1743447609396.jpg",
-        "source": "Federalnewsnetwork",
-        "url": "https://federalnewsnetwork.com/cybersecurity/2026/03/omb-convenes-agencies-industry-to-talk-ai-for-cyber-defense/",
         "date": "27 March 2026"
       }
     ],
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+        "title_en": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+        "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+        "summary_en": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+        "long_summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+        "long_summary_en": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_5963.png?w=1200",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+        "date": "31 March 2026"
+      },
+      {
         "title": "Why can’t TikTok identify AI generated ads when I can?",
         "title_en": "Why can’t TikTok identify AI generated ads when I can?",
         "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usu",
@@ -533,21 +545,33 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
         "date": "30 March 2026"
-      },
-      {
-        "title": "So Long, Sora: The Most Powerful AI Video Generators We've Tested | PCMag",
-        "title_en": "So Long, Sora: The Most Powerful AI Video Generators We've Tested | PCMag",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "Perplexity stands out for its strong ... abilities are somewhat disappointing. ... <strong>March 28, 2026: With this update, we removed Sora from our lineup because OpenAI is shutting it down</strong>",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "",
-        "source": "Pcmag",
-        "url": "https://www.pcmag.com/picks/the-best-ai-video-generators",
-        "date": "29 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+        "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+        "summary": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token Get real-time LLM pricing in Claude Code and Cursor. Try Price Per Token MCP New Models Today — AI & LLM Releases New models releas",
+        "summary_en": "GPT-5.3 Chat New · OpenAI·via OpenAI·$1.75 in·$14.00 out·128K ctx · Gemini 3.1 Flash Lite Preview New · Google·via Google AI Studio·$0.25 in·$1.50 out·1M ctx · Gemini 3.1 Flash Lite Preview New · Goog",
+        "long_summary": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token Get real-time LLM pricing in Claude Code and Cursor. Try Price Per Token MCP New Models Today — AI & LLM Releases New models released in the last 24 hours and beyond. Track every new LLM from OpenAI, Anthropic, Google, Meta, Mistral and more. Last updated: March 31, 2026 Open Source AI News - Llama, Mistral, Qwen & DeepSeek Updates AI Hardware News - GPUs, TPUs, Chips & Data Center Updates AI Funding News - Investments, Valuations & Startup Deals AI Agents News - Autonomous AI, Agentic Systems & Frameworks All categories Last 24h 0 This Week 44 This Month 98 All 98 Yesterday 1 item AI for American-Produced Cement and Concrete Meta AI · 1d ago · Meta-llama Mar 27 3 items Find out what’s new in the Gemini app in March's Gemini Drop. Google The Keyword · 4d ago · Google Find out what’s new in the Gemini app in March's Gemini Drop. Google The Keyword · 4d ago · Google [AINews] Everything is CLI Latent Space · 4d ago · OpenAI Google Mistral AI Mar 26 34 items ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut TechCrunch AI · 5d ago · Bytedance Bytedance-seed Gemini 3.1 Flash Live: Making audio AI more natural and reliable Google DeepMind · 5d ago · Google Gemini 3.1 Flash Live: Making audio AI more natural and reliable Google The Keyword · 5d ago · Google Build real-time conversational agents with Gemini 3.1 Flash Live Google The Keyword · 5d ago · Google Mistral releases a new open",
+        "long_summary_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token Get real-time LLM pricing in Claude Code and Cursor. Try Price Per Token MCP New Models Today — AI & LLM Releases New models released in the last 24 hours and beyond. Track every new LLM from OpenAI, Anthropic, Google, Meta, Mistral and more. Last updated: March 31, 2026 Open Source AI News - Llama, Mistral, Qwen & DeepSeek Updates AI Hardware News - GPUs, TPUs, Chips & Data Center Updates AI Funding News - Investments, Valuations & Startup Deals AI Agents News - Autonomous AI, Agentic Systems & Frameworks All categories Last",
+        "image": "https://mobisoftinfotech.com/resources/wp-content/uploads/2025/12/llm-use-case-cost-example.png",
+        "source": "Pricepertoken",
+        "url": "https://pricepertoken.com/news/model-releases",
+        "date": "31 March 2026"
+      },
+      {
+        "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+        "summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 2w ago GPQA: 0.9 GPT-5.4 nano Lightweight Proprietary OpenAI • 2w ago GPQA: 0.8 Mar 16, 2026 · 1 release Mistral Small 4 Release Open Source Mistral AI • 2w ago GPQA: 0.7 Mar 11, 2026 · 1 release Nemotron 3 Super (120B A12B) Release Open Source NVIDIA • 2w ago GPQA: 0.8 Mar 9, 2026 · 3 release s Grok-4.20 Beta Non-Reasoning Preview Proprietary xAI • 3w ago Grok-4.20 Beta Reasoning Preview Proprietary xAI • 3w ago Grok-4.20 Multi-Agent Beta Preview Proprietary xAI • 3w ago Mar 6, 2026 · 2 release s Sarvam-105B Release Open Source Sarvam AI • 3w ago GPQA: 0.8 Sarvam-30B Release Open Source Sarvam AI • 3w ago GPQA: 0.7 Mar 5, 2026 · 1 release GPT-5.4 Release Proprietary OpenAI • 3w ago GPQA: 0.9 Mar 4, 2026 · 1 release GPT-5.3 Chat Release Proprietary OpenAI • 3w ago Mar 3, 2026 · 1 release Gemini 3.1 Flash-Lite Lightweight Proprietary Google • 0mo ago GPQA: 0.9 1 – 12 of 274 1 2 3 4 5 6 7 Understanding LLM Versioning AI model versio",
+        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 2w ago GPQA: 0.9 GPT-5.4 nano Lightweight Pr",
+        "image": "https://www.vtnetzwelt.com/wp-content/uploads/2026/02/Latest-Tech-AI-Updates-February-2026-1-768x319.webp",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "31 March 2026"
+      },
       {
         "title": "OpenAI Operator: Specs, Pricing & Real-World Performance Guide (2026)",
         "title_en": "OpenAI Operator: Specs, Pricing & Real-World Performance Guide (2026)",
@@ -702,30 +726,6 @@
         "image": "https://i.guim.co.uk/img/media/aa928b9989732277d7fd78e2f863ef47192ddc6b/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9abc67538e71b1437980ce45d7aeade",
         "source": "Theguardian",
         "url": "https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says",
-        "date": "29 March 2026"
-      },
-      {
-        "title": "Why Anthropic is 'refusing' to release an AI model that the company says is the most powerful AI it has ever developed - The Times of India",
-        "title_en": "Why Anthropic is 'refusing' to release an AI model that the company says is the most powerful AI it has ever developed - The Times of India",
-        "summary": "Edition IN IN US GCC English English à¤¹à¤¿à¤¨à¥à¤¦à¥ à¤®à¤°à¤¾à¤ à¥ à²à²¨à³à²¨à²¡ à®¤à®®à®¿à®´à¯ à¦¬à¦¾à¦à¦²à¦¾ à´®à´²à´¯à´¾à´³à´ à°¤à±à°²à±à°à± àªà«àªàª°àª¾àª¤à« Weather Sign In TOI ",
-        "summary_en": "That&#x27;s Anthropic&#x27;s own evaluation of a model it built.The concern is real enough that Anthropic has structured the entire early rollout around it. Rather than a standard launch, the company ",
-        "long_summary": "Edition IN IN US GCC English English à¤¹à¤¿à¤¨à¥à¤¦à¥ à¤®à¤°à¤¾à¤ à¥ à²à²¨à³à²¨à²¡ à®¤à®®à®¿à®´à¯ à¦¬à¦¾à¦à¦²à¦¾ à´®à´²à´¯à´¾à´³à´ à°¤à±à°²à±à°à± àªà«àªàª°àª¾àª¤à« Weather Sign In TOI Today's ePaper Live",
-        "long_summary_en": "Edition IN IN US GCC English English à¤¹à¤¿à¤¨à¥à¤¦à¥ à¤®à¤°à¤¾à¤ à¥ à²à²¨à³à²¨à²¡ à®¤à®®à®¿à®´à¯ à¦¬à¦¾à¦à¦²à¦¾ à´®à´²à´¯à´¾à´³à´ à°¤à±à°²à±à°à± àªà«àªàª°àª¾àª¤à« Weather Sign In TOI Today's ePaper Live",
-        "image": "https://static.toiimg.com/thumb/msid-129848108,width-1280,height-720,imgsize-15030,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "source": "Timesofindia",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-anthropic-is-refusing-to-release-an-ai-model-that-the-company-says-is-the-most-powerful-ai-it-has-ever-developed/articleshow/129848108.cms",
-        "date": "29 March 2026"
-      },
-      {
-        "title": "AI race turns into real-time elimination game as advantages fade within months",
-        "title_en": "AI race turns into real-time elimination game as advantages fade within months",
-        "summary": "AI race turns into real-time elimination game as advantages fade within months Jingyue Hsiao, DIGITIMES Asia, Taipei Mar 29, 2026, 08:56 0 Credit: AFP The global AI is entering a new phase where compe",
-        "summary_en": "Analysis: <strong>OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI</strong> · OpenClaw lands in WeChat, signaling a new era of AI agents in messaging · OpenClaw AI agen",
-        "long_summary": "AI race turns into real-time elimination game as advantages fade within months Jingyue Hsiao, DIGITIMES Asia, Taipei Mar 29, 2026, 08:56 0 Credit: AFP The global AI is entering a new phase where competitive advantages are increasingly short-lived, often eroding within months or even weeks. Across models, products, and platforms, no single player appears able to maintain a durable lead. Instead, the... The article requires paid subscription. Subscribe Now LOGIN Email address Password Save my User ID and Password Save my User ID and Password Some subscribers prefer to save their log-in information so they do not have to enter their User ID and Password each time they visit the site. To activate this function, check the 'Save my User ID and Password' box in the log-in section. This will save the password on the computer you're using to access the site. Note: If you choose to use the log-out feature, you will lose your saved information. This means you will be required to log-in the next time you visit our site. SIGN IN NEW individual users please REGISTER first. Enterprise user first-time LOGIN . I forgot my ID and/or password? MEMBERSHIP BENEFITS Full access to articles dating back to 2000. Real-time access to the news as it breaks. Access to premium content. Full access to Tomorrow's Headlines. Asia Supply Chain 250 dataset access. Related stories Analysis: OpenAI shifts to enterprise, Anthropic advances; Google Gemini leads consumer AI OpenClaw lands in WeChat, signaling a ne",
-        "long_summary_en": "AI race turns into real-time elimination game as advantages fade within months Jingyue Hsiao, DIGITIMES Asia, Taipei Mar 29, 2026, 08:56 0 Credit: AFP The global AI is entering a new phase where competitive advantages are increasingly short-lived, often eroding within months or even weeks. Across models, products, and platforms, no single player appears able to maintain a durable lead. Instead, the... The article requires paid subscription. Subscribe Now LOGIN Email address Password Save my User ID and Password Save my User ID and Password Some subscribers prefer to save their log-in informati",
-        "image": "https://img.digitimes.com/newsshow/20260328vl201_files/1_2b.jpg",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20260328VL201/tencent-openai-gemini-anthropic-midjourney.html",
         "date": "29 March 2026"
       }
     ],
@@ -914,25 +914,25 @@
   },
   "hotNews": [
     {
+      "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "31 March 2026"
+    },
+    {
+      "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "source": "Pricepertoken",
+      "url": "https://pricepertoken.com/news/model-releases",
+      "date": "31 March 2026"
+    },
+    {
       "title": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
       "title_en": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
       "source": "Webanditnews",
       "url": "https://www.webanditnews.com/2026/03/28/anthropics-claude-is-quietly-winning-the-consumer-ai-race-and-the-numbers-are-starting-to-show-it/",
       "date": "29 March 2026"
-    },
-    {
-      "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-      "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-      "source": "Etvbharat",
-      "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
-      "date": "29 March 2026"
-    },
-    {
-      "title": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - AgingResearch - LONGECITY",
-      "title_en": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - AgingResearch - LONGECITY",
-      "source": "Longecity",
-      "url": "https://www.longecity.org/forum/topic/121714-the-hardware-first-model-of-aging-by-chatgpt-and-google-gemini",
-      "date": "30 March 2026"
     }
   ]
 }
