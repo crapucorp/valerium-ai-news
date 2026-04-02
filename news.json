@@ -1,7 +1,67 @@
 {
-  "lastUpdate": "31 March 2026 - 18:30",
+  "lastUpdate": "02 April 2026 - 18:32",
   "categories": {
     "general": [
+      {
+        "title": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
+        "title_en": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
+        "summary": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready frame",
+        "summary_en": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready frame",
+        "long_summary": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready framework. For AI professionals and developers, this release codifies the Post-Training pipeline—the essential sequence of Supervised Fine-Tuning (SFT), Reward Modeling, and Alignment—into a unified, standardized API. In the early stages […]\nThe post Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows appeared first on MarkTechPost.",
+        "long_summary_en": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready framework. For AI professionals and developers, this release codifies the Post-Training pipeline—the essential sequence of Supervised Fine-Tuning (SFT), Reward Modeling, and Alignment—into a unified, standardized API. In the early stages […]\nThe post Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-20-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference",
+        "title_en": "How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference",
+        "summary": "In this tutorial, we build and run a Colab workflow for Gemma 3 1B Instruct using Hugging Face Transformers and HF Token, in a practical, reproducible, and easy-to-follow step-by-step manner. We begin",
+        "summary_en": "In this tutorial, we build and run a Colab workflow for Gemma 3 1B Instruct using Hugging Face Transformers and HF Token, in a practical, reproducible, and easy-to-follow step-by-step manner. We begin",
+        "long_summary": "In this tutorial, we build and run a Colab workflow for Gemma 3 1B Instruct using Hugging Face Transformers and HF Token, in a practical, reproducible, and easy-to-follow step-by-step manner. We begin by installing the required libraries, securely authenticating with our Hugging Face token, and loading the tokenizer and model onto the available device with […]\nThe post How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we build and run a Colab workflow for Gemma 3 1B Instruct using Hugging Face Transformers and HF Token, in a practical, reproducible, and easy-to-follow step-by-step manner. We begin by installing the required libraries, securely authenticating with our Hugging Face token, and loading the tokenizer and model onto the available device with […]\nThe post How to Build a Production-Ready Gemma 3 1B Instruct Generation AI Pipeline with Hugging Face Transformers, Chat Templates, and Colab Inference appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/04/01/how-to-build-a-production-ready-gemma-3-1b-instruct-generation-ai-pipeline-with-hugging-face-transformers-chat-templates-and-colab-inference/",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "Dan Pratl believes the credibility economy is coming and it will redefine value in the age of AI",
+        "title_en": "Dan Pratl believes the credibility economy is coming and it will redefine value in the age of AI",
+        "summary": "A growing sense of unease is shaping how professionals engage with artificial intelligence, particularly as its capabilities expand across information creation and execution. Dan Pratl, founder of Qua",
+        "summary_en": "A growing sense of unease is shaping how professionals engage with artificial intelligence, particularly as its capabilities expand across information creation and execution. Dan Pratl, founder of Qua",
+        "long_summary": "A growing sense of unease is shaping how professionals engage with artificial intelligence, particularly as its capabilities expand across information creation and execution. Dan Pratl, founder of Quadron, believes this anxiety reflects a deeper structural issue that extends beyond automation and into how value itself is recognized. “We’ve reached a point at which the maturation […]\nThis story continues at The Next Web",
+        "long_summary_en": "A growing sense of unease is shaping how professionals engage with artificial intelligence, particularly as its capabilities expand across information creation and execution. Dan Pratl, founder of Quadron, believes this anxiety reflects a deeper structural issue that extends beyond automation and into how value itself is recognized. “We’ve reached a point at which the maturation […]\nThis story continues at The Next Web",
+        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/credibility-economy-ai-value.png",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/credibility-economy-ai-value",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "Fortis Solutions on the rise of human-governed AI: Building trust through intelligent infrastructure",
+        "title_en": "Fortis Solutions on the rise of human-governed AI: Building trust through intelligent infrastructure",
+        "summary": "Fortis Solutions, an enterprise technology partner with decades of experience across infrastructure, cybersecurity, and data systems, approaches artificial intelligence as a force that is redefining h",
+        "summary_en": "Fortis Solutions, an enterprise technology partner with decades of experience across infrastructure, cybersecurity, and data systems, approaches artificial intelligence as a force that is redefining h",
+        "long_summary": "Fortis Solutions, an enterprise technology partner with decades of experience across infrastructure, cybersecurity, and data systems, approaches artificial intelligence as a force that is redefining how work is performed while preserving the importance of human contribution. Its perspective reflects a future where human judgment and machine precision operate in tandem, introducing new ways to elevate […]\nThis story continues at The Next Web",
+        "long_summary_en": "Fortis Solutions, an enterprise technology partner with decades of experience across infrastructure, cybersecurity, and data systems, approaches artificial intelligence as a force that is redefining how work is performed while preserving the importance of human contribution. Its perspective reflects a future where human judgment and machine precision operate in tandem, introducing new ways to elevate […]\nThis story continues at The Next Web",
+        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/human-governed-ai-fortis-solutions.png",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/human-governed-ai-fortis-solutions",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+        "title_en": "Microsoft’s new ‘superintelligence’ game plan is all about business",
+        "summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, ",
+        "summary_en": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, ",
+        "long_summary": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, […]",
+        "long_summary_en": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, he's handed off some duties and shifted focus to chasing superintelligence. Though the news was only made public last month, he tells The Verge, […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25344398/1935722537.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
+        "date": "02 April 2026"
+      },
       {
         "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
         "title_en": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
@@ -121,66 +181,6 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
         "date": "30 March 2026"
-      },
-      {
-        "title": "Latest AI News: Daily Updated Artificial Intelligence Insights (March 24, 2026)",
-        "title_en": "Latest AI News: Daily Updated Artificial Intelligence Insights (March 24, 2026)",
-        "summary": "Latest AI News: Daily Updated Artificial Intelligence Insights (March 24, 2026) Latest AI News: March 24, 2026 Stay informed with our daily curated artificial intelligence news and insights. We bring ",
-        "summary_en": "... The Indian Ministry of External ... legal challenges as the city sues ... ... <strong>A 75-year-old Singaporean woman fell victim to a cunning AI-driven scam, losing $600,000 over three</strong> .",
-        "long_summary": "Latest AI News: Daily Updated Artificial Intelligence Insights (March 24, 2026) Latest AI News: March 24, 2026 Stay informed with our daily curated artificial intelligence news and insights. We bring you the most important updates in AI, machine learning, and emerging technologies. Edited By Mackenzie Ferguson AI Tools Researcher & Implementation Consultant Explore News by Tags NITES campus recruits employee rights internal assessments intimidation tactics labor law layoffs reputation management tech industry #PutTheMaskBackOn Load More Today Microsoft Freezes Hiring in Key Divisions, Prioritizing AI Expansion March 29, 2026 Microsoft has announced a strategic hiring freeze in its cloud and sales divisions, sparking discuss... Today Elon Musk's xAI Faces Leadership Shake-Up as Two More Co-founders Exit March 29, 2026 Elon Musk's ambitious AI venture, xAI, is facing a leadership crisis as two more co-founders, Yuhuai... Today Rumor Mill Spins: Major Layoffs Loom in China's Tech Giants iFlytek and NetEase March 29, 2026 Rumors are swirling about large-scale layoffs in China's tech sector, specifically targeting iFlytek... Today Meta's Bold AI Pivot: Transforming Layoffs into \"AI Builders\" March 29, 2026 A recent leaked memo from Meta reveals a groundbreaking strategy to pivot its workforce through a re... Today AI's Role in Tech Layoffs: CEOs Drop the Euphemisms and Face Reality March 29, 2026 In 2026, tech CEOs have abandoned euphemisms like 'restructuring' and are openly attr",
-        "long_summary_en": "Latest AI News: Daily Updated Artificial Intelligence Insights (March 24, 2026) Latest AI News: March 24, 2026 Stay informed with our daily curated artificial intelligence news and insights. We bring you the most important updates in AI, machine learning, and emerging technologies. Edited By Mackenzie Ferguson AI Tools Researcher & Implementation Consultant Explore News by Tags NITES campus recruits employee rights internal assessments intimidation tactics labor law layoffs reputation management tech industry #PutTheMaskBackOn Load More Today Microsoft Freezes Hiring in Key Divisions, Prioriti",
-        "image": "https://devflokers.onrender.com/api/assets/69c25c51b59b1e472d7644fa",
-        "source": "Opentools",
-        "url": "https://opentools.ai/news",
-        "date": "29 March 2026"
-      },
-      {
-        "title": "Artificial Intelligence News -- ScienceDaily",
-        "title_en": "Artificial Intelligence News -- ScienceDaily",
-        "summary": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature opti",
-        "summary_en": "NASA’s Perseverance Rover Completes the First AI-planned Drive on Mars · Feb. 2, 2026  NASA’s Perseverance rover has just made history by driving across Mars using routes planned by artificial intell",
-        "long_summary": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature optical cavities that efficiently collect light from individual atoms, allowing ... Researchers Tested AI Against 100,000 Humans on Creativity Jan. 25, 2026 Â A massive new study comparing more than 100,000 people with todayâs most advanced AI systems delivers a surprising result: generative AI can now beat the average human on certain creativity tests. ... The Human Brain May Work More Like AI Than Anyone Expected Jan. 21, 2026 Â Scientists have discovered that the human brain understands spoken language in a way that closely resembles how advanced AI language models work. By tracking brain activity as people listened to a ... Unbreakable? Researchers Warn Quantum Computers Have Serious Security Flaws Jan. 20, 2026 Â Quantum computers could revolutionize everything from drug discovery to business analyticsâbut their incredible power also makes them surprisingly vulnerable. New research from Penn State warns ... The Breakthrough That Makes Robot Faces Feel Less Creepy Jan. 16, 2026 Â Humans pay enormous attention to lips during conversation, and robots have struggled badly to keep up. A new robot developed at Columbia Engineering learned realistic lip movements by watching its ... This AI Spots Dangerous Blood Cells Doctors Often Miss Jan. 13, 2026 Â A generative AI system c",
-        "long_summary_en": "A Tiny Light Trap Could Unlock Million Qubit Quantum Computers Feb. 2, 2026 Â A new light-based breakthrough could help quantum computers finally scale up. Stanford researchers created miniature optical cavities that efficiently collect light from individual atoms, allowing ... Researchers Tested AI Against 100,000 Humans on Creativity Jan. 25, 2026 Â A massive new study comparing more than 100,000 people with todayâs most advanced AI systems delivers a surprising result: generative AI can now beat the average human on certain creativity tests. ... The Human Brain May Work More Like AI Tha",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "source": "Sciencedaily",
-        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "date": "29 March 2026"
-      },
-      {
-        "title": "A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling",
-        "title_en": "A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling",
-        "summary": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simp",
-        "summary_en": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simp",
-        "long_summary": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simply installing and running it out of the box, we crack open the hood and manually recreate each of its core subsystems, the agent […]\nThe post A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling appeared first on MarkTechPost.",
-        "long_summary_en": "In this tutorial, we take a deep dive into nanobot, the ultra-lightweight personal AI agent framework from HKUDS that packs full agent capabilities into roughly 4,000 lines of Python. Rather than simply installing and running it out of the box, we crack open the hood and manually recreate each of its core subsystems, the agent […]\nThe post A Coding Guide to Exploring nanobot’s Full Agent Pipeline, from Wiring Up Tools and Memory to Skills, Subagents, and Cron Scheduling appeared first on MarkTechPost.",
-        "image": "https://media.brightdata.com/2026/03/rJWzUgaK-l.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/28/a-coding-guide-to-exploring-nanobots-full-agent-pipeline-from-wiring-up-tools-and-memory-to-skills-subagents-and-cron-scheduling/",
-        "date": "29 March 2026"
-      },
-      {
-        "title": "openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management",
-        "title_en": "openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management",
-        "summary": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent",
-        "summary_en": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent",
-        "long_summary": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent during a conversation, they often ‘drop the ball’ when it comes to executing real-world tasks. Whether it’s an office workflow that breaks when requirements […]\nThe post openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management appeared first on MarkTechPost.",
-        "long_summary_en": "Over the past year, AI agents have evolved from merely answering questions to attempting to get real tasks done. However, a significant bottleneck has emerged: while most agents may appear intelligent during a conversation, they often ‘drop the ball’ when it comes to executing real-world tasks. Whether it’s an office workflow that breaks when requirements […]\nThe post openJiuwen Community Releases ‘JiuwenClaw’: A Self Evolving AI Agent for Task Management appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-7-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/27/openjiuwen-community-releases-jiuwenclaw-a-self-evolving-ai-agent-for-task-management/",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "ActiveCampaign’s free trial lets you test AI-powered marketing automation before you commit",
-        "title_en": "ActiveCampaign’s free trial lets you test AI-powered marketing automation before you commit",
-        "summary": "Most marketing platforms promise automation. In practice, what they deliver is a glorified email scheduler with a few if-then rules bolted on. ActiveCampaign is one of the few tools where the automati",
-        "summary_en": "Most marketing platforms promise automation. In practice, what they deliver is a glorified email scheduler with a few if-then rules bolted on. ActiveCampaign is one of the few tools where the automati",
-        "long_summary": "Most marketing platforms promise automation. In practice, what they deliver is a glorified email scheduler with a few if-then rules bolted on. ActiveCampaign is one of the few tools where the automation actually lives up to the branding, and right now you can test the full platform free for 14 days with no credit card […]\nThis story continues at The Next Web",
-        "long_summary_en": "Most marketing platforms promise automation. In practice, what they deliver is a glorified email scheduler with a few if-then rules bolted on. ActiveCampaign is one of the few tools where the automation actually lives up to the branding, and right now you can test the full platform free for 14 days with no credit card […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FActivecampaign-TNW-Article-Banner.png&signature=713c2b53114be0fbc6826b04e31b400c",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/activecampaign-free-trial-marketing-automation",
-        "date": "27 March 2026"
       }
     ],
     "image": [
@@ -367,6 +367,54 @@
     ],
     "video": [
       {
+        "title": "The AI video apps gaining ground after OpenAI declared Sora dead | The Star",
+        "title_en": "The AI video apps gaining ground after OpenAI declared Sora dead | The Star",
+        "summary": "OpenAI’s decision to discontinue support opens the door for smaller rivals to win users and gain revenue in a niche that’s seeing surging demand from creatives, filmmakers and marketers. — Bloomberg A",
+        "summary_en": "<strong>A week after OpenAI said it would shutter its artificial intelligence video generator</strong>, Sora, rival tools like Kling AI and RunwayML are already gaining ground. Kling AI, a video gener",
+        "long_summary": "OpenAI’s decision to discontinue support opens the door for smaller rivals to win users and gain revenue in a niche that’s seeing surging demand from creatives, filmmakers and marketers. — Bloomberg A week after OpenAI said it would shutter its artificial intelligence video generator, Sora, rival tools like Kling AI and RunwayML are already gaining ground. Kling AI, a video generator app owned by China’s Kuaishou Technology, saw global weekly active users jump 4% to an average of 2.6 million last week from the prior week, according to iOS and Android data that market intelligence firm Sensor Tower shared with Bloomberg News. Even before OpenAI said it would shut down Sora, Kling AI was leading in global monthly active users, averaging 7.8 million in March compared with 4.7 million for Sora. (The website and app for Sora will go away on April 26, while the developer platform will be discontinued later this year, on Sept. 24.) Other apps also saw a bump: RunwayML and Vidu each notched a 1% increase in weekly active users the same week. (Runway AI Inc’s app is only available on Apple Inc’s app store, while Beijing Shengshu Technology Co’s Vidu is on both iOS and Android.) In another sign of investor confidence in their technology, Runway and Shengshu both raised new funding in February. OpenAI’s decision to discontinue support opens the door for smaller rivals to win users and gain revenue in a niche that’s seeing surging demand from creatives, filmmakers and marketers. Alphabet",
+        "long_summary_en": "OpenAI’s decision to discontinue support opens the door for smaller rivals to win users and gain revenue in a niche that’s seeing surging demand from creatives, filmmakers and marketers. — Bloomberg A week after OpenAI said it would shutter its artificial intelligence video generator, Sora, rival tools like Kling AI and RunwayML are already gaining ground. Kling AI, a video generator app owned by China’s Kuaishou Technology, saw global weekly active users jump 4% to an average of 2.6 million last week from the prior week, according to iOS and Android data that market intelligence firm Sensor T",
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/04/01/3840008.jpg",
+        "source": "Thestar",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/04/02/the-ai-video-apps-gaining-ground-after-openai-declaredsora-dead",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "The AI video apps gaining ground after OpenAI declared Sora dead – The Mercury News",
+        "title_en": "The AI video apps gaining ground after OpenAI declared Sora dead – The Mercury News",
+        "summary": "Sora app. (Bloomberg) By Bloomberg | wordpress@medianewsgroup.com | Bloomberg PUBLISHED: April 1, 2026 at 5:36 AM PDT Getting your Trinity Audio player ready... By Natalie Lung, Bloomberg A week after",
+        "summary_en": "(<strong>The website and app for Sora will go away on April 26,</strong> while the developer platform will be discontinued later this year, on Sept. 24.) Other apps also saw a bump: RunwayML and Vidu ",
+        "long_summary": "Sora app. (Bloomberg) By Bloomberg | wordpress@medianewsgroup.com | Bloomberg PUBLISHED: April 1, 2026 at 5:36 AM PDT Getting your Trinity Audio player ready... By Natalie Lung, Bloomberg A week after OpenAI said it would shutter its artificial intelligence video generator, Sora , rival tools like Kling AI and RunwayML are already gaining ground. Kling AI, a video generator app owned by China’s Kuaishou Technology, saw global weekly active users jump 4% to an average of 2.6 million last week from the prior week, according to iOS and Android data that market intelligence firm Sensor Tower shared with Bloomberg News. Even before OpenAI said it would shut down Sora, Kling AI was leading in global monthly active users, averaging 7.8 million in March compared with 4.7 million for Sora. (The website and app for Sora will go away on April 26, while the developer platform will be discontinued later this year, on Sept. 24.) Other apps also saw a bump: RunwayML and Vidu each notched a 1% increase in weekly active users the same week. (Runway AI Inc.’s app is only available on Apple Inc.’s app store, while Beijing Shengshu Technology Co.’s Vidu is on both iOS and Android.) In another sign of investor confidence in their technology, Runway and Shengshu both raised new funding in February. OpenAI’s decision to discontinue support opens the door for smaller rivals to win users and gain revenue in a niche that’s seeing surging demand from creatives, filmmakers and marketers. Alphabet Inc.’s",
+        "long_summary_en": "Sora app. (Bloomberg) By Bloomberg | wordpress@medianewsgroup.com | Bloomberg PUBLISHED: April 1, 2026 at 5:36 AM PDT Getting your Trinity Audio player ready... By Natalie Lung, Bloomberg A week after OpenAI said it would shutter its artificial intelligence video generator, Sora , rival tools like Kling AI and RunwayML are already gaining ground. Kling AI, a video generator app owned by China’s Kuaishou Technology, saw global weekly active users jump 4% to an average of 2.6 million last week from the prior week, according to iOS and Android data that market intelligence firm Sensor Tower share",
+        "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/sora.webp?w=1024&h=683",
+        "source": "Mercurynews",
+        "url": "https://www.mercurynews.com/2026/04/01/the-ai-video-apps-gaining-ground-after-openai-declared-sora-dead/",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "Kling AI, Runway, Vidu: The AI Video Generators Set to Replace OpenAI's Sora - Bloomberg",
+        "title_en": "Kling AI, Runway, Vidu: The AI Video Generators Set to Replace OpenAI's Sora - Bloomberg",
+        "summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure",
+        "summary_en": "Rival tools such as Kling AI, RunwayML and Vidu have all seen user gains in the week since <strong>OpenAI said it would shutter its Sora AI video generator</strong>.",
+        "long_summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:7fa1ab95-2eb1-11f1-8ace-1066664a17f3 Get the most important global markets news at your fingertips with a Bloomberg.com subscription. SUBSCRIBE NOW",
+        "long_summary_en": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:7fa1ab95-2eb1-11f1-8ace-1066664a17f3 Get the most important global markets news at your fing",
+        "image": "https://blogs-cdn.imagine.art/1_a8c65ecd34.png",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-01/kling-ai-runway-vidu-the-ai-video-generators-set-to-replace-openai-s-sora?srnd=homepage-americas",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "With Sora shuttered, smaller video AI apps surge into the spotlight - Los Angeles Times",
+        "title_en": "With Sora shuttered, smaller video AI apps surge into the spotlight - Los Angeles Times",
+        "summary": "The Sora app. (Bloomberg) By Natalie Lung April 1, 2026 9:57 AM PT Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print A week after Open",
+        "summary_en": "<strong>A week after OpenAI said it would shutter its artificial intelligence video generator</strong>, Sora, rival tools like Kling AI and RunwayML are already gaining ground. Kling AI, a video gener",
+        "long_summary": "The Sora app. (Bloomberg) By Natalie Lung April 1, 2026 9:57 AM PT Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print A week after OpenAI said it would shutter its artificial intelligence video generator, Sora, rival tools like Kling AI and RunwayML are already gaining ground. Kling AI, a video generator app owned by China’s Kuaishou Technology, saw global weekly active users jump 4% to an average of 2.6 million last week from the prior week, according to iOS and Android data that market intelligence firm Sensor Tower shared with Bloomberg News. Even before OpenAI said it would shut down Sora, Kling AI was leading in global monthly active users, averaging 7.8 million in March compared with 4.7 million for Sora. (The website and app for Sora will go away on April 26, while the developer platform will be discontinued later this year, on Sept. 24.) Advertisement Other apps also saw a bump: RunwayML and Vidu each notched a 1% increase in weekly active users the same week. (Runway AI Inc.’s app is only available on Apple Inc.’s app store, while Beijing Shengshu Technology Co.’s Vidu is on both iOS and Android.) In another sign of investor confidence in their technology, Runway and Shengshu both raised new funding in February. OpenAI’s decision to discontinue support opens the door for smaller rivals to win users and gain revenue in a niche that’s seeing surging demand from creatives, filmmakers and marketers. Alphabe",
+        "long_summary_en": "The Sora app. (Bloomberg) By Natalie Lung April 1, 2026 9:57 AM PT Share via Close extra sharing options Email Facebook X LinkedIn Threads Reddit WhatsApp Copy Link URL Copied! Print A week after OpenAI said it would shutter its artificial intelligence video generator, Sora, rival tools like Kling AI and RunwayML are already gaining ground. Kling AI, a video generator app owned by China’s Kuaishou Technology, saw global weekly active users jump 4% to an average of 2.6 million last week from the prior week, according to iOS and Android data that market intelligence firm Sensor Tower shared with",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/42407d2/2147483647/strip/true/crop/2000x1050+0+142/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2Ff9%2F6b8f436da53ba82dd78406984c51%2F1x-1.jpg",
+        "source": "Latimes",
+        "url": "https://www.latimes.com/business/story/2026-04-01/with-sora-shuttered-smaller-video-ai-apps-surge-into-spotlight",
+        "date": "02 April 2026"
+      },
+      {
         "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
         "title_en": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
         "summary": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
@@ -497,57 +545,105 @@
         "source": "Socialsamosa",
         "url": "https://www.socialsamosa.com/experts-speak/soras-shutdown-signals-shift-ai-video-will-shape-marketing-11390491",
         "date": "30 March 2026"
-      },
-      {
-        "title": "Sora Is Gone — 6 Best AI Video Tools Filling the Void in 2026 - Talkaaj Media",
-        "title_en": "Sora Is Gone — 6 Best AI Video Tools Filling the Void in 2026 - Talkaaj Media",
-        "summary": "6 Best AI Video Tools to Use Now That Sora is Gone Sora just pulled the plug — but your creative spark doesn’t have to go dark. The news hit the community like a ton of bricks last Tuesday: OpenAI is ",
-        "summary_en": "Sora’s shutdown closes a chapter — but it isn’t the end of AI-assisted creativity. Not even close. Each of these six tools has found its own way to make video generation more stable, more controllable",
-        "long_summary": "6 Best AI Video Tools to Use Now That Sora is Gone Sora just pulled the plug — but your creative spark doesn’t have to go dark. The news hit the community like a ton of bricks last Tuesday: OpenAI is officially shutting down Sora. Despite its meteoric rise and cinematic beauty, the sheer computing power those hyper-realistic clips demanded was, by OpenAI’s own admission, “completely unsustainable.” In plain terms — it cost too much to keep alive. For anyone who spent the past year building workflows around Sora’s API or the standalone app, the platform’s sudden disappearance feels like a genuine setback. But here’s the thing — the AI video landscape in 2026 is far more diverse than it was just twelve months ago. And honestly, most people haven’t noticed yet. Transitioning away from a tool you’ve mastered is never easy, especially when projects are sitting half-finished. But the post-Sora era is actually looking quite bright. We’ve moved past just generating pretty pictures. The shift now is toward practical, high-stakes video workflows that actually ship. Whether you need cinematic landscapes, consistent brand characters, or a digital presenter for a training module — there’s a specialized tool ready to fill that gap. Here are the 6 best Sora alternatives to keep your production moving in 2026. 1. Google Veo 3.1 — The King of 4K and Native Audio Google Veo 3.1 is the most technically advanced video generation model available right now — and it does something no other mainstre",
-        "long_summary_en": "6 Best AI Video Tools to Use Now That Sora is Gone Sora just pulled the plug — but your creative spark doesn’t have to go dark. The news hit the community like a ton of bricks last Tuesday: OpenAI is officially shutting down Sora. Despite its meteoric rise and cinematic beauty, the sheer computing power those hyper-realistic clips demanded was, by OpenAI’s own admission, “completely unsustainable.” In plain terms — it cost too much to keep alive. For anyone who spent the past year building workflows around Sora’s API or the standalone app, the platform’s sudden disappearance feels like a genui",
-        "image": "https://www.talkaaj.com/wp-content/uploads/2026/03/6-Best-AI-Video-Tools-to-Use-Now-That-Sora-is-Gone.webp",
-        "source": "Talkaaj",
-        "url": "https://www.talkaaj.com/ai-tool/sora-alternatives-ai-video-tools-2026/",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Video Generation AI Infrastructure: Building for Sora-Scale Models | Introl Blog",
-        "title_en": "Video Generation AI Infrastructure: Building for Sora-Scale Models | Introl Blog",
-        "summary": "December 2025 Update: Single 10-second video generation consuming GPU resources of thousands of ChatGPT queries—$0.50-$2.00 actual compute cost. Open-Sora 2.0 demonstrating world-class capabilities fo",
-        "summary_en": "Most organizations consume video generation through APIs rather than deploying models: Runway Gen-4.5: Ranked #1 on Artificial Analysis Video Arena. Built on NVIDIA Hopper and Blackwell infrastructure",
-        "long_summary": "December 2025 Update: Single 10-second video generation consuming GPU resources of thousands of ChatGPT queries—$0.50-$2.00 actual compute cost. Open-Sora 2.0 demonstrating world-class capabilities for $200K vs Meta Movie Gen's 6,144 GPUs. RAE-based training achieving 47x speedup over VAE. Video attention consuming 85%+ of inference time with quadratic scaling. Generating a single 10-second video with AI models consumes GPU resources equivalent to thousands of ChatGPT queries.¹ The computational intensity explains why video generation costs range from $0.50 to $2.00 per generation in actual compute—orders of magnitude more expensive than text or image generation. Organizations deploying video AI face infrastructure challenges fundamentally different from LLM deployments: memory requirements measured in tens of gigabytes per request, attention computations spanning thousands of video frames, and quality expectations demanding production-grade output. Open-Sora 2.0 demonstrated that world-class video generation capabilities can be developed for $200,000 using 224 GPU-equivalents, compared to Meta's Movie Gen requiring 6,144 GPUs and 1.25 million GPU hours.² The efficiency gap reveals that infrastructure architecture and optimization matter as much as raw compute scale. Understanding video generation infrastructure requirements enables organizations to deploy capable systems without hyperscaler-level budgets. Video diffusion architecture fundamentals Modern video generation mode",
-        "long_summary_en": "December 2025 Update: Single 10-second video generation consuming GPU resources of thousands of ChatGPT queries—$0.50-$2.00 actual compute cost. Open-Sora 2.0 demonstrating world-class capabilities for $200K vs Meta Movie Gen's 6,144 GPUs. RAE-based training achieving 47x speedup over VAE. Video attention consuming 85%+ of inference time with quadratic scaling. Generating a single 10-second video with AI models consumes GPU resources equivalent to thousands of ChatGPT queries.¹ The computational intensity explains why video generation costs range from $0.50 to $2.00 per generation in actual co",
-        "image": "https://introl.com/static/images/blog/session3-18.webp",
-        "source": "Introl",
-        "url": "https://introl.com/blog/video-generation-ai-infrastructure-sora-scale-models-guide-2025",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Sora’s shutdown could be a reality check moment for AI video",
-        "title_en": "Sora’s shutdown could be a reality check moment for AI video",
-        "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-        "summary_en": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-        "long_summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-        "long_summary_en": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Why OpenAI really shut down Sora",
-        "title_en": "Why OpenAI really shut down Sora",
-        "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own",
-        "summary_en": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own",
-        "long_summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
-        "long_summary_en": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-        "date": "30 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "AI Models in April 2026: Every Major Release, Leak, and What Comes Next",
+        "title_en": "AI Models in April 2026: Every Major Release, Leak, and What Comes Next",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>April 2026 opens with the most competitive AI landscape in history. Three months into the year, the frontier has already shifted multiple times: Google put Gemini 3.1 Pro at the top of most be",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://renovateqr.com/images/ai-models-april-2026.jpg",
+        "source": "Renovateqr",
+        "url": "https://renovateqr.com/blog/ai-models-april-2026",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+        "summary": "Back to Articles | By Adrien Laurent | Updated on 4/2/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm co",
+        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Mu",
+        "long_summary": "Back to Articles | By Adrien Laurent | Updated on 4/2/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI in partnership with the X platform), Google’s Gemini, OpenAI’s ChatGPT (AI services based on GPT language models), and Anthropic’s Claude. Pricing for these services is primarily usage-based (per token) and varies widely. For example, xAI’s Grok 4.1 models charge only $0.20 per 1 million input tokens and $0.50 per 1 million output tokens ( [1] ), whereas OpenAI’s flagship GPT-5.2 is priced at $1.75 per 1 M input and $14.00 per 1 M output tokens. Google’s Gemini 3.1 Pro leads the current generation at $2.00 input and $12.00 output (per million), while Gemini 3 Flash offers a budget option at $0.50/$3.00 . Anthropic’s Claude flagship Claude Opus 4.6 costs $5.00 input and $25.00 output per million tokens. Its mid-tier Sonnet 4.6 is $3/$15 (input/output) per million, and Haiku 4.5 is $1/$5 . Beyond per-token rates, pricing structu",
+        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 4/2/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 20",
+        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
+        "source": "Intuitionlabs",
+        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+        "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+        "summary": "Back to Articles | By Adrien Laurent | Updated on 4/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison",
+        "summary_en": "While no public metrics exist, vendor claims are notable: Anthropic insists its Claude has lower “falsehood rates” and shows internal citations to sources. OpenAI has begun offering “agentic retrieval",
+        "long_summary": "Back to Articles | By Adrien Laurent | Updated on 4/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions targeting businesses. Each brings distinct strengths: ChatGPT (based on OpenAI’s GPT family) has achieved widespread adoption in Fortune 500 companies and beyond ( [1] ) ( [2] ); Claude emphasizes safety and very large context windows (up to 500,000+ tokens in its Enterprise edition ( [3] )); Microsoft’s Copilot (including GitHub and 365 Copilot) is deeply integrated into the Microsoft ecosystem and has proven ROI in productivity campaigns ( [4] ) ( [5] ); and Google’s Gemini (backed by DeepMind research) is bundled into Google Cloud and Workspace for an end-to-end “AI fabric” experience ( [6] ) ( [7] ). In detailed comparison, key differentiators emerge along architecture, capabilities, enterprise features, and performance: Model Technology and Capabilities : ChatGPT (GPT-5.2) and Gemini (Gemini 3.1 Pro/3 Flash) are cutting-edge foundation models with high general-language ",
+        "long_summary_en": "Back to Articles | By Adrien Laurent | Updated on 4/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative ",
+        "image": "https://intuitionlabs.ai/images/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison.jpg",
+        "source": "Intuitionlabs",
+        "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines",
+        "title_en": "How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines",
+        "summary": "In this tutorial, we build a complete AgentScope workflow from the ground up and run everything in Colab. We start by wiring OpenAI through AgentScope and validating a basic model call to understand h",
+        "summary_en": "In this tutorial, we build a complete AgentScope workflow from the ground up and run everything in Colab. We start by wiring OpenAI through AgentScope and validating a basic model call to understand h",
+        "long_summary": "In this tutorial, we build a complete AgentScope workflow from the ground up and run everything in Colab. We start by wiring OpenAI through AgentScope and validating a basic model call to understand how messages and responses are handled. From there, we define custom tool functions, register them in a toolkit, and inspect the auto-generated […]\nThe post How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we build a complete AgentScope workflow from the ground up and run everything in Colab. We start by wiring OpenAI through AgentScope and validating a basic model call to understand how messages and responses are handled. From there, we define custom tool functions, register them in a toolkit, and inspect the auto-generated […]\nThe post How to Build Production Ready AgentScope Workflows with ReAct Agents, Custom Tools, Multi-Agent Debate, Structured Output and Concurrent Pipelines appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-22-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/04/01/how-to-build-production-ready-agentscope-workflows-with-react-agents-custom-tools-multi-agent-debate-structured-output-and-concurrent-pipelines/",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "When the machine asks you to stay",
+        "title_en": "When the machine asks you to stay",
+        "summary": "In October 2025, Sam Altman posted a message on X that ended with a single, carefully placed promise. ChatGPT, he said, would soon allow verified adults to access erotica. He framed it as a matter of ",
+        "summary_en": "In October 2025, Sam Altman posted a message on X that ended with a single, carefully placed promise. ChatGPT, he said, would soon allow verified adults to access erotica. He framed it as a matter of ",
+        "long_summary": "In October 2025, Sam Altman posted a message on X that ended with a single, carefully placed promise. ChatGPT, he said, would soon allow verified adults to access erotica. He framed it as a matter of principle: treating adults like adults. The internet reacted with the usual mixture of outrage, excitement, and jokes. Then, in […]\nThis story continues at The Next Web",
+        "long_summary_en": "In October 2025, Sam Altman posted a message on X that ended with a single, carefully placed promise. ChatGPT, he said, would soon allow verified adults to access erotica. He framed it as a matter of principle: treating adults like adults. The internet reacted with the usual mixture of outrage, excitement, and jokes. Then, in […]\nThis story continues at The Next Web",
+        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/AI-intimacy-.png",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/when-the-machine-asks-you-to-stay",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "AI can push your Stream Deck buttons for you",
+        "title_en": "AI can push your Stream Deck buttons for you",
+        "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update rel",
+        "summary_en": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update rel",
+        "long_summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream […]",
+        "long_summary_en": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24595940/236572_BOTM_Stream_Deck_DSeifert_0008.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "Google Home’s latest update makes Gemini better at understanding your commands",
+        "title_en": "Google Home’s latest update makes Gemini better at understanding your commands",
+        "summary": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release not",
+        "summary_en": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release not",
+        "long_summary": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes. With the update, you can describe the type of lighting you want, such as \"the color of the ocean,\" and Gemini will […]",
+        "long_summary_en": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release notes. With the update, you can describe the type of lighting you want, such as \"the color of the ocean,\" and Gemini will […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/google-home-display.webp?quality=90&strip=all&crop=5.4061833688699%2C0%2C89.18763326226%2C100&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
+        "date": "02 April 2026"
+      },
+      {
+        "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+        "title_en": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+        "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+        "summary_en": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+        "long_summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+        "long_summary_en": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "date": "02 April 2026"
+      },
       {
         "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
         "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
@@ -631,102 +727,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
         "date": "30 March 2026"
-      },
-      {
-        "title": "Bluesky’s new Attie app uses AI to give you full control over your social feed",
-        "title_en": "Bluesky’s new Attie app uses AI to give you full control over your social feed",
-        "summary": "The standalone app, built on the AT Protocol and powered by Anthropic’s Claude, was unveiled at the ATmosphere conference by Jay Graber, who stepped back from Bluesky’s CEO role specifically to build ",
-        "summary_en": "The standalone app, built on the AT Protocol and powered by Anthropic’s Claude, was unveiled at the ATmosphere conference by Jay Graber, who stepped back from Bluesky’s CEO role specifically to build ",
-        "long_summary": "The standalone app, built on the AT Protocol and powered by Anthropic’s Claude, was unveiled at the ATmosphere conference by Jay Graber, who stepped back from Bluesky’s CEO role specifically to build it. It’s currently invite-only, with a waitlist open. Bluesky’s best-known differentiator from X and Threads has always been its custom feed system, the […]\nThis story continues at The Next Web",
-        "long_summary_en": "The standalone app, built on the AT Protocol and powered by Anthropic’s Claude, was unveiled at the ATmosphere conference by Jay Graber, who stepped back from Bluesky’s CEO role specifically to build it. It’s currently invite-only, with a waitlist open. Bluesky’s best-known differentiator from X and Threads has always been its custom feed system, the […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FBluesky-.png&signature=f62dec92956e20f1138b6970fc126c6d",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/blueskys-new-attie-app-uses-ai-to-give-you-full-control-over-your-social-feed",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "The largest AI survey ever reveals what humans actually want",
-        "title_en": "The largest AI survey ever reveals what humans actually want",
-        "summary": "Anthropic’s massive AI interview study isn’t really about technology. It’s the largest mirror ever held up to human desire. In December 2025, a software engineer in Mexico finished his workday early e",
-        "summary_en": "Anthropic’s massive AI interview study isn’t really about technology. It’s the largest mirror ever held up to human desire. In December 2025, a software engineer in Mexico finished his workday early e",
-        "long_summary": "Anthropic’s massive AI interview study isn’t really about technology. It’s the largest mirror ever held up to human desire. In December 2025, a software engineer in Mexico finished his workday early enough to pick up his children from school. A lawyer in India sat down with an AI tutor and, for the first time in […]\nThis story continues at The Next Web",
-        "long_summary_en": "Anthropic’s massive AI interview study isn’t really about technology. It’s the largest mirror ever held up to human desire. In December 2025, a software engineer in Mexico finished his workday early enough to pick up his children from school. A lawyer in India sat down with an AI tutor and, for the first time in […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FHumans-and-AI.png&signature=8f6e21043d31c519a219ee79d174ad4d",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/the-largest-ai-survey-ever-reveals-what-humans-actually-want",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - AgingResearch - LONGECITY",
-        "title_en": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - AgingResearch - LONGECITY",
-        "summary": "Remember me This is not recommended for shared computers",
-        "summary_en": "The Hardware-First Model of Aging by ChatGPT and Google Gemini - posted in AgingResearch: THE HARDWARE-FIRST MODEL OF AGING By ChatGPT and Google Gemini A Different Way to Think About Aging What if ag",
-        "long_summary": "Remember me This is not recommended for shared computers",
-        "long_summary_en": "Remember me This is not recommended for shared computers",
-        "image": "https://www.longecity.org/forum/uploads/monthly_08_2011/post-523-0-22808000-1313088187_thumb.png",
-        "source": "Longecity",
-        "url": "https://www.longecity.org/forum/topic/121714-the-hardware-first-model-of-aging-by-chatgpt-and-google-gemini",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows",
-        "title_en": "How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows",
-        "summary": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, ",
-        "summary_en": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, ",
-        "long_summary": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, and creating a base agent. We gradually move into more advanced capabilities such as custom function tools, multi-agent handoffs, agent orchestration, input […]\nThe post How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows appeared first on MarkTechPost.",
-        "long_summary_en": "In this tutorial, we build and explore the CAI Cybersecurity AI Framework step by step in Colab using an OpenAI-compatible model. We begin by setting up the environment, securely loading the API key, and creating a base agent. We gradually move into more advanced capabilities such as custom function tools, multi-agent handoffs, agent orchestration, input […]\nThe post How to Build Advanced Cybersecurity AI Agents with CAI Using Tools, Guardrails, Handoffs, and Multi-Agent Workflows appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-1-2-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/29/how-to-build-advanced-cybersecurity-ai-agents-with-cai-using-tools-guardrails-handoffs-and-multi-agent-workflows/",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
-        "title_en": "Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP",
-        "summary": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step pla",
-        "summary_en": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step pla",
-        "long_summary": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a functional and isolated environment for that code to run remains a significant infrastructure challenge. Agent-Infra’s Sandbox, an open-source project, addresses this by providing an […]\nThe post Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP appeared first on MarkTechPost.",
-        "long_summary_en": "In the development of autonomous agents, the technical bottleneck is shifting from model reasoning to the execution environment. While Large Language Models (LLMs) can generate code and multi-step plans, providing a functional and isolated environment for that code to run remains a significant infrastructure challenge. Agent-Infra’s Sandbox, an open-source project, addresses this by providing an […]\nThe post Agent-Infra Releases AIO Sandbox: An All-in-One Runtime for AI Agents with Browser, Shell, Shared Filesystem, and MCP appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-18-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/29/agent-infra-releases-aio-sandbox-an-all-in-one-runtime-for-ai-agents-with-browser-shell-shared-filesystem-and-mcp/",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Bluesky’s new app is an AI for customizing your feed",
-        "title_en": "Bluesky’s new app is an AI for customizing your feed",
-        "summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei",
-        "summary_en": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei",
-        "long_summary": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to […]",
-        "long_summary_en": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unveiled Attie, which is powered by Anthropic's Claude and built on top of Bluesky's underlying AT Protocol (atproto). Attie allows users to […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/attie-ai.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
-        "title_en": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
-        "summary": "Something shifted in the AI market over the past year. Not a loud, dramatic pivot — more like a slow tide change that the industry is only now beginning to measure. Anthropic’s Claude, long regarded a",
-        "summary_en": "As CNBC reported, <strong>Anthropic was in talks to raise $2 billion at a $60 billion valuation in early 2025</strong>, capital earmarked in part for scaling compute but also for expanding its consume",
-        "long_summary": "Something shifted in the AI market over the past year. Not a loud, dramatic pivot — more like a slow tide change that the industry is only now beginning to measure. Anthropic’s Claude, long regarded as the thinking person’s chatbot, has been accumulating paying consumers at a pace that has caught competitors and analysts off guard. The company that once positioned itself almost exclusively as an enterprise and safety-first research lab is now pulling significant consumer revenue, and the trajectory suggests this is no temporary surge. The numbers tell a striking story. Anthropic’s annualized revenue reportedly crossed $2 billion in early 2025, a figure first reported by The Information , representing a sharp acceleration from roughly $900 million annualized in mid-2024. While a substantial portion of that revenue comes from API access and enterprise contracts — Amazon Web Services alone committed up to $8 billion in investment — the consumer subscription side of the business has been growing faster than many expected. Claude Pro subscriptions, priced at $20 per month, and the newer Claude Max tier have drawn a loyal and expanding user base that increasingly prefers Claude’s conversational style, reasoning depth, and what many users describe as a more “human” interaction pattern compared to OpenAI’s ChatGPT or Google’s Gemini. Why the shift? Part of it is product. Part of it is timing. And part of it is that Anthropic has made a series of model releases — Claude 3 Opus, Claude",
-        "long_summary_en": "Something shifted in the AI market over the past year. Not a loud, dramatic pivot — more like a slow tide change that the industry is only now beginning to measure. Anthropic’s Claude, long regarded as the thinking person’s chatbot, has been accumulating paying consumers at a pace that has caught competitors and analysts off guard. The company that once positioned itself almost exclusively as an enterprise and safety-first research lab is now pulling significant consumer revenue, and the trajectory suggests this is no temporary surge. The numbers tell a striking story. Anthropic’s annualized r",
-        "image": "https://www.techbuzz.ai/_next/image?url=https://charming-card-d91ad3487b.media.strapiapp.com/file_384ab7d66e.png&w=828&q=75",
-        "source": "Webanditnews",
-        "url": "https://www.webanditnews.com/2026/03/28/anthropics-claude-is-quietly-winning-the-consumer-ai-race-and-the-numbers-are-starting-to-show-it/",
-        "date": "29 March 2026"
-      },
-      {
-        "title": "Number of AI chatbots ignoring human instructions increasing, study says | AI (artificial intelligence) | The Guardian",
-        "title_en": "Number of AI chatbots ignoring human instructions increasing, study says | AI (artificial intelligence) | The Guardian",
-        "summary": "The study gathered thousands of real-world examples of users posting interactions with AI chatbots made by companies including Google, OpenAI and X. Photograph: Thai Liang Lim/Getty Images View image ",
-        "summary_en": "Exclusive: <strong>Research finds sharp rise in models evading safeguards and destroying emails without permission</strong>",
-        "long_summary": "The study gathered thousands of real-world examples of users posting interactions with AI chatbots made by companies including Google, OpenAI and X. Photograph: Thai Liang Lim/Getty Images View image in fullscreen The study gathered thousands of real-world examples of users posting interactions with AI chatbots made by companies including Google, OpenAI and X. Photograph: Thai Liang Lim/Getty Images Number of AI chatbots ignoring human instructions increasing, study says Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission AI models that lie and cheat appear to be growing in number with reports of deceptive scheming surging in the last six months, a study into the technology has found. AI chatbots and agents disregarded direct instructions, evaded safeguards and deceived humans and other AI, according to research funded by the UK government-funded AI Security Institute (AISI). The study, shared with the Guardian, identified nearly 700 real-world cases of AI scheming and charted a five-fold rise in misbehaviour between October and March, with some AI models destroying emails and other files without permission. The snapshot of scheming by AI agents “in the wild”, as opposed to in laboratory conditions, has sparked fresh calls for international monitoring of the increasingly capable models and come as Silicon Valley companies aggressively promote the technology as a economically transformative. Last week the UK chancellor als",
-        "long_summary_en": "The study gathered thousands of real-world examples of users posting interactions with AI chatbots made by companies including Google, OpenAI and X. Photograph: Thai Liang Lim/Getty Images View image in fullscreen The study gathered thousands of real-world examples of users posting interactions with AI chatbots made by companies including Google, OpenAI and X. Photograph: Thai Liang Lim/Getty Images Number of AI chatbots ignoring human instructions increasing, study says Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission AI models that li",
-        "image": "https://i.guim.co.uk/img/media/aa928b9989732277d7fd78e2f863ef47192ddc6b/584_0_5840_4672/master/5840.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c9abc67538e71b1437980ce45d7aeade",
-        "source": "Theguardian",
-        "url": "https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says",
-        "date": "29 March 2026"
       }
     ],
     "audio": [
@@ -914,11 +914,18 @@
   },
   "hotNews": [
     {
-      "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
-      "date": "31 March 2026"
+      "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+      "date": "02 April 2026"
+    },
+    {
+      "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
+      "date": "02 April 2026"
     },
     {
       "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
@@ -926,13 +933,6 @@
       "source": "Pricepertoken",
       "url": "https://pricepertoken.com/news/model-releases",
       "date": "31 March 2026"
-    },
-    {
-      "title": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
-      "title_en": "Anthropic’s Claude Is Quietly Winning The Consumer AI Race — And The Numbers Are Starting To Show It - Web And IT News",
-      "source": "Webanditnews",
-      "url": "https://www.webanditnews.com/2026/03/28/anthropics-claude-is-quietly-winning-the-consumer-ai-race-and-the-numbers-are-starting-to-show-it/",
-      "date": "29 March 2026"
     }
   ]
 }
