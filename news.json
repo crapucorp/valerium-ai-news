@@ -1,7 +1,67 @@
 {
-  "lastUpdate": "02 April 2026 - 18:32",
+  "lastUpdate": "03 April 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
+        "title_en": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
+        "summary": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like O",
+        "summary_en": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like O",
+        "long_summary": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive “token tax” for every action. The landscape of modern AI is shifting rapidly. We are moving away from […]\nThe post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark appeared first on MarkTechPost.",
+        "long_summary_en": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive “token tax” for every action. The landscape of modern AI is shifting rapidly. We are moving away from […]\nThe post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/NVIDIA-MOBILE-819x1024.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use",
+        "title_en": "Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use",
+        "summary": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have domina",
+        "summary_en": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have domina",
+        "long_summary": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have dominated the conversation, Arcee AI has released Trinity Large Thinking. This release is an open-weight reasoning model distributed under the Apache 2.0 license, positioning it as a transparent alternative for developers […]\nThe post Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use appeared first on MarkTechPost.",
+        "long_summary_en": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have dominated the conversation, Arcee AI has released Trinity Large Thinking. This release is an open-weight reasoning model distributed under the Apache 2.0 license, positioning it as a transparent alternative for developers […]\nThe post Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-25-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
+        "title_en": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
+        "summary": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environ",
+        "summary_en": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environ",
+        "long_summary": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply […]\nThe post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply […]\nThe post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-2-1-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts",
+        "title_en": "TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts",
+        "summary": "In the current landscape of computer vision, the standard operating procedure involves a modular ‘Lego-brick’ approach: a pre-trained vision encoder for feature extraction paired with a separate decod",
+        "summary_en": "In the current landscape of computer vision, the standard operating procedure involves a modular ‘Lego-brick’ approach: a pre-trained vision encoder for feature extraction paired with a separate decod",
+        "long_summary": "In the current landscape of computer vision, the standard operating procedure involves a modular ‘Lego-brick’ approach: a pre-trained vision encoder for feature extraction paired with a separate decoder for task prediction. While effective, this architectural separation complicates scaling and bottlenecks the interaction between language and vision. The Technology Innovation Institute (TII) research team is challenging […]\nThe post TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts appeared firs",
+        "long_summary_en": "In the current landscape of computer vision, the standard operating procedure involves a modular ‘Lego-brick’ approach: a pre-trained vision encoder for feature extraction paired with a separate decoder for task prediction. While effective, this architectural separation complicates scaling and bottlenecks the interaction between language and vision. The Technology Innovation Institute (TII) research team is challenging […]\nThe post TII Releases Falcon Perception: A 0.6B-Parameter Early-Fusion Transformer for Open-Vocabulary Grounding and Segmentation from Natural Language Prompts appeared firs",
+        "image": "https://arxiv.org/html/2603.27365v1/figures/factor_grid.jpg",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/04/03/tii-releases-falcon-perception-a-0-6b-parameter-early-fusion-transformer-for-open-vocabulary-grounding-and-segmentation-from-natural-language-prompts/",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "PSA: Anyone with a link can view your Granola notes by default",
+        "title_en": "PSA: Anyone with a link can view your Granola notes by default",
+        "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with ",
+        "summary_en": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with ",
+        "long_summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as an \"AI notepad for people […]",
+        "long_summary_en": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out. Granola describes itself as an \"AI notepad for people […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/granola-logo.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+        "date": "03 April 2026"
+      },
       {
         "title": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
         "title_en": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
@@ -121,69 +181,21 @@
         "source": "Reuters",
         "url": "https://www.reuters.com/technology/artificial-intelligence/",
         "date": "31 March 2026"
-      },
-      {
-        "title": "How AI’s capital explosion signals opportunity but also reveals a critical need for measurable ROI and meaningful impact",
-        "title_en": "How AI’s capital explosion signals opportunity but also reveals a critical need for measurable ROI and meaningful impact",
-        "summary": "The current wave of investment in artificial intelligence reflects one of the largest capital shifts in modern technology, yet questions around financial return remain central to how this growth is be",
-        "summary_en": "The current wave of investment in artificial intelligence reflects one of the largest capital shifts in modern technology, yet questions around financial return remain central to how this growth is be",
-        "long_summary": "The current wave of investment in artificial intelligence reflects one of the largest capital shifts in modern technology, yet questions around financial return remain central to how this growth is being interpreted. According to a report, global venture capital investment in AI firms reached over $258 billion in 2025, accounting for 61% of all global […]\nThis story continues at The Next Web",
-        "long_summary_en": "The current wave of investment in artificial intelligence reflects one of the largest capital shifts in modern technology, yet questions around financial return remain central to how this growth is being interpreted. According to a report, global venture capital investment in AI firms reached over $258 billion in 2025, accounting for 61% of all global […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FTNW-Article-Banner-44.png&signature=44a59ea314357b123342ab6e86de54a8",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/how-ais-capital-explosion-signals-opportunity-but-also-reveals-a-critical-need-for-measurable-roi-and-meaningful-impact",
-        "date": "31 March 2026"
-      },
-      {
-        "title": "Starcloud raises $170M at a $1.1B valuation to build data centres in orbit",
-        "title_en": "Starcloud raises $170M at a $1.1B valuation to build data centres in orbit",
-        "summary": "The Redmond, Washington startup, which already has an Nvidia H100 GPU operating in orbit and has trained the first AI model in space, is now building a Starship-class spacecraft designed to be the fir",
-        "summary_en": "The Redmond, Washington startup, which already has an Nvidia H100 GPU operating in orbit and has trained the first AI model in space, is now building a Starship-class spacecraft designed to be the fir",
-        "long_summary": "The Redmond, Washington startup, which already has an Nvidia H100 GPU operating in orbit and has trained the first AI model in space, is now building a Starship-class spacecraft designed to be the first orbital data centre cost-competitive with terrestrial facilities. Starcloud has raised $170 million in a Series A round led by Benchmark and […]\nThis story continues at The Next Web",
-        "long_summary_en": "The Redmond, Washington startup, which already has an Nvidia H100 GPU operating in orbit and has trained the first AI model in space, is now building a Starship-class spacecraft designed to be the first orbital data centre cost-competitive with terrestrial facilities. Starcloud has raised $170 million in a Series A round led by Benchmark and […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FStarcloud.png&signature=3fe21c41a102d62744167456f849bb5a",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/starcloud-170m-series",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Okta&#8217;s CEO is betting big on AI agent identity",
-        "title_en": "Okta&#8217;s CEO is betting big on AI agent identity",
-        "summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of",
-        "summary_en": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of",
-        "long_summary": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta […]",
-        "long_summary_en": "Today, I’m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of it like login management — actually, that’s a great way to think about it because the way most people encounter Okta […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DCD_McKinnon_Okta.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-        "title_en": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-        "summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-        "summary_en": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-        "long_summary": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-        "long_summary_en": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
-        "title_en": "Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction",
-        "summary": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual h",
-        "summary_en": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual h",
-        "long_summary": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual harness engineering’ that currently defines agent development with a systematic, automated evolution process. The project is being described as a potential ‘PyTorch moment’ for agentic AI. […]\nThe post Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction appeared first on MarkTechPost.",
-        "long_summary_en": "A team of researchers associated with Amazon has released A-Evolve, a universal infrastructure designed to automate the development of autonomous AI agents. The framework aims to replace the ‘manual harness engineering’ that currently defines agent development with a systematic, automated evolution process. The project is being described as a potential ‘PyTorch moment’ for agentic AI. […]\nThe post Meet A-Evolve: The PyTorch Moment For Agentic AI Systems Replacing Manual Tuning With Automated State Mutation And Self-Correction appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-1-2-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/29/meet-a-evolve-the-pytorch-moment-for-agentic-ai-systems-replacing-manual-tuning-with-automated-state-mutation-and-self-correction/",
-        "date": "30 March 2026"
       }
     ],
     "image": [
+      {
+        "title": "Microsoft takes on AI rivals with three new foundational models",
+        "title_en": "Microsoft takes on AI rivals with three new foundational models",
+        "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+        "summary_en": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+        "long_summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+        "long_summary_en": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+        "date": "03 April 2026"
+      },
       {
         "title": "ChatGPT: The Complete Guide to Features, Pricing, Tips & More [2026]",
         "title_en": "ChatGPT: The Complete Guide to Features, Pricing, Tips & More [2026]",
@@ -351,21 +363,45 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/eu-lawmakers-deal-to-ban-ai-non-consensual-intimate-deepfakes",
         "date": "12 March 2026"
-      },
-      {
-        "title": "Nano Banana 2 : Google améliore-t-il vraiment ses modèles d'IA générative ?",
-        "title_en": "Nano Banana 2: How Much of an Improvement Is Google's New AI Image Model?",
-        "summary": "Comparaison des performances entre Nano Banana, Nano Banana Pro et Nano Banana 2. Quels progrès pour Google ?",
-        "summary_en": "I edited photos with the original Nano Banana, the pro model and now Nano Banana 2. Here's how they stack up.",
-        "long_summary": "Google lance Nano Banana 2, une nouvelle version de son modèle d'IA générative. Un journaliste spécialisé a testé les trois versions pour évaluer les progrès.\n\nPoints clés :\n• Nano Banana 2 offre une meilleure qualité d'image et des détails plus précis\n• Comparaison des performances avec les versions précédentes\n• Implications pour la concurrence dans l'IA générative\n\nConclusion sur les implications : Google renforce sa position dans l'IA générative avec des améliorations significatives, mais la course aux modèles reste ouverte.",
-        "long_summary_en": "I edited photos with the original Nano Banana, the pro model and now Nano Banana 2. Here's how they stack up.",
-        "image": "https://www.cnet.com/a/img/resize/e50d1c601b1537ae286cf023845993bf61279944/hub/2025/11/21/641bea71-528a-4863-a89b-01511fc294b5/nano-banana-vt.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "cnet_ai",
-        "url": "https://www.cnet.com/tech/services-and-software/nano-banana-2-how-much-of-an-improvement-is-googles-new-ai-image-model/",
-        "date": "11 March 2026"
       }
     ],
     "video": [
+      {
+        "title": "OpenAI gave Sora users 28 days to save their videos or lose them forever",
+        "title_en": "OpenAI gave Sora users 28 days to save their videos or lose them forever",
+        "summary": "Contents Sora died faster than any major AI product—and the timeline tells you why Video generation at scale is currently impossible to monetize Even Disney couldn’t justify the cost—and that’s the re",
+        "summary_en": "Contents <strong>Sora died faster than any major AI product</strong>—and the timeline tells you why Video generation at scale is currently impossible to monetize Even Disney couldn’t justify the cost—",
+        "long_summary": "Contents Sora died faster than any major AI product—and the timeline tells you why Video generation at scale is currently impossible to monetize Even Disney couldn’t justify the cost—and that’s the real warning OpenAI just gave Sora users 28 days to save their work or lose it forever. The company announced March 28 that its video generation app and web interface will shut down April 26, 2026, with API access following on September 24. Users who don’t export their videos by those deadlines will lose them permanently—no grace period, no refunds, no exceptions. The real deadline? The moment video generation stopped being a demo and became a business OpenAI couldn’t afford to run. This isn’t a story about one product dying. It’s proof that compute-intensive consumer AI was always unsustainable, and the industry’s “wow factor” era just ended. Sora died faster than any major AI product—and the timeline tells you why Six months. That’s how long Sora lasted from launch to shutdown announcement—September 2025 to March 29, 2026 , according to TechCrunch . ChatGPT is still growing after three years. DALL-E survived its hype cycle. Sora couldn’t make it past Halloween. The two-stage shutdown reveals who OpenAI actually prioritizes. Consumer users get kicked off April 26. Enterprise API customers—the ones paying real money—get five extra months until September 24. That’s not a graceful wind-down. That’s triage. OpenAI’s pivot mirrors the broader shift toward enterprise AI agent strategies",
+        "long_summary_en": "Contents Sora died faster than any major AI product—and the timeline tells you why Video generation at scale is currently impossible to monetize Even Disney couldn’t justify the cost—and that’s the real warning OpenAI just gave Sora users 28 days to save their work or lose it forever. The company announced March 28 that its video generation app and web interface will shut down April 26, 2026, with API access following on September 24. Users who don’t export their videos by those deadlines will lose them permanently—no grace period, no refunds, no exceptions. The real deadline? The moment video",
+        "image": "https://ucstrategies.com/news/wp-content/uploads/2026/03/2026-04-01-03-35-04_.jpg",
+        "source": "Ucstrategies",
+        "url": "https://ucstrategies.com/news/openai-gave-sora-users-28-days-to-save-their-videos-or-lose-them-forever/",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "Altman Reveals Why Sora Is Coming To An End - Dataconomy",
+        "title_en": "Altman Reveals Why Sora Is Coming To An End - Dataconomy",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "Subscribe Now · In the interview, Altman highlighted that <strong>Sora was losing users due to high operational costs, burning through approximately $1 million per day while its user base plummeted fr",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://preview.redd.it/sam-altman-reveals-whats-next-for-ai-v0-9bufswjp3btc1.png?width=640&crop=smart&auto=webp&s=1e8251e1312a313f1dd49a8ad3a1b7c557ee16f0",
+        "source": "Dataconomy",
+        "url": "https://dataconomy.com/2026/04/02/altman-reveals-why-sora-is-coming-to-an-end/",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "OpenAI: Ending its AI video feature, Sora | The Week",
+        "title_en": "OpenAI: Ending its AI video feature, Sora | The Week",
+        "summary": "OpenAI Chief Executive Sam Altman (Image credit: Florian Gaertner / Photothek / Getty Images) Share Copy link Facebook X Linkedin Whatsapp Pinterest Share this article Join the conversation Follow us ",
+        "summary_en": "... An account already exists for this email address, please log in. ... <strong>OpenAI abruptly shut down its AI video generator this week only six months after its launch sent Hollywood scrambling</",
+        "long_summary": "OpenAI Chief Executive Sam Altman (Image credit: Florian Gaertner / Photothek / Getty Images) Share Copy link Facebook X Linkedin Whatsapp Pinterest Share this article Join the conversation Follow us Add us as a preferred source on Google Newsletter Sign up for Today's Best Articles in your inbox A free daily email with the biggest news stories of the day – and the best features from TheWeek.com Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over. You are now subscribed Your newsletter sign-up was successful An account already exists for this email address, please log in. Subscribe to our newsletter OpenAI abruptly shut down its AI video generator this week only six months after its launch sent Hollywood scrambling, said Rachel Metz in Bloomberg . Sora, which could produce “realistic-looking AI videos” from a text prompt, was packaged in a TikTok-style consumer app that let users share and comment on posts. The ChatGPT maker and Disney “are also winding down their partnership, which had centered on Sora,” Metz said. Disney previously agreed to take a $1 billion stake in the startup and license 200 iconic characters to Sora in what some entertainment executives considered a watershed deal. In a note to staff, OpenAI chief executive Sam Altman said the company “is focusing its efforts on AI agents ",
+        "long_summary_en": "OpenAI Chief Executive Sam Altman (Image credit: Florian Gaertner / Photothek / Getty Images) Share Copy link Facebook X Linkedin Whatsapp Pinterest Share this article Join the conversation Follow us Add us as a preferred source on Google Newsletter Sign up for Today's Best Articles in your inbox A free daily email with the biggest news stories of the day – and the best features from TheWeek.com Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors By submitting your information you agree to the Terms & Conditions and Priva",
+        "image": "https://cdn.mos.cms.futurecdn.net/i6UQZqyZ3Peybp62cuYshd-2000-80.jpg",
+        "source": "Theweek",
+        "url": "https://theweek.com/business/openai-ending-ai-video-sora",
+        "date": "03 April 2026"
+      },
       {
         "title": "The AI video apps gaining ground after OpenAI declared Sora dead | The Star",
         "title_en": "The AI video apps gaining ground after OpenAI declared Sora dead | The Star",
@@ -509,45 +545,81 @@
         "source": "Mashable",
         "url": "https://mashable.com/article/openai-sora-shut-down-when-happens-alternatives",
         "date": "30 March 2026"
-      },
-      {
-        "title": "OpenAI abandonne ses « quêtes secondaires » pour faire face à Anthropic",
-        "title_en": "OpenAI abandonne ses « quêtes secondaires » pour faire face à Anthropic",
-        "summary": "Sommaire Sora, la « side quest » de trop Trois signaux d’alarme successifs pour OpenAI OpenAI, du statut de locomotive à celui de poursuivant OpenAI traverse une semaine de ruptures. Entre la fermetur",
-        "summary_en": "Entre la fermeture de Sora, le retrait d’Instant Checkout et la mise en pause de plusieurs projets annexes, la maison mère de ChatGPT fait le ménage dans ses « quêtes secondaires », selon la formule e",
-        "long_summary": "Sommaire Sora, la « side quest » de trop Trois signaux d’alarme successifs pour OpenAI OpenAI, du statut de locomotive à celui de poursuivant OpenAI traverse une semaine de ruptures. Entre la fermeture de Sora, le retrait d’Instant Checkout et la mise en pause de plusieurs projets annexes, la maison mère de ChatGPT fait le ménage dans ses « quêtes secondaires » , selon la formule employée par Fidji Simo, CEO des applications chez OpenAI. Derrière ce virage, une concurrence qui s’est considérablement durcie, avec la montée en puissance d’Anthropic et les progrès de Gemini. Pour décrypter ce tournant, nous avons interrogé Jérôme Marin, journaliste et fondateur de la newsletter Cafétech . Sora, la « side quest » de trop L’appli grand public, un gouffre sans bénéfice économique L’abandon de Sora s’inscrit dans le contexte décrit par Fidji Simo lors d’un meeting mi-mars, au cours duquel elle estimait qu’OpenAI faisait « tout en même temps » , au détriment de ses produits principaux. L’application mobile de génération de vidéos, lancée à l’automne 2025, avait connu un succès initial fulgurant avant de voir l’intérêt retomber. « Ça a été un succès retentissant au début, avec un fort effet de mode. Et c’est typiquement l’époque où on était dans le « on fait tout » chez OpenAI » , retrace Jérôme Marin. Le journaliste replace cette stratégie dans son contexte d’origine : « La stratégie suivait ce sentiment de toute-puissance, au point qu’on puisse se permettre de tout faire en même tem",
-        "long_summary_en": "Sommaire Sora, la « side quest » de trop Trois signaux d’alarme successifs pour OpenAI OpenAI, du statut de locomotive à celui de poursuivant OpenAI traverse une semaine de ruptures. Entre la fermeture de Sora, le retrait d’Instant Checkout et la mise en pause de plusieurs projets annexes, la maison mère de ChatGPT fait le ménage dans ses « quêtes secondaires » , selon la formule employée par Fidji Simo, CEO des applications chez OpenAI. Derrière ce virage, une concurrence qui s’est considérablement durcie, avec la montée en puissance d’Anthropic et les progrès de Gemini. Pour décrypter ce tou",
-        "image": "https://f.hellowork.com/blogdumoderateur/2026/03/openai-menage-strategie-quetes-secondaire-anthropic-1200x628.jpeg",
-        "source": "Blogdumoderateur",
-        "url": "https://www.blogdumoderateur.com/openai-abandonne-quetes-secondaires-faire-face-anthropic/",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Sora’s shutdown could be a reality check moment for AI video",
-        "title_en": "Sora’s shutdown could be a reality check moment for AI video",
-        "summary": "Sora’s shutdown could be a reality check moment for AI video Anthony Ha Sun, March 29, 2026 at 6:30 PM GMT+2 5 min read The Sora app logo appears on a smartphone screen with an abstract illustration i",
-        "summary_en": "OpenAI&#x27;s top-ranked video creation and sharing app is <strong>controversial for its ability to create fake news and its disregard for copyright laws in Creteil, France, on October 9, 2025</strong",
-        "long_summary": "Sora’s shutdown could be a reality check moment for AI video Anthony Ha Sun, March 29, 2026 at 6:30 PM GMT+2 5 min read The Sora app logo appears on a smartphone screen with an abstract illustration in blue and purple colors in the background. OpenAI's top-ranked video creation and sharing app is controversial for its ability to create fake news and its disregard for copyright laws in Creteil, France, on October 9, 2025. (Photo by Samuel Boivin/NurPhoto via Getty Images) | Image Credits:Samuel Boivin / NurPhoto / Getty Images OpenAI announced this week that it’s shutting down its Sora app and related video models just six months after launching the app. On the latest episode of TechCrunch’s Equity podcast , Kirsten Korosec, Sean O’Kane, and I debated what the decision means for OpenAI and for the industry more broadly. To some extent, the move seems consistent with what we’ve been hearing about OpenAI as it focuses on enterprise and productivity tools ahead of a possible IPO. In fact, Kirsten suggested that OpenAI’s decision to shutter Sora was “a sign of maturity that was nice to see in an AI lab.” But Sora’s shutdown — along with ByteDance’s reported delay in launching its Seedance 2.0 video model worldwide — could also be a reality check moment for the makers of AI video tools, and for evangelists who claim these tools will be replacing Hollywood anytime soon. Read a preview of our conversation, edited for length and clarity, below. Anthony: I think it’s worth highlighting",
-        "long_summary_en": "Sora’s shutdown could be a reality check moment for AI video Anthony Ha Sun, March 29, 2026 at 6:30 PM GMT+2 5 min read The Sora app logo appears on a smartphone screen with an abstract illustration in blue and purple colors in the background. OpenAI's top-ranked video creation and sharing app is controversial for its ability to create fake news and its disregard for copyright laws in Creteil, France, on October 9, 2025. (Photo by Samuel Boivin/NurPhoto via Getty Images) | Image Credits:Samuel Boivin / NurPhoto / Getty Images OpenAI announced this week that it’s shutting down its Sora app and ",
-        "image": "https://s.yimg.com/ny/api/res/1.2/KBQGudKhKTUhj7IlcIGvZw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/techcrunch_finance_785/74b343fdb6417e4d0bafca37e6163b1f",
-        "source": "Finance",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/sora-shutdown-could-reality-check-163000795.html",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Sora’s shutdown signals a shift in how AI video will shape marketing",
-        "title_en": "Sora’s shutdown signals a shift in how AI video will shape marketing",
-        "summary": "Experts Speak Latest Stories Sora’s shutdown signals a shift in how AI video will shape marketing As OpenAI pulls the plug on Sora, leaders weigh in on the trajectory of AI video, its role in advertis",
-        "summary_en": "Platforms like Runway had begun experimenting with AI-generated clips. But when <strong>OpenAI introduced Sora on February 16, 2024</strong>, the scale and quality of what it demonstrated shifted the ",
-        "long_summary": "Experts Speak Latest Stories Sora’s shutdown signals a shift in how AI video will shape marketing As OpenAI pulls the plug on Sora, leaders weigh in on the trajectory of AI video, its role in advertising workflows and the growing concerns around deepfakes and IP. Shamita Islur 30 Mar 2026 09:00 IST Follow Us New Update Let’s go back to February 2024. At the time, text-to-image models were dominating the AI conversation. Tools such as Midjourney and DALL·E were flooding social media with surreal imagery created from a few lines of text. Video generation tools already existed. Platforms like Runway had begun experimenting with AI-generated clips. But when OpenAI introduced Sora on February 16, 2024, the scale and quality of what it demonstrated shifted the conversation. Sora could generate short cinematic videos from simple prompts. Complex camera movements, realistic lighting, layered scenes and characters could appear from a few sentences typed into a prompt box. Within hours of its announcement, the internet began testing the limits of what the model could produce. Users were encouraged to submit prompts and watch them turn into moving images. The results ranged from imaginative to bizarre. A bicycle race across the ocean featuring animals as athletes. Two dogs hosting a podcast on top of a mountain. A grandmother reinvented as a social media influencer teaching viewers how to cook homemade gnocchi. Woolly mammoths roaming snow-covered mountains. https://t.co/qbj02M4ng8 pic.",
-        "long_summary_en": "Experts Speak Latest Stories Sora’s shutdown signals a shift in how AI video will shape marketing As OpenAI pulls the plug on Sora, leaders weigh in on the trajectory of AI video, its role in advertising workflows and the growing concerns around deepfakes and IP. Shamita Islur 30 Mar 2026 09:00 IST Follow Us New Update Let’s go back to February 2024. At the time, text-to-image models were dominating the AI conversation. Tools such as Midjourney and DALL·E were flooding social media with surreal imagery created from a few lines of text. Video generation tools already existed. Platforms like Run",
-        "image": "https://img-cdn.publive.online/fit-in/1200x675/socialsamosa/media/media_files/2026/03/27/sora-shutdown-2026-03-27-18-08-16.jpg",
-        "source": "Socialsamosa",
-        "url": "https://www.socialsamosa.com/experts-speak/soras-shutdown-signals-shift-ai-video-will-shape-marketing-11390491",
-        "date": "30 March 2026"
       }
     ],
     "llm": [
+      {
+        "title": "OpenAI Share Demand Drops on Secondary Market as Anthropic Gets Investors - Bloomberg",
+        "title_en": "OpenAI Share Demand Drops on Secondary Market as Anthropic Gets Investors - Bloomberg",
+        "summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure",
+        "summary_en": "OpenAI shares have fallen out of favor on the secondary market — in some cases becoming almost impossible to unload — as investors pivot quickly to Anthropic, its biggest competitor.",
+        "long_summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:40dd7839-2f48-11f1-a1ee-052771de796b Get the most important global markets news at your fingertips with a Bloomberg.com subscription. SUBSCRIBE NOW",
+        "long_summary_en": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:40dd7839-2f48-11f1-a1ee-052771de796b Get the most important global markets news at your fing",
+        "image": "https://i-invdn-com.investing.com/news/indicatornews_1_800x533_L_1413124982.jpg",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "Artificial Intelligence | The Verge",
+        "title_en": "Artificial Intelligence | The Verge",
+        "summary": "Skip to main content",
+        "summary_en": "Anthropic’s apparent security lapse yielded details of its next model release.",
+        "long_summary": "Skip to main content",
+        "long_summary_en": "Skip to main content",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/granola-logo.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "Theverge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "Google launches Gemma 4: four open-weight models from smartphones to workstations",
+        "title_en": "Google launches Gemma 4: four open-weight models from smartphones to workstations",
+        "summary": "Built from the same research as Gemini 3, the new family spans a 2B edge model that runs on a Raspberry Pi to a 31B dense model currently ranked third on the Arena AI open-model leaderboard. The Apach",
+        "summary_en": "Built from the same research as Gemini 3, the new family spans a 2B edge model that runs on a Raspberry Pi to a 31B dense model currently ranked third on the Arena AI open-model leaderboard. The Apach",
+        "long_summary": "Built from the same research as Gemini 3, the new family spans a 2B edge model that runs on a Raspberry Pi to a 31B dense model currently ranked third on the Arena AI open-model leaderboard. The Apache 2.0 licence is a significant shift from previous Gemma releases. Google has released Gemma 4, the latest […]\nThis story continues at The Next Web",
+        "long_summary_en": "Built from the same research as Gemini 3, the new family spans a 2B edge model that runs on a Raspberry Pi to a 31B dense model currently ranked third on the Arena AI open-model leaderboard. The Apache 2.0 licence is a significant shift from previous Gemma releases. Google has released Gemma 4, the latest […]\nThis story continues at The Next Web",
+        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/Gemma-4.png",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/google-gemma-4-open-models-apache-2-launch",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "OpenAI buys TBPN, Silicon Valley’s favourite tech talk show, in its first media acquisition",
+        "title_en": "OpenAI buys TBPN, Silicon Valley’s favourite tech talk show, in its first media acquisition",
+        "summary": "The daily live show, hosted by former founders John Coogan and Jordi Hays, will sit inside OpenAI’s strategy organisation and report to chief global affairs officer Chris Lehane. Terms were not disclo",
+        "summary_en": "The daily live show, hosted by former founders John Coogan and Jordi Hays, will sit inside OpenAI’s strategy organisation and report to chief global affairs officer Chris Lehane. Terms were not disclo",
+        "long_summary": "The daily live show, hosted by former founders John Coogan and Jordi Hays, will sit inside OpenAI’s strategy organisation and report to chief global affairs officer Chris Lehane. Terms were not disclosed. OpenAI says TBPN will keep its editorial independence. OpenAI has acquired TBPN, the Technology Business Programming Network, the Silicon Valley talk show that […]\nThis story continues at The Next Web",
+        "long_summary_en": "The daily live show, hosted by former founders John Coogan and Jordi Hays, will sit inside OpenAI’s strategy organisation and report to chief global affairs officer Chris Lehane. Terms were not disclosed. OpenAI says TBPN will keep its editorial independence. OpenAI has acquired TBPN, the Technology Business Programming Network, the Silicon Valley talk show that […]\nThis story continues at The Next Web",
+        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/OpenAI-has-acquired-TBPN.png",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/openai-acquires-tbpn-media-talk-show",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "OpenAI just bought TBPN",
+        "title_en": "OpenAI just bought TBPN",
+        "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI ",
+        "summary_en": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI ",
+        "long_summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and […]",
+        "long_summary_en": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and Andreessen Horowitz, among its past guests, and Bloomberg, CNBC, and […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+        "date": "03 April 2026"
+      },
+      {
+        "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+        "title_en": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+        "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+        "summary_en": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+        "long_summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+        "long_summary_en": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+        "date": "03 April 2026"
+      },
       {
         "title": "AI Models in April 2026: Every Major Release, Leak, and What Comes Next",
         "title_en": "AI Models in April 2026: Every Major Release, Leak, and What Comes Next",
@@ -655,78 +727,6 @@
         "source": "Pricepertoken",
         "url": "https://pricepertoken.com/news/model-releases",
         "date": "31 March 2026"
-      },
-      {
-        "title": "AI Updates Today (March 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (March 2026) – Latest AI Model Releases",
-        "summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 2w ago GPQA: 0.9 GPT-5.4 nano Lightweight Proprietary OpenAI • 2w ago GPQA: 0.8 Mar 16, 2026 · 1 release Mistral Small 4 Release Open Source Mistral AI • 2w ago GPQA: 0.7 Mar 11, 2026 · 1 release Nemotron 3 Super (120B A12B) Release Open Source NVIDIA • 2w ago GPQA: 0.8 Mar 9, 2026 · 3 release s Grok-4.20 Beta Non-Reasoning Preview Proprietary xAI • 3w ago Grok-4.20 Beta Reasoning Preview Proprietary xAI • 3w ago Grok-4.20 Multi-Agent Beta Preview Proprietary xAI • 3w ago Mar 6, 2026 · 2 release s Sarvam-105B Release Open Source Sarvam AI • 3w ago GPQA: 0.8 Sarvam-30B Release Open Source Sarvam AI • 3w ago GPQA: 0.7 Mar 5, 2026 · 1 release GPT-5.4 Release Proprietary OpenAI • 3w ago GPQA: 0.9 Mar 4, 2026 · 1 release GPT-5.3 Chat Release Proprietary OpenAI • 3w ago Mar 3, 2026 · 1 release Gemini 3.1 Flash-Lite Lightweight Proprietary Google • 0mo ago GPQA: 0.9 1 – 12 of 274 1 2 3 4 5 6 7 Understanding LLM Versioning AI model versio",
-        "long_summary_en": "AI Updates Today (March 2026) – Latest AI Model Releases AI Leaderboards LLM Leaderboard Open LLM Leaderboard AI Trends LLM Updates AI News Coding Image Generation Writing Model Version Timeline Track all LLM releases and version updates All OpenAI Mistral AI NVIDIA xAI Sarvam AI Google Alibaba Cloud / Qwen Team Inception Anthropic ByteDance MiniMax Zhipu AI Meituan StepFun Moonshot AI LG AI Research Xiaomi DeepSeek Baidu IBM Microsoft Meta Amazon Cohere AI21 Labs Nous Research Mar 17, 2026 · 2 release s GPT-5.4 mini Lightweight Proprietary OpenAI • 2w ago GPQA: 0.9 GPT-5.4 nano Lightweight Pr",
-        "image": "https://www.vtnetzwelt.com/wp-content/uploads/2026/02/Latest-Tech-AI-Updates-February-2026-1-768x319.webp",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "31 March 2026"
-      },
-      {
-        "title": "OpenAI Operator: Specs, Pricing & Real-World Performance Guide (2026)",
-        "title_en": "OpenAI Operator: Specs, Pricing & Real-World Performance Guide (2026)",
-        "summary": "Contents Specs at a glance: what you’re actually getting Benchmark vacuum: no public data, no verification Human-mimicking browser control: the CUA architecture explained Real-world use cases: where O",
-        "summary_en": "Competitor release cadence shows what transparency looks like. <strong>Anthropic publishes monthly Claude updates with detailed changelogs listing new capabilities, benchmark improvements, and bug fix",
-        "long_summary": "Contents Specs at a glance: what you’re actually getting Benchmark vacuum: no public data, no verification Human-mimicking browser control: the CUA architecture explained Real-world use cases: where Operator actually helps API access: the missing piece for production deployment Prompting strategies: getting Operator to actually complete tasks What breaks: honest limitations you need to know Security and compliance: what OpenAI isn’t saying Version history: minimal updates, maximum opacity Latest news More on autonomous agents and AI automation Common questions about OpenAI Operator OpenAI Operator is the first mainstream AI that doesn’t just talk about booking your flight. It opens a browser, searches airline websites, fills out forms, and completes the purchase while you’re asleep. Released in January 2025 as a ChatGPT Pro exclusive, it represents the most significant shift in AI capabilities since ChatGPT launched: from conversation to autonomous action. The catch? Almost nobody outside OpenAI’s walls can verify if it actually works reliably. This is a Computer-Using Agent, or CUA. Instead of calling APIs or running scripts, Operator controls Chrome the same way you do. It sees the screen through vision models, moves the mouse, clicks buttons, reads error messages, and adapts when websites change their layouts. The technical term is “human-mimicking browser control,” but the practical implication is simpler: this AI can navigate any website you can, including the ones that ",
-        "long_summary_en": "Contents Specs at a glance: what you’re actually getting Benchmark vacuum: no public data, no verification Human-mimicking browser control: the CUA architecture explained Real-world use cases: where Operator actually helps API access: the missing piece for production deployment Prompting strategies: getting Operator to actually complete tasks What breaks: honest limitations you need to know Security and compliance: what OpenAI isn’t saying Version history: minimal updates, maximum opacity Latest news More on autonomous agents and AI automation Common questions about OpenAI Operator OpenAI Oper",
-        "image": "https://ucstrategies.com/news/wp-content/uploads/2026/03/2026-03-29-21-41-24_.jpg",
-        "source": "Ucstrategies",
-        "url": "https://ucstrategies.com/news/openai-operator-specs-pricing-real-world-performance-guide-2026/",
-        "date": "31 March 2026"
-      },
-      {
-        "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-        "title_en": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-        "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-        "summary_en": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-        "long_summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-        "long_summary_en": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-        "image": "https://techcrunch.com/wp-content/uploads/2018/02/exit.png?w=900",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-        "date": "31 March 2026"
-      },
-      {
-        "title": "Google’s Quiet Upgrade To Gemini Flash Just Made Real-Time AI Conversations Dramatically Smarter - Web And IT News",
-        "title_en": "Google’s Quiet Upgrade To Gemini Flash Just Made Real-Time AI Conversations Dramatically Smarter - Web And IT News",
-        "summary": "Google didn’t hold a press conference. There was no splashy keynote or countdown timer. The company simply flipped a switch, and Gemini Live — its real-time conversational AI feature — got substantial",
-        "summary_en": "The model upgrade is, in effect, an investment in the entire Gemini product strategy. There’s a broader pattern here worth examining. The AI industry has entered a phase where the most consequential i",
-        "long_summary": "Google didn’t hold a press conference. There was no splashy keynote or countdown timer. The company simply flipped a switch, and Gemini Live — its real-time conversational AI feature — got substantially better overnight. The upgrade from Flash 2.0 to Flash 3.1 as the underlying model powering Gemini Live represents one of the most significant under-the-hood improvements Google has made to its consumer AI product this year, and most users won’t even realize it happened. But they’ll feel it. As first reported by Android Central , the rollout of Gemini 3.1 Flash to power Gemini Live’s real-time voice interactions marks a leap in contextual understanding, reasoning accuracy, and the AI’s ability to handle complex multi-turn conversations without losing the thread. The publication’s testing revealed improvements that go well beyond incremental — this is the kind of model swap that transforms how useful the product actually is in daily life. To understand why this matters, you need to understand what Gemini Live is trying to be. Unlike standard chatbot interactions where you type a prompt and wait for a response, Gemini Live is designed for fluid, spoken conversation. Think of it as Google’s answer to the real-time voice mode that OpenAI demonstrated with GPT-4o last year — a back-and-forth dialogue where the AI can be interrupted, can ask clarifying questions, and maintains context across a sprawling conversation. It’s the kind of interface that makes AI feel less like a search en",
-        "long_summary_en": "Google didn’t hold a press conference. There was no splashy keynote or countdown timer. The company simply flipped a switch, and Gemini Live — its real-time conversational AI feature — got substantially better overnight. The upgrade from Flash 2.0 to Flash 3.1 as the underlying model powering Gemini Live represents one of the most significant under-the-hood improvements Google has made to its consumer AI product this year, and most users won’t even realize it happened. But they’ll feel it. As first reported by Android Central , the rollout of Gemini 3.1 Flash to power Gemini Live’s real-time v",
-        "image": "https://external-preview.redd.it/dDAzMzdvanQ2NzdnMczPXJuS0Ou1ML1bAlnJABejHicmiFYinI2vyXy6nYnY.png?width=140&height=78&format=jpg&auto=webp&s=b49b688134f9c6f0ef114268e1d7b1cc151ed929",
-        "source": "Webanditnews",
-        "url": "https://www.webanditnews.com/2026/03/29/googles-quiet-upgrade-to-gemini-flash-just-made-real-time-ai-conversations-dramatically-smarter/",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "LLM News Today (March 2026) – AI Model Releases",
-        "title_en": "LLM News Today (March 2026) – AI Model Releases",
-        "summary": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of wha",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of what changed and why. Jonathan Chavez Mar 11, 2026",
-        "long_summary_en": "Research Technical Deep Dive Post-Training in 2026: GRPO, DAPO, RLVR & Beyond How GRPO, DAPO, RLVR, and synthetic self-play replaced RLHF as the dominant post-training stack. A technical survey of what changed and why. Jonathan Chavez Mar 11, 2026",
-        "image": "https://blog.mean.ceo/wp-content/uploads/2025/12/mean-ceo-female-entrepreneurs-news.webp",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "30 March 2026"
-      },
-      {
-        "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-        "title_en": "Mistral AI raises $830M in debt to set up a data center near Paris",
-        "summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
-        "summary_en": "Mistral aims to start operating the data center by the second quarter of 2026.",
-        "long_summary": "Mistral aims to start operating the data center by the second quarter of 2026.",
-        "long_summary_en": "Mistral aims to start operating the data center by the second quarter of 2026.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-        "date": "30 March 2026"
       }
     ],
     "audio": [
