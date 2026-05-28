@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28 May 2026 - 18:34",
+  "lastUpdate": "28 May 2026 - 19:04",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Claude’s new model is more ‘honest’ when it messes up",
+        "title_en": "Claude’s new model is more ‘honest’ when it messes up",
+        "summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making c",
+        "summary_en": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making c",
+        "long_summary": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, […]",
+        "long_summary_en": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI models is that they sometimes jump to conclusions, […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+        "title_en": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+        "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+        "summary_en": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+        "long_summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+        "long_summary_en": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+        "date": "28 May 2026"
+      },
+      {
         "title": "Inside Google I/O 2026: Gemini Spark and the Rise of Autonomous AI Agents - CTO Magazine",
         "title_en": "Inside Google I/O 2026: Gemini Spark and the Rise of Autonomous AI Agents - CTO Magazine",
         "summary": "Skip to content Share on Linkedin Share on Facebook Share on Twitter Share on Pinterest Share on Email AI & Machine Learning , Trending Inside Google I/O 2026: Gemini Spark and the Rise of Autonomous ",
@@ -702,30 +726,6 @@
         "image": "https://media.thenextweb.com/2026/05/Mistral-AI.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/mistral-physical-ai-airbus-bmw-industrial-launch",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "Mistral’s Arthur Mensch directly rebuts Pope Leo on AI in warfare",
-        "title_en": "Mistral’s Arthur Mensch directly rebuts Pope Leo on AI in warfare",
-        "summary": "Three days after the Vatican called for AI to be ‘disarmed’, the Mistral CEO defended his company’s defence-AI work, arguing Europe cannot afford unilateral restraint. Arthur Mensch, the chief executi",
-        "summary_en": "Three days after the Vatican called for AI to be ‘disarmed’, the Mistral CEO defended his company’s defence-AI work, arguing Europe cannot afford unilateral restraint. Arthur Mensch, the chief executi",
-        "long_summary": "Three days after the Vatican called for AI to be ‘disarmed’, the Mistral CEO defended his company’s defence-AI work, arguing Europe cannot afford unilateral restraint. Arthur Mensch, the chief executive of French AI startup Mistral, pushed back directly on Thursday against Pope Leo XIV’s call to “disarm AI,” arguing that European companies cannot afford to […]\nThis story continues at The Next Web",
-        "long_summary_en": "Three days after the Vatican called for AI to be ‘disarmed’, the Mistral CEO defended his company’s defence-AI work, arguing Europe cannot afford unilateral restraint. Arthur Mensch, the chief executive of French AI startup Mistral, pushed back directly on Thursday against Pope Leo XIV’s call to “disarm AI,” arguing that European companies cannot afford to […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/Arthur-Mensch.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/mistral-mensch-defends-ai-warfare-pope-rebuttal",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "AI tried to bury this politician — now people have actually heard of him",
-        "title_en": "AI tried to bury this politician — now people have actually heard of him",
-        "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who ",
-        "summary_en": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who ",
-        "long_summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud […]",
-        "long_summary_en": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their feud […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2271137268.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
         "date": "28 May 2026"
       }
     ],
