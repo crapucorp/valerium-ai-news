@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "28 May 2026 - 14:33",
+  "lastUpdate": "28 May 2026 - 18:34",
   "categories": {
     "general": [
+      {
+        "title": "Morgan Stanley doubles its forecast: European banks could shed 20% of jobs on AI",
+        "title_en": "Morgan Stanley doubles its forecast: European banks could shed 20% of jobs on AI",
+        "summary": "The May estimate is twice the bank’s January figure, and the workforce cuts are already happening at UBS, ABN Amro and HSBC. Morgan Stanley has doubled its forecast for AI-driven job losses across the",
+        "summary_en": "The May estimate is twice the bank’s January figure, and the workforce cuts are already happening at UBS, ABN Amro and HSBC. Morgan Stanley has doubled its forecast for AI-driven job losses across the",
+        "long_summary": "The May estimate is twice the bank’s January figure, and the workforce cuts are already happening at UBS, ABN Amro and HSBC. Morgan Stanley has doubled its forecast for AI-driven job losses across the European banking sector, estimating that as much as 20% of total banking employment could be eliminated by 2030 as lenders push […]\nThis story continues at The Next Web",
+        "long_summary_en": "The May estimate is twice the bank’s January figure, and the workforce cuts are already happening at UBS, ABN Amro and HSBC. Morgan Stanley has doubled its forecast for AI-driven job losses across the European banking sector, estimating that as much as 20% of total banking employment could be eliminated by 2030 as lenders push […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/05/European-flag.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/european-banks-20-percent-jobs-ai-morgan-stanley",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+        "title_en": "CNN sues Perplexity over ‘verbatim’ copycat articles",
+        "summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,",
+        "summary_en": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,",
+        "long_summary": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with […]",
+        "long_summary_en": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind CNN's subscription. Perplexity, which offers an AI \"answer\" engine along with […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK_Cnn_K_Radtke_2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "RSI is the new AGI — and it’s just as hard to pin down",
+        "title_en": "RSI is the new AGI — and it’s just as hard to pin down",
+        "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+        "summary_en": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+        "long_summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+        "long_summary_en": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
+        "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1202271610.jpg?resize=1200,900",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
+        "date": "28 May 2026"
+      },
       {
         "title": "Why healthcare’s AI future requires patient leadership",
         "title_en": "Why healthcare’s AI future requires patient leadership",
@@ -144,42 +180,6 @@
         "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
         "source": "Sciencedaily",
         "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "date": "03 April 2026"
-      },
-      {
-        "title": "Tencent is building an enterprise empire on top of an Austrian developer’s open-source lobster",
-        "title_en": "Tencent is building an enterprise empire on top of an Austrian developer’s open-source lobster",
-        "summary": "Tencent Holdings has launched ClawPro, an enterprise AI agent management platform built on OpenClaw, the open-source framework that has become the fastest-growing project in GitHub’s history and the u",
-        "summary_en": "Tencent Holdings has launched ClawPro, an enterprise AI agent management platform built on OpenClaw, the open-source framework that has become the fastest-growing project in GitHub’s history and the u",
-        "long_summary": "Tencent Holdings has launched ClawPro, an enterprise AI agent management platform built on OpenClaw, the open-source framework that has become the fastest-growing project in GitHub’s history and the unlikely centrepiece of a national technology craze in China. The tool, released in public beta by Tencent’s cloud division on Thursday, allows businesses to deploy OpenClaw-based AI […]\nThis story continues at The Next Web",
-        "long_summary_en": "Tencent Holdings has launched ClawPro, an enterprise AI agent management platform built on OpenClaw, the open-source framework that has become the fastest-growing project in GitHub’s history and the unlikely centrepiece of a national technology craze in China. The tool, released in public beta by Tencent’s cloud division on Thursday, allows businesses to deploy OpenClaw-based AI […]\nThis story continues at The Next Web",
-        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/tencent-clawpro-openclaw-enterprise-ai-agents.png",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/tencent-clawpro-openclaw-enterprise-ai-agents",
-        "date": "03 April 2026"
-      },
-      {
-        "title": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
-        "title_en": "Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark",
-        "summary": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like O",
-        "summary_en": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like O",
-        "long_summary": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive “token tax” for every action. The landscape of modern AI is shifting rapidly. We are moving away from […]\nThe post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark appeared first on MarkTechPost.",
-        "long_summary_en": "Run Google’s latest omni-capable open models faster on NVIDIA RTX AI PCs, from NVIDIA Jetson Orin Nano, GeForce RTX desktops to the new DGX Spark, to build personalized, always-on AI assistants like OpenClaw without paying a massive “token tax” for every action. The landscape of modern AI is shifting rapidly. We are moving away from […]\nThe post Defeating the ‘Token Tax’: How Google Gemma 4, NVIDIA, and OpenClaw are Revolutionizing Local Agentic AI: From RTX Desktops to DGX Spark appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/NVIDIA-MOBILE-819x1024.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/",
-        "date": "03 April 2026"
-      },
-      {
-        "title": "Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use",
-        "title_en": "Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use",
-        "summary": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have domina",
-        "summary_en": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have domina",
-        "long_summary": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have dominated the conversation, Arcee AI has released Trinity Large Thinking. This release is an open-weight reasoning model distributed under the Apache 2.0 license, positioning it as a transparent alternative for developers […]\nThe post Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use appeared first on MarkTechPost.",
-        "long_summary_en": "The landscape of open-source artificial intelligence has shifted from purely generative models toward systems capable of complex, multi-step reasoning. While proprietary ‘reasoning’ models have dominated the conversation, Arcee AI has released Trinity Large Thinking. This release is an open-weight reasoning model distributed under the Apache 2.0 license, positioning it as a transparent alternative for developers […]\nThe post Arcee AI Releases Trinity Large Thinking: An Apache 2.0 Open Reasoning Model for Long-Horizon Agents and Tool Use appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-25-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/",
         "date": "03 April 2026"
       }
     ],
@@ -549,6 +549,78 @@
     ],
     "llm": [
       {
+        "title": "Inside Google I/O 2026: Gemini Spark and the Rise of Autonomous AI Agents - CTO Magazine",
+        "title_en": "Inside Google I/O 2026: Gemini Spark and the Rise of Autonomous AI Agents - CTO Magazine",
+        "summary": "Skip to content Share on Linkedin Share on Facebook Share on Twitter Share on Pinterest Share on Email AI & Machine Learning , Trending Inside Google I/O 2026: Gemini Spark and the Rise of Autonomous ",
+        "summary_en": "Gemini 3.5 Flash’s pricing could fundamentally change your AI expenses. If you are spending millions on API calls to advanced models, it is time to evaluate Flash. 2. Agent orchestration is the next b",
+        "long_summary": "Skip to content Share on Linkedin Share on Facebook Share on Twitter Share on Pinterest Share on Email AI & Machine Learning , Trending Inside Google I/O 2026: Gemini Spark and the Rise of Autonomous AI Agents Rajashree Goswami , May 25, 2026 | 15 min read Google made a huge announcement at I/O 2026, and it’s clear this isn’t just another model release. Something about it stands out. The numbers are staggering. Two years ago, Google handled about 9.7 trillion tokens each month. Last year at I/O, that number jumped to 480 trillion. Now, it’s 3.2 quadrillion tokens per month, a seven-fold increase in just one year. This isn’t just hype; it’s real usage from people solving real problems. The Gemini app’s monthly active users grew from 400 million last year to over 900 million now, more than doubling in a year. Daily requests also increased sevenfold. AI overviews in search now have 2.5 billion monthly users, and the new AI Mode in Search reached 1 billion users in its first year. This is no longer just a tool for developers. It’s gone mainstream. Gemini 3.5 Flash: AI agents with speed and intelligence Starting with the models, Google introduced Gemini 3.5, with Gemini 3.5 Flash as the first release. What stands out is that Flash is no longer just a budget option; it’s performing far better than expected. eOn the Terminal Bench 2.1 coding benchmark, Flash scores 76.2% versus Gemini 3.1 Pro’s 70.3%. It’s hitting 1,656 ELO on GDP Val AA compared to 3.1 Pro’s 1,314. On MCP Atlas, it",
+        "long_summary_en": "Skip to content Share on Linkedin Share on Facebook Share on Twitter Share on Pinterest Share on Email AI & Machine Learning , Trending Inside Google I/O 2026: Gemini Spark and the Rise of Autonomous AI Agents Rajashree Goswami , May 25, 2026 | 15 min read Google made a huge announcement at I/O 2026, and it’s clear this isn’t just another model release. Something about it stands out. The numbers are staggering. Two years ago, Google handled about 9.7 trillion tokens each month. Last year at I/O, that number jumped to 480 trillion. Now, it’s 3.2 quadrillion tokens per month, a seven-fold increa",
+        "image": "https://ctomagazine.com/wp-content/uploads/2026/05/Gemini-Spark-and-the-Rise-of-Autonomous-AI-Agents.jpg",
+        "source": "Ctomagazine",
+        "url": "https://ctomagazine.com/google-io-2026-ai-agents-gemini-spark/",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "Anthropic’s Milan office lands with Generali, Pirelli and Enel as named Italian customers",
+        "title_en": "Anthropic’s Milan office lands with Generali, Pirelli and Enel as named Italian customers",
+        "summary": "The formal opening of Anthropic’s sixth European office lands the same week as Pope Leo’s AI encyclical, with the company naming a roster of Italian enterprise deployments. nthropic formally opened it",
+        "summary_en": "The formal opening of Anthropic’s sixth European office lands the same week as Pope Leo’s AI encyclical, with the company naming a roster of Italian enterprise deployments. nthropic formally opened it",
+        "long_summary": "The formal opening of Anthropic’s sixth European office lands the same week as Pope Leo’s AI encyclical, with the company naming a roster of Italian enterprise deployments. nthropic formally opened its Milan office on Wednesday, the sixth European location for the US AI lab after London, Dublin, Paris, Zurich and Munich. The opening completes the […]\nThis story continues at The Next Web",
+        "long_summary_en": "The formal opening of Anthropic’s sixth European office lands the same week as Pope Leo’s AI encyclical, with the company naming a roster of Italian enterprise deployments. nthropic formally opened its Milan office on Wednesday, the sixth European location for the US AI lab after London, Dublin, Paris, Zurich and Munich. The opening completes the […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/04/Anthropic.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/anthropic-milan-office-italy-enterprise-customers",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "These new iOS 27 renders hint at Siri’s big redesign",
+        "title_en": "These new iOS 27 renders hint at Siri’s big redesign",
+        "summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a",
+        "summary_en": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a",
+        "long_summary": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] […]",
+        "long_summary_en": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app and chat interface for Siri. The renders are \"based on information viewed by Bloomberg and people with knowledge of [Apple's] […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25698444/DSC08567_processed_2.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+        "title_en": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
+        "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+        "summary_en": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+        "long_summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+        "long_summary_en": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/1476x1375.webp?resize=1200,1118",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+        "title_en": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+        "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per",
+        "summary_en": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per",
+        "long_summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+        "long_summary_en": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/crossing-the-uncanny-valley-of-voice-hero.webp?resize=1200,900",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+        "title_en": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+        "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+        "summary_en": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+        "long_summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+        "long_summary_en": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+        "date": "28 May 2026"
+      },
+      {
         "title": "Meta sells AI subscriptions while OpenAI and xAI walk into the ad business",
         "title_en": "Meta sells AI subscriptions while OpenAI and xAI walk into the ad business",
         "summary": "Meta’s $7.99-and-$19.99 chatbot tiers and OpenAI’s push into advertising mark the moment the AI revenue-model question becomes a cross-cutting collision. Meta’s decision to begin selling consumer subs",
@@ -655,78 +727,6 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
         "date": "28 May 2026"
-      },
-      {
-        "title": "LLM API Pricing Comparison & Cost Guide (May 2026)",
-        "title_en": "LLM API Pricing Comparison & Cost Guide (May 2026)",
-        "summary": "LLM API Pricing Comparison & Cost Guide (May 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: MAY 26, 2026 LLM API Pricing Compari",
-        "summary_en": "Google&#x27;s Gemini 2.5 Flash is also extremely affordable. For free options, many providers offer free tiers with rate limits — DeepSeek R1, Llama 3.3 70B, and Gemma 3 are available at zero cost on ",
-        "long_summary": "LLM API Pricing Comparison & Cost Guide (May 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: MAY 26, 2026 LLM API Pricing Comparison Compare pricing across 315+ LLM APIs from OpenAI, Anthropic, Google, DeepSeek, Mistral, xAI, and more. Sorted by quality, price, or value score. Comparison Value Rankings Pricing Guide Save Money FAQ Pricing TLDR • Budget models from $0.07/M input tokens — premium models up to $75/M output tokens • Quality scores from 0-100 based on independent benchmarks (Theozard) • Value score = quality per dollar of output cost — find the best bang for your buck Official pricing: OpenRouter API (live pricing) • Quality Scores: Theozard LLM API Cost Comparison — Monthly Pricing Calculate by Tokens Words Characters Input Tokens Output Tokens API Calls / Month Quick Examples: Chatbot Code Assistant Doc Analysis Content Gen Sort: quality price value Cost (openai/gpt-5.5) Context 1.1M Quality 100 Per 1M Tokens In: $ 5.00 Out: $ 30.00 Value 3.3 Monthly Cost $ 20.00 (openai/gpt-5.5-pro) Context 1.1M Quality 100 Per 1M Tokens In: $ 30.00 Out: $ 180.00 Value 0.6 Monthly Cost $ 120.00 (google/gemini-3.1-pro-preview-customtools) Context 1.0M Quality 95 Per 1M Tokens In: $ 2.00 Out: $ 12.00 Value 7.9 Monthly Cost $ 8.00 (google/gemini-3.1-pro-preview) Context 1.0M Quality 95 Per 1M Tokens In: $ 2.00 Out: $ 12.00 Value 7.9 Monthly Cost $ 8.00 (anthropic/claude-opus-4.7) Context 1.0M Quality 95 Per 1M ",
-        "long_summary_en": "LLM API Pricing Comparison & Cost Guide (May 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: MAY 26, 2026 LLM API Pricing Comparison Compare pricing across 315+ LLM APIs from OpenAI, Anthropic, Google, DeepSeek, Mistral, xAI, and more. Sorted by quality, price, or value score. Comparison Value Rankings Pricing Guide Save Money FAQ Pricing TLDR • Budget models from $0.07/M input tokens — premium models up to $75/M output tokens • Quality scores from 0-100 based on independent benchmarks (Theozard) • Value score = quality per",
-        "image": "https://costgoat.com/og-image.png",
-        "source": "Costgoat",
-        "url": "https://costgoat.com/compare/llm-api",
-        "date": "26 May 2026"
-      },
-      {
-        "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
-        "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
-        "summary": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token 50k devs visit Price Per Token every month. Become a sponsor New Models Today — AI & LLM Releases New models released in the last 2",
-        "summary_en": "New models released today and in the last 24 hours. Daily changelog of new AI and LLM releases from OpenAI, Anthropic, Google, Meta, Mistral and more.",
-        "long_summary": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token 50k devs visit Price Per Token every month. Become a sponsor New Models Today — AI & LLM Releases New models released in the last 24 hours and beyond. Track every new LLM from OpenAI, Anthropic, Google, Meta, Mistral and more. Last updated: May 26, 2026 Open Source News AI Agents News AI Coding News AI Funding News All categories Get our weekly newsletter on pricing changes, new releases, and tools. Subscribe Join the Price Per Token Community Discussion · Model Releases 1 ellmanalex · 48d ago Have you used Gemma 4 yet? I think the best part of it is that you can run it locally. When I get OpenClaw up and running again I think I will explore using it for research and other simpler tasks since the Anthropic subscription doesn't cover that anymore. 1 comment · Join the discussion → Last 24h 0 This Week 4 This Month 22 All 117 May 21 1 item Grok Build 0.1 New X Ai · via xAI · $1.00 in · $2.00 out May 20 3 items Gemini 3.5 Flash New Google · via Google AI Studio · $1.50 in · $9.00 out · 1M ctx Gemini 3.5 Flash New Google · via Google · $1.50 in · $9.00 out · 1M ctx Llama 4 Scout 17B 16E Instruct FP8 LoRA New Meta-llama · via Together May 19 1 item Speech 2.8 Turbo New Minimax · via Together May 16 2 items Gemma 3 1B (Pretrained) New Google · via Together Molmo 7B D 0924 New Open Source Allenai · via Together May 14 2 items rime-labs/rime-mist-v3 New Rime Labs · via Together rime-labs/rime-mist-v3-omni New Rime L",
-        "long_summary_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token 50k devs visit Price Per Token every month. Become a sponsor New Models Today — AI & LLM Releases New models released in the last 24 hours and beyond. Track every new LLM from OpenAI, Anthropic, Google, Meta, Mistral and more. Last updated: May 26, 2026 Open Source News AI Agents News AI Coding News AI Funding News All categories Get our weekly newsletter on pricing changes, new releases, and tools. Subscribe Join the Price Per Token Community Discussion · Model Releases 1 ellmanalex · 48d ago Have you used Gemma 4 yet? I thi",
-        "image": "https://www.labla.org/wp-content/uploads/2025/07/Apple-news.png",
-        "source": "Pricepertoken",
-        "url": "https://pricepertoken.com/news/model-releases",
-        "date": "26 May 2026"
-      },
-      {
-        "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
-        "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
-        "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
-        "summary_en": "The leading LLMs in 2026 are Claude Mythos Preview, Claude Opus 4.6, and the frontier models from OpenAI (GPT-5 family), Anthropic (Claude Opus and Sonnet), Google (Gemini 3 Pro), xAI (Grok 4), DeepSe",
-        "long_summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 10 $1.25 /M tok Mercury 2 fastest output 553 tok/s Grok 4 Fast longest context window 2.0M tokens tokens Kimi K2.6 best open-weights 90.5% gpqa LLM LLM Image Generation Image Video Generation Video Text-to-Speech TTS Speech-to-Text STT Embeddings Embeddings Full leaderboard Full 301 Open All 90d 30d Rank Model LLM Stats Reasoning Coding Agent Code Arena Context Speed Pricing $/M License 1 Claude Mythos Preview UNRELEASED Anthropic 70.5 71.5 57.0 48.7 — — — — Proprietary 2 GPT-5.5 OpenAI 63.7 62.3 51.1 43.1 1,942 1.1M 193 c/s $ 7.78 Proprietary 3 GPT-5.2 Pro OpenAI 61.3 56.7 — 29.8 — — — — Proprietary 4 Claude Opus 4.7 Anthropic 61.2 62.5 50.2 41.4 1,927 1.0M 86 c/s $ 7.22 Proprietary 5 GPT-5.4 OpenAI 60.3 57.6 43.3 36.9 1,723 1.0M 204 c/s $ 3.89 Proprietary 6 Gemini 3.5 Flash NEW Google 59.4 59.1 46.3 41.0 1,411 1.0M 309 c/s $ 2.33 Proprietary 7 Gemini 3.1 Pro Google 58.2 59.1 43.9 33.2 2",
-        "long_summary_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 1",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/",
-        "date": "26 May 2026"
-      },
-      {
-        "title": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
-        "title_en": "Together AI Open-Sources OSCAR: An Attention-Aware 2-Bit KV Cache Quantization System for Long-Context LLM Serving",
-        "summary": "Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-o",
-        "summary_en": "Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-o",
-        "long_summary": "Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-oblivious Hadamard transforms, OSCAR derives separate rotations for keys and values from attention-aware covariance structures estimated offline. At 2.28 bits per KV element, OSCAR reduces the BF16 accuracy gap to 3.78 points on Qwen3-4B-Thinking-2507 and 1.42 points on Qwen3-8B, while delivering approximately 8× KV memory reduction and up to 3× decode speedup at 100K context length.\nThe post Toget",
-        "long_summary_en": "Together AI has released OSCAR (Offline Spectral Covariance-Aware Rotation), an INT2 KV cache quantization method for long-context LLM serving. Unlike prior rotation-based approaches that apply data-oblivious Hadamard transforms, OSCAR derives separate rotations for keys and values from attention-aware covariance structures estimated offline. At 2.28 bits per KV element, OSCAR reduces the BF16 accuracy gap to 3.78 points on Qwen3-4B-Thinking-2507 and 1.42 points on Qwen3-8B, while delivering approximately 8× KV memory reduction and up to 3× decode speedup at 100K context length.\nThe post Toget",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-43-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/05/25/together-ai-open-sources-oscar-an-attention-aware-2-bit-kv-cache-quantization-system-for-long-context-llm-serving/",
-        "date": "26 May 2026"
-      },
-      {
-        "title": "Stord raises $250 million to give independent brands the shipping speed they need to compete with Amazon",
-        "title_en": "Stord raises $250 million to give independent brands the shipping speed they need to compete with Amazon",
-        "summary": "Stord, a logistics technology company that helps retailers manage inventory, checkout, and fulfillment, has raised $250 million in a Series F round that values the company at $3 billion. The round was",
-        "summary_en": "Stord, a logistics technology company that helps retailers manage inventory, checkout, and fulfillment, has raised $250 million in a Series F round that values the company at $3 billion. The round was",
-        "long_summary": "Stord, a logistics technology company that helps retailers manage inventory, checkout, and fulfillment, has raised $250 million in a Series F round that values the company at $3 billion. The round was led by Strike Capital with participation from Founders Fund, Kleiner Perkins, Franklin Templeton, Baillie Gifford, G Squared, and Bond. The funding doubles Stord’s valuation […]\nThis story continues at The Next Web",
-        "long_summary_en": "Stord, a logistics technology company that helps retailers manage inventory, checkout, and fulfillment, has raised $250 million in a Series F round that values the company at $3 billion. The round was led by Strike Capital with participation from Founders Fund, Kleiner Perkins, Franklin Templeton, Baillie Gifford, G Squared, and Bond. The funding doubles Stord’s valuation […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/stord-250-million-funding-amazon-fulfillment-ai-robotics.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/stord-raises-250-million-to-give-independent-brands-the-shipping-speed-they-need-to-compete-with-amazon",
-        "date": "26 May 2026"
-      },
-      {
-        "title": "Uber president says AI spending is getting ‘harder to justify’",
-        "title_en": "Uber president says AI spending is getting ‘harder to justify’",
-        "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Resp",
-        "summary_en": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Resp",
-        "long_summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more […]",
-        "long_summary_en": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a connection between rising token consumption for Claude Code and more […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2245764686.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-        "date": "26 May 2026"
       }
     ],
     "audio": [
@@ -928,11 +928,11 @@
       "date": "28 May 2026"
     },
     {
-      "title": "LLM API Pricing Comparison & Cost Guide (May 2026)",
-      "title_en": "LLM API Pricing Comparison & Cost Guide (May 2026)",
-      "source": "Costgoat",
-      "url": "https://costgoat.com/compare/llm-api",
-      "date": "26 May 2026"
+      "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+      "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+      "source": "Etvbharat",
+      "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
+      "date": "29 March 2026"
     }
   ]
 }
