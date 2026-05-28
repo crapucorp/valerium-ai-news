@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "28 May 2026 - 13:32",
+  "lastUpdate": "28 May 2026 - 14:03",
   "categories": {
     "general": [
+      {
+        "title": "Why healthcare’s AI future requires patient leadership",
+        "title_en": "Why healthcare’s AI future requires patient leadership",
+        "summary": "Artificial intelligence is entering healthcare at a pace that, according to Donna R. Cryer, risks outpacing the governance structures needed to support it responsibly. Cryer believes hospitals, payers",
+        "summary_en": "Artificial intelligence is entering healthcare at a pace that, according to Donna R. Cryer, risks outpacing the governance structures needed to support it responsibly. Cryer believes hospitals, payers",
+        "long_summary": "Artificial intelligence is entering healthcare at a pace that, according to Donna R. Cryer, risks outpacing the governance structures needed to support it responsibly. Cryer believes hospitals, payers, pharmaceutical companies, and digital health organizations are introducing AI systems into clinical and operational environments without sufficiently involving the people most affected by those decisions, which are the […]\nThis story continues at The Next Web",
+        "long_summary_en": "Artificial intelligence is entering healthcare at a pace that, according to Donna R. Cryer, risks outpacing the governance structures needed to support it responsibly. Cryer believes hospitals, payers, pharmaceutical companies, and digital health organizations are introducing AI systems into clinical and operational environments without sufficiently involving the people most affected by those decisions, which are the […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/05/healthcare-ai-future-patient-leadership-donna-cryer.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/why-healthcares-ai-future-requires-patient-leadership",
+        "date": "28 May 2026"
+      },
       {
         "title": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
         "title_en": "A Coding Guide to Implement a pgvector-Powered Semantic, Hybrid, Sparse, and Quantized Vector Search System",
@@ -168,18 +180,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-25-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/04/02/arcee-ai-releases-trinity-large-thinking-an-apache-2-0-open-reasoning-model-for-long-horizon-agents-and-tool-use/",
-        "date": "03 April 2026"
-      },
-      {
-        "title": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
-        "title_en": "Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning",
-        "summary": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environ",
-        "summary_en": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environ",
-        "long_summary": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply […]\nThe post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appeared first on MarkTechPost.",
-        "long_summary_en": "In this tutorial, we build a complete end-to-end pipeline using NVIDIA Model Optimizer to train, prune, and fine-tune a deep learning model directly in Google Colab. We start by setting up the environment and preparing the CIFAR-10 dataset, then define a ResNet architecture and train it to establish a strong baseline. From there, we apply […]\nThe post Step by Step Guide to Build an End-to-End Model Optimization Pipeline with NVIDIA Model Optimizer Using FastNAS Pruning and Fine-Tuning appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-2-1-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/04/03/step-by-step-guide-to-build-an-end-to-end-model-optimization-pipeline-with-nvidia-model-optimizer-using-fastnas-pruning-and-fine-tuning/",
         "date": "03 April 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models",
+        "title_en": "Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models",
+        "summary": "Quanlai Li March 31, 2026 Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models Looking for a Sora alternative? ChatSlide offers AI video generation with Veo 3.1, 500+ avatars, voi",
+        "summary_en": "<strong>Users who relied on Sora for text-to-video generation are now left without a tool</strong> — and searching for alternatives. Even before the shutdown, Sora had frustrating limitations: strict ",
+        "long_summary": "Quanlai Li March 31, 2026 Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models Looking for a Sora alternative? ChatSlide offers AI video generation with Veo 3.1, 500+ avatars, voice cloning, and 25+ AI image models including Imagen 4, DALL-E 3, and Flux. Free to start. Quick Answer: OpenAI discontinued the standalone Sora product in early 2026 . The closest replacement that covers everything Sora did (and more) is ChatSlide , which bundles: (1) AI video via Veo 3.1 plus PowerPoint-to-video conversion, (2) 500+ avatars with voice cloning in 17 languages, (3) 25+ image models including Imagen 4, DALL-E 3, Flux, Nano Banana Pro, GPT Image 2, Seedream, Grok Image, and Kling. Free tier covers all 25+ image models; video credits start free. Why Look for a Sora Alternative? OpenAI's Sora has been officially discontinued . After a brief period of limited availability, OpenAI shut down the standalone Sora product in early 2026, citing high costs and low adoption. Users who relied on Sora for text-to-video generation are now left without a tool — and searching for alternatives. Even before the shutdown, Sora had frustrating limitations: strict usage caps, no avatar support, no voice cloning, and no way to turn existing presentations into videos. If you were a Sora user — or were on the waitlist when it closed — you need a more complete solution. ChatSlide is the best Sora alternative for professionals who need AI video generation, AI image generation, and presentat",
+        "long_summary_en": "Quanlai Li March 31, 2026 Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models Looking for a Sora alternative? ChatSlide offers AI video generation with Veo 3.1, 500+ avatars, voice cloning, and 25+ AI image models including Imagen 4, DALL-E 3, and Flux. Free to start. Quick Answer: OpenAI discontinued the standalone Sora product in early 2026 . The closest replacement that covers everything Sora did (and more) is ChatSlide , which bundles: (1) AI video via Veo 3.1 plus PowerPoint-to-video conversion, (2) 500+ avatars with voice cloning in 17 languages, (3) 25+ image model",
+        "image": "https://static.getimg.ai/media/genj-8bsTw6fqdHo4GBrPDcab4-large.webp",
+        "source": "Chatslide",
+        "url": "https://www.chatslide.ai/guides/sora-alternative-ai-video-image-generator",
+        "date": "28 May 2026"
+      },
+      {
+        "title": "AI News Today - May 28, 2026: 11 Biggest Stories",
+        "title_en": "AI News Today - May 28, 2026: 11 Biggest Stories",
+        "summary": "AI News Today - May 28, 2026: Big Four AI, DeployCo, and the Enterprise Services Arms Race The two biggest stories from May that missed most daily coverage hit us at once: KPMG deployed Claude to 276,",
+        "summary_en": "<strong>Anthropic&#x27;s Claude Mythos cybersecurity capabilities, OpenAI&#x27;s Erdos math proof, and Google&#x27;s Gemini Omni video generation are real capability advances</strong>. But the compani",
+        "long_summary": "AI News Today - May 28, 2026: Big Four AI, DeployCo, and the Enterprise Services Arms Race The two biggest stories from May that missed most daily coverage hit us at once: KPMG deployed Claude to 276,000 employees across 138 countries, and OpenAI launched a $4 billion consulting subsidiary called DeployCo. Between them, these announcements signal that the AI industry's most important structural shift is not happening in benchmarks or model releases -- it is happening in the battle for who controls enterprise AI deployment. Also this week: Cohere acquired Aleph Alpha to create a $20 billion transatlantic sovereign AI challenger, Canada ruled that OpenAI violated its privacy laws, a developer controversy erupted over ChatGPT's voice mode running on a much weaker model, and Claude Code shipped its most detailed usage analytics update yet. Here are the 11 stories for May 28, 2026. 1. KPMG Deploys Claude to 276,000 Employees -- The Largest Big Four AI Deployment On May 19, 2026, KPMG and Anthropic announced the KPMG Digital Gateway Powered by Claude, embedding Anthropic's frontier AI directly into KPMG's core client delivery platform across its entire global workforce of 276,000 professionals in 138 countries. The alliance begins with tax and private equity clients and expands to all advisory services, with full implementation on Microsoft Azure by September 2026. The specifics of the deployment go beyond simple \"AI access for employees.\" Claude Cowork and Claude Managed Agents ar",
+        "long_summary_en": "AI News Today - May 28, 2026: Big Four AI, DeployCo, and the Enterprise Services Arms Race The two biggest stories from May that missed most daily coverage hit us at once: KPMG deployed Claude to 276,000 employees across 138 countries, and OpenAI launched a $4 billion consulting subsidiary called DeployCo. Between them, these announcements signal that the AI industry's most important structural shift is not happening in benchmarks or model releases -- it is happening in the battle for who controls enterprise AI deployment. Also this week: Cohere acquired Aleph Alpha to create a $20 billion tra",
+        "image": "https://oukdqujzonxvqhiefdsv.supabase.co/storage/v1/object/public/blogs/ecd2b981-2596-4549-8a00-985535867556.png",
+        "source": "Buildfastwithai",
+        "url": "https://www.buildfastwithai.com/blogs/ai-news-today-may-28-2026",
+        "date": "28 May 2026"
+      },
+      {
         "title": "Google AI Plans with Cloud Storage - Google One",
         "title_en": "Google AI Plans with Cloud Storage - Google One",
         "summary": "One Sign up",
@@ -521,33 +545,21 @@
         "source": "Variety",
         "url": "https://variety.com/2026/digital/news/why-openai-shut-down-sora-sam-altman-felt-terrible-disney-ceo-josh-damaro-1236705497/",
         "date": "04 April 2026"
-      },
-      {
-        "title": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All",
-        "title_en": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All",
-        "summary": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re lef",
-        "summary_en": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re lef",
-        "long_summary": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. […]\nThe post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
-        "long_summary_en": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. […]\nThe post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-1-2-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/",
-        "date": "04 April 2026"
-      },
-      {
-        "title": "Sam Altman Says OpenAI and Disney Are Still in Talks About Collaborating Despite Sora Shutdown",
-        "title_en": "Sam Altman Says OpenAI and Disney Are Still in Talks About Collaborating Despite Sora Shutdown",
-        "summary": "In his first interview post Sora shutdown, OpenAI CEO Sam Altman reveals he gave Disney’s former and current CEOs Bob Iger and Josh D’Amaro a heads up prior to the decision and that the companies rema",
-        "summary_en": "In December, <strong>Disney struck a $1 billion deal with OpenAI to bring more than 200 of its characters to the platform to create short AI-generated videos for social media</strong>, as well as use ",
-        "long_summary": "In his first interview post Sora shutdown, OpenAI CEO Sam Altman reveals he gave Disney’s former and current CEOs Bob Iger and Josh D’Amaro a heads up prior to the decision and that the companies remain in discussions about collaborating in the future. In December, Disney struck a $1 billion deal with OpenAI to bring more than 200 of its characters to the platform to create short AI-generated videos for social media, as well as use for ChatGPT’s image-generation platform. Disney was also set to host a series of curated Sora-generated videos on Disney+. But on March 24, OpenAI made the surprise decision to shut the platform down as it shifted its resources elsewhere. “We have a few times in our history realized something really important is working or about to work so well that we have to stop a bunch of other projects. In fact, this was the original thing happened with GPT3. We had a whole portfolio of bets at the time. A lot of them were working well,” Altman told the Mostly Human podcast in an interview . “We shut down many projects that were working well like robotics which we mentioned so that we could concentrate our compute, our researchers, our effort into this thing that we said okay there’s a very important thing happening. I did not expect 3 or 6 months ago to be at this point we’re at now where something very big and important is about to happen again with this next generation of models and the agents they they can power.” Read Next Disney Ends $1 Billion OpenAI Pa",
-        "long_summary_en": "In his first interview post Sora shutdown, OpenAI CEO Sam Altman reveals he gave Disney’s former and current CEOs Bob Iger and Josh D’Amaro a heads up prior to the decision and that the companies remain in discussions about collaborating in the future. In December, Disney struck a $1 billion deal with OpenAI to bring more than 200 of its characters to the platform to create short AI-generated videos for social media, as well as use for ChatGPT’s image-generation platform. Disney was also set to host a series of curated Sora-generated videos on Disney+. But on March 24, OpenAI made the surprise",
-        "image": "https://www.thewrap.com/wp-content/uploads/2025/10/Sam-Altman.jpg",
-        "source": "Thewrap",
-        "url": "https://www.thewrap.com/industry-news/business/openai-sam-altman-sora-shutdown-disney-josh-damaro-reaction/",
-        "date": "03 April 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Meta sells AI subscriptions while OpenAI and xAI walk into the ad business",
+        "title_en": "Meta sells AI subscriptions while OpenAI and xAI walk into the ad business",
+        "summary": "Meta’s $7.99-and-$19.99 chatbot tiers and OpenAI’s push into advertising mark the moment the AI revenue-model question becomes a cross-cutting collision. Meta’s decision to begin selling consumer subs",
+        "summary_en": "Meta’s $7.99-and-$19.99 chatbot tiers and OpenAI’s push into advertising mark the moment the AI revenue-model question becomes a cross-cutting collision. Meta’s decision to begin selling consumer subs",
+        "long_summary": "Meta’s $7.99-and-$19.99 chatbot tiers and OpenAI’s push into advertising mark the moment the AI revenue-model question becomes a cross-cutting collision. Meta’s decision to begin selling consumer subscriptions to its Meta AI chatbot at $7.99 and $19.99 a month, announced on Tuesday, lands at exactly the moment OpenAI and xAI are visibly moving the other way: into […]\nThis story continues at The Next Web",
+        "long_summary_en": "Meta’s $7.99-and-$19.99 chatbot tiers and OpenAI’s push into advertising mark the moment the AI revenue-model question becomes a cross-cutting collision. Meta’s decision to begin selling consumer subscriptions to its Meta AI chatbot at $7.99 and $19.99 a month, announced on Tuesday, lands at exactly the moment OpenAI and xAI are visibly moving the other way: into […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/04/Meta.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/meta-ai-subscriptions-openai-xai-ad-business-collision",
+        "date": "28 May 2026"
+      },
       {
         "title": "Google launches AI Threat Defense to take on Anthropic Mythos and OpenAI Daybreak - India Today",
         "title_en": "Google launches AI Threat Defense to take on Anthropic Mythos and OpenAI Daybreak - India Today",
@@ -715,18 +727,6 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
         "date": "26 May 2026"
-      },
-      {
-        "title": "Anthropic's Claude Mythos Leak Is Bigger Than You Think | InvestorPlace",
-        "title_en": "Anthropic's Claude Mythos Leak Is Bigger Than You Think | InvestorPlace",
-        "summary": "The Anthropic Claude Mythos leak confirms AI is entering a rapid ‘lift-off’ phase of exponential capability gains. AI infrastructure stocks benefit most, as more powerful models require massive comput",
-        "summary_en": "Gemini 3.1 Pro more than doubled ... prior examples – rising from about 31% to roughly 77%. <strong>GPT-5.4 marked a real inflection point in agentic execution</strong> – demonstrating the ability to ",
-        "long_summary": "The Anthropic Claude Mythos leak confirms AI is entering a rapid ‘lift-off’ phase of exponential capability gains. AI infrastructure stocks benefit most, as more powerful models require massive compute, memory, and energy. Software (SaaS) faces disruption, as AI agents replace human workflows – and the subscriptions tied to them. The Iran War has been the loudest story in the room for weeks, for good reason. Missiles, sanctions, proxy conflicts, oil spikes – it’s consuming every headline, every conversation, and frankly, a lot of investor headspace. But at the same time, loud stories like these have a way of drowning out the ones that are quietly reshaping everything else. Last week, for example, while most of the financial media was fixated on the latest developments out of the Persian Gulf, Anthropic accidentally leaked one of the biggest bombshells in recent tech history… A configuration error in its content management system left a trove of internal documents – draft blog posts, internal memos, PDFs – sitting in a publicly searchable data store with zero authentication requirements. And tucked inside those files was a draft describing a model called Claude Mythos – a next-generation AI system that Anthropic’s own internal documents describe as the most powerful model the company has ever built. When a security researcher stumbled across this revelation and the documents began spreading across forums and social media, Anthropic had a choice: deny, confirm, or say nothing. ",
-        "long_summary_en": "The Anthropic Claude Mythos leak confirms AI is entering a rapid ‘lift-off’ phase of exponential capability gains. AI infrastructure stocks benefit most, as more powerful models require massive compute, memory, and energy. Software (SaaS) faces disruption, as AI agents replace human workflows – and the subscriptions tied to them. The Iran War has been the loudest story in the room for weeks, for good reason. Missiles, sanctions, proxy conflicts, oil spikes – it’s consuming every headline, every conversation, and frankly, a lot of investor headspace. But at the same time, loud stories like thes",
-        "image": "https://investorplace.com/wp-content/uploads/2026/04/document-leak-computer-data.png",
-        "source": "Investorplace",
-        "url": "https://investorplace.com/hypergrowthinvesting/2026/04/anthropics-claude-mythos-leak-is-bigger-than-you-think/",
-        "date": "04 April 2026"
       }
     ],
     "audio": [
