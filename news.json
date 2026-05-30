@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "30 May 2026 - 18:36",
+  "lastUpdate": "30 May 2026 - 19:07",
   "categories": {
     "general": [
+      {
+        "title": "Meta is building an AI pendant. It also plans a business subscription called Wearables for Work.",
+        "title_en": "Meta is building an AI pendant. It also plans a business subscription called Wearables for Work.",
+        "summary": "Meta is developing an AI-powered pendant that it plans to start testing within the next year, according to an internal memo viewed by The Information. The device builds on the Limitless acquisition Me",
+        "summary_en": "Meta is developing an AI-powered pendant that it plans to start testing within the next year, according to an internal memo viewed by The Information. The device builds on the Limitless acquisition Me",
+        "long_summary": "Meta is developing an AI-powered pendant that it plans to start testing within the next year, according to an internal memo viewed by The Information. The device builds on the Limitless acquisition Meta completed at the end of 2025. Limitless made a pendant that users could clip to their shirt or wear as a necklace […]\nThis story continues at The Next Web",
+        "long_summary_en": "Meta is developing an AI-powered pendant that it plans to start testing within the next year, according to an internal memo viewed by The Information. The device builds on the Limitless acquisition Meta completed at the end of 2025. Limitless made a pendant that users could clip to their shirt or wear as a necklace […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/05/meta-ai-pendant-limitless-wearables-for-work.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/meta-ai-pendant-limitless-wearables-for-work",
+        "date": "30 May 2026"
+      },
       {
         "title": "Meta is reportedly developing an AI pendant",
         "title_en": "Meta is reportedly developing an AI pendant",
@@ -168,18 +180,6 @@
         "image": "https://cdn.thenewstack.io/media/2024/01/b293c498-perplexity_jan24-1024x550.jpg",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/05/28/perplexity-ai-open-sources-unigram-tokenizer-that-achieves-5x-lower-p50-latency-than-hugging-face-tokenizers-crate/",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-        "title_en": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-        "summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al",
-        "summary_en": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al",
-        "long_summary": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders […]",
-        "long_summary_en": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, allowing the agent to buy and sell stocks across the market. The company pitches the feature as a way for traders […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
         "date": "28 May 2026"
       }
     ],
