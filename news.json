@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "30 May 2026 - 17:36",
+  "lastUpdate": "30 May 2026 - 18:06",
   "categories": {
     "general": [
+      {
+        "title": "Meta is reportedly developing an AI pendant",
+        "title_en": "Meta is reportedly developing an AI pendant",
+        "summary": "Meta seems to be making big bets on AI-powered hardware.",
+        "summary_en": "Meta seems to be making big bets on AI-powered hardware.",
+        "long_summary": "Meta seems to be making big bets on AI-powered hardware.",
+        "long_summary_en": "Meta seems to be making big bets on AI-powered hardware.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "date": "30 May 2026"
+      },
       {
         "title": "Ex-DeepMind researchers raised $50M to build AI that figures out which scientific questions are worth asking",
         "title_en": "Ex-DeepMind researchers raised $50M to build AI that figures out which scientific questions are worth asking",
@@ -168,18 +180,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/acastro_STK049_03.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-        "title_en": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-        "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-        "summary_en": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-        "long_summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-        "long_summary_en": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
         "date": "28 May 2026"
       }
     ],
