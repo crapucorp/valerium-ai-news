@@ -1,7 +1,55 @@
 {
-  "lastUpdate": "28 May 2026 - 20:04",
+  "lastUpdate": "30 May 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation",
+        "title_en": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation",
+        "summary": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 ",
+        "summary_en": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 ",
+        "long_summary": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 hours to under 0.5 hours.\nThe post Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation appeared first on MarkTechPost.",
+        "long_summary_en": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 hours to under 0.5 hours.\nThe post Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-1-12-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+        "title_en": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+        "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an",
+        "summary_en": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an",
+        "long_summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes […]",
+        "long_summary_en": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+        "title_en": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+        "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe",
+        "summary_en": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe",
+        "long_summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+        "long_summary_en": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "What happens when companies become too AI-pilled?",
+        "title_en": "What happens when companies become too AI-pilled?",
+        "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “",
+        "summary_en": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “",
+        "long_summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+        "long_summary_en": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+        "date": "30 May 2026"
+      },
       {
         "title": "The hybrid model: why the smartest finance teams aren’t going all-in on AI",
         "title_en": "The hybrid model: why the smartest finance teams aren’t going all-in on AI",
@@ -133,57 +181,21 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
         "date": "26 May 2026"
-      },
-      {
-        "title": "What ClickUp’s mass layoff tells us about the future of work",
-        "title_en": "What ClickUp’s mass layoff tells us about the future of work",
-        "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-        "summary_en": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-        "long_summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-        "long_summary_en": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1247853635.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-        "date": "26 May 2026"
-      },
-      {
-        "title": "Latest Agentic AI News Today | Trends, Predictions, & Analysis",
-        "title_en": "Latest Agentic AI News Today | Trends, Predictions, & Analysis",
-        "summary": "<strong>Nvidia reshapes its AI strategy by acquiring assets from Groq, integrating their LPU technology to power high-value agentic AI workloads beyond traditional GPUs</strong>.",
-        "summary_en": "<strong>Nvidia reshapes its AI strategy by acquiring assets from Groq, integrating their LPU technology to power high-value agentic AI workloads beyond traditional GPUs</strong>.",
-        "long_summary": "<strong>Nvidia reshapes its AI strategy by acquiring assets from Groq, integrating their LPU technology to power high-value agentic AI workloads beyond traditional GPUs</strong>.",
-        "long_summary_en": "<strong>Nvidia reshapes its AI strategy by acquiring assets from Groq, integrating their LPU technology to power high-value agentic AI workloads beyond traditional GPUs</strong>.",
-        "image": "https://av-eks-lekhak.s3.amazonaws.com/media/article_images/AI_Agent_trend_in_2025-_What_to_expect_.webp",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/topics/agentic-ai/",
-        "date": "04 April 2026"
-      },
-      {
-        "title": "AI News & Artificial Intelligence | TechCrunch",
-        "title_en": "AI News & Artificial Intelligence | TechCrunch",
-        "summary": "–:–:–:– The first StrictlyVC of 2026 lands in San Francisco on April 30. Tickets are limited. Register here. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW .",
-        "summary_en": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
-        "long_summary": "–:–:–:– The first StrictlyVC of 2026 lands in San Francisco on April 30. Tickets are limited. Register here. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW .",
-        "long_summary_en": "–:–:–:– The first StrictlyVC of 2026 lands in San Francisco on April 30. Tickets are limited. Register here. Save up to $680 on your Disrupt 2026 pass. Ends 11:59 p.m. PT tonight. REGISTER NOW .",
-        "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/category/artificial-intelligence/",
-        "date": "04 April 2026"
-      },
-      {
-        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "How Artificial Intelligence is creating the next normal · ago · DeepSeek&#x27;s V4 model will run on Huawei chips, The Information reports · China&#x27;s DeepSeek&#x27;s new model called V4 will run o",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://www.reuters.com/resizer/v2/WXT4O2WZSVPAPE362EHFJD5PRE.jpg?auth=f5e7be6abdb86bb5f5f0371d4f7a977ffe3d330e80d12760895e0b4dc8a7c9c7&width=960&quality=80",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "04 April 2026"
       }
     ],
     "image": [
+      {
+        "title": "Adobe’s conversational AI agent is a mediocre design intern",
+        "title_en": "Adobe’s conversational AI agent is a mediocre design intern",
+        "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re",
+        "summary_en": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re",
+        "long_summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a […]",
+        "long_summary_en": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+        "date": "30 May 2026"
+      },
       {
         "title": "Nvidia’s $2 billion Marvell bet is not an investment. It is a toll booth.",
         "title_en": "Nvidia’s $2 billion Marvell bet is not an investment. It is a toll booth.",
@@ -351,21 +363,33 @@
         "source": "zdnet_ai",
         "url": "https://www.zdnet.com/article/how-to-get-another-15gb-gmail-storage-for-free/",
         "date": "16 March 2026"
-      },
-      {
-        "title": "Zhipu AI présente GLM-OCR : un modèle multimodal compact pour l'extraction d'informations",
-        "title_en": "Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE)",
-        "summary": "GLM-OCR, un modèle OCR de 0,9 milliard de paramètres, révolutionne l'extraction d'informations dans les documents complexes.",
-        "summary_en": "Why Document OCR Still Remains a Hard Engineering Problem? What does it take to make OCR useful for real documents instead of clean demo images? And can a compact multimodal model handle parsing, tabl",
-        "long_summary": "L'OCR reste un défi technique majeur pour les documents réels, loin des images propres des démonstrations. GLM-OCR, développé par Zhipu AI, combine vision et langage pour traiter tables, formules et structures sans surconsommation de ressources.\n\nPoints clés :\n• Modèle compact de 0,9 milliard de paramètres\n• Capacité à traiter documents complexes, tables et formules\n• Approche multimodale pour une extraction structurée efficace\n\nConclusion sur les implications : GLM-OCR pourrait redéfinir les standards de l'OCR en combinant performance et efficacité énergétique.",
-        "long_summary_en": "Why Document OCR Still Remains a Hard Engineering Problem? What does it take to make OCR useful for real documents instead of clean demo images? And can a compact multimodal model handle parsing, tables, formulas, and structured extraction without turning inference into a resource bonfire? That is the problem targeted by GLM-OCR, introduced by researchers […]\nThe post Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE) appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-banner23-38-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/",
-        "date": "15 March 2026"
       }
     ],
     "video": [
+      {
+        "title": "Pika",
+        "title_en": "Pika",
+        "summary": "Pika Welcome To The Pika Universe C r e a t e A I v i d e o s , a u t o m a t e w o r k f l o w s , u s e a g e n t s , a n d m o r e 5s Sign up to adjust settings Pika 2.5 Sign up to adjust settings ",
+        "summary_en": "Create AI videos, automate workflows, use agents, and more",
+        "long_summary": "Pika Welcome To The Pika Universe C r e a t e A I v i d e o s , a u t o m a t e w o r k f l o w s , u s e a g e n t s , a n d m o r e 5s Sign up to adjust settings Pika 2.5 Sign up to adjust settings Generate Explore more Pika Products Pika Agent Create your AI Agent Take your videos to the next level with Pika models and editing tools like Pikascenes, Pikaswaps, and more. Try on Web App Store Pika MCP Make your agent creative Hop on any video trend, or create your own, with just a selfie and sound. Install Pika MCP Pika Video App Pika Video Official App Squish it. Melt it. Cake-ify it. Turn any photo into a reality-bending video with just one tap. Get the Pikaffects App",
+        "long_summary_en": "Pika Welcome To The Pika Universe C r e a t e A I v i d e o s , a u t o m a t e w o r k f l o w s , u s e a g e n t s , a n d m o r e 5s Sign up to adjust settings Pika 2.5 Sign up to adjust settings Generate Explore more Pika Products Pika Agent Create your AI Agent Take your videos to the next level with Pika models and editing tools like Pikascenes, Pikaswaps, and more. Try on Web App Store Pika MCP Make your agent creative Hop on any video trend, or create your own, with just a selfie and sound. Install Pika MCP Pika Video App Pika Video Official App Squish it. Melt it. Cake-ify it. Turn a",
+        "image": "https://pika-p5qw79b04-pika-labs.vercel.app/images/og.jpeg",
+        "source": "Pika",
+        "url": "https://pika.art/",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "Best Open Source AI Video Generation Models in 2026",
+        "title_en": "Best Open Source AI Video Generation Models in 2026",
+        "summary": "Home Blog Best open source ai video generation models AI Video Generator Best Open Source AI Video Generation Models in 2026 By Abhinav Girdhar | Last Updated on May 29th, 2026 11:53 am Table of Conte",
+        "summary_en": "From cinematic sequences to product demos and animated explainers, <strong>AI video generator is reshaping how visual content is created</strong>. While proprietary systems such as Sora and Veo have p",
+        "long_summary": "Home Blog Best open source ai video generation models AI Video Generator Best Open Source AI Video Generation Models in 2026 By Abhinav Girdhar | Last Updated on May 29th, 2026 11:53 am Table of Contents 1. What is an Open-Source AI Video Generation Model? 2. How Do Open-Source Video Generation Models Actually Work? 3. What Should You Consider Before Choosing a Video Generation Model? 4. Which Are the Best Open-Source AI Video Generation Models? 4.1. Wan 2.2 4.2. HunyuanVideo 4.3. Mochi 1 4.4. LTX-Video 4.5. CogVideoX-5B 5. How Do These Models Compare Head-to-Head? 6. Final Verdict — Which AI Video Generation Model Should You Choose? 7. Future of Open-Source AI Video Generation 8. Frequently Asked Questions AI-generated video is no longer a futuristic experiment. In 2026, it's a serious creative tool. What used to require production teams, green screens, animation software, and weeks of editing can now begin with a text prompt and a capable GPU. From cinematic sequences to product demos and animated explainers, AI video generator is reshaping how visual content is created. While proprietary systems such as Sora and Veo have pushed the boundaries of realism, many creators are turning toward a different direction — open infrastructure. Closed systems offer convenience, but they also come with restrictions: watermarks, API limits, moderation filters, and limited model-level control. For professionals who care about ownership, customization, and privacy, that tradeoff doesn't alw",
+        "long_summary_en": "Home Blog Best open source ai video generation models AI Video Generator Best Open Source AI Video Generation Models in 2026 By Abhinav Girdhar | Last Updated on May 29th, 2026 11:53 am Table of Contents 1. What is an Open-Source AI Video Generation Model? 2. How Do Open-Source Video Generation Models Actually Work? 3. What Should You Consider Before Choosing a Video Generation Model? 4. Which Are the Best Open-Source AI Video Generation Models? 4.1. Wan 2.2 4.2. HunyuanVideo 4.3. Mochi 1 4.4. LTX-Video 4.5. CogVideoX-5B 5. How Do These Models Compare Head-to-Head? 6. Final Verdict — Which AI ",
+        "image": "https://www.pixazo.ai/blog/wp-content/uploads/2026/05/pixazo-main-1024x605.png",
+        "source": "Pixazo",
+        "url": "https://www.pixazo.ai/blog/best-open-source-ai-video-generation-models",
+        "date": "30 May 2026"
+      },
       {
         "title": "Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models",
         "title_en": "Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models",
@@ -521,33 +545,81 @@
         "source": "Techradar",
         "url": "https://www.techradar.com/ai-platforms-assistants/google-is-pushing-ai-video-into-ordinary-life-just-as-openai-pulls-sora-back",
         "date": "04 April 2026"
-      },
-      {
-        "title": "An ultimate infrastructure for AI Video and Image Generation by Higgsfield",
-        "title_en": "An ultimate infrastructure for AI Video and Image Generation by Higgsfield",
-        "summary": "Browse trending AI-generated videos and images from the Higgsfield community. Find creative inspiration, try new tools, and see what top creators are making.",
-        "summary_en": "Browse trending AI-generated videos and images from the Higgsfield community. Find creative inspiration, try new tools, and see what top creators are making.",
-        "long_summary": "Browse trending AI-generated videos and images from the Higgsfield community. Find creative inspiration, try new tools, and see what top creators are making.",
-        "long_summary_en": "Browse trending AI-generated videos and images from the Higgsfield community. Find creative inspiration, try new tools, and see what top creators are making.",
-        "image": "https://higgsfield.ai/thumbnail/default.jpg",
-        "source": "Higgsfield",
-        "url": "https://higgsfield.ai/",
-        "date": "04 April 2026"
-      },
-      {
-        "title": "Why OpenAI Shut Down Sora: Sam Altman Felt 'Terrible' Telling News to Disney CEO Josh D'Amaro",
-        "title_en": "Why OpenAI Shut Down Sora: Sam Altman Felt 'Terrible' Telling News to Disney CEO Josh D'Amaro",
-        "summary": "Apr 2, 2026 9:25am PT Sam Altman Felt ‘Terrible’ Telling Disney CEO Josh D’Amaro About OpenAI’s Decision to Kill Off Sora, Says Companies Still Looking to Collaborate By Todd Spangler Plus Icon Todd S",
-        "summary_en": "Last week, OpenAI CEO Sam Altman broke the news to newly installed Disney CEO Josh D’Amaro that <strong>the AI giant was killing off the Sora video-gen platform</strong> — before Disney was able to la",
-        "long_summary": "Apr 2, 2026 9:25am PT Sam Altman Felt ‘Terrible’ Telling Disney CEO Josh D’Amaro About OpenAI’s Decision to Kill Off Sora, Says Companies Still Looking to Collaborate By Todd Spangler Plus Icon Todd Spangler NY Digital Editor xpangler Latest Fox Corp.’s Red Seat Ventures, Whose Creator Network Includes Megyn Kelly and Tucker Carlson, Debuts a Podcast Platform for Anyone to Launch Their Own Show 2 days ago OpenAI Buys TBPN, a Daily Tech Talk Show, to Help Drive ‘Constructive Conversation’ About AI 2 days ago Donald Trump Fires Pam Bondi as Attorney General 2 days ago See All Getty Images Last week, OpenAI CEO Sam Altman broke the news to newly installed Disney CEO Josh D’Amaro that the AI giant was killing off the Sora video-gen platform — before Disney was able to launch its characters in the system. Altman felt “terrible” about it, but added that Disney and OpenAI are still looking to work together, the tech CEO said in his first interview since the Sora announcement. About the decision to shutter Sora, Altman said it boiled down to resource allocation — that OpenAI needed to “concentrate our compute and our product capacity into these next generation of automated researchers and companies,” he said, speaking on iHeartPodcasts’ “Mostly Human” hosted by tech journalist Laurie Segall. Popular on Variety Related Stories Blake Lively Vows to Fight 'Digital Violence' at Trial After Most Claims Dismissed 'Spaceballs' Sequel Set for April 2027 Release Date Disney, which was reporte",
-        "long_summary_en": "Apr 2, 2026 9:25am PT Sam Altman Felt ‘Terrible’ Telling Disney CEO Josh D’Amaro About OpenAI’s Decision to Kill Off Sora, Says Companies Still Looking to Collaborate By Todd Spangler Plus Icon Todd Spangler NY Digital Editor xpangler Latest Fox Corp.’s Red Seat Ventures, Whose Creator Network Includes Megyn Kelly and Tucker Carlson, Debuts a Podcast Platform for Anyone to Launch Their Own Show 2 days ago OpenAI Buys TBPN, a Daily Tech Talk Show, to Help Drive ‘Constructive Conversation’ About AI 2 days ago Donald Trump Fires Pam Bondi as Attorney General 2 days ago See All Getty Images Last w",
-        "image": "https://variety.com/wp-content/uploads/2026/04/Sam-Altman-OpenAI-Josh-DAmaro-Disney.jpg?w=1000&h=563&crop=1",
-        "source": "Variety",
-        "url": "https://variety.com/2026/digital/news/why-openai-shut-down-sora-sam-altman-felt-terrible-disney-ceo-josh-damaro-1236705497/",
-        "date": "04 April 2026"
       }
     ],
     "llm": [
+      {
+        "title": "The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times",
+        "title_en": "The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times",
+        "summary": "nytimes.com Please enable JS and disable any ad blocker",
+        "summary_en": "That’s no longer the case. <strong>Anthropic has taken that crown with its $65 billion fund-raising round</strong>. How the company went from also-ran to 900-pound gorilla is a reflection of the curre",
+        "long_summary": "nytimes.com Please enable JS and disable any ad blocker",
+        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
+        "image": "https://img.etimg.com/thumb/msid-130572326,imgsize-32120,width-138,height-104/quote-of-the-day-by-queen-elizabeth-ii-to-be-inspirational-you-dont-have-to-save-lives-or.jpg",
+        "source": "Nytimes",
+        "url": "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "Claude Opus 4.8 Tops Gemini And GPT On Multiple Coding Tests | Yellow.com",
+        "title_en": "Claude Opus 4.8 Tops Gemini And GPT On Multiple Coding Tests | Yellow.com",
+        "summary": "Anthropic released Claude Opus 4.8 , claiming the upgraded model outperforms OpenAI 's GPT-5.5 and Google 's Gemini 3.1 Pro on several coding benchmarks. Key Points: Anthropic launched Claude Opus 4.8",
+        "summary_en": "<strong>Anthropic released Claude Opus 4.8</strong>, claiming the upgraded model outperforms OpenAI&#x27;s GPT-5.5 and Google&#x27;s Gemini 3.1 Pro on several coding benchmarks.",
+        "long_summary": "Anthropic released Claude Opus 4.8 , claiming the upgraded model outperforms OpenAI 's GPT-5.5 and Google 's Gemini 3.1 Pro on several coding benchmarks. Key Points: Anthropic launched Claude Opus 4.8 on May 28, pricing it level with the prior 4.7 release. The company says it tops OpenAI's GPT-5.5 and Google's Gemini 3.1 Pro on SWE-Bench Pro and other tests. A revamped fast mode and dynamic workflows aim to cut the cost and time of agentic work. Claude Opus 4.8 Tops Coding Benchmarks The company unveiled the model Thursday, building on the Opus 4.7 version it shipped about six weeks earlier. Anthropic said Opus 4.8 scored 69.2% on the SWE-Bench Pro coding test, beating both rivals there and topping them on several other measures. It also reported gains in computer use, knowledge work and financial analysis, along with a 74.2% mark on the Terminal-Bench 2.1 benchmark. Anthropic framed the release as a more honest model, saying testers found it flags its own uncertainty and stops short of unsupported claims. Internal reviews rate it about four times less likely than Opus 4.7 to let coding flaws slip past, and the firm says it scores higher on respecting user autonomy. Also Read: Cardano Whales Seize 67.5% Of ADA Supply, A Six-Year High Why Anthropic's Cost Controls Matter Pricing held steady at $5 per million input tokens and $25 per million output tokens. A revamped fast mode now runs about 150% quicker and costs three times less than the earlier setting. Anthropic also opened",
+        "long_summary_en": "Anthropic released Claude Opus 4.8 , claiming the upgraded model outperforms OpenAI 's GPT-5.5 and Google 's Gemini 3.1 Pro on several coding benchmarks. Key Points: Anthropic launched Claude Opus 4.8 on May 28, pricing it level with the prior 4.7 release. The company says it tops OpenAI's GPT-5.5 and Google's Gemini 3.1 Pro on SWE-Bench Pro and other tests. A revamped fast mode and dynamic workflows aim to cut the cost and time of agentic work. Claude Opus 4.8 Tops Coding Benchmarks The company unveiled the model Thursday, building on the Opus 4.7 version it shipped about six weeks earlier. A",
+        "image": "https://media.yellow.com/uploads/shutterstock_2737162387_3422aa599b.jpg",
+        "source": "Yellow",
+        "url": "https://yellow.com/news/claude-opus-48-tops-gemini-gpt",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "Claude Opus 4.8 vs GPT 5.5 vs Gemini 3.1 Pro - Complete breakdown of latest AI release | Hindustan Times",
+        "title_en": "Claude Opus 4.8 vs GPT 5.5 vs Gemini 3.1 Pro - Complete breakdown of latest AI release | Hindustan Times",
+        "summary": "Anthropic published a direct comparison chart in its press release. While Claude Opus 4.8 leads most benchmark categories overall, <strong>GPT-5.5 actually outperformed it in one critical area: agenti",
+        "summary_en": "Anthropic published a direct comparison chart in its press release. While Claude Opus 4.8 leads most benchmark categories overall, <strong>GPT-5.5 actually outperformed it in one critical area: agenti",
+        "long_summary": "Anthropic published a direct comparison chart in its press release. While Claude Opus 4.8 leads most benchmark categories overall, <strong>GPT-5.5 actually outperformed it in one critical area: agentic terminal coding</strong>.",
+        "long_summary_en": "Anthropic published a direct comparison chart in its press release. While Claude Opus 4.8 leads most benchmark categories overall, <strong>GPT-5.5 actually outperformed it in one critical area: agentic terminal coding</strong>.",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/28/1600x900/logo/Claude_Opus_48__1779993902427_1779993902549_c20acf1e-f109-41bf-bb58-0060c40e061d.jpg",
+        "source": "Hindustantimes",
+        "url": "https://www.hindustantimes.com/world-news/us-news/claude-opus-4-8-vs-gpt-5-5-vs-gemini-3-1-pro-complete-breakdown-of-latest-ai-release-101779992999436-amp.html",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
+        "title_en": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
+        "summary": "Business Insider tells the innovative stories you want to know",
+        "summary_en": "While Anthropic hypes its unreleased Mythos AI model as dangerously powerful, Google is changing the conversation — to cost and speed. Google says its latest Gemini 3.5 Flash model rivals frontier off",
+        "long_summary": "Business Insider tells the innovative stories you want to know",
+        "long_summary_en": "Business Insider tells the innovative stories you want to know",
+        "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
+        "source": "Businessinsider",
+        "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
+        "title_en": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
+        "summary": "NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54\nThe post NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by ",
+        "summary_en": "NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54\nThe post NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by ",
+        "long_summary": "NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54\nThe post NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B appeared first on MarkTechPost.",
+        "long_summary_en": "NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54\nThe post NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B appeared first on MarkTechPost.",
+        "image": "",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/05/29/nvidia-introduces-x-token-projection-guided-cross-tokenizer-kd-that-outperforms-gold-by-3-82-average-points-on-llama-3-2-1b/",
+        "date": "30 May 2026"
+      },
+      {
+        "title": "Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4",
+        "title_en": "Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4",
+        "summary": "Nous Research's Hermes Agent adds Tool Search to fix MCP context bloat using BM25 progressive schema disclosure.\nThe post Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accura",
+        "summary_en": "Nous Research's Hermes Agent adds Tool Search to fix MCP context bloat using BM25 progressive schema disclosure.\nThe post Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accura",
+        "long_summary": "Nous Research's Hermes Agent adds Tool Search to fix MCP context bloat using BM25 progressive schema disclosure.\nThe post Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4 appeared first on MarkTechPost.",
+        "long_summary_en": "Nous Research's Hermes Agent adds Tool Search to fix MCP context bloat using BM25 progressive schema disclosure.\nThe post Hermes Agent Ships Tool Search for MCP: Anthropic Evals Show 49% to 74% Accuracy Gain on Opus 4 appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog13-8-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/05/29/hermes-agent-ships-tool-search-for-mcp-anthropic-evals-show-49-to-74-accuracy-gain-on-opus-4/",
+        "date": "30 May 2026"
+      },
       {
         "title": "Claude’s new model is more ‘honest’ when it messes up",
         "title_en": "Claude’s new model is more ‘honest’ when it messes up",
@@ -654,78 +726,6 @@
         "image": "https://media.thenextweb.com/2026/04/Meta.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/meta-ai-subscriptions-openai-xai-ad-business-collision",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "Google launches AI Threat Defense to take on Anthropic Mythos and OpenAI Daybreak - India Today",
-        "title_en": "Google launches AI Threat Defense to take on Anthropic Mythos and OpenAI Daybreak - India Today",
-        "summary": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/google-launches-ai-threat-defense-to-take-on-anthropic-mythos-and-openai-daybreak-291826",
-        "summary_en": "Google’s new tool arrives after Anthropic launched its cybersecurity-focused AI model Claude Mythos in April and <strong>OpenAI introduced the Daybreak platform, built on GPT-5.5, earlier in May 2026<",
-        "long_summary": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/google-launches-ai-threat-defense-to-take-on-anthropic-mythos-and-openai-daybreak-2918268-2026-05-28\" on this server. Reference #18.9e2a1202.1779964283.8691828 https://errors.edgesuite.net/18.9e2a1202.1779964283.8691828",
-        "long_summary_en": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/google-launches-ai-threat-defense-to-take-on-anthropic-mythos-and-openai-daybreak-2918268-2026-05-28\" on this server. Reference #18.9e2a1202.1779964283.8691828 https://errors.edgesuite.net/18.9e2a1202.1779964283.8691828",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202605/google-ai-threat-defense-283312153-1x1.png?VersionId=MAhp8S3Byo0fASEPdYKIiC5PX60yhKiV&size=80:80",
-        "source": "Indiatoday",
-        "url": "https://www.indiatoday.in/technology/news/story/google-launches-ai-threat-defense-to-take-on-anthropic-mythos-and-openai-daybreak-2918268-2026-05-28",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
-        "title_en": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
-        "summary": "Marcus Chen Stockholm, Sweden March 15, 2026 34 min read Last updated: May 12, 2026 — Refreshed with verified mid-2026 benchmark, cost, and throughput data from Spectrum AI Labs, NxCode, and AIMagicX.",
-        "summary_en": "<strong>On March 5, OpenAI dropped GPT-5.4 “Thinking”</strong> — a model that achieves what the company internally benchmarked as GPT-6-level reasoning within a smaller, faster architecture.",
-        "long_summary": "Marcus Chen Stockholm, Sweden March 15, 2026 34 min read Last updated: May 12, 2026 — Refreshed with verified mid-2026 benchmark, cost, and throughput data from Spectrum AI Labs, NxCode, and AIMagicX. May 2026 Quick Answer: Which Model Wins What Best for coding (verified): Claude Opus 4.6 — 80.8% SWE-bench single-attempt , 81.42% with prompt modification . Best for cost: DeepSeek V4 — ~$0.28 per million input tokens , roughly 50x cheaper than Claude Opus 4.6 on input. Best for throughput: Gemini 3.1 Pro — 120.3 tokens/sec output , about 2x Claude and 1.6x GPT-5.4 . Best balanced default: GPT-5.4 — competitive on every axis when a multi-model stack isn’t an option. March 2026 has delivered the most explosive month in artificial intelligence history. In the span of just two weeks, OpenAI, Anthropic, Google DeepMind, and DeepSeek all released flagship models that redefine what AI can do. If you’ve been searching for a definitive answer to the chatgpt vs claude debate, or trying to figure out where DeepSeek and Gemini fit into the picture, you’ve come to the right place. This is the only comparison you need to read this month. March 2026 Update: Latest Benchmark Results and Release Developments Updated March 30, 2026. As March draws to a close, the dust is settling on what has been the most competitive month in AI history. No major new model releases or benchmark updates have emerged in the past week (March 23–29), giving developers and enterprises time to evaluate the four flags",
-        "long_summary_en": "Marcus Chen Stockholm, Sweden March 15, 2026 34 min read Last updated: May 12, 2026 — Refreshed with verified mid-2026 benchmark, cost, and throughput data from Spectrum AI Labs, NxCode, and AIMagicX. May 2026 Quick Answer: Which Model Wins What Best for coding (verified): Claude Opus 4.6 — 80.8% SWE-bench single-attempt , 81.42% with prompt modification . Best for cost: DeepSeek V4 — ~$0.28 per million input tokens , roughly 50x cheaper than Claude Opus 4.6 on input. Best for throughput: Gemini 3.1 Pro — 120.3 tokens/sec output , about 2x Claude and 1.6x GPT-5.4 . Best balanced default: GPT-5",
-        "image": "https://tech-insider.org/wp-content/uploads/2026/03/feat-chatgpt-vs-claude-vs-deepseek-vs-gemini-2026-1.jpg",
-        "source": "Tech-Insider",
-        "url": "https://tech-insider.org/chatgpt-vs-claude-vs-deepseek-vs-gemini-2026/",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (May 2026) – Latest AI Model Releases",
-        "summary": "AI Updates Today (May 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Alibaba Cloud / Qwen Team Google xAI OpenA",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "AI Updates Today (May 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI Anthropic WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI May 19, 2026 · 2 release s Gemini 3.5 Flash Lightweight Proprietary Google • 1w ago Qwen3.7 Max Pro Proprietary Alibaba Cloud / Qwen Team • 1w ago May 6, 2026 · 1 release Grok 4.3 Release Proprietary xAI • 3w ago May 5, 2026 · 1 release GPT-5.5 Instant Lightweight Proprietary OpenAI • 3w ago Apr 29, 2026 · 1 release Mistral Medium 3.5 Release Open Source Mistral AI • 0mo ago Apr 23, 2026 · 3 release s DeepSeek-V4-Flash-Max Pro Open Source DeepSeek • 1mo ago DeepSeek-V4-Pro-Max Pro Open Source DeepSeek • 1mo ago GPT-5.5 Release Proprietary OpenAI • 1mo ago 1 – 8 of 301 1 2 3 4 5 6 7 Last 30 days Models that got worse Worse 1 Better 1 Sigma-normalized vs. each model's baseline Gemini 3.1 Pro Google · 3mo old −0.26σ now +1.53σ 103 votes · 1 arena How is this measured? ⌄ For each model we reconstruct daily TrueSkill conservative ratings per arena from match-level vote outcomes,",
-        "long_summary_en": "AI Updates Today (May 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI Anthropic WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Resear",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
-        "title_en": "Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference",
-        "summary": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.\nThe post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Dr",
-        "summary_en": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.\nThe post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Dr",
-        "long_summary": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.\nThe post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference appeared first on MarkTechPost.",
-        "long_summary_en": "The EAGLE team, vLLM, and TorchSpec jointly release EAGLE 3.1 to fix speculative decoding instability in production.\nThe post Meet EAGLE 3.1: The Speculative Decoding Algorithm That Fixes Attention Drift in LLM Inference appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog13-1-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/05/27/meet-eagle-3-1-the-speculative-decoding-algorithm-that-fixes-attention-drift-in-llm-inference/",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
-        "title_en": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
-        "summary": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between t",
-        "summary_en": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between t",
-        "long_summary": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The framework is registered as a NeMo Gym environment and released under the ProRL Agent Server repository",
-        "long_summary_en": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy between the harness and the inference server, capturing token-level interactions and reconstructing trainer-ready trajectories. Using GRPO on a Qwen3.5-4B base model, Polar improves SWE-Bench Verified pass@1 by 22.6 points under the Codex harness, 4.8 points under Claude Code, and 6.2 points under Pi. The framework is registered as a NeMo Gym environment and released under the ProRL Agent Server repository",
-        "image": "https://arxiv.org/html/2605.24220v1/assets/rollout_style_vs.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
-        "date": "28 May 2026"
-      },
-      {
-        "title": "Mistral launches Industrial Engineering AI with Airbus, BMW and EDF as headline customers",
-        "title_en": "Mistral launches Industrial Engineering AI with Airbus, BMW and EDF as headline customers",
-        "summary": "At its first annual conference in Paris, Mistral formally rolled out the physics-aware AI stack it built around the Emmi acquisition, with Airbus, BMW and EDF as launch customers. Mistral AI used its ",
-        "summary_en": "At its first annual conference in Paris, Mistral formally rolled out the physics-aware AI stack it built around the Emmi acquisition, with Airbus, BMW and EDF as launch customers. Mistral AI used its ",
-        "long_summary": "At its first annual conference in Paris, Mistral formally rolled out the physics-aware AI stack it built around the Emmi acquisition, with Airbus, BMW and EDF as launch customers. Mistral AI used its first annual conference in Paris on Thursday to formally launch “Mistral for Industrial Engineering,” a physics-aware AI stack pitched directly at heavy-industry […]\nThis story continues at The Next Web",
-        "long_summary_en": "At its first annual conference in Paris, Mistral formally rolled out the physics-aware AI stack it built around the Emmi acquisition, with Airbus, BMW and EDF as launch customers. Mistral AI used its first annual conference in Paris on Thursday to formally launch “Mistral for Industrial Engineering,” a physics-aware AI stack pitched directly at heavy-industry […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/Mistral-AI.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/mistral-physical-ai-airbus-bmw-industrial-launch",
         "date": "28 May 2026"
       }
     ],
@@ -914,18 +914,11 @@
   },
   "hotNews": [
     {
-      "title": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
-      "title_en": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
-      "source": "Tech-Insider",
-      "url": "https://tech-insider.org/chatgpt-vs-claude-vs-deepseek-vs-gemini-2026/",
-      "date": "28 May 2026"
-    },
-    {
-      "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (May 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
-      "date": "28 May 2026"
+      "title": "Claude Opus 4.8 Tops Gemini And GPT On Multiple Coding Tests | Yellow.com",
+      "title_en": "Claude Opus 4.8 Tops Gemini And GPT On Multiple Coding Tests | Yellow.com",
+      "source": "Yellow",
+      "url": "https://yellow.com/news/claude-opus-48-tops-gemini-gpt",
+      "date": "30 May 2026"
     },
     {
       "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
@@ -933,6 +926,13 @@
       "source": "Etvbharat",
       "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
       "date": "29 March 2026"
+    },
+    {
+      "title": "AI News Today - May 28, 2026: 11 Biggest Stories",
+      "title_en": "AI News Today - May 28, 2026: 11 Biggest Stories",
+      "source": "Buildfastwithai",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-may-28-2026",
+      "date": "28 May 2026"
     }
   ]
 }
