@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31 May 2026 - 21:04",
+  "lastUpdate": "31 May 2026 - 21:34",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Google's Gemini 3.5 Flash costs 3x the model it replaced, and the era of cheap AI is ending",
+        "title_en": "Google's Gemini 3.5 Flash costs 3x the model it replaced, and the era of cheap AI is ending",
+        "summary": "By Adam Conway Published May 31, 2026, 3:00 PM EDT I’m Adam Conway, an Irish technology fanatic with a BSc in Computer Science and I'm XDA’s Lead Technical Editor. My Bachelor’s thesis was conducted o",
+        "summary_en": "OpenAI has its mini and nano models, Anthropic has Haiku, and the assumption underneath all of them was simple. Next year&#x27;s budget model would cost about the same as the previous year, or it migh",
+        "long_summary": "By Adam Conway Published May 31, 2026, 3:00 PM EDT I’m Adam Conway, an Irish technology fanatic with a BSc in Computer Science and I'm XDA’s Lead Technical Editor. My Bachelor’s thesis was conducted on the viability of benchmarking the non-functional elements of Android apps and smartphones such as performance, and I’ve been working in the tech industry in some way or another since 2017. In my spare time, you’ll probably find me playing Counter-Strike or VALORANT, and you can reach out to me at adam@xda-developers.com , on Twitter as @AdamConwayIE , on Instagram as AdamConwayIE , or u/AdamConwayIE on Reddit. Sign in to your XDA account For most of the past couple years, AI pricing has been in flux, seemingly getting cheaper or only slightly increasing. Every new model from a major lab seemed to arrive as something faster, smarter, and sometimes even cheaper than the one before it, and the cheapest tier of all was the one you reached for when you wanted good-enough intelligence at throwaway prices. Google calls its version Flash. OpenAI has its mini and nano models, Anthropic has Haiku, and the assumption underneath all of them was simple. Next year's budget model would cost about the same as the previous year, or it might even be a little bit cheaper. Google's Gemini 3.5 Flash has shattered that assumption; released on May 19, it costs $1.50 per million input tokens and $9 per million output tokens. The model it effectively replaces, Gemini 3 Flash, ran at $0.50 and $3, makin",
+        "long_summary_en": "By Adam Conway Published May 31, 2026, 3:00 PM EDT I’m Adam Conway, an Irish technology fanatic with a BSc in Computer Science and I'm XDA’s Lead Technical Editor. My Bachelor’s thesis was conducted on the viability of benchmarking the non-functional elements of Android apps and smartphones such as performance, and I’ve been working in the tech industry in some way or another since 2017. In my spare time, you’ll probably find me playing Counter-Strike or VALORANT, and you can reach out to me at adam@xda-developers.com , on Twitter as @AdamConwayIE , on Instagram as AdamConwayIE , or u/AdamConw",
+        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/gemini-3-5-flash-feature-image-1.jpg?w=1600&h=900&fit=crop",
+        "source": "Xda-Developers",
+        "url": "https://www.xda-developers.com/google-gemini-3-5-flash-costs-3x-model-replaced-cheap-ai-ending/",
+        "date": "31 May 2026"
+      },
+      {
         "title": "Google releases Gemini 3.5 Flash; surpasses GPT-5.5 in agentic benchmarks",
         "title_en": "Google releases Gemini 3.5 Flash; surpasses GPT-5.5 in agentic benchmarks",
         "summary": "MSN",
@@ -714,18 +726,6 @@
         "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
         "source": "Businessinsider",
         "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
-        "title_en": "NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B",
-        "summary": "NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54\nThe post NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by ",
-        "summary_en": "NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54\nThe post NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by ",
-        "long_summary": "NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54\nThe post NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B appeared first on MarkTechPost.",
-        "long_summary_en": "NVIDIA's X-Token fixes two structural failures in GOLD and improves GSM8k accuracy from 2.56 to 15.54\nThe post NVIDIA Introduces X-Token: Projection-Guided Cross-Tokenizer KD That Outperforms GOLD by +3.82 Average Points on Llama-3.2-1B appeared first on MarkTechPost.",
-        "image": "",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/05/29/nvidia-introduces-x-token-projection-guided-cross-tokenizer-kd-that-outperforms-gold-by-3-82-average-points-on-llama-3-2-1b/",
         "date": "30 May 2026"
       }
     ],
