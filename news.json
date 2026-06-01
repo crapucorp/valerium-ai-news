@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02 June 2026 - 00:34",
+  "lastUpdate": "02 June 2026 - 01:05",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
+        "title_en": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
+        "summary": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's s",
+        "summary_en": "The massive context-window gap that OpenAI once dominated has officially closed. Take a look at how the top three stack up today: OpenAI’s GPT-5.5: <strong>Ships with a 1 million-token context window<",
+        "long_summary": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's safe to say ChatGPT started the AI revolution. And while Claude and Gemini have knocked it out of the top spot a few times — and QuitGPT caused some users to stray — for the most part, it remains king. But behind all that mainstream hype, a quieter shift is happening among the platform’s power users. With the AI arms race heating up, the massive gap between OpenAI and the competition has pretty much vanished, especially for power users like developers and data analysts. Don't get me wrong, OpenAI is still cranking out incredible updates at a crazy pace. The issue is that its rivals have caught up on the basics, and they’re actually starting to beat OpenAI on the exact tools needed for serious work. RELATED: Anthropic just filed for IPO: 5 things you need to know If ChatGPT doesn't sharpen its edge on reliable long-context recall and autonomous multi-agent execution, it risks ceding its most demanding users to Google's Gemini and Anthropic's Claude. Latest Videos From Watch full video here: It's no longer a specs race It’s tempting to look at the latest AI flagship models and assume whoever has the biggest \"memory\" is winning. Although, even there Gemini Spark and Gemini Intelligence give ChatGPT a run for its money. But memory alone, is where a lot of people get it wrong. The mass",
+        "long_summary_en": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's safe to say ChatGPT started the AI revolution. And while Claude and Gemini have knocked it out of the top spot a few times — and QuitGPT caused some users to stray — for the most part, it remains king. But behind all that mainstream hype, a quieter shift is happening among the platform’s power users. With the AI arms race heating up, the massive gap between OpenAI and the competition has pretty muc",
+        "image": "https://cdn.mos.cms.futurecdn.net/k7i24zs2yAFtzzLsiDuGsL-2000-80.jpg",
+        "source": "Tomsguide",
+        "url": "https://www.tomsguide.com/ai/i-use-chatgpt-every-day-but-gemini-and-claude-keep-beating-it-in-these-key-areas",
+        "date": "02 June 2026"
+      },
+      {
         "title": "AI - Bloomberg",
         "title_en": "AI - Bloomberg",
         "summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure",
@@ -714,18 +726,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "Anthropic files to go public",
-        "title_en": "Anthropic files to go public",
-        "summary": "The company said Monday it has filed confidentially for an IPO.",
-        "summary_en": "The company said Monday it has filed confidentially for an IPO.",
-        "long_summary": "The company said Monday it has filed confidentially for an IPO.",
-        "long_summary_en": "The company said Monday it has filed confidentially for an IPO.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
         "date": "01 June 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
+      "title_en": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
+      "source": "Tomsguide",
+      "url": "https://www.tomsguide.com/ai/i-use-chatgpt-every-day-but-gemini-and-claude-keep-beating-it-in-these-key-areas",
+      "date": "02 June 2026"
+    },
+    {
       "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
       "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
       "source": "Llm-Stats",
@@ -925,13 +932,6 @@
       "title_en": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
       "source": "News",
       "url": "https://news.ycombinator.com/item?id=48336233",
-      "date": "01 June 2026"
-    },
-    {
-      "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
-      "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/",
       "date": "01 June 2026"
     }
   ]
