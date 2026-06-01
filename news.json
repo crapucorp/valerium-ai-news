@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 June 2026 - 19:33",
+  "lastUpdate": "01 June 2026 - 20:03",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Anthropic files confidentially for an IPO, potentially beating OpenAI to Wall Street after eclipsing it in valuation",
+        "title_en": "Anthropic files confidentially for an IPO, potentially beating OpenAI to Wall Street after eclipsing it in valuation",
+        "summary": "Anthropic has confidentially submitted draft registration paperwork for an initial public offering with the Securities and Exchange Commission, the company announced in a blog post on Monday. The numb",
+        "summary_en": "Anthropic has confidentially submitted draft registration paperwork for an initial public offering with the Securities and Exchange Commission, the company announced in a blog post on Monday. The numb",
+        "long_summary": "Anthropic has confidentially submitted draft registration paperwork for an initial public offering with the Securities and Exchange Commission, the company announced in a blog post on Monday. The number of shares to be offered and the price have not been set. The filing positions Anthropic to potentially reach the public market as soon as this fall, […]\nThis story continues at The Next Web",
+        "long_summary_en": "Anthropic has confidentially submitted draft registration paperwork for an initial public offering with the Securities and Exchange Commission, the company announced in a blog post on Monday. The number of shares to be offered and the price have not been set. The filing positions Anthropic to potentially reach the public market as soon as this fall, […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/04/anthropic-claude-word-lawyers-legal-ai.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/anthropic-ipo-confidential-filing-openai-race-965-billion",
+        "date": "01 June 2026"
+      },
+      {
         "title": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
         "title_en": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
         "summary": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login Anthropic surpasses OpenAI to become most valuable AI s",
@@ -714,18 +726,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/a-clean-modern-tech-editorial-banner-ill_o0XNxzSsWc-NAtXkWPloHQ_YJRkb0VeS-q2Fo-tl6Zmig_hd-218x150.png",
         "source": "Msn",
         "url": "https://www.msn.com/en-us/news/technology/google-releases-gemini-35-flash-surpasses-gpt-55-in-agentic-benchmarks/ar-AA23AlzA?gemSnapshotKey=GM4AFC3189-snapshot-3&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-        "date": "31 May 2026"
-      },
-      {
-        "title": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race?",
-        "title_en": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race?",
-        "summary": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race? NEW YORK — As artificial intelligence enters a new phase of specialization in 2026, the competition among leading chatbots — OpenAI's C",
-        "summary_en": "Its large context window of up to 1 million tokens and strong multimodal performance make it particularly effective for users embedded in Google&#x27;s ecosystem. <strong>Gemini 2.5 Pro has shown nota",
-        "long_summary": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race? NEW YORK — As artificial intelligence enters a new phase of specialization in 2026, the competition among leading chatbots — OpenAI's ChatGPT , Google's Gemini , xAI's Grok, and Anthropic's Claude — has intensified without producing a single dominant winner. Market share data, benchmark performance and enterprise adoption reveal distinct strengths, with each model carving out leadership in specific areas rather than claiming overall supremacy. ChatGPT maintains the largest consumer footprint despite losing ground. As of March 2026, it held approximately 57-68% of generative AI web traffic, down significantly from over 87% the previous year. Its massive user base exceeds 900 million, supported by strong multimodal capabilities in GPT-5.5 and broad accessibility through free and paid tiers. The model excels in versatile tasks including creative writing, agentic workflows and general-purpose applications. However, competitors have narrowed the gap. Google's Gemini has surged to around 18-25% market share, benefiting from deep integration with Google Workspace, YouTube and Search. Its large context window of up to 1 million tokens and strong multimodal performance make it particularly effective for users embedded in Google's ecosystem. Gemini 2.5 Pro has shown notable gains in reasoning benchmarks and enterprise deployments. Anthropic's Claude has emerged as a standout in enterprise settings. Reports indicate it cap",
-        "long_summary_en": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race? NEW YORK — As artificial intelligence enters a new phase of specialization in 2026, the competition among leading chatbots — OpenAI's ChatGPT , Google's Gemini , xAI's Grok, and Anthropic's Claude — has intensified without producing a single dominant winner. Market share data, benchmark performance and enterprise adoption reveal distinct strengths, with each model carving out leadership in specific areas rather than claiming overall supremacy. ChatGPT maintains the largest consumer footprint despite losing ground. As of March 202",
-        "image": "https://d.ibtimes.com.au/en/full/1893722/chatgpt-april-2026-update-openai-rolls-out-gpt-53-instant-mini.png",
-        "source": "Ibtimes",
-        "url": "https://www.ibtimes.com.au/ai-chatbot-competition-2026-1869772",
         "date": "31 May 2026"
       }
     ],
@@ -921,17 +921,17 @@
       "date": "01 June 2026"
     },
     {
-      "title": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race?",
-      "title_en": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race?",
-      "source": "Ibtimes",
-      "url": "https://www.ibtimes.com.au/ai-chatbot-competition-2026-1869772",
-      "date": "31 May 2026"
-    },
-    {
       "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
       "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
       "source": "Llm-Stats",
       "url": "https://llm-stats.com/llm-updates",
+      "date": "01 June 2026"
+    },
+    {
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
+      "title_en": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
+      "source": "News",
+      "url": "https://news.ycombinator.com/item?id=48336233",
       "date": "01 June 2026"
     }
   ]
