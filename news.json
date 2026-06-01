@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "01 June 2026 - 22:34",
+  "lastUpdate": "02 June 2026 - 00:04",
   "categories": {
     "general": [
+      {
+        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "title_en": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+        "summary": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
+        "summary_en": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
+        "long_summary": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
+        "long_summary_en": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+        "date": "02 June 2026"
+      },
       {
         "title": "US export controls are pushing China’s AI chip industry away from GPUs and toward custom silicon",
         "title_en": "US export controls are pushing China’s AI chip industry away from GPUs and toward custom silicon",
@@ -168,18 +180,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-1-12-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-        "title_en": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-        "summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an",
-        "summary_en": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an",
-        "long_summary": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes […]",
-        "long_summary_en": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The redesign, which is rolling out across desktop and mobile devices, comes […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
         "date": "30 May 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "New AI Model Releases News | June, 2026 (STARTUP EDITION)",
+        "title_en": "New AI Model Releases News | June, 2026 (STARTUP EDITION)",
+        "summary": "Skip to content Startup News New AI Model Releases News | June, 2026 (STARTUP EDITION) New AI Model Releases news, June 2026: compare GPT-5.5, Gemini, Codestral, and open models to cut costs, speed wo",
+        "summary_en": "OpenAI GPT-5.5, including variants such as GPT-5.5 Pro and GPT-5.5 Instant, <strong>tracked by LLM Stats AI model updates for June 2026</strong>. Google Gemini 3.1 Pro, widely discussed as a strong be",
+        "long_summary": "Skip to content Startup News New AI Model Releases News | June, 2026 (STARTUP EDITION) New AI Model Releases news, June 2026: compare GPT-5.5, Gemini, Codestral, and open models to cut costs, speed workflows, and choose smarter AI stacks. Violetta Bonenkamp — June 1, 2026 TL;DR: New AI Model Releases news, June, 2026 for founders choosing the right model stack Table of Contents Toggle New AI Model Releases news, June, 2026 shows you one thing fast: the best model is the one that fits your real work, saves money, and helps your team move faster with less waste. • GPT-5.5 looks best for premium general work like strategy drafts, investor materials, and customer-facing writing, while Gemini 3.x stands out for multimodal tasks and very large context windows across docs, code, images, and research files. • Codestral matters most if shipping code is part of your business, while Gemma 4 and Qwen matter if you want more control, privacy, or lower recurring spend through open models. • The article’s main point is simple: stop asking which model is “best” in general and start matching models to jobs like coding, support replies, research, reporting, and bulk low-cost tasks. • It also warns you against common mistakes: buying hype, testing toy prompts, letting one model handle everything, ignoring total cost, and removing humans from the wrong review step. If you want the wider pattern, see May 2026 AI model releases and March 2026 AI model releases to compare how the model race keeps s",
+        "long_summary_en": "Skip to content Startup News New AI Model Releases News | June, 2026 (STARTUP EDITION) New AI Model Releases news, June 2026: compare GPT-5.5, Gemini, Codestral, and open models to cut costs, speed workflows, and choose smarter AI stacks. Violetta Bonenkamp — June 1, 2026 TL;DR: New AI Model Releases news, June, 2026 for founders choosing the right model stack Table of Contents Toggle New AI Model Releases news, June, 2026 shows you one thing fast: the best model is the one that fits your real work, saves money, and helps your team move faster with less waste. • GPT-5.5 looks best for premium ",
+        "image": "https://blog.mean.ceo/wp-content/uploads/2025/12/mean-ceo-female-entrepreneurs-news.webp",
+        "source": "Blog",
+        "url": "https://blog.mean.ceo/new-ai-model-releases-news-june-2026/",
+        "date": "02 June 2026"
+      },
+      {
         "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
         "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
         "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
@@ -714,18 +726,6 @@
         "image": "https://cdn.mos.cms.futurecdn.net/k7i24zs2yAFtzzLsiDuGsL-2000-80.jpg",
         "source": "Tomsguide",
         "url": "https://www.tomsguide.com/ai/i-use-chatgpt-every-day-but-gemini-and-claude-keep-beating-it-in-these-key-areas",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "AI - Bloomberg",
-        "title_en": "AI - Bloomberg",
-        "summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure",
-        "summary_en": "The iPhone maker looks to stage a comeback in digital assistants and artificial intelligence. AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic · SpaceX, OpenAI Windfall Fuels Bets on Nex",
-        "long_summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:5f8bf8d4-5dd7-11f1-adb3-1d35a1e01038 Get the most important global markets news at your fingertips with a Bloomberg.com subscription. SUBSCRIBE NOW",
-        "long_summary_en": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:5f8bf8d4-5dd7-11f1-adb3-1d35a1e01038 Get the most important global markets news at your fing",
-        "image": "https://assets.bbhub.io/image/v1/resize?width=auto&type=webp&url=https://assets.bbhub.io/professional/sites/41/Fig-51.png",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/ai",
         "date": "01 June 2026"
       }
     ],
