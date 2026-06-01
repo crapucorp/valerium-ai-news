@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 June 2026 - 20:03",
+  "lastUpdate": "01 June 2026 - 20:33",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Anthropic’s IPO filing means Salesforce’s early AI bet is about to become its most profitable investment",
+        "title_en": "Anthropic’s IPO filing means Salesforce’s early AI bet is about to become its most profitable investment",
+        "summary": "Salesforce has a stake in Anthropic worth approximately $5 billion after investing repeatedly in the Claude developer since early 2023, Bloomberg reported on Monday. The software company first partici",
+        "summary_en": "Salesforce has a stake in Anthropic worth approximately $5 billion after investing repeatedly in the Claude developer since early 2023, Bloomberg reported on Monday. The software company first partici",
+        "long_summary": "Salesforce has a stake in Anthropic worth approximately $5 billion after investing repeatedly in the Claude developer since early 2023, Bloomberg reported on Monday. The software company first participated in Anthropic’s fundraising with roughly $50 million and has continued investing in every subsequent round. With Anthropic’s confidential IPO filing also landing on Monday, Salesforce is positioned […]\nThis story continues at The Next Web",
+        "long_summary_en": "Salesforce has a stake in Anthropic worth approximately $5 billion after investing repeatedly in the Claude developer since early 2023, Bloomberg reported on Monday. The software company first participated in Anthropic’s fundraising with roughly $50 million and has continued investing in every subsequent round. With Anthropic’s confidential IPO filing also landing on Monday, Salesforce is positioned […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/05/salesforce-agentforce-saaspocalypse-ai-promise-reality-1.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/salesforce-anthropic-investment-5-billion-ipo",
+        "date": "01 June 2026"
+      },
+      {
         "title": "Anthropic files confidentially for an IPO, potentially beating OpenAI to Wall Street after eclipsing it in valuation",
         "title_en": "Anthropic files confidentially for an IPO, potentially beating OpenAI to Wall Street after eclipsing it in valuation",
         "summary": "Anthropic has confidentially submitted draft registration paperwork for an initial public offering with the Securities and Exchange Commission, the company announced in a blog post on Monday. The numb",
@@ -714,18 +726,6 @@
         "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/gemini-3-5-flash-feature-image-1.jpg?w=1600&h=900&fit=crop",
         "source": "Xda-Developers",
         "url": "https://www.xda-developers.com/google-gemini-3-5-flash-costs-3x-model-replaced-cheap-ai-ending/",
-        "date": "31 May 2026"
-      },
-      {
-        "title": "Google releases Gemini 3.5 Flash; surpasses GPT-5.5 in agentic benchmarks",
-        "title_en": "Google releases Gemini 3.5 Flash; surpasses GPT-5.5 in agentic benchmarks",
-        "summary": "MSN",
-        "summary_en": "Using the agentic benchmark MCP Atlas, <strong>Gemini 3.5 Flash scored an 83.6%, compared to a 79.1% score from Anthropic&#x27;s Claude Opus 4.7 and a 75.3% from OpenAI&#x27;s GPT-5.5</strong>, accord",
-        "long_summary": "MSN",
-        "long_summary_en": "MSN",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/a-clean-modern-tech-editorial-banner-ill_o0XNxzSsWc-NAtXkWPloHQ_YJRkb0VeS-q2Fo-tl6Zmig_hd-218x150.png",
-        "source": "Msn",
-        "url": "https://www.msn.com/en-us/news/technology/google-releases-gemini-35-flash-surpasses-gpt-55-in-agentic-benchmarks/ar-AA23AlzA?gemSnapshotKey=GM4AFC3189-snapshot-3&apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
         "date": "31 May 2026"
       }
     ],
