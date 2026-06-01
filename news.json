@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 June 2026 - 21:33",
+  "lastUpdate": "01 June 2026 - 22:04",
   "categories": {
     "general": [
       {
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "Hackers hijacked Instagram accounts by asking Meta’s own AI chatbot to reset the password",
+        "title_en": "Hackers hijacked Instagram accounts by asking Meta’s own AI chatbot to reset the password",
+        "summary": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link,",
+        "summary_en": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link,",
+        "long_summary": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link, and no malware. The hacker simply asked the chatbot to add a new email address to someone else’s account. A video posted on X showed […]\nThis story continues at The Next Web",
+        "long_summary_en": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link, and no malware. The hacker simply asked the chatbot to add a new email address to someone else’s account. A video posted on X showed […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/hackers-tricked-meta-ai-chatbot-instagram-account-hijack.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/hackers-tricked-meta-ai-chatbot-instagram-account-hijack",
+        "date": "01 June 2026"
+      },
+      {
+        "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+        "title_en": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+        "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's",
+        "summary_en": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's",
+        "long_summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has […]",
+        "long_summary_en": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/meta-chatbot-support.png?quality=90&strip=all&crop=0%2C9.2919928911091%2C100%2C81.416014217782&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+        "date": "01 June 2026"
+      },
+      {
         "title": "Runway AI: Free AI Video Generator",
         "title_en": "Runway AI: Free AI Video Generator",
         "summary": "Runway AI: Free AI Video Generator Runway + Invideo Generate and Edit videos with Runway Aleph on invideo. Enables precise video-to-video editing, adding or removing objects, changing camera angles, a",
@@ -521,33 +545,33 @@
         "source": "Techjournal",
         "url": "https://techjournal.org/how-to-use-sora-ai-video-generator",
         "date": "26 May 2026"
-      },
-      {
-        "title": "Best AI Video Generator Platforms in 2026: Tested / Compared",
-        "title_en": "Best AI Video Generator Platforms in 2026: Tested / Compared",
-        "summary": "Best AI Video Generator Platforms in 2026: Tested and Compared Best AI Video Generator Platforms in 2026: Tested and Compared AI video generation has moved far beyond simple experiments. Today’s platf",
-        "summary_en": "Key features: Does it support image-to-video, text-to-video, first and last frame control, reference images, and audio generation? Value for money: Is the pricing transparent and reasonable for indivi",
-        "long_summary": "Best AI Video Generator Platforms in 2026: Tested and Compared Best AI Video Generator Platforms in 2026: Tested and Compared AI video generation has moved far beyond simple experiments. Today’s platforms can help marketers, creators, and teams turn prompts, images, scripts, and ideas into usable video content much faster than traditional production workflows. That does not mean every tool does the same job. Some are built for cinematic text-to-video. Others are stronger for avatar-led explainers, fast ad creation, or turning existing assets into short-form content. That is why picking the best AI video generator platform depends less on hype and more on fit. The right tool for a creative filmmaker may not be the right one for a marketing team that needs product promos every week. The best choice usually comes down to the kind of videos you want to make, how much control you need, whether you need audio or avatars, and how well the platform fits into your broader content workflow. As AI video tools become more advanced, many businesses are also exploring how to extend these capabilities into automated workflows powered by intelligent agents. Partnering with an experienced AI agent development company allows organizations to go beyond standalone video generation and build systems that can automatically generate scripts, trigger video creation, personalize content for different audiences, and distribute assets across channels. This kind of end-to-end automation ensures that AI ",
-        "long_summary_en": "Best AI Video Generator Platforms in 2026: Tested and Compared Best AI Video Generator Platforms in 2026: Tested and Compared AI video generation has moved far beyond simple experiments. Today’s platforms can help marketers, creators, and teams turn prompts, images, scripts, and ideas into usable video content much faster than traditional production workflows. That does not mean every tool does the same job. Some are built for cinematic text-to-video. Others are stronger for avatar-led explainers, fast ad creation, or turning existing assets into short-form content. That is why picking the bes",
-        "image": "https://storylab.ai/wp-content/uploads/2026/02/Best-AI-Video-Generator-Platforms-Tested-Compared.png",
-        "source": "Storylab",
-        "url": "https://storylab.ai/best-ai-video-generator-platforms/",
-        "date": "26 May 2026"
-      },
-      {
-        "title": "Best AI Video Generator (May 2026) — Top AI Video Generation Models Ranked by Humans",
-        "title_en": "Best AI Video Generator (May 2026) — Top AI Video Generation Models Ranked by Humans",
-        "summary": "Best AI Video Generator (May 2026) — Top AI Video Generation Models Ranked by Humans AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoni",
-        "summary_en": "You can try any AI video generator in the media playground to test quality on your own prompts, or compare models side-by-side to see how they differ on the same input. ... Run Veo, Sora, Runway, Klin",
-        "long_summary": "Best AI Video Generator (May 2026) — Top AI Video Generation Models Ranked by Humans AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More Updated May 2026 Best AI Video Generator The best AI video generator for your work, ranked by blind human votes. Compare every major text-to-video, image-to-video, and video-editing AI side by side — Veo, Sora, Runway, Kling, Luma, Pika, and more — with live arena scores and per-clip pricing. 8 models 375 matches Ranked by blind human votes Generate a video How we rank → AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More What is the best AI video generator right now? As of May 2026 , LTX-2.3 Pro by lightricks leads the text-to-video leaderboard with an arena score of 2071 , followed by Happy Horse 1.0 ( 2021 ) and Seedance 2.0 Fast ( 1993 ). These rankings are based on 375 blind votes across text-to-video, image-to-video, and video editing tasks where users compare real video outputs without knowing which model generated them. The best AI video generators produce clips with smooth, natural motion, accurate scene composition, and strong prompt adherence. They handle camera movement, multi-subject interactions, and temporal consistency across frames — the areas where weaker models tend to produce artifacts, sudden cuts, or drifting subjects. Image-to-video models are ranked separately, since animating a",
-        "long_summary_en": "Best AI Video Generator (May 2026) — Top AI Video Generation Models Ranked by Humans AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More Updated May 2026 Best AI Video Generator The best AI video generator for your work, ranked by blind human votes. Compare every major text-to-video, image-to-video, and video-editing AI side by side — Veo, Sora, Runway, Kling, Luma, Pika, and more — with live arena scores and per-clip pricing. 8 models 375 matches Ranked by blind human votes Generate a video How we rank → AI Leaderboards LL",
-        "image": "https://llm-stats.com/api/og/category/video_generation",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
-        "date": "26 May 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Gemini’s new AI agent is about as good as Google’s demo",
+        "title_en": "Gemini’s new AI agent is about as good as Google’s demo",
+        "summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me a",
+        "summary_en": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me a",
+        "long_summary": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them […]",
+        "long_summary_en": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0%2C10.604950381935%2C100%2C78.79009923613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+        "date": "01 June 2026"
+      },
+      {
+        "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+        "title_en": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+        "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+        "summary_en": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+        "long_summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+        "long_summary_en": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+        "date": "01 June 2026"
+      },
       {
         "title": "10 Open-Source AI Agent Frameworks to Automate Your Work in 2026",
         "title_en": "10 Open-Source AI Agent Frameworks to Automate Your Work in 2026",
@@ -702,30 +726,6 @@
         "image": "https://media.thenextweb.com/2026/06/ai-startup-valuations-pre-chatgpt-fallen-unicorns.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/ai-startup-valuations-pre-chatgpt-fallen-unicorns",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "Sky-High I.P.O. Pricing Isn’t Great for Real People - The New York Times",
-        "title_en": "Sky-High I.P.O. Pricing Isn’t Great for Real People - The New York Times",
-        "summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "summary_en": "Market history contains many lessons. It tells us that at the jaw-dropping valuations being discussed for shares of SpaceX, as well as OpenAI and Anthropic, the probability is exceedingly small that t",
-        "long_summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
-        "source": "Nytimes",
-        "url": "https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
-        "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
-        "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
-        "summary_en": "The leading LLMs in 2026 are Claude Mythos Preview, Claude Opus 4.6, and the frontier models from OpenAI (GPT-5 family), Anthropic (Claude Opus and Sonnet), Google (Gemini 3 Pro), xAI (Grok 4), DeepSe",
-        "long_summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 10 $1.25 /M tok Mistral Small 4 fastest output 683 tok/s Grok 4 Fast longest context window 2.0M tokens tokens Kimi K2.6 best open-weights 90.5% gpqa LLM LLM Image Generation Image Video Generation Video Text-to-Speech TTS Speech-to-Text STT Embeddings Embeddings Full leaderboard Full 302 Open All 90d 30d Rank Model LLM Stats Reasoning Coding Agent Code Arena Context Speed Pricing $/M License 1 Claude Mythos Preview UNRELEASED Anthropic 68.6 72.5 57.8 47.9 — — — — Proprietary 2 Claude Opus 4.8 NEW Anthropic 67.8 65.7 52.3 43.9 784 1.0M 115 c/s $ 7.22 Proprietary 3 GPT-5.5 OpenAI 62.8 62.2 51.0 42.8 1,948 1.1M 178 c/s $ 7.78 Proprietary 4 GPT-5.2 Pro OpenAI 60.8 56.7 — 29.2 — — — — Proprietary 5 Claude Opus 4.7 Anthropic 60.6 62.4 48.8 40.4 1,927 1.0M 35 c/s $ 7.22 Proprietary 6 GPT-5.4 OpenAI 59.8 57.5 43.0 36.9 1,726 1.0M 203 c/s $ 3.89 Proprietary 7 Gemini 3.5 Flash NEW Google 58.5 59.2",
-        "long_summary_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 1",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/",
         "date": "01 June 2026"
       }
     ],
