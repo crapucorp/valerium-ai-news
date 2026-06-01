@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 June 2026 - 20:33",
+  "lastUpdate": "01 June 2026 - 21:03",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "10 Open-Source AI Agent Frameworks to Automate Your Work in 2026",
+        "title_en": "10 Open-Source AI Agent Frameworks to Automate Your Work in 2026",
+        "summary": "10 Open-Source AI Agent Frameworks to Automate Your Work in 2026 Honest review of the 10 most relevant open-source AI agent frameworks of 2026: AutoGPT, LangChain, OpenHands, CrewAI, AutoGen, with ver",
+        "summary_en": "The main factor is the model chosen: Claude Opus 4.7 and GPT-5.5 start at around 15 to 30 dollars per million input tokens, lighter models like Gemini 3.1 Flash or Claude Haiku 4.5 drop below 5 dollar",
+        "long_summary": "10 Open-Source AI Agent Frameworks to Automate Your Work in 2026 Honest review of the 10 most relevant open-source AI agent frameworks of 2026: AutoGPT, LangChain, OpenHands, CrewAI, AutoGen, with verified GitHub stars. Pasquale Pillitteri 27/04/2026 Tool AI & Recensioni 13 min read ai tools ai agent frameworks open source ai agent top github ai agent 2026 langchain crewai autogen openhands metagpt autogpt mcp agentic ai foundation claude code Table of Contents 1. The Myth of Earning Money While You Sleep 2. What Open-Source AI Agent Means in 2026 3. The 10 Most Relevant Open-Source AI Agent Frameworks of 2026 AutoGPT, 184,000 stars LangChain (LangGraph), 135,000 stars OpenHands, 72,100 stars MetaGPT, 67,500 stars ByteDance deer-flow, 64,000 stars Cline, 61,000 stars Microsoft AutoGen, 57,500 stars gpt-engineer, 55,200 stars CrewAI, 50,000 stars Aider, 44,000 stars 4. Quick Comparison: CrewAI vs. LangGraph vs. AutoGen 5. Real Use Cases to Build Income (Without Trading) Industrial-Volume Content Pipeline Customer Support Automation Automated Code Review for Private Repositories Assisted Document Generation 6. How to Choose the Right Framework for Your Case Practical rule 7. Frequently Asked Questions (FAQ) 8. Conclusions 9. Rate this article 10. Related Articles 11. Looking for a Software Engineer? Add as a preferred source on Google On April 26, 2026, a Japanese account named @so_ainsight published a thread on X titled \"10 GitHub repositories that keep earning while you sleep",
+        "long_summary_en": "10 Open-Source AI Agent Frameworks to Automate Your Work in 2026 Honest review of the 10 most relevant open-source AI agent frameworks of 2026: AutoGPT, LangChain, OpenHands, CrewAI, AutoGen, with verified GitHub stars. Pasquale Pillitteri 27/04/2026 Tool AI & Recensioni 13 min read ai tools ai agent frameworks open source ai agent top github ai agent 2026 langchain crewai autogen openhands metagpt autogpt mcp agentic ai foundation claude code Table of Contents 1. The Myth of Earning Money While You Sleep 2. What Open-Source AI Agent Means in 2026 3. The 10 Most Relevant Open-Source AI Agent F",
+        "image": "https://pasqualepillitteri.it/uploads/img/news/10-framework-ai-agent-open-source-2026.png",
+        "source": "Pasqualepillitteri",
+        "url": "https://pasqualepillitteri.it/en/news/1476/10-open-source-ai-agent-frameworks-2026",
+        "date": "01 June 2026"
+      },
+      {
         "title": "Anthropic’s IPO filing means Salesforce’s early AI bet is about to become its most profitable investment",
         "title_en": "Anthropic’s IPO filing means Salesforce’s early AI bet is about to become its most profitable investment",
         "summary": "Salesforce has a stake in Anthropic worth approximately $5 billion after investing repeatedly in the Claude developer since early 2023, Bloomberg reported on Monday. The software company first partici",
@@ -715,18 +727,6 @@
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/",
         "date": "01 June 2026"
-      },
-      {
-        "title": "Google's Gemini 3.5 Flash costs 3x the model it replaced, and the era of cheap AI is ending",
-        "title_en": "Google's Gemini 3.5 Flash costs 3x the model it replaced, and the era of cheap AI is ending",
-        "summary": "By Adam Conway Published May 31, 2026, 3:00 PM EDT I’m Adam Conway, an Irish technology fanatic with a BSc in Computer Science and I'm XDA’s Lead Technical Editor. My Bachelor’s thesis was conducted o",
-        "summary_en": "OpenAI has its mini and nano models, Anthropic has Haiku, and the assumption underneath all of them was simple. Next year&#x27;s budget model would cost about the same as the previous year, or it migh",
-        "long_summary": "By Adam Conway Published May 31, 2026, 3:00 PM EDT I’m Adam Conway, an Irish technology fanatic with a BSc in Computer Science and I'm XDA’s Lead Technical Editor. My Bachelor’s thesis was conducted on the viability of benchmarking the non-functional elements of Android apps and smartphones such as performance, and I’ve been working in the tech industry in some way or another since 2017. In my spare time, you’ll probably find me playing Counter-Strike or VALORANT, and you can reach out to me at adam@xda-developers.com , on Twitter as @AdamConwayIE , on Instagram as AdamConwayIE , or u/AdamConwayIE on Reddit. Sign in to your XDA account For most of the past couple years, AI pricing has been in flux, seemingly getting cheaper or only slightly increasing. Every new model from a major lab seemed to arrive as something faster, smarter, and sometimes even cheaper than the one before it, and the cheapest tier of all was the one you reached for when you wanted good-enough intelligence at throwaway prices. Google calls its version Flash. OpenAI has its mini and nano models, Anthropic has Haiku, and the assumption underneath all of them was simple. Next year's budget model would cost about the same as the previous year, or it might even be a little bit cheaper. Google's Gemini 3.5 Flash has shattered that assumption; released on May 19, it costs $1.50 per million input tokens and $9 per million output tokens. The model it effectively replaces, Gemini 3 Flash, ran at $0.50 and $3, makin",
-        "long_summary_en": "By Adam Conway Published May 31, 2026, 3:00 PM EDT I’m Adam Conway, an Irish technology fanatic with a BSc in Computer Science and I'm XDA’s Lead Technical Editor. My Bachelor’s thesis was conducted on the viability of benchmarking the non-functional elements of Android apps and smartphones such as performance, and I’ve been working in the tech industry in some way or another since 2017. In my spare time, you’ll probably find me playing Counter-Strike or VALORANT, and you can reach out to me at adam@xda-developers.com , on Twitter as @AdamConwayIE , on Instagram as AdamConwayIE , or u/AdamConw",
-        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/gemini-3-5-flash-feature-image-1.jpg?w=1600&h=900&fit=crop",
-        "source": "Xda-Developers",
-        "url": "https://www.xda-developers.com/google-gemini-3-5-flash-costs-3x-model-replaced-cheap-ai-ending/",
-        "date": "31 May 2026"
       }
     ],
     "audio": [
