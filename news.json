@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 June 2026 - 02:07",
+  "lastUpdate": "01 June 2026 - 02:37",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Sky-High I.P.O. Pricing Isn’t Great for Real People - The New York Times",
+        "title_en": "Sky-High I.P.O. Pricing Isn’t Great for Real People - The New York Times",
+        "summary": "nytimes.com Please enable JS and disable any ad blocker",
+        "summary_en": "Market history contains many lessons. It tells us that at the jaw-dropping valuations being discussed for shares of SpaceX, as well as OpenAI and Anthropic, the probability is exceedingly small that t",
+        "long_summary": "nytimes.com Please enable JS and disable any ad blocker",
+        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+        "source": "Nytimes",
+        "url": "https://www.nytimes.com/2026/05/29/business/spacex-openai-anthropic-ipo-invest.html",
+        "date": "01 June 2026"
+      },
+      {
         "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
         "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
         "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
@@ -714,18 +726,6 @@
         "image": "https://media.yellow.com/uploads/shutterstock_2737162387_3422aa599b.jpg",
         "source": "Yellow",
         "url": "https://yellow.com/news/claude-opus-48-tops-gemini-gpt",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "Claude Opus 4.8 vs GPT 5.5 vs Gemini 3.1 Pro - Complete breakdown of latest AI release | Hindustan Times",
-        "title_en": "Claude Opus 4.8 vs GPT 5.5 vs Gemini 3.1 Pro - Complete breakdown of latest AI release | Hindustan Times",
-        "summary": "Anthropic published a direct comparison chart in its press release. While Claude Opus 4.8 leads most benchmark categories overall, <strong>GPT-5.5 actually outperformed it in one critical area: agenti",
-        "summary_en": "Anthropic published a direct comparison chart in its press release. While Claude Opus 4.8 leads most benchmark categories overall, <strong>GPT-5.5 actually outperformed it in one critical area: agenti",
-        "long_summary": "Anthropic published a direct comparison chart in its press release. While Claude Opus 4.8 leads most benchmark categories overall, <strong>GPT-5.5 actually outperformed it in one critical area: agentic terminal coding</strong>.",
-        "long_summary_en": "Anthropic published a direct comparison chart in its press release. While Claude Opus 4.8 leads most benchmark categories overall, <strong>GPT-5.5 actually outperformed it in one critical area: agentic terminal coding</strong>.",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/28/1600x900/logo/Claude_Opus_48__1779993902427_1779993902549_c20acf1e-f109-41bf-bb58-0060c40e061d.jpg",
-        "source": "Hindustantimes",
-        "url": "https://www.hindustantimes.com/world-news/us-news/claude-opus-4-8-vs-gpt-5-5-vs-gemini-3-1-pro-complete-breakdown-of-latest-ai-release-101779992999436-amp.html",
         "date": "30 May 2026"
       }
     ],
