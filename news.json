@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 June 2026 - 01:36",
+  "lastUpdate": "01 June 2026 - 02:07",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
+        "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
+        "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
+        "summary_en": "The leading LLMs in 2026 are Claude Mythos Preview, Claude Opus 4.6, and the frontier models from OpenAI (GPT-5 family), Anthropic (Claude Opus and Sonnet), Google (Gemini 3 Pro), xAI (Grok 4), DeepSe",
+        "long_summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 10 $1.25 /M tok Mistral Small 4 fastest output 683 tok/s Grok 4 Fast longest context window 2.0M tokens tokens Kimi K2.6 best open-weights 90.5% gpqa LLM LLM Image Generation Image Video Generation Video Text-to-Speech TTS Speech-to-Text STT Embeddings Embeddings Full leaderboard Full 302 Open All 90d 30d Rank Model LLM Stats Reasoning Coding Agent Code Arena Context Speed Pricing $/M License 1 Claude Mythos Preview UNRELEASED Anthropic 68.6 72.5 57.8 47.9 — — — — Proprietary 2 Claude Opus 4.8 NEW Anthropic 67.8 65.7 52.3 43.9 784 1.0M 115 c/s $ 7.22 Proprietary 3 GPT-5.5 OpenAI 62.8 62.2 51.0 42.8 1,948 1.1M 178 c/s $ 7.78 Proprietary 4 GPT-5.2 Pro OpenAI 60.8 56.7 — 29.2 — — — — Proprietary 5 Claude Opus 4.7 Anthropic 60.6 62.4 48.8 40.4 1,927 1.0M 35 c/s $ 7.22 Proprietary 6 GPT-5.4 OpenAI 59.8 57.5 43.0 36.9 1,726 1.0M 203 c/s $ 3.89 Proprietary 7 Gemini 3.5 Flash NEW Google 58.5 59.2",
+        "long_summary_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 1",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/",
+        "date": "01 June 2026"
+      },
+      {
         "title": "Google's Gemini 3.5 Flash costs 3x the model it replaced, and the era of cheap AI is ending",
         "title_en": "Google's Gemini 3.5 Flash costs 3x the model it replaced, and the era of cheap AI is ending",
         "summary": "By Adam Conway Published May 31, 2026, 3:00 PM EDT I’m Adam Conway, an Irish technology fanatic with a BSc in Computer Science and I'm XDA’s Lead Technical Editor. My Bachelor’s thesis was conducted o",
@@ -715,21 +727,21 @@
         "source": "Hindustantimes",
         "url": "https://www.hindustantimes.com/world-news/us-news/claude-opus-4-8-vs-gpt-5-5-vs-gemini-3-1-pro-complete-breakdown-of-latest-ai-release-101779992999436-amp.html",
         "date": "30 May 2026"
-      },
-      {
-        "title": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
-        "title_en": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
-        "summary": "Business Insider tells the innovative stories you want to know",
-        "summary_en": "While Anthropic hypes its unreleased Mythos AI model as dangerously powerful, Google is changing the conversation — to cost and speed. Google says its latest Gemini 3.5 Flash model rivals frontier off",
-        "long_summary": "Business Insider tells the innovative stories you want to know",
-        "long_summary_en": "Business Insider tells the innovative stories you want to know",
-        "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
-        "source": "Businessinsider",
-        "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
-        "date": "30 May 2026"
       }
     ],
     "audio": [
+      {
+        "title": "AI News: CNN’s coverage on artificial intelligence and related advanced machine learning | CNN Business",
+        "title_en": "AI News: CNN’s coverage on artificial intelligence and related advanced machine learning | CNN Business",
+        "summary": "AI News Rikka Altland/CNN Underscored Hot weather is on the way, but these 2 best-tested tower fans can help • Video 5:04 CNN Video Erin Brockovich joins fight against AI data centers: ‘It’s shocking’",
+        "summary_en": "AI ‘voice cloning’ scams are on the rise.",
+        "long_summary": "AI News Rikka Altland/CNN Underscored Hot weather is on the way, but these 2 best-tested tower fans can help • Video 5:04 CNN Video Erin Brockovich joins fight against AI data centers: ‘It’s shocking’ 5:04 • Video 2:55 Clipped From Video Video Can AI resurrect the genius of France’s greatest playwright 2:55 Westend61/Getty Images AI ‘voice cloning’ scams are on the rise. Here’s how to protect yourself Jung Yeon-je/AFP/Getty Images For the third time this month, a chip giant has joined the $1 trillion club • Video 11:05 MS Video LA mayoral candidate Spencer Pratt separates his current mission from his past: I’m a ‘very different’ person now 11:05 Ad Feedback Vatican Media via Reuters Video Pope Leo’s AI encyclical is ‘an extraordinary step forward’, says Cardinal Michael Czerny 4:28 May 26, 2026 Courtesy Tuma Basa Why Africa’s global music boom still leaves much of the continent unheard May 26, 2026 CJ ENM South Korea’s movie industry is embracing AI. Will K-film lose its magic? May 26, 2026 Yara Nardi/Reuters Pope Leo warns of AI fueling warfare in first major theological document May 25, 2026 More Tech News Aitor Diago/Moment RF/Getty Images Child safety lab launching ‘independent crash testing’ for AI tools CFOTO/Future Publishing/Getty Images Apple’s new CEO will inherit strong sales and even greater expectations Jennifer Gauthier/Reuters Families of Tumbler Ridge shooting victims sue OpenAI and CEO Sam Altman David Paul Morris/Bloomberg/Getty Images Microsoft to offer vol",
+        "long_summary_en": "AI News Rikka Altland/CNN Underscored Hot weather is on the way, but these 2 best-tested tower fans can help • Video 5:04 CNN Video Erin Brockovich joins fight against AI data centers: ‘It’s shocking’ 5:04 • Video 2:55 Clipped From Video Video Can AI resurrect the genius of France’s greatest playwright 2:55 Westend61/Getty Images AI ‘voice cloning’ scams are on the rise. Here’s how to protect yourself Jung Yeon-je/AFP/Getty Images For the third time this month, a chip giant has joined the $1 trillion club • Video 11:05 MS Video LA mayoral candidate Spencer Pratt separates his current mission f",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/mpa-49-1-1.jpg?c=16x9&q=w_800,c_fill",
+        "source": "Cnn",
+        "url": "https://www.cnn.com/business/tech/ai-news-artificial-intelligence-updates",
+        "date": "01 June 2026"
+      },
       {
         "title": "Nobody wants to tell me why they only listen to their own Suno slop",
         "title_en": "Nobody wants to tell me why they only listen to their own Suno slop",
@@ -897,29 +909,10 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
         "date": "23 March 2026"
-      },
-      {
-        "title": "I found true AirPods Pro rivals in these Samsung earbuds - and they're better in several ways",
-        "title_en": "I found true AirPods Pro rivals in these Samsung earbuds - and they're better in several ways",
-        "summary": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades are just as impactful.",
-        "summary_en": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades are just as impactful.",
-        "long_summary": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades are just as impactful.",
-        "long_summary_en": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades are just as impactful.",
-        "image": "https://www.zdnet.com/a/img/resize/9714795134447e3b4f70daf7abee012564c7561c/2026/03/16/116d9940-f082-4210-9002-e2360afb2aa5/4pro-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/samsung-galaxy-buds-4-review/",
-        "date": "22 March 2026"
       }
     ]
   },
   "hotNews": [
-    {
-      "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (May 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
-      "date": "30 May 2026"
-    },
     {
       "title": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race?",
       "title_en": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race?",
@@ -933,6 +926,13 @@
       "source": "Exploreaitogether",
       "url": "https://exploreaitogether.com/llm-usage-limits-comparison/",
       "date": "31 May 2026"
+    },
+    {
+      "title": "AI Updates Today (May 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (May 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "30 May 2026"
     }
   ]
 }
