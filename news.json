@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 June 2026 - 19:02",
+  "lastUpdate": "01 June 2026 - 19:33",
   "categories": {
     "general": [
       {
@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
+        "title_en": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
+        "summary": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login Anthropic surpasses OpenAI to become most valuable AI s",
+        "summary_en": "Modern tupperware party · A colleague was convinced Claude is better so we played a game. We used the claude code and codex harness and I implemented some prs they needed with gpt5.5 and opus4.7 and a",
+        "long_summary": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login Anthropic surpasses OpenAI to become most valuable AI startup ( qazinform.com ) 420 points by Bolat14 2 days ago | hide | past | favorite | 471 comments help amazingamazing 2 days ago | next [–] I never want to hear from developers again that they are not susceptible to marketing. I see meet ups specifically about Claude often. Modern tupperware party. A colleague was convinced Claude is better so we played a game. We used the claude code and codex harness and I implemented some prs they needed with gpt5.5 and opus4.7 and asked them to identify which came from which only from the code. Couldn’t tell. Edit: i bet 99% of people here, if presented with a test where i gave 5 models but all of the results came from one, would not be able to discern this. Just vibes all the way down. reply Aurornis 2 days ago | parent | next [–] > We used the claude code and codex harness and I implemented some prs they needed with gpt5.5 and opus4.7 and asked them to identify which came from which only from the code. > Couldn’t tell. Why would you expect them to be able to recognize the signature of a model from a pair of PRs? I don’t understand why you think this is a useful test for anything when we have numerous benchmarks that run 100s of tests on models and both GPT-5.5 and Opus-4.8 perform similarly. I have subscriptions to both. I run both on max r",
+        "long_summary_en": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News Hacker News new | past | comments | ask | show | jobs | submit login Anthropic surpasses OpenAI to become most valuable AI startup ( qazinform.com ) 420 points by Bolat14 2 days ago | hide | past | favorite | 471 comments help amazingamazing 2 days ago | next [–] I never want to hear from developers again that they are not susceptible to marketing. I see meet ups specifically about Claude often. Modern tupperware party. A colleague was convinced Claude is better so we played a game. We used the claude code and codex ha",
+        "image": "https://img.inform.kz/kazinform-photobank/media/2026-05-30/158680cd-65ec-409b-bab1-286a918e6cd5.webp",
+        "source": "News",
+        "url": "https://news.ycombinator.com/item?id=48336233",
+        "date": "01 June 2026"
+      },
+      {
+        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Googl",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 4d ago May 19, 2026 · 2 release s Gemini 3.5 Flash Lightweight Proprietary Google • 1w ago Qwen3.7 Max Pro Proprietary Alibaba Cloud / Qwen Team • 1w ago May 6, 2026 · 1 release Grok 4.3 Release Proprietary xAI • 3w ago May 5, 2026 · 1 release GPT-5.5 Instant Lightweight Proprietary OpenAI • 3w ago Apr 29, 2026 · 1 release Mistral Medium 3.5 Release Open Source Mistral AI • 1mo ago Apr 23, 2026 · 2 release s DeepSeek-V4-Flash-Max Pro Open Source DeepSeek • 1mo ago DeepSeek-V4-Pro-Max Pro Open Source DeepSeek • 1mo ago 1 – 8 of 302 1 2 3 4 5 6 7 Last 30 days Models that got worse Worse 1 Better 1 Sigma-normalized vs. each model's baseline Gemini 3.1 Pro Google · 3mo old −0.18σ now +1.46σ 105 votes · 1 arena How is this measured? ⌄ For each model we reconstruct daily TrueSkill conservative ratings per a",
+        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Resea",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "01 June 2026"
+      },
+      {
+        "title": "Florida becomes the first state to sue OpenAI, naming Altman personally and calling ChatGPT a defective product",
+        "title_en": "Florida becomes the first state to sue OpenAI, naming Altman personally and calling ChatGPT a defective product",
+        "summary": "Florida has sued OpenAI and CEO Sam Altman in what appears to be the first lawsuit by a US state against the maker of ChatGPT. The civil complaint, filed Monday in state court by Attorney General Jame",
+        "summary_en": "Florida has sued OpenAI and CEO Sam Altman in what appears to be the first lawsuit by a US state against the maker of ChatGPT. The civil complaint, filed Monday in state court by Attorney General Jame",
+        "long_summary": "Florida has sued OpenAI and CEO Sam Altman in what appears to be the first lawsuit by a US state against the maker of ChatGPT. The civil complaint, filed Monday in state court by Attorney General James Uthmeier, accuses OpenAI of violating product liability laws, engaging in deceptive trade practices, and releasing ChatGPT while knowing it […]\nThis story continues at The Next Web",
+        "long_summary_en": "Florida has sued OpenAI and CEO Sam Altman in what appears to be the first lawsuit by a US state against the maker of ChatGPT. The civil complaint, filed Monday in state court by Attorney General James Uthmeier, accuses OpenAI of violating product liability laws, engaging in deceptive trade practices, and releasing ChatGPT while knowing it […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/05/Sam-Altman.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/florida-sues-openai-altman-chatgpt-safety-children",
+        "date": "01 June 2026"
+      },
+      {
         "title": "LLM News Today (June 2026) – AI Model Releases",
         "title_en": "LLM News Today (June 2026) – AI Model Releases",
         "summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-s",
@@ -691,42 +727,6 @@
         "source": "Ibtimes",
         "url": "https://www.ibtimes.com.au/ai-chatbot-competition-2026-1869772",
         "date": "31 May 2026"
-      },
-      {
-        "title": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-        "title_en": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-        "summary": "Last Updated: May 29, 2026 If you’ve been using AI tools for a while, you already know the frustration: you find a workflow that clicks, you rely on it, and then one Tuesday morning something changes.",
-        "summary_en": "A new API model with stronger coding ... Gemini’s API, but worth tracking as it filters into consumer access. <strong>Anthropic doubled the Max plan 5-hour rate limit</strong>....",
-        "long_summary": "Last Updated: May 29, 2026 If you’ve been using AI tools for a while, you already know the frustration: you find a workflow that clicks, you rely on it, and then one Tuesday morning something changes. A limit tightens. A plan gets restructured. A model you counted on gets sunsetted. This guide exists to cut through that noise. What you’ll find here is a current, practical breakdown of usage limits, pricing, models, and features across ChatGPT, Claude, Gemini, Grok, and Perplexity — as of May 2026. It’s not a “best AI” ranking. There’s no winner. Different platforms are better for different things, and your workflow probably looks nothing like the next person’s. The goal is simple: enough accurate information to pick the right tool (or combination of tools) for what you actually do. What’s Changed Since Mid-May 2026 Mid-May was busy. Late May brought a few more. GPT-5.5 replaced GPT-5.4 across paid ChatGPT tiers on April 23. Plus, both Pro tiers, Business, and Enterprise all now run on GPT-5.5 as the flagship, with a new GPT-5.5 Pro variant for Pro and Business tiers. Then on May 5, OpenAI made GPT-5.5 Instant the default model for every ChatGPT user — replacing GPT-5.3 Instant. OpenAI’s internal evals show 52.5% fewer hallucinated claims on high-stakes prompts (medicine, law, finance). GPT-5.3 Instant stays accessible to paid users through August before retirement. If a guide you’re reading still references GPT-5.4 anywhere, that’s a tell it hasn’t caught up. See also: How to",
-        "long_summary_en": "Last Updated: May 29, 2026 If you’ve been using AI tools for a while, you already know the frustration: you find a workflow that clicks, you rely on it, and then one Tuesday morning something changes. A limit tightens. A plan gets restructured. A model you counted on gets sunsetted. This guide exists to cut through that noise. What you’ll find here is a current, practical breakdown of usage limits, pricing, models, and features across ChatGPT, Claude, Gemini, Grok, and Perplexity — as of May 2026. It’s not a “best AI” ranking. There’s no winner. Different platforms are better for different thi",
-        "image": "https://exploreaitogether.com/wp-content/uploads/2026/03/LLM-usge-limits-2026.jpg",
-        "source": "Exploreaitogether",
-        "url": "https://exploreaitogether.com/llm-usage-limits-comparison/",
-        "date": "31 May 2026"
-      },
-      {
-        "title": "The Compute War Is Now a Business Risk — What Startup Founders Need to Know About the OpenAI-Anthropic-Google Resource Battle",
-        "title_en": "The Compute War Is Now a Business Risk — What Startup Founders Need to Know About the OpenAI-Anthropic-Google Resource Battle",
-        "summary": "Disclosure : Some of the links on this site are affiliate links, meaning that if you click on one of the links and purchase an item, I may receive a commission. All opinions however are my own. Table ",
-        "summary_en": "They are competing for the physical infrastructure — chips, data centres, power agreements — that determines who can train the next generation of models and at what cost. Reports on OpenAI, Anthropic,",
-        "long_summary": "Disclosure : Some of the links on this site are affiliate links, meaning that if you click on one of the links and purchase an item, I may receive a commission. All opinions however are my own. Table of Contents Toggle Infrastructure Is Now a Competitive Moat — Not Just a Cost A pattern running through AI news in May 2026 that has not received enough attention from startup founders is the intensifying battle over compute infrastructure. The three major foundation model companies — OpenAI, Anthropic, and Google — are not just competing on model quality. They are competing for the physical infrastructure — chips, data centres, power agreements — that determines who can train the next generation of models and at what cost. Reports on OpenAI, Anthropic, and Google point to a market where infrastructure owners can shape pricing, access, and product survival. Compute is now a business risk. Small firms usually feel these shifts first. Large firms can absorb legal ambiguity, cloud cost spikes, and vendor lock-in. Small firms cannot. For founders building AI-powered startups, this infrastructure battle has a direct and underappreciated implication: the pricing and availability of the AI capabilities your product depends on are not stable. They are subject to the competitive dynamics, infrastructure investments, and strategic decisions of companies with very different priorities from yours. A startup that has built its entire product on a single AI provider’s API, at current pricing, ",
-        "long_summary_en": "Disclosure : Some of the links on this site are affiliate links, meaning that if you click on one of the links and purchase an item, I may receive a commission. All opinions however are my own. Table of Contents Toggle Infrastructure Is Now a Competitive Moat — Not Just a Cost A pattern running through AI news in May 2026 that has not received enough attention from startup founders is the intensifying battle over compute infrastructure. The three major foundation model companies — OpenAI, Anthropic, and Google — are not just competing on model quality. They are competing for the physical infra",
-        "image": "https://www.twinstrata.com/wp-content/uploads/2026/05/the-compute-war-is-now-a-business-risk-what-startup-founders.jpg",
-        "source": "Twinstrata",
-        "url": "https://www.twinstrata.com/the-compute-war-is-now-a-business-risk/",
-        "date": "31 May 2026"
-      },
-      {
-        "title": "Anthropic named eight firms selling its shares illegally. After the backlash, it quietly removed four.",
-        "title_en": "Anthropic named eight firms selling its shares illegally. After the backlash, it quietly removed four.",
-        "summary": "Anthropic updated its warning about unauthorized secondary market platforms selling its shares, cutting the list from eight firms to four. The revised version names only Open Door Partners, Unicorns E",
-        "summary_en": "Anthropic updated its warning about unauthorized secondary market platforms selling its shares, cutting the list from eight firms to four. The revised version names only Open Door Partners, Unicorns E",
-        "long_summary": "Anthropic updated its warning about unauthorized secondary market platforms selling its shares, cutting the list from eight firms to four. The revised version names only Open Door Partners, Unicorns Exchange, Pachamama, and Upmarket. Several of the most prominent names in private market trading, including Hiive, were removed. The original notice, published earlier this month, stated […]\nThis story continues at The Next Web",
-        "long_summary_en": "Anthropic updated its warning about unauthorized secondary market platforms selling its shares, cutting the list from eight firms to four. The revised version names only Open Door Partners, Unicorns Exchange, Pachamama, and Upmarket. Several of the most prominent names in private market trading, including Hiive, were removed. The original notice, published earlier this month, stated […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/anthropic-cuts-unauthorized-platform-list-965-billion-valuation.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/anthropic-cuts-unauthorized-platform-list-965-billion-valuation",
-        "date": "30 May 2026"
       }
     ],
     "audio": [
@@ -928,11 +928,11 @@
       "date": "31 May 2026"
     },
     {
-      "title": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-      "title_en": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-      "source": "Exploreaitogether",
-      "url": "https://exploreaitogether.com/llm-usage-limits-comparison/",
-      "date": "31 May 2026"
+      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "01 June 2026"
     }
   ]
 }
