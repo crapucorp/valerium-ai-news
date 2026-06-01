@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 June 2026 - 22:04",
+  "lastUpdate": "01 June 2026 - 22:34",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Best AI Video Generator (June 2026) — Top AI Video Generation Models Ranked by Humans",
+        "title_en": "Best AI Video Generator (June 2026) — Top AI Video Generation Models Ranked by Humans",
+        "summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen.",
+        "summary_en": "You can try any AI video generator in the media playground to test quality on your own prompts, or compare models side-by-side to see how they differ on the same input. ... Run Veo, Sora, Runway, Klin",
+        "long_summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $0.50 / M tokens See model page → Compare side-by-side",
+        "long_summary_en": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $0.50 / M tokens See model page → Compare side-by-side",
+        "image": "https://llm-stats.com/api/og/category/video_generation",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+        "date": "01 June 2026"
+      },
+      {
         "title": "Hackers hijacked Instagram accounts by asking Meta’s own AI chatbot to reset the password",
         "title_en": "Hackers hijacked Instagram accounts by asking Meta’s own AI chatbot to reset the password",
         "summary": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link,",
@@ -533,21 +545,21 @@
         "source": "Gemini",
         "url": "https://gemini.google/overview/video-generation/",
         "date": "26 May 2026"
-      },
-      {
-        "title": "How to Use Sora AI Video Generator (2026) — Step-by-Step Guide",
-        "title_en": "How to Use Sora AI Video Generator (2026) — Step-by-Step Guide",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "If you already have still images and want to animate them, our guide to transforming photos into videos with AI covers the image-to-video workflow. Sora is the highest-quality text-to-video model avai",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://higgsfield.ai/cdn-cgi/image/fit=scale-down,format=webp,onerror=redirect,width=1920,quality=85/https://static.higgsfield.ai/sora-2/step-3.webp",
-        "source": "Techjournal",
-        "url": "https://techjournal.org/how-to-use-sora-ai-video-generator",
-        "date": "26 May 2026"
       }
     ],
     "llm": [
+      {
+        "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
+        "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
+        "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
+        "summary_en": "The leading LLMs in 2026 are Claude Mythos Preview, Claude Opus 4.6, and the frontier models from OpenAI (GPT-5 family), Anthropic (Claude Opus and Sonnet), Google (Gemini 3 Pro), xAI (Grok 4), DeepSe",
+        "long_summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 10 $1.25 /M tok Mercury 2 fastest output 799 tok/s Grok 4 Fast longest context window 2.0M tokens tokens Kimi K2.6 best open-weights 90.5% gpqa LLM LLM Image Generation Image Video Generation Video Text-to-Speech TTS Speech-to-Text STT Embeddings Embeddings Full leaderboard Full 302 Open All 90d 30d Rank Model LLM Stats Reasoning Coding Agent Code Arena Context Speed Pricing $/M License 1 Claude Mythos Preview UNRELEASED Anthropic 68.8 72.5 57.8 47.9 — — — — Proprietary 2 Claude Opus 4.8 NEW Anthropic 67.9 65.7 52.3 43.9 880 1.0M 125 c/s $ 7.22 Proprietary 3 GPT-5.5 OpenAI 62.9 62.3 51.0 42.8 1,953 1.1M 178 c/s $ 7.78 Proprietary 4 Claude Opus 4.7 Anthropic 60.9 62.5 48.8 40.4 1,925 1.0M 33 c/s $ 7.22 Proprietary 5 GPT-5.2 Pro OpenAI 60.8 56.7 — 29.2 — — — — Proprietary 6 GPT-5.4 OpenAI 59.9 57.6 43.0 36.9 1,726 1.0M 197 c/s $ 3.89 Proprietary 7 Gemini 3.5 Flash NEW Google 58.6 59.2 46.4 ",
+        "long_summary_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 1",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/",
+        "date": "01 June 2026"
+      },
       {
         "title": "Gemini’s new AI agent is about as good as Google’s demo",
         "title_en": "Gemini’s new AI agent is about as good as Google’s demo",
@@ -714,18 +726,6 @@
         "image": "https://assets.bbhub.io/image/v1/resize?width=auto&type=webp&url=https://assets.bbhub.io/professional/sites/41/Fig-51.png",
         "source": "Bloomberg",
         "url": "https://www.bloomberg.com/ai",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "AI is crushing startup valuations for companies that raised before ChatGPT existed",
-        "title_en": "AI is crushing startup valuations for companies that raised before ChatGPT existed",
-        "summary": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT la",
-        "summary_en": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT la",
-        "long_summary": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT launched in November 2022 are watching their worth collapse. According to PitchBook valuation estimates, more than 220 companies that once held billion-dollar valuations have now fallen below that threshold, […]\nThis story continues at The Next Web",
-        "long_summary_en": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT launched in November 2022 are watching their worth collapse. According to PitchBook valuation estimates, more than 220 companies that once held billion-dollar valuations have now fallen below that threshold, […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/ai-startup-valuations-pre-chatgpt-fallen-unicorns.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/ai-startup-valuations-pre-chatgpt-fallen-unicorns",
         "date": "01 June 2026"
       }
     ],
