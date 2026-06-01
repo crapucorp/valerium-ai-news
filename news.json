@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "01 June 2026 - 02:37",
+  "lastUpdate": "01 June 2026 - 18:32",
   "categories": {
     "general": [
+      {
+        "title": "US export controls are pushing China’s AI chip industry away from GPUs and toward custom silicon",
+        "title_en": "US export controls are pushing China’s AI chip industry away from GPUs and toward custom silicon",
+        "summary": "China’s AI chip industry is no longer trying to build an Nvidia clone. Under sustained US export controls that block access to the most powerful general-purpose GPUs, the country’s largest technology ",
+        "summary_en": "China’s AI chip industry is no longer trying to build an Nvidia clone. Under sustained US export controls that block access to the most powerful general-purpose GPUs, the country’s largest technology ",
+        "long_summary": "China’s AI chip industry is no longer trying to build an Nvidia clone. Under sustained US export controls that block access to the most powerful general-purpose GPUs, the country’s largest technology companies are pivoting toward application-specific integrated circuits, custom chips designed to do one thing extremely well rather than handle any workload. The shift is […]\nThis story continues at The Next Web",
+        "long_summary_en": "China’s AI chip industry is no longer trying to build an Nvidia clone. Under sustained US export controls that block access to the most powerful general-purpose GPUs, the country’s largest technology companies are pivoting toward application-specific integrated circuits, custom chips designed to do one thing extremely well rather than handle any workload. The shift is […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/china-ai-chip-asic-gpu-nvidia-export-controls.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/china-ai-chip-asic-gpu-nvidia-export-controls",
+        "date": "01 June 2026"
+      },
+      {
+        "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+        "title_en": "Microsoft to unveil new AI models and Windows improvements at Build",
+        "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers C",
+        "summary_en": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers C",
+        "long_summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build […]",
+        "long_summary_en": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/MS_BUILD.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+        "date": "01 June 2026"
+      },
       {
         "title": "AI (artificial intelligence) | The Guardian",
         "title_en": "AI (artificial intelligence) | The Guardian",
@@ -156,30 +180,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/M365Copilot_Hero_BannerImage_1920x1080.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-        "title_en": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-        "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe",
-        "summary_en": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe",
-        "long_summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-        "long_summary_en": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "What happens when companies become too AI-pilled?",
-        "title_en": "What happens when companies become too AI-pilled?",
-        "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “",
-        "summary_en": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “",
-        "long_summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
-        "long_summary_en": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of “AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
         "date": "30 May 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "Runway AI: Free AI Video Generator",
+        "title_en": "Runway AI: Free AI Video Generator",
+        "summary": "Runway AI: Free AI Video Generator Runway + Invideo Generate and Edit videos with Runway Aleph on invideo. Enables precise video-to-video editing, adding or removing objects, changing camera angles, a",
+        "summary_en": "... <strong>Login and click on &#x27;Agents &amp; Models&#x27;, then choose &#x27;Gen-4 Aleph&#x27; or simply write &quot;use Gen-4 Aleph&quot; in your prompt to generate a longer video</strong>. ... ",
+        "long_summary": "Runway AI: Free AI Video Generator Runway + Invideo Generate and Edit videos with Runway Aleph on invideo. Enables precise video-to-video editing, adding or removing objects, changing camera angles, and relighting scenes with simple text prompts. AI Twins Try now! Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Film a snow leopard chasing light through an abandoned Himalayan temple Show off our new candle line in an aesthetic product reel Make a UGC ad reviewing our new peanut butter protein bar I need a 45s onboarding video for new hires, casual tone Show my younger self everything he becomes, and why Create a documentary-style video of the first humans discovering fire Create a fast-paced explainer on how cold plunges actually work Create an animated bedtime story video for my child, using my voice Film a sno",
+        "long_summary_en": "Runway AI: Free AI Video Generator Runway + Invideo Generate and Edit videos with Runway Aleph on invideo. Enables precise video-to-video editing, adding or removing objects, changing camera angles, and relighting scenes with simple text prompts. AI Twins Try now! Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns",
+        "image": "https://max-productive.ai/wp-content/uploads/2025/06/best-free-ai-video-generators-like-sora-small-channels-2025.webp",
+        "source": "Invideo",
+        "url": "https://invideo.io/make/runway-ai/",
+        "date": "01 June 2026"
+      },
+      {
+        "title": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy",
+        "title_en": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy",
+        "summary": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Rela",
+        "summary_en": "Learn how to use Gen-4.5 Image to Video",
+        "long_summary": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Related Tutorials How to Enhance Live Action Footage Behind the Scenes: A Day at the Museum Behind the Scenes: Grizzlies Back to all courses and tutorials",
+        "long_summary_en": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Related Tutorials How to Enhance Live Action Footage Behind the Scenes: A Day at the Museum Behind the Scenes: Grizzlies Back to all courses and tutorials",
+        "image": "https://academy.runwayml.com/thumbnails/gen-45-image-to-video.png",
+        "source": "Academy",
+        "url": "https://academy.runwayml.com/tutorial/gen-45-image-to-video",
+        "date": "01 June 2026"
+      },
+      {
         "title": "Kling AI: Next-Generation AI Creative Studio",
         "title_en": "Kling AI: Next-Generation AI Creative Studio",
         "summary": "Kling 3.0 Model Series Built on a fully upgraded architecture, VIDEO 3.0 and VIDEO 3.0 Omni natively support deep multimodal instruction parsing and cross-task integration, redefining the narrative lo",
@@ -521,33 +545,45 @@
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
         "date": "26 May 2026"
-      },
-      {
-        "title": "LLM News Today (May 2026) – AI Model Releases",
-        "title_en": "LLM News Today (May 2026) – AI Model Releases",
-        "summary": "Model Release · Technical Deep Dive Gemini 3.5 Flash: Benchmarks, Pricing, and Complete Specs Gemini 3.5 Flash is GA today. Frontier-level intelligence at 4x the speed of comparable models. $1.50/$9 p",
-        "summary_en": "Read by people at OpenAI, Anthropic, Google, Meta — and 400,000+ more. ... Bloomberg: Sources: Chinese government agencies begin imposing overseas travel restrictions on individuals involved in advanc",
-        "long_summary": "Model Release · Technical Deep Dive Gemini 3.5 Flash: Benchmarks, Pricing, and Complete Specs Gemini 3.5 Flash is GA today. Frontier-level intelligence at 4x the speed of comparable models. $1.50/$9 per 1M tokens, 1M context, 76.2% Terminal-Bench 2.1, beats Gemini 3.1 Pro on coding and agents. Jonathan Chavez · May 19, 2026 · 9 min",
-        "long_summary_en": "Model Release · Technical Deep Dive Gemini 3.5 Flash: Benchmarks, Pricing, and Complete Specs Gemini 3.5 Flash is GA today. Frontier-level intelligence at 4x the speed of comparable models. $1.50/$9 per 1M tokens, 1M context, 76.2% Terminal-Bench 2.1, beats Gemini 3.1 Pro on coding and agents. Jonathan Chavez · May 19, 2026 · 9 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "26 May 2026"
-      },
-      {
-        "title": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
-        "title_en": "Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs",
-        "summary": "OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project",
-        "summary_en": "OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project",
-        "long_summary": "OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project supports 646 languages for TTS and exposes an MCP server for integration with Claude, Cursor, or any MCP client.\nThe post Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs appeared first on MarkTechPost.",
-        "long_summary_en": "OmniVoice Studio runs voice cloning, video dubbing, real-time dictation, and speaker diarization entirely on your own hardware. No API keys, no cloud account, and no subscription required. The project supports 646 languages for TTS and exposes an MCP server for integration with Claude, Cursor, or any MCP client.\nThe post Meet OmniVoice Studio: A Local, Open-Source Alternative to ElevenLabs appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog11-51-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
-        "date": "26 May 2026"
       }
     ],
     "llm": [
+      {
+        "title": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
+        "title_en": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
+        "summary": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's s",
+        "summary_en": "The massive context-window gap that OpenAI once dominated has officially closed. Take a look at how the top three stack up today: OpenAI’s GPT-5.5: <strong>Ships with a 1 million-token context window<",
+        "long_summary": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's safe to say ChatGPT started the AI revolution. And while Claude and Gemini have knocked it out of the top spot a few times — and QuitGPT caused some users to stray — for the most part, it remains king. But behind all that mainstream hype, a quieter shift is happening among the platform’s power users. With the AI arms race heating up, the massive gap between OpenAI and the competition has pretty much vanished, especially for power users like developers and data analysts. Don't get me wrong, OpenAI is still cranking out incredible updates at a crazy pace. The issue is that its rivals have caught up on the basics, and they’re actually starting to beat OpenAI on the exact tools needed for serious work. If ChatGPT doesn't sharpen its edge on reliable long-context recall and autonomous multi-agent execution, it risks ceding its most demanding users to Google's Gemini and Anthropic's Claude. Latest Videos From It's no longer a specs race It’s tempting to look at the latest AI flagship models and assume whoever has the biggest \"memory\" is winning. Although, even there Gemini Spark and Gemini Intelligence give ChatGPT a run for its money. But memory alone, is where a lot of people get it wrong. The massive context-window gap that OpenAI once dominated has officially closed. Take a look at ",
+        "long_summary_en": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's safe to say ChatGPT started the AI revolution. And while Claude and Gemini have knocked it out of the top spot a few times — and QuitGPT caused some users to stray — for the most part, it remains king. But behind all that mainstream hype, a quieter shift is happening among the platform’s power users. With the AI arms race heating up, the massive gap between OpenAI and the competition has pretty muc",
+        "image": "https://cdn.mos.cms.futurecdn.net/k7i24zs2yAFtzzLsiDuGsL-2000-80.jpg",
+        "source": "Tomsguide",
+        "url": "https://www.tomsguide.com/ai/i-use-chatgpt-every-day-but-gemini-and-claude-keep-beating-it-in-these-key-areas",
+        "date": "01 June 2026"
+      },
+      {
+        "title": "AI - Bloomberg",
+        "title_en": "AI - Bloomberg",
+        "summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure",
+        "summary_en": "The iPhone maker looks to stage a comeback in digital assistants and artificial intelligence. AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic · SpaceX, OpenAI Windfall Fuels Bets on Nex",
+        "long_summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:5f8bf8d4-5dd7-11f1-adb3-1d35a1e01038 Get the most important global markets news at your fingertips with a Bloomberg.com subscription. SUBSCRIBE NOW",
+        "long_summary_en": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:5f8bf8d4-5dd7-11f1-adb3-1d35a1e01038 Get the most important global markets news at your fing",
+        "image": "https://assets.bbhub.io/image/v1/resize?width=auto&type=webp&url=https://assets.bbhub.io/professional/sites/41/Fig-51.png",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/ai",
+        "date": "01 June 2026"
+      },
+      {
+        "title": "AI is crushing startup valuations for companies that raised before ChatGPT existed",
+        "title_en": "AI is crushing startup valuations for companies that raised before ChatGPT existed",
+        "summary": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT la",
+        "summary_en": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT la",
+        "long_summary": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT launched in November 2022 are watching their worth collapse. According to PitchBook valuation estimates, more than 220 companies that once held billion-dollar valuations have now fallen below that threshold, […]\nThis story continues at The Next Web",
+        "long_summary_en": "The AI boom has created a two-speed startup economy. Companies building on generative AI are raising at historically unprecedented valuations, while startups that last raised capital before ChatGPT launched in November 2022 are watching their worth collapse. According to PitchBook valuation estimates, more than 220 companies that once held billion-dollar valuations have now fallen below that threshold, […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/ai-startup-valuations-pre-chatgpt-fallen-unicorns.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/ai-startup-valuations-pre-chatgpt-fallen-unicorns",
+        "date": "01 June 2026"
+      },
       {
         "title": "Sky-High I.P.O. Pricing Isn’t Great for Real People - The New York Times",
         "title_en": "Sky-High I.P.O. Pricing Isn’t Great for Real People - The New York Times",
@@ -691,45 +727,21 @@
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/llm-updates",
         "date": "30 May 2026"
-      },
-      {
-        "title": "Parloa turns its $350 million war chest into a partnership web spanning SAP, Microsoft, and OpenAI",
-        "title_en": "Parloa turns its $350 million war chest into a partnership web spanning SAP, Microsoft, and OpenAI",
-        "summary": "Parloa, the Berlin-founded AI agent management platform, has announced a wave of strategic partnerships with SAP, Microsoft, OpenAI, Five9, and Epic as it deploys the $350 million it raised in its Jan",
-        "summary_en": "Parloa, the Berlin-founded AI agent management platform, has announced a wave of strategic partnerships with SAP, Microsoft, OpenAI, Five9, and Epic as it deploys the $350 million it raised in its Jan",
-        "long_summary": "Parloa, the Berlin-founded AI agent management platform, has announced a wave of strategic partnerships with SAP, Microsoft, OpenAI, Five9, and Epic as it deploys the $350 million it raised in its January 2026 Series D round. The company, which builds AI agents for enterprise customer service, has also surpassed $50 million in annual recurring revenue with […]\nThis story continues at The Next Web",
-        "long_summary_en": "Parloa, the Berlin-founded AI agent management platform, has announced a wave of strategic partnerships with SAP, Microsoft, OpenAI, Five9, and Epic as it deploys the $350 million it raised in its January 2026 Series D round. The company, which builds AI agents for enterprise customer service, has also surpassed $50 million in annual recurring revenue with […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/parloa-350m-ai-agent-sap-microsoft-partnerships.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/parloa-turns-its-350-million-war-chest-into-a-partnership-web-spanning-sap-microsoft-and-openai",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times",
-        "title_en": "The $900 Billion Giant: How Anthropic Got So Big, So Fast - The New York Times",
-        "summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "summary_en": "That’s no longer the case. <strong>Anthropic has taken that crown with its $65 billion fund-raising round</strong>. How the company went from also-ran to 900-pound gorilla is a reflection of the curre",
-        "long_summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
-        "image": "https://img.etimg.com/thumb/msid-130572326,imgsize-32120,width-138,height-104/quote-of-the-day-by-queen-elizabeth-ii-to-be-inspirational-you-dont-have-to-save-lives-or.jpg",
-        "source": "Nytimes",
-        "url": "https://www.nytimes.com/2026/05/29/business/dealbook/anthropic-ai-openai.html",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "Claude Opus 4.8 Tops Gemini And GPT On Multiple Coding Tests | Yellow.com",
-        "title_en": "Claude Opus 4.8 Tops Gemini And GPT On Multiple Coding Tests | Yellow.com",
-        "summary": "Anthropic released Claude Opus 4.8 , claiming the upgraded model outperforms OpenAI 's GPT-5.5 and Google 's Gemini 3.1 Pro on several coding benchmarks. Key Points: Anthropic launched Claude Opus 4.8",
-        "summary_en": "<strong>Anthropic released Claude Opus 4.8</strong>, claiming the upgraded model outperforms OpenAI&#x27;s GPT-5.5 and Google&#x27;s Gemini 3.1 Pro on several coding benchmarks.",
-        "long_summary": "Anthropic released Claude Opus 4.8 , claiming the upgraded model outperforms OpenAI 's GPT-5.5 and Google 's Gemini 3.1 Pro on several coding benchmarks. Key Points: Anthropic launched Claude Opus 4.8 on May 28, pricing it level with the prior 4.7 release. The company says it tops OpenAI's GPT-5.5 and Google's Gemini 3.1 Pro on SWE-Bench Pro and other tests. A revamped fast mode and dynamic workflows aim to cut the cost and time of agentic work. Claude Opus 4.8 Tops Coding Benchmarks The company unveiled the model Thursday, building on the Opus 4.7 version it shipped about six weeks earlier. Anthropic said Opus 4.8 scored 69.2% on the SWE-Bench Pro coding test, beating both rivals there and topping them on several other measures. It also reported gains in computer use, knowledge work and financial analysis, along with a 74.2% mark on the Terminal-Bench 2.1 benchmark. Anthropic framed the release as a more honest model, saying testers found it flags its own uncertainty and stops short of unsupported claims. Internal reviews rate it about four times less likely than Opus 4.7 to let coding flaws slip past, and the firm says it scores higher on respecting user autonomy. Also Read: Cardano Whales Seize 67.5% Of ADA Supply, A Six-Year High Why Anthropic's Cost Controls Matter Pricing held steady at $5 per million input tokens and $25 per million output tokens. A revamped fast mode now runs about 150% quicker and costs three times less than the earlier setting. Anthropic also opened",
-        "long_summary_en": "Anthropic released Claude Opus 4.8 , claiming the upgraded model outperforms OpenAI 's GPT-5.5 and Google 's Gemini 3.1 Pro on several coding benchmarks. Key Points: Anthropic launched Claude Opus 4.8 on May 28, pricing it level with the prior 4.7 release. The company says it tops OpenAI's GPT-5.5 and Google's Gemini 3.1 Pro on SWE-Bench Pro and other tests. A revamped fast mode and dynamic workflows aim to cut the cost and time of agentic work. Claude Opus 4.8 Tops Coding Benchmarks The company unveiled the model Thursday, building on the Opus 4.7 version it shipped about six weeks earlier. A",
-        "image": "https://media.yellow.com/uploads/shutterstock_2737162387_3422aa599b.jpg",
-        "source": "Yellow",
-        "url": "https://yellow.com/news/claude-opus-48-tops-gemini-gpt",
-        "date": "30 May 2026"
       }
     ],
     "audio": [
+      {
+        "title": "AI is blowing up music. How should the Grammys handle it?",
+        "title_en": "AI is blowing up music. How should the Grammys handle it?",
+        "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI",
+        "summary_en": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI",
+        "long_summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.  Well, it’s been […]",
+        "long_summary_en": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.  Well, it’s been […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260601_Mason_Grammys.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+        "date": "01 June 2026"
+      },
       {
         "title": "AI News: CNN’s coverage on artificial intelligence and related advanced machine learning | CNN Business",
         "title_en": "AI News: CNN’s coverage on artificial intelligence and related advanced machine learning | CNN Business",
@@ -897,34 +909,22 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/credo-ventures-88m-fund",
         "date": "24 March 2026"
-      },
-      {
-        "title": "AI influencer awards season is upon us",
-        "title_en": "AI influencer awards season is upon us",
-        "summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms fr",
-        "summary_en": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms fr",
-        "long_summary": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt […]",
-        "long_summary_en": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms from quirky novelty into a serious and lucrative industry. The contest, a joint venture between generative AI studio OpenArt […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK414_AI_CVIRGINIA_I__0001_11.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-        "date": "23 March 2026"
       }
     ]
   },
   "hotNews": [
     {
+      "title": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
+      "title_en": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
+      "source": "Tomsguide",
+      "url": "https://www.tomsguide.com/ai/i-use-chatgpt-every-day-but-gemini-and-claude-keep-beating-it-in-these-key-areas",
+      "date": "01 June 2026"
+    },
+    {
       "title": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race?",
       "title_en": "ChatGPT vs Gemini vs Grok vs Claude 2026: Who Leads the AI Race?",
       "source": "Ibtimes",
       "url": "https://www.ibtimes.com.au/ai-chatbot-competition-2026-1869772",
-      "date": "31 May 2026"
-    },
-    {
-      "title": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-      "title_en": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-      "source": "Exploreaitogether",
-      "url": "https://exploreaitogether.com/llm-usage-limits-comparison/",
       "date": "31 May 2026"
     },
     {
