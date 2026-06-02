@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "02 June 2026 - 01:35",
+  "lastUpdate": "02 June 2026 - 02:05",
   "categories": {
     "general": [
+      {
+        "title": "News - Stanford HAI",
+        "title_en": "News - Stanford HAI",
+        "summary": "How AI is Transforming Scientific Discovery While Keeping Humans at the Center From designing new antibodies to simulating 1,000 years of climate in a day, AI is transforming what's possible—but human",
+        "summary_en": "As artificial intelligence transforms society, Stanford HAI’s James Landay, Fei-Fei Li, and John Hennessy explain why they’re merging HAI with the Stanford Data Science initiative, mobilizing “team sc",
+        "long_summary": "How AI is Transforming Scientific Discovery While Keeping Humans at the Center From designing new antibodies to simulating 1,000 years of climate in a day, AI is transforming what's possible—but humans remain the ones deciding what matters. Read More",
+        "long_summary_en": "How AI is Transforming Scientific Discovery While Keeping Humans at the Center From designing new antibodies to simulating 1,000 years of climate in a day, AI is transforming what's possible—but humans remain the ones deciding what matters. Read More",
+        "image": "https://hai.stanford.edu/assets/images/1200x630_hai_stanford.jpg",
+        "source": "Hai",
+        "url": "https://hai.stanford.edu/news",
+        "date": "02 June 2026"
+      },
       {
         "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
         "title_en": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
@@ -168,18 +180,6 @@
         "image": "https://media.thenextweb.com/2026/05/groq-650-million-raise-nvidia-20-billion-inference-cloud-1.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/groq-650-million-raise-nvidia-20-billion-inference-cloud",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation",
-        "title_en": "Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation",
-        "summary": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 ",
-        "summary_en": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 ",
-        "long_summary": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 hours to under 0.5 hours.\nThe post Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation appeared first on MarkTechPost.",
-        "long_summary_en": "Genesis AI released Genesis World 1.0 on May 27, 2026 — a four-component simulation platform covering physics, rendering, compilation, and tooling. The system achieves a Pearson correlation of 0.8996 between simulation and real-world robot rollouts, and reduces policy evaluation time from over 200 hours to under 0.5 hours.\nThe post Genesis AI Releases Nyx, Quadrants, and Genesis World 1.0 Physics Platform for Scalable Robotics Foundation Model Evaluation appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/04/blog-1-12-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/05/30/genesis-ai-releases-nyx-quadrants-and-genesis-world-1-0-physics-platform-for-scalable-robotics-foundation-model-evaluation/",
         "date": "30 May 2026"
       }
     ],
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "BBC Technology | Artificial Intelligence",
+        "title_en": "BBC Technology | Artificial Intelligence",
+        "summary": "Artificial Intelligence How 'confused' AI rollout hurts firms and baffles staff Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout. See more Latest headl",
+        "summary_en": "An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online.",
+        "long_summary": "Artificial Intelligence How 'confused' AI rollout hurts firms and baffles staff Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout. See more Latest headlines No, Trump's name hasn't been removed from the Kennedy Center An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online. AI giant Anthropic says it plans to list on US stock market The AI company behind Claude is set to offer the public shares of stock sometime this year. UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool. Nvidia announces new AI chip for personal computers The technology giant's boss Jensen Huang called the move the \"reinvention of the computer\". AI v the Mind Machine yearning: The one-sided truth of AI 'romance' AI can write you love poems and some people even have romantic feelings towards it. But can a machine ever love you back? What AI can teach us about listening better AI chatbots don't interrupt and aren't judgemental – so what can they teach us about deep listening? Watch Meet the world's first artist robot We find out how AI blurs the line between creation and automation, raising questions about the essence of art. Innovation Is this how AI might eliminate humanity? A research paper predicts AI autonomy by 2027 could lead to human extinction within a decade. Tech",
+        "long_summary_en": "Artificial Intelligence How 'confused' AI rollout hurts firms and baffles staff Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout. See more Latest headlines No, Trump's name hasn't been removed from the Kennedy Center An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online. AI giant Anthropic says it plans to list on US stock market The AI company behind Claude is set to offer the public shares of stock sometime this year. UK banks blocked from cyber AI tool Mythos get offer from rival Ope",
+        "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5751/live/6c984b70-f2c3-11f0-a422-4ba8a094a8fa.jpg.webp",
+        "source": "Bbc",
+        "url": "https://www.bbc.com/technology/artificial-intelligence",
+        "date": "02 June 2026"
+      },
+      {
         "title": "Best AI Video Generator (June 2026) — Top AI Video Generation Models Ranked by Humans",
         "title_en": "Best AI Video Generator (June 2026) — Top AI Video Generation Models Ranked by Humans",
         "summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen.",
@@ -533,21 +545,21 @@
         "source": "Higgsfield",
         "url": "https://higgsfield.ai/ai-video",
         "date": "28 May 2026"
-      },
-      {
-        "title": "Gemini Omni – Create & edit videos as easy as having a conversation",
-        "title_en": "Gemini Omni – Create & edit videos as easy as having a conversation",
-        "summary": "Essayer Gemini Omni",
-        "summary_en": "<strong>Gemini Omni will replace Veo in the Gemini app</strong>. Omni combines Gemini&#x27;s core intelligence with advanced generative media capabilities, including image to video, and video to video",
-        "long_summary": "Essayer Gemini Omni",
-        "long_summary_en": "Essayer Gemini Omni",
-        "image": "https://lh3.googleusercontent.com/1E500rkSh8Gqkz2l12tkrKkMgsDmbQot0h3afeiRukXNficphb2zEE8o6J3dSKkiDGOOCcQ8WtRYzEYudgiYK9FkoQeYg_SP92-C=e365-pa-nu-w1200-rj",
-        "source": "Gemini",
-        "url": "https://gemini.google/overview/video-generation/",
-        "date": "26 May 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Anthropic has officially filed to go public",
+        "title_en": "Anthropic has officially filed to go public",
+        "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities ",
+        "summary_en": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities ",
+        "long_summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last […]",
+        "long_summary_en": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+        "date": "02 June 2026"
+      },
       {
         "title": "Anthropic files to go public",
         "title_en": "Anthropic files to go public",
@@ -714,18 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/ai-news",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "Anthropic is finally giving the EU access to Mythos, ending weeks of standoff over the world’s most powerful cybersecurity AI",
-        "title_en": "Anthropic is finally giving the EU access to Mythos, ending weeks of standoff over the world’s most powerful cybersecurity AI",
-        "summary": "Anthropic has agreed to give the European Union’s cybersecurity agency, ENISA, access to Claude Mythos, the AI model that has autonomously discovered more than 10,000 high- and critical-severity zero-",
-        "summary_en": "Anthropic has agreed to give the European Union’s cybersecurity agency, ENISA, access to Claude Mythos, the AI model that has autonomously discovered more than 10,000 high- and critical-severity zero-",
-        "long_summary": "Anthropic has agreed to give the European Union’s cybersecurity agency, ENISA, access to Claude Mythos, the AI model that has autonomously discovered more than 10,000 high- and critical-severity zero-day vulnerabilities across every major operating system and web browser. The decision, communicated to the European Commission over the weekend, makes ENISA the first EU institution to join […]\nThis story continues at The Next Web",
-        "long_summary_en": "Anthropic has agreed to give the European Union’s cybersecurity agency, ENISA, access to Claude Mythos, the AI model that has autonomously discovered more than 10,000 high- and critical-severity zero-day vulnerabilities across every major operating system and web browser. The decision, communicated to the European Commission over the weekend, makes ENISA the first EU institution to join […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/anthropic-mythos-eu-enisa-cybersecurity-access",
         "date": "01 June 2026"
       }
     ],
