@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02 June 2026 - 03:06",
+  "lastUpdate": "02 June 2026 - 03:36",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
+        "title_en": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
+        "summary": "Key Points Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch Anthropic and OpenAI in the red-hot market. Microsoft is gearing up for coding-related ann",
+        "summary_en": "<strong>With Opus 4.8, Anthropic announced a new 1 million token default context</strong>, raising the amount of working memory it offers for complex coding tasks in a single conversation. Google, mea",
+        "long_summary": "Key Points Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch Anthropic and OpenAI in the red-hot market. Microsoft is gearing up for coding-related announcements at its Build conference this week, following Google's emphasis on new products and offerings at its developer conference in May. \"It’s absolutely critical for these companies to compete in this market,” said Gil Luria, an analyst covering tech stocks at D.A. Davidson. In this article GOOG MSFT Follow your favorite stocks CREATE FREE ACCOUNT Microsoft CEO Satya Nadella speaks on stage during the Microsoft AI Tour in Munich, Germany, on Feb. 25, 2026. Sven Hoppe | Picture Alliance | Getty Images In the booming generative AI market, Anthropic has zoomed ahead of the field, largely thanks to Claude Code, its AI coding assistant. Seeing where the money is, OpenAI shifted much of its focus from the consumer market to enterprise, where its Codex offering is going up against Claude Code. Now, Google and Microsoft are making a concerted effort to get into the game, using their massive balance sheets and expansive cloud businesses to try and lure developers. At its developer conference last month, Google placed heavy emphasis on agentic AI, including the unveiling of Antigravity 2.0, which the company said can \"orchestrate multiple agents to execute tasks in parallel, such as having one agent code a website while another generates brand assets.\" And at the beginning of a blog po",
+        "long_summary_en": "Key Points Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch Anthropic and OpenAI in the red-hot market. Microsoft is gearing up for coding-related announcements at its Build conference this week, following Google's emphasis on new products and offerings at its developer conference in May. \"It’s absolutely critical for these companies to compete in this market,” said Gil Luria, an analyst covering tech stocks at D.A. Davidson. In this article GOOG MSFT Follow your favorite stocks CREATE FREE ACCOUNT Microsoft CEO Satya Nadella speaks on stage du",
+        "image": "https://image.cnbcfm.com/api/v1/image/108314167-1780095631300-gettyimages-2262969404-20090101260225-99-646956.jpeg?v=1780095752&w=1920&h=1080",
+        "source": "Cnbc",
+        "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
+        "date": "02 June 2026"
+      },
+      {
         "title": "Anthropic has officially filed to go public",
         "title_en": "Anthropic has officially filed to go public",
         "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities ",
@@ -714,18 +726,6 @@
         "image": "https://media.thenextweb.com/2026/05/Sam-Altman.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/florida-sues-openai-altman-chatgpt-safety-children",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "LLM News Today (June 2026) – AI Model Releases",
-        "title_en": "LLM News Today (June 2026) – AI Model Releases",
-        "summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-s",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
-        "long_summary_en": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
         "date": "01 June 2026"
       }
     ],
@@ -921,17 +921,17 @@
       "date": "02 June 2026"
     },
     {
-      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
-      "date": "01 June 2026"
-    },
-    {
       "title": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
       "title_en": "Anthropic surpasses OpenAI to become most valuable AI startup | Hacker News",
       "source": "News",
       "url": "https://news.ycombinator.com/item?id=48336233",
+      "date": "01 June 2026"
+    },
+    {
+      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
       "date": "01 June 2026"
     }
   ]
