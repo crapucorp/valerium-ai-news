@@ -1,7 +1,67 @@
 {
-  "lastUpdate": "02 June 2026 - 18:31",
+  "lastUpdate": "03 June 2026 - 18:30",
   "categories": {
     "general": [
+      {
+        "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
+        "title_en": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
+        "summary": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Trans",
+        "summary_en": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Trans",
+        "long_summary": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation appeared first on MarkTechPost.",
+        "long_summary_en": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog13-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/",
+        "date": "03 June 2026"
+      },
+      {
+        "title": "Microsoft Build 2026: The 7 biggest announcements",
+        "title_en": "Microsoft Build 2026: The 7 biggest announcements",
+        "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
+        "summary_en": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
+        "long_summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the […]",
+        "long_summary_en": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&strip=all&crop=0%2C2.9395307941329%2C100%2C94.120938411734&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+        "date": "03 June 2026"
+      },
+      {
+        "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+        "title_en": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+        "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+        "summary_en": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+        "long_summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+        "long_summary_en": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+        "date": "03 June 2026"
+      },
+      {
+        "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+        "title_en": "Meta’s AI agent for WhatsApp Business is now available globally",
+        "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+        "summary_en": "WhatsApp will charge businesses for using its AI agent based on token usage",
+        "long_summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
+        "long_summary_en": "WhatsApp will charge businesses for using its AI agent based on token usage",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+        "date": "03 June 2026"
+      },
+      {
+        "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+        "title_en": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+        "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+        "summary_en": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+        "long_summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+        "long_summary_en": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally.",
+        "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+        "date": "03 June 2026"
+      },
       {
         "title": "Artificial Intelligence Breaking News and Press Releases",
         "title_en": "Artificial Intelligence Breaking News and Press Releases",
@@ -121,66 +181,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/china-ai-chip-asic-gpu-nvidia-export-controls",
         "date": "01 June 2026"
-      },
-      {
-        "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-        "title_en": "Microsoft to unveil new AI models and Windows improvements at Build",
-        "summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers C",
-        "summary_en": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers C",
-        "long_summary": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build […]",
-        "long_summary_en": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues to reshuffle its entire business around AI, it's moving Build […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/MS_BUILD.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "AI (artificial intelligence) | The Guardian",
-        "title_en": "AI (artificial intelligence) | The Guardian",
-        "summary": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 31 May 2026 This model is not a real person: how AI is shaking up fashion – video We or",
-        "summary_en": "Speaking at Amazon’s AI on the Lot event, the Rogue One film-maker Gareth Edwards said ‘it’ll do anything you ask’ and ‘it’s going to be better than CGI’ · Exclusive: IPPR thinktank calls for new meas",
-        "long_summary": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 31 May 2026 This model is not a real person: how AI is shaking up fashion – video We ordered a dress modelled by artificial intelligence so you don’t have to The featured essay Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned The big idea Are ‘mind children’ the future of reproduction? Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspring 30 May 2026 An industry targeting Australia’s ageing population is growing, but can AI deliver more humanity in aged care? While companion robots are being introduced and virtual experiences hope to ‘take loneliness away’, one expert agrees tech should never replace the human element Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’ Guardian readers in the US spoke of fears about unregulated AI in response to the pope’s encyclical warning about the risks of the technology 29 May 2026 ‘Like a billionaire on acid’: Star Wars director Gareth Edwards comes out in favour of AI Speaking at Amazon’s",
-        "long_summary_en": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 31 May 2026 This model is not a real person: how AI is shaking up fashion – video We ordered a dress modelled by artificial intelligence so you don’t have to The featured essay Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned The big idea Are ‘mind children’ the future of reproduction? Forget dirty nappies. In Silico",
-        "image": "https://i.guim.co.uk/img/media/60336fb5652a391cd58bfaeac3cd9985080633d4/1086_0_4623_3699/master/4623.jpg?width=120&dpr=1&s=none&crop=5:4",
-        "source": "Theguardian",
-        "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-        "date": "31 May 2026"
-      },
-      {
-        "title": "Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning",
-        "title_en": "Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning",
-        "summary": "In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills.\nThe post Build Skill-Augmented AI Ag",
-        "summary_en": "In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills.\nThe post Build Skill-Augmented AI Ag",
-        "long_summary": "In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills.\nThe post Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning appeared first on MarkTechPost.",
-        "long_summary_en": "In this tutorial, we implement a SkillNet use case as a practical framework for discovering, installing, inspecting, evaluating, and organizing reusable AI skills.\nThe post Build Skill-Augmented AI Agents with SkillNet for Search, Evaluation, Graph Analysis, and Task Planning appeared first on MarkTechPost.",
-        "image": "https://cdn-uploads.huggingface.co/production/uploads/6549caee44e75a7de4fee2fa/iisgD9KQ_svfUQdZ098oH.gif",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/05/30/build-skill-augmented-ai-agents-with-skillnet-for-search-evaluation-graph-analysis-and-task-planning/",
-        "date": "31 May 2026"
-      },
-      {
-        "title": "AI News & Artificial Intelligence | TechCrunch",
-        "title_en": "AI News & Artificial Intelligence | TechCrunch",
-        "summary": "–:–:–:– The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast. Register now. Get Disrupt Early Bird savings of up to $410 by May 29, 11:59 p.m. PT. Register now.",
-        "summary_en": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
-        "long_summary": "–:–:–:– The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast. Register now. Get Disrupt Early Bird savings of up to $410 by May 29, 11:59 p.m. PT. Register now.",
-        "long_summary_en": "–:–:–:– The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast. Register now. Get Disrupt Early Bird savings of up to $410 by May 29, 11:59 p.m. PT. Register now.",
-        "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/category/artificial-intelligence/",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "Artificial intelligence - BBC News",
-        "title_en": "Artificial intelligence - BBC News",
-        "summary": "Artificial intelligence 18 hrs ago Ukraine using AI drones to strike vital convoys supplying Russian troops BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying amm",
-        "summary_en": "<strong>A 400-year-old coded text found at the Vatican Library is among the historic documents and messages that are being cracked with the help of artificial intelligence</strong>. ... Bondi, who was",
-        "long_summary": "Artificial intelligence 18 hrs ago Ukraine using AI drones to strike vital convoys supplying Russian troops BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food. 18 hrs ago 1 day ago AI versions of Churchill, Kahlo and Gandhi on Question Time An unusual start to the programme, which this week debates concerns around artificial intelligence. 1 day ago 1 day ago The AI inside FIFA's World Cup ball A look at the AI inside FIFA's World Cup ball. 1 day ago 1 day ago AI will be used to estimate age of asylum seekers from next year The Home Office says the tool will make it easier to identify adult migrants \"attempting to game the system\". 1 day ago 2 days ago The medieval secrets being revealed by AI A 400-year-old coded text found at the Vatican Library is among the historic documents and messages that are being cracked with the help of artificial intelligence. 2 days ago 3 days ago Former US Attorney General Pam Bondi diagnosed with cancer Bondi, who was diagnosed shortly after being ousted in April, is also joining the White House's new advisory council on AI. 3 days ago 3 days ago How I won fantasy football in my first ever season - without using AI Danish medical student Erik Ibsen, 23, says it's \"insane\" he beat more than 11 million FPL players. 3 days ago 4 days ago YouTuber arrested for allegedly using AI to defame Korean actor The YouTuber allegedly made false claims that fuelled a career-ending scandal for Kim ",
-        "long_summary_en": "Artificial intelligence 18 hrs ago Ukraine using AI drones to strike vital convoys supplying Russian troops BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food. 18 hrs ago 1 day ago AI versions of Churchill, Kahlo and Gandhi on Question Time An unusual start to the programme, which this week debates concerns around artificial intelligence. 1 day ago 1 day ago The AI inside FIFA's World Cup ball A look at the AI inside FIFA's World Cup ball. 1 day ago 1 day ago AI will be used to estimate age of asylum seekers from next year The Hom",
-        "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0nh5hn7.jpg.webp",
-        "source": "Bbc",
-        "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
-        "date": "30 May 2026"
       }
     ],
     "image": [
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "10 Best Sora AI Alternatives in 2026",
+        "title_en": "10 Best Sora AI Alternatives in 2026",
+        "summary": "our prioOpenAI’s Sora made waves, but after the March 2026 shutdown, you probably need a new go-to for AI video. The good news: the Sora AI alternatives scene this year is stacked. You have more contr",
+        "summary_en": "If you want cinematic footage and Sora felt too floaty, test Luma. It’s also great at turning a single photo into a slow, dramatic reveal. Many filmmakers now pair Luma for shots with Runway for edits",
+        "long_summary": "our prioOpenAI’s Sora made waves, but after the March 2026 shutdown, you probably need a new go-to for AI video. The good news: the Sora AI alternatives scene this year is stacked. You have more control, better pricing, and tools built for specific jobs like YouTube shorts, client ads, or full films. I tested the top text-to-video and image-to-video AI tools for cinematic footage so you can skip the trial and error. You might need an app like Sora for text-to-video or freemium AI video generators with daily credits. Either way, this list covers you. Let’s get you creating again. 1. Kling AI If Sora’s short clips frustrated you, Kling AI 3.0 fixes that. You can generate up to two-minute videos that actually hold together. The motion stays logical and faces don’t morph mid shot. Kling shines with complex camera prompts. Ask for “drone push in, orbit left, then tilt up” and you get it. That makes Kling one of the top Sora AI alternatives for agencies that need multi scene projects and client revisions. You spend less time fixing glitches and more time directing. Who should use it? Filmmakers, ad teams, and anyone tired of five second limits. App Links : Web App | iOS | Android Pricing : Kling AI uses a credit-based pricing model. Paid monthly subscriptions range from $6.99 to $127.99, while a Free Plan provides 66 daily credits. Higher tier tiers include expanded credits, fast-track queues, 1080p generation, and commercial rights. 2. Google Veo + Flow Google Veo 3.1 paired with ",
+        "long_summary_en": "our prioOpenAI’s Sora made waves, but after the March 2026 shutdown, you probably need a new go-to for AI video. The good news: the Sora AI alternatives scene this year is stacked. You have more control, better pricing, and tools built for specific jobs like YouTube shorts, client ads, or full films. I tested the top text-to-video and image-to-video AI tools for cinematic footage so you can skip the trial and error. You might need an app like Sora for text-to-video or freemium AI video generators with daily credits. Either way, this list covers you. Let’s get you creating again. 1. Kling AI If",
+        "image": "https://rigorousthemes.com/blog/wp-content/uploads/2026/06/aaaii.jpg",
+        "source": "Rigorousthemes",
+        "url": "https://rigorousthemes.com/blog/best-sora-ai-alternatives/",
+        "date": "03 June 2026"
+      },
+      {
+        "title": "The 17 best AI video generators in 2026 | Zapier",
+        "title_en": "The 17 best AI video generators in 2026 | Zapier",
+        "summary": "We independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission. Learn more . Consuming video is easy. Producing good vid",
+        "summary_en": "Firefly Standard at $9.99/month for 2,000 generative credits, with access to all AI tools and partner video models. IP indemnification requires buying the appropriate entitlement. Beyond these top opt",
+        "long_summary": "We independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission. Learn more . Consuming video is easy. Producing good video is not. Putting together a script, getting all the footage, and editing everything to perfection—or as close as possible—can eat up enormous chunks of your time. As it does for everything right now, AI has a few solutions to slash the time it takes to go from idea to MP4. I went in search of the best AI tools for creating videos, and as it turns out, there are already a ton of amazing options. From smart video editing software to generative text-to-video apps, there are tools that will help you do whatever you want: running your own YouTube channel, creating more engaging clips for social media, or repurposing content to keep all your business's online channels fresh. After almost a month of testing, here are my picks this year for the best AI video generators. The best AI video creators The best AI video generators Best for creating original video from prompts or images Google Veo for reliable, consistent results Runway for film-making Luma Dream Machine for brainstorming with AI LTX Studio for extreme creative control Adobe Firefly for commercially-safe outputs Other AI video generators to watch The best AI video editors Best for editing existing footage, working faster, or repurposing content Descript for editing video by editing the script Wondershare Filmora for polishing",
+        "long_summary_en": "We independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission. Learn more . Consuming video is easy. Producing good video is not. Putting together a script, getting all the footage, and editing everything to perfection—or as close as possible—can eat up enormous chunks of your time. As it does for everything right now, AI has a few solutions to slash the time it takes to go from idea to MP4. I went in search of the best AI tools for creating videos, and as it turns out, there are already a ton of amazing options. ",
+        "image": "https://images.ctfassets.net/lzny33ho1g45/1S2b2IzWORxviPHYEi4s38/d9acb3053b694822eae67d8659da7808/ai-video-editors-hero.jpg",
+        "source": "Zapier",
+        "url": "https://zapier.com/blog/best-ai-video-generator/",
+        "date": "03 June 2026"
+      },
+      {
         "title": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
         "title_en": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
         "summary": "How to Use Agentic AI for Content Creation",
@@ -521,33 +545,57 @@
         "source": "Pika",
         "url": "https://pika.art/",
         "date": "30 May 2026"
-      },
-      {
-        "title": "Best Open Source AI Video Generation Models in 2026",
-        "title_en": "Best Open Source AI Video Generation Models in 2026",
-        "summary": "Home Blog Best open source ai video generation models AI Video Generator Best Open Source AI Video Generation Models in 2026 By Abhinav Girdhar | Last Updated on May 29th, 2026 11:53 am Table of Conte",
-        "summary_en": "From cinematic sequences to product demos and animated explainers, <strong>AI video generator is reshaping how visual content is created</strong>. While proprietary systems such as Sora and Veo have p",
-        "long_summary": "Home Blog Best open source ai video generation models AI Video Generator Best Open Source AI Video Generation Models in 2026 By Abhinav Girdhar | Last Updated on May 29th, 2026 11:53 am Table of Contents 1. What is an Open-Source AI Video Generation Model? 2. How Do Open-Source Video Generation Models Actually Work? 3. What Should You Consider Before Choosing a Video Generation Model? 4. Which Are the Best Open-Source AI Video Generation Models? 4.1. Wan 2.2 4.2. HunyuanVideo 4.3. Mochi 1 4.4. LTX-Video 4.5. CogVideoX-5B 5. How Do These Models Compare Head-to-Head? 6. Final Verdict — Which AI Video Generation Model Should You Choose? 7. Future of Open-Source AI Video Generation 8. Frequently Asked Questions AI-generated video is no longer a futuristic experiment. In 2026, it's a serious creative tool. What used to require production teams, green screens, animation software, and weeks of editing can now begin with a text prompt and a capable GPU. From cinematic sequences to product demos and animated explainers, AI video generator is reshaping how visual content is created. While proprietary systems such as Sora and Veo have pushed the boundaries of realism, many creators are turning toward a different direction — open infrastructure. Closed systems offer convenience, but they also come with restrictions: watermarks, API limits, moderation filters, and limited model-level control. For professionals who care about ownership, customization, and privacy, that tradeoff doesn't alw",
-        "long_summary_en": "Home Blog Best open source ai video generation models AI Video Generator Best Open Source AI Video Generation Models in 2026 By Abhinav Girdhar | Last Updated on May 29th, 2026 11:53 am Table of Contents 1. What is an Open-Source AI Video Generation Model? 2. How Do Open-Source Video Generation Models Actually Work? 3. What Should You Consider Before Choosing a Video Generation Model? 4. Which Are the Best Open-Source AI Video Generation Models? 4.1. Wan 2.2 4.2. HunyuanVideo 4.3. Mochi 1 4.4. LTX-Video 4.5. CogVideoX-5B 5. How Do These Models Compare Head-to-Head? 6. Final Verdict — Which AI ",
-        "image": "https://www.pixazo.ai/blog/wp-content/uploads/2026/05/pixazo-main-1024x605.png",
-        "source": "Pixazo",
-        "url": "https://www.pixazo.ai/blog/best-open-source-ai-video-generation-models",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models",
-        "title_en": "Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models",
-        "summary": "Quanlai Li March 31, 2026 Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models Looking for a Sora alternative? ChatSlide offers AI video generation with Veo 3.1, 500+ avatars, voi",
-        "summary_en": "<strong>Users who relied on Sora for text-to-video generation are now left without a tool</strong> — and searching for alternatives. Even before the shutdown, Sora had frustrating limitations: strict ",
-        "long_summary": "Quanlai Li March 31, 2026 Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models Looking for a Sora alternative? ChatSlide offers AI video generation with Veo 3.1, 500+ avatars, voice cloning, and 25+ AI image models including Imagen 4, DALL-E 3, and Flux. Free to start. Quick Answer: OpenAI discontinued the standalone Sora product in early 2026 . The closest replacement that covers everything Sora did (and more) is ChatSlide , which bundles: (1) AI video via Veo 3.1 plus PowerPoint-to-video conversion, (2) 500+ avatars with voice cloning in 17 languages, (3) 25+ image models including Imagen 4, DALL-E 3, Flux, Nano Banana Pro, GPT Image 2, Seedream, Grok Image, and Kling. Free tier covers all 25+ image models; video credits start free. Why Look for a Sora Alternative? OpenAI's Sora has been officially discontinued . After a brief period of limited availability, OpenAI shut down the standalone Sora product in early 2026, citing high costs and low adoption. Users who relied on Sora for text-to-video generation are now left without a tool — and searching for alternatives. Even before the shutdown, Sora had frustrating limitations: strict usage caps, no avatar support, no voice cloning, and no way to turn existing presentations into videos. If you were a Sora user — or were on the waitlist when it closed — you need a more complete solution. ChatSlide is the best Sora alternative for professionals who need AI video generation, AI image generation, and presentat",
-        "long_summary_en": "Quanlai Li March 31, 2026 Best Sora Alternative in 2026: AI Video & Image Generator with 25+ Models Looking for a Sora alternative? ChatSlide offers AI video generation with Veo 3.1, 500+ avatars, voice cloning, and 25+ AI image models including Imagen 4, DALL-E 3, and Flux. Free to start. Quick Answer: OpenAI discontinued the standalone Sora product in early 2026 . The closest replacement that covers everything Sora did (and more) is ChatSlide , which bundles: (1) AI video via Veo 3.1 plus PowerPoint-to-video conversion, (2) 500+ avatars with voice cloning in 17 languages, (3) 25+ image model",
-        "image": "https://static.getimg.ai/media/genj-8bsTw6fqdHo4GBrPDcab4-large.webp",
-        "source": "Chatslide",
-        "url": "https://www.chatslide.ai/guides/sora-alternative-ai-video-image-generator",
-        "date": "28 May 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+        "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+        "summary": "Back to Articles | Updated on 6/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatg",
+        "summary_en": "While no public metrics exist, vendor claims are notable: Anthropic insists its Claude has lower “falsehood rates” and shows internal citations to sources. OpenAI has begun offering “agentic retrieval",
+        "long_summary": "Back to Articles | Updated on 6/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions targeting businesses. Each brings distinct strengths: ChatGPT (based on OpenAI’s GPT family) has achieved widespread adoption in Fortune 500 companies and beyond ( [1] ) ( [2] ); Claude emphasizes safety and very large context windows (up to 500,000+ tokens in its Enterprise edition ( [3] )); Microsoft’s Copilot (including GitHub and 365 Copilot) is deeply integrated into the Microsoft ecosystem and has proven ROI in productivity campaigns ( [4] ) ( [5] ); and Google’s Gemini (backed by DeepMind research) is bundled into Google Cloud and Workspace for an end-to-end “AI fabric” experience ( [6] ) ( [7] ). In detailed comparison, key differentiators emerge along architecture, capabilities, enterprise features, and performance: Model Technology and Capabilities : ChatGPT (GPT-5.2) and Gemini (Gemini 3.1 Pro/3 Flash) are cutting-edge foundation models with high general-language and coding proficien",
+        "long_summary_en": "Back to Articles | Updated on 6/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions targeti",
+        "image": "https://intuitionlabs.ai/images/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison.jpg",
+        "source": "Intuitionlabs",
+        "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+        "date": "03 June 2026"
+      },
+      {
+        "title": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
+        "title_en": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
+        "summary": "Business Insider tells the innovative stories you want to know",
+        "summary_en": "While Anthropic hypes its unreleased Mythos AI model as dangerously powerful, Google is changing the conversation — to cost and speed. Google says its latest Gemini 3.5 Flash model rivals frontier off",
+        "long_summary": "Business Insider tells the innovative stories you want to know",
+        "long_summary_en": "Business Insider tells the innovative stories you want to know",
+        "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
+        "source": "Businessinsider",
+        "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
+        "date": "03 June 2026"
+      },
+      {
+        "title": "Lovable makes Google Cloud a primary partner to win over corporate buyers",
+        "title_en": "Lovable makes Google Cloud a primary partner to win over corporate buyers",
+        "summary": "The Swedish app-builder, processing a million new projects a week, is making Google Cloud a primary partner, with Gemini models and a security layer aimed at corporate buyers. The pitch behind Lovable",
+        "summary_en": "The Swedish app-builder, processing a million new projects a week, is making Google Cloud a primary partner, with Gemini models and a security layer aimed at corporate buyers. The pitch behind Lovable",
+        "long_summary": "The Swedish app-builder, processing a million new projects a week, is making Google Cloud a primary partner, with Gemini models and a security layer aimed at corporate buyers. The pitch behind Lovable has always been that anyone can build software by chatting with an AI. The harder pitch, the one that turns a viral tool […]\nThis story continues at The Next Web",
+        "long_summary_en": "The Swedish app-builder, processing a million new projects a week, is making Google Cloud a primary partner, with Gemini models and a security layer aimed at corporate buyers. The pitch behind Lovable has always been that anyone can build software by chatting with an AI. The harder pitch, the one that turns a viral tool […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2025/07/01938c14-fbd1-7090-b136-1328926ab8fd.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/lovable-google-cloud-expanded-collaboration",
+        "date": "03 June 2026"
+      },
+      {
+        "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+        "title_en": "Microsoft and OpenAI broke up — now they’re ready to fight",
+        "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-",
+        "summary_en": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-",
+        "long_summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's […]",
+        "long_summary_en": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+        "date": "03 June 2026"
+      },
       {
         "title": "Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro",
         "title_en": "Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro",
@@ -679,57 +727,21 @@
         "source": "Cnbc",
         "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
         "date": "02 June 2026"
-      },
-      {
-        "title": "Anthropic has officially filed to go public",
-        "title_en": "Anthropic has officially filed to go public",
-        "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities ",
-        "summary_en": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities ",
-        "long_summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last […]",
-        "long_summary_en": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25469941/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Anthropic files to go public",
-        "title_en": "Anthropic files to go public",
-        "summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-        "summary_en": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-        "long_summary": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-        "long_summary_en": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
-        "title_en": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
-        "summary": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's s",
-        "summary_en": "The massive context-window gap that OpenAI once dominated has officially closed. Take a look at how the top three stack up today: OpenAI’s GPT-5.5: <strong>Ships with a 1 million-token context window<",
-        "long_summary": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's safe to say ChatGPT started the AI revolution. And while Claude and Gemini have knocked it out of the top spot a few times — and QuitGPT caused some users to stray — for the most part, it remains king. But behind all that mainstream hype, a quieter shift is happening among the platform’s power users. With the AI arms race heating up, the massive gap between OpenAI and the competition has pretty much vanished, especially for power users like developers and data analysts. Don't get me wrong, OpenAI is still cranking out incredible updates at a crazy pace. The issue is that its rivals have caught up on the basics, and they’re actually starting to beat OpenAI on the exact tools needed for serious work. RELATED: Anthropic just filed for IPO: 5 things you need to know If ChatGPT doesn't sharpen its edge on reliable long-context recall and autonomous multi-agent execution, it risks ceding its most demanding users to Google's Gemini and Anthropic's Claude. Latest Videos From Watch full video here: It's no longer a specs race It’s tempting to look at the latest AI flagship models and assume whoever has the biggest \"memory\" is winning. Although, even there Gemini Spark and Gemini Intelligence give ChatGPT a run for its money. But memory alone, is where a lot of people get it wrong. The mass",
-        "long_summary_en": "(Image credit: Shutterstock) Copy link Facebook X Reddit Email Share this article 0 Join the conversation Follow us Add us as a preferred source on Google Newsletter Subscribe to our newsletter It's safe to say ChatGPT started the AI revolution. And while Claude and Gemini have knocked it out of the top spot a few times — and QuitGPT caused some users to stray — for the most part, it remains king. But behind all that mainstream hype, a quieter shift is happening among the platform’s power users. With the AI arms race heating up, the massive gap between OpenAI and the competition has pretty muc",
-        "image": "https://cdn.mos.cms.futurecdn.net/k7i24zs2yAFtzzLsiDuGsL-2000-80.jpg",
-        "source": "Tomsguide",
-        "url": "https://www.tomsguide.com/ai/i-use-chatgpt-every-day-but-gemini-and-claude-keep-beating-it-in-these-key-areas",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "AI - Bloomberg",
-        "title_en": "AI - Bloomberg",
-        "summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure",
-        "summary_en": "The iPhone maker looks to stage a comeback in digital assistants and artificial intelligence. AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic · SpaceX, OpenAI Windfall Fuels Bets on Nex",
-        "long_summary": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:0c54f139-5e0a-11f1-9c53-0681707040a1 Get the most important global markets news at your fingertips with a Bloomberg.com subscription. SUBSCRIBE NOW",
-        "long_summary_en": "Bloomberg - Are you a robot? We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot. Why did this happen? Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading. For more information you can review our Terms of Service and Cookie Policy . Need Help? For inquiries related to this message please contact our support team and provide the reference ID below. Block reference ID:0c54f139-5e0a-11f1-9c53-0681707040a1 Get the most important global markets news at your fing",
-        "image": "https://assets.bbhub.io/image/v1/resize?width=auto&type=webp&url=https://assets.bbhub.io/professional/sites/41/Fig-51.png",
-        "source": "Bloomberg",
-        "url": "https://www.bloomberg.com/ai",
-        "date": "02 June 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Suno raises at a $5.4bn valuation, more than doubling its worth in six months",
+        "title_en": "Suno raises at a $5.4bn valuation, more than doubling its worth in six months",
+        "summary": "Eighteen months ago Suno was the AI company the music industry wanted to destroy. Every major record label had sued it, accusing it of training its models on copyrighted songs without permission. Now ",
+        "summary_en": "Eighteen months ago Suno was the AI company the music industry wanted to destroy. Every major record label had sued it, accusing it of training its models on copyrighted songs without permission. Now ",
+        "long_summary": "Eighteen months ago Suno was the AI company the music industry wanted to destroy. Every major record label had sued it, accusing it of training its models on copyrighted songs without permission. Now the labels are its partners, and investors have repriced the company accordingly. Suno has raised new capital at a $5.4bn valuation, more than […]\nThis story continues at The Next Web",
+        "long_summary_en": "Eighteen months ago Suno was the AI company the music industry wanted to destroy. Every major record label had sued it, accusing it of training its models on copyrighted songs without permission. Now the labels are its partners, and investors have repriced the company accordingly. Suno has raised new capital at a $5.4bn valuation, more than […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/Suno.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/suno-5-4-billion-valuation-raise",
+        "date": "03 June 2026"
+      },
       {
         "title": "AI is blowing up music. How should the Grammys handle it?",
         "title_en": "AI is blowing up music. How should the Grammys handle it?",
@@ -897,18 +909,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/halter-series-e-virtual-fencing-cattle",
         "date": "25 March 2026"
-      },
-      {
-        "title": "Credo Ventures closes $88M fifth fund to stay the first cheque for CEE’s most ambitious founders",
-        "title_en": "Credo Ventures closes $88M fifth fund to stay the first cheque for CEE’s most ambitious founders",
-        "summary": "The Prague and Krakow firm, whose earliest bets include UiPath and ElevenLabs, is doubling down on pre-seed in Central and Eastern Europe and its global diaspora, with a six-partner team and a $1–5M t",
-        "summary_en": "The Prague and Krakow firm, whose earliest bets include UiPath and ElevenLabs, is doubling down on pre-seed in Central and Eastern Europe and its global diaspora, with a six-partner team and a $1–5M t",
-        "long_summary": "The Prague and Krakow firm, whose earliest bets include UiPath and ElevenLabs, is doubling down on pre-seed in Central and Eastern Europe and its global diaspora, with a six-partner team and a $1–5M typical cheque. Credo Ventures has closed Credo Stage 5, an $88 million fund raised in a single closing, continuing the Prague and […]\nThis story continues at The Next Web",
-        "long_summary_en": "The Prague and Krakow firm, whose earliest bets include UiPath and ElevenLabs, is doubling down on pre-seed in Central and Eastern Europe and its global diaspora, with a six-partner team and a $1–5M typical cheque. Credo Ventures has closed Credo Stage 5, an $88 million fund raised in a single closing, continuing the Prague and […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FCredo-Ventures-closes-88M.png&signature=6f11fc4b93923fd044fa26c008760e4b",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/credo-ventures-88m-fund",
-        "date": "24 March 2026"
       }
     ]
   },
@@ -921,11 +921,11 @@
       "date": "02 June 2026"
     },
     {
-      "title": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
-      "title_en": "I use ChatGPT every day — but Gemini and Claude keep beating it in these key areas | Tom's Guide",
-      "source": "Tomsguide",
-      "url": "https://www.tomsguide.com/ai/i-use-chatgpt-every-day-but-gemini-and-claude-keep-beating-it-in-these-key-areas",
-      "date": "02 June 2026"
+      "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+      "date": "03 June 2026"
     },
     {
       "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
