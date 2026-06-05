@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05 June 2026 - 19:39",
+  "lastUpdate": "05 June 2026 - 20:10",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Anthropic hits $47B revenue as IPO looms, defies skeptics",
+        "title_en": "Anthropic hits $47B revenue as IPO looms, defies skeptics",
+        "summary": "Anthropic just dropped a bombshell ahead of its highly anticipated IPO - the AI company's annualized revenue hit $47 billion in May, a staggering five-fold jump from roughly $9 billion at the end of 2",
+        "summary_en": "Is this organic growth from existing ... or is Anthropic signing new deals at an unprecedented clip? The company hasn&#x27;t broken out those details publicly, and you can bet IPO roadshow presentatio",
+        "long_summary": "Anthropic just dropped a bombshell ahead of its highly anticipated IPO - the AI company's annualized revenue hit $47 billion in May, a staggering five-fold jump from roughly $9 billion at the end of 2025. Co-founder Daniela Amodei is brushing off mounting skepticism about AI returns as the company prepares to face its biggest test yet: convincing public market investors that the explosive growth is sustainable. Anthropic is about to find out if Wall Street buys what Silicon Valley has been selling. The company behind Claude just revealed annualized revenue of $47 billion for May, according to TechCrunch , marking one of the most dramatic growth trajectories in tech history as it barrels toward an initial public offering. The numbers are staggering by any measure. Five months ago, Anthropic was running at a $9 billion annual revenue rate. Now it's crossed $47 billion - that's 422% growth in a period when most companies would be thrilled with 20%. The surge positions Anthropic alongside OpenAI in the race to commercialize large language models, but it also sets up a crucial test of whether public markets will reward AI companies the way venture capitalists have. Co-founder and President Daniela Amodei isn't sweating the skeptics. Even as questions swirl about AI's return on investment - particularly given the billions required for compute infrastructure and model training - she's projecting confidence that the fundamentals support the hype. The timing of her comments, just as A",
+        "long_summary_en": "Anthropic just dropped a bombshell ahead of its highly anticipated IPO - the AI company's annualized revenue hit $47 billion in May, a staggering five-fold jump from roughly $9 billion at the end of 2025. Co-founder Daniela Amodei is brushing off mounting skepticism about AI returns as the company prepares to face its biggest test yet: convincing public market investors that the explosive growth is sustainable. Anthropic is about to find out if Wall Street buys what Silicon Valley has been selling. The company behind Claude just revealed annualized revenue of $47 billion for May, according to ",
+        "image": "https://www.techbuzz.ai/cdn-cgi/image/width=1200,height=675,quality=80,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/file_b71b9b5e14.png",
+        "source": "Techbuzz",
+        "url": "https://www.techbuzz.ai/articles/anthropic-hits-47b-revenue-as-ipo-looms-defies-skeptics",
+        "date": "05 June 2026"
+      },
+      {
         "title": "Home \\ Anthropic",
         "title_en": "Home \\ Anthropic",
         "summary": "Project Glasswing Securing critical software for the AI era Continue reading",
@@ -714,18 +726,6 @@
         "image": "https://polymarket.com/api/og?eslug=new-gemini-reasoning-flagship-released-by&tid=1780655456659",
         "source": "Polymarket",
         "url": "https://polymarket.com/event/new-gemini-reasoning-flagship-released-by",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "Newsroom \\ Anthropic",
-        "title_en": "Newsroom \\ Anthropic",
-        "summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of mode",
-        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "long_summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world's most critical software. Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. News Search Date Category Title Jun 3, 2026 Announcements Int",
-        "long_summary_en": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcemen",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/news",
         "date": "05 June 2026"
       }
     ],
