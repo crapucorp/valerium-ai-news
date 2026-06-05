@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05 June 2026 - 20:41",
+  "lastUpdate": "05 June 2026 - 21:11",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Artificial intelligence news: Chat AI, ChatGPT, AI generator, AI Chatbot and Bard | NBC News",
+        "title_en": "Artificial intelligence news: Chat AI, ChatGPT, AI generator, AI Chatbot and Bard | NBC News",
+        "summary": "Justine Goode / NBC News / Getty Images Data Graphics Inside ChatGPT: How AI chatbots work Large language models like ChatGPT use a complicated series of equations to understand and respond to your pr",
+        "summary_en": "BREAKING: Lesley Stahl, Bill Whitaker and Jon Wertheim say they’ll stay at ‘60 Minutes’ · IE 11 is not supported. For an optimal experience visit our site on another browser. ... The latest news and t",
+        "long_summary": "Justine Goode / NBC News / Getty Images Data Graphics Inside ChatGPT: How AI chatbots work Large language models like ChatGPT use a complicated series of equations to understand and respond to your prompts. Here’s a look inside the system. Trying to make sense of artificial intelligence? Here's your guide An AI glossary: The words and terms to know about the booming industry",
+        "long_summary_en": "Justine Goode / NBC News / Getty Images Data Graphics Inside ChatGPT: How AI chatbots work Large language models like ChatGPT use a complicated series of equations to understand and respond to your prompts. Here’s a look inside the system. Trying to make sense of artificial intelligence? Here's your guide An AI glossary: The words and terms to know about the booming industry",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230329-artificial-intelligence-ai-doomsday-cs-74011b.jpg",
+        "source": "Nbcnews",
+        "url": "https://www.nbcnews.com/artificial-intelligence",
+        "date": "05 June 2026"
+      },
+      {
         "title": "Anthropic hits $47B revenue as IPO looms, defies skeptics",
         "title_en": "Anthropic hits $47B revenue as IPO looms, defies skeptics",
         "summary": "Anthropic just dropped a bombshell ahead of its highly anticipated IPO - the AI company's annualized revenue hit $47 billion in May, a staggering five-fold jump from roughly $9 billion at the end of 2",
@@ -714,18 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "New Gemini reasoning flagship released by...? Predictions... 2026 | Polymarket",
-        "title_en": "New Gemini reasoning flagship released by...? Predictions... 2026 | Polymarket",
-        "summary": "Google has iterated rapidly on its Gemini large language models through 2025 and 2026, with the Gemini 3 series launching in November 2025 followed by Gemini 3.1 Pro in February and the Gemini 3.5 Fla",
-        "summary_en": "The <strong>March 2025 launch of Gemini</strong> ... of Gemini 3 with its Deep Think mode for longer-horizon planning and agentic tasks. These updates reflect Google DeepMind’s focus on test-time comp",
-        "long_summary": "Google has iterated rapidly on its Gemini large language models through 2025 and 2026, with the Gemini 3 series launching in November 2025 followed by Gemini 3.1 Pro in February and the Gemini 3.5 Flash model in May 2026. The latest version emphasizes frontier-level reasoning, agentic capabilities, and coding performance on benchmarks such as GPQA and long-horizon tasks, positioning it competitively against models from OpenAI and Anthropic while integrating deeply with Google’s ecosystem. Traders monitor official announcements, developer API updates, and competitive benchmark releases for signs of a new flagship, with potential catalysts including further 3.5 variants or a Gemini 4 preview at upcoming events. Market-implied odds reflect ongoing uncertainty around exact release timing amid typical AI development slippage. Experimental AI-generated summary referencing Polymarket data. This is not trading advice and plays no role in how this market resolves. · Updated Jun 5, 2026, 9:46 AM UTC",
-        "long_summary_en": "Google has iterated rapidly on its Gemini large language models through 2025 and 2026, with the Gemini 3 series launching in November 2025 followed by Gemini 3.1 Pro in February and the Gemini 3.5 Flash model in May 2026. The latest version emphasizes frontier-level reasoning, agentic capabilities, and coding performance on benchmarks such as GPQA and long-horizon tasks, positioning it competitively against models from OpenAI and Anthropic while integrating deeply with Google’s ecosystem. Traders monitor official announcements, developer API updates, and competitive benchmark releases for sign",
-        "image": "https://polymarket.com/api/og?eslug=new-gemini-reasoning-flagship-released-by&tid=1780655456659",
-        "source": "Polymarket",
-        "url": "https://polymarket.com/event/new-gemini-reasoning-flagship-released-by",
         "date": "05 June 2026"
       }
     ],
