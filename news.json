@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05 June 2026 - 15:04",
+  "lastUpdate": "05 June 2026 - 15:35",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Anthropic says Claude writes 80% of its own code and the world needs a plan to hit the brakes",
+        "title_en": "Anthropic says Claude writes 80% of its own code and the world needs a plan to hit the brakes",
+        "summary": "One of Anthropic’s engineers hasn’t written a line of code in five months. Not because the work dried up, but because Claude does it now. As of May 2026, more than 80% of the code merged into Anthropi",
+        "summary_en": "One of Anthropic’s engineers hasn’t written a line of code in five months. Not because the work dried up, but because Claude does it now. As of May 2026, more than 80% of the code merged into Anthropi",
+        "long_summary": "One of Anthropic’s engineers hasn’t written a line of code in five months. Not because the work dried up, but because Claude does it now. As of May 2026, more than 80% of the code merged into Anthropic’s production codebase was authored by Claude, up from low single digits when Claude Code launched in February 2025. […]\nThis story continues at The Next Web",
+        "long_summary_en": "One of Anthropic’s engineers hasn’t written a line of code in five months. Not because the work dried up, but because Claude does it now. As of May 2026, more than 80% of the code merged into Anthropic’s production codebase was authored by Claude, up from low single digits when Claude Code launched in February 2025. […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/05/claude-opus-4-8.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/anthropic-claude-recursive-self-improvement-code",
+        "date": "05 June 2026"
+      },
+      {
         "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
         "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
         "summary": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/05/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free t",
@@ -714,18 +726,6 @@
         "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
         "source": "Businessinsider",
         "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
-        "date": "03 June 2026"
-      },
-      {
-        "title": "Lovable makes Google Cloud a primary partner to win over corporate buyers",
-        "title_en": "Lovable makes Google Cloud a primary partner to win over corporate buyers",
-        "summary": "The Swedish app-builder, processing a million new projects a week, is making Google Cloud a primary partner, with Gemini models and a security layer aimed at corporate buyers. The pitch behind Lovable",
-        "summary_en": "The Swedish app-builder, processing a million new projects a week, is making Google Cloud a primary partner, with Gemini models and a security layer aimed at corporate buyers. The pitch behind Lovable",
-        "long_summary": "The Swedish app-builder, processing a million new projects a week, is making Google Cloud a primary partner, with Gemini models and a security layer aimed at corporate buyers. The pitch behind Lovable has always been that anyone can build software by chatting with an AI. The harder pitch, the one that turns a viral tool […]\nThis story continues at The Next Web",
-        "long_summary_en": "The Swedish app-builder, processing a million new projects a week, is making Google Cloud a primary partner, with Gemini models and a security layer aimed at corporate buyers. The pitch behind Lovable has always been that anyone can build software by chatting with an AI. The harder pitch, the one that turns a viral tool […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2025/07/01938c14-fbd1-7090-b136-1328926ab8fd.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/lovable-google-cloud-expanded-collaboration",
         "date": "03 June 2026"
       }
     ],
