@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05 June 2026 - 12:31",
+  "lastUpdate": "05 June 2026 - 13:02",
   "categories": {
     "general": [
       {
@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
+        "title_en": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
+        "summary": "LLM API Pricing Comparison & Cost Guide (Jun 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: JUNE 5, 2026 LLM API Pricing Compari",
+        "summary_en": "Google&#x27;s Gemini 2.5 Flash is also extremely affordable. For free options, many providers offer free tiers with rate limits — DeepSeek R1, Llama 3.3 70B, and Gemma 3 are available at zero cost on ",
+        "long_summary": "LLM API Pricing Comparison & Cost Guide (Jun 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: JUNE 5, 2026 LLM API Pricing Comparison Compare pricing across 305+ LLM APIs from OpenAI, Anthropic, Google, DeepSeek, Mistral, xAI, and more. Sorted by quality, price, or value score. Comparison Value Rankings Pricing Guide Save Money FAQ Pricing TLDR • Budget models from $0.07/M input tokens — premium models up to $75/M output tokens • Quality scores from 0-100 based on independent benchmarks (Theozard) • Value score = quality per dollar of output cost — find the best bang for your buck Official pricing: OpenRouter API (live pricing) • Quality Scores: Theozard LLM API Cost Comparison — Monthly Pricing Calculate by Tokens Words Characters Input Tokens Output Tokens API Calls / Month Quick Examples: Chatbot Code Assistant Doc Analysis Content Gen Sort: quality price value Cost (openai/gpt-5.5) Context 1.1M Quality 100 Per 1M Tokens In: $ 5.00 Out: $ 30.00 Value 3.3 Monthly Cost $ 20.00 (openai/gpt-5.5-pro) Context 1.1M Quality 100 Per 1M Tokens In: $ 30.00 Out: $ 180.00 Value 0.6 Monthly Cost $ 120.00 (google/gemini-3.1-pro-preview-customtools) Context 1.0M Quality 95 Per 1M Tokens In: $ 2.00 Out: $ 12.00 Value 7.9 Monthly Cost $ 8.00 (google/gemini-3.1-pro-preview) Context 1.0M Quality 95 Per 1M Tokens In: $ 2.00 Out: $ 12.00 Value 7.9 Monthly Cost $ 8.00 (anthropic/claude-opus-4.7) Context 1.0M Quality 95 Per 1M ",
+        "long_summary_en": "LLM API Pricing Comparison & Cost Guide (Jun 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: JUNE 5, 2026 LLM API Pricing Comparison Compare pricing across 305+ LLM APIs from OpenAI, Anthropic, Google, DeepSeek, Mistral, xAI, and more. Sorted by quality, price, or value score. Comparison Value Rankings Pricing Guide Save Money FAQ Pricing TLDR • Budget models from $0.07/M input tokens — premium models up to $75/M output tokens • Quality scores from 0-100 based on independent benchmarks (Theozard) • Value score = quality per",
+        "image": "https://costgoat.com/og-image.png",
+        "source": "Costgoat",
+        "url": "https://costgoat.com/compare/llm-api",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "LLM News Today (June 2026) – AI Model Releases",
+        "title_en": "LLM News Today (June 2026) – AI Model Releases",
+        "summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-s",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
+        "long_summary_en": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Googl",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 1w ago May 19, 2026 · 2 release s Gemini 3.5 Flash Lightweight Proprietary Google • 2w ago Qwen3.7 Max Pro Proprietary Alibaba Cloud / Qwen Team • 2w ago May 6, 2026 · 1 release Grok 4.3 Release Proprietary xAI • 1mo ago May 5, 2026 · 1 release GPT-5.5 Instant Lightweight Proprietary OpenAI • 1mo ago Apr 29, 2026 · 1 release Mistral Medium 3.5 Release Open Source Mistral AI • 1mo ago Apr 23, 2026 · 2 release s DeepSeek-V4-Flash-Max Pro Open Source DeepSeek • 1mo ago DeepSeek-V4-Pro-Max Pro Open Source DeepSeek • 1mo ago 1 – 8 of 302 1 2 3 4 5 6 7 Last 30 days Models that got better Worse 0 Better 1 Sigma-normalized vs. each model's baseline Claude Opus 4.6 Anthropic · 4mo old +1.74σ now +4.27σ 205 votes · 1 arena How is this measured? ⌄ For each model we reconstruct daily TrueSkill conservative rating",
+        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Resea",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "05 June 2026"
+      },
+      {
         "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
         "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
         "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
@@ -690,42 +726,6 @@
         "image": "https://s.yimg.com/ny/api/res/1.2/r2zKs6VNZAh5sgU0tlXDmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://d29szjachogqwa.cloudfront.net/images/2026-05/836c3654-d573-4758-8156-4e061678fe5e",
         "source": "Finance",
         "url": "https://finance.yahoo.com/news/anthropic-debuts-flagship-claude-opus-48-ai-model-as-ipo-race-with-openai-heats-up-170000527.html",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
-        "title_en": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
-        "summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will",
-        "summary_en": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will",
-        "long_summary": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local […]",
-        "long_summary_en": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check all the local […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Gemini-Spark.jpg?quality=90&strip=all&crop=0%2C10.711701357851%2C100%2C78.576597284297&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-        "title_en": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-        "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc",
-        "summary_en": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthc",
-        "long_summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
-        "long_summary_en": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communications where a cyberattack could affect 100 million people.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "OpenAI launches new Codex tools for white-collar work",
-        "title_en": "OpenAI launches new Codex tools for white-collar work",
-        "summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace. Together with ",
-        "summary_en": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace. Together with ",
-        "long_summary": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace. Together with the new tools, the company released an internal report on how Codex is being used for knowledge work, finding its uses go […]",
-        "long_summary_en": "OpenAI is getting serious about courting enterprise users. On Tuesday, the AI lab released a new set of capabilities for Codex, meant to expand the agentic tool’s uses in the workplace. Together with the new tools, the company released an internal report on how Codex is being used for knowledge work, finding its uses go […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
         "date": "02 June 2026"
       }
     ],
@@ -928,11 +928,11 @@
       "date": "03 June 2026"
     },
     {
-      "title": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
-      "title_en": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
-      "source": "Finance",
-      "url": "https://finance.yahoo.com/news/anthropic-debuts-flagship-claude-opus-48-ai-model-as-ipo-race-with-openai-heats-up-170000527.html",
-      "date": "02 June 2026"
+      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "05 June 2026"
     }
   ]
 }
