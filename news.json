@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "05 June 2026 - 15:35",
+  "lastUpdate": "05 June 2026 - 16:05",
   "categories": {
     "general": [
+      {
+        "title": "A Chinese startup just dethroned Nvidia on the benchmark Nvidia helped build",
+        "title_en": "A Chinese startup just dethroned Nvidia on the benchmark Nvidia helped build",
+        "summary": "Two days. That is how long Nvidia’s latest robotics model sat at the top of the RoboArena leaderboard before a startup from Hangzhou knocked it off. On Wednesday, Spirit AI announced that its foundati",
+        "summary_en": "Two days. That is how long Nvidia’s latest robotics model sat at the top of the RoboArena leaderboard before a startup from Hangzhou knocked it off. On Wednesday, Spirit AI announced that its foundati",
+        "long_summary": "Two days. That is how long Nvidia’s latest robotics model sat at the top of the RoboArena leaderboard before a startup from Hangzhou knocked it off. On Wednesday, Spirit AI announced that its foundation model for embodied intelligence, Spirit v1.6, had scored 1,924 on the benchmark, edging out Nvidia’s Cosmos3-Nano-Policy at 1,881. A second Nvidia project, DreamZero, […]\nThis story continues at The Next Web",
+        "long_summary_en": "Two days. That is how long Nvidia’s latest robotics model sat at the top of the RoboArena leaderboard before a startup from Hangzhou knocked it off. On Wednesday, Spirit AI announced that its foundation model for embodied intelligence, Spirit v1.6, had scored 1,924 on the benchmark, edging out Nvidia’s Cosmos3-Nano-Policy at 1,881. A second Nvidia project, DreamZero, […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/spirit-ai-beats-nvidia-roboarena-physical-ai.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/spirit-ai-beats-nvidia-roboarena-physical-ai",
+        "date": "05 June 2026"
+      },
       {
         "title": "Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing",
         "title_en": "Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing",
@@ -169,21 +181,21 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
         "date": "02 June 2026"
-      },
-      {
-        "title": "ZeroDrift raises $10M to protect AI models from themselves",
-        "title_en": "ZeroDrift raises $10M to protect AI models from themselves",
-        "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-        "summary_en": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-        "long_summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-        "long_summary_en": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-        "date": "02 June 2026"
       }
     ],
     "image": [
+      {
+        "title": "Mira Murati resurfaces after 18 months with a warning about AI governance and a product no one expected",
+        "title_en": "Mira Murati resurfaces after 18 months with a warning about AI governance and a product no one expected",
+        "summary": "For someone who helped ship ChatGPT, DALL-E, and Codex, Mira Murati has been remarkably quiet. On Thursday, she broke the silence. Sitting down with Bloomberg’s Emily Chang in San Francisco, the CEO o",
+        "summary_en": "For someone who helped ship ChatGPT, DALL-E, and Codex, Mira Murati has been remarkably quiet. On Thursday, she broke the silence. Sitting down with Bloomberg’s Emily Chang in San Francisco, the CEO o",
+        "long_summary": "For someone who helped ship ChatGPT, DALL-E, and Codex, Mira Murati has been remarkably quiet. On Thursday, she broke the silence. Sitting down with Bloomberg’s Emily Chang in San Francisco, the CEO of Thinking Machines Lab gave her first major media appearance in roughly 18 months, a carefully managed re-entry into a conversation that has moved at […]\nThis story continues at The Next Web",
+        "long_summary_en": "For someone who helped ship ChatGPT, DALL-E, and Codex, Mira Murati has been remarkably quiet. On Thursday, she broke the silence. Sitting down with Bloomberg’s Emily Chang in San Francisco, the CEO of Thinking Machines Lab gave her first major media appearance in roughly 18 months, a carefully managed re-entry into a conversation that has moved at […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/mira-murati-thinking-machines-bloomberg-return.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/mira-murati-resurfaces-after-18-months-with-a-warning-about-ai-governance-and-a-product-no-one-expected",
+        "date": "05 June 2026"
+      },
       {
         "title": "HeartFocus Link adds AI cardiac imaging to any hospital ultrasound machine with a tablet and an HDMI cable",
         "title_en": "HeartFocus Link adds AI cardiac imaging to any hospital ultrasound machine with a tablet and an HDMI cable",
@@ -351,18 +363,6 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/",
         "date": "19 March 2026"
-      },
-      {
-        "title": "Google’s Personal Intelligence feature is expanding to all US users",
-        "title_en": "Google’s Personal Intelligence feature is expanding to all US users",
-        "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-        "summary_en": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-        "long_summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-        "long_summary_en": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
-        "date": "17 March 2026"
       }
     ],
     "video": [
