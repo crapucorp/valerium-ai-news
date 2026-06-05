@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05 June 2026 - 18:08",
+  "lastUpdate": "05 June 2026 - 18:38",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Token prices fell 98%. Enterprise AI bills tripled. Now the industry wants a standards body to explain why.",
+        "title_en": "Token prices fell 98%. Enterprise AI bills tripled. Now the industry wants a standards body to explain why.",
+        "summary": "Uber blew through its entire 2026 AI coding budget by April. Microsoft revoked its developers’ Claude Code licences six months after enabling them. One company reportedly ran up a $500 million Claude ",
+        "summary_en": "Uber blew through its entire 2026 AI coding budget by April. Microsoft revoked its developers’ Claude Code licences six months after enabling them. One company reportedly ran up a $500 million Claude ",
+        "long_summary": "Uber blew through its entire 2026 AI coding budget by April. Microsoft revoked its developers’ Claude Code licences six months after enabling them. One company reportedly ran up a $500 million Claude bill in a single month after forgetting to set usage limits. A Priceline employee told TechCrunch that a routine Cursor contract renewal came back four to five times […]\nThis story continues at The Next Web",
+        "long_summary_en": "Uber blew through its entire 2026 AI coding budget by April. Microsoft revoked its developers’ Claude Code licences six months after enabling them. One company reportedly ran up a $500 million Claude bill in a single month after forgetting to set usage limits. A Priceline employee told TechCrunch that a routine Cursor contract renewal came back four to five times […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/ai-token-costs-enterprise-tokenomics-foundation.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/token-prices-fell-98-enterprise-ai-bills-tripled-now-the-industry-wants-a-standards-body-to-explain-why",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "Airbnb’s Chesky helped put Sam Altman back in power. Now he’s building an AI lab to compete with him.",
+        "title_en": "Airbnb’s Chesky helped put Sam Altman back in power. Now he’s building an AI lab to compete with him.",
+        "summary": "Brian Chesky has spent years as an AI kingmaker. He met Sam Altman through Y Combinator in 2006, advised him on managing OpenAI’s hypergrowth, and helped broker Altman’s return to power after the boar",
+        "summary_en": "Brian Chesky has spent years as an AI kingmaker. He met Sam Altman through Y Combinator in 2006, advised him on managing OpenAI’s hypergrowth, and helped broker Altman’s return to power after the boar",
+        "long_summary": "Brian Chesky has spent years as an AI kingmaker. He met Sam Altman through Y Combinator in 2006, advised him on managing OpenAI’s hypergrowth, and helped broker Altman’s return to power after the board fired him in November 2023. He was reportedly considered for a seat on OpenAI’s board. Now he is entering competition with his […]\nThis story continues at The Next Web",
+        "long_summary_en": "Brian Chesky has spent years as an AI kingmaker. He met Sam Altman through Y Combinator in 2006, advised him on managing OpenAI’s hypergrowth, and helped broker Altman’s return to power after the board fired him in November 2023. He was reportedly considered for a seat on OpenAI’s board. Now he is entering competition with his […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/Brian-Chesky.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/chesky-airbnb-ai-lab-openai-altman",
+        "date": "05 June 2026"
+      },
+      {
         "title": "How Anthropic, OpenAI And Nvidia Are Defining The AI Economy",
         "title_en": "How Anthropic, OpenAI And Nvidia Are Defining The AI Economy",
         "summary": "Money Editors' Pick How Anthropic, OpenAI And Nvidia Are Defining The AI Economy Who leads the next phase of AI adoption and charts the future of the knowledge economy is up for grabs, Forbes expert c",
@@ -703,30 +727,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
         "date": "05 June 2026"
-      },
-      {
-        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-        "title_en": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-        "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
-        "summary_en": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
-        "long_summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-        "long_summary_en": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-        "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-        "summary": "Back to Articles | Updated on 6/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatg",
-        "summary_en": "While no public metrics exist, vendor claims are notable: Anthropic insists its Claude has lower “falsehood rates” and shows internal citations to sources. OpenAI has begun offering “agentic retrieval",
-        "long_summary": "Back to Articles | Updated on 6/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions targeting businesses. Each brings distinct strengths: ChatGPT (based on OpenAI’s GPT family) has achieved widespread adoption in Fortune 500 companies and beyond ( [1] ) ( [2] ); Claude emphasizes safety and very large context windows (up to 500,000+ tokens in its Enterprise edition ( [3] )); Microsoft’s Copilot (including GitHub and 365 Copilot) is deeply integrated into the Microsoft ecosystem and has proven ROI in productivity campaigns ( [4] ) ( [5] ); and Google’s Gemini (backed by DeepMind research) is bundled into Google Cloud and Workspace for an end-to-end “AI fabric” experience ( [6] ) ( [7] ). In detailed comparison, key differentiators emerge along architecture, capabilities, enterprise features, and performance: Model Technology and Capabilities : ChatGPT (GPT-5.2) and Gemini (Gemini 3.1 Pro/3 Flash) are cutting-edge foundation models with high general-language and coding proficien",
-        "long_summary_en": "Back to Articles | Updated on 6/2/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions targeti",
-        "image": "https://intuitionlabs.ai/images/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-        "date": "03 June 2026"
       }
     ],
     "audio": [
@@ -914,13 +914,6 @@
   },
   "hotNews": [
     {
-      "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-      "date": "03 June 2026"
-    },
-    {
       "title": "How Anthropic, OpenAI And Nvidia Are Defining The AI Economy",
       "title_en": "How Anthropic, OpenAI And Nvidia Are Defining The AI Economy",
       "source": "Forbes",
@@ -932,6 +925,13 @@
       "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
       "source": "Albato",
       "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
+      "date": "05 June 2026"
+    },
+    {
+      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
       "date": "05 June 2026"
     }
   ]
