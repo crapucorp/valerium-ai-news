@@ -1,7 +1,55 @@
 {
-  "lastUpdate": "03 June 2026 - 18:30",
+  "lastUpdate": "05 June 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
+        "title_en": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
+        "summary": "Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primiti",
+        "summary_en": "Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primiti",
+        "long_summary": "Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primitives — Intelligence, Engine, Agents, Tools & Memory, and Learning — and lands within 3.2 points of the best cloud model at roughly 800× lower marginal API cost.\nThe post Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning appeared first on MarkTechPost.",
+        "long_summary_en": "Stanford researchers released OpenJarvis, an open-source framework that runs inference, agents, memory, and learning entirely on-device. It decomposes a personal AI system into five composable primitives — Intelligence, Engine, Agents, Tools & Memory, and Learning — and lands within 3.2 points of the best cloud model at roughly 800× lower marginal API cost.\nThe post Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog14-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/03/meet-openjarvis-a-local-first-framework-for-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "Nvidia’s Jensen Huang flags robotics as Korea’s next growth engine",
+        "title_en": "Nvidia’s Jensen Huang flags robotics as Korea’s next growth engine",
+        "summary": "Nvidia’s chief executive arrived for a four-day visit pitching robotics and physical AI, and looking past the memory chips that already bind the company to Korea. Jensen Huang made the pitch before he",
+        "summary_en": "Nvidia’s chief executive arrived for a four-day visit pitching robotics and physical AI, and looking past the memory chips that already bind the company to Korea. Jensen Huang made the pitch before he",
+        "long_summary": "Nvidia’s chief executive arrived for a four-day visit pitching robotics and physical AI, and looking past the memory chips that already bind the company to Korea. Jensen Huang made the pitch before he had left the airport. Arriving at Gimpo for a four-day visit to Seoul, the Nvidia chief executive told reporters that “robotics is […]\nThis story continues at The Next Web",
+        "long_summary_en": "Nvidia’s chief executive arrived for a four-day visit pitching robotics and physical AI, and looking past the memory chips that already bind the company to Korea. Jensen Huang made the pitch before he had left the airport. Arriving at Gimpo for a four-day visit to Seoul, the Nvidia chief executive told reporters that “robotics is […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/Jensen-Huang-Taipei.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/nvidia-huang-robotics-south-korea",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "South Korea’s labour minister wants tech firms to share AI windfalls",
+        "title_en": "South Korea’s labour minister wants tech firms to share AI windfalls",
+        "summary": "The argument is about who the AI boom is for. South Korea’s labour minister, Kim Young-hoon, has called on the country’s largest technology firms to share the windfall profits flowing from the AI-driv",
+        "summary_en": "The argument is about who the AI boom is for. South Korea’s labour minister, Kim Young-hoon, has called on the country’s largest technology firms to share the windfall profits flowing from the AI-driv",
+        "long_summary": "The argument is about who the AI boom is for. South Korea’s labour minister, Kim Young-hoon, has called on the country’s largest technology firms to share the windfall profits flowing from the AI-driven chip cycle, warning that record sector gains risk widening the gap between the conglomerates capturing them and everyone working below the top. […]\nThis story continues at The Next Web",
+        "long_summary_en": "The argument is about who the AI boom is for. South Korea’s labour minister, Kim Young-hoon, has called on the country’s largest technology firms to share the windfall profits flowing from the AI-driven chip cycle, warning that record sector gains risk widening the gap between the conglomerates capturing them and everyone working below the top. […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/Kim-Young-hoon.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/south-korea-share-ai-profits-labour-minister",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+        "title_en": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+        "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place",
+        "summary_en": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place",
+        "long_summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+        "long_summary_en": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+        "date": "05 June 2026"
+      },
       {
         "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
         "title_en": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
@@ -133,54 +181,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/huang-workers-paid-as-much-as-possible-samsung",
         "date": "02 June 2026"
-      },
-      {
-        "title": "Uber picks Munich for its next robotaxi push, with Autobrains and Nvidia",
-        "title_en": "Uber picks Munich for its next robotaxi push, with Autobrains and Nvidia",
-        "summary": "The ride-hailing company is betting that Germany’s automotive heartland, and a less sensor-heavy approach to autonomy, can finally make robotaxis scale in Europe. Munich is about to become a test of a",
-        "summary_en": "The ride-hailing company is betting that Germany’s automotive heartland, and a less sensor-heavy approach to autonomy, can finally make robotaxis scale in Europe. Munich is about to become a test of a",
-        "long_summary": "The ride-hailing company is betting that Germany’s automotive heartland, and a less sensor-heavy approach to autonomy, can finally make robotaxis scale in Europe. Munich is about to become a test of a particular theory: that the cheapest way to put a driverless taxi on a European street is to stop building special cars for it. […]\nThis story continues at The Next Web",
-        "long_summary_en": "The ride-hailing company is betting that Germany’s automotive heartland, and a less sensor-heavy approach to autonomy, can finally make robotaxis scale in Europe. Munich is about to become a test of a particular theory: that the cheapest way to put a driverless taxi on a European street is to stop building special cars for it. […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/Uber.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/uber-autobrains-nvidia-munich-robotaxi",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "News - Stanford HAI",
-        "title_en": "News - Stanford HAI",
-        "summary": "How AI is Transforming Scientific Discovery While Keeping Humans at the Center From designing new antibodies to simulating 1,000 years of climate in a day, AI is transforming what's possible—but human",
-        "summary_en": "As artificial intelligence transforms society, Stanford HAI’s James Landay, Fei-Fei Li, and John Hennessy explain why they’re merging HAI with the Stanford Data Science initiative, mobilizing “team sc",
-        "long_summary": "How AI is Transforming Scientific Discovery While Keeping Humans at the Center From designing new antibodies to simulating 1,000 years of climate in a day, AI is transforming what's possible—but humans remain the ones deciding what matters. Read More",
-        "long_summary_en": "How AI is Transforming Scientific Discovery While Keeping Humans at the Center From designing new antibodies to simulating 1,000 years of climate in a day, AI is transforming what's possible—but humans remain the ones deciding what matters. Read More",
-        "image": "https://hai.stanford.edu/assets/images/1200x630_hai_stanford.jpg",
-        "source": "Hai",
-        "url": "https://hai.stanford.edu/news",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-        "title_en": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-        "summary": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
-        "summary_en": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
-        "long_summary": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
-        "long_summary_en": "If Nvidia has cracked a way to bring AI agents easily, safely and usefully to the masses, it could — and should — be big.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "US export controls are pushing China’s AI chip industry away from GPUs and toward custom silicon",
-        "title_en": "US export controls are pushing China’s AI chip industry away from GPUs and toward custom silicon",
-        "summary": "China’s AI chip industry is no longer trying to build an Nvidia clone. Under sustained US export controls that block access to the most powerful general-purpose GPUs, the country’s largest technology ",
-        "summary_en": "China’s AI chip industry is no longer trying to build an Nvidia clone. Under sustained US export controls that block access to the most powerful general-purpose GPUs, the country’s largest technology ",
-        "long_summary": "China’s AI chip industry is no longer trying to build an Nvidia clone. Under sustained US export controls that block access to the most powerful general-purpose GPUs, the country’s largest technology companies are pivoting toward application-specific integrated circuits, custom chips designed to do one thing extremely well rather than handle any workload. The shift is […]\nThis story continues at The Next Web",
-        "long_summary_en": "China’s AI chip industry is no longer trying to build an Nvidia clone. Under sustained US export controls that block access to the most powerful general-purpose GPUs, the country’s largest technology companies are pivoting toward application-specific integrated circuits, custom chips designed to do one thing extremely well rather than handle any workload. The shift is […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/china-ai-chip-asic-gpu-nvidia-export-controls.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/china-ai-chip-asic-gpu-nvidia-export-controls",
-        "date": "01 June 2026"
       }
     ],
     "image": [
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
+        "title_en": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
+        "summary": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
+        "summary_en": "AI design studio with infinite canvas — a powerful Canva and Lovart alternative. <strong>Generate images with GPT Image, Seedream, Nano Banana Pro directly on canvas</strong>. Plus AI video maker, pho",
+        "long_summary": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
+        "long_summary_en": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
+        "image": "https://budgetpixel.com/logo-facebook.jpg",
+        "source": "Budgetpixel",
+        "url": "https://budgetpixel.com/images/workshop",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "Sora Shutdown: Why Disney Killed Its $150M AI Deal [2026]",
+        "title_en": "Sora Shutdown: Why Disney Killed Its $150M AI Deal [2026]",
+        "summary": "Marcus Chen Stockholm, Sweden March 30, 2026 16 min read OpenAI has officially confirmed that it will shut down its Sora AI video generation app on April 26, 2026, and discontinue the Sora API on Sept",
+        "summary_en": "Based on the current market dynamics, competitive landscape, and technology trajectory, here are five predictions for what comes next: 1. <strong>Runway will emerge as the dominant professional AI vid",
+        "long_summary": "Marcus Chen Stockholm, Sweden March 30, 2026 16 min read OpenAI has officially confirmed that it will shut down its Sora AI video generation app on April 26, 2026, and discontinue the Sora API on September 24, 2026. The decision, announced on March 27, 2026, marks one of the most significant product retreats in artificial intelligence history – and sends a clear signal about where the AI industry’s priorities are heading as it matures from experimental consumer products toward enterprise-grade revenue generation. The OpenAI Sora shutdown comes just six months after the app’s public launch, which saw it reach number one on the iOS App Store and accumulate over one million downloads in its first week. But sustained usage never materialized. By early 2026, active users had dropped below 500,000, and the economics of running a compute-intensive video generation service for consumers no longer justified the investment. An unnamed OpenAI executive told reporters, “We cannot miss this moment because we are distracted by side quests,” framing the video generation tool as a diversion from OpenAI’s core mission. Why OpenAI Is Killing Sora: The Strategic Calculus Behind the Shutdown The OpenAI Sora shutdown is not a story of technological failure. The model itself represented a genuine breakthrough in text-to-video synthesis when it was first demonstrated in February 2024. The problem was always the business model. Running video generation at scale requires enormous GPU compute – estima",
+        "long_summary_en": "Marcus Chen Stockholm, Sweden March 30, 2026 16 min read OpenAI has officially confirmed that it will shut down its Sora AI video generation app on April 26, 2026, and discontinue the Sora API on September 24, 2026. The decision, announced on March 27, 2026, marks one of the most significant product retreats in artificial intelligence history – and sends a clear signal about where the AI industry’s priorities are heading as it matures from experimental consumer products toward enterprise-grade revenue generation. The OpenAI Sora shutdown comes just six months after the app’s public launch, whi",
+        "image": "https://tech-insider.org/wp-content/uploads/2026/03/openai-sora-shutdown-disney-deal-ai-video-2026-1.jpg",
+        "source": "Tech-Insider",
+        "url": "https://tech-insider.org/openai-sora-shutdown-disney-deal-ai-video-2026/",
+        "date": "05 June 2026"
+      },
+      {
         "title": "10 Best Sora AI Alternatives in 2026",
         "title_en": "10 Best Sora AI Alternatives in 2026",
         "summary": "our prioOpenAI’s Sora made waves, but after the March 2026 shutdown, you probably need a new go-to for AI video. The good news: the Sora AI alternatives scene this year is stacked. You have more contr",
@@ -521,33 +545,81 @@
         "source": "Adobe",
         "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
         "date": "30 May 2026"
-      },
-      {
-        "title": "Google AI Plans with Cloud Storage - Google One",
-        "title_en": "Google AI Plans with Cloud Storage - Google One",
-        "summary": "One Sign up",
-        "summary_en": "<strong>Expanded access to image, music, and video generation models in Gemini, Search,2 and Google Flow,3 plus added benefits in Google Photos (US only), like more Remix generations (US only).</stron",
-        "long_summary": "One Sign up",
-        "long_summary_en": "One Sign up",
-        "image": "https://lh3.googleusercontent.com/qX38lptBs3zaLX8glwYOJHEGvZ5tDeuvkG5bRB75YBQ7BCUnjVnlFCiVcWKoM34PS0RFxtuKDI5iYxnnjVDi4x_JTpXxpielrN4G=e365-pa-nu-w1200-rj",
-        "source": "One",
-        "url": "https://one.google.com/intl/en/about/google-ai-plans/",
-        "date": "30 May 2026"
-      },
-      {
-        "title": "Pika",
-        "title_en": "Pika",
-        "summary": "Pika Welcome To The Pika Universe C r e a t e A I v i d e o s , a u t o m a t e w o r k f l o w s , u s e a g e n t s , a n d m o r e 5s Sign up to adjust settings Pika 2.5 Sign up to adjust settings ",
-        "summary_en": "Create AI videos, automate workflows, use agents, and more",
-        "long_summary": "Pika Welcome To The Pika Universe C r e a t e A I v i d e o s , a u t o m a t e w o r k f l o w s , u s e a g e n t s , a n d m o r e 5s Sign up to adjust settings Pika 2.5 Sign up to adjust settings Generate Explore more Pika Products Pika Agent Create your AI Agent Take your videos to the next level with Pika models and editing tools like Pikascenes, Pikaswaps, and more. Try on Web App Store Pika MCP Make your agent creative Hop on any video trend, or create your own, with just a selfie and sound. Install Pika MCP Pika Video App Pika Video Official App Squish it. Melt it. Cake-ify it. Turn any photo into a reality-bending video with just one tap. Get the Pikaffects App",
-        "long_summary_en": "Pika Welcome To The Pika Universe C r e a t e A I v i d e o s , a u t o m a t e w o r k f l o w s , u s e a g e n t s , a n d m o r e 5s Sign up to adjust settings Pika 2.5 Sign up to adjust settings Generate Explore more Pika Products Pika Agent Create your AI Agent Take your videos to the next level with Pika models and editing tools like Pikascenes, Pikaswaps, and more. Try on Web App Store Pika MCP Make your agent creative Hop on any video trend, or create your own, with just a selfie and sound. Install Pika MCP Pika Video App Pika Video Official App Squish it. Melt it. Cake-ify it. Turn a",
-        "image": "https://pika-p5qw79b04-pika-labs.vercel.app/images/og.jpeg",
-        "source": "Pika",
-        "url": "https://pika.art/",
-        "date": "30 May 2026"
       }
     ],
     "llm": [
+      {
+        "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
+        "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
+        "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
+        "summary_en": "The leading LLMs in 2026 are Claude Mythos Preview, Claude Opus 4.6, and the frontier models from OpenAI (GPT-5 family), Anthropic (Claude Opus and Sonnet), Google (Gemini 3 Pro), xAI (Grok 4), DeepSe",
+        "long_summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 10 $1.25 /M tok Mercury 2 fastest output 976 tok/s Grok 4 Fast longest context window 2.0M tokens tokens Kimi K2.6 best open-weights 90.5% gpqa LLM LLM Image Generation Image Video Generation Video Text-to-Speech TTS Speech-to-Text STT Embeddings Embeddings Full leaderboard Full 302 Open All 90d 30d Rank Model LLM Stats Reasoning Coding Agent Code Arena Context Speed Pricing $/M License 1 Claude Mythos Preview UNRELEASED Anthropic 68.8 72.5 57.8 47.9 — — — — Proprietary 2 Claude Opus 4.8 NEW Anthropic 67.9 65.7 52.3 43.9 1,645 1.0M 72 c/s $ 7.22 Proprietary 3 GPT-5.5 OpenAI 62.9 62.2 51.0 42.8 2,102 1.1M 146 c/s $ 7.78 Proprietary 4 GPT-5.2 Pro OpenAI 60.8 56.6 — 29.2 — — — — Proprietary 5 Claude Opus 4.7 Anthropic 60.5 62.4 48.8 40.4 1,922 1.0M 128 c/s $ 7.22 Proprietary 6 GPT-5.4 OpenAI 59.9 57.6 43.0 36.9 1,733 1.0M 132 c/s $ 3.89 Proprietary 7 Gemini 3.5 Flash Google 59.4 59.3 46.4 40",
+        "long_summary_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 1",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "New Gemini reasoning flagship released by...? Predictions... 2026 | Polymarket",
+        "title_en": "New Gemini reasoning flagship released by...? Predictions... 2026 | Polymarket",
+        "summary": "Google has iterated rapidly on its Gemini large language models through 2025 and 2026, with the Gemini 3 series launching in November 2025 followed by Gemini 3.1 Pro in February and the Gemini 3.5 Fla",
+        "summary_en": "The <strong>March 2025 launch of Gemini</strong> ... of Gemini 3 with its Deep Think mode for longer-horizon planning and agentic tasks. These updates reflect Google DeepMind’s focus on test-time comp",
+        "long_summary": "Google has iterated rapidly on its Gemini large language models through 2025 and 2026, with the Gemini 3 series launching in November 2025 followed by Gemini 3.1 Pro in February and the Gemini 3.5 Flash model in May 2026. The latest version emphasizes frontier-level reasoning, agentic capabilities, and coding performance on benchmarks such as GPQA and long-horizon tasks, positioning it competitively against models from OpenAI and Anthropic while integrating deeply with Google’s ecosystem. Traders monitor official announcements, developer API updates, and competitive benchmark releases for signs of a new flagship, with potential catalysts including further 3.5 variants or a Gemini 4 preview at upcoming events. Market-implied odds reflect ongoing uncertainty around exact release timing amid typical AI development slippage. Experimental AI-generated summary referencing Polymarket data. This is not trading advice and plays no role in how this market resolves. · Updated Jun 5, 2026, 9:46 AM UTC",
+        "long_summary_en": "Google has iterated rapidly on its Gemini large language models through 2025 and 2026, with the Gemini 3 series launching in November 2025 followed by Gemini 3.1 Pro in February and the Gemini 3.5 Flash model in May 2026. The latest version emphasizes frontier-level reasoning, agentic capabilities, and coding performance on benchmarks such as GPQA and long-horizon tasks, positioning it competitively against models from OpenAI and Anthropic while integrating deeply with Google’s ecosystem. Traders monitor official announcements, developer API updates, and competitive benchmark releases for sign",
+        "image": "https://polymarket.com/api/og?eslug=new-gemini-reasoning-flagship-released-by&tid=1780655456659",
+        "source": "Polymarket",
+        "url": "https://polymarket.com/event/new-gemini-reasoning-flagship-released-by",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "Newsroom \\ Anthropic",
+        "title_en": "Newsroom \\ Anthropic",
+        "summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of mode",
+        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "long_summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world's most critical software. Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here's what we found. Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. News Search Date Category Title Jun 3, 2026 Announcements Int",
+        "long_summary_en": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 4.8 Product May 28, 2026 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcemen",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents",
+        "title_en": "NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents",
+        "summary": "NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1M-token context with up to ~6x higher inference th",
+        "summary_en": "NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1M-token context with up to ~6x higher inference th",
+        "long_summary": "NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1M-token context with up to ~6x higher inference throughput than comparable open LLMs at on-par accuracy, and ships with open weights, training data, and recipes under OpenMDW-1.1.\nThe post NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents appeared first on MarkTechPost.",
+        "long_summary_en": "NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1M-token context with up to ~6x higher inference throughput than comparable open LLMs at on-par accuracy, and ships with open weights, training data, and recipes under OpenMDW-1.1.\nThe post NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog13-6-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/04/nvidia-ai-releases-nemotron-3-ultra-an-open-550b-mixture-of-experts-hybrid-mamba-transformer-for-long-running-agents/",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "title_en": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+        "summary_en": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+        "long_summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+        "long_summary_en": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+        "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "title_en": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+        "summary_en": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+        "long_summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+        "long_summary_en": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "date": "05 June 2026"
+      },
       {
         "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
         "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
@@ -655,81 +727,21 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
         "date": "02 June 2026"
-      },
-      {
-        "title": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
-        "title_en": "AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork",
-        "summary": "Technology AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork June 1, 2026 2:27 PM ET Heard on Morning Edition John Ruwitch Anthropic prepares to sell stock to th",
-        "summary_en": "Anthropic said the number of shares and price have not yet been set. The filing sets the stage for what is shaping up to be a trio of potential mega-listings by tech companies: Elon Musk&#x27;s SpaceX",
-        "long_summary": "Technology AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork June 1, 2026 2:27 PM ET Heard on Morning Edition John Ruwitch Anthropic prepares to sell stock to the public; files preliminary IPO paperwork Listen · 3:54 3:54 Toggle more options Download Embed Embed < iframe src=\"https://www.npr.org/player/embed/nx-s1-5843199/nx-s1-9793651\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\"> Anthropic is an American artificial intelligence (AI) company founded in 2021. RICCARDO MILANI/Hans Lucas/AFP via Getty Images/AFP hide caption toggle caption RICCARDO MILANI/Hans Lucas/AFP via Getty Images/AFP Stay up to date on daily news with NPR's Up First newsletter sent every weekday morning. Anthropic, maker of Claude, one of the most popular artificial intelligence models on the market, has started the ball rolling on an initial public offering. The company announced on Monday that it has \"confidentially submitted\" a draft registration statement known as a Form S-1 with the Securities and Exchange Commission for its proposed IPO. \"This gives us the option to go public after the SEC completes its review,\" it said in an announcement. \"The proposed initial public offering will depend on market conditions and other factors.\" Anthropic said the number of shares and price have not yet been set. Business Ask AI or just Google it? Google makes a big change to a little search box The filing sets the stage for what i",
-        "long_summary_en": "Technology AI giant Anthropic prepares to sell stock to the public; files preliminary IPO paperwork June 1, 2026 2:27 PM ET Heard on Morning Edition John Ruwitch Anthropic prepares to sell stock to the public; files preliminary IPO paperwork Listen · 3:54 3:54 Toggle more options Download Embed Embed < iframe src=\"https://www.npr.org/player/embed/nx-s1-5843199/nx-s1-9793651\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\"> Anthropic is an American artificial intelligence (AI) company founded in 2021. RICCARDO MILANI/Hans Lucas/AFP via Getty Images/AFP",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3967x2231+0+207/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F35%2Fa9ed46de4d5ab74fc927988ee2ea%2Fgettyimages-2227254922.jpg",
-        "source": "Npr",
-        "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Googl",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 5d ago May 19, 2026 · 2 release s Gemini 3.5 Flash Lightweight Proprietary Google • 2w ago Qwen3.7 Max Pro Proprietary Alibaba Cloud / Qwen Team • 2w ago May 6, 2026 · 1 release Grok 4.3 Release Proprietary xAI • 3w ago May 5, 2026 · 1 release GPT-5.5 Instant Lightweight Proprietary OpenAI • 0mo ago Apr 29, 2026 · 1 release Mistral Medium 3.5 Release Open Source Mistral AI • 1mo ago Apr 23, 2026 · 2 release s DeepSeek-V4-Flash-Max Pro Open Source DeepSeek • 1mo ago DeepSeek-V4-Pro-Max Pro Open Source DeepSeek • 1mo ago 1 – 8 of 302 1 2 3 4 5 6 7 Last 30 days Models that got worse Worse 1 Better 1 Sigma-normalized vs. each model's baseline Gemini 3.1 Pro Google · 3mo old −0.13σ now +1.46σ 105 votes · 1 arena How is this measured? ⌄ For each model we reconstruct daily TrueSkill conservative ratings per ",
-        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Resea",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O. - The New York Times",
-        "title_en": "Anthropic Files to Go Public, Setting Stage for Huge I.P.O. - The New York Times",
-        "summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "summary_en": "The artificial intelligence company, which is racing OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code. .",
-        "long_summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
-        "image": "https://static01.nyt.com/images/2026/05/21/multimedia/21met-AI-economy-02-kfht/21met-AI-economy-02-kfht-square640.jpg?auto=webp",
-        "source": "Nytimes",
-        "url": "https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "LLM News Today (June 2026) – AI Model Releases",
-        "title_en": "LLM News Today (June 2026) – AI Model Releases",
-        "summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-s",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
-        "long_summary_en": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Artificial intelligence | AP News",
-        "title_en": "Artificial intelligence | AP News",
-        "summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Venezuela’s ruling party unity cracks as Delcy Rodríguez shifts Chávez-era policies Hundreds of ",
-        "summary_en": "Updated [hour]:[minute] [AMPM] [timezone], [monthFull] [day], [year] ... <strong>A federal court on Monday dismissed claims filed against OpenAI and its top executives by Elon Musk</strong>, who accus",
-        "long_summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Venezuela’s ruling party unity cracks as Delcy Rodríguez shifts Chávez-era policies Hundreds of youths protest outside Kenya's Ebola quarantine center for US citizens More Mandelson files released in UK bring bad news for Starmer, but many questions remain unanswered Newsletters The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. The Afternoon Wire Get caught up on what you may have missed throughout the day. See All Newsletters",
-        "long_summary_en": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Venezuela’s ruling party unity cracks as Delcy Rodríguez shifts Chávez-era policies Hundreds of youths protest outside Kenya's Ebola quarantine center for US citizens More Mandelson files released in UK bring bad news for Starmer, but many questions remain unanswered Newsletters The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. The Afternoon Wire Get caught up on what you may have missed throughout the day. See All Newsletters",
-        "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "source": "Apnews",
-        "url": "https://apnews.com/hub/artificial-intelligence",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
-        "title_en": "Microsoft and Google take on Anthropic and OpenAI in AI coding models",
-        "summary": "Key Points Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch Anthropic and OpenAI in the red-hot market. Microsoft is gearing up for coding-related ann",
-        "summary_en": "<strong>With Opus 4.8, Anthropic announced a new 1 million token default context</strong>, raising the amount of working memory it offers for complex coding tasks in a single conversation. Google, mea",
-        "long_summary": "Key Points Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch Anthropic and OpenAI in the red-hot market. Microsoft is gearing up for coding-related announcements at its Build conference this week, following Google's emphasis on new products and offerings at its developer conference in May. \"It’s absolutely critical for these companies to compete in this market,” said Gil Luria, an analyst covering tech stocks at D.A. Davidson. In this article GOOG MSFT Follow your favorite stocks CREATE FREE ACCOUNT Microsoft CEO Satya Nadella speaks on stage during the Microsoft AI Tour in Munich, Germany, on Feb. 25, 2026. Sven Hoppe | Picture Alliance | Getty Images In the booming generative AI market, Anthropic has zoomed ahead of the field, largely thanks to Claude Code, its AI coding assistant. Seeing where the money is, OpenAI shifted much of its focus from the consumer market to enterprise, where its Codex offering is going up against Claude Code. Now, Google and Microsoft are making a concerted effort to get into the game, using their massive balance sheets and expansive cloud businesses to try and lure developers. At its developer conference last month, Google placed heavy emphasis on agentic AI, including the unveiling of Antigravity 2.0, which the company said can \"orchestrate multiple agents to execute tasks in parallel, such as having one agent code a website while another generates brand assets.\" And at the beginning of a blog po",
-        "long_summary_en": "Key Points Coding tools are becoming an increasingly big target for Google and Microsoft as they try to catch Anthropic and OpenAI in the red-hot market. Microsoft is gearing up for coding-related announcements at its Build conference this week, following Google's emphasis on new products and offerings at its developer conference in May. \"It’s absolutely critical for these companies to compete in this market,” said Gil Luria, an analyst covering tech stocks at D.A. Davidson. In this article GOOG MSFT Follow your favorite stocks CREATE FREE ACCOUNT Microsoft CEO Satya Nadella speaks on stage du",
-        "image": "https://image.cnbcfm.com/api/v1/image/108314167-1780095631300-gettyimages-2262969404-20090101260225-99-646956.jpeg?v=1780095752&w=1920&h=1080",
-        "source": "Cnbc",
-        "url": "https://www.cnbc.com/2026/06/01/microsoft-and-google-take-on-anthropic-and-openai-in-ai-coding-models.html",
-        "date": "02 June 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
+        "title_en": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
+        "summary": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and",
+        "summary_en": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and",
+        "long_summary": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and audio context to respond to speaker tone. The architecture pairs a 7.7B backbone with a 300M depth decoder.\nThe post Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights appeared first on MarkTechPost.",
+        "long_summary_en": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and audio context to respond to speaker tone. The architecture pairs a 7.7B backbone with a 300M depth decoder.\nThe post Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/gemma4-12b-banner-infographic-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
+        "date": "05 June 2026"
+      },
       {
         "title": "Suno raises at a $5.4bn valuation, more than doubling its worth in six months",
         "title_en": "Suno raises at a $5.4bn valuation, more than doubling its worth in six months",
@@ -897,18 +909,6 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
         "date": "25 March 2026"
-      },
-      {
-        "title": "Halter raises $220M at $2 billion valuation as virtual fencing for cattle goes global",
-        "title_en": "Halter raises $220M at $2 billion valuation as virtual fencing for cattle goes global",
-        "summary": "A cow wearing a GPS collar doesn’t sound like a $2 billion idea. But for the ranchers who have strung virtual fences across 60,000 miles of American pastureland in under two years, it apparently is. H",
-        "summary_en": "A cow wearing a GPS collar doesn’t sound like a $2 billion idea. But for the ranchers who have strung virtual fences across 60,000 miles of American pastureland in under two years, it apparently is. H",
-        "long_summary": "A cow wearing a GPS collar doesn’t sound like a $2 billion idea. But for the ranchers who have strung virtual fences across 60,000 miles of American pastureland in under two years, it apparently is. Halter, the New Zealand-born agtech company, announced on Monday that it has raised $220 million in Series E funding at […]\nThis story continues at The Next Web",
-        "long_summary_en": "A cow wearing a GPS collar doesn’t sound like a $2 billion idea. But for the ranchers who have strung virtual fences across 60,000 miles of American pastureland in under two years, it apparently is. Halter, the New Zealand-born agtech company, announced on Monday that it has raised $220 million in Series E funding at […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FCraig-Piggott-CEO-and-Founder-Halter.png&signature=4d61de37406a36c76c7e7a6c223607d8",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/halter-series-e-virtual-fencing-cattle",
-        "date": "25 March 2026"
       }
     ]
   },
@@ -928,10 +928,10 @@
       "date": "03 June 2026"
     },
     {
-      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
+      "title": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
+      "title_en": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
+      "source": "Finance",
+      "url": "https://finance.yahoo.com/news/anthropic-debuts-flagship-claude-opus-48-ai-model-as-ipo-race-with-openai-heats-up-170000527.html",
       "date": "02 June 2026"
     }
   ]
