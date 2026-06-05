@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05 June 2026 - 13:32",
+  "lastUpdate": "05 June 2026 - 14:03",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Free AI Video Generator: Create Stunning Videos with AI",
+        "title_en": "Free AI Video Generator: Create Stunning Videos with AI",
+        "summary": "انگریزی جرمن چینی ہسپانوی",
+        "summary_en": "From product reviews and news updates to story-style videos where your avatar responds to trending clips, HeyGen helps you create and scale &quot;faceless&quot; channels and personal brands on TikTok,",
+        "long_summary": "انگریزی جرمن چینی ہسپانوی",
+        "long_summary_en": "انگریزی جرمن چینی ہسپانوی",
+        "image": "https://cdn.sanity.io/images/pdhqcmb1/production/579e83ff34c4c832744efaedb9681d255e58dc13-1200x630.png?fit=max&fm=png",
+        "source": "Heygen",
+        "url": "https://www.heygen.com/",
+        "date": "05 June 2026"
+      },
+      {
         "title": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
         "title_en": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
         "summary": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
@@ -533,21 +545,21 @@
         "source": "Kling",
         "url": "https://kling.ai/",
         "date": "31 May 2026"
-      },
-      {
-        "title": "Free AI Video Generator: Text to Video online - Adobe Firefly",
-        "title_en": "Free AI Video Generator: Text to Video online - Adobe Firefly",
-        "summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video",
-        "summary_en": "<strong>From the dropdown menu, choose the Firefly video model or a partner model such as Google Veo, Sora, or Pika</strong>. Your prompt should include style, angle, shot distance, effects, color gra",
-        "long_summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video generator. With the Firefly AI video generator, you can turn text prompts into stunning AI-generated videos in just one click. It’s great for pitching ideas and creating B-roll and visual effects. video image Edit prompt or enter your own text Zooming through the back of a futuristic aircraft with the hatch open to reveal a sunrise. Abstract, cool colors, VJ style. https://main--cc--adobecom.aem.live/creativecloud/animation/testdoc/unity/generate.svg Generate Adobe models true true First frame (optional) Prompt exceeds the max length of 1024 characters Your media must be smaller than 50MB. Please upload a new file. Unable to process the request Your media must be a jpg or png file type. Please upload a new file. Only one file can be uploaded at a time. By uploading your image or video, you agree to the Adobe Terms of Use and Privacy Policy and confirm you are 18 years of age or older. cgen promoid=S36FMJYY&mv=other&ff_source=adobe-com&ff_campaign=ai-video-generator style Dark, static links #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/firefly-80.svg {{nbsp}} Generate Video | Generate Video - Adobe Firefly https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/firefly-80.svg Adobe Firefly The next evolution of creative AI is h",
-        "long_summary_en": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video generator. With the Firefly AI video generator, you can turn text prompts into stunning AI-generated videos in just one click. It’s great for pitching ideas and creating B-roll and visual effects. video image Edit prompt or enter your own text Zooming through the back of a futuristic aircraft with the hatch open to reveal a sunrise. Abstract, cool colors, VJ style. https://main--cc--adobecom.aem.",
-        "image": "https://www.adobe.com/products/firefly/features/media_1d7d67ab68b854da4c6460a399e7e8f7175fe6949.jpg?width=1200&format=pjpg&optimize=medium",
-        "source": "Adobe",
-        "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
-        "date": "30 May 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+        "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+        "summary": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/05/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free t",
+        "summary_en": "The four major AI chatbots have each shipped significant updates in early 2026: <strong>OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7</strong>, xAI rolled out Grok 4.3 Beta, and Google c",
+        "long_summary": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/05/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free to $200/month. Claude Opus 4.7 scores 87.6% on SWE-bench Verified, making it the strongest coding model currently available. Grok 4.3 adds document generation and video input but locks its best features behind the $300/month SuperGrok Heavy tier. Gemini 2.5 Pro offers the largest context window at 1 million tokens and ships natively inside Google Workspace. The four major AI chatbots have each shipped significant updates in early 2026: OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7, xAI rolled out Grok 4.3 Beta, and Google continued refining Gemini 2.5 Pro with improved coding and text-to-speech capabilities. Below is a practical comparison of what each model actually delivers in terms of pricing, performance, and best use cases. Model Latest version Context window SWE-bench Verified Best for Starting price ChatGPT GPT-5.5 (Apr 2026) 1M tokens 74.9% (GPT-5) Writing, multimodal, agentic tasks Free (ads) / $20/mo Plus Claude Opus 4.7 (Apr 2026) 1M tokens 87.6% Coding, long-horizon agent work $20/mo Pro Grok 4.3 Beta (Apr 2026) 128K / 256K (Heavy) N/A Research, social media, X integration $30/mo SuperGrok Gemini 2.5 Pro (2026) 1M tokens N/A Google Workspace, Android, multimodal Free / $20/mo Advanced Grok 4 (Latest: 4.3 Beta): Overview Grok, the AI system from xAI, has p",
+        "long_summary_en": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/05/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free to $200/month. Claude Opus 4.7 scores 87.6% on SWE-bench Verified, making it the strongest coding model currently available. Grok 4.3 adds document generation and video input but locks its best features behind the $300/month SuperGrok Heavy tier. Gemini 2.5 Pro offers the largest context window at 1 million tokens and ships natively inside Google Workspace. The four major AI chatbots have each ship",
+        "image": "https://strapi.aws-us-east-2.albato.com/uploads/Grok_Chat_GPT_Gemini_Claude_A_Complete_Overview_c35f0d08bf.png",
+        "source": "Albato",
+        "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
+        "date": "05 June 2026"
+      },
       {
         "title": "Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint",
         "title_en": "Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint",
@@ -714,18 +726,6 @@
         "image": "https://media.thenextweb.com/2025/07/01938c14-fbd1-7090-b136-1328926ab8fd.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/lovable-google-cloud-expanded-collaboration",
-        "date": "03 June 2026"
-      },
-      {
-        "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-        "title_en": "Microsoft and OpenAI broke up — now they’re ready to fight",
-        "summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-",
-        "summary_en": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-",
-        "long_summary": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's […]",
-        "long_summary_en": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-esque AI agents. All this news added up to a clear message: Microsoft is positioned to be one of the biggest players in AI, and it's […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
         "date": "03 June 2026"
       }
     ],
@@ -921,17 +921,17 @@
       "date": "03 June 2026"
     },
     {
+      "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+      "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+      "source": "Albato",
+      "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
+      "date": "05 June 2026"
+    },
+    {
       "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
       "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
       "source": "Llm-Stats",
       "url": "https://llm-stats.com/llm-updates",
-      "date": "05 June 2026"
-    },
-    {
-      "title": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
-      "title_en": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
-      "source": "Costgoat",
-      "url": "https://costgoat.com/compare/llm-api",
       "date": "05 June 2026"
     }
   ]
