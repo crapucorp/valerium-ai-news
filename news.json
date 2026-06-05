@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "05 June 2026 - 18:38",
+  "lastUpdate": "05 June 2026 - 19:09",
   "categories": {
     "general": [
+      {
+        "title": "This is your laptop… on AI",
+        "title_en": "This is your laptop… on AI",
+        "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
+        "summary_en": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
+        "long_summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops […]",
+        "long_summary_en": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+        "date": "05 June 2026"
+      },
       {
         "title": "Artificial Intelligence - AI News",
         "title_en": "Artificial Intelligence - AI News",
@@ -168,18 +180,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-        "date": "03 June 2026"
-      },
-      {
-        "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-        "title_en": "Meta’s AI agent for WhatsApp Business is now available globally",
-        "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
-        "summary_en": "WhatsApp will charge businesses for using its AI agent based on token usage",
-        "long_summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
-        "long_summary_en": "WhatsApp will charge businesses for using its AI agent based on token usage",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
         "date": "03 June 2026"
       }
     ],
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Home \\ Anthropic",
+        "title_en": "Home \\ Anthropic",
+        "summary": "Project Glasswing Securing critical software for the AI era Continue reading",
+        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "long_summary": "Project Glasswing Securing critical software for the AI era Continue reading",
+        "long_summary_en": "Project Glasswing Securing critical software for the AI era Continue reading",
+        "image": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "title_en": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+        "summary_en": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa",
+        "long_summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+        "long_summary_en": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "date": "05 June 2026"
+      },
+      {
         "title": "Token prices fell 98%. Enterprise AI bills tripled. Now the industry wants a standards body to explain why.",
         "title_en": "Token prices fell 98%. Enterprise AI bills tripled. Now the industry wants a standards body to explain why.",
         "summary": "Uber blew through its entire 2026 AI coding budget by April. Microsoft revoked its developers’ Claude Code licences six months after enabling them. One company reportedly ran up a $500 million Claude ",
@@ -702,30 +726,6 @@
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "source": "Anthropic",
         "url": "https://www.anthropic.com/news",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents",
-        "title_en": "NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents",
-        "summary": "NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1M-token context with up to ~6x higher inference th",
-        "summary_en": "NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1M-token context with up to ~6x higher inference th",
-        "long_summary": "NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1M-token context with up to ~6x higher inference throughput than comparable open LLMs at on-par accuracy, and ships with open weights, training data, and recipes under OpenMDW-1.1.\nThe post NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents appeared first on MarkTechPost.",
-        "long_summary_en": "NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1M-token context with up to ~6x higher inference throughput than comparable open LLMs at on-par accuracy, and ships with open weights, training data, and recipes under OpenMDW-1.1.\nThe post NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog13-6-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/04/nvidia-ai-releases-nemotron-3-ultra-an-open-550b-mixture-of-experts-hybrid-mamba-transformer-for-long-running-agents/",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-        "title_en": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-        "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-        "summary_en": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-        "long_summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-        "long_summary_en": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
-        "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
         "date": "05 June 2026"
       }
     ],
