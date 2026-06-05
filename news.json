@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05 June 2026 - 14:03",
+  "lastUpdate": "05 June 2026 - 14:33",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Free AI Video Generator: Text to Video online - Adobe Firefly",
+        "title_en": "Free AI Video Generator: Text to Video online - Adobe Firefly",
+        "summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video",
+        "summary_en": "<strong>From the dropdown menu, choose the Firefly video model or a partner model such as Google Veo, Sora, or Pika</strong>. Your prompt should include style, angle, shot distance, effects, color gra",
+        "long_summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video generator. With the Firefly AI video generator, you can turn text prompts into stunning AI-generated videos in just one click. It’s great for pitching ideas and creating B-roll and visual effects. video image Edit prompt or enter your own text Zooming through the back of a futuristic aircraft with the hatch open to reveal a sunrise. Abstract, cool colors, VJ style. https://main--cc--adobecom.aem.live/creativecloud/animation/testdoc/unity/generate.svg Generate Adobe models true true First frame (optional) Prompt exceeds the max length of 1024 characters Your media must be smaller than 50MB. Please upload a new file. Unable to process the request Your media must be a jpg or png file type. Please upload a new file. Only one file can be uploaded at a time. By uploading your image or video, you agree to the Adobe Terms of Use and Privacy Policy and confirm you are 18 years of age or older. cgen promoid=S36FMJYY&mv=other&ff_source=adobe-com&ff_campaign=ai-video-generator style Dark, static links #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/firefly-80.svg {{nbsp}} Generate Video | Generate Video - Adobe Firefly https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/firefly-80.svg Adobe Firefly The next evolution of creative AI is h",
+        "long_summary_en": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video generator. With the Firefly AI video generator, you can turn text prompts into stunning AI-generated videos in just one click. It’s great for pitching ideas and creating B-roll and visual effects. video image Edit prompt or enter your own text Zooming through the back of a futuristic aircraft with the hatch open to reveal a sunrise. Abstract, cool colors, VJ style. https://main--cc--adobecom.aem.",
+        "image": "https://www.adobe.com/products/firefly/features/media_1d7d67ab68b854da4c6460a399e7e8f7175fe6949.jpg?width=1200&format=pjpg&optimize=medium",
+        "source": "Adobe",
+        "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
+        "date": "05 June 2026"
+      },
+      {
         "title": "Free AI Video Generator: Create Stunning Videos with AI",
         "title_en": "Free AI Video Generator: Create Stunning Videos with AI",
         "summary": "انگریزی جرمن چینی ہسپانوی",
@@ -533,18 +545,6 @@
         "source": "Academy",
         "url": "https://academy.runwayml.com/tutorial/gen-45-image-to-video",
         "date": "01 June 2026"
-      },
-      {
-        "title": "Kling AI: Next-Generation AI Creative Studio",
-        "title_en": "Kling AI: Next-Generation AI Creative Studio",
-        "summary": "Kling 3.0 Model Series Built on a fully upgraded architecture, VIDEO 3.0 and VIDEO 3.0 Omni natively support deep multimodal instruction parsing and cross-task integration, redefining the narrative lo",
-        "summary_en": "<strong>Kling AI</strong>, tools for creating imaginative images and videos, based on state-of-art generative AI methods.",
-        "long_summary": "Kling 3.0 Model Series Built on a fully upgraded architecture, VIDEO 3.0 and VIDEO 3.0 Omni natively support deep multimodal instruction parsing and cross-task integration, redefining the narrative logic of light and sound. From precise long-form storyboard control to Native Audio–powered feature decoupling, the system enables dual binding of visual identity and vocal tone. Across complex multi-scene transitions, VIDEO 3.0 delivers high creative freedom with exceptional consistency",
-        "long_summary_en": "Kling 3.0 Model Series Built on a fully upgraded architecture, VIDEO 3.0 and VIDEO 3.0 Omni natively support deep multimodal instruction parsing and cross-task integration, redefining the narrative logic of light and sound. From precise long-form storyboard control to Native Audio–powered feature decoupling, the system enables dual binding of visual identity and vocal tone. Across complex multi-scene transitions, VIDEO 3.0 delivers high creative freedom with exceptional consistency",
-        "image": "https://tse1.mm.bing.net/th?q=kling+ai:+next-generation+ai+creative+studio&pid=Api&mkt=en-US&adlt=moderate",
-        "source": "Kling",
-        "url": "https://kling.ai/",
-        "date": "31 May 2026"
       }
     ],
     "llm": [
