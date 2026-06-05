@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "05 June 2026 - 13:02",
+  "lastUpdate": "05 June 2026 - 13:32",
   "categories": {
     "general": [
+      {
+        "title": "Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing",
+        "title_en": "Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing",
+        "summary": "Perplexity AI announces a hybrid local-server inference orchestrator for Personal Computer, automatically routing AI tasks between on-device and cloud models.\nThe post Perplexity AI Introduces Hybrid ",
+        "summary_en": "Perplexity AI announces a hybrid local-server inference orchestrator for Personal Computer, automatically routing AI tasks between on-device and cloud models.\nThe post Perplexity AI Introduces Hybrid ",
+        "long_summary": "Perplexity AI announces a hybrid local-server inference orchestrator for Personal Computer, automatically routing AI tasks between on-device and cloud models.\nThe post Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing appeared first on MarkTechPost.",
+        "long_summary_en": "Perplexity AI announces a hybrid local-server inference orchestrator for Personal Computer, automatically routing AI tasks between on-device and cloud models.\nThe post Perplexity AI Introduces Hybrid Local-Server Inference Orchestrator for Personal Computer: Automatic On-Device and Cloud Task Routing appeared first on MarkTechPost.",
+        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/05/perplexity-ai-introduces-hybrid-local-server-inference-orchestrator-for-personal-computer-automatic-on-device-and-cloud-task-routing/",
+        "date": "05 June 2026"
+      },
       {
         "title": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
         "title_en": "Meet OpenJarvis: A Local-First Framework for On-Device Personal AI Agents with Tools, Memory, and Learning",
@@ -168,18 +180,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Jensen Huang says pay workers ‘as much as possible’ days after Nvidia commits 50% of free cash to shareholders",
-        "title_en": "Jensen Huang says pay workers ‘as much as possible’ days after Nvidia commits 50% of free cash to shareholders",
-        "summary": "Jensen Huang’s comments at Computex defend the Samsung bonus structure that delivers $400,000 to chip engineers, but land alongside an $80bn Nvidia buyback announced two weeks ago. Jensen Huang, the N",
-        "summary_en": "Jensen Huang’s comments at Computex defend the Samsung bonus structure that delivers $400,000 to chip engineers, but land alongside an $80bn Nvidia buyback announced two weeks ago. Jensen Huang, the N",
-        "long_summary": "Jensen Huang’s comments at Computex defend the Samsung bonus structure that delivers $400,000 to chip engineers, but land alongside an $80bn Nvidia buyback announced two weeks ago. Jensen Huang, the Nvidia chief executive, told reporters on the sidelines of Computex in Taipei on Tuesday that workers should be paid “as much as possible,” framing the […]\nThis story continues at The Next Web",
-        "long_summary_en": "Jensen Huang’s comments at Computex defend the Samsung bonus structure that delivers $400,000 to chip engineers, but land alongside an $80bn Nvidia buyback announced two weeks ago. Jensen Huang, the Nvidia chief executive, told reporters on the sidelines of Computex in Taipei on Tuesday that workers should be paid “as much as possible,” framing the […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/Jensen-Huang-Taipei.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/huang-workers-paid-as-much-as-possible-samsung",
         "date": "02 June 2026"
       }
     ],
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint",
+        "title_en": "Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint",
+        "summary": "A hands-on guide to running Microsoft Fara in Colab, testing the browser agent loop with a mock endpoint.\nThe post Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-C",
+        "summary_en": "A hands-on guide to running Microsoft Fara in Colab, testing the browser agent loop with a mock endpoint.\nThe post Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-C",
+        "long_summary": "A hands-on guide to running Microsoft Fara in Colab, testing the browser agent loop with a mock endpoint.\nThe post Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint appeared first on MarkTechPost.",
+        "long_summary_en": "A hands-on guide to running Microsoft Fara in Colab, testing the browser agent loop with a mock endpoint.\nThe post Microsoft Fara Tutorial: Run a Browser-Use Agent in Google Colab with a Mock OpenAI-Compatible Endpoint appeared first on MarkTechPost.",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22222249/fara1-5-a-family-of-frontier-computer-use-agent-models-micro-1-800x420.jpeg",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/05/microsoft-fara-tutorial-run-a-browser-use-agent-in-google-colab-with-a-mock-openai-compatible-endpoint/",
+        "date": "05 June 2026"
+      },
+      {
+        "title": "NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes",
+        "title_en": "NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes",
+        "summary": "NVIDIA Dynamo Snapshot checkpoints and restores vLLM inference workers on Kubernetes using CRIU and cuda-checkpoint tools.\nThe post NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System",
+        "summary_en": "NVIDIA Dynamo Snapshot checkpoints and restores vLLM inference workers on Kubernetes using CRIU and cuda-checkpoint tools.\nThe post NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System",
+        "long_summary": "NVIDIA Dynamo Snapshot checkpoints and restores vLLM inference workers on Kubernetes using CRIU and cuda-checkpoint tools.\nThe post NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes appeared first on MarkTechPost.",
+        "long_summary_en": "NVIDIA Dynamo Snapshot checkpoints and restores vLLM inference workers on Kubernetes using CRIU and cuda-checkpoint tools.\nThe post NVIDIA AI Releases Dynamo Snapshot: A CRIU-Based Fast Startup System for AI Inference on Kubernetes appeared first on MarkTechPost.",
+        "image": "https://image.blockchain.news/features/D8E08E86F8EDBDDCD68414CF49BDD8B1401B11A69515DFF98E6B2B03EE9CF9D7.jpg",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/",
+        "date": "05 June 2026"
+      },
+      {
         "title": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
         "title_en": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
         "summary": "LLM API Pricing Comparison & Cost Guide (Jun 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: JUNE 5, 2026 LLM API Pricing Compari",
@@ -703,30 +727,6 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
         "date": "03 June 2026"
-      },
-      {
-        "title": "Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro",
-        "title_en": "Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro",
-        "summary": "Analysis Stocks Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro TradingKey Author Andy Chen May 28, 2026 5:53 PM AI Podcast 03:19  Copy link  Save article ",
-        "summary_en": "<strong>Anthropic released Claude Opus 4.8 on May 28,</strong> an upgraded AI model outperforming OpenAI&#x27;s ChatGPT-5.5 and Google&#x27;s Gemini 3.1 Pro in synthetic benchmarks. Opus 4.8 features ",
-        "long_summary": "Analysis Stocks Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro TradingKey Author Andy Chen May 28, 2026 5:53 PM AI Podcast 03:19  Copy link  Save article  View all comments  Like   View all comments （ 0 ）  AI Summary  Overview Key Points Anthropic released Claude Opus 4.8 on May 28, an upgraded AI model outperforming OpenAI's ChatGPT-5.5 and Google's Gemini 3.1 Pro in synthetic benchmarks. Opus 4.8 features enhanced reliability, reducing false information and proactively signaling uncertainty. New features include dynamic workflow capabilities for agent collaboration and user-adjustable \"engagement levels\" to control task execution speed and cost, impacting token consumption. Pricing for regular users remains consistent with Opus 4.7 ($5/million input, $25/million output tokens), while Fast mode is priced at $10/million input and $50/million output tokens. AI-generated summary Tradingkey - On May 28, Anthropic released its latest flagship AI model, Claude Opus 4.8, which is an upgraded version of its flagship product, Opus 4.7. According to official data from Anthropic, Opus 4.8 outperformed in several AI-centric synthetic benchmarks, surpassing OpenAI's ChatGPT-5.5 and Google's (GOOGL) Gemini 3.1 Pro. Opus 4.8 Core Technical Upgrade Highlights In terms of model reliability, Anthropic stated that the pre-Opus 4.8 model is more \"honest\": it has significantly reduced the probability of presenting false information as fact in t",
-        "long_summary_en": "Analysis Stocks Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro TradingKey Author Andy Chen May 28, 2026 5:53 PM AI Podcast 03:19  Copy link  Save article  View all comments  Like   View all comments （ 0 ）  AI Summary  Overview Key Points Anthropic released Claude Opus 4.8 on May 28, an upgraded AI model outperforming OpenAI's ChatGPT-5.5 and Google's Gemini 3.1 Pro in synthetic benchmarks. Opus 4.8 features enhanced reliability, reducing false information and proactively signaling uncertainty. New features include dynamic workflow capabilitie",
-        "image": "https://resource.tradingkey.com/uploads/20260528/4-327a98d8b6f14a6988d01bab8db8c496.jpeg",
-        "source": "Tradingkey",
-        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261934290-anthropic-claude-opus-google-openai-chatgpt-agent-tradingkey",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
-        "title_en": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
-        "summary": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up Daniel Howley · Technology Editor Thu, May 28, 2026 at 7:00 PM GMT+2 2 min read Anthropic ( ANTH.PVT ) on Thursday r",
-        "summary_en": "According to Anthropic, Opus 4.8 tops OpenAI’s GPT-5.5 as well as Google’s (GOOG, GOOGL) Gemini 3.1 Pro in a number of synthetic AI-focused benchmarks.",
-        "long_summary": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up Daniel Howley · Technology Editor Thu, May 28, 2026 at 7:00 PM GMT+2 2 min read Anthropic ( ANTH.PVT ) on Thursday released its latest flagship AI model, Claude Opus 4.8. The new model, an upgrade over the company’s prior leading offering Opus 4.7, comes as Anthropic and archrival OpenAI ( OPAI.PVT l) race to make their public market debuts later this year. According to Anthropic, Opus 4.8 tops OpenAI’s GPT-5.5 as well as Google’s ( GOOG , GOOGL ) Gemini 3.1 Pro in a number of synthetic AI-focused benchmarks. That includes things like agentic coding, agentic financial analysis, and agentic computer use. Agentic capabilities are particularly important as more companies begin experimenting with and deploying AI agents across their businesses. Think of AI agents as semi- and fully autonomous digital helpers that can perform tasks on your behalf. Anthropic co-founder and CEO Dario Amodei on stage at the Code with Claude developer conference on Wednesday, May 6, 2026, in San Francisco. (Don Feria/AP Content Services for Anthropic) Anthropic says Opus 4.8 is also more “honest” than its prior models, meaning it’s less likely to present false information as fact-based on little supporting information. Instead, the company claims, Opus 4.8 will let you know if it sees “uncertainties about its work” and will be less likely to provide users with “unsupported claims.” In addition to Opus 4.8, Anthropic sa",
-        "long_summary_en": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up Daniel Howley · Technology Editor Thu, May 28, 2026 at 7:00 PM GMT+2 2 min read Anthropic ( ANTH.PVT ) on Thursday released its latest flagship AI model, Claude Opus 4.8. The new model, an upgrade over the company’s prior leading offering Opus 4.7, comes as Anthropic and archrival OpenAI ( OPAI.PVT l) race to make their public market debuts later this year. According to Anthropic, Opus 4.8 tops OpenAI’s GPT-5.5 as well as Google’s ( GOOG , GOOGL ) Gemini 3.1 Pro in a number of synthetic AI-focused benchmarks. T",
-        "image": "https://s.yimg.com/ny/api/res/1.2/r2zKs6VNZAh5sgU0tlXDmg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://d29szjachogqwa.cloudfront.net/images/2026-05/836c3654-d573-4758-8156-4e061678fe5e",
-        "source": "Finance",
-        "url": "https://finance.yahoo.com/news/anthropic-debuts-flagship-claude-opus-48-ai-model-as-ipo-race-with-openai-heats-up-170000527.html",
-        "date": "02 June 2026"
       }
     ],
     "audio": [
@@ -914,13 +914,6 @@
   },
   "hotNews": [
     {
-      "title": "Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro",
-      "title_en": "Anthropic Launches Claude Opus 4.8. Surpasses OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro",
-      "source": "Tradingkey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261934290-anthropic-claude-opus-google-openai-chatgpt-agent-tradingkey",
-      "date": "02 June 2026"
-    },
-    {
       "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
       "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
       "source": "Intuitionlabs",
@@ -932,6 +925,13 @@
       "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
       "source": "Llm-Stats",
       "url": "https://llm-stats.com/llm-updates",
+      "date": "05 June 2026"
+    },
+    {
+      "title": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
+      "title_en": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
+      "source": "Costgoat",
+      "url": "https://costgoat.com/compare/llm-api",
       "date": "05 June 2026"
     }
   ]
