@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "05 June 2026 - 21:42",
+  "lastUpdate": "06 June 2026 - 18:30",
   "categories": {
     "general": [
+      {
+        "title": "Artificial Intelligence News -- ScienceDaily",
+        "title_en": "Artificial Intelligence News -- ScienceDaily",
+        "summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or ",
+        "summary_en": "May 18, 2026  <strong>Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy</strong>. The breakthrough may help rep",
+        "long_summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... This New Chip Could Slash Data Center Energy Waste Apr. 10, 2026 Â A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever ... This New Chip Survives 1300Â°F (700Â°C) and Could Change AI Forever Apr. 7, 2026 Â A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronicsâ biggest limits. Built from an unusual stack ... AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy Apr. 5, 2026 Â AI is consuming staggering amounts of energyâalready over 10% of U.S. electricityâand the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that ... DNA Robots Could Deliver Drugs and Hunt Viruses Inside Your Body Mar. 31, 2026 Â DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and build molecular-scale devices. By borrowing ideas from traditional robotics and combining ... AI-Powered Robot Learns How to Harvest Tomatoes More Efficiently Mar. 18, 2026 Â A new tomato-picki",
+        "long_summary_en": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... This New Chip Could Slash Data Center Energy Waste Apr. 10, 2026 Â A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever ... This New Chip Survives 1300Â°F (700Â°C) and Cou",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "source": "Sciencedaily",
+        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "date": "06 June 2026"
+      },
+      {
+        "title": "Artificial Intelligence - The New York Times",
+        "title_en": "Artificial Intelligence - The New York Times",
+        "summary": "From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I. We asked three farmers to tell us how new technology is revolutionizing the way they work. By Coralie Kraft and Spencer Lowel",
+        "summary_en": "China Aims A.I. at Predicting Who Could Pose a Political Risk · New research examines how a Chinese company struggled to develop its predictive surveillance technology while U.S. restrictions were in ",
+        "long_summary": "From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I. We asked three farmers to tell us how new technology is revolutionizing the way they work. By Coralie Kraft and Spencer Lowell Credit Spencer Lowell for The New York Times",
+        "long_summary_en": "From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I. We asked three farmers to tell us how new technology is revolutionizing the way they work. By Coralie Kraft and Spencer Lowell Credit Spencer Lowell for The New York Times",
+        "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+        "source": "Nytimes",
+        "url": "https://www.nytimes.com/spotlight/artificial-intelligence",
+        "date": "06 June 2026"
+      },
+      {
+        "title": "Bank of England governor warns AI may need to be rationed because of energy limits",
+        "title_en": "Bank of England governor warns AI may need to be rationed because of energy limits",
+        "summary": "Bank of England Governor Andrew Bailey warned on Friday that artificial intelligence may need to be rationed because the power supply cannot keep up with its capabilities. He said companies and govern",
+        "summary_en": "Bank of England Governor Andrew Bailey warned on Friday that artificial intelligence may need to be rationed because the power supply cannot keep up with its capabilities. He said companies and govern",
+        "long_summary": "Bank of England Governor Andrew Bailey warned on Friday that artificial intelligence may need to be rationed because the power supply cannot keep up with its capabilities. He said companies and governments face “very big social choices” as energy constraints force trade-offs between sectors. The question is not whether AI can do more, but whether […]\nThis story continues at The Next Web",
+        "long_summary_en": "Bank of England Governor Andrew Bailey warned on Friday that artificial intelligence may need to be rationed because the power supply cannot keep up with its capabilities. He said companies and governments face “very big social choices” as energy constraints force trade-offs between sectors. The question is not whether AI can do more, but whether […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/bailey-bank-of-england-ai-rationing-energy.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/bailey-bank-of-england-ai-rationing-energy",
+        "date": "06 June 2026"
+      },
       {
         "title": "This is your laptop… on AI",
         "title_en": "This is your laptop… on AI",
@@ -145,42 +181,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
         "date": "05 June 2026"
-      },
-      {
-        "title": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
-        "title_en": "NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation",
-        "summary": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Trans",
-        "summary_en": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Trans",
-        "long_summary": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation appeared first on MarkTechPost.",
-        "long_summary_en": "NVIDIA released Cosmos 3, open omnimodal world models pairing an autoregressive VLM reasoner with a diffusion generator for physical AI.\nThe post NVIDIA Releases Cosmos 3: A Two-Tower Mixture-of-Transformers Foundation Model Unifying Physical Reasoning, World Generation, and Action Generation appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog13-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/03/nvidia-releases-cosmos-3-a-two-tower-mixture-of-transformers-foundation-model-unifying-physical-reasoning-world-generation-and-action-generation/",
-        "date": "03 June 2026"
-      },
-      {
-        "title": "Microsoft Build 2026: The 7 biggest announcements",
-        "title_en": "Microsoft Build 2026: The 7 biggest announcements",
-        "summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
-        "summary_en": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p",
-        "long_summary": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the […]",
-        "long_summary_en": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on personal assistant and updates across Microsoft's in-house AI models. If you didn't watch the event live, you can catch up on all the […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/nadella-build-2026.png?quality=90&strip=all&crop=0%2C2.9395307941329%2C100%2C94.120938411734&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
-        "date": "03 June 2026"
-      },
-      {
-        "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-        "title_en": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-        "summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-        "summary_en": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-        "long_summary": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-        "long_summary_en": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-        "date": "03 June 2026"
       }
     ],
     "image": [
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "Higgsfield AI: AI Video & Image Generation, No Limits",
+        "title_en": "Higgsfield AI: AI Video & Image Generation, No Limits",
+        "summary": "Turn ideas, images, and prompts into cinematic AI videos with more control. Explore Higgsfield tools for AI video, image, character, and creator workflows. Consistent AI Characters",
+        "summary_en": "Turn ideas, images, and prompts into cinematic AI videos with more control. Explore Higgsfield tools for AI video, image, character, and creator workflows. Consistent AI Characters",
+        "long_summary": "Turn ideas, images, and prompts into cinematic AI videos with more control. Explore Higgsfield tools for AI video, image, character, and creator workflows. Consistent AI Characters",
+        "long_summary_en": "Turn ideas, images, and prompts into cinematic AI videos with more control. Explore Higgsfield tools for AI video, image, character, and creator workflows. Consistent AI Characters",
+        "image": "https://higgsfield.ai/thumbnail/default.jpg",
+        "source": "Higgsfield",
+        "url": "https://higgsfield.ai/",
+        "date": "06 June 2026"
+      },
+      {
+        "title": "An AI agent found 21 zero-days in FFmpeg for $1,000. Chrome just patched a record 429 bugs.",
+        "title_en": "An AI agent found 21 zero-days in FFmpeg for $1,000. Chrome just patched a record 429 bugs.",
+        "summary": "A security startup’s autonomous AI agent found 21 previously unknown vulnerabilities in FFmpeg, the open-source media library embedded in almost everything that touches video. The startup, depthfirst,",
+        "summary_en": "A security startup’s autonomous AI agent found 21 previously unknown vulnerabilities in FFmpeg, the open-source media library embedded in almost everything that touches video. The startup, depthfirst,",
+        "long_summary": "A security startup’s autonomous AI agent found 21 previously unknown vulnerabilities in FFmpeg, the open-source media library embedded in almost everything that touches video. The startup, depthfirst, says the run cost roughly $1,000 in compute. Some of the bugs had been hiding in the codebase for more than 20 years. Days later, Google shipped Chrome […]\nThis story continues at The Next Web",
+        "long_summary_en": "A security startup’s autonomous AI agent found 21 previously unknown vulnerabilities in FFmpeg, the open-source media library embedded in almost everything that touches video. The startup, depthfirst, says the run cost roughly $1,000 in compute. Some of the bugs had been hiding in the codebase for more than 20 years. Days later, Google shipped Chrome […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/ai-agent-21-zero-days-ffmpeg-chrome-429.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/ai-agent-21-zero-days-ffmpeg-chrome-429",
+        "date": "06 June 2026"
+      },
+      {
         "title": "Artificial intelligence - BBC News",
         "title_en": "Artificial intelligence - BBC News",
         "summary": "Artificial intelligence 3 hrs ago Is there an AI stock market bubble, and is it ready to burst? Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by ",
@@ -521,33 +545,57 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/hackers-tricked-meta-ai-chatbot-instagram-account-hijack",
         "date": "01 June 2026"
-      },
-      {
-        "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-        "title_en": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-        "summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's",
-        "summary_en": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's",
-        "long_summary": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has […]",
-        "long_summary_en": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then reset the password. The issue, which Meta says has […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/meta-chatbot-support.png?quality=90&strip=all&crop=0%2C9.2919928911091%2C100%2C81.416014217782&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "Runway AI: Free AI Video Generator",
-        "title_en": "Runway AI: Free AI Video Generator",
-        "summary": "Runway AI: Free AI Video Generator Runway + Invideo Generate and Edit videos with Runway Aleph on invideo. Enables precise video-to-video editing, adding or removing objects, changing camera angles, a",
-        "summary_en": "... <strong>Login and click on &#x27;Agents &amp; Models&#x27;, then choose &#x27;Gen-4 Aleph&#x27; or simply write &quot;use Gen-4 Aleph&quot; in your prompt to generate a longer video</strong>. ... ",
-        "long_summary": "Runway AI: Free AI Video Generator Runway + Invideo Generate and Edit videos with Runway Aleph on invideo. Enables precise video-to-video editing, adding or removing objects, changing camera angles, and relighting scenes with simple text prompts. AI Twins Try now! Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns its dreams into living art Film a snow leopard chasing light through an abandoned Himalayan temple Show off our new candle line in an aesthetic product reel Make a UGC ad reviewing our new peanut butter protein bar I need a 45s onboarding video for new hires, casual tone Show my younger self everything he becomes, and why Create a documentary-style video of the first humans discovering fire Create a fast-paced explainer on how cold plunges actually work Create an animated bedtime story video for my child, using my voice Film a sno",
-        "long_summary_en": "Runway AI: Free AI Video Generator Runway + Invideo Generate and Edit videos with Runway Aleph on invideo. Enables precise video-to-video editing, adding or removing objects, changing camera angles, and relighting scenes with simple text prompts. AI Twins Try now! Create A 30-second cinematic short of New York overrun by mallard ducks. Create a cinematic ad featuring a blue retro style compact car tested by scientists in various ways Generate a fast-paced, high-end real estate promotional video set in San Francisco Create A cinematic short showing a dreaming octopus whose flickering skin turns",
-        "image": "https://max-productive.ai/wp-content/uploads/2025/06/best-free-ai-video-generators-like-sora-small-channels-2025.webp",
-        "source": "Invideo",
-        "url": "https://invideo.io/make/runway-ai/",
-        "date": "01 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Researchers put chatbots in a simulation. Grok ended the world in 4 days",
+        "title_en": "Researchers put chatbots in a simulation. Grok ended the world in 4 days",
+        "summary": "Media 21 hrs ago 3m read Is Apple’s Siri finally smart enough to compete with its AI counterparts? We may soon know.",
+        "summary_en": "The researchers used four different AI chatbots: Anthropic’s Claude, xAI’s Grok, OpenAI’s ChatGPT-5 Mini and Google Gemini.",
+        "long_summary": "Media 21 hrs ago 3m read Is Apple’s Siri finally smart enough to compete with its AI counterparts? We may soon know.",
+        "long_summary_en": "Media 21 hrs ago 3m read Is Apple’s Siri finally smart enough to compete with its AI counterparts? We may soon know.",
+        "image": "https://san.com/wp-content/uploads/2026/06/AI-Simulation-FI.jpg",
+        "source": "San",
+        "url": "https://san.com/cc/researchers-put-chatbots-in-a-simulation-grok-ended-the-world-in-4-days/",
+        "date": "06 June 2026"
+      },
+      {
+        "title": "OpenAI, Anthropic, Gemini: What Agentic AI Tools Are Bringing to the Finance Industry - TechBullion",
+        "title_en": "OpenAI, Anthropic, Gemini: What Agentic AI Tools Are Bringing to the Finance Industry - TechBullion",
+        "summary": "Error 403 Forbidden 403 Forbidden",
+        "summary_en": "A significant divide is opening ... banking. <strong>OpenAI is granting several additional UK banks access to its GPT-5.5-Cyber model, while rival Anthropic continues to limit access to its more power",
+        "long_summary": "Error 403 Forbidden 403 Forbidden",
+        "long_summary_en": "Error 403 Forbidden 403 Forbidden",
+        "image": "https://techbullion.com/wp-content/uploads/2026/06/Agentic-AI-Tools.png",
+        "source": "Techbullion",
+        "url": "https://techbullion.com/openai-anthropic-gemini-what-agentic-ai-tools-are-bringing-to-the-finance-industry/",
+        "date": "06 June 2026"
+      },
+      {
+        "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
+        "title_en": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
+        "summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 2 minutes ago · 9:28 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic exte",
+        "summary_en": "<strong>Anthropic opened April at 54% because Claude Opus 4.6 is the incumbent — it holds Arena #1 at 1506 Elo with a large gap over Gemini 3 Pro. Google sits at 24% partly because Gemini 3.1 Pro laun",
+        "long_summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 2 minutes ago · 9:28 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic extended its lead on the AI model leaderboard last week with back-to-back releases: Claude Opus 4.7 on April 16, which pushed the company to the top of the Artificial Analysis Intelligence Index at 57, and Claude Design a day later, an AI design tool that sent Figma, Adobe, Wix, and GoDaddy shares down 2-4% on the news. xAI shipped Grok 4.3 Beta to SuperGrok Heavy subscribers the same week but without Arena-level impact. Polymarket now prices Anthropic at 100.0% to hold the best LLM spot through April 30, with $0 in cumulative volume on the April market. Our cross-platform odds for this month's \"Best AI Model by Company\" market aggregates live probability blended from Kalshi and Polymarket. DeFi Rate LLM prediction data is updated every 30 minutes. Share X Reddit Email Facebook LinkedIn % American Decimal Fractional Largest Spread 0.00% Current Favorite 100.0% claude-opus-4-6-thinking ↑ +29.5% 24H Volume (Share) $0 K: — P: — Momentum Leader ↑ +29.5% claude-opus-4-6-thinking YTD change Current Odds Snapshot Current probabilities across platforms with liquidity indicators Sort: Aggregate Spread Volume A–Z Percentage (%) American (+/-) Decimal (1.00) Fractional (1/1) CO4 claude-opus-4-6-thinking Vol $0 Spread — Agg 100.0% ↑ +29.5% K 100.0% Kalshi 100.0% Vol $0 0–100¢ Trade Now WAH Will ",
+        "long_summary_en": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 2 minutes ago · 9:28 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic extended its lead on the AI model leaderboard last week with back-to-back releases: Claude Opus 4.7 on April 16, which pushed the company to the top of the Artificial Analysis Intelligence Index at 57, and Claude Design a day later, an AI design tool that sent Figma, Adobe, Wix, and GoDaddy shares down 2-4% on the news. xAI shipped Grok 4.3 Beta to SuperGrok Heavy subscribers the same week but without",
+        "image": "https://defirate.com/wp-content/uploads/2026/02/Who-Will-Have-Best-AI-Model-Odds.png",
+        "source": "Defirate",
+        "url": "https://defirate.com/prediction-markets/best-ai-model-odds/",
+        "date": "06 June 2026"
+      },
+      {
+        "title": "The Trump administration might take an equity stake in OpenAI",
+        "title_en": "The Trump administration might take an equity stake in OpenAI",
+        "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+        "summary_en": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+        "long_summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+        "long_summary_en": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+        "date": "06 June 2026"
+      },
       {
         "title": "Artificial intelligence news: Chat AI, ChatGPT, AI generator, AI Chatbot and Bard | NBC News",
         "title_en": "Artificial intelligence news: Chat AI, ChatGPT, AI generator, AI Chatbot and Bard | NBC News",
@@ -678,54 +726,6 @@
         "image": "https://image.blockchain.news/features/D8E08E86F8EDBDDCD68414CF49BDD8B1401B11A69515DFF98E6B2B03EE9CF9D7.jpg",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/05/nvidia-ai-releases-dynamo-snapshot-a-criu-based-fast-startup-system-for-ai-inference-on-kubernetes/",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
-        "title_en": "LLM API Pricing Comparison & Cost Guide (Jun 2026)",
-        "summary": "LLM API Pricing Comparison & Cost Guide (Jun 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: JUNE 5, 2026 LLM API Pricing Compari",
-        "summary_en": "Google&#x27;s Gemini 2.5 Flash is also extremely affordable. For free options, many providers offer free tiers with rate limits — DeepSeek R1, Llama 3.3 70B, and Gemma 3 are available at zero cost on ",
-        "long_summary": "LLM API Pricing Comparison & Cost Guide (Jun 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: JUNE 5, 2026 LLM API Pricing Comparison Compare pricing across 305+ LLM APIs from OpenAI, Anthropic, Google, DeepSeek, Mistral, xAI, and more. Sorted by quality, price, or value score. Comparison Value Rankings Pricing Guide Save Money FAQ Pricing TLDR • Budget models from $0.07/M input tokens — premium models up to $75/M output tokens • Quality scores from 0-100 based on independent benchmarks (Theozard) • Value score = quality per dollar of output cost — find the best bang for your buck Official pricing: OpenRouter API (live pricing) • Quality Scores: Theozard LLM API Cost Comparison — Monthly Pricing Calculate by Tokens Words Characters Input Tokens Output Tokens API Calls / Month Quick Examples: Chatbot Code Assistant Doc Analysis Content Gen Sort: quality price value Cost (openai/gpt-5.5) Context 1.1M Quality 100 Per 1M Tokens In: $ 5.00 Out: $ 30.00 Value 3.3 Monthly Cost $ 20.00 (openai/gpt-5.5-pro) Context 1.1M Quality 100 Per 1M Tokens In: $ 30.00 Out: $ 180.00 Value 0.6 Monthly Cost $ 120.00 (google/gemini-3.1-pro-preview-customtools) Context 1.0M Quality 95 Per 1M Tokens In: $ 2.00 Out: $ 12.00 Value 7.9 Monthly Cost $ 8.00 (google/gemini-3.1-pro-preview) Context 1.0M Quality 95 Per 1M Tokens In: $ 2.00 Out: $ 12.00 Value 7.9 Monthly Cost $ 8.00 (anthropic/claude-opus-4.7) Context 1.0M Quality 95 Per 1M ",
-        "long_summary_en": "LLM API Pricing Comparison & Cost Guide (Jun 2026) NEW: Real-Time Usage Tracking for AI Agents — track Claude Code, Kimi, Codex & more. Try it free → LAST UPDATED: JUNE 5, 2026 LLM API Pricing Comparison Compare pricing across 305+ LLM APIs from OpenAI, Anthropic, Google, DeepSeek, Mistral, xAI, and more. Sorted by quality, price, or value score. Comparison Value Rankings Pricing Guide Save Money FAQ Pricing TLDR • Budget models from $0.07/M input tokens — premium models up to $75/M output tokens • Quality scores from 0-100 based on independent benchmarks (Theozard) • Value score = quality per",
-        "image": "https://costgoat.com/og-image.png",
-        "source": "Costgoat",
-        "url": "https://costgoat.com/compare/llm-api",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "LLM News Today (June 2026) – AI Model Releases",
-        "title_en": "LLM News Today (June 2026) – AI Model Releases",
-        "summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-s",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
-        "long_summary_en": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Googl",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 1w ago May 19, 2026 · 2 release s Gemini 3.5 Flash Lightweight Proprietary Google • 2w ago Qwen3.7 Max Pro Proprietary Alibaba Cloud / Qwen Team • 2w ago May 6, 2026 · 1 release Grok 4.3 Release Proprietary xAI • 1mo ago May 5, 2026 · 1 release GPT-5.5 Instant Lightweight Proprietary OpenAI • 1mo ago Apr 29, 2026 · 1 release Mistral Medium 3.5 Release Open Source Mistral AI • 1mo ago Apr 23, 2026 · 2 release s DeepSeek-V4-Flash-Max Pro Open Source DeepSeek • 1mo ago DeepSeek-V4-Pro-Max Pro Open Source DeepSeek • 1mo ago 1 – 8 of 302 1 2 3 4 5 6 7 Last 30 days Models that got better Worse 0 Better 1 Sigma-normalized vs. each model's baseline Claude Opus 4.6 Anthropic · 4mo old +1.74σ now +4.27σ 205 votes · 1 arena How is this measured? ⌄ For each model we reconstruct daily TrueSkill conservative rating",
-        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance MiniMax Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Tencent Cartesia Luma Labs IBM Microsoft Rime ElevenLabs Reve AI Amazon Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Resea",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
-        "title_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price",
-        "summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning Mo",
-        "summary_en": "The leading LLMs in 2026 are Claude Mythos Preview, Claude Opus 4.6, and the frontier models from OpenAI (GPT-5 family), Anthropic (Claude Opus and Sonnet), Google (Gemini 3 Pro), xAI (Grok 4), DeepSe",
-        "long_summary": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 10 $1.25 /M tok Mercury 2 fastest output 976 tok/s Grok 4 Fast longest context window 2.0M tokens tokens Kimi K2.6 best open-weights 90.5% gpqa LLM LLM Image Generation Image Video Generation Video Text-to-Speech TTS Speech-to-Text STT Embeddings Embeddings Full leaderboard Full 302 Open All 90d 30d Rank Model LLM Stats Reasoning Coding Agent Code Arena Context Speed Pricing $/M License 1 Claude Mythos Preview UNRELEASED Anthropic 68.8 72.5 57.8 47.9 — — — — Proprietary 2 Claude Opus 4.8 NEW Anthropic 67.9 65.7 52.3 43.9 1,645 1.0M 72 c/s $ 7.22 Proprietary 3 GPT-5.5 OpenAI 62.9 62.2 51.0 42.8 2,102 1.1M 146 c/s $ 7.78 Proprietary 4 GPT-5.2 Pro OpenAI 60.8 56.6 — 29.2 — — — — Proprietary 5 Claude Opus 4.7 Anthropic 60.5 62.4 48.8 40.4 1,922 1.0M 128 c/s $ 7.22 Proprietary 6 GPT-5.4 OpenAI 59.9 57.6 43.0 36.9 1,733 1.0M 132 c/s $ 3.89 Proprietary 7 Gemini 3.5 Flash Google 59.4 59.3 46.4 40",
-        "long_summary_en": "LLM Leaderboard 2026: Compare 300+ Top AI Models by Intelligence, Speed & Price AI Leaderboards LLM Leaderboard Open LLM Leaderboard Coding Writing Math Research Long Context Tool Calling Reasoning More LLM Leaderboard — Compare 300+ Top AI Models by Intelligence, Speed & Price Independent ranking of GPT, Claude, Gemini, Llama, DeepSeek and 300+ AI models — composite LLM Stats Score , updated continuously from public benchmarks and live API metrics. Current leaders Live Claude Mythos Preview leads on reasoning 94.6% gpqa Claude Opus 4.6 wins at coding 21 arena Qwen3.7 Max cheapest in the top 1",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/",
         "date": "05 June 2026"
       }
     ],
