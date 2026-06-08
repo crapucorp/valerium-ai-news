@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "08 June 2026 - 20:36",
+  "lastUpdate": "08 June 2026 - 21:37",
   "categories": {
     "general": [
+      {
+        "title": "ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset",
+        "title_en": "ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset",
+        "summary": "In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs,",
+        "summary_en": "In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs,",
+        "long_summary": "In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs, and severity labels. We measure how VirusTotal, static analysis, and SkillSpector overlap and disagree using Jaccard scores and Cohen's kappa. Finally, we combine SKILL.md text with scanner signals to train a logistic regression model for ClawScan verdicts.\nThe post ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset ",
+        "long_summary_en": "In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs, and severity labels. We measure how VirusTotal, static analysis, and SkillSpector overlap and disagree using Jaccard scores and Cohen's kappa. Finally, we combine SKILL.md text with scanner signals to train a logistic regression model for ClawScan verdicts.\nThe post ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset ",
+        "image": "https://assets.esecurityplanet.com/uploads/2026/05/AI-developer.png?w=640",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/08/clawhub-security-signals-a-coding-guide-to-end-to-end-security-signal-analysis-and-verdict-classification-on-the-ai-skills-dataset/",
+        "date": "08 June 2026"
+      },
+      {
+        "title": "Apple’s WWDC 2026 App Store changes let independent developers bundle subscriptions together",
+        "title_en": "Apple’s WWDC 2026 App Store changes let independent developers bundle subscriptions together",
+        "summary": "Apple announced a sweeping set of changes to the App Store at WWDC 2026 on Monday, introducing cross-developer subscription bundles, group purchasing, enterprise volume licensing, and an AI-powered di",
+        "summary_en": "Apple announced a sweeping set of changes to the App Store at WWDC 2026 on Monday, introducing cross-developer subscription bundles, group purchasing, enterprise volume licensing, and an AI-powered di",
+        "long_summary": "Apple announced a sweeping set of changes to the App Store at WWDC 2026 on Monday, introducing cross-developer subscription bundles, group purchasing, enterprise volume licensing, and an AI-powered discovery system that recommends apps based on a user’s installed software. The updates represent the most significant structural changes to how developers sell and market apps since […]\nThis story continues at The Next Web",
+        "long_summary_en": "Apple announced a sweeping set of changes to the App Store at WWDC 2026 on Monday, introducing cross-developer subscription bundles, group purchasing, enterprise volume licensing, and an AI-powered discovery system that recommends apps based on a user’s installed software. The updates represent the most significant structural changes to how developers sell and market apps since […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/apple-app-store-wwdc-2026-developer-bundles-screen-time.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/apple-app-store-wwdc-2026-developer-bundles-screen-time",
+        "date": "08 June 2026"
+      },
       {
         "title": "AI will make content infinite. Human taste will decide what matters.",
         "title_en": "AI will make content infinite. Human taste will decide what matters.",
@@ -157,33 +181,21 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/bailey-bank-of-england-ai-rationing-energy",
         "date": "06 June 2026"
-      },
-      {
-        "title": "This is your laptop… on AI",
-        "title_en": "This is your laptop… on AI",
-        "summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
-        "summary_en": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi",
-        "long_summary": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops […]",
-        "long_summary_en": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvidia's Jensen Huang made that clearer than anyone this week, when he described a completely new way of using our laptops […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/VRG_VST_0605_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "Artificial Intelligence - AI News",
-        "title_en": "Artificial Intelligence - AI News",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "How Artificial Intelligence is ... to benefit ​from ​robust ⁠investor ​demand. ago · <strong>US House lawmakers release draft bill to regulate AI</strong> ·...",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://media.wired.com/photos/6a1e1d3c70c7c8b915b99802/3:2/w_1280,c_limit/Microsoft-Debuts-Scout-a-Workplace-AI-Agent-Gear.jpg",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "05 June 2026"
       }
     ],
     "image": [
+      {
+        "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+        "title_en": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+        "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+        "summary_en": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+        "long_summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+        "long_summary_en": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?resize=1200,663",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+        "date": "08 June 2026"
+      },
       {
         "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
         "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
@@ -351,18 +363,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/microsoft-mai-image-2-top-three-arena-leaderboard",
         "date": "20 March 2026"
-      },
-      {
-        "title": "Adobe’s AI image generator can now be trained on your own art",
-        "title_en": "Adobe’s AI image generator can now be trained on your own art",
-        "summary": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creat",
-        "summary_en": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creat",
-        "long_summary": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography. The tool aims […]",
-        "long_summary_en": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creators and brands to train a model on their own assets to ensure generated images follow a consistent aesthetic for characters, illustrations, and photography. The tool aims […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Firefly-Custom-Models-Hero-Image.jpg?quality=90&strip=all&crop=0%2C5.1234106207928%2C100%2C89.753178758414&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
-        "date": "19 March 2026"
       }
     ],
     "video": [
@@ -914,18 +914,18 @@
   },
   "hotNews": [
     {
-      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
-      "date": "08 June 2026"
-    },
-    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
       "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
       "date": "05 June 2026"
+    },
+    {
+      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "08 June 2026"
     },
     {
       "title": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
