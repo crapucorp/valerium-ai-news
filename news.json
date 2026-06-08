@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08 June 2026 - 14:02",
+  "lastUpdate": "08 June 2026 - 18:34",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+        "title_en": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
+        "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but",
+        "summary_en": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but",
+        "long_summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training new […]",
+        "long_summary_en": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but also this is a real burner of an episode. We covered everything from Mustafa’s approach to training new […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD-Mustafa-Suleyman.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+        "date": "08 June 2026"
+      },
+      {
         "title": "Higgsfield AI: AI Video & Image Generation, No Limits",
         "title_en": "Higgsfield AI: AI Video & Image Generation, No Limits",
         "summary": "Turn ideas, images, and prompts into cinematic AI videos with more control. Explore Higgsfield tools for AI video, image, character, and creator workflows. Consistent AI Characters",
@@ -533,21 +545,33 @@
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
         "date": "01 June 2026"
-      },
-      {
-        "title": "Hackers hijacked Instagram accounts by asking Meta’s own AI chatbot to reset the password",
-        "title_en": "Hackers hijacked Instagram accounts by asking Meta’s own AI chatbot to reset the password",
-        "summary": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link,",
-        "summary_en": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link,",
-        "long_summary": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link, and no malware. The hacker simply asked the chatbot to add a new email address to someone else’s account. A video posted on X showed […]\nThis story continues at The Next Web",
-        "long_summary_en": "Hackers hijacked Instagram accounts over the weekend by tricking Meta’s own AI-powered support chatbot into granting them access. The attack required no access to the victim’s email, no phishing link, and no malware. The hacker simply asked the chatbot to add a new email address to someone else’s account. A video posted on X showed […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/hackers-tricked-meta-ai-chatbot-instagram-account-hijack.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/hackers-tricked-meta-ai-chatbot-instagram-account-hijack",
-        "date": "01 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Microsoft MiniMax Anthropic Alibaba Cloud",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Microsoft MiniMax Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI Jun 2, 2026 · 2 release s MAI-Code-1-Flash Fast Proprietary Microsoft • 6d ago MAI-Thinking-1 Reasoning Proprietary Microsoft • 6d ago Jun 1, 2026 · 1 release MiniMax M3 Lightweight Open Source MiniMax • 1w ago May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 1w ago May 19, 2026 · 2 release s Gemini 3.5 Flash Lightweight Proprietary Google • 2w ago Qwen3.7 Max Pro Proprietary Alibaba Cloud / Qwen Team • 2w ago May 6, 2026 · 1 release Grok 4.3 Release Proprietary xAI • 1mo ago May 5, 2026 · 1 release GPT-5.5 Instant Lightweight Proprietary OpenAI • 1mo ago 1 – 8 of 309 1 2 3 4 5 6 7 Last 30 days Models that got better Worse 0 Better 1 Sigma-normalized vs. each model's baseline Claude Opus 4.6 Anthropic · 4mo old +2.96σ now +4.28σ 162 votes · 1 arena How is this measured? ⌄ For each model we reconstruct daily TrueSkill conservative ratings per arena f",
+        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Last 10 AI Model Releases Track all LLM releases and version updates All Microsoft MiniMax Anthropic Alibaba Cloud / Qwen Team Google xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Resea",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "08 June 2026"
+      },
+      {
+        "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+        "title_en": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+        "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and relia",
+        "summary_en": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and relia",
+        "long_summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, […]",
+        "long_summary_en": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and reliable information,\" according to a blog post on Monday. Launched in 2023, NotebookLM allows you to interact with your notes and sources using AI, […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/NotebookLM-Welcome.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+        "date": "08 June 2026"
+      },
       {
         "title": "AI Leaderboard 2026: Compare & Rank 300+ Top AI Models by Intelligence, Speed & Price",
         "title_en": "AI Leaderboard 2026: Compare & Rank 300+ Top AI Models by Intelligence, Speed & Price",
@@ -703,30 +727,6 @@
         "source": "Defirate",
         "url": "https://defirate.com/prediction-markets/best-ai-model-odds/",
         "date": "06 June 2026"
-      },
-      {
-        "title": "The Trump administration might take an equity stake in OpenAI",
-        "title_en": "The Trump administration might take an equity stake in OpenAI",
-        "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-        "summary_en": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-        "long_summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-        "long_summary_en": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-        "date": "06 June 2026"
-      },
-      {
-        "title": "Artificial intelligence news: Chat AI, ChatGPT, AI generator, AI Chatbot and Bard | NBC News",
-        "title_en": "Artificial intelligence news: Chat AI, ChatGPT, AI generator, AI Chatbot and Bard | NBC News",
-        "summary": "Justine Goode / NBC News / Getty Images Data Graphics Inside ChatGPT: How AI chatbots work Large language models like ChatGPT use a complicated series of equations to understand and respond to your pr",
-        "summary_en": "BREAKING: Lesley Stahl, Bill Whitaker and Jon Wertheim say they’ll stay at ‘60 Minutes’ · IE 11 is not supported. For an optimal experience visit our site on another browser. ... The latest news and t",
-        "long_summary": "Justine Goode / NBC News / Getty Images Data Graphics Inside ChatGPT: How AI chatbots work Large language models like ChatGPT use a complicated series of equations to understand and respond to your prompts. Here’s a look inside the system. Trying to make sense of artificial intelligence? Here's your guide An AI glossary: The words and terms to know about the booming industry",
-        "long_summary_en": "Justine Goode / NBC News / Getty Images Data Graphics Inside ChatGPT: How AI chatbots work Large language models like ChatGPT use a complicated series of equations to understand and respond to your prompts. Here’s a look inside the system. Trying to make sense of artificial intelligence? Here's your guide An AI glossary: The words and terms to know about the booming industry",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-03/230329-artificial-intelligence-ai-doomsday-cs-74011b.jpg",
-        "source": "Nbcnews",
-        "url": "https://www.nbcnews.com/artificial-intelligence",
-        "date": "05 June 2026"
       }
     ],
     "audio": [
@@ -921,17 +921,17 @@
       "date": "05 June 2026"
     },
     {
+      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "08 June 2026"
+    },
+    {
       "title": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
       "title_en": "Anthropic debuts flagship Claude Opus 4.8 AI model as IPO race with OpenAI heats up",
       "source": "Finance",
       "url": "https://finance.yahoo.com/news/anthropic-debuts-flagship-claude-opus-48-ai-model-as-ipo-race-with-openai-heats-up-170000527.html",
-      "date": "08 June 2026"
-    },
-    {
-      "title": "AI Leaderboard 2026: Compare & Rank 300+ Top AI Models by Intelligence, Speed & Price",
-      "title_en": "AI Leaderboard 2026: Compare & Rank 300+ Top AI Models by Intelligence, Speed & Price",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/",
       "date": "08 June 2026"
     }
   ]
