@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08 June 2026 - 22:38",
+  "lastUpdate": "08 June 2026 - 23:08",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+        "title_en": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+        "summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen.",
+        "summary_en": "You can try any AI video generator in the media playground to test quality on your own prompts, or compare models side-by-side to see how they differ on the same input. ... Run Veo, Sora, Runway, Klin",
+        "long_summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $1.01 / M tokens See model page → Compare side-by-side",
+        "long_summary_en": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $1.01 / M tokens See model page → Compare side-by-side",
+        "image": "https://llm-stats.com/api/og/category/video_generation",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+        "date": "08 June 2026"
+      },
+      {
         "title": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
         "title_en": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
         "summary": "Search Everything",
@@ -532,18 +544,6 @@
         "image": "https://s.yimg.com/en/images/1574a80b96a9fe539115c8759e59eafd4644512c68fea51a79a75f650ad62509.png",
         "source": "Tech",
         "url": "https://tech.yahoo.com/ai/",
-        "date": "02 June 2026"
-      },
-      {
-        "title": "BBC Technology | Artificial Intelligence",
-        "title_en": "BBC Technology | Artificial Intelligence",
-        "summary": "Artificial Intelligence How 'confused' AI rollout hurts firms and baffles staff Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout. See more Latest headl",
-        "summary_en": "An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online.",
-        "long_summary": "Artificial Intelligence How 'confused' AI rollout hurts firms and baffles staff Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout. See more Latest headlines No, Trump's name hasn't been removed from the Kennedy Center An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online. AI giant Anthropic says it plans to list on US stock market The AI company behind Claude is set to offer the public shares of stock sometime this year. UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool. Nvidia announces new AI chip for personal computers The technology giant's boss Jensen Huang called the move the \"reinvention of the computer\". AI v the Mind Machine yearning: The one-sided truth of AI 'romance' AI can write you love poems and some people even have romantic feelings towards it. But can a machine ever love you back? What AI can teach us about listening better AI chatbots don't interrupt and aren't judgemental – so what can they teach us about deep listening? Watch Meet the world's first artist robot We find out how AI blurs the line between creation and automation, raising questions about the essence of art. Innovation Is this how AI might eliminate humanity? A research paper predicts AI autonomy by 2027 could lead to human extinction within a decade. Tech",
-        "long_summary_en": "Artificial Intelligence How 'confused' AI rollout hurts firms and baffles staff Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout. See more Latest headlines No, Trump's name hasn't been removed from the Kennedy Center An AI video of President Trump’s name being ripped off the front of the building has been seen by millions online. AI giant Anthropic says it plans to list on US stock market The AI company behind Claude is set to offer the public shares of stock sometime this year. UK banks blocked from cyber AI tool Mythos get offer from rival Ope",
-        "image": "https://ichef.bbci.co.uk/news/480/cpsprodpb/5751/live/6c984b70-f2c3-11f0-a422-4ba8a094a8fa.jpg.webp",
-        "source": "Bbc",
-        "url": "https://www.bbc.com/technology/artificial-intelligence",
         "date": "02 June 2026"
       }
     ],
