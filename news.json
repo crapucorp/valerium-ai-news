@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "10 June 2026 - 18:07",
+  "lastUpdate": "10 June 2026 - 18:37",
   "categories": {
     "general": [
+      {
+        "title": "How memory tools can make AI models worse",
+        "title_en": "How memory tools can make AI models worse",
+        "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+        "summary_en": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+        "long_summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+        "long_summary_en": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+        "date": "10 June 2026"
+      },
       {
         "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
         "title_en": "Jedify raises $24M to help companies arm AI agents with context on their business",
@@ -168,18 +180,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog15-4-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
-        "title_en": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
-        "summary": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python. We prepare a Colab-friendly environment and check ",
-        "summary_en": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python. We prepare a Colab-friendly environment and check ",
-        "long_summary": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python. We prepare a Colab-friendly environment and check GPU, driver, CUDA, and cuTile availability before running kernels. We then build tiled vector addition, matrix addition, and matrix multiplication, keeping a PyTorch fallback so the notebook stays executable. We validate correctness against PyTorch and benchmark median runtimes at every stage.\nThe post NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, ",
-        "long_summary_en": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python. We prepare a Colab-friendly environment and check GPU, driver, CUDA, and cuTile availability before running kernels. We then build tiled vector addition, matrix addition, and matrix multiplication, keeping a PyTorch fallback so the notebook stays executable. We validate correctness against PyTorch and benchmark median runtimes at every stage.\nThe post NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, ",
-        "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/cuTile-Nsight-png.webp",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab/",
         "date": "09 June 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "Best Free Alternatives to Runway AI in 2026",
+        "title_en": "Best Free Alternatives to Runway AI in 2026",
+        "summary": "If you are searching for the best free alternatives to Runway AI in 2026, you have several powerful options that let you generate high-quality video content without spending a dime. While Runway AI re",
+        "summary_en": "The best options in 2026 include <strong>Img2Video AI for watermark-free image-to-video conversion, Sora-based free tiers through ChatGPT integration, and select Google Veo alternatives tailored for b",
+        "long_summary": "If you are searching for the best free alternatives to Runway AI in 2026, you have several powerful options that let you generate high-quality video content without spending a dime. While Runway AI remains a leading platform for creative video editing and generation, a growing number of free tools now offer comparable features including text-to-video, image-to-video, and AI-driven motion effects. This guide covers the top free alternatives available right now, based on the latest industry reviews and hands-on testing from trusted sources. A free alternative to Runway AI is any no-cost platform that uses generative artificial intelligence to create or edit video content, often supporting text prompts, image inputs, and style transfers. The best options in 2026 include Img2Video AI for watermark-free image-to-video conversion, Sora-based free tiers through ChatGPT integration, and select Google Veo alternatives tailored for business use. These tools lower the barrier to professional-quality video production for creators, marketers, and small teams. ✓ Img2Video AI offers completely free image-to-video generation with no watermark, making it the top choice for budget-conscious creators. ✓ Sora alternatives available through ChatGPT provide free access to advanced text-to-video capabilities for users with a standard OpenAI account. ✓ Google Veo alternatives highlighted by BBN Times deliver enterprise-grade video generation at no cost for basic tiers. ✓ Free Midjourney alternatives",
+        "long_summary_en": "If you are searching for the best free alternatives to Runway AI in 2026, you have several powerful options that let you generate high-quality video content without spending a dime. While Runway AI remains a leading platform for creative video editing and generation, a growing number of free tools now offer comparable features including text-to-video, image-to-video, and AI-driven motion effects. This guide covers the top free alternatives available right now, based on the latest industry reviews and hands-on testing from trusted sources. A free alternative to Runway AI is any no-cost platform",
+        "image": "https://liveme-image.s3.us-west-1.amazonaws.com/1781065942468360429_05177cb2-4715-4222-a580-bfc49504a781-0.jpeg",
+        "source": "Resource",
+        "url": "https://resource.digen.ai/best-free-alternatives-to-runway-ai-2026/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+        "title_en": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
+        "summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Sear",
+        "summary_en": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Sear",
+        "long_summary": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Google Lens, recordings from its real-time […]",
+        "long_summary_en": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Search Services History\" setting. That includes the images you search for with Google Lens, recordings from its real-time […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+        "date": "10 June 2026"
+      },
+      {
         "title": "Seedance AI vs Sora vs Runway vs Veo: Which AI Video Generator Is Best in 2026?",
         "title_en": "Seedance AI vs Sora vs Runway vs Veo: Which AI Video Generator Is Best in 2026?",
         "summary": "Share Facebook Twitter Pinterest Reddit WhatsApp Email Artificial intelligence has completely transformed video production. What once required expensive cameras, production teams, actors, editors, and",
@@ -520,30 +544,6 @@
         "image": "https://cdn.sanity.io/images/pdhqcmb1/production/579e83ff34c4c832744efaedb9681d255e58dc13-1200x630.png?fit=max&fm=png",
         "source": "Heygen",
         "url": "https://www.heygen.com/",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
-        "title_en": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
-        "summary": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
-        "summary_en": "AI design studio with infinite canvas — a powerful Canva and Lovart alternative. <strong>Generate images with GPT Image, Seedream, Nano Banana Pro directly on canvas</strong>. Plus AI video maker, pho",
-        "long_summary": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
-        "long_summary_en": "AI Design Studio & Image Generator | Canva Alternative with AI | BudgetPixel",
-        "image": "https://budgetpixel.com/logo-facebook.jpg",
-        "source": "Budgetpixel",
-        "url": "https://budgetpixel.com/images/workshop",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "Sora Shutdown: Why Disney Killed Its $150M AI Deal [2026]",
-        "title_en": "Sora Shutdown: Why Disney Killed Its $150M AI Deal [2026]",
-        "summary": "Marcus Chen Stockholm, Sweden March 30, 2026 16 min read OpenAI has officially confirmed that it will shut down its Sora AI video generation app on April 26, 2026, and discontinue the Sora API on Sept",
-        "summary_en": "Based on the current market dynamics, competitive landscape, and technology trajectory, here are five predictions for what comes next: 1. <strong>Runway will emerge as the dominant professional AI vid",
-        "long_summary": "Marcus Chen Stockholm, Sweden March 30, 2026 16 min read OpenAI has officially confirmed that it will shut down its Sora AI video generation app on April 26, 2026, and discontinue the Sora API on September 24, 2026. The decision, announced on March 27, 2026, marks one of the most significant product retreats in artificial intelligence history – and sends a clear signal about where the AI industry’s priorities are heading as it matures from experimental consumer products toward enterprise-grade revenue generation. The OpenAI Sora shutdown comes just six months after the app’s public launch, which saw it reach number one on the iOS App Store and accumulate over one million downloads in its first week. But sustained usage never materialized. By early 2026, active users had dropped below 500,000, and the economics of running a compute-intensive video generation service for consumers no longer justified the investment. An unnamed OpenAI executive told reporters, “We cannot miss this moment because we are distracted by side quests,” framing the video generation tool as a diversion from OpenAI’s core mission. Why OpenAI Is Killing Sora: The Strategic Calculus Behind the Shutdown The OpenAI Sora shutdown is not a story of technological failure. The model itself represented a genuine breakthrough in text-to-video synthesis when it was first demonstrated in February 2024. The problem was always the business model. Running video generation at scale requires enormous GPU compute – estima",
-        "long_summary_en": "Marcus Chen Stockholm, Sweden March 30, 2026 16 min read OpenAI has officially confirmed that it will shut down its Sora AI video generation app on April 26, 2026, and discontinue the Sora API on September 24, 2026. The decision, announced on March 27, 2026, marks one of the most significant product retreats in artificial intelligence history – and sends a clear signal about where the AI industry’s priorities are heading as it matures from experimental consumer products toward enterprise-grade revenue generation. The OpenAI Sora shutdown comes just six months after the app’s public launch, whi",
-        "image": "https://tech-insider.org/wp-content/uploads/2026/03/openai-sora-shutdown-disney-deal-ai-video-2026-1.jpg",
-        "source": "Tech-Insider",
-        "url": "https://tech-insider.org/openai-sora-shutdown-disney-deal-ai-video-2026/",
         "date": "05 June 2026"
       }
     ],
