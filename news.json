@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "10 June 2026 - 19:39",
+  "lastUpdate": "10 June 2026 - 20:10",
   "categories": {
     "general": [
+      {
+        "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+        "title_en": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
+        "summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
+        "long_summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
+        "long_summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+        "date": "10 June 2026"
+      },
       {
         "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
         "title_en": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
@@ -168,18 +180,6 @@
         "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
         "source": "Sciencedaily",
         "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "Artificial intelligence | AP News",
-        "title_en": "Artificial intelligence | AP News",
-        "summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Cuba's iconic antique cars sit idle as US energy blockade deepens fuel crisis Armenian Prime Min",
-        "summary_en": "Here’s the latest for Tuesday, June 2nd: <strong>President Trump signs executive order on artificial intelligence</strong>; Marco Rubio grilled on Capitol Hill; Iranian news reported Iran stopped comm",
-        "long_summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Cuba's iconic antique cars sit idle as US energy blockade deepens fuel crisis Armenian Prime Minister Pashinyan claims victory in election seen as test of Russia's influence Former Supreme Court justice becomes Canada's governor general, representing King Charles III Newsletters The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. The Afternoon Wire Get caught up on what you may have missed throughout the day. See All Newsletters",
-        "long_summary_en": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Cuba's iconic antique cars sit idle as US energy blockade deepens fuel crisis Armenian Prime Minister Pashinyan claims victory in election seen as test of Russia's influence Former Supreme Court justice becomes Canada's governor general, representing King Charles III Newsletters The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. The Afternoon Wire Get caught up on what you may have missed throughout the day. See All Newsletters",
-        "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "source": "Apnews",
-        "url": "https://apnews.com/hub/artificial-intelligence",
         "date": "09 June 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "AI Creator Studio for Video & Images | OpenArt",
+        "title_en": "AI Creator Studio for Video & Images | OpenArt",
+        "summary": "Try Now OpenArt VFX — Replace Backgrounds, Relight Scenes, Apply Full Visual Effects to your videos.",
+        "summary_en": "OpenArt Suite is your all-in-one AI creator studio. Create images, videos, characters, and audio in one place. Keep your characters, worlds, and style consistent across creations. Powered by the world",
+        "long_summary": "Try Now OpenArt VFX — Replace Backgrounds, Relight Scenes, Apply Full Visual Effects to your videos.",
+        "long_summary_en": "Try Now OpenArt VFX — Replace Backgrounds, Relight Scenes, Apply Full Visual Effects to your videos.",
+        "image": "https://cdn.openart.ai/assets/internal/uploads/image_PGRJom1C_1200x630_1776245286893.webp",
+        "source": "Openart",
+        "url": "https://openart.ai/home",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+        "title_en": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
+        "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
+        "summary_en": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
+        "long_summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO […]",
+        "long_summary_en": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+        "date": "10 June 2026"
+      },
+      {
         "title": "Best Free Alternatives to Runway AI in 2026",
         "title_en": "Best Free Alternatives to Runway AI in 2026",
         "summary": "If you are searching for the best free alternatives to Runway AI in 2026, you have several powerful options that let you generate high-quality video content without spending a dime. While Runway AI re",
@@ -520,30 +544,6 @@
         "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0nh5hn7.jpg.webp",
         "source": "Bbc",
         "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "Free AI Video Generator: Text to Video online - Adobe Firefly",
-        "title_en": "Free AI Video Generator: Text to Video online - Adobe Firefly",
-        "summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video",
-        "summary_en": "<strong>From the dropdown menu, choose the Firefly video model or a partner model such as Google Veo, Sora, or Pika</strong>. Your prompt should include style, angle, shot distance, effects, color gra",
-        "long_summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video generator. With the Firefly AI video generator, you can turn text prompts into stunning AI-generated videos in just one click. It’s great for pitching ideas and creating B-roll and visual effects. video image Edit prompt or enter your own text Zooming through the back of a futuristic aircraft with the hatch open to reveal a sunrise. Abstract, cool colors, VJ style. https://main--cc--adobecom.aem.live/creativecloud/animation/testdoc/unity/generate.svg Generate Adobe models true true First frame (optional) Prompt exceeds the max length of 1024 characters Your media must be smaller than 50MB. Please upload a new file. Unable to process the request Your media must be a jpg or png file type. Please upload a new file. Only one file can be uploaded at a time. By uploading your image or video, you agree to the Adobe Terms of Use and Privacy Policy and confirm you are 18 years of age or older. cgen promoid=S36FMJYY&mv=other&ff_source=adobe-com&ff_campaign=ai-video-generator style Dark, static links #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/firefly-80.svg {{nbsp}} Generate Video | Generate Video - Adobe Firefly https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/firefly-80.svg Adobe Firefly The next evolution of creative AI is h",
-        "long_summary_en": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video generator. With the Firefly AI video generator, you can turn text prompts into stunning AI-generated videos in just one click. It’s great for pitching ideas and creating B-roll and visual effects. video image Edit prompt or enter your own text Zooming through the back of a futuristic aircraft with the hatch open to reveal a sunrise. Abstract, cool colors, VJ style. https://main--cc--adobecom.aem.",
-        "image": "https://www.adobe.com/products/firefly/features/media_1d7d67ab68b854da4c6460a399e7e8f7175fe6949.jpg?width=1200&format=pjpg&optimize=medium",
-        "source": "Adobe",
-        "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
-        "date": "05 June 2026"
-      },
-      {
-        "title": "Free AI Video Generator: Create Stunning Videos with AI",
-        "title_en": "Free AI Video Generator: Create Stunning Videos with AI",
-        "summary": "انگریزی جرمن چینی ہسپانوی",
-        "summary_en": "From product reviews and news updates to story-style videos where your avatar responds to trending clips, HeyGen helps you create and scale &quot;faceless&quot; channels and personal brands on TikTok,",
-        "long_summary": "انگریزی جرمن چینی ہسپانوی",
-        "long_summary_en": "انگریزی جرمن چینی ہسپانوی",
-        "image": "https://cdn.sanity.io/images/pdhqcmb1/production/579e83ff34c4c832744efaedb9681d255e58dc13-1200x630.png?fit=max&fm=png",
-        "source": "Heygen",
-        "url": "https://www.heygen.com/",
         "date": "05 June 2026"
       }
     ],
