@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10 June 2026 - 13:02",
+  "lastUpdate": "10 June 2026 - 13:32",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Your face is the ticket: Google’s Gemini and biometric gates are the World Cup’s quieter tech story",
+        "title_en": "Your face is the ticket: Google’s Gemini and biometric gates are the World Cup’s quieter tech story",
+        "summary": "The 2026 World Cup is rolling out two layers of technology that most of its 10 million visitors will actually touch: a consumer-AI layer led by Google, and a biometric-identity layer that turns a fan’",
+        "summary_en": "The 2026 World Cup is rolling out two layers of technology that most of its 10 million visitors will actually touch: a consumer-AI layer led by Google, and a biometric-identity layer that turns a fan’",
+        "long_summary": "The 2026 World Cup is rolling out two layers of technology that most of its 10 million visitors will actually touch: a consumer-AI layer led by Google, and a biometric-identity layer that turns a fan’s face into a ticket. This is the quieter half of the tournament’s tech, the half aimed at fans rather than […]\nThis story continues at The Next Web",
+        "long_summary_en": "The 2026 World Cup is rolling out two layers of technology that most of its 10 million visitors will actually touch: a consumer-AI layer led by Google, and a biometric-identity layer that turns a fan’s face into a ticket. This is the quieter half of the tournament’s tech, the half aimed at fans rather than […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/fifa-world-cup-2026-scams-phishing-malware.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/world-cup-2026-biometrics-google-gemini",
+        "date": "10 June 2026"
+      },
+      {
         "title": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
         "title_en": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
         "summary": "Amazon Considers Stargate Hard Reboot: Canon of 25 TV Years May Be Erased",
@@ -714,18 +726,6 @@
         "image": "https://media.thenextweb.com/2026/06/oneadvanced-partners-nvidia.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/oneadvanced-care-navigator-sovereign-nhs-llm",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "I used ChatGPT and Gemini side-by-side for a month on Android, and only one behaved like a senior AI tool",
-        "title_en": "I used ChatGPT and Gemini side-by-side for a month on Android, and only one behaved like a senior AI tool",
-        "summary": "By Parth Shah Published Jun 7, 2026, 1:00 PM EDT Parth is a technology analyst and writer specializing in the comprehensive review and feature exploration of the Android ecosystem. His work focus on p",
-        "summary_en": "... Microsoft integrated an AI ... AI launches of the year? ... Correct! <strong>Microsoft relaunched Bing with an integrated AI chatbot powered by OpenAI technology in February 2023</strong>....",
-        "long_summary": "By Parth Shah Published Jun 7, 2026, 1:00 PM EDT Parth is a technology analyst and writer specializing in the comprehensive review and feature exploration of the Android ecosystem. His work focus on productivity apps and flagship devices, particularly Google Pixel and Samsung mobile hardware and software. He provides expert guidance on productivity software, system optimization, and the advanced functionalities that allow users to maximize their device's potential. His analyses are crucial resources for readers seeking to master complex operating system features and streamline their digital workflows. When he is not busy with technical analysis and software evaluation, Parth dedicates his time to watching K-dramas, studying mobile technology trends and the role of artificial intelligence. Sign in to your Android Police account If you listen to the big tech keynotes, the AI assistant on your phone is supposed to be a seamless extension of your brain. But if you actually try to use them to get real work done on Android, the reality is often a mixed bag. To see which app is genuinely ready for prime time, I spent the last 30 days forcing ChatGPT and Gemini to compete for my attention on Android. Quiz 8 Questions · Test Your Knowledge AI chatbots Trivia challenge From ChatGPT to Gemini — how well do you really know the world of AI chatbots? Chatbots Gemini History Tech Giants AI Models Begin 01 / 8 History Which company released ChatGPT to the public in November 2022? A Google B ",
-        "long_summary_en": "By Parth Shah Published Jun 7, 2026, 1:00 PM EDT Parth is a technology analyst and writer specializing in the comprehensive review and feature exploration of the Android ecosystem. His work focus on productivity apps and flagship devices, particularly Google Pixel and Samsung mobile hardware and software. He provides expert guidance on productivity software, system optimization, and the advanced functionalities that allow users to maximize their device's potential. His analyses are crucial resources for readers seeking to master complex operating system features and streamline their digital wo",
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/comparing-chatgpt-gemini-on-android.png?w=1600&h=900&fit=crop",
-        "source": "Androidpolice",
-        "url": "https://www.androidpolice.com/used-chatgpt-gemini-side-by-side-for-month-on-android-and-one-behaved-like-senior-ai-tool/",
         "date": "09 June 2026"
       }
     ],
