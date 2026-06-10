@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "10 June 2026 - 12:31",
+  "lastUpdate": "10 June 2026 - 13:02",
   "categories": {
     "general": [
+      {
+        "title": "Logitech’s Mobi Fold is a foldable travel mouse with an AI model to stop accidental clicks",
+        "title_en": "Logitech’s Mobi Fold is a foldable travel mouse with an AI model to stop accidental clicks",
+        "summary": "Logitech has launched the Mobi Fold, its first foldable mouse, aimed at hybrid workers who want a proper mouse on the road but leave it behind because it will not fit in the bag. The mouse folds to ne",
+        "summary_en": "Logitech has launched the Mobi Fold, its first foldable mouse, aimed at hybrid workers who want a proper mouse on the road but leave it behind because it will not fit in the bag. The mouse folds to ne",
+        "long_summary": "Logitech has launched the Mobi Fold, its first foldable mouse, aimed at hybrid workers who want a proper mouse on the road but leave it behind because it will not fit in the bag. The mouse folds to nearly half its size, and the fold is also the power switch: it turns on when opened […]\nThis story continues at The Next Web",
+        "long_summary_en": "Logitech has launched the Mobi Fold, its first foldable mouse, aimed at hybrid workers who want a proper mouse on the road but leave it behind because it will not fit in the bag. The mouse folds to nearly half its size, and the fold is also the power switch: it turns on when opened […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/Logitech-Mobi-Fold.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/logitech-mobi-fold-foldable-travel-mouse",
+        "date": "10 June 2026"
+      },
       {
         "title": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
         "title_en": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
@@ -168,18 +180,6 @@
         "image": "https://assets.esecurityplanet.com/uploads/2026/05/AI-developer.png?w=640",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/08/clawhub-security-signals-a-coding-guide-to-end-to-end-security-signal-analysis-and-verdict-classification-on-the-ai-skills-dataset/",
-        "date": "08 June 2026"
-      },
-      {
-        "title": "Apple’s WWDC 2026 App Store changes let independent developers bundle subscriptions together",
-        "title_en": "Apple’s WWDC 2026 App Store changes let independent developers bundle subscriptions together",
-        "summary": "Apple announced a sweeping set of changes to the App Store at WWDC 2026 on Monday, introducing cross-developer subscription bundles, group purchasing, enterprise volume licensing, and an AI-powered di",
-        "summary_en": "Apple announced a sweeping set of changes to the App Store at WWDC 2026 on Monday, introducing cross-developer subscription bundles, group purchasing, enterprise volume licensing, and an AI-powered di",
-        "long_summary": "Apple announced a sweeping set of changes to the App Store at WWDC 2026 on Monday, introducing cross-developer subscription bundles, group purchasing, enterprise volume licensing, and an AI-powered discovery system that recommends apps based on a user’s installed software. The updates represent the most significant structural changes to how developers sell and market apps since […]\nThis story continues at The Next Web",
-        "long_summary_en": "Apple announced a sweeping set of changes to the App Store at WWDC 2026 on Monday, introducing cross-developer subscription bundles, group purchasing, enterprise volume licensing, and an AI-powered discovery system that recommends apps based on a user’s installed software. The updates represent the most significant structural changes to how developers sell and market apps since […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/apple-app-store-wwdc-2026-developer-bundles-screen-time.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/apple-app-store-wwdc-2026-developer-bundles-screen-time",
         "date": "08 June 2026"
       }
     ],
