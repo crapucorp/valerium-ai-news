@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "10 June 2026 - 14:02",
+  "lastUpdate": "10 June 2026 - 14:33",
   "categories": {
     "general": [
+      {
+        "title": "TensorWave raises $350M led by AMD to build an Nvidia-free AI cloud",
+        "title_en": "TensorWave raises $350M led by AMD to build an Nvidia-free AI cloud",
+        "summary": "TensorWave, a cloud provider that runs its AI data centres on AMD chips rather than Nvidia’s, has raised $350M in a Series B round led by AMD and the hedge fund Magnetar Capital. The deal values the L",
+        "summary_en": "TensorWave, a cloud provider that runs its AI data centres on AMD chips rather than Nvidia’s, has raised $350M in a Series B round led by AMD and the hedge fund Magnetar Capital. The deal values the L",
+        "long_summary": "TensorWave, a cloud provider that runs its AI data centres on AMD chips rather than Nvidia’s, has raised $350M in a Series B round led by AMD and the hedge fund Magnetar Capital. The deal values the Las Vegas startup at $1.55bn. That is nearly four times the roughly $400M valuation it carried a year […]\nThis story continues at The Next Web",
+        "long_summary_en": "TensorWave, a cloud provider that runs its AI data centres on AMD chips rather than Nvidia’s, has raised $350M in a Series B round led by AMD and the hedge fund Magnetar Capital. The deal values the Las Vegas startup at $1.55bn. That is nearly four times the roughly $400M valuation it carried a year […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/tensorwave-logo.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/tensorwave-350m-series-b-amd-nvidia-rival",
+        "date": "10 June 2026"
+      },
       {
         "title": "Logitech’s Mobi Fold is a foldable travel mouse with an AI model to stop accidental clicks",
         "title_en": "Logitech’s Mobi Fold is a foldable travel mouse with an AI model to stop accidental clicks",
@@ -169,18 +181,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/china-295-billion-ai-data-centre-plan",
         "date": "09 June 2026"
-      },
-      {
-        "title": "ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset",
-        "title_en": "ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset",
-        "summary": "In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs,",
-        "summary_en": "In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs,",
-        "long_summary": "In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs, and severity labels. We measure how VirusTotal, static analysis, and SkillSpector overlap and disagree using Jaccard scores and Cohen's kappa. Finally, we combine SKILL.md text with scanner signals to train a logistic regression model for ClawScan verdicts.\nThe post ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset ",
-        "long_summary_en": "In this tutorial, we explore the ClawHub Security Signals dataset to see how scanners assess AI skills. We load the data from the Hugging Face Parquet conversion and inspect verdicts, scanner outputs, and severity labels. We measure how VirusTotal, static analysis, and SkillSpector overlap and disagree using Jaccard scores and Cohen's kappa. Finally, we combine SKILL.md text with scanner signals to train a logistic regression model for ClawScan verdicts.\nThe post ClawHub Security Signals: A Coding Guide to End-to-End Security Signal Analysis and Verdict Classification on the AI Skills Dataset ",
-        "image": "https://assets.esecurityplanet.com/uploads/2026/05/AI-developer.png?w=640",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/08/clawhub-security-signals-a-coding-guide-to-end-to-end-security-signal-analysis-and-verdict-classification-on-the-ai-skills-dataset/",
-        "date": "08 June 2026"
       }
     ],
     "image": [
