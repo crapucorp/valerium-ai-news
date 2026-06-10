@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10 June 2026 - 16:35",
+  "lastUpdate": "10 June 2026 - 17:05",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+        "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+        "summary": "The four major AI chatbots have each shipped significant updates in early 2026: <strong>OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7</strong>, xAI rolled out Grok 4.3 Beta, and Google c",
+        "summary_en": "The four major AI chatbots have each shipped significant updates in early 2026: <strong>OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7</strong>, xAI rolled out Grok 4.3 Beta, and Google c",
+        "long_summary": "The four major AI chatbots have each shipped significant updates in early 2026: <strong>OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7</strong>, xAI rolled out Grok 4.3 Beta, and Google continued refining Gemini 2.5 Pro with improved coding and ...",
+        "long_summary_en": "The four major AI chatbots have each shipped significant updates in early 2026: <strong>OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7</strong>, xAI rolled out Grok 4.3 Beta, and Google continued refining Gemini 2.5 Pro with improved coding and ...",
+        "image": "https://strapi.aws-us-east-2.albato.com/uploads/Grok_Chat_GPT_Gemini_Claude_A_Complete_Overview_c35f0d08bf.png",
+        "source": "Albato",
+        "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
+        "date": "10 June 2026"
+      },
+      {
         "title": "Poetic emerges from stealth with $50M from OpenAI to automate insurance underwriting and compliance",
         "title_en": "Poetic emerges from stealth with $50M from OpenAI to automate insurance underwriting and compliance",
         "summary": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwrit",
@@ -714,18 +726,6 @@
         "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/anthropic-says-mythos-is-too-dangerous-for-the-public-it-just-gave-150-more-organisations-access",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "It’s not FAANG anymore. It’s MANGOS.",
-        "title_en": "It’s not FAANG anymore. It’s MANGOS.",
-        "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to ",
-        "summary_en": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to ",
-        "long_summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-        "long_summary_en": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mango-crushing-fang.png?resize=1200,960",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
         "date": "09 June 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+      "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+      "source": "Albato",
+      "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
+      "date": "10 June 2026"
+    },
+    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -925,13 +932,6 @@
       "title_en": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
       "source": "Techtimes",
       "url": "https://www.techtimes.com/articles/318051/20260609/samsung-embraces-chatgpt-gemini-claude-groupwide-three-years-after-banning-public-ai-tools.htm",
-      "date": "10 June 2026"
-    },
-    {
-      "title": "How Claude Fable 5 compares to Google Gemini 3.5 Pro, OpenAI GPT 5.5 and Claude Mythos Preview in terms of performance- Moneycontrol.com",
-      "title_en": "How Claude Fable 5 compares to Google Gemini 3.5 Pro, OpenAI GPT 5.5 and Claude Mythos Preview in terms of performance- Moneycontrol.com",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/technology/how-claude-fable-5-compares-to-google-gemini-3-5-pro-openai-gpt-5-5-and-claude-mythos-preview-in-terms-of-performance-article-13946102.html",
       "date": "10 June 2026"
     }
   ]
