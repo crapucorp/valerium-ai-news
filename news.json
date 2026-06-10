@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "10 June 2026 - 23:44",
+  "lastUpdate": "11 June 2026 - 00:14",
   "categories": {
     "general": [
+      {
+        "title": "White House offers to trade state AI preemption for federal online safety laws in new deal with Congress",
+        "title_en": "White House offers to trade state AI preemption for federal online safety laws in new deal with Congress",
+        "summary": "The White House is negotiating with key senators to bundle federal preemption of state AI laws with three online safety bills, Axios reported. Senator Marsha Blackburn is leading the effort to finalis",
+        "summary_en": "The White House is negotiating with key senators to bundle federal preemption of state AI laws with three online safety bills, Axios reported. Senator Marsha Blackburn is leading the effort to finalis",
+        "long_summary": "The White House is negotiating with key senators to bundle federal preemption of state AI laws with three online safety bills, Axios reported. Senator Marsha Blackburn is leading the effort to finalise legislative text. The package would block state AI regulation for three years in exchange for passing the Kids Online Safety Act (KOSA), the […]\nThis story continues at The Next Web",
+        "long_summary_en": "The White House is negotiating with key senators to bundle federal preemption of state AI laws with three online safety bills, Axios reported. Senator Marsha Blackburn is leading the effort to finalise legislative text. The package would block state AI regulation for three years in exchange for passing the Kids Online Safety Act (KOSA), the […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/white-house-ai-preemption-kosa-no-fakes-deal.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/white-house-ai-preemption-kosa-no-fakes-deal",
+        "date": "11 June 2026"
+      },
       {
         "title": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
         "title_en": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
@@ -168,18 +180,6 @@
         "image": "https://media.thenextweb.com/2026/06/automat-it-scaling-ai-startups-aws.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/inside-automat-its-playbook-for-scaling-ai-startups-on-aws",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "How memory tools can make AI models worse",
-        "title_en": "How memory tools can make AI models worse",
-        "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "summary_en": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "long_summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "long_summary_en": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
         "date": "10 June 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
+        "title_en": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
+        "summary": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate th",
+        "summary_en": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate th",
+        "long_summary": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseline.\nThe post A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill ",
+        "long_summary_en": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseline.\nThe post A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill ",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/05/blog13-1-1-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
+        "date": "11 June 2026"
+      },
+      {
         "title": "OpenAI says China-linked accounts used ChatGPT to fuel opposition to US data centres",
         "title_en": "OpenAI says China-linked accounts used ChatGPT to fuel opposition to US data centres",
         "summary": "OpenAI said a cluster of ChatGPT accounts linked to China attempted to stir up local opposition to US data centres by posing as Americans and posting AI-generated content about rising electricity cost",
@@ -714,18 +726,6 @@
         "image": "https://strapi.aws-us-east-2.albato.com/uploads/Grok_Chat_GPT_Gemini_Claude_A_Complete_Overview_c35f0d08bf.png",
         "source": "Albato",
         "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Poetic emerges from stealth with $50M from OpenAI to automate insurance underwriting and compliance",
-        "title_en": "Poetic emerges from stealth with $50M from OpenAI to automate insurance underwriting and compliance",
-        "summary": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwrit",
-        "summary_en": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwrit",
-        "long_summary": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwriting to compliance and fraud checks. Its backers include OpenAI, Peter Thiel’s Founders Fund, and Kleiner Perkins. The company was founded by Markie Wagner, […]\nThis story continues at The Next Web",
-        "long_summary_en": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwriting to compliance and fraud checks. Its backers include OpenAI, Peter Thiel’s Founders Fund, and Kleiner Perkins. The company was founded by Markie Wagner, […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/04/OpenAI-lawsuite.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/poetic-openai-50m-enterprise-automation-underwriting",
         "date": "10 June 2026"
       }
     ],
