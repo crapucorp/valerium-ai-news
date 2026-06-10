@@ -1,7 +1,55 @@
 {
-  "lastUpdate": "09 June 2026 - 19:02",
+  "lastUpdate": "10 June 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
+        "title_en": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
+        "summary": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its",
+        "summary_en": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its",
+        "long_summary": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its schema, and build a manageable sample. We analyze languages, file extensions, repository frequency, and directory depth to understand the index structure. We then reconstruct raw GitHub URLs, fetch real source files, and estimate the token scale of the fetched code.\nThe post Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken app",
+        "long_summary_en": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its schema, and build a manageable sample. We analyze languages, file extensions, repository frequency, and directory depth to understand the index structure. We then reconstruct raw GitHub URLs, fetch real source files, and estimate the token scale of the fetched code.\nThe post Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken app",
+        "image": "https://research.nvidia.com/labs/adlr/images/nvidia-ai.jpg",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/09/building-a-code-dataset-pipeline-from-nvidia-nemotron-pretraining-code-v3-metadata-with-streaming-pandas-and-tiktoken/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
+        "title_en": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
+        "summary": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requ",
+        "summary_en": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requ",
+        "long_summary": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents […]\nThe post Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared appeared first on MarkTechPost.",
+        "long_summary_en": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents […]\nThe post Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared appeared first on MarkTechPost.",
+        "image": "https://localaimaster.com/_next/image?url=/og/best-ai-coding-tools-2025-comparison.webp&w=1920&q=85",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "How AI is powering the next wave of micro-SaaS entrepreneurs",
+        "title_en": "How AI is powering the next wave of micro-SaaS entrepreneurs",
+        "summary": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service c",
+        "summary_en": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service c",
+        "long_summary": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service companies often built by solo founders or tiny teams. What once required large engineering teams, significant funding, and long development cycles can now be achieved with AI-assisted tools, automation […]\nThis story continues at The Next Web",
+        "long_summary_en": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service companies often built by solo founders or tiny teams. What once required large engineering teams, significant funding, and long development cycles can now be achieved with AI-assisted tools, automation […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/ai-powering-micro-saas-entrepreneurs.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/ai-powering-micro-saas-entrepreneurs",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Nvidia partner Bizlink buys Blackstone’s Interplex data centre unit for $850 million",
+        "title_en": "Nvidia partner Bizlink buys Blackstone’s Interplex data centre unit for $850 million",
+        "summary": "Bizlink Holding, a Taiwanese manufacturer of cables, connectors, and power distribution systems, has agreed to buy the information and communications technology unit of Blackstone’s Interplex for $850",
+        "summary_en": "Bizlink Holding, a Taiwanese manufacturer of cables, connectors, and power distribution systems, has agreed to buy the information and communications technology unit of Blackstone’s Interplex for $850",
+        "long_summary": "Bizlink Holding, a Taiwanese manufacturer of cables, connectors, and power distribution systems, has agreed to buy the information and communications technology unit of Blackstone’s Interplex for $850 million in cash. The deal includes an additional $50 million earnout and is expected to close in the second half of 2026, CEO Felix Teng said at a […]\nThis story continues at The Next Web",
+        "long_summary_en": "Bizlink Holding, a Taiwanese manufacturer of cables, connectors, and power distribution systems, has agreed to buy the information and communications technology unit of Blackstone’s Interplex for $850 million in cash. The deal includes an additional $50 million earnout and is expected to close in the second half of 2026, CEO Felix Teng said at a […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/bizlink-interplex-850m-nvidia-data-center-acquisition.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/bizlink-interplex-850m-nvidia-data-center-acquisition",
+        "date": "10 June 2026"
+      },
       {
         "title": "The EU just ordered Meta to let rival AI assistants back onto WhatsApp within five days",
         "title_en": "The EU just ordered Meta to let rival AI assistants back onto WhatsApp within five days",
@@ -133,57 +181,21 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/apple-app-store-wwdc-2026-developer-bundles-screen-time",
         "date": "08 June 2026"
-      },
-      {
-        "title": "AI will make content infinite. Human taste will decide what matters.",
-        "title_en": "AI will make content infinite. Human taste will decide what matters.",
-        "summary": "Artificial intelligence is accelerating content creation at a pace few people could have imagined even a few years ago, yet the brands that earn lasting relevance in the years ahead will not be distin",
-        "summary_en": "Artificial intelligence is accelerating content creation at a pace few people could have imagined even a few years ago, yet the brands that earn lasting relevance in the years ahead will not be distin",
-        "long_summary": "Artificial intelligence is accelerating content creation at a pace few people could have imagined even a few years ago, yet the brands that earn lasting relevance in the years ahead will not be distinguished by how much content they produce. They will be distinguished by the quality of human judgment behind it. As AI expands […]\nThis story continues at The Next Web",
-        "long_summary_en": "Artificial intelligence is accelerating content creation at a pace few people could have imagined even a few years ago, yet the brands that earn lasting relevance in the years ahead will not be distinguished by how much content they produce. They will be distinguished by the quality of human judgment behind it. As AI expands […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/ai-content-infinite-human-taste-nathan-simpson.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/ai-will-make-content-infinite-human-taste-will-decide-what-matters",
-        "date": "08 June 2026"
-      },
-      {
-        "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
-        "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
-        "summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "summary_en": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
-        "long_summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "long_summary_en": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/anthropic-ipo-ai-claude-enterprise-funding-investment-business-strategy-artificial-intelligence-1024x768.jpg",
-        "source": "Artificialintelligence-News",
-        "url": "https://www.artificialintelligence-news.com/",
-        "date": "08 June 2026"
-      },
-      {
-        "title": "AI (artificial intelligence) | The Guardian",
-        "title_en": "AI (artificial intelligence) | The Guardian",
-        "summary": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 8 June 2026 Brief letters Let’s call it what it is: antisocial media A mother’s work ha",
-        "summary_en": "<strong>Fifa will expand the use of AI at the World Cup to reduce the amount of abusive messages that teams and players are exposed to on social media</strong>",
-        "long_summary": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 8 June 2026 Brief letters Let’s call it what it is: antisocial media A mother’s work has enormous value double quotation mark If Australian datacentres are going to power the AI revolution, we deserve a fair return David Pocock Stock markets fall as concerns persist over tech firms at heart of AI boom Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’ Majority of US’s new AI datacenters to be built on drought-hit land double quotation mark Yes, Michelle Obama knows a lot about resilience. She still shouldn’t be lecturing gen Z about it Emma Beddington double quotation mark Bernie Sanders’ AI sovereign wealth fund plan is good. But we think this is better Nathan E Sanders and Bruce Schneier Aviva detects record £230m in bogus insurance claims as use of AI rises Silicon Valley including Meta has embraced Maga politics, says Nick Clegg double quotation mark Writing is an exercise in the art of persuasion. If we use AI we lose the art Alan Finkel 7 June 2026 Billions spent and hypothetical returns: the AI boom explained with six charts Expenditure is growing fast and consumer take-up accelerating. But alarm bells are sounding ‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism Backlash against AI is taking an extremist turn, following in the footsteps of earlier techno-pessimist militants Scam ",
-        "long_summary_en": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 8 June 2026 Brief letters Let’s call it what it is: antisocial media A mother’s work has enormous value double quotation mark If Australian datacentres are going to power the AI revolution, we deserve a fair return David Pocock Stock markets fall as concerns persist over tech firms at heart of AI boom Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’ Majority of US’s new AI datacenters to be built on drought-hit land double quotation mark Yes, M",
-        "image": "https://www.inma.org/files/images/blogs/feature_photos/Big_Data_OCT25_Cecilia_High_Trust-1800.jpg",
-        "source": "Theguardian",
-        "url": "https://www.theguardian.com/technology/artificialintelligenceai",
-        "date": "08 June 2026"
-      },
-      {
-        "title": "The growing divide between surface-level AI adoption and meaningful impact across safety-critical industries",
-        "title_en": "The growing divide between surface-level AI adoption and meaningful impact across safety-critical industries",
-        "summary": "Artificial intelligence has rapidly moved from experimentation to mainstream business adoption. Around 78% of organizations reported using AI in 2025, reflecting how quickly the technology has become ",
-        "summary_en": "Artificial intelligence has rapidly moved from experimentation to mainstream business adoption. Around 78% of organizations reported using AI in 2025, reflecting how quickly the technology has become ",
-        "long_summary": "Artificial intelligence has rapidly moved from experimentation to mainstream business adoption. Around 78% of organizations reported using AI in 2025, reflecting how quickly the technology has become embedded across business operations. Yet, only 25% of organizations said most of their AI initiatives achieved their expected return on investment, highlighting a growing gap between adoption and measurable impact. Against that […]\nThis story continues at The Next Web",
-        "long_summary_en": "Artificial intelligence has rapidly moved from experimentation to mainstream business adoption. Around 78% of organizations reported using AI in 2025, reflecting how quickly the technology has become embedded across business operations. Yet, only 25% of organizations said most of their AI initiatives achieved their expected return on investment, highlighting a growing gap between adoption and measurable impact. Against that […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/BIS-Safety-Software-CEO-Dan-MacDonald.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/ai-adoption-divide-safety-critical-dan-macdonald",
-        "date": "08 June 2026"
       }
     ],
     "image": [
+      {
+        "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+        "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+        "summary": "Updated 10 June 2026 at 10:48 IST Anthropic unveils Claude Fable 5, outperforming GPT‑5.5 and Gemini 3.1 Pro in coding and reasoning benchmarks, with Claude Mythos 5 for experts. info desk Tech News 3",
+        "summary_en": "<strong>Claude Fable 5</strong> Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Image: Claude · Anthropic has unveiled <strong>Claude Fable 5</strong>, its newest AI ",
+        "long_summary": "Updated 10 June 2026 at 10:48 IST Anthropic unveils Claude Fable 5, outperforming GPT‑5.5 and Gemini 3.1 Pro in coding and reasoning benchmarks, with Claude Mythos 5 for experts. info desk Tech News 3 min read Follow : Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Image: Claude Anthropic has unveiled Claude Fable 5, its newest AI model for general users, positioning it as a strong challenger to OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro in the fast-moving artificial intelligence race. The company says Claude Fable 5 is its most powerful publicly available model so far, delivering major improvements in coding, research, reasoning, vision tasks, and tool usage. Alongside it, Anthropic has also introduced Claude Mythos 5, a more advanced version that is currently limited to selected cybersecurity experts and research partners. The latest launch highlights how competition among leading AI companies is becoming increasingly intense, with each firm racing to build smarter and more capable models. According to benchmark results shared by Anthropic, Claude Fable 5 outperformed several rival AI models in key tests. In a coding benchmark known as SWE-Bench Pro, Claude Fable 5 scored 80.3 percent, significantly ahead of GPT 5.5’s 58.6 percent and Gemini 3.1 Pro’s 54.2 percent. Advertisement The model also showed strong performance in software engineering tasks. On the FrontierCode Diamond benchmark, Claude Fable 5 achieved 29.3 percen",
+        "long_summary_en": "Updated 10 June 2026 at 10:48 IST Anthropic unveils Claude Fable 5, outperforming GPT‑5.5 and Gemini 3.1 Pro in coding and reasoning benchmarks, with Claude Mythos 5 for experts. info desk Tech News 3 min read Follow : Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Image: Claude Anthropic has unveiled Claude Fable 5, its newest AI model for general users, positioning it as a strong challenger to OpenAI’s GPT 5.5 and Google’s Gemini 3.1 Pro in the fast-moving artificial intelligence race. The company says Claude Fable 5 is its most powerful publ",
+        "image": "https://img.republicworld.com/all_images/2026/04/anthropics-claude-code-leak-sparks-panic-ai-tools-source-code-reportedly-exposed-online-again-1775020524866-1280x720.webp",
+        "source": "Republicworld",
+        "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
+        "date": "10 June 2026"
+      },
       {
         "title": "Apple’s best AI idea looks a lot like vibe coding",
         "title_en": "Apple’s best AI idea looks a lot like vibe coding",
@@ -351,21 +363,33 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/giraffe360-10m-series-b",
         "date": "26 March 2026"
-      },
-      {
-        "title": "Zara Larsson fans rioted after the singer supported AI-generated content. Now her controversial take is going viral",
-        "title_en": "Zara Larsson fans rioted after the singer supported AI-generated content. Now her controversial take is going viral",
-        "summary": "Pop star Zara Larsson is the internet’s newest “it” girl. After a wave of viral hits, including her latest album’s title track, “Midnight Sun,” and her feature on PinkPantheress’s “Stateside” remix, t",
-        "summary_en": "<strong>She first reposted an image from the account Ai Fruit Stories</strong>, a page posting AI animations of—you guessed it—drama between anthropomorphic foods. Larsson then posted a selfie with th",
-        "long_summary": "Pop star Zara Larsson is the internet’s newest “it” girl. After a wave of viral hits, including her latest album’s title track, “Midnight Sun,” and her feature on PinkPantheress’s “Stateside” remix, the Swedish singer cemented herself as the next big thing in pop music. But fame doesn’t come without controversy, as Larsson learned when she revealed to her fan base that she uses generative AI . The discourse began when Larsson posted about watching AI-generated content on TikTok . She first reposted an image from the account Ai Fruit Stories , a page posting AI animations of—you guessed it—drama between anthropomorphic foods. Larsson then posted a selfie with the caption: “Sorry I can’t hang out today, I gotta see what’s happening with choclatina and strawberto,” referring to that page’s main storyline: a chocolate bar named Chocolatina who’s seducing a strawberry named Strawberto. Subscribe to the Daily newsletter. Fast Company's trending stories delivered to you every day Privacy Policy | Fast Company Newsletters oh she serious about this https://t.co/PdWYhyEiQB pic.twitter.com/7AAfvOZ5Jm — saragee (@cocoxel) March 19, 2026 The situation may sound silly but it riled up Larsson’s fandom, who called her out for apparently supporting generative AI despite its harmful environmental impact , as well as for the damage so-called “AI slop” can do to creative industries. Larsson returned to TikTok to address the controversy in a since-deleted video . “I am just a girl with a phone at",
-        "long_summary_en": "Pop star Zara Larsson is the internet’s newest “it” girl. After a wave of viral hits, including her latest album’s title track, “Midnight Sun,” and her feature on PinkPantheress’s “Stateside” remix, the Swedish singer cemented herself as the next big thing in pop music. But fame doesn’t come without controversy, as Larsson learned when she revealed to her fan base that she uses generative AI . The discourse began when Larsson posted about watching AI-generated content on TikTok . She first reposted an image from the account Ai Fruit Stories , a page posting AI animations of—you guessed it—dram",
-        "image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/03/p-91512848-Zara-Larsson-AI.jpg",
-        "source": "Fastcompany",
-        "url": "https://www.fastcompany.com/91512848/zara-larsson-singer-supports-generative-ai-content-videos-fans-riot-controversial-take-going-viral?partner=rss",
-        "date": "21 March 2026"
       }
     ],
     "video": [
+      {
+        "title": "Seedance AI vs Sora vs Runway vs Veo: Which AI Video Generator Is Best in 2026?",
+        "title_en": "Seedance AI vs Sora vs Runway vs Veo: Which AI Video Generator Is Best in 2026?",
+        "summary": "Share Facebook Twitter Pinterest Reddit WhatsApp Email Artificial intelligence has completely transformed video production. What once required expensive cameras, production teams, actors, editors, and",
+        "summary_en": "The current generation of tools is moving beyond simple text-to-video generation toward full creative production environments that support text, images, video references, and audio inputs. Industry an",
+        "long_summary": "Share Facebook Twitter Pinterest Reddit WhatsApp Email Artificial intelligence has completely transformed video production. What once required expensive cameras, production teams, actors, editors, and weeks of work can now be accomplished with a simple text prompt and a few minutes of processing time. In 2026, four names dominate the AI video generation landscape: Seedance AI, Sora, Runway, and Veo. Each platform offers unique strengths, from cinematic storytelling and advanced motion control to rapid content generation for marketers and creators. The challenge is deciding which AI video generator is the right choice for your workflow. In this comprehensive comparison, we’ll evaluate Seedance AI, Sora, Runway, and Veo across the factors that matter most: Video quality Speed Features Pricing User experience Commercial usage rights Marketing applications Overall performance By the end, you’ll know which platform is best for content creators, marketers, businesses, filmmakers, and agencies in 2026. The Evolution of AI Video Generation AI video technology has advanced rapidly over the past two years. Modern systems can now generate realistic motion, maintain character consistency, create cinematic camera movements, and even synchronize audio with visuals. The current generation of tools is moving beyond simple text-to-video generation toward full creative production environments that support text, images, video references, and audio inputs. Industry analysts increasingly view mul",
+        "long_summary_en": "Share Facebook Twitter Pinterest Reddit WhatsApp Email Artificial intelligence has completely transformed video production. What once required expensive cameras, production teams, actors, editors, and weeks of work can now be accomplished with a simple text prompt and a few minutes of processing time. In 2026, four names dominate the AI video generation landscape: Seedance AI, Sora, Runway, and Veo. Each platform offers unique strengths, from cinematic storytelling and advanced motion control to rapid content generation for marketers and creators. The challenge is deciding which AI video gener",
+        "image": "https://nerdbot.com/wp-content/uploads/2026/06/pexels-pavel-danilyuk-8294822-scaled.jpg",
+        "source": "Nerdbot",
+        "url": "https://nerdbot.com/2026/06/09/seedance-ai-vs-sora-vs-runway-vs-veo-which-ai-video-generator-is-best-in-2026/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+        "title_en": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+        "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+        "summary_en": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+        "long_summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+        "long_summary_en": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.40.18-AM.png?resize=1200,871",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+        "date": "10 June 2026"
+      },
       {
         "title": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy",
         "title_en": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy",
@@ -521,33 +545,93 @@
         "source": "Tech-Insider",
         "url": "https://tech-insider.org/openai-sora-shutdown-disney-deal-ai-video-2026/",
         "date": "05 June 2026"
-      },
-      {
-        "title": "10 Best Sora AI Alternatives in 2026",
-        "title_en": "10 Best Sora AI Alternatives in 2026",
-        "summary": "our prioOpenAI’s Sora made waves, but after the March 2026 shutdown, you probably need a new go-to for AI video. The good news: the Sora AI alternatives scene this year is stacked. You have more contr",
-        "summary_en": "If you want cinematic footage and Sora felt too floaty, test Luma. It’s also great at turning a single photo into a slow, dramatic reveal. Many filmmakers now pair Luma for shots with Runway for edits",
-        "long_summary": "our prioOpenAI’s Sora made waves, but after the March 2026 shutdown, you probably need a new go-to for AI video. The good news: the Sora AI alternatives scene this year is stacked. You have more control, better pricing, and tools built for specific jobs like YouTube shorts, client ads, or full films. I tested the top text-to-video and image-to-video AI tools for cinematic footage so you can skip the trial and error. You might need an app like Sora for text-to-video or freemium AI video generators with daily credits. Either way, this list covers you. Let’s get you creating again. 1. Kling AI If Sora’s short clips frustrated you, Kling AI 3.0 fixes that. You can generate up to two-minute videos that actually hold together. The motion stays logical and faces don’t morph mid shot. Kling shines with complex camera prompts. Ask for “drone push in, orbit left, then tilt up” and you get it. That makes Kling one of the top Sora AI alternatives for agencies that need multi scene projects and client revisions. You spend less time fixing glitches and more time directing. Who should use it? Filmmakers, ad teams, and anyone tired of five second limits. App Links : Web App | iOS | Android Pricing : Kling AI uses a credit-based pricing model. Paid monthly subscriptions range from $6.99 to $127.99, while a Free Plan provides 66 daily credits. Higher tier tiers include expanded credits, fast-track queues, 1080p generation, and commercial rights. 2. Google Veo + Flow Google Veo 3.1 paired with ",
-        "long_summary_en": "our prioOpenAI’s Sora made waves, but after the March 2026 shutdown, you probably need a new go-to for AI video. The good news: the Sora AI alternatives scene this year is stacked. You have more control, better pricing, and tools built for specific jobs like YouTube shorts, client ads, or full films. I tested the top text-to-video and image-to-video AI tools for cinematic footage so you can skip the trial and error. You might need an app like Sora for text-to-video or freemium AI video generators with daily credits. Either way, this list covers you. Let’s get you creating again. 1. Kling AI If",
-        "image": "https://rigorousthemes.com/blog/wp-content/uploads/2026/06/aaaii.jpg",
-        "source": "Rigorousthemes",
-        "url": "https://rigorousthemes.com/blog/best-sora-ai-alternatives/",
-        "date": "03 June 2026"
-      },
-      {
-        "title": "The 17 best AI video generators in 2026 | Zapier",
-        "title_en": "The 17 best AI video generators in 2026 | Zapier",
-        "summary": "We independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission. Learn more . Consuming video is easy. Producing good vid",
-        "summary_en": "Firefly Standard at $9.99/month for 2,000 generative credits, with access to all AI tools and partner video models. IP indemnification requires buying the appropriate entitlement. Beyond these top opt",
-        "long_summary": "We independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission. Learn more . Consuming video is easy. Producing good video is not. Putting together a script, getting all the footage, and editing everything to perfection—or as close as possible—can eat up enormous chunks of your time. As it does for everything right now, AI has a few solutions to slash the time it takes to go from idea to MP4. I went in search of the best AI tools for creating videos, and as it turns out, there are already a ton of amazing options. From smart video editing software to generative text-to-video apps, there are tools that will help you do whatever you want: running your own YouTube channel, creating more engaging clips for social media, or repurposing content to keep all your business's online channels fresh. After almost a month of testing, here are my picks this year for the best AI video generators. The best AI video creators The best AI video generators Best for creating original video from prompts or images Google Veo for reliable, consistent results Runway for film-making Luma Dream Machine for brainstorming with AI LTX Studio for extreme creative control Adobe Firefly for commercially-safe outputs Other AI video generators to watch The best AI video editors Best for editing existing footage, working faster, or repurposing content Descript for editing video by editing the script Wondershare Filmora for polishing",
-        "long_summary_en": "We independently review every app we recommend in our best apps lists. When you click some of the links on this page, we may earn a commission. Learn more . Consuming video is easy. Producing good video is not. Putting together a script, getting all the footage, and editing everything to perfection—or as close as possible—can eat up enormous chunks of your time. As it does for everything right now, AI has a few solutions to slash the time it takes to go from idea to MP4. I went in search of the best AI tools for creating videos, and as it turns out, there are already a ton of amazing options. ",
-        "image": "https://images.ctfassets.net/lzny33ho1g45/1S2b2IzWORxviPHYEi4s38/d9acb3053b694822eae67d8659da7808/ai-video-editors-hero.jpg",
-        "source": "Zapier",
-        "url": "https://zapier.com/blog/best-ai-video-generator/",
-        "date": "03 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
+        "title_en": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
+        "summary": "Amazon Considers Stargate Hard Reboot: Canon of 25 TV Years May Be Erased",
+        "summary_en": "<strong>Samsung is rolling out Google&#x27;s Gemini, OpenAI&#x27;s ChatGPT, and Anthropic&#x27;s Claude across all affiliates this month</strong>.",
+        "long_summary": "Amazon Considers Stargate Hard Reboot: Canon of 25 TV Years May Be Erased",
+        "long_summary_en": "Amazon Considers Stargate Hard Reboot: Canon of 25 TV Years May Be Erased",
+        "image": "https://d.techtimes.com/en/full/466354/logo-samsung-electronics.jpg",
+        "source": "Techtimes",
+        "url": "https://www.techtimes.com/articles/318051/20260609/samsung-embraces-chatgpt-gemini-claude-groupwide-three-years-after-banning-public-ai-tools.htm",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Mic",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Microsoft MiniMax Google Alibaba Cloud / Qwen Team xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI Jun 9, 2026 · 1 release Claude Fable 5 Release Proprietary Anthropic • 1d ago Jun 5, 2026 · 1 release U2 Release Proprietary Unisound • 5d ago Jun 2, 2026 · 2 release s MAI-Code-1-Flash Fast Proprietary Microsoft • 1w ago MAI-Thinking-1 Reasoning Proprietary Microsoft • 1w ago Jun 1, 2026 · 1 release MiniMax M3 Lightweight Open Source MiniMax • 1w ago May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 1w ago May 23, 2026 · 1 release Gemma 4 12B Unified Release Open Source Google • 2w ago May 19, 2026 · 1 release Gemini 3.5 Flash Lightweight Proprietary Google • 3w ago 1 – 8 of 312 1 2 3 4 5 6 7 Last 30 days Models that got better Worse 0 Better 2 Sigma-normalized vs. each model's baseline Gemini 3.1 Flash Image Google · 3mo old +2.42σ now +4.67σ 101 votes · 1 arena Claude Opus 4.6 Anthropic · 4mo old +2.42σ now +4.36σ 146 v",
+        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Microsoft MiniMax Google Alibaba Cloud / Qwen Team xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
+        "title_en": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
+        "summary": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gem",
+        "summary_en": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gem",
+        "long_summary": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.\nThe post Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API appeared first on MarkTechPost.",
+        "long_summary_en": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.\nThe post Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API appeared first on MarkTechPost.",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/gemini-35-live-translate-104231805-1x1.png?VersionId=BwwqYQZAN1igw3OnE0MeGp_iJjPhfQ56&size=80:80",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
+        "title_en": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
+        "summary": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: S",
+        "summary_en": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: S",
+        "long_summary": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier appeared first on MarkTechPost.",
+        "long_summary_en": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier appeared first on MarkTechPost.",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Anthropic releases its first Mythos-class model Claude Fable",
+        "title_en": "Anthropic releases its first Mythos-class model Claude Fable",
+        "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in softwa",
+        "summary_en": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in softwa",
+        "long_summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex. Fable 5 […]",
+        "long_summary_en": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in software engineering, knowledge work, and vision,\" with its lead over other models growing as tasks become longer and more complex. Fable 5 […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+        "title_en": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+        "summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to",
+        "summary_en": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to",
+        "long_summary": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I […]",
+        "long_summary_en": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "title_en": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "summary_en": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "long_summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "long_summary_en": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/JustinErnest_TechCrunch.jpg?resize=1200,675",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+        "date": "10 June 2026"
+      },
       {
         "title": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
         "title_en": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
@@ -643,93 +727,21 @@
         "source": "Androidpolice",
         "url": "https://www.androidpolice.com/used-chatgpt-gemini-side-by-side-for-month-on-android-and-one-behaved-like-senior-ai-tool/",
         "date": "09 June 2026"
-      },
-      {
-        "title": "ChatGPT maker OpenAI files for IPO, joining Anthropic and SpaceX in race to go public | Euronews",
-        "title_en": "ChatGPT maker OpenAI files for IPO, joining Anthropic and SpaceX in race to go public | Euronews",
-        "summary": "By Doloresz Katanich &nbspwith AP Published on 09/06/2026 - 7:07 GMT+2 Share Comments Share Facebook Twitter Flipboard Send Reddit Linkedin Messenger Telegram VK Bluesky Threads Whatsapp OpenAI filed ",
-        "summary_en": "&quot;We expect it to leak so we&#x27;re just announcing it,&quot; OpenAI said in a statement. &quot;We have not decided on timing yet; it may be a while because there are things we want to do that ar",
-        "long_summary": "By Doloresz Katanich &nbspwith AP Published on 09/06/2026 - 7:07 GMT+2 Share Comments Share Facebook Twitter Flipboard Send Reddit Linkedin Messenger Telegram VK Bluesky Threads Whatsapp OpenAI filed preliminary paperwork that would open the door to it becoming a publicly traded company, the third in a powerhouse trio of artificial intelligence companies racing to Wall Street debuts. OpenAI, the company behind ChatGPT, has filed confidential preliminary paperwork with the US Securities and Exchange Commission (SEC), taking a key step towards a potential stock market listing. ADVERTISEMENT ADVERTISEMENT The San Francisco-based artificial intelligence company announced the filing on Monday, becoming the latest major AI firm to move closer to an initial public offering (IPO). \"We expect it to leak so we're just announcing it,\" OpenAI said in a statement. \"We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company. But it's a complicated set of tradeoffs, and this gives us the option to go public sooner if that ends up being best.\" The move follows rival Anthropic's announcement on 1 June that it is also pursuing an IPO. Both companies join Elon Musk's SpaceX, which has begun an IPO roadshow while positioning itself as an AI-focused space company. Related World's most valuable AI start-up Anthropic files for IPO: Five things to know The €3trn question: Can markets handle SpaceX, OpenAI and Anthropic all ",
-        "long_summary_en": "By Doloresz Katanich &nbspwith AP Published on 09/06/2026 - 7:07 GMT+2 Share Comments Share Facebook Twitter Flipboard Send Reddit Linkedin Messenger Telegram VK Bluesky Threads Whatsapp OpenAI filed preliminary paperwork that would open the door to it becoming a publicly traded company, the third in a powerhouse trio of artificial intelligence companies racing to Wall Street debuts. OpenAI, the company behind ChatGPT, has filed confidential preliminary paperwork with the US Securities and Exchange Commission (SEC), taking a key step towards a potential stock market listing. ADVERTISEMENT ADVE",
-        "image": "https://images.euronews.com/articles/stories/09/61/76/29/1200x675_cmsv2_89546885-5a57-5ec4-9a15-6885b5dd4580-9617629.jpg",
-        "source": "Euronews",
-        "url": "https://www.euronews.com/business/2026/06/09/chatgpt-maker-openai-files-for-ipo-joining-anthropic-and-spacex-in-race-to-go-public",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "OpenAI files for IPO, following Anthropic",
-        "title_en": "OpenAI files for IPO, following Anthropic",
-        "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted ",
-        "summary_en": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted ",
-        "long_summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. […]",
-        "long_summary_en": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "OpenAI files confidentially for IPO, following Anthropic",
-        "title_en": "OpenAI files confidentially for IPO, following Anthropic",
-        "summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-        "summary_en": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-        "long_summary": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-        "long_summary_en": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-        "title_en": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
-        "summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-        "summary_en": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-        "long_summary": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-        "long_summary_en": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/07/Worldcoin-Project-Co-founders-Alex-Blania-L-and-Sam-Altman-R.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "Best AI 2026: Prediction Market Odds for Claude, Gemini & GPT",
-        "title_en": "Best AI 2026: Prediction Market Odds for Claude, Gemini & GPT",
-        "summary": "It could well pull ahead of Claude before the end of this year. <strong>OpenAI has climbed back up the leaderboard, thanks to the very recent launch of GPT-5.5</strong>. The launch came just weeks aft",
-        "summary_en": "It could well pull ahead of Claude before the end of this year. <strong>OpenAI has climbed back up the leaderboard, thanks to the very recent launch of GPT-5.5</strong>. The launch came just weeks aft",
-        "long_summary": "It could well pull ahead of Claude before the end of this year. <strong>OpenAI has climbed back up the leaderboard, thanks to the very recent launch of GPT-5.5</strong>. The launch came just weeks after Anthropic revealed Claude Mythos Preview.",
-        "long_summary_en": "It could well pull ahead of Claude before the end of this year. <strong>OpenAI has climbed back up the leaderboard, thanks to the very recent launch of GPT-5.5</strong>. The launch came just weeks after Anthropic revealed Claude Mythos Preview.",
-        "image": "https://img.covers.com/cms/covers/7249c744-a9b7-42a0-bbe7-f24c218634cf.JPG",
-        "source": "Covers",
-        "url": "https://www.covers.com/entertainment/best-ai-prediction-markets",
-        "date": "08 June 2026"
-      },
-      {
-        "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
-        "title_en": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
-        "summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 8 minutes ago · 10:27 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic ext",
-        "summary_en": "<strong>Anthropic opened April at 54% because Claude Opus 4.6 is the incumbent — it holds Arena #1 at 1506 Elo with a large gap over Gemini 3 Pro. Google sits at 24% partly because Gemini 3.1 Pro laun",
-        "long_summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 8 minutes ago · 10:27 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic extended its lead on the AI model leaderboard last week with back-to-back releases: Claude Opus 4.7 on April 16, which pushed the company to the top of the Artificial Analysis Intelligence Index at 57, and Claude Design a day later, an AI design tool that sent Figma, Adobe, Wix, and GoDaddy shares down 2-4% on the news. xAI shipped Grok 4.3 Beta to SuperGrok Heavy subscribers the same week but without Arena-level impact. Polymarket now prices Anthropic at 100.0% to hold the best LLM spot through April 30, with $0 in cumulative volume on the April market. Our cross-platform odds for this month's \"Best AI Model by Company\" market aggregates live probability blended from Kalshi and Polymarket. DeFi Rate LLM prediction data is updated every 30 minutes. Share X Reddit Email Facebook LinkedIn % American Decimal Fractional Largest Spread 0.00% Current Favorite 100.0% claude-opus-4-6-thinking ↑ +29.5% 24H Volume (Share) $0 K: — P: — Momentum Leader ↑ +29.5% claude-opus-4-6-thinking YTD change Current Odds Snapshot Current probabilities across platforms with liquidity indicators Sort: Aggregate Spread Volume A–Z Percentage (%) American (+/-) Decimal (1.00) Fractional (1/1) CO4 claude-opus-4-6-thinking Vol $0 Spread — Agg 100.0% ↑ +29.5% K 100.0% Kalshi 100.0% Vol $0 0–100¢ Trade Now WAH Will",
-        "long_summary_en": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 8 minutes ago · 10:27 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic extended its lead on the AI model leaderboard last week with back-to-back releases: Claude Opus 4.7 on April 16, which pushed the company to the top of the Artificial Analysis Intelligence Index at 57, and Claude Design a day later, an AI design tool that sent Figma, Adobe, Wix, and GoDaddy shares down 2-4% on the news. xAI shipped Grok 4.3 Beta to SuperGrok Heavy subscribers the same week but withou",
-        "image": "https://defirate.com/wp-content/uploads/2026/02/Who-Will-Have-Best-AI-Model-Odds.png",
-        "source": "Defirate",
-        "url": "https://defirate.com/prediction-markets/best-ai-model-odds/",
-        "date": "08 June 2026"
-      },
-      {
-        "title": "Reuters Tech News | Today's Latest Technology News | Reuters",
-        "title_en": "Reuters Tech News | Today's Latest Technology News | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "BusinesscategoryBlacklisted AI company Anthropic, White House ease tensions ahead of IPO, sources say",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://reutersagency.com/hs-fs/hubfs/RA%20Image%20Bank/Main%20Images/Medium/reuters-global-news-agency-content-japan-robot-1000px.webp?width=1000&height=667&name=reuters-global-news-agency-content-japan-robot-1000px.webp",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/",
-        "date": "08 June 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Hey, Siri, here’s what I actually want from AI",
+        "title_en": "Hey, Siri, here’s what I actually want from AI",
+        "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+        "summary_en": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+        "long_summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+        "long_summary_en": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1139080118.jpg?resize=1200,801",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+        "date": "10 June 2026"
+      },
       {
         "title": "The UK just signed an AI deal with ElevenLabs to make government services accessible in any language and any voice",
         "title_en": "The UK just signed an AI deal with ElevenLabs to make government services accessible in any language and any voice",
@@ -897,18 +909,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/friending-app-loneliness-real-world-friendships",
         "date": "26 March 2026"
-      },
-      {
-        "title": "Why this battery company is pivoting to AI",
-        "title_en": "Why this battery company is pivoting to AI",
-        "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t",
-        "summary_en": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is t",
-        "long_summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of…",
-        "long_summary_en": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of…",
-        "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/MU-closed-loop-autonomous-lab.jpg?resize=1200,600",
-        "source": "mit_tech",
-        "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
-        "date": "25 March 2026"
       }
     ]
   },
@@ -921,18 +921,18 @@
       "date": "05 June 2026"
     },
     {
-      "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-      "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-      "source": "Etvbharat",
-      "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
-      "date": "29 March 2026"
+      "title": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
+      "title_en": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
+      "source": "Techtimes",
+      "url": "https://www.techtimes.com/articles/318051/20260609/samsung-embraces-chatgpt-gemini-claude-groupwide-three-years-after-banning-public-ai-tools.htm",
+      "date": "10 June 2026"
     },
     {
-      "title": "I used ChatGPT and Gemini side-by-side for a month on Android, and only one behaved like a senior AI tool",
-      "title_en": "I used ChatGPT and Gemini side-by-side for a month on Android, and only one behaved like a senior AI tool",
-      "source": "Androidpolice",
-      "url": "https://www.androidpolice.com/used-chatgpt-gemini-side-by-side-for-month-on-android-and-one-behaved-like-senior-ai-tool/",
-      "date": "09 June 2026"
+      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "10 June 2026"
     }
   ]
 }
