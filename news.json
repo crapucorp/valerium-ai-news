@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "10 June 2026 - 21:11",
+  "lastUpdate": "10 June 2026 - 21:42",
   "categories": {
     "general": [
+      {
+        "title": "Artificial Intelligence News -- ScienceDaily",
+        "title_en": "Artificial Intelligence News -- ScienceDaily",
+        "summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or ",
+        "summary_en": "May 18, 2026  <strong>Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy</strong>. The breakthrough may help rep",
+        "long_summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... This New Chip Could Slash Data Center Energy Waste Apr. 10, 2026 Â A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever ... This New Chip Survives 1300Â°F (700Â°C) and Could Change AI Forever Apr. 7, 2026 Â A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronicsâ biggest limits. Built from an unusual stack ... AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy Apr. 5, 2026 Â AI is consuming staggering amounts of energyâalready over 10% of U.S. electricityâand the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that ... DNA Robots Could Deliver Drugs and Hunt Viruses Inside Your Body Mar. 31, 2026 Â DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and build molecular-scale devices. By borrowing ideas from traditional robotics and combining ... AI-Powered Robot Learns How to Harvest Tomatoes More Efficiently Mar. 18, 2026 Â A new tomato-picki",
+        "long_summary_en": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... This New Chip Could Slash Data Center Energy Waste Apr. 10, 2026 Â A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever ... This New Chip Survives 1300Â°F (700Â°C) and Cou",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "source": "Sciencedaily",
+        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "date": "10 June 2026"
+      },
       {
         "title": "AI News & Artificial Intelligence | TechCrunch",
         "title_en": "AI News & Artificial Intelligence | TechCrunch",
@@ -168,18 +180,6 @@
         "image": "https://localaimaster.com/_next/image?url=/og/best-ai-coding-tools-2025-comparison.webp&w=1920&q=85",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "How AI is powering the next wave of micro-SaaS entrepreneurs",
-        "title_en": "How AI is powering the next wave of micro-SaaS entrepreneurs",
-        "summary": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service c",
-        "summary_en": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service c",
-        "long_summary": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service companies often built by solo founders or tiny teams. What once required large engineering teams, significant funding, and long development cycles can now be achieved with AI-assisted tools, automation […]\nThis story continues at The Next Web",
-        "long_summary_en": "Artificial intelligence is reshaping how software businesses are built, launched, and scaled. In particular, it is driving a surge in micro-SaaS startups, small, highly focused software-as-a-service companies often built by solo founders or tiny teams. What once required large engineering teams, significant funding, and long development cycles can now be achieved with AI-assisted tools, automation […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/ai-powering-micro-saas-entrepreneurs.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/ai-powering-micro-saas-entrepreneurs",
         "date": "10 June 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "OpenAI plans stock market debut, setting up new race with Anthropic",
+        "title_en": "OpenAI plans stock market debut, setting up new race with Anthropic",
+        "summary": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut 1 day ago Share Save Add as preferred on Google Kali Hays Technology reporter, San Francisco Getty Images OpenAI, the ",
+        "summary_en": "OpenAI, the company behind popular chatbot ChatGPT, has become the latest artificial intelligence (AI) giant to reveal plans to sell shares to the public through a stock listing. Its decision had been",
+        "long_summary": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut 1 day ago Share Save Add as preferred on Google Kali Hays Technology reporter, San Francisco Getty Images OpenAI, the company behind popular chatbot ChatGPT, has become the latest artificial intelligence (AI) giant to reveal plans to sell shares to the public through a stock listing. Its decision had been expected for months, but the company's announcement comes exactly one week after rival AI firm Anthropic said it was planning to go public , too. OpenAI said on Monday it had made a confidential filing with the US Securities and Exchange Commission to pursue an initial public offering (IPO) at some point in the future. Its plans are the latest in a wave of heavyweight IPOs, alongside Anthropic and billionaire Elon Musk's rocket company, SpaceX, which is set to debut on the Nasdaq on Friday . SpaceX is targeting a share price which would value the company at $1.75tn (£1.3tn). Announcing its IPO plans on Monday, OpenAI said: \"We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company.\" The three firms all have a \"vast need for cash\", said Sunil Krishnan from Aviva Investors, and \"no-one wants to be last\" in the game to go public, he told the BBC's Today programme. He said that the firms are making huge investments in their AI infrastructure including on chips, and training their AI models, which all come at massive expen",
+        "long_summary_en": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut 1 day ago Share Save Add as preferred on Google Kali Hays Technology reporter, San Francisco Getty Images OpenAI, the company behind popular chatbot ChatGPT, has become the latest artificial intelligence (AI) giant to reveal plans to sell shares to the public through a stock listing. Its decision had been expected for months, but the company's announcement comes exactly one week after rival AI firm Anthropic said it was planning to go public , too. OpenAI said on Monday it had made a confidential filing with the ",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/af21/live/aa735d80-638a-11f1-a153-39ca27a43c2a.jpg",
+        "source": "Bbc",
+        "url": "https://www.bbc.com/news/articles/cd958eqg1n5o",
+        "date": "10 June 2026"
+      },
+      {
         "title": "LLM News Today (June 2026) – AI Model Releases",
         "title_en": "LLM News Today (June 2026) – AI Model Releases",
         "summary": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls ba",
@@ -714,18 +726,6 @@
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/gemini-35-live-translate-104231805-1x1.png?VersionId=BwwqYQZAN1igw3OnE0MeGp_iJjPhfQ56&size=80:80",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
-        "title_en": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
-        "summary": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: S",
-        "summary_en": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: S",
-        "long_summary": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier appeared first on MarkTechPost.",
-        "long_summary_en": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier appeared first on MarkTechPost.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
         "date": "10 June 2026"
       }
     ],
@@ -914,18 +914,18 @@
   },
   "hotNews": [
     {
-      "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
-      "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
-      "source": "Bleepingcomputer",
-      "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
-      "date": "05 June 2026"
-    },
-    {
       "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
       "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
       "source": "Albato",
       "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
       "date": "10 June 2026"
+    },
+    {
+      "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
+      "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
+      "source": "Bleepingcomputer",
+      "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
+      "date": "05 June 2026"
     },
     {
       "title": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
