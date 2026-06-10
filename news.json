@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10 June 2026 - 16:04",
+  "lastUpdate": "10 June 2026 - 16:35",
   "categories": {
     "general": [
       {
@@ -731,6 +731,18 @@
     ],
     "audio": [
       {
+        "title": "Warner Music acquires AI attribution startup Sureel AI",
+        "title_en": "Warner Music acquires AI attribution startup Sureel AI",
+        "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+        "summary_en": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+        "long_summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+        "long_summary_en": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/warner-music.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+        "date": "10 June 2026"
+      },
+      {
         "title": "Hey, Siri, here’s what I actually want from AI",
         "title_en": "Hey, Siri, here’s what I actually want from AI",
         "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
@@ -896,18 +908,6 @@
         "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2FAFEELA.-png.png&signature=8338b674a95e0724ea061d594ab1c872",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/sony-honda-afeela-cancelled",
-        "date": "26 March 2026"
-      },
-      {
-        "title": "A new app wants to cure loneliness by getting people off their phones and into the same room",
-        "title_en": "A new app wants to cure loneliness by getting people off their phones and into the same room",
-        "summary": "A startup called Friending has launched a social platform built around a premise that sounds almost quaint in 2026: helping people make friends by meeting in person. The app, based in Raleigh, North C",
-        "summary_en": "A startup called Friending has launched a social platform built around a premise that sounds almost quaint in 2026: helping people make friends by meeting in person. The app, based in Raleigh, North C",
-        "long_summary": "A startup called Friending has launched a social platform built around a premise that sounds almost quaint in 2026: helping people make friends by meeting in person. The app, based in Raleigh, North Carolina, connects users by shared interests and geographic proximity, then deliberately limits chat functionality to push them toward face-to-face meetings rather than […]\nThis story continues at The Next Web",
-        "long_summary_en": "A startup called Friending has launched a social platform built around a premise that sounds almost quaint in 2026: helping people make friends by meeting in person. The app, based in Raleigh, North Carolina, connects users by shared interests and geographic proximity, then deliberately limits chat functionality to push them toward face-to-face meetings rather than […]\nThis story continues at The Next Web",
-        "image": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2026%2F03%2Ffriending-app-loneliness.png&signature=bffa202703590378d88ec2741567d56d",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/friending-app-loneliness-real-world-friendships",
         "date": "26 March 2026"
       }
     ]
