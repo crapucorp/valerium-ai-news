@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10 June 2026 - 17:36",
+  "lastUpdate": "10 June 2026 - 18:07",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+        "title_en": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+        "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "summary_en": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "long_summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "long_summary_en": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "date": "10 June 2026"
+      },
+      {
         "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
         "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
         "summary": "The four major AI chatbots have each shipped significant updates in early 2026: <strong>OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7</strong>, xAI rolled out Grok 4.3 Beta, and Google c",
@@ -714,18 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/ai-news",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "Anthropic says Mythos is too dangerous for the public. It just gave 150 more organisations access.",
-        "title_en": "Anthropic says Mythos is too dangerous for the public. It just gave 150 more organisations access.",
-        "summary": "Anthropic has said its Mythos model is so good at finding software vulnerabilities that releasing it publicly could help attackers steal data or disrupt critical infrastructure. It has also, as of ear",
-        "summary_en": "Anthropic has said its Mythos model is so good at finding software vulnerabilities that releasing it publicly could help attackers steal data or disrupt critical infrastructure. It has also, as of ear",
-        "long_summary": "Anthropic has said its Mythos model is so good at finding software vulnerabilities that releasing it publicly could help attackers steal data or disrupt critical infrastructure. It has also, as of early June, expanded access to 150 additional organisations, bringing the total to roughly 200 across 15 countries. The tension is deliberate. Anthropic’s argument is that […]\nThis story continues at The Next Web",
-        "long_summary_en": "Anthropic has said its Mythos model is so good at finding software vulnerabilities that releasing it publicly could help attackers steal data or disrupt critical infrastructure. It has also, as of early June, expanded access to 150 additional organisations, bringing the total to roughly 200 across 15 countries. The tension is deliberate. Anthropic’s argument is that […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/anthropic-mythos-eu-enisa-cybersecurity-access.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/anthropic-says-mythos-is-too-dangerous-for-the-public-it-just-gave-150-more-organisations-access",
         "date": "09 June 2026"
       }
     ],
