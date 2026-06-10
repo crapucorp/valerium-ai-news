@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "10 June 2026 - 18:37",
+  "lastUpdate": "10 June 2026 - 19:08",
   "categories": {
     "general": [
+      {
+        "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
+        "title_en": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
+        "summary": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python. We prepare a Colab-friendly environment and check ",
+        "summary_en": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python. We prepare a Colab-friendly environment and check ",
+        "long_summary": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python. We prepare a Colab-friendly environment and check GPU, driver, CUDA, and cuTile availability before running kernels. We then build tiled vector addition, matrix addition, and matrix multiplication, keeping a PyTorch fallback so the notebook stays executable. We validate correctness against PyTorch and benchmark median runtimes at every stage.\nThe post NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, ",
+        "long_summary_en": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python. We prepare a Colab-friendly environment and check GPU, driver, CUDA, and cuTile availability before running kernels. We then build tiled vector addition, matrix addition, and matrix multiplication, keeping a PyTorch fallback so the notebook stays executable. We validate correctness against PyTorch and benchmark median runtimes at every stage.\nThe post NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, ",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog15-5-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Inside Automat-it’s playbook for scaling AI startups on AWS",
+        "title_en": "Inside Automat-it’s playbook for scaling AI startups on AWS",
+        "summary": "The AI boom has fundamentally changed how startups think about infrastructure. What was once a relatively straightforward cloud scaling journey has become far more complex, as companies now balance GP",
+        "summary_en": "The AI boom has fundamentally changed how startups think about infrastructure. What was once a relatively straightforward cloud scaling journey has become far more complex, as companies now balance GP",
+        "long_summary": "The AI boom has fundamentally changed how startups think about infrastructure. What was once a relatively straightforward cloud scaling journey has become far more complex, as companies now balance GPU-intensive workloads, rapidly evolving AI models, compliance requirements, and rising operational costs. For many startups, the challenge is no longer simply getting a product to market. It […]\nThis story continues at The Next Web",
+        "long_summary_en": "The AI boom has fundamentally changed how startups think about infrastructure. What was once a relatively straightforward cloud scaling journey has become far more complex, as companies now balance GPU-intensive workloads, rapidly evolving AI models, compliance requirements, and rising operational costs. For many startups, the challenge is no longer simply getting a product to market. It […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/automat-it-scaling-ai-startups-aws.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/inside-automat-its-playbook-for-scaling-ai-startups-on-aws",
+        "date": "10 June 2026"
+      },
       {
         "title": "How memory tools can make AI models worse",
         "title_en": "How memory tools can make AI models worse",
@@ -156,30 +180,6 @@
         "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
         "source": "Apnews",
         "url": "https://apnews.com/hub/artificial-intelligence",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "Artificial Intelligence - AI News",
-        "title_en": "Artificial Intelligence - AI News",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "How Artificial Intelligence is creating the next normal · ago · Databricks in talks to raise funds at over $165 billion, The Information reports ·",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://s.yimg.com/lo/mysterio/api/B017A086EB1A0DEEE720052EF7C5A7F990AB37C883A8768D4C358372B710E3A3/subgraphmysterio/resizefill_w670_h376;quality_85;format_webp/https://media.zenfs.com/en/decrypt_157/f60b92f749e188d0f92c7e3ad5b9ae75",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search",
-        "title_en": "A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search",
-        "summary": "A new Harvard and Perplexity paper uses matched-pair sessions to compare an autonomous agent with a search assistant. It finds large gains in autonomy, time, and cost, plus broader scope of work attem",
-        "summary_en": "A new Harvard and Perplexity paper uses matched-pair sessions to compare an autonomous agent with a search assistant. It finds large gains in autonomy, time, and cost, plus broader scope of work attem",
-        "long_summary": "A new Harvard and Perplexity paper uses matched-pair sessions to compare an autonomous agent with a search assistant. It finds large gains in autonomy, time, and cost, plus broader scope of work attempted.\nThe post A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search appeared first on MarkTechPost.",
-        "long_summary_en": "A new Harvard and Perplexity paper uses matched-pair sessions to compare an autonomous agent with a search assistant. It finds large gains in autonomy, time, and cost, plus broader scope of work attempted.\nThe post A New Study from Harvard and Perplexity Finds AI Agents Perform 26 Minutes of Autonomous Work per Session vs 33 Seconds for Search appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog15-4-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/08/a-new-study-from-harvard-and-perplexity-finds-ai-agents-perform-26-minutes-of-autonomous-work-per-session-vs-33-seconds-for-search/",
         "date": "09 June 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+        "title_en": "Microsoft restricts Claude Fable for employees over data retention concerns",
+        "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for",
+        "summary_en": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for",
+        "long_summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm […]",
+        "long_summary_en": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+        "date": "10 June 2026"
+      },
+      {
         "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
         "title_en": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
         "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
@@ -714,18 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "LLM News Today (June 2026) – AI Model Releases",
-        "title_en": "LLM News Today (June 2026) – AI Model Releases",
-        "summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-s",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
-        "long_summary_en": "Model Release · Technical Deep Dive Claude Opus 4.8 Release, Benchmarks And More Claude Opus 4.8 scores 88.6% on SWE-bench Verified, 74.6% on Terminal-Bench 2.1, 1890 Elo on GDPval-AA, with parallel-subagent workflows and a 2.5x fast mode. Same $5/$25 pricing. Jonathan Chavez · May 28, 2026 · 10 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
         "date": "09 June 2026"
       }
     ],
