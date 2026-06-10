@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "10 June 2026 - 15:04",
+  "lastUpdate": "10 June 2026 - 15:34",
   "categories": {
     "general": [
+      {
+        "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+        "title_en": "Jedify raises $24M to help companies arm AI agents with context on their business",
+        "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+        "summary_en": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+        "long_summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+        "long_summary_en": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Jedify-Co-founders.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+        "date": "10 June 2026"
+      },
       {
         "title": "TensorWave raises $350M led by AMD to build an Nvidia-free AI cloud",
         "title_en": "TensorWave raises $350M led by AMD to build an Nvidia-free AI cloud",
@@ -168,18 +180,6 @@
         "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/11/cuTile-Nsight-png.webp",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab/",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "China is drafting a $295bn plan to build AI data centres, and to lock Nvidia out of them",
-        "title_en": "China is drafting a $295bn plan to build AI data centres, and to lock Nvidia out of them",
-        "summary": "China wants to win the AI race on its own hardware. A new plan shows just how much it is willing to spend, and how far it will go to cut American chips out of the picture. Beijing is drafting a bluepr",
-        "summary_en": "China wants to win the AI race on its own hardware. A new plan shows just how much it is willing to spend, and how far it will go to cut American chips out of the picture. Beijing is drafting a bluepr",
-        "long_summary": "China wants to win the AI race on its own hardware. A new plan shows just how much it is willing to spend, and how far it will go to cut American chips out of the picture. Beijing is drafting a blueprint to spend around 2 trillion yuan ($295bn) over the next five years building […]\nThis story continues at The Next Web",
-        "long_summary_en": "China wants to win the AI race on its own hardware. A new plan shows just how much it is willing to spend, and how far it will go to cut American chips out of the picture. Beijing is drafting a blueprint to spend around 2 trillion yuan ($295bn) over the next five years building […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2021/05/data-center.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/china-295-billion-ai-data-centre-plan",
         "date": "09 June 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Poetic emerges from stealth with $50M from OpenAI to automate insurance underwriting and compliance",
+        "title_en": "Poetic emerges from stealth with $50M from OpenAI to automate insurance underwriting and compliance",
+        "summary": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwrit",
+        "summary_en": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwrit",
+        "long_summary": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwriting to compliance and fraud checks. Its backers include OpenAI, Peter Thiel’s Founders Fund, and Kleiner Perkins. The company was founded by Markie Wagner, […]\nThis story continues at The Next Web",
+        "long_summary_en": "Poetic, an AI startup that has been operating in stealth, has emerged with $50M in funding and a $500M valuation to automate some of finance’s most sensitive back-office work, from insurance underwriting to compliance and fraud checks. Its backers include OpenAI, Peter Thiel’s Founders Fund, and Kleiner Perkins. The company was founded by Markie Wagner, […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/04/OpenAI-lawsuite.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/poetic-openai-50m-enterprise-automation-underwriting",
+        "date": "10 June 2026"
+      },
+      {
         "title": "How Claude Fable 5 compares to Google Gemini 3.5 Pro, OpenAI GPT 5.5 and Claude Mythos Preview in terms of performance- Moneycontrol.com",
         "title_en": "How Claude Fable 5 compares to Google Gemini 3.5 Pro, OpenAI GPT 5.5 and Claude Mythos Preview in terms of performance- Moneycontrol.com",
         "summary": "How Claude Fable 5 compares to Google Gemini 3.5 Pro, OpenAI GPT 5.5 and Claude Mythos Preview in terms of performance Anthropic has introduced Claude Fable 5 and shared benchmark results comparing it",
@@ -714,18 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mango-crushing-fang.png?resize=1200,960",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-        "date": "09 June 2026"
-      },
-      {
-        "title": "OpenAI files for IPO as AI investment race intensifies",
-        "title_en": "OpenAI files for IPO as AI investment race intensifies",
-        "summary": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By ",
-        "summary_en": "<strong>The company has reportedly missed “multiple internal revenue and user targets” after fierce competition from Anthropic and Google</strong>, whose Gemini AI model is increasingly popular.",
-        "long_summary": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By Steve Kopack OpenAI announced Monday afternoon that it has filed to offer its stock on public markets, just a week after its chief rival, Anthropic, did the same . Subscribe to read this story ad-free Get unlimited access to ad-free articles and exclusive content. “We recently submitted a confidential S-1,” the ChatGPT maker said in a post on X , referring to the formal name of the filing for an initial public offering. “We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company.” The artificial intelligence startup added that “it’s a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best.” In March, OpenAI’s valuation soared to $852 billion after it raised a fresh $122 billion in cash to fuel its ever-expanding ambitions in AI. That cash is being used to develop advanced AI models, but also the extensive physical data center infrastructure and cloud computing capacity required to run those systems. On June 1, Anthropic also filed for a public stock offering. That startup was worth $952 billion in its most recent funding round. Regardless of when OpenAI and Anthropic decide to begin trading this year, they will be the second and third mega-IPOs to follow ",
-        "long_summary_en": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By Steve Kopack OpenAI announced Monday afternoon that it has filed to offer its stock on public markets, just a week after its chief rival, Anthropic, did the same . Subscribe to read this story ad-free Get unlimited access to ad-free articles and exclusive content. “We recently submitted a confidential S-1,” the ChatGPT maker said in a post on X , referring to the formal name of the filing for an i",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260608-Open-AI-CEO-Sam-Altman-vsb-1724-4cd0b9.jpg",
-        "source": "Nbcnews",
-        "url": "https://www.nbcnews.com/business/markets/openai-chatgpt-files-ipo-rcna349101",
         "date": "09 June 2026"
       }
     ],
