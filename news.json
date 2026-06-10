@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "10 June 2026 - 22:12",
+  "lastUpdate": "10 June 2026 - 22:43",
   "categories": {
     "general": [
+      {
+        "title": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
+        "title_en": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
+        "summary": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its",
+        "summary_en": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its",
+        "long_summary": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its schema, and build a manageable sample. We analyze languages, file extensions, repository frequency, and directory depth to understand the index structure. We then reconstruct raw GitHub URLs, fetch real source files, and estimate the token scale of the fetched code.\nThe post Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken app",
+        "long_summary_en": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its schema, and build a manageable sample. We analyze languages, file extensions, repository frequency, and directory depth to understand the index structure. We then reconstruct raw GitHub URLs, fetch real source files, and estimate the token scale of the fetched code.\nThe post Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken app",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog15-1-1-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/09/building-a-code-dataset-pipeline-from-nvidia-nemotron-pretraining-code-v3-metadata-with-streaming-pandas-and-tiktoken/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
+        "title_en": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
+        "summary": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requ",
+        "summary_en": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requ",
+        "long_summary": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents […]\nThe post Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared appeared first on MarkTechPost.",
+        "long_summary_en": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents […]\nThe post Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared appeared first on MarkTechPost.",
+        "image": "https://localaimaster.com/_next/image?url=/og/best-ai-coding-tools-2025-comparison.webp&w=1920&q=85",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "NEURA Robotics raises up to $1.4B in record robotics round backed by Nvidia, Amazon, and Tether",
+        "title_en": "NEURA Robotics raises up to $1.4B in record robotics round backed by Nvidia, Amazon, and Tether",
+        "summary": "German robotics company NEURA Robotics has announced up to $1.4 billion in Series C funding to scale its cognitive robotics platform. The round values the company at approximately $7 billion, accordin",
+        "summary_en": "German robotics company NEURA Robotics has announced up to $1.4 billion in Series C funding to scale its cognitive robotics platform. The round values the company at approximately $7 billion, accordin",
+        "long_summary": "German robotics company NEURA Robotics has announced up to $1.4 billion in Series C funding to scale its cognitive robotics platform. The round values the company at approximately $7 billion, according to Bloomberg. NEURA says it is the largest funding round ever raised by a full-stack robotics company. The investor list spans crypto, chips, cloud, […]\nThis story continues at The Next Web",
+        "long_summary_en": "German robotics company NEURA Robotics has announced up to $1.4 billion in Series C funding to scale its cognitive robotics platform. The round values the company at approximately $7 billion, according to Bloomberg. NEURA says it is the largest funding round ever raised by a full-stack robotics company. The investor list spans crypto, chips, cloud, […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/neura-robotics-1-4b-series-c-physical-ai.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/neura-robotics-1-4b-series-c-physical-ai",
+        "date": "10 June 2026"
+      },
       {
         "title": "Artificial intelligence | AP News",
         "title_en": "Artificial intelligence | AP News",
@@ -144,42 +180,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
-        "title_en": "Jedify raises $24M to help companies arm AI agents with context on their business",
-        "summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-        "summary_en": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-        "long_summary": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-        "long_summary_en": "The funding round was led by Norwest, with participation S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Jedify-Co-founders.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "TensorWave raises $350M led by AMD to build an Nvidia-free AI cloud",
-        "title_en": "TensorWave raises $350M led by AMD to build an Nvidia-free AI cloud",
-        "summary": "TensorWave, a cloud provider that runs its AI data centres on AMD chips rather than Nvidia’s, has raised $350M in a Series B round led by AMD and the hedge fund Magnetar Capital. The deal values the L",
-        "summary_en": "TensorWave, a cloud provider that runs its AI data centres on AMD chips rather than Nvidia’s, has raised $350M in a Series B round led by AMD and the hedge fund Magnetar Capital. The deal values the L",
-        "long_summary": "TensorWave, a cloud provider that runs its AI data centres on AMD chips rather than Nvidia’s, has raised $350M in a Series B round led by AMD and the hedge fund Magnetar Capital. The deal values the Las Vegas startup at $1.55bn. That is nearly four times the roughly $400M valuation it carried a year […]\nThis story continues at The Next Web",
-        "long_summary_en": "TensorWave, a cloud provider that runs its AI data centres on AMD chips rather than Nvidia’s, has raised $350M in a Series B round led by AMD and the hedge fund Magnetar Capital. The deal values the Las Vegas startup at $1.55bn. That is nearly four times the roughly $400M valuation it carried a year […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/tensorwave-logo.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/tensorwave-350m-series-b-amd-nvidia-rival",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Logitech’s Mobi Fold is a foldable travel mouse with an AI model to stop accidental clicks",
-        "title_en": "Logitech’s Mobi Fold is a foldable travel mouse with an AI model to stop accidental clicks",
-        "summary": "Logitech has launched the Mobi Fold, its first foldable mouse, aimed at hybrid workers who want a proper mouse on the road but leave it behind because it will not fit in the bag. The mouse folds to ne",
-        "summary_en": "Logitech has launched the Mobi Fold, its first foldable mouse, aimed at hybrid workers who want a proper mouse on the road but leave it behind because it will not fit in the bag. The mouse folds to ne",
-        "long_summary": "Logitech has launched the Mobi Fold, its first foldable mouse, aimed at hybrid workers who want a proper mouse on the road but leave it behind because it will not fit in the bag. The mouse folds to nearly half its size, and the fold is also the power switch: it turns on when opened […]\nThis story continues at The Next Web",
-        "long_summary_en": "Logitech has launched the Mobi Fold, its first foldable mouse, aimed at hybrid workers who want a proper mouse on the road but leave it behind because it will not fit in the bag. The mouse folds to nearly half its size, and the fold is also the power switch: it turns on when opened […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/Logitech-Mobi-Fold.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/logitech-mobi-fold-foldable-travel-mouse",
         "date": "10 June 2026"
       }
     ],
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "OpenAI files for IPO as AI investment race intensifies",
+        "title_en": "OpenAI files for IPO as AI investment race intensifies",
+        "summary": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By ",
+        "summary_en": "<strong>The company has reportedly missed “multiple internal revenue and user targets” after fierce competition from Anthropic and Google</strong>, whose Gemini AI model is increasingly popular.",
+        "long_summary": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By Steve Kopack OpenAI announced Monday afternoon that it has filed to offer its stock on public markets, just a week after its chief rival, Anthropic, did the same . Subscribe to read this story ad-free Get unlimited access to ad-free articles and exclusive content. “We recently submitted a confidential S-1,” the ChatGPT maker said in a post on X , referring to the formal name of the filing for an initial public offering. “We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company.” The artificial intelligence startup added that “it’s a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best.” In March, OpenAI’s valuation soared to $852 billion after it raised a fresh $122 billion in cash to fuel its ever-expanding ambitions in AI. That cash is being used to develop advanced AI models, but also the extensive physical data center infrastructure and cloud computing capacity required to run those systems. On June 1, Anthropic also filed for a public stock offering. That startup was worth $952 billion in its most recent funding round. Regardless of when OpenAI and Anthropic decide to begin trading this year, they will be the second and third mega-IPOs to follow ",
+        "long_summary_en": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By Steve Kopack OpenAI announced Monday afternoon that it has filed to offer its stock on public markets, just a week after its chief rival, Anthropic, did the same . Subscribe to read this story ad-free Get unlimited access to ad-free articles and exclusive content. “We recently submitted a confidential S-1,” the ChatGPT maker said in a post on X , referring to the formal name of the filing for an i",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260608-Open-AI-CEO-Sam-Altman-vsb-1724-4cd0b9.jpg",
+        "source": "Nbcnews",
+        "url": "https://www.nbcnews.com/business/markets/openai-chatgpt-files-ipo-rcna349101",
+        "date": "10 June 2026"
+      },
+      {
+        "title": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
+        "title_en": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
+        "summary": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gem",
+        "summary_en": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gem",
+        "long_summary": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.\nThe post Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API appeared first on MarkTechPost.",
+        "long_summary_en": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.\nThe post Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API appeared first on MarkTechPost.",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/gemini-35-live-translate-104231805-1x1.png?VersionId=BwwqYQZAN1igw3OnE0MeGp_iJjPhfQ56&size=80:80",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
+        "date": "10 June 2026"
+      },
+      {
         "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
         "title_en": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
         "summary": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: S",
@@ -702,30 +726,6 @@
         "image": "https://media.thenextweb.com/2026/06/fifa-world-cup-2026-scams-phishing-malware.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/world-cup-2026-biometrics-google-gemini",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
-        "title_en": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
-        "summary": "Amazon Considers Stargate Hard Reboot: Canon of 25 TV Years May Be Erased",
-        "summary_en": "<strong>Samsung is rolling out Google&#x27;s Gemini, OpenAI&#x27;s ChatGPT, and Anthropic&#x27;s Claude across all affiliates this month</strong>.",
-        "long_summary": "Amazon Considers Stargate Hard Reboot: Canon of 25 TV Years May Be Erased",
-        "long_summary_en": "Amazon Considers Stargate Hard Reboot: Canon of 25 TV Years May Be Erased",
-        "image": "https://d.techtimes.com/en/full/466354/logo-samsung-electronics.jpg",
-        "source": "Techtimes",
-        "url": "https://www.techtimes.com/articles/318051/20260609/samsung-embraces-chatgpt-gemini-claude-groupwide-three-years-after-banning-public-ai-tools.htm",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Mic",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Microsoft MiniMax Google Alibaba Cloud / Qwen Team xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI Jun 9, 2026 · 1 release Claude Fable 5 Release Proprietary Anthropic • 1d ago Jun 5, 2026 · 1 release U2 Release Proprietary Unisound • 5d ago Jun 2, 2026 · 2 release s MAI-Code-1-Flash Fast Proprietary Microsoft • 1w ago MAI-Thinking-1 Reasoning Proprietary Microsoft • 1w ago Jun 1, 2026 · 1 release MiniMax M3 Lightweight Open Source MiniMax • 1w ago May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 1w ago May 23, 2026 · 1 release Gemma 4 12B Unified Release Open Source Google • 2w ago May 19, 2026 · 1 release Gemini 3.5 Flash Lightweight Proprietary Google • 3w ago 1 – 8 of 312 1 2 3 4 5 6 7 Last 30 days Models that got better Worse 0 Better 2 Sigma-normalized vs. each model's baseline Gemini 3.1 Flash Image Google · 3mo old +2.42σ now +4.67σ 101 votes · 1 arena Claude Opus 4.6 Anthropic · 4mo old +2.42σ now +4.36σ 146 v",
-        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Microsoft MiniMax Google Alibaba Cloud / Qwen Team xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
         "date": "10 June 2026"
       }
     ],
@@ -928,10 +928,10 @@
       "date": "05 June 2026"
     },
     {
-      "title": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
-      "title_en": "Samsung Embraces ChatGPT, Gemini, Claude Groupwide Three Years After Banning Public AI Tools",
-      "source": "Techtimes",
-      "url": "https://www.techtimes.com/articles/318051/20260609/samsung-embraces-chatgpt-gemini-claude-groupwide-three-years-after-banning-public-ai-tools.htm",
+      "title": "How Claude Fable 5 compares to Google Gemini 3.5 Pro, OpenAI GPT 5.5 and Claude Mythos Preview in terms of performance- Moneycontrol.com",
+      "title_en": "How Claude Fable 5 compares to Google Gemini 3.5 Pro, OpenAI GPT 5.5 and Claude Mythos Preview in terms of performance- Moneycontrol.com",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/technology/how-claude-fable-5-compares-to-google-gemini-3-5-pro-openai-gpt-5-5-and-claude-mythos-preview-in-terms-of-performance-article-13946102.html",
       "date": "10 June 2026"
     }
   ]
