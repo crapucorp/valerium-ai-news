@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11 June 2026 - 00:44",
+  "lastUpdate": "11 June 2026 - 01:15",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+        "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+        "summary": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/09/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free t",
+        "summary_en": "The four major AI chatbots have each shipped significant updates in early 2026: <strong>OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7</strong>, xAI rolled out Grok 4.3 Beta, and Google c",
+        "long_summary": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/09/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free to $200/month. Claude Opus 4.7 scores 87.6% on SWE-bench Verified, making it the strongest coding model currently available. Grok 4.3 adds document generation and video input but locks its best features behind the $300/month SuperGrok Heavy tier. Gemini 2.5 Pro offers the largest context window at 1 million tokens and ships natively inside Google Workspace. The four major AI chatbots have each shipped significant updates in early 2026: OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7, xAI rolled out Grok 4.3 Beta, and Google continued refining Gemini 2.5 Pro with improved coding and text-to-speech capabilities. Below is a practical comparison of what each model actually delivers in terms of pricing, performance, and best use cases. Model Latest version Context window SWE-bench Verified Best for Starting price ChatGPT GPT-5.5 (Apr 2026) 1M tokens 74.9% (GPT-5) Writing, multimodal, agentic tasks Free (ads) / $20/mo Plus Claude Opus 4.7 (Apr 2026) 1M tokens 87.6% Coding, long-horizon agent work $20/mo Pro Grok 4.3 Beta (Apr 2026) 128K / 256K (Heavy) N/A Research, social media, X integration $30/mo SuperGrok Gemini 2.5 Pro (2026) 1M tokens N/A Google Workspace, Android, multimodal Free / $20/mo Advanced Grok 4 (Latest: 4.3 Beta): Overview Grok, the AI system from xAI, has p",
+        "long_summary_en": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/09/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free to $200/month. Claude Opus 4.7 scores 87.6% on SWE-bench Verified, making it the strongest coding model currently available. Grok 4.3 adds document generation and video input but locks its best features behind the $300/month SuperGrok Heavy tier. Gemini 2.5 Pro offers the largest context window at 1 million tokens and ships natively inside Google Workspace. The four major AI chatbots have each ship",
+        "image": "https://strapi.aws-us-east-2.albato.com/uploads/Grok_Chat_GPT_Gemini_Claude_A_Complete_Overview_c35f0d08bf.png",
+        "source": "Albato",
+        "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+        "title_en": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+        "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "summary_en": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "long_summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "long_summary_en": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "date": "11 June 2026"
+      },
+      {
         "title": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
         "title_en": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
         "summary": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison Anthropic has introduced Claude Fable 5 and shared benchmark results comparing it with OpenAI GPT 5.5, Google Ge",
@@ -702,30 +726,6 @@
         "image": "https://media.thenextweb.com/2026/06/bnp-paribas-us-mega-ipos-europe-tech-deals.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/bnp-paribas-us-mega-ipos-europe-tech-deals",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Anthropic’s CEO says he doesn’t know if Claude was used in the Iran school strike that killed 120 children",
-        "title_en": "Anthropic’s CEO says he doesn’t know if Claude was used in the Iran school strike that killed 120 children",
-        "summary": "Anthropic CEO Dario Amodei said he does not know what role his company’s AI model Claude played in a missile strike that killed an estimated 120 children at an elementary school in Minab, Iran, on Feb",
-        "summary_en": "Anthropic CEO Dario Amodei said he does not know what role his company’s AI model Claude played in a missile strike that killed an estimated 120 children at an elementary school in Minab, Iran, on Feb",
-        "long_summary": "Anthropic CEO Dario Amodei said he does not know what role his company’s AI model Claude played in a missile strike that killed an estimated 120 children at an elementary school in Minab, Iran, on February 28. In an interview on Bloomberg’s The Circuit with Emily Chang, he described the strike as “a really terrible […]\nThis story continues at The Next Web",
-        "long_summary_en": "Anthropic CEO Dario Amodei said he does not know what role his company’s AI model Claude played in a missile strike that killed an estimated 120 children at an elementary school in Minab, Iran, on February 28. In an interview on Bloomberg’s The Circuit with Emily Chang, he described the strike as “a really terrible […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/us-government-chip-shortage-anthropic-nsa-9-billion.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/anthropic-amodei-claude-iran-school-strike-military-ai",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-        "title_en": "Microsoft restricts Claude Fable for employees over data retention concerns",
-        "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for",
-        "summary_en": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for",
-        "long_summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm […]",
-        "long_summary_en": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
         "date": "10 June 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+      "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
+      "source": "Albato",
+      "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
+      "date": "11 June 2026"
+    },
+    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -926,13 +933,6 @@
       "source": "Republicworld",
       "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
       "date": "10 June 2026"
-    },
-    {
-      "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-      "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-      "source": "Etvbharat",
-      "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
-      "date": "29 March 2026"
     }
   ]
 }
