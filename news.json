@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "11 June 2026 - 13:02",
+  "lastUpdate": "11 June 2026 - 13:32",
   "categories": {
     "general": [
+      {
+        "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
+        "title_en": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
+        "summary": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text",
+        "summary_en": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text",
+        "long_summary": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation appeared first on MarkTechPost.",
+        "long_summary_en": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation appeared first on MarkTechPost.",
+        "image": "https://external-preview.redd.it/google-releases-diffusiongemma-new-experimental-open-model-v0-pr58Y7_82aglIdD6VxjGg1ns65Db_tHjts-39jVNm9U.png?width=640&crop=smart&auto=webp&s=5b7fe253e79e01c64805bfd6f268f18e35ac9628",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
+        "date": "11 June 2026"
+      },
       {
         "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
         "title_en": "The future of AI regulation is courting the strangest, most anxious bedfellows",
@@ -168,18 +180,6 @@
         "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/anthropic-ipo-ai-claude-enterprise-funding-investment-business-strategy-artificial-intelligence-1024x768.jpg",
         "source": "Artificialintelligence-News",
         "url": "https://www.artificialintelligence-news.com/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Artificial intelligence - BBC News",
-        "title_en": "Artificial intelligence - BBC News",
-        "summary": "Artificial intelligence 2 hrs ago Police face cuts after mayor blocks AI tech deal Scotland Yard had been in talks about using Palantir's AI tech to speed up criminal investigations. 2 hrs ago 5 hrs a",
-        "summary_en": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
-        "long_summary": "Artificial intelligence 2 hrs ago Police face cuts after mayor blocks AI tech deal Scotland Yard had been in talks about using Palantir's AI tech to speed up criminal investigations. 2 hrs ago 5 hrs ago IT firm Kainos to create almost 350 jobs The new roles cover a range of areas from software engineering to consulting, to AI and data science. 5 hrs ago 14 hrs ago University to launch defence technology courses Bournemouth University receives £2.8m from the Ministry of Defence to fund the courses. 14 hrs ago 21 hrs ago World's largest chipmaker does not rule out price rises as costs increase In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics. 21 hrs ago 1 day ago Version of AI tool 'too powerful for public' released to public Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders. 1 day ago 1 day ago Farage says Reform has contacted X 'to highest level' over fake AI ads The fake ads feature the governor of the Bank of England - the Bank has urged people to report them. 1 day ago 1 day ago Devon must not 'fall behind' in AI revolution The boss of Devon Chamber of Commerce says businesses need to act now. 1 day ago 1 day ago AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut The company behind ChatGPT files its plans one week after Anthropic did the same. 1 day ago 2 days",
-        "long_summary_en": "Artificial intelligence 2 hrs ago Police face cuts after mayor blocks AI tech deal Scotland Yard had been in talks about using Palantir's AI tech to speed up criminal investigations. 2 hrs ago 5 hrs ago IT firm Kainos to create almost 350 jobs The new roles cover a range of areas from software engineering to consulting, to AI and data science. 5 hrs ago 14 hrs ago University to launch defence technology courses Bournemouth University receives £2.8m from the Ministry of Defence to fund the courses. 14 hrs ago 21 hrs ago World's largest chipmaker does not rule out price rises as costs increase I",
-        "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0nh5hn7.jpg.webp",
-        "source": "Bbc",
-        "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
         "date": "10 June 2026"
       }
     ],
@@ -928,11 +928,11 @@
       "date": "05 June 2026"
     },
     {
-      "title": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
-      "title_en": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/technology/how-claude-fable-5-compares-to-google-gemini-3-5-pro-openai-gpt-5-5-and-claude-mythos-preview-in-terms-of-performance-article-13946102.html",
-      "date": "11 June 2026"
+      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
+      "source": "Llm-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "date": "10 June 2026"
     }
   ]
 }
