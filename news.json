@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11 June 2026 - 14:33",
+  "lastUpdate": "11 June 2026 - 15:04",
   "categories": {
     "general": [
       {
@@ -549,6 +549,54 @@
     ],
     "llm": [
       {
+        "title": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
+        "title_en": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
+        "summary": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison Anthropic has introduced Claude Fable 5 and shared benchmark results comparing it with OpenAI GPT 5.5, Google Ge",
+        "summary_en": "Mythos Preview posted 56.8% and 64.7%, respectively. <strong>GPT 5.5 reached 41.4% without tools and 52.2% with tools, while Gemini 3.5 Pro scored 26.9% and 40.5%</strong>. ... Anthropic’s latest mode",
+        "long_summary": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison Anthropic has introduced Claude Fable 5 and shared benchmark results comparing it with OpenAI GPT 5.5, Google Gemini 3.5 Pro, and Claude Mythos Preview across coding, reasoning, vision, cybersecurity, biology, and automation tasks. Shaurya Shubham June 10, 2026 / 20:36 IST Claude Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day DAILY-EVENING SUBSCRIBE End your day with a breakdown of the biggest tech and startup stories in your inbox DAILY-EVENING SUBSCRIBE End your day with a breakdown of the biggest tech and startup stories in your inbox Shaurya Shubham first published: Jun 10, 2026 03:23 pm Discover the latest Business News , Sensex , and Nifty updates. Obtain Personal Finance insights, tax queries, and expert opinions on Moneycontrol or download the Moneycontrol App to stay updated! Watch Gold & Silver ETFs Are Crashing! Here's What's Really Happening Watch more Strait of Hormuz Shutdown? Here's How It Could Hit Your Wallet Watch more Sugar Stocks Rise Up To 3.5% After Govt Waives Excise Duty On High Ethanol Blended Petrol Watch more Meta Joins Hands With Reliance for India’s First AI Data Center | Ambani’s Big Win Watch more 8th Pay Commission: Can the Government Afford a Higher Fitment Factor? | Salary Hike Explained Watch more Previous Next Subscribe to Tech Newsletters Al Edge Newsletter O",
+        "long_summary_en": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison Anthropic has introduced Claude Fable 5 and shared benchmark results comparing it with OpenAI GPT 5.5, Google Gemini 3.5 Pro, and Claude Mythos Preview across coding, reasoning, vision, cybersecurity, biology, and automation tasks. Shaurya Shubham June 10, 2026 / 20:36 IST Claude Invite your friends and family to sign up for MC Tech 3, our daily newsletter that breaks down the biggest tech and startup stories of the day DAILY-EVENING SUBSCRIBE End your day with a breakdown of the biggest tech and startup st",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260523043831_Claude-illustration.png",
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/technology/how-claude-fable-5-compares-to-google-gemini-3-5-pro-openai-gpt-5-5-and-claude-mythos-preview-in-terms-of-performance-article-13946102.html",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "OpenAI Could Soon Drop Prices To Compete With Anthropic, Report Says",
+        "title_en": "OpenAI Could Soon Drop Prices To Compete With Anthropic, Report Says",
+        "summary": "Breaking Business OpenAI Mulls Price Cut After Altman Said Steep Costs Were ‘Huge Issue,’ Report Says By Siladitya Ray , Forbes Staff. Siladitya Ray is a New Delhi-based Forbes news team reporter. Fol",
+        "summary_en": "Gemini subscriptions product lead Vikas Kansal · announced on X that <strong>the plan will also include an increase in Google Drive storage from 200GB to 400GB</strong>. Google’s new plan undercuts Ch",
+        "long_summary": "Breaking Business OpenAI Mulls Price Cut After Altman Said Steep Costs Were ‘Huge Issue,’ Report Says By Siladitya Ray , Forbes Staff. Siladitya Ray is a New Delhi-based Forbes news team reporter. Follow Author Jun 11, 2026, 08:10am EDT Jun 11, 2026, 08:30am EDT Topline OpenAI is considering major price cuts for its AI tools in a bid to compete with rival Anthropic, according to a Wall Street Journal report , as both companies prepare to go public later this year and the steep usage cost prompts some companies to scale back or limit usage. OpenAI CEO Sam Altman recently acknowledged that the rising costs of AI tokens is becoming a \"huge issue\" for enterprise customers. Anadolu via Getty Images Key Facts According to the Journal , OpenAI’s planned price cuts will focus on its tokens—the units used to track AI tool usage for billing—as the ChatGPT maker expects similar moves from Anthropic. Instead of flat monthly subscriptions—which have stringent usage caps and other limits—most major business customers use metered billing via tokens for AI products and OpenAI CEO Sam Altman recently acknowledged that the rising costs of tokens have become a “huge issue.” Speaking at an OpenAI event earlier this month, Altman said it was almost becoming a “meme” now to say a company has used up its entire budget allocation for AI tokens in Q1, prompting executives to ask him, “Can you make this more efficient?” It’s unclear how OpenAI plans to implement this token price cut and if such cuts w",
+        "long_summary_en": "Breaking Business OpenAI Mulls Price Cut After Altman Said Steep Costs Were ‘Huge Issue,’ Report Says By Siladitya Ray , Forbes Staff. Siladitya Ray is a New Delhi-based Forbes news team reporter. Follow Author Jun 11, 2026, 08:10am EDT Jun 11, 2026, 08:30am EDT Topline OpenAI is considering major price cuts for its AI tools in a bid to compete with rival Anthropic, according to a Wall Street Journal report , as both companies prepare to go public later this year and the steep usage cost prompts some companies to scale back or limit usage. OpenAI CEO Sam Altman recently acknowledged that the r",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a2aa540a0e6bd4d93969fca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/11/openai-wants-to-slash-prices-after-altman-said-steep-costs-were-huge-issue-report-says/",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
+        "title_en": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
+        "summary": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate th",
+        "summary_en": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate th",
+        "long_summary": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseline.\nThe post A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill ",
+        "long_summary_en": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseline.\nThe post A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill ",
+        "image": "https://cryptopond.com/wp-content/uploads/2026/06/A-Coding-Implementation-on-Microsoft-SkillOpt-for-Instrumented-Prompt-Optimization-300x214.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "Canada wants to ban under-16s from social media, and rein in AI chatbots too",
+        "title_en": "Canada wants to ban under-16s from social media, and rein in AI chatbots too",
+        "summary": "Canada has introduced a bill that would bar under-16s from social media and, in a twist that sets it apart from other countries, regulate AI chatbots in the same sweep. The Digital Safety Act, tabled ",
+        "summary_en": "Canada has introduced a bill that would bar under-16s from social media and, in a twist that sets it apart from other countries, regulate AI chatbots in the same sweep. The Digital Safety Act, tabled ",
+        "long_summary": "Canada has introduced a bill that would bar under-16s from social media and, in a twist that sets it apart from other countries, regulate AI chatbots in the same sweep. The Digital Safety Act, tabled on Wednesday, is the latest move in a global wave of governments cracking down on platforms over harm to children. […]\nThis story continues at The Next Web",
+        "long_summary_en": "Canada has introduced a bill that would bar under-16s from social media and, in a twist that sets it apart from other countries, regulate AI chatbots in the same sweep. The Digital Safety Act, tabled on Wednesday, is the latest move in a global wave of governments cracking down on platforms over harm to children. […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/carney-canada-ai-strategy-pope-leo.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/canada-digital-safety-act-under-16-social-media-chatbots",
+        "date": "11 June 2026"
+      },
+      {
         "title": "I used ChatGPT and Gemini side-by-side for a month on Android, and only one behaved like a senior AI tool",
         "title_en": "I used ChatGPT and Gemini side-by-side for a month on Android, and only one behaved like a senior AI tool",
         "summary": "By Parth Shah Published Jun 7, 2026, 1:00 PM EDT Parth is a technology analyst and writer specializing in the comprehensive review and feature exploration of the Android ecosystem. His work focus on p",
@@ -678,54 +726,6 @@
         "image": "https://media.thenextweb.com/2026/06/visa-openai-partnership.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/openai-visa-chatgpt-agentic-commerce-payments",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Anthropic’s Dario Amodei has just one direct report",
-        "title_en": "Anthropic’s Dario Amodei has just one direct report",
-        "summary": "If you doubted his genius, doubt no more.",
-        "summary_en": "If you doubted his genius, doubt no more.",
-        "long_summary": "If you doubted his genius, doubt no more.",
-        "long_summary_en": "If you doubted his genius, doubt no more.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-        "title_en": "Microsoft restricts Claude Fable for employees over data retention concerns",
-        "summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for",
-        "summary_en": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for",
-        "long_summary": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm […]",
-        "long_summary_en": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While Microsoft quickly rolled out Claude Fable 5 to its GitHub Copilot and Foundry customers, I'm […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
-        "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
-        "summary": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/09/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free t",
-        "summary_en": "The four major AI chatbots have each shipped significant updates in early 2026: <strong>OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7</strong>, xAI rolled out Grok 4.3 Beta, and Google c",
-        "long_summary": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/09/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free to $200/month. Claude Opus 4.7 scores 87.6% on SWE-bench Verified, making it the strongest coding model currently available. Grok 4.3 adds document generation and video input but locks its best features behind the $300/month SuperGrok Heavy tier. Gemini 2.5 Pro offers the largest context window at 1 million tokens and ships natively inside Google Workspace. The four major AI chatbots have each shipped significant updates in early 2026: OpenAI released GPT-5.5, Anthropic launched Claude Opus 4.7, xAI rolled out Grok 4.3 Beta, and Google continued refining Gemini 2.5 Pro with improved coding and text-to-speech capabilities. Below is a practical comparison of what each model actually delivers in terms of pricing, performance, and best use cases. Model Latest version Context window SWE-bench Verified Best for Starting price ChatGPT GPT-5.5 (Apr 2026) 1M tokens 74.9% (GPT-5) Writing, multimodal, agentic tasks Free (ads) / $20/mo Plus Claude Opus 4.7 (Apr 2026) 1M tokens 87.6% Coding, long-horizon agent work $20/mo Pro Grok 4.3 Beta (Apr 2026) 128K / 256K (Heavy) N/A Research, social media, X integration $30/mo SuperGrok Gemini 2.5 Pro (2026) 1M tokens N/A Google Workspace, Android, multimodal Free / $20/mo Advanced Grok 4 (Latest: 4.3 Beta): Overview Grok, the AI system from xAI, has p",
-        "long_summary_en": "By Julia Gavrilova · Created: 04/29/2026 · Updated: 06/09/2026 · 15 min. read In this article Key Takeaways GPT-5.5 (April 2026) leads in agentic workflows and multimodal tasks, with plans from free to $200/month. Claude Opus 4.7 scores 87.6% on SWE-bench Verified, making it the strongest coding model currently available. Grok 4.3 adds document generation and video input but locks its best features behind the $300/month SuperGrok Heavy tier. Gemini 2.5 Pro offers the largest context window at 1 million tokens and ships natively inside Google Workspace. The four major AI chatbots have each ship",
-        "image": "https://strapi.aws-us-east-2.albato.com/uploads/Grok_Chat_GPT_Gemini_Claude_A_Complete_Overview_c35f0d08bf.png",
-        "source": "Albato",
-        "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-        "title_en": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-        "summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-        "summary_en": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-        "long_summary": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-        "long_summary_en": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
         "date": "11 June 2026"
       }
     ],
@@ -914,13 +914,6 @@
   },
   "hotNews": [
     {
-      "title": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
-      "title_en": "Grok vs ChatGPT vs Gemini vs Claude: 2026 Comparison",
-      "source": "Albato",
-      "url": "https://albato.com/blog/publications/grok-chatgpt-gemini-claude-overview",
-      "date": "11 June 2026"
-    },
-    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -933,6 +926,13 @@
       "source": "Llm-Stats",
       "url": "https://llm-stats.com/llm-updates",
       "date": "11 June 2026"
+    },
+    {
+      "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+      "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
+      "source": "Etvbharat",
+      "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
+      "date": "29 March 2026"
     }
   ]
 }
