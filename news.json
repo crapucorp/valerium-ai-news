@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "11 June 2026 - 12:31",
+  "lastUpdate": "11 June 2026 - 13:02",
   "categories": {
     "general": [
+      {
+        "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+        "title_en": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
+        "summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
+        "long_summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
+        "long_summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+        "date": "11 June 2026"
+      },
       {
         "title": "ShopAgentic raises €1.9M to build commerce infrastructure for AI shopping agents",
         "title_en": "ShopAgentic raises €1.9M to build commerce infrastructure for AI shopping agents",
@@ -168,18 +180,6 @@
         "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0nh5hn7.jpg.webp",
         "source": "Bbc",
         "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
-        "title_en": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
-        "summary": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text",
-        "summary_en": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text",
-        "long_summary": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation appeared first on MarkTechPost.",
-        "long_summary_en": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation appeared first on MarkTechPost.",
-        "image": "https://www.techbuzz.ai/cdn-cgi/image/width=828,quality=75,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/file_68be1ab689.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
         "date": "10 June 2026"
       }
     ],
@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "LLM News Today (June 2026) – AI Model Releases",
+        "title_en": "LLM News Today (June 2026) – AI Model Releases",
+        "summary": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls ba",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls back to Opus 4.8 in guarded domains. Jonathan Chavez · Jun 9, 2026 · 11 min",
+        "long_summary_en": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls back to Opus 4.8 in guarded domains. Jonathan Chavez · Jun 9, 2026 · 11 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "Google is funding 300,000 electricians and welders, because the AI boom is running out of them",
+        "title_en": "Google is funding 300,000 electricians and welders, because the AI boom is running out of them",
+        "summary": "The AI boom has a problem no amount of capital can solve on its own: there are not enough electricians, welders, and pipefitters to build it. Google’s answer is to pay to train them. Its philanthropic",
+        "summary_en": "The AI boom has a problem no amount of capital can solve on its own: there are not enough electricians, welders, and pipefitters to build it. Google’s answer is to pay to train them. Its philanthropic",
+        "long_summary": "The AI boom has a problem no amount of capital can solve on its own: there are not enough electricians, welders, and pipefitters to build it. Google’s answer is to pay to train them. Its philanthropic arm, Google.org, said it is committing $50M to prepare more than 300,000 skilled-trade workers across over 20 US states, […]\nThis story continues at The Next Web",
+        "long_summary_en": "The AI boom has a problem no amount of capital can solve on its own: there are not enough electricians, welders, and pipefitters to build it. Google’s answer is to pay to train them. Its philanthropic arm, Google.org, said it is committing $50M to prepare more than 300,000 skilled-trade workers across over 20 US states, […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/skilled-trades-worker.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/google-50m-skilled-trades-ai-data-centre-workforce",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "Claude Fable won’t answer basic biology questions",
+        "title_en": "Claude Fable won’t answer basic biology questions",
+        "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
+        "summary_en": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
+        "long_summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship […]",
+        "long_summary_en": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+        "date": "11 June 2026"
+      },
+      {
         "title": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous",
         "title_en": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous",
         "summary": "inc.com Please enable JS and disable any ad blocker",
@@ -690,42 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/llm-updates",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "OpenAI files for IPO as AI investment race intensifies",
-        "title_en": "OpenAI files for IPO as AI investment race intensifies",
-        "summary": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By ",
-        "summary_en": "<strong>The company has reportedly missed “multiple internal revenue and user targets” after fierce competition from Anthropic and Google</strong>, whose Gemini AI model is increasingly popular.",
-        "long_summary": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By Steve Kopack OpenAI announced Monday afternoon that it has filed to offer its stock on public markets, just a week after its chief rival, Anthropic, did the same . Subscribe to read this story ad-free Get unlimited access to ad-free articles and exclusive content. “We recently submitted a confidential S-1,” the ChatGPT maker said in a post on X , referring to the formal name of the filing for an initial public offering. “We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company.” The artificial intelligence startup added that “it’s a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best.” In March, OpenAI’s valuation soared to $852 billion after it raised a fresh $122 billion in cash to fuel its ever-expanding ambitions in AI. That cash is being used to develop advanced AI models, but also the extensive physical data center infrastructure and cloud computing capacity required to run those systems. On June 1, Anthropic also filed for a public stock offering. That startup was worth $952 billion in its most recent funding round. Regardless of when OpenAI and Anthropic decide to begin trading this year, they will be the second and third mega-IPOs to follow ",
-        "long_summary_en": "Add NBC News to Google OpenAI files for IPO as AI investment race intensifies 00:42 Get more news Live on Share Add NBC News to Google June 8, 2026, 5:27 PM EDT / Updated June 8, 2026, 5:39 PM EDT By Steve Kopack OpenAI announced Monday afternoon that it has filed to offer its stock on public markets, just a week after its chief rival, Anthropic, did the same . Subscribe to read this story ad-free Get unlimited access to ad-free articles and exclusive content. “We recently submitted a confidential S-1,” the ChatGPT maker said in a post on X , referring to the formal name of the filing for an i",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260608-Open-AI-CEO-Sam-Altman-vsb-1724-4cd0b9.jpg",
-        "source": "Nbcnews",
-        "url": "https://www.nbcnews.com/business/markets/openai-chatgpt-files-ipo-rcna349101",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
-        "title_en": "Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API",
-        "summary": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gem",
-        "summary_en": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gem",
-        "long_summary": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.\nThe post Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API appeared first on MarkTechPost.",
-        "long_summary_en": "Gemini 3.5 Live Translate streams speech-to-speech translation across 70+ languages. It generates audio continuously, staying a few seconds behind the speaker. The model reaches developers via the Gemini Live API, plus Google Meet and the Translate app.\nThe post Google Releases Gemini 3.5 Live Translate, a Streaming Speech-to-Speech Audio Model Covering 70+ Languages Across Meet, Translate, and the Live API appeared first on MarkTechPost.",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/gemini-35-live-translate-104231805-1x1.png?VersionId=BwwqYQZAN1igw3OnE0MeGp_iJjPhfQ56&size=80:80",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/09/google-releases-gemini-3-5-live-translate-a-streaming-speech-to-speech-audio-model-covering-70-languages-across-meet-translate-and-the-live-api/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
-        "title_en": "Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier",
-        "summary": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: S",
-        "summary_en": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: S",
-        "long_summary": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier appeared first on MarkTechPost.",
-        "long_summary_en": "Claude Fable 5 ships generally available with classifiers; Mythos 5 stays limited, cyber safeguards lifted, through Project Glasswing.\nThe post Anthropic Releases Claude Fable 5 and Claude Mythos 5: Same Underlying Model, Different Safeguards, New Mythos-Class Tier appeared first on MarkTechPost.",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
         "date": "10 June 2026"
       }
     ],
