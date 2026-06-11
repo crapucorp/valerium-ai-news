@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "11 June 2026 - 16:36",
+  "lastUpdate": "11 June 2026 - 17:06",
   "categories": {
     "general": [
+      {
+        "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+        "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+        "summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "summary_en": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
+        "long_summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "long_summary_en": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/anthropic-ipo-ai-claude-enterprise-funding-investment-business-strategy-artificial-intelligence-1024x768.jpg",
+        "source": "Artificialintelligence-News",
+        "url": "https://www.artificialintelligence-news.com/",
+        "date": "11 June 2026"
+      },
       {
         "title": "Artificial intelligence - BBC News",
         "title_en": "Artificial intelligence - BBC News",
@@ -168,18 +180,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
         "source": "Techcrunch",
         "url": "https://techcrunch.com/category/artificial-intelligence/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Artificial Intelligence - AI News",
-        "title_en": "Artificial Intelligence - AI News",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "<strong>Liu, a Hangzhou-based contractor at a large Chinese internet firm, says her employer began quietly firing contractors in March after it ordered staff to use AI tools including AI agent OpenCla",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://s.yimg.com/lo/mysterio/api/aa9b92b7931df698244a373390f26084cab16b24b33df2fc7a1e537678faa25f/lightyear_networkapi/resizefill_w670_h376;quality_85;format_webp/https://media.zenfs.com/en/decrypt_157/f60b92f749e188d0f92c7e3ad5b9ae75",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
         "date": "10 June 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms | TechPolicy.Press",
+        "title_en": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms | TechPolicy.Press",
+        "summary": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms",
+        "summary_en": "A quick test of Google’s default search shows that it is currently retaining its old policy of omitting AI content in that context, though Gemini and AI Mode search now respond to elections-related qu",
+        "long_summary": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms",
+        "long_summary_en": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms",
+        "image": "https://cdn.sanity.io/images/3tzzh18d/production/5e5a0383b04e3891b3d59c13f03413edcbd6e889-1200x675.png",
+        "source": "Techpolicy",
+        "url": "https://www.techpolicy.press/how-openai-google-and-anthropic-plan-to-handle-the-2026-us-midterms/",
+        "date": "11 June 2026"
+      },
+      {
         "title": "Following Google Gemini Large Model Price Cuts, OpenAI Also Set for Price Reduction Wave; Will It Evolve Into ‘New Energy Vehicle-Style’ Competition?",
         "title_en": "Following Google Gemini Large Model Price Cuts, OpenAI Also Set for Price Reduction Wave; Will It Evolve Into ‘New Energy Vehicle-Style’ Competition?",
         "summary": "Analysis Stocks Following Google Gemini Large Model Price Cuts, OpenAI Also Set for Price Reduction Wave; Will It Evolve Into ‘New Energy Vehicle-Style’ Competition? TradingKey Author Huanyao Fang Jun",
@@ -714,18 +726,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous",
-        "title_en": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous",
-        "summary": "inc.com Please enable JS and disable any ad blocker",
-        "summary_en": "Chi-Hua Chien, co-founder and managing partner at Goodwater Capital, told TechCrunch the price cut represents a step toward the type of commoditization that could eventually define value in AI infrast",
-        "long_summary": "inc.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "inc.com Please enable JS and disable any ad blocker",
-        "image": "https://static.toiimg.com/thumb/msid-130236153,imgsize-87738,width-400,height-225,resizemode-4/130236153.jpg",
-        "source": "Inc",
-        "url": "https://www.inc.com/chloe-aiello/googles-new-ai-price-cuts-should-make-openai-and-anthropic-nervous/91359297",
         "date": "11 June 2026"
       }
     ],
