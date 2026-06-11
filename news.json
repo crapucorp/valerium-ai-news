@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "11 June 2026 - 01:46",
+  "lastUpdate": "11 June 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "ShopAgentic raises €1.9M to build commerce infrastructure for AI shopping agents",
+        "title_en": "ShopAgentic raises €1.9M to build commerce infrastructure for AI shopping agents",
+        "summary": "A German startup wants to rebuild online commerce for shoppers who are not human. ShopAgentic has raised a €1.9mn pre-seed to do it. May Ventures and Greenfield Capital co-led the oversubscribed round",
+        "summary_en": "A German startup wants to rebuild online commerce for shoppers who are not human. ShopAgentic has raised a €1.9mn pre-seed to do it. May Ventures and Greenfield Capital co-led the oversubscribed round",
+        "long_summary": "A German startup wants to rebuild online commerce for shoppers who are not human. ShopAgentic has raised a €1.9mn pre-seed to do it. May Ventures and Greenfield Capital co-led the oversubscribed round. What ShopAgentic is building ShopAgentic calls itself a “native agentic commerce system”. It runs a squad of specialised AI agents, each owning one […]\nThis story continues at The Next Web",
+        "long_summary_en": "A German startup wants to rebuild online commerce for shoppers who are not human. ShopAgentic has raised a €1.9mn pre-seed to do it. May Ventures and Greenfield Capital co-led the oversubscribed round. What ShopAgentic is building ShopAgentic calls itself a “native agentic commerce system”. It runs a squad of specialised AI agents, each owning one […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/shopagentic-team-1.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/shopagentic-1-9m-pre-seed-agentic-commerce",
+        "date": "11 June 2026"
+      },
       {
         "title": "How memory tools can make AI models worse",
         "title_en": "How memory tools can make AI models worse",
@@ -168,18 +180,6 @@
         "image": "https://www.techbuzz.ai/cdn-cgi/image/width=828,quality=75,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/file_68be1ab689.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-        "title_en": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
-        "summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
-        "long_summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
-        "long_summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
         "date": "10 June 2026"
       }
     ],
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
+        "title_en": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
+        "summary": "How to Use Agentic AI for Content Creation",
+        "summary_en": "<strong>Instead of filming with a physical camera, you describe what you want (through text prompts, reference images, or both) and the AI produces a video clip</strong>. Modern AI video tools like Hi",
+        "long_summary": "How to Use Agentic AI for Content Creation",
+        "long_summary_en": "How to Use Agentic AI for Content Creation",
+        "image": "https://higgsfield.ai/thumbnail/default.jpg",
+        "source": "Higgsfield",
+        "url": "https://higgsfield.ai/ai-video",
+        "date": "11 June 2026"
+      },
+      {
         "title": "Free AI Video Generator: Text to Video online - Adobe Firefly",
         "title_en": "Free AI Video Generator: Text to Video online - Adobe Firefly",
         "summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video",
@@ -533,21 +545,57 @@
         "source": "Higgsfield",
         "url": "https://higgsfield.ai/",
         "date": "06 June 2026"
-      },
-      {
-        "title": "An AI agent found 21 zero-days in FFmpeg for $1,000. Chrome just patched a record 429 bugs.",
-        "title_en": "An AI agent found 21 zero-days in FFmpeg for $1,000. Chrome just patched a record 429 bugs.",
-        "summary": "A security startup’s autonomous AI agent found 21 previously unknown vulnerabilities in FFmpeg, the open-source media library embedded in almost everything that touches video. The startup, depthfirst,",
-        "summary_en": "A security startup’s autonomous AI agent found 21 previously unknown vulnerabilities in FFmpeg, the open-source media library embedded in almost everything that touches video. The startup, depthfirst,",
-        "long_summary": "A security startup’s autonomous AI agent found 21 previously unknown vulnerabilities in FFmpeg, the open-source media library embedded in almost everything that touches video. The startup, depthfirst, says the run cost roughly $1,000 in compute. Some of the bugs had been hiding in the codebase for more than 20 years. Days later, Google shipped Chrome […]\nThis story continues at The Next Web",
-        "long_summary_en": "A security startup’s autonomous AI agent found 21 previously unknown vulnerabilities in FFmpeg, the open-source media library embedded in almost everything that touches video. The startup, depthfirst, says the run cost roughly $1,000 in compute. Some of the bugs had been hiding in the codebase for more than 20 years. Days later, Google shipped Chrome […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/ai-agent-21-zero-days-ffmpeg-chrome-429.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/ai-agent-21-zero-days-ffmpeg-chrome-429",
-        "date": "06 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous",
+        "title_en": "Google’s New AI Price Cuts Should Make OpenAI and Anthropic Nervous",
+        "summary": "inc.com Please enable JS and disable any ad blocker",
+        "summary_en": "Chi-Hua Chien, co-founder and managing partner at Goodwater Capital, told TechCrunch the price cut represents a step toward the type of commoditization that could eventually define value in AI infrast",
+        "long_summary": "inc.com Please enable JS and disable any ad blocker",
+        "long_summary_en": "inc.com Please enable JS and disable any ad blocker",
+        "image": "https://static.toiimg.com/thumb/msid-130236153,imgsize-87738,width-400,height-225,resizemode-4/130236153.jpg",
+        "source": "Inc",
+        "url": "https://www.inc.com/chloe-aiello/googles-new-ai-price-cuts-should-make-openai-and-anthropic-nervous/91359297",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms | TechPolicy.Press",
+        "title_en": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms | TechPolicy.Press",
+        "summary": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms",
+        "summary_en": "A quick test of Google’s default search shows that it is currently retaining its old policy of omitting AI content in that context, though Gemini and AI Mode search now respond to elections-related qu",
+        "long_summary": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms",
+        "long_summary_en": "How OpenAI, Google, and Anthropic Plan to Handle the 2026 US Midterms",
+        "image": "https://cdn.sanity.io/images/3tzzh18d/production/5e5a0383b04e3891b3d59c13f03413edcbd6e889-1200x675.png",
+        "source": "Techpolicy",
+        "url": "https://www.techpolicy.press/how-openai-google-and-anthropic-plan-to-handle-the-2026-us-midterms/",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "OpenAI plugs Visa into ChatGPT so AI agents can shop and pay at any Visa merchant",
+        "title_en": "OpenAI plugs Visa into ChatGPT so AI agents can shop and pay at any Visa merchant",
+        "summary": "OpenAI is wiring a payment network into ChatGPT. Under an expanded partnership announced at the Visa Payments Forum on Wednesday, AI agents inside OpenAI’s products will be able to shop and pay on a u",
+        "summary_en": "OpenAI is wiring a payment network into ChatGPT. Under an expanded partnership announced at the Visa Payments Forum on Wednesday, AI agents inside OpenAI’s products will be able to shop and pay on a u",
+        "long_summary": "OpenAI is wiring a payment network into ChatGPT. Under an expanded partnership announced at the Visa Payments Forum on Wednesday, AI agents inside OpenAI’s products will be able to shop and pay on a user’s behalf at, in principle, any of the more than 175 million merchant locations that accept Visa, once the user grants […]\nThis story continues at The Next Web",
+        "long_summary_en": "OpenAI is wiring a payment network into ChatGPT. Under an expanded partnership announced at the Visa Payments Forum on Wednesday, AI agents inside OpenAI’s products will be able to shop and pay on a user’s behalf at, in principle, any of the more than 175 million merchant locations that accept Visa, once the user grants […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/visa-openai-partnership.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/openai-visa-chatgpt-agentic-commerce-payments",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei has just one direct report",
+        "title_en": "Anthropic’s Dario Amodei has just one direct report",
+        "summary": "If you doubted his genius, doubt no more.",
+        "summary_en": "If you doubted his genius, doubt no more.",
+        "long_summary": "If you doubted his genius, doubt no more.",
+        "long_summary_en": "If you doubted his genius, doubt no more.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+        "date": "11 June 2026"
+      },
       {
         "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
         "title_en": "Microsoft restricts Claude Fable for employees over data retention concerns",
@@ -678,54 +726,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&strip=all&crop=0,0,100,100&w=2400",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/10/anthropic-releases-claude-fable-5-and-claude-mythos-5-same-underlying-model-different-safeguards-new-mythos-class-tier/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "OpenAI plans stock market debut, setting up new race with Anthropic",
-        "title_en": "OpenAI plans stock market debut, setting up new race with Anthropic",
-        "summary": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut 1 day ago Share Save Add as preferred on Google Kali Hays Technology reporter, San Francisco Getty Images OpenAI, the ",
-        "summary_en": "OpenAI, the company behind popular chatbot ChatGPT, has become the latest artificial intelligence (AI) giant to reveal plans to sell shares to the public through a stock listing. Its decision had been",
-        "long_summary": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut 1 day ago Share Save Add as preferred on Google Kali Hays Technology reporter, San Francisco Getty Images OpenAI, the company behind popular chatbot ChatGPT, has become the latest artificial intelligence (AI) giant to reveal plans to sell shares to the public through a stock listing. Its decision had been expected for months, but the company's announcement comes exactly one week after rival AI firm Anthropic said it was planning to go public , too. OpenAI said on Monday it had made a confidential filing with the US Securities and Exchange Commission to pursue an initial public offering (IPO) at some point in the future. Its plans are the latest in a wave of heavyweight IPOs, alongside Anthropic and billionaire Elon Musk's rocket company, SpaceX, which is set to debut on the Nasdaq on Friday . SpaceX is targeting a share price which would value the company at $1.75tn (£1.3tn). Announcing its IPO plans on Monday, OpenAI said: \"We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company.\" The three firms all have a \"vast need for cash\", said Sunil Krishnan from Aviva Investors, and \"no-one wants to be last\" in the game to go public, he told the BBC's Today programme. He said that the firms are making huge investments in their AI infrastructure including on chips, and training their AI models, which all come at massive expen",
-        "long_summary_en": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut 1 day ago Share Save Add as preferred on Google Kali Hays Technology reporter, San Francisco Getty Images OpenAI, the company behind popular chatbot ChatGPT, has become the latest artificial intelligence (AI) giant to reveal plans to sell shares to the public through a stock listing. Its decision had been expected for months, but the company's announcement comes exactly one week after rival AI firm Anthropic said it was planning to go public , too. OpenAI said on Monday it had made a confidential filing with the ",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/af21/live/aa735d80-638a-11f1-a153-39ca27a43c2a.jpg",
-        "source": "Bbc",
-        "url": "https://www.bbc.com/news/articles/cd958eqg1n5o",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "LLM News Today (June 2026) – AI Model Releases",
-        "title_en": "LLM News Today (June 2026) – AI Model Releases",
-        "summary": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls ba",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls back to Opus 4.8 in guarded domains. Jonathan Chavez · Jun 9, 2026 · 11 min",
-        "long_summary_en": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls back to Opus 4.8 in guarded domains. Jonathan Chavez · Jun 9, 2026 · 11 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
-        "title_en": "Google Won the Search War. It's Using the Same Tactic to Win in AI. - Business Insider",
-        "summary": "Business Insider tells the innovative stories you want to know",
-        "summary_en": "While Anthropic hypes its unreleased Mythos AI model as dangerously powerful, Google is changing the conversation — to cost and speed. Google says its latest Gemini 3.5 Flash model rivals frontier off",
-        "long_summary": "Business Insider tells the innovative stories you want to know",
-        "long_summary_en": "Business Insider tells the innovative stories you want to know",
-        "image": "https://i.insider.com/6a0d73cdce0a5b2f12d7da7d?width=1200&format=jpeg",
-        "source": "Businessinsider",
-        "url": "https://www.businessinsider.com/google-ai-cost-tokens-gemini-flash-openai-anthropic-gemini-search-2026-5",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Claude Fable won’t answer basic biology questions",
-        "title_en": "Claude Fable won’t answer basic biology questions",
-        "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
-        "summary_en": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
-        "long_summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship […]",
-        "long_summary_en": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it hands off the query to the former flagship […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_2_A_3800fc.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
         "date": "10 June 2026"
       }
     ],
@@ -928,11 +928,11 @@
       "date": "05 June 2026"
     },
     {
-      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
-      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
-      "source": "Republicworld",
-      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
-      "date": "10 June 2026"
+      "title": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
+      "title_en": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/technology/how-claude-fable-5-compares-to-google-gemini-3-5-pro-openai-gpt-5-5-and-claude-mythos-preview-in-terms-of-performance-article-13946102.html",
+      "date": "11 June 2026"
     }
   ]
 }
