@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11 June 2026 - 13:32",
+  "lastUpdate": "11 June 2026 - 14:03",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "What SpaceX’s record IPO really means for the OpenAI and Anthropic listings behind it",
+        "title_en": "What SpaceX’s record IPO really means for the OpenAI and Anthropic listings behind it",
+        "summary": "The SpaceX IPO is set to price the biggest stock-market debut in history this week, raising about $75bn at a valuation near $1.75tn, with shares trading on Nasdaq from Friday. But the most consequenti",
+        "summary_en": "The SpaceX IPO is set to price the biggest stock-market debut in history this week, raising about $75bn at a valuation near $1.75tn, with shares trading on Nasdaq from Friday. But the most consequenti",
+        "long_summary": "The SpaceX IPO is set to price the biggest stock-market debut in history this week, raising about $75bn at a valuation near $1.75tn, with shares trading on Nasdaq from Friday. But the most consequential thing about Elon Musk’s rocket company going public may have little to do with rockets, or with Musk. It is what […]\nThis story continues at The Next Web",
+        "long_summary_en": "The SpaceX IPO is set to price the biggest stock-market debut in history this week, raising about $75bn at a valuation near $1.75tn, with shares trading on Nasdaq from Friday. But the most consequential thing about Elon Musk’s rocket company going public may have little to do with rockets, or with Musk. It is what […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2023/10/spacex-europe-deal.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/spacex-ipo-openai-anthropic-private-market-test",
+        "date": "11 June 2026"
+      },
+      {
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "title_en": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
+        "summary_en": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
+        "long_summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable […]",
+        "long_summary_en": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "date": "11 June 2026"
+      },
+      {
         "title": "LLM News Today (June 2026) – AI Model Releases",
         "title_en": "LLM News Today (June 2026) – AI Model Releases",
         "summary": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls ba",
@@ -703,30 +727,6 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
         "date": "11 June 2026"
-      },
-      {
-        "title": "OpenAI says China-linked accounts used ChatGPT to fuel opposition to US data centres",
-        "title_en": "OpenAI says China-linked accounts used ChatGPT to fuel opposition to US data centres",
-        "summary": "OpenAI said a cluster of ChatGPT accounts linked to China attempted to stir up local opposition to US data centres by posing as Americans and posting AI-generated content about rising electricity cost",
-        "summary_en": "OpenAI said a cluster of ChatGPT accounts linked to China attempted to stir up local opposition to US data centres by posing as Americans and posting AI-generated content about rising electricity cost",
-        "long_summary": "OpenAI said a cluster of ChatGPT accounts linked to China attempted to stir up local opposition to US data centres by posing as Americans and posting AI-generated content about rising electricity costs. The company nicknamed the campaign “Data Center Bandwagon” and said the accounts were likely tied to a private Chinese technology firm working for […]\nThis story continues at The Next Web",
-        "long_summary_en": "OpenAI said a cluster of ChatGPT accounts linked to China attempted to stir up local opposition to US data centres by posing as Americans and posting AI-generated content about rising electricity costs. The company nicknamed the campaign “Data Center Bandwagon” and said the accounts were likely tied to a private Chinese technology firm working for […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/openai-china-data-center-influence-campaign.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/openai-china-data-center-influence-campaign",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Mic",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Microsoft MiniMax Google Alibaba Cloud / Qwen Team xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI Jun 9, 2026 · 1 release Claude Fable 5 Release Proprietary Anthropic • 1d ago Jun 5, 2026 · 1 release U2 Release Proprietary Unisound • 5d ago Jun 2, 2026 · 2 release s MAI-Code-1-Flash Fast Proprietary Microsoft • 1w ago MAI-Thinking-1 Reasoning Proprietary Microsoft • 1w ago Jun 1, 2026 · 1 release MiniMax M3 Lightweight Open Source MiniMax • 1w ago May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 1w ago May 23, 2026 · 1 release Gemma 4 12B Unified Release Open Source Google • 2w ago May 19, 2026 · 1 release Gemini 3.5 Flash Lightweight Proprietary Google • 3w ago 1 – 8 of 312 1 2 3 4 5 6 7 Last 30 days Models that got better Worse 0 Better 2 Sigma-normalized vs. each model's baseline Gemini 3.1 Flash Image Google · 3mo old +2.54σ now +4.78σ 102 votes · 1 arena Claude Opus 4.6 Anthropic · 4mo old +2.43σ now +4.37σ 147 v",
-        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Anthropic Unisound Microsoft MiniMax Google Alibaba Cloud / Qwen Team xAI OpenAI Mistral AI Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance Xiaomi NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "10 June 2026"
       }
     ],
     "audio": [
@@ -928,11 +928,11 @@
       "date": "05 June 2026"
     },
     {
-      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
-      "date": "10 June 2026"
+      "title": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
+      "title_en": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/technology/how-claude-fable-5-compares-to-google-gemini-3-5-pro-openai-gpt-5-5-and-claude-mythos-preview-in-terms-of-performance-article-13946102.html",
+      "date": "11 June 2026"
     }
   ]
 }
