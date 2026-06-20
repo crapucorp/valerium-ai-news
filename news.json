@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "11 June 2026 - 18:07",
+  "lastUpdate": "20 June 2026 - 18:31",
   "categories": {
     "general": [
+      {
+        "title": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
+        "title_en": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
+        "summary": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the ",
+        "summary_en": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the ",
+        "long_summary": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline appeared first on MarkTechPost.",
+        "long_summary_en": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog1913-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
+        "title_en": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
+        "summary": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That",
+        "summary_en": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That",
+        "long_summary": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost.",
+        "long_summary_en": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog19-1-324x160.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "AirPods Pro 3 heart rate sensor nearly matches Apple Watch in accuracy test",
+        "title_en": "AirPods Pro 3 heart rate sensor nearly matches Apple Watch in accuracy test",
+        "summary": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate ",
+        "summary_en": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate ",
+        "long_summary": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate device the publication has measured. Only the Apple Watch Series 11 performed better, averaging 0.98% error in the same test protocol. The […]\nThis story continues at The Next Web",
+        "long_summary_en": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate device the publication has measured. Only the Apple Watch Series 11 performed better, averaging 0.98% error in the same test protocol. The […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/airpods-pro-3-heart-rate-accuracy-apple-watch-cnet-test.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/airpods-pro-3-heart-rate-accuracy-apple-watch-cnet-test",
+        "date": "20 June 2026"
+      },
       {
         "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
         "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
@@ -145,45 +181,21 @@
         "source": "Apnews",
         "url": "https://apnews.com/hub/artificial-intelligence",
         "date": "10 June 2026"
-      },
-      {
-        "title": "Researchers tricked an OpenClaw AI agent into leaking AWS keys and customer data with a phishing email",
-        "title_en": "Researchers tricked an OpenClaw AI agent into leaking AWS keys and customer data with a phishing email",
-        "summary": "Security researchers at Varonis built an OpenClaw email agent, connected it to a Gmail inbox with fake company data, and then phished it. The agent, dubbed Pinchy, handed over AWS credentials, databas",
-        "summary_en": "Security researchers at Varonis built an OpenClaw email agent, connected it to a Gmail inbox with fake company data, and then phished it. The agent, dubbed Pinchy, handed over AWS credentials, databas",
-        "long_summary": "Security researchers at Varonis built an OpenClaw email agent, connected it to a Gmail inbox with fake company data, and then phished it. The agent, dubbed Pinchy, handed over AWS credentials, database connection strings, and a customer export without verifying who was asking. It took a single impersonation email. The experiment tested whether AI agents […]\nThis story continues at The Next Web",
-        "long_summary_en": "Security researchers at Varonis built an OpenClaw email agent, connected it to a Gmail inbox with fake company data, and then phished it. The agent, dubbed Pinchy, handed over AWS credentials, database connection strings, and a customer export without verifying who was asking. It took a single impersonation email. The experiment tested whether AI agents […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/openclaw-ai-agent-phishing-varonis-pinchy.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/openclaw-ai-agent-phishing-varonis-pinchy",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Artificial Intelligence News -- ScienceDaily",
-        "title_en": "Artificial Intelligence News -- ScienceDaily",
-        "summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or ",
-        "summary_en": "May 18, 2026  <strong>Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing while using far less energy</strong>. The breakthrough may help rep",
-        "long_summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... This New Chip Could Slash Data Center Energy Waste Apr. 10, 2026 Â A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever ... This New Chip Survives 1300Â°F (700Â°C) and Could Change AI Forever Apr. 7, 2026 Â A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronicsâ biggest limits. Built from an unusual stack ... AI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy Apr. 5, 2026 Â AI is consuming staggering amounts of energyâalready over 10% of U.S. electricityâand the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that ... DNA Robots Could Deliver Drugs and Hunt Viruses Inside Your Body Mar. 31, 2026 Â DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and build molecular-scale devices. By borrowing ideas from traditional robotics and combining ... AI-Powered Robot Learns How to Harvest Tomatoes More Efficiently Mar. 18, 2026 Â A new tomato-picki",
-        "long_summary_en": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... This New Chip Could Slash Data Center Energy Waste Apr. 10, 2026 Â A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever ... This New Chip Survives 1300Â°F (700Â°C) and Cou",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "source": "Sciencedaily",
-        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "AI News & Artificial Intelligence | TechCrunch",
-        "title_en": "AI News & Artificial Intelligence | TechCrunch",
-        "summary": "AI News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI , including large language mo",
-        "summary_en": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
-        "long_summary": "AI News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI , including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics. Headlines Only Load More In Brief ‘AI-pilled’ firms spend $7,500 per employee each month on AI Rebecca Bellan 2 hours ago AI How memory tools can make AI models worse Russell Brandom 3 hours ago Security Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable Lorenzo Franceschi-Bicchierai 3 hours ago Startups Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in Julie Bort 4 hours ago AI The three hard-tech moonshots fueling SpaceX’s unbelievable IPO Tim Fernholz 4 hours ago Startups Warner Music acquires AI attribution startup Sureel AI Aisha Malik 5 hours ago AI Jedify raises $24M to help companies arm AI agents with context on their business Ram Iyer 6 hours ago AI Decart’s new world model can simulate hours of photorealistic driving — with some caveats Rebecca Bellan 6 hours ago AI Meta signs first AI data center deal in India with Reliance Jagmeet Singh 12 hours ago AI Google just fired a warning shot in the AI subscription price wars Lucas Ropek Connie Loizos 19 hours ago Venture How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund Marina Temkin 20 hours ago AI Hey, Siri, here’s w",
-        "long_summary_en": "AI News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI , including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics. Headlines Only Load More In Brief ‘AI-pilled’ firms spend $7,500 per employee each month on AI Rebecca Bellan 2 hours ago AI How memory tools can make AI models worse Russell Brandom 3 hours ago Security Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable Lorenzo ",
-        "image": "https://techcrunch.com/wp-content/uploads/2018/04/tc-logo-2018-square-reverse2x.png?resize=1200,1200",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/category/artificial-intelligence/",
-        "date": "10 June 2026"
       }
     ],
     "image": [
+      {
+        "title": "Photoshop and Premiere now have AI assistants",
+        "title_en": "Photoshop and Premiere now have AI assistants",
+        "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launc",
+        "summary_en": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launc",
+        "long_summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used […]",
+        "long_summary_en": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launching today, Photoshop, Premiere, Illustrator, InDesign, and Frame.io now each have a bespoke AI Assistant that can be used […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Adobe-Photoshop-AI-assistant-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+        "date": "20 June 2026"
+      },
       {
         "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
         "title_en": "DoorDash’s new AI chatbot lets you order with prompts and photos",
@@ -351,21 +363,33 @@
         "source": "Techi",
         "url": "https://www.techi.com/chatgpt/",
         "date": "31 March 2026"
-      },
-      {
-        "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-        "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-        "summary": "ETV Bharat / technology Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How Users can now switch from ChatGPT and transfer their chat history to either Gemini or Claude ",
-        "summary_en": "It is worth noting that images and files generated in the previous AI chatbot service will not be included. How to transfer your information from ChatGPT to Claude · Earlier this month, <strong>Anthro",
-        "long_summary": "ETV Bharat / technology Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How Users can now switch from ChatGPT and transfer their chat history to either Gemini or Claude without losing old chats and personal information. Transfer chat histroy from ChatGPT to Gemini ( Image Credit: Google Blog ) By ETV Bharat Tech Team Published : March 28, 2026 at 6:05 PM IST 3 Min Read Hyderabad: Google recently updated its Artificial Intelligence (AI) model, Gemini, which now allows users to easily switch between AI chatbot services like ChatGPT, Claude, and Perplexity. Users can now easily transfer their chats and personal information, helping them to continue their old conversations without starting from scratch. Google states, “We're introducing the ability to import your full chat history, too. To reflect this evolution, we’re also renaming our “past chats” feature to “memory,” a change you’ll see rolling out in the app over the next few weeks.” The tech giant also mentions that users can simply upload a ZIP file of their chat history from other AI chatbot services and seamlessly start from where they left off. They can search their past conversation threads and continue building on them within Gemini. Switching to Gemini from other AI apps just got easier. Starting to roll out today on desktop, you can now bring your preferences and chat history into Gemini, so you can pick up right where you left off in just a few clicks. 🧵 pic.twitter.com/zlR1XceNkU — Go",
-        "long_summary_en": "ETV Bharat / technology Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How Users can now switch from ChatGPT and transfer their chat history to either Gemini or Claude without losing old chats and personal information. Transfer chat histroy from ChatGPT to Gemini ( Image Credit: Google Blog ) By ETV Bharat Tech Team Published : March 28, 2026 at 6:05 PM IST 3 Min Read Hyderabad: Google recently updated its Artificial Intelligence (AI) model, Gemini, which now allows users to easily switch between AI chatbot services like ChatGPT, Claude, and Perplexity. Users ca",
-        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/28-03-2026/1200-675-26349406-219-26349406-1774701163977.jpg",
-        "source": "Etvbharat",
-        "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
-        "date": "29 March 2026"
       }
     ],
     "video": [
+      {
+        "title": "Imagera AI — AI Image, Video & Voice Generator Online",
+        "title_en": "Imagera AI — AI Image, Video & Voice Generator Online",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>Imagera is your all-in-one AI content creation studio</strong> — images, videos, avatars, voices, and music in a single platform. Generate product photos, talking avatars, faceless videos, UGC",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://lovo.ai/_next/image?url=https://d1louvruny2caa.cloudfront.net/home_assets/images/create-voices.png&w=2048&q=75",
+        "source": "Imagera",
+        "url": "https://imagera.ai/",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "10 Best AI Video Generators in 2026 (Tested & Ranked)",
+        "title_en": "10 Best AI Video Generators in 2026 (Tested & Ranked)",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>OpenAI shut down the Sora web and app experiences on April 26, 2026</strong> (the API continues until September). Google launched Gemini Omni at I/O with conversational video editing. New mode",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "",
+        "source": "Techjournal",
+        "url": "https://techjournal.org/best-ai-video-generators",
+        "date": "20 June 2026"
+      },
       {
         "title": "Compare AI Video Generators Features (2026 Guide)",
         "title_en": "Compare AI Video Generators Features (2026 Guide)",
@@ -521,33 +545,117 @@
         "source": "Synthesia",
         "url": "https://www.synthesia.io/features/ai-video-generator",
         "date": "09 June 2026"
-      },
-      {
-        "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
-        "title_en": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
-        "summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen.",
-        "summary_en": "You can try any AI video generator in the media playground to test quality on your own prompts, or compare models side-by-side to see how they differ on the same input. ... Run Veo, Sora, Runway, Klin",
-        "long_summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $1.01 / M tokens See model page → Compare side-by-side",
-        "long_summary_en": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $1.01 / M tokens See model page → Compare side-by-side",
-        "image": "https://llm-stats.com/api/og/category/video_generation",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
-        "date": "08 June 2026"
-      },
-      {
-        "title": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
-        "title_en": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
-        "summary": "Search Everything",
-        "summary_en": "Type your prompt - turn ideas into stunning AI visuals instantly.",
-        "long_summary": "Search Everything",
-        "long_summary_en": "Search Everything",
-        "image": "https://cdn-imagine.vyro.ai/imagine-dashboard/assets/images/link-assets/og.png",
-        "source": "Imagine",
-        "url": "https://www.imagine.art/",
-        "date": "08 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic",
+        "title_en": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic",
+        "summary": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic Matthias Bastian View the LinkedIn Profile of Matthias Bastian Jun 19, 2026 Google Deepmind is losing",
+        "summary_en": "<strong>Nobel Prize winner John Jumper is leaving Google Deepmind for Anthropic after nearly nine years</strong>. Days earlier, Gemini co-lead Noam Shazeer left for OpenAI. Weeks before that, AlphaGo ",
+        "long_summary": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic Matthias Bastian View the LinkedIn Profile of Matthias Bastian Jun 19, 2026 Google Deepmind is losing another high-profile researcher to a rival. Nobel Prize winner and AlphaFold team lead John Jumper jumped ship to Anthropic after nearly nine years. Jumper shared the 2024 Nobel Prize in Chemistry with Deepmind CEO Demis Hassabis for developing AlphaFold, an AI system that transformed protein structure prediction . Hassabis thanked Jumper for their \"extraordinary partnership\" and said AlphaFold had \"changed the world.\" Jumper's departure adds to a growing list of high-profile exits from Google. | Image: via X The timing makes it worse. Shortly before, Gemini co-lead Noam Shazeer left for OpenAI , one of the minds behind the reasoning approach powering Google's latest models. Within weeks, Anthropic and OpenAI poached two of Google's most important researchers. And before that, Deepmind lost David Silver , a lead researcher behind AlphaGo and AlphaZero, who left to start his own startup focused on world models and reinforcement learning . Meanwhile, Gemini 3.5 Pro is reportedly set to launch in late June, but insider rumors suggest it won't be competitive with the latest models from Anthropic and OpenAI. Ad DEC_D_Incontent-1 Ad AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier repor",
+        "long_summary_en": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic Matthias Bastian View the LinkedIn Profile of Matthias Bastian Jun 19, 2026 Google Deepmind is losing another high-profile researcher to a rival. Nobel Prize winner and AlphaFold team lead John Jumper jumped ship to Anthropic after nearly nine years. Jumper shared the 2024 Nobel Prize in Chemistry with Deepmind CEO Demis Hassabis for developing AlphaFold, an AI system that transformed protein structure prediction . Hassabis thanked Jumper for their \"extraordinary partnership\" and said AlphaFold h",
+        "image": "https://the-decoder.com/wp-content/uploads/2026/01/deepmind_logo_wall-2.jpeg",
+        "source": "The-Decoder",
+        "url": "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+        "summary": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-t",
+        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Mu",
+        "long_summary": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI in partnership with the X platform), Google’s Gemini, OpenAI’s ChatGPT (AI services based on GPT language models), and Anthropic’s Claude. Pricing for these services is primarily usage-based (per token) and varies widely. For example, xAI’s Grok 4.1 models charge only $0.20 per 1 million input tokens and $0.50 per 1 million output tokens ( [1] ), whereas OpenAI’s flagship GPT-5.2 is priced at $1.75 per 1 M input and $14.00 per 1 M output tokens. Google’s Gemini 3.1 Pro leads the current generation at $2.00 input and $12.00 output (per million), while Gemini 3 Flash offers a budget option at $0.50/$3.00 . Anthropic’s Claude flagship Claude Opus 4.6 costs $5.00 input and $25.00 output per million tokens. Its mid-tier Sonnet 4.6 is $3/$15 (input/output) per million, and Haiku 4.5 is $1/$5 . Beyond per-token rates, pricing structures include subscri",
+        "long_summary_en": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (th",
+        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
+        "source": "Intuitionlabs",
+        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+        "title_en": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+        "summary": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and",
+        "summary_en": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and",
+        "long_summary": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its predictions.\nThe post How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Aut",
+        "long_summary_en": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its predictions.\nThe post How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Aut",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog1913-2-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "Wharton researchers coined ‘cognitive surrender’ to describe what happens when people let AI think for them",
+        "title_en": "Wharton researchers coined ‘cognitive surrender’ to describe what happens when people let AI think for them",
+        "summary": "A pair of Wharton researchers have put a name to something that many AI users have quietly started doing: letting chatbots make their decisions for them. Steven Shaw and Gideon Nave published a study ",
+        "summary_en": "A pair of Wharton researchers have put a name to something that many AI users have quietly started doing: letting chatbots make their decisions for them. Steven Shaw and Gideon Nave published a study ",
+        "long_summary": "A pair of Wharton researchers have put a name to something that many AI users have quietly started doing: letting chatbots make their decisions for them. Steven Shaw and Gideon Nave published a study in January titled “Thinking, Fast, Slow, and Artificial,” in which they introduced the term “cognitive surrender” to describe the tendency of […]\nThis story continues at The Next Web",
+        "long_summary_en": "A pair of Wharton researchers have put a name to something that many AI users have quietly started doing: letting chatbots make their decisions for them. Steven Shaw and Gideon Nave published a study in January titled “Thinking, Fast, Slow, and Artificial,” in which they introduced the term “cognitive surrender” to describe the tendency of […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/wharton-cognitive-surrender-ai-chatbots-decisions-moot-app.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/wharton-cognitive-surrender-ai-chatbots-decisions-moot-app",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "Who decides when AI is too dangerous?",
+        "title_en": "Who decides when AI is too dangerous?",
+        "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, ",
+        "summary_en": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, ",
+        "long_summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.  […]",
+        "long_summary_en": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.  […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "Barret Zoph is out at OpenAI again after just five months",
+        "title_en": "Barret Zoph is out at OpenAI again after just five months",
+        "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder",
+        "summary_en": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder",
+        "long_summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned […]",
+        "long_summary_en": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "The film about Sam Altman has been dropped by Amazon MGM",
+        "title_en": "The film about Sam Altman has been dropped by Amazon MGM",
+        "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
+        "summary_en": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
+        "long_summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
+        "long_summary_en": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+        "title_en": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+        "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
+        "summary_en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
+        "long_summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+        "long_summary_en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+        "date": "20 June 2026"
+      },
+      {
+        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+        "title_en": "Is the US government’s Anthropic ban accidentally helping the brand?",
+        "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
+        "summary_en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
+        "long_summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+        "long_summary_en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "date": "20 June 2026"
+      },
       {
         "title": "Claude Fable won’t answer basic biology questions",
         "title_en": "Claude Fable won’t answer basic biology questions",
@@ -618,114 +726,6 @@
         "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260523043831_Claude-illustration.png",
         "source": "Moneycontrol",
         "url": "https://www.moneycontrol.com/technology/how-claude-fable-5-compares-to-google-gemini-3-5-pro-openai-gpt-5-5-and-claude-mythos-preview-in-terms-of-performance-article-13946102.html",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "OpenAI Could Soon Drop Prices To Compete With Anthropic, Report Says",
-        "title_en": "OpenAI Could Soon Drop Prices To Compete With Anthropic, Report Says",
-        "summary": "Breaking Business OpenAI Mulls Price Cut After Altman Said Steep Costs Were ‘Huge Issue,’ Report Says By Siladitya Ray , Forbes Staff. Siladitya Ray is a New Delhi-based Forbes news team reporter. Fol",
-        "summary_en": "Gemini subscriptions product lead Vikas Kansal · announced on X that <strong>the plan will also include an increase in Google Drive storage from 200GB to 400GB</strong>. Google’s new plan undercuts Ch",
-        "long_summary": "Breaking Business OpenAI Mulls Price Cut After Altman Said Steep Costs Were ‘Huge Issue,’ Report Says By Siladitya Ray , Forbes Staff. Siladitya Ray is a New Delhi-based Forbes news team reporter. Follow Author Jun 11, 2026, 08:10am EDT Jun 11, 2026, 08:30am EDT Topline OpenAI is considering major price cuts for its AI tools in a bid to compete with rival Anthropic, according to a Wall Street Journal report , as both companies prepare to go public later this year and the steep usage cost prompts some companies to scale back or limit usage. OpenAI CEO Sam Altman recently acknowledged that the rising costs of AI tokens is becoming a \"huge issue\" for enterprise customers. Anadolu via Getty Images Key Facts According to the Journal , OpenAI’s planned price cuts will focus on its tokens—the units used to track AI tool usage for billing—as the ChatGPT maker expects similar moves from Anthropic. Instead of flat monthly subscriptions—which have stringent usage caps and other limits—most major business customers use metered billing via tokens for AI products and OpenAI CEO Sam Altman recently acknowledged that the rising costs of tokens have become a “huge issue.” Speaking at an OpenAI event earlier this month, Altman said it was almost becoming a “meme” now to say a company has used up its entire budget allocation for AI tokens in Q1, prompting executives to ask him, “Can you make this more efficient?” It’s unclear how OpenAI plans to implement this token price cut and if such cuts w",
-        "long_summary_en": "Breaking Business OpenAI Mulls Price Cut After Altman Said Steep Costs Were ‘Huge Issue,’ Report Says By Siladitya Ray , Forbes Staff. Siladitya Ray is a New Delhi-based Forbes news team reporter. Follow Author Jun 11, 2026, 08:10am EDT Jun 11, 2026, 08:30am EDT Topline OpenAI is considering major price cuts for its AI tools in a bid to compete with rival Anthropic, according to a Wall Street Journal report , as both companies prepare to go public later this year and the steep usage cost prompts some companies to scale back or limit usage. OpenAI CEO Sam Altman recently acknowledged that the r",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a2aa540a0e6bd4d93969fca/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/siladityaray/2026/06/11/openai-wants-to-slash-prices-after-altman-said-steep-costs-were-huge-issue-report-says/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
-        "title_en": "A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill Evolution Analysis, and Baseline Comparison",
-        "summary": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate th",
-        "summary_en": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate th",
-        "long_summary": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseline.\nThe post A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill ",
-        "long_summary_en": "We implement an instrumented workflow for Microsoft SkillOpt end to end. We set up the repository, connect OpenAI-compatible model access, and configure the optimizer and target models. We evaluate the original seed skill as a baseline, then run a real optimization loop with rollout, reflection, aggregation, selection, updating, and validation-based gating. We inspect training history, visualize accuracy, edit-budget behavior, and token usage, then compare the evolved skill against the baseline.\nThe post A Coding Implementation on Microsoft SkillOpt for Instrumented Prompt Optimization, Skill ",
-        "image": "https://cryptopond.com/wp-content/uploads/2026/06/A-Coding-Implementation-on-Microsoft-SkillOpt-for-Instrumented-Prompt-Optimization-300x214.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/10/a-coding-implementation-on-microsoft-skillopt-for-instrumented-prompt-optimization-skill-evolution-analysis-and-baseline-comparison/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Canada wants to ban under-16s from social media, and rein in AI chatbots too",
-        "title_en": "Canada wants to ban under-16s from social media, and rein in AI chatbots too",
-        "summary": "Canada has introduced a bill that would bar under-16s from social media and, in a twist that sets it apart from other countries, regulate AI chatbots in the same sweep. The Digital Safety Act, tabled ",
-        "summary_en": "Canada has introduced a bill that would bar under-16s from social media and, in a twist that sets it apart from other countries, regulate AI chatbots in the same sweep. The Digital Safety Act, tabled ",
-        "long_summary": "Canada has introduced a bill that would bar under-16s from social media and, in a twist that sets it apart from other countries, regulate AI chatbots in the same sweep. The Digital Safety Act, tabled on Wednesday, is the latest move in a global wave of governments cracking down on platforms over harm to children. […]\nThis story continues at The Next Web",
-        "long_summary_en": "Canada has introduced a bill that would bar under-16s from social media and, in a twist that sets it apart from other countries, regulate AI chatbots in the same sweep. The Digital Safety Act, tabled on Wednesday, is the latest move in a global wave of governments cracking down on platforms over harm to children. […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/carney-canada-ai-strategy-pope-leo.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/canada-digital-safety-act-under-16-social-media-chatbots",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "I used ChatGPT and Gemini side-by-side for a month on Android, and only one behaved like a senior AI tool",
-        "title_en": "I used ChatGPT and Gemini side-by-side for a month on Android, and only one behaved like a senior AI tool",
-        "summary": "By Parth Shah Published Jun 7, 2026, 1:00 PM EDT Parth is a technology analyst and writer specializing in the comprehensive review and feature exploration of the Android ecosystem. His work focus on p",
-        "summary_en": "... Microsoft integrated an AI ... AI launches of the year? ... Correct! <strong>Microsoft relaunched Bing with an integrated AI chatbot powered by OpenAI technology in February 2023</strong>....",
-        "long_summary": "By Parth Shah Published Jun 7, 2026, 1:00 PM EDT Parth is a technology analyst and writer specializing in the comprehensive review and feature exploration of the Android ecosystem. His work focus on productivity apps and flagship devices, particularly Google Pixel and Samsung mobile hardware and software. He provides expert guidance on productivity software, system optimization, and the advanced functionalities that allow users to maximize their device's potential. His analyses are crucial resources for readers seeking to master complex operating system features and streamline their digital workflows. When he is not busy with technical analysis and software evaluation, Parth dedicates his time to watching K-dramas, studying mobile technology trends and the role of artificial intelligence. Sign in to your Android Police account If you listen to the big tech keynotes, the AI assistant on your phone is supposed to be a seamless extension of your brain. But if you actually try to use them to get real work done on Android, the reality is often a mixed bag. To see which app is genuinely ready for prime time, I spent the last 30 days forcing ChatGPT and Gemini to compete for my attention on Android. Quiz 8 Questions · Test Your Knowledge AI chatbots Trivia challenge From ChatGPT to Gemini — how well do you really know the world of AI chatbots? Chatbots Gemini History Tech Giants AI Models Begin 01 / 8 History Which company released ChatGPT to the public in November 2022? A Google B ",
-        "long_summary_en": "By Parth Shah Published Jun 7, 2026, 1:00 PM EDT Parth is a technology analyst and writer specializing in the comprehensive review and feature exploration of the Android ecosystem. His work focus on productivity apps and flagship devices, particularly Google Pixel and Samsung mobile hardware and software. He provides expert guidance on productivity software, system optimization, and the advanced functionalities that allow users to maximize their device's potential. His analyses are crucial resources for readers seeking to master complex operating system features and streamline their digital wo",
-        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/06/comparing-chatgpt-gemini-on-android.png?w=1600&h=900&fit=crop",
-        "source": "Androidpolice",
-        "url": "https://www.androidpolice.com/used-chatgpt-gemini-side-by-side-for-month-on-android-and-one-behaved-like-senior-ai-tool/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Google Anthropic Uniso",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Google Anthropic Unisound Microsoft MiniMax Alibaba Cloud / Qwen Team xAI OpenAI Mistral AI Xiaomi Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld Cohere AI21 Labs Nous Research AssemblyAI Jun 10, 2026 · 1 release DiffusionGemma 26B-A4B Release Open Source Google • 1d ago Jun 9, 2026 · 1 release Claude Fable 5 Release Proprietary Anthropic • 2d ago Jun 5, 2026 · 1 release U2 Release Proprietary Unisound • 6d ago Jun 2, 2026 · 2 release s MAI-Code-1-Flash Fast Proprietary Microsoft • 1w ago MAI-Thinking-1 Reasoning Proprietary Microsoft • 1w ago Jun 1, 2026 · 1 release MiniMax M3 Lightweight Open Source MiniMax • 1w ago May 28, 2026 · 1 release Claude Opus 4.8 Release Proprietary Anthropic • 2w ago May 23, 2026 · 1 release Gemma 4 12B Release Open Source Google • 2w ago 1 – 8 of 315 1 2 3 4 5 6 7 Last 30 days Models that got better Worse 0 Better 2 Sigma-normalized vs. each model's baseline Gemini 3.1 Flash Image Google · 3mo old +2.76σ now +5.01σ 106 votes · 1 arena Claude Opus 4.6 Anthropic · 4mo old +1.94σ now +4.37σ 136 votes ·",
-        "long_summary_en": "AI Updates Today (June 2026) – Latest AI Model Releases AI News LLM Updates AI Trends Loading updates... Last 10 AI Model Releases Track all LLM releases and version updates All Google Anthropic Unisound Microsoft MiniMax Alibaba Cloud / Qwen Team xAI OpenAI Mistral AI Xiaomi Alibaba DeepSeek Moonshot AI WAN Video Meta Zhipu AI ByteDance NVIDIA Lightricks Sarvam AI Inception OpenBMB Meituan Kling AI Sourceful StepFun Baidu Black Forest Labs Krea LG AI Research Amazon Tencent Cartesia Luma Labs IBM Rime ElevenLabs Reve AI Runway Fireworks AI PlayAI Genmo Stability AI Deepgram Recraft AI Inworld",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "US AI giants are colonising London, and squeezing its startups in the process",
-        "title_en": "US AI giants are colonising London, and squeezing its startups in the process",
-        "summary": "US AI giants are planting flags in London at a pace the city has never seen, and in doing so they are turning the British capital into the clearest rival to San Francisco, while making life harder for",
-        "summary_en": "US AI giants are planting flags in London at a pace the city has never seen, and in doing so they are turning the British capital into the clearest rival to San Francisco, while making life harder for",
-        "long_summary": "US AI giants are planting flags in London at a pace the city has never seen, and in doing so they are turning the British capital into the clearest rival to San Francisco, while making life harder for the homegrown startups they are landing next to. In the past few months Anthropic has taken office […]\nThis story continues at The Next Web",
-        "long_summary_en": "US AI giants are planting flags in London at a pace the city has never seen, and in doing so they are turning the British capital into the clearest rival to San Francisco, while making life harder for the homegrown startups they are landing next to. In the past few months Anthropic has taken office […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2016/04/london.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/us-ai-giants-london-expansion-talent-squeeze",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "What SpaceX’s record IPO really means for the OpenAI and Anthropic listings behind it",
-        "title_en": "What SpaceX’s record IPO really means for the OpenAI and Anthropic listings behind it",
-        "summary": "The SpaceX IPO is set to price the biggest stock-market debut in history this week, raising about $75bn at a valuation near $1.75tn, with shares trading on Nasdaq from Friday. But the most consequenti",
-        "summary_en": "The SpaceX IPO is set to price the biggest stock-market debut in history this week, raising about $75bn at a valuation near $1.75tn, with shares trading on Nasdaq from Friday. But the most consequenti",
-        "long_summary": "The SpaceX IPO is set to price the biggest stock-market debut in history this week, raising about $75bn at a valuation near $1.75tn, with shares trading on Nasdaq from Friday. But the most consequential thing about Elon Musk’s rocket company going public may have little to do with rockets, or with Musk. It is what […]\nThis story continues at The Next Web",
-        "long_summary_en": "The SpaceX IPO is set to price the biggest stock-market debut in history this week, raising about $75bn at a valuation near $1.75tn, with shares trading on Nasdaq from Friday. But the most consequential thing about Elon Musk’s rocket company going public may have little to do with rockets, or with Musk. It is what […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2023/10/spacex-europe-deal.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/spacex-ipo-openai-anthropic-private-market-test",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-        "title_en": "Anthropic apologizes for invisible Claude Fable guardrails",
-        "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
-        "summary_en": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
-        "long_summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable […]",
-        "long_summary_en": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the restrictions kick in, even if that means Fable refuses more queries. Fable […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "LLM News Today (June 2026) – AI Model Releases",
-        "title_en": "LLM News Today (June 2026) – AI Model Releases",
-        "summary": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls ba",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls back to Opus 4.8 in guarded domains. Jonathan Chavez · Jun 9, 2026 · 11 min",
-        "long_summary_en": "Comparison · Technical Deep Dive Claude Fable 5 vs Claude Opus 4.8: Complete Comparison Claude Fable 5 vs Opus 4.8 on benchmarks, pricing, and safeguards. Fable 5 leads on raw capability, but falls back to Opus 4.8 in guarded domains. Jonathan Chavez · Jun 9, 2026 · 11 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
         "date": "11 June 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
+      "date": "20 June 2026"
+    },
+    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -921,18 +928,11 @@
       "date": "05 June 2026"
     },
     {
-      "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-      "source": "Llm-Stats",
-      "url": "https://llm-stats.com/llm-updates",
+      "title": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
+      "title_en": "Is Anthropic Claude Fable 5 better than Gemini 3.1 Pro and GPT 5.5? Here's a comparison- Moneycontrol.com",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/technology/how-claude-fable-5-compares-to-google-gemini-3-5-pro-openai-gpt-5-5-and-claude-mythos-preview-in-terms-of-performance-article-13946102.html",
       "date": "11 June 2026"
-    },
-    {
-      "title": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-      "title_en": "Tired Of ChatGPT? Now You Can Transfer Your Chats To Gemini Or Claude - Here's How",
-      "source": "Etvbharat",
-      "url": "https://www.etvbharat.com/en/technology/how-to-transfer-chat-history-from-chatgpt-to-gemini-or-claude-enn26032804603",
-      "date": "29 March 2026"
     }
   ]
 }
