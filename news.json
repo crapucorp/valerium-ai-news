@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "21 June 2026 - 21:40",
+  "lastUpdate": "21 June 2026 - 22:10",
   "categories": {
     "general": [
+      {
+        "title": "Artificial Intelligence News -- ScienceDaily",
+        "title_en": "Artificial Intelligence News -- ScienceDaily",
+        "summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or ",
+        "summary_en": "NASA’s Perseverance Rover Completes the First AI-Planned Drive on Mars · Jan. 31, 2026  NASA’s Perseverance rover has just made history by driving across Mars using routes planned by artificial intel",
+        "long_summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... Quantum AI Just Got Shockingly Good at Predicting Chaos Apr. 17, 2026 Â Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI ... This Simple Change Stops Robot Swarms from Getting Stuck Apr. 15, 2026 Â In crowded environments, more robots donât always mean faster resultsâin fact, too many can bring everything to a standstill. Harvard researchers discovered a surprising fix: adding a bit of ... âGiant Superatomsâ Could Finally Solve Quantum Computingâs Biggest Problem Apr. 13, 2026 Â In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an ... This New Chip Could Slash Data Center Energy Waste Apr. 10, 2026 Â A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever ... This New Chip Survives 1300Â°F (700Â°C) and Could Change AI Forever Apr. 7, 2026 Â A team of engineers has created a breakthrough memory device th",
+        "long_summary_en": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... Quantum AI Just Got Shockingly Good at Predicting Chaos Apr. 17, 2026 Â Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI ... This Simple Change Stops Robot Swarms",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "source": "Sciencedaily",
+        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "date": "21 June 2026"
+      },
       {
         "title": "AI News, Updates, Products and Reviews | Yahoo Tech",
         "title_en": "AI News, Updates, Products and Reviews | Yahoo Tech",
@@ -168,18 +180,6 @@
         "image": "https://localaimaster.com/_next/image?url=/og/best-ai-coding-tools-2025-comparison.webp&w=1920&q=85",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "NEURA Robotics raises up to $1.4B in record robotics round backed by Nvidia, Amazon, and Tether",
-        "title_en": "NEURA Robotics raises up to $1.4B in record robotics round backed by Nvidia, Amazon, and Tether",
-        "summary": "German robotics company NEURA Robotics has announced up to $1.4 billion in Series C funding to scale its cognitive robotics platform. The round values the company at approximately $7 billion, accordin",
-        "summary_en": "German robotics company NEURA Robotics has announced up to $1.4 billion in Series C funding to scale its cognitive robotics platform. The round values the company at approximately $7 billion, accordin",
-        "long_summary": "German robotics company NEURA Robotics has announced up to $1.4 billion in Series C funding to scale its cognitive robotics platform. The round values the company at approximately $7 billion, according to Bloomberg. NEURA says it is the largest funding round ever raised by a full-stack robotics company. The investor list spans crypto, chips, cloud, […]\nThis story continues at The Next Web",
-        "long_summary_en": "German robotics company NEURA Robotics has announced up to $1.4 billion in Series C funding to scale its cognitive robotics platform. The round values the company at approximately $7 billion, according to Bloomberg. NEURA says it is the largest funding round ever raised by a full-stack robotics company. The investor list spans crypto, chips, cloud, […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/neura-robotics-1-4b-series-c-physical-ai.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/neura-robotics-1-4b-series-c-physical-ai",
         "date": "10 June 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+        "summary": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-t",
+        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Mu",
+        "long_summary": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI in partnership with the X platform), Google’s Gemini, OpenAI’s ChatGPT (AI services based on GPT language models), and Anthropic’s Claude. Pricing for these services is primarily usage-based (per token) and varies widely. For example, xAI’s Grok 4.1 models charge only $0.20 per 1 million input tokens and $0.50 per 1 million output tokens ( [1] ), whereas OpenAI’s flagship GPT-5.2 is priced at $1.75 per 1 M input and $14.00 per 1 M output tokens. Google’s Gemini 3.1 Pro leads the current generation at $2.00 input and $12.00 output (per million), while Gemini 3 Flash offers a budget option at $0.50/$3.00 . Anthropic’s Claude flagship Claude Opus 4.6 costs $5.00 input and $25.00 output per million tokens. Its mid-tier Sonnet 4.6 is $3/$15 (input/output) per million, and Haiku 4.5 is $1/$5 . Beyond per-token rates, pricing structures include subscri",
+        "long_summary_en": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (th",
+        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
+        "source": "Intuitionlabs",
+        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
+        "date": "21 June 2026"
+      },
+      {
         "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
         "title_en": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
         "summary": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and",
@@ -714,18 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-        "title_en": "When the Trump administration cracks down on Anthropic, who benefits?",
-        "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "summary_en": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "long_summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "long_summary_en": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
         "date": "21 June 2026"
       }
     ],
@@ -921,18 +921,18 @@
       "date": "21 June 2026"
     },
     {
+      "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
+      "date": "21 June 2026"
+    },
+    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
       "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
       "date": "05 June 2026"
-    },
-    {
-      "title": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
-      "title_en": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
-      "source": "Thenews",
-      "url": "https://www.thenews.com.pk/latest/1406620-chinese-ai-models-overtake-chatgpt-google-s-gemini-in-global-usage",
-      "date": "21 June 2026"
     }
   ]
 }
