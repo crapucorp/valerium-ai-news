@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21 June 2026 - 19:08",
+  "lastUpdate": "21 June 2026 - 19:38",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "LLM News Today (June 2026) – AI Model Releases",
+        "title_en": "LLM News Today (June 2026) – AI Model Releases",
+        "summary": "Comparison · Benchmarks GLM-5.2 vs Claude Opus 4.8: Full Comparison GLM-5.2 vs Claude Opus 4.8 on price, benchmarks, context, and openness. Opus leads most of the table; GLM-5.2 costs up to 5.7x less ",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Comparison · Benchmarks GLM-5.2 vs Claude Opus 4.8: Full Comparison GLM-5.2 vs Claude Opus 4.8 on price, benchmarks, context, and openness. Opus leads most of the table; GLM-5.2 costs up to 5.7x less and ships MIT weights. Jonathan Chavez · Jun 16, 2026 · 10 min",
+        "long_summary_en": "Comparison · Benchmarks GLM-5.2 vs Claude Opus 4.8: Full Comparison GLM-5.2 vs Claude Opus 4.8 on price, benchmarks, context, and openness. Opus leads most of the table; GLM-5.2 costs up to 5.7x less and ships MIT weights. Jonathan Chavez · Jun 16, 2026 · 10 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "21 June 2026"
+      },
+      {
+        "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+        "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+        "summary": "Back to Articles | Updated on 6/20/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chat",
+        "summary_en": "While no public metrics exist, vendor claims are notable: Anthropic insists its Claude has lower “falsehood rates” and shows internal citations to sources. OpenAI has begun offering “agentic retrieval",
+        "long_summary": "Back to Articles | Updated on 6/20/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions targeting businesses. Each brings distinct strengths: ChatGPT (based on OpenAI’s GPT family) has achieved widespread adoption in Fortune 500 companies and beyond ( [1] ) ( [2] ); Claude emphasizes safety and very large context windows (up to 500,000+ tokens in its Enterprise edition ( [3] )); Microsoft’s Copilot (including GitHub and 365 Copilot) is deeply integrated into the Microsoft ecosystem and has proven ROI in productivity campaigns ( [4] ) ( [5] ); and Google’s Gemini (backed by DeepMind research) is bundled into Google Cloud and Workspace for an end-to-end “AI fabric” experience ( [6] ) ( [7] ). In detailed comparison, key differentiators emerge along architecture, capabilities, enterprise features, and performance: Model Technology and Capabilities : ChatGPT (GPT-5.2) and Gemini (Gemini 3.1 Pro/3 Flash) are cutting-edge foundation models with high general-language and coding proficie",
+        "long_summary_en": "Back to Articles | Updated on 6/20/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions target",
+        "image": "https://intuitionlabs.ai/images/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison.jpg",
+        "source": "Intuitionlabs",
+        "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+        "date": "21 June 2026"
+      },
+      {
         "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
         "title_en": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
         "summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 4 minutes ago · 10:03 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic ext",
@@ -702,30 +726,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "The film about Sam Altman has been dropped by Amazon MGM",
-        "title_en": "The film about Sam Altman has been dropped by Amazon MGM",
-        "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
-        "summary_en": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
-        "long_summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
-        "long_summary_en": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-        "title_en": "Is the US government’s Anthropic ban accidentally helping the brand?",
-        "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
-        "summary_en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way t",
-        "long_summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
-        "long_summary_en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
         "date": "21 June 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
+      "source": "Intuitionlabs",
+      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
+      "date": "21 June 2026"
+    },
+    {
       "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
       "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
       "source": "Intuitionlabs",
@@ -926,13 +933,6 @@
       "source": "Bleepingcomputer",
       "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
       "date": "05 June 2026"
-    },
-    {
-      "title": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
-      "title_en": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
-      "source": "Thenews",
-      "url": "https://www.thenews.com.pk/latest/1406620-chinese-ai-models-overtake-chatgpt-google-s-gemini-in-global-usage",
-      "date": "21 June 2026"
     }
   ]
 }
