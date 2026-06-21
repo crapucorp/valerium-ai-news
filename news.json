@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21 June 2026 - 18:06",
+  "lastUpdate": "21 June 2026 - 18:37",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
+        "title_en": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
+        "summary": "Technology Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Anthropic made its place in top 5 in terms of global token usage By Aqsa Qaddus Tahir Published June 20, 2026 Chinese AI ",
+        "summary_en": "The final entries in the top 10 list include Tencent&#x27;s Hy3, Anthropic&#x27;s Claude Opus 4.7, DeepSeek V4 Pro, Owl Alpha, Claude Sonnet 4.6 and Claude Opus 4. The 12th and 13th position in the te",
+        "long_summary": "Technology Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Anthropic made its place in top 5 in terms of global token usage By Aqsa Qaddus Tahir Published June 20, 2026 Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Chinese artificial intelligence models have outcompeted the US-based AI models in the terms of token usage. According to OpenRouter data, the Chinese models have been dominating the token consumption landscape because of their energy efficiency and reliability. Advertisement These Chinese models, including DeepSeek and MiniMax, charge less than leading US companies for tokens, thereby giving the country a new edge on the AI battleground. In the list of top five companies, only one US-based tech company, Anthropic, was able to make its place. Talking about the Chinese models, DeepSeek V4 Flash proved to be the successful one with 4.63 trillion tokens followed by MiniMax M3 with 4.13 trillion tokens and Xiaomi's MiMo-V2.5 with 3.8 trillion tokens. The final entries in the top 10 list include Tencent's Hy3, Anthropic's Claude Opus 4.7, DeepSeek V4 Pro, Owl Alpha, Claude Sonnet 4.6 and Claude Opus 4. The 12th and 13th position in the terms of global token usage were claimed by Google Gemini 2 and OpenAI’s GPT 5.5. The difference between the US and Chinese models comes as several US AI firms are moving away from flat-rate subscriptions to token-based billing, a model that tracks the specific volume of data processed by their sys",
+        "long_summary_en": "Technology Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Anthropic made its place in top 5 in terms of global token usage By Aqsa Qaddus Tahir Published June 20, 2026 Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Chinese artificial intelligence models have outcompeted the US-based AI models in the terms of token usage. According to OpenRouter data, the Chinese models have been dominating the token consumption landscape because of their energy efficiency and reliability. Advertisement These Chinese models, including DeepSeek and MiniMax, charge less t",
+        "image": "https://www.thenews.com.pk/assets/uploads/2026-06-20/1406620_043456_updates.jpg",
+        "source": "Thenews",
+        "url": "https://www.thenews.com.pk/latest/1406620-chinese-ai-models-overtake-chatgpt-google-s-gemini-in-global-usage",
+        "date": "21 June 2026"
+      },
+      {
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "title_en": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+        "summary_en": "Jumper isn't the only big name leaving Google DeepMind.",
+        "long_summary": "Jumper isn't the only big name leaving Google DeepMind.",
+        "long_summary_en": "Jumper isn't the only big name leaving Google DeepMind.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2148577076-e1728469833661.jpg?resize=1200,676",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "date": "21 June 2026"
+      },
+      {
         "title": "AI (artificial intelligence) | The Guardian",
         "title_en": "AI (artificial intelligence) | The Guardian",
         "summary": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 21 June 2026 Brands using AI-generated influencers to promote products on social media ",
@@ -702,30 +726,6 @@
         "image": "https://intuitionlabs.ai/images/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison.jpg",
         "source": "Intuitionlabs",
         "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "summary": "Quick verification Confirm you're human to keep going.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Quick verification Confirm you're human to keep going.",
-        "long_summary_en": "Quick verification Confirm you're human to keep going.",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
-        "title_en": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
-        "summary": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accura",
-        "summary_en": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accura",
-        "long_summary": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step level, proposes variants across prompt, parameter, and chain-structure levels, and validates each through an independent reviewer. In Cisco's evaluation, it beat GEPA on 15 of 18 model-benchmark comparisons. Here's how the optimization loop works and how to run it.\nThe post Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With",
-        "long_summary_en": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step level, proposes variants across prompt, parameter, and chain-structure levels, and validates each through an independent reviewer. In Cisco's evaluation, it beat GEPA on 15 of 18 model-benchmark comparisons. Here's how the optimization loop works and how to run it.\nThe post Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With",
-        "image": "https://cryptopond.com/wp-content/uploads/2026/06/Cisco-AI-Introduces-FAPO-Pipeline-Aware-Prompt-Optimization-With-Step-Level-Failure-300x214.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
         "date": "21 June 2026"
       }
     ],
