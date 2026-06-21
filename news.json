@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21 June 2026 - 22:10",
+  "lastUpdate": "21 June 2026 - 22:41",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "title_en": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "summary_en": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "long_summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "long_summary_en": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "date": "21 June 2026"
+      },
+      {
         "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
         "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
         "summary": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-t",
@@ -714,18 +726,6 @@
         "image": "https://s.yimg.com/lo/mysterio/api/aa9b92b7931df698244a373390f26084cab16b24b33df2fc7a1e537678faa25f/lightyear_networkapi/resizefill_w670_h376;quality_85;format_webp/https://media.zenfs.com/en/decrypt_157/f60b92f749e188d0f92c7e3ad5b9ae75",
         "source": "Reuters",
         "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-        "title_en": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-        "summary_en": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-        "long_summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-        "long_summary_en": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
         "date": "21 June 2026"
       }
     ],
