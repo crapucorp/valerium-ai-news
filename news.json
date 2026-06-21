@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22 June 2026 - 00:43",
+  "lastUpdate": "22 June 2026 - 01:43",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
+        "title_en": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
+        "summary": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores",
+        "summary_en": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores",
+        "long_summary": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores, where it lives, and when to build it. Includes a comparison table and working Python code.\nThe post The 7 Types of Agent Memory: A Technical Guide for AI Engineers appeared first on MarkTechPost.",
+        "long_summary_en": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores, where it lives, and when to build it. Includes a comparison table and working Python code.\nThe post The 7 Types of Agent Memory: A Technical Guide for AI Engineers appeared first on MarkTechPost.",
+        "image": "https://cdn.prod.website-files.com/61a05ff14c09ecacc06eec05/6969466af67a6bc077a62482_what-are-ai-agents-a-guide-to-types-benefits-and-examples-cover.webp",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
+        "date": "22 June 2026"
+      },
+      {
         "title": "Home \\ Anthropic",
         "title_en": "Home \\ Anthropic",
         "summary": "Core views on AI safety Announcements",
@@ -714,18 +726,6 @@
         "image": "https://www.thenews.com.pk/assets/uploads/2026-06-20/1406620_043456_updates.jpg",
         "source": "Thenews",
         "url": "https://www.thenews.com.pk/latest/1406620-chinese-ai-models-overtake-chatgpt-google-s-gemini-in-global-usage",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-        "title_en": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-        "summary": "Jumper isn't the only big name leaving Google DeepMind.",
-        "summary_en": "Jumper isn't the only big name leaving Google DeepMind.",
-        "long_summary": "Jumper isn't the only big name leaving Google DeepMind.",
-        "long_summary_en": "Jumper isn't the only big name leaving Google DeepMind.",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2148577076-e1728469833661.jpg?resize=1200,676",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
         "date": "21 June 2026"
       }
     ],
