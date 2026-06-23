@@ -1,7 +1,55 @@
 {
-  "lastUpdate": "22 June 2026 - 01:43",
+  "lastUpdate": "23 June 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Workday must face California lawsuit over AI hiring bias, judge rules",
+        "title_en": "Workday must face California lawsuit over AI hiring bias, judge rules",
+        "summary": "A San Francisco judge cleared a proposed class action to proceed, in a case described as the first to broadly target the algorithms behind AI screening software. A US federal judge has ruled that Work",
+        "summary_en": "A San Francisco judge cleared a proposed class action to proceed, in a case described as the first to broadly target the algorithms behind AI screening software. A US federal judge has ruled that Work",
+        "long_summary": "A San Francisco judge cleared a proposed class action to proceed, in a case described as the first to broadly target the algorithms behind AI screening software. A US federal judge has ruled that Workday must face claims its AI-powered hiring software screened out job applicants at other companies in ways that allegedly broke California […]\nThis story continues at The Next Web",
+        "long_summary_en": "A San Francisco judge cleared a proposed class action to proceed, in a case described as the first to broadly target the algorithms behind AI screening software. A US federal judge has ruled that Workday must face claims its AI-powered hiring software screened out job applicants at other companies in ways that allegedly broke California […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/Workday.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/workday-ai-bias-lawsuit-proceeds",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+        "title_en": "Nvidia says its AI data center design runs hotter to use a lot less water",
+        "summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled da",
+        "summary_en": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled da",
+        "long_summary": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data […]",
+        "long_summary_en": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it doesn't address all of the concerns around AI data […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+        "title_en": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+        "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+        "summary_en": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+        "long_summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+        "long_summary_en": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "title_en": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "summary_en": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "long_summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "long_summary_en": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "image": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+        "date": "23 June 2026"
+      },
       {
         "title": "Artificial Intelligence News -- ScienceDaily",
         "title_en": "Artificial Intelligence News -- ScienceDaily",
@@ -133,54 +181,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
         "date": "11 June 2026"
-      },
-      {
-        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-        "title_en": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-        "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-        "summary_en": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-        "long_summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-        "long_summary_en": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "White House offers to trade state AI preemption for federal online safety laws in new deal with Congress",
-        "title_en": "White House offers to trade state AI preemption for federal online safety laws in new deal with Congress",
-        "summary": "The White House is negotiating with key senators to bundle federal preemption of state AI laws with three online safety bills, Axios reported. Senator Marsha Blackburn is leading the effort to finalis",
-        "summary_en": "The White House is negotiating with key senators to bundle federal preemption of state AI laws with three online safety bills, Axios reported. Senator Marsha Blackburn is leading the effort to finalis",
-        "long_summary": "The White House is negotiating with key senators to bundle federal preemption of state AI laws with three online safety bills, Axios reported. Senator Marsha Blackburn is leading the effort to finalise legislative text. The package would block state AI regulation for three years in exchange for passing the Kids Online Safety Act (KOSA), the […]\nThis story continues at The Next Web",
-        "long_summary_en": "The White House is negotiating with key senators to bundle federal preemption of state AI laws with three online safety bills, Axios reported. Senator Marsha Blackburn is leading the effort to finalise legislative text. The package would block state AI regulation for three years in exchange for passing the Kids Online Safety Act (KOSA), the […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/white-house-ai-preemption-kosa-no-fakes-deal.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/white-house-ai-preemption-kosa-no-fakes-deal",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
-        "title_en": "Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken",
-        "summary": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its",
-        "summary_en": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its",
-        "long_summary": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its schema, and build a manageable sample. We analyze languages, file extensions, repository frequency, and directory depth to understand the index structure. We then reconstruct raw GitHub URLs, fetch real source files, and estimate the token scale of the fetched code.\nThe post Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken app",
-        "long_summary_en": "In this tutorial, we work with NVIDIA's Nemotron-Pretraining-Code-v3 dataset as a large-scale metadata index for code pretraining research. We stream the dataset instead of downloading it, inspect its schema, and build a manageable sample. We analyze languages, file extensions, repository frequency, and directory depth to understand the index structure. We then reconstruct raw GitHub URLs, fetch real source files, and estimate the token scale of the fetched code.\nThe post Building a Code Dataset Pipeline from NVIDIA Nemotron-Pretraining-Code-v3 Metadata with Streaming, Pandas, and tiktoken app",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog15-1-1-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/09/building-a-code-dataset-pipeline-from-nvidia-nemotron-pretraining-code-v3-metadata-with-streaming-pandas-and-tiktoken/",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
-        "title_en": "Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared",
-        "summary": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requ",
-        "summary_en": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requ",
-        "long_summary": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents […]\nThe post Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared appeared first on MarkTechPost.",
-        "long_summary_en": "Software development has changed. Engineers no longer type most code by hand. They describe intent, and AI agents do the work. Modern tools plan tasks, edit across files, run tests, and open pull requests. Many now ship to production with limited supervision. No single tool fits every need. This guide covers the AI coding agents […]\nThe post Top AI Coding Agents and Development Platforms in 2026: Atoms, Devin, Windsurf, Cursor, Warp, and More Compared appeared first on MarkTechPost.",
-        "image": "https://localaimaster.com/_next/image?url=/og/best-ai-coding-tools-2025-comparison.webp&w=1920&q=85",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/10/ai-coding-agents-development-platforms-2026/",
-        "date": "10 June 2026"
       }
     ],
     "image": [
@@ -367,6 +367,54 @@
     ],
     "video": [
       {
+        "title": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
+        "title_en": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
+        "summary": "Search Everything",
+        "summary_en": "<strong>Type your prompt - turn ideas into stunning AI visuals instantly</strong>. ... Drop yourself into the action — roaring stadiums, last-minute winners, pitch-side celebrations. Pick a template a",
+        "long_summary": "Search Everything",
+        "long_summary_en": "Search Everything",
+        "image": "https://cdn-imagine.vyro.ai/imagine-dashboard/assets/images/link-assets/og.png",
+        "source": "Imagine",
+        "url": "https://www.imagine.art/",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "Runway Gen-5 | Runway Gen 5 AI Video Generator Free - Text to Video & Image to Video",
+        "title_en": "Runway Gen-5 | Runway Gen 5 AI Video Generator Free - Text to Video & Image to Video",
+        "summary": "01 Step 1 Choose Runway Gen-5 Video Generator Start by opening the Runway Gen-5 generator for AI video creation.",
+        "summary_en": "Professionals across North America, Europe and Asia trust <strong>Runway Gen-5 every day</strong>. ... From video content and storytelling to ads, social media, marketing and more. ... Connect with th",
+        "long_summary": "01 Step 1 Choose Runway Gen-5 Video Generator Start by opening the Runway Gen-5 generator for AI video creation.",
+        "long_summary_en": "01 Step 1 Choose Runway Gen-5 Video Generator Start by opening the Runway Gen-5 generator for AI video creation.",
+        "image": "https://www.runwaygen5.org/og-home.jpg",
+        "source": "Runwaygen5",
+        "url": "https://www.runwaygen5.org/",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy",
+        "title_en": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy",
+        "summary": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Rela",
+        "summary_en": "Learn how to use Gen-4.5 Image to Video",
+        "long_summary": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Related Tutorials How to Enhance Live Action Footage Behind the Scenes: A Day at the Museum Behind the Scenes: Grizzlies Back to all courses and tutorials",
+        "long_summary_en": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Related Tutorials How to Enhance Live Action Footage Behind the Scenes: A Day at the Museum Behind the Scenes: Grizzlies Back to all courses and tutorials",
+        "image": "https://academy.runwayml.com/thumbnails/gen-45-image-to-video.png",
+        "source": "Academy",
+        "url": "https://academy.runwayml.com/tutorial/gen-45-image-to-video",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "Seedance 2.0 vs Sora 2: Which AI Video Model Wins in 2026? | Pexo",
+        "title_en": "Seedance 2.0 vs Sora 2: Which AI Video Model Wins in 2026? | Pexo",
+        "summary": "If you are choosing between Seedance 2.0 and Sora 2 today, the short answer is clear: Seedance 2.0 is the better pick for almost everyone , with higher resolution, faster generation, lower price, stro",
+        "summary_en": "The capability and pricing figures come from each model&#x27;s official pages (Seedance 2.0, Sora 2), plus independent benchmarks (where Seedance 2.0 currently tops the public text-to-video and image-",
+        "long_summary": "If you are choosing between Seedance 2.0 and Sora 2 today, the short answer is clear: Seedance 2.0 is the better pick for almost everyone , with higher resolution, faster generation, lower price, stronger input control, and synchronized audio. Sora 2 still wins on one thing, raw physical realism, but there is a catch that decides the whole comparison: OpenAI discontinued the Sora app on April 26, 2026, and the Sora 2 API is scheduled to shut down on September 24, 2026. So this is less \"which is better\" and more \"which one you can actually build on.\" Here is the full seven-round breakdown, with a side-by-side table first. This comparison reflects model capabilities and pricing as of June 2026. Seedance 2.0, ByteDance's video model, is live in creator tools like Dreamina and across several APIs. Seedance 2.0 vs Sora 2 at a Glance Here is the side-by-side. The Availability row is the one most \"vs\" articles miss, and it matters most. Factor Seedance 2.0 Sora 2 Maker ByteDance (SEED Lab) OpenAI Max resolution Native 2K (also 1080p / 720p) 720p (Sora 2 Pro: true 1080p) Max clip length Up to 15s 12s (Sora 2 Pro: up to 25s) Inputs Text, image, audio (up to 9 images / 3 clips / 3 audio) Text, image Audio Synchronized SFX matched to on-screen events Generated audio (less event-synced) Best at Resolution, speed, control Physics and world simulation Price ~$0.10/sec (cheaper fast tier) $0.10/sec (Pro: $0.30–$0.70/sec) Availability Live (CapCut, Dreamina, APIs) App discontinued; API only,",
+        "long_summary_en": "If you are choosing between Seedance 2.0 and Sora 2 today, the short answer is clear: Seedance 2.0 is the better pick for almost everyone , with higher resolution, faster generation, lower price, stronger input control, and synchronized audio. Sora 2 still wins on one thing, raw physical realism, but there is a catch that decides the whole comparison: OpenAI discontinued the Sora app on April 26, 2026, and the Sora 2 API is scheduled to shut down on September 24, 2026. So this is less \"which is better\" and more \"which one you can actually build on.\" Here is the full seven-round breakdown, with",
+        "image": "https://pexo-assets.oss-us-east-1.aliyuncs.com/assets/cms/draft/56eb4bae-4550-4154-9722-92680eefd318/20260605092518-02b2b368.webp",
+        "source": "Pexo",
+        "url": "https://pexo.ai/blog/seedance-vs-sora-8502",
+        "date": "23 June 2026"
+      },
+      {
         "title": "An Unknown Newbie just used Runway AI to Blow Our Cinematic Minds",
         "title_en": "An Unknown Newbie just used Runway AI to Blow Our Cinematic Minds",
         "summary": "A shot from Robert Gaudette's AI-generated, Paris-set 'A Face Only a Mother Could Love' Robert Gaudette Share on Facebook Share on X Google Preferred Share to Flipboard Show additional share options S",
@@ -497,57 +545,81 @@
         "source": "Higgsfield",
         "url": "https://higgsfield.ai/ai-video",
         "date": "11 June 2026"
-      },
-      {
-        "title": "Free AI Video Generator: Text to Video online - Adobe Firefly",
-        "title_en": "Free AI Video Generator: Text to Video online - Adobe Firefly",
-        "summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video",
-        "summary_en": "<strong>From the dropdown menu, choose the Firefly video model or a partner model such as Google Veo, Sora, or Pika</strong>. Your prompt should include style, angle, shot distance, effects, color gra",
-        "long_summary": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video generator. With the Firefly AI video generator, you can turn text prompts into stunning AI-generated videos in just one click. It’s great for pitching ideas and creating B-roll and visual effects. video image Edit prompt or enter your own text Zooming through the back of a futuristic aircraft with the hatch open to reveal a sunrise. Abstract, cool colors, VJ style. https://main--cc--adobecom.aem.live/creativecloud/animation/testdoc/unity/generate.svg Generate Adobe models true true First frame (optional) Prompt exceeds the max length of 1024 characters Your media must be smaller than 50MB. Please upload a new file. Unable to process the request Your media must be a jpg or png file type. Please upload a new file. Only one file can be uploaded at a time. By uploading your image or video, you agree to the Adobe Terms of Use and Privacy Policy and confirm you are 18 years of age or older. cgen promoid=S36FMJYY&mv=other&ff_source=adobe-com&ff_campaign=ai-video-generator style Dark, static links #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/firefly-80.svg {{nbsp}} Generate Video | Generate Video - Adobe Firefly https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/firefly-80.svg Adobe Firefly The next evolution of creative AI is h",
-        "long_summary_en": "Free AI Video Generator: Text to Video online - Adobe Firefly #000 https://main--cc--adobecom.aem.live/cc-shared/assets/img/firefly.svg Adobe Firefly Create videos with the fast, simple, free AI video generator. With the Firefly AI video generator, you can turn text prompts into stunning AI-generated videos in just one click. It’s great for pitching ideas and creating B-roll and visual effects. video image Edit prompt or enter your own text Zooming through the back of a futuristic aircraft with the hatch open to reveal a sunrise. Abstract, cool colors, VJ style. https://main--cc--adobecom.aem.",
-        "image": "https://www.adobe.com/products/firefly/features/media_1d7d67ab68b854da4c6460a399e7e8f7175fe6949.jpg?width=1200&format=pjpg&optimize=medium",
-        "source": "Adobe",
-        "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "AI Creator Studio for Video & Images | OpenArt",
-        "title_en": "AI Creator Studio for Video & Images | OpenArt",
-        "summary": "Try Now OpenArt VFX — Replace Backgrounds, Relight Scenes, Apply Full Visual Effects to your videos.",
-        "summary_en": "OpenArt Suite is your all-in-one AI creator studio. Create images, videos, characters, and audio in one place. Keep your characters, worlds, and style consistent across creations. Powered by the world",
-        "long_summary": "Try Now OpenArt VFX — Replace Backgrounds, Relight Scenes, Apply Full Visual Effects to your videos.",
-        "long_summary_en": "Try Now OpenArt VFX — Replace Backgrounds, Relight Scenes, Apply Full Visual Effects to your videos.",
-        "image": "https://cdn.openart.ai/assets/internal/uploads/image_PGRJom1C_1200x630_1776245286893.webp",
-        "source": "Openart",
-        "url": "https://openart.ai/home",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-        "title_en": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-        "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
-        "summary_en": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
-        "long_summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO […]",
-        "long_summary_en": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of viral clips from graduation ceremonies, like former Google CEO […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STK095_MICROSOFT_CVirginia_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-        "date": "10 June 2026"
-      },
-      {
-        "title": "Best Free Alternatives to Runway AI in 2026",
-        "title_en": "Best Free Alternatives to Runway AI in 2026",
-        "summary": "If you are searching for the best free alternatives to Runway AI in 2026, you have several powerful options that let you generate high-quality video content without spending a dime. While Runway AI re",
-        "summary_en": "The best options in 2026 include <strong>Img2Video AI for watermark-free image-to-video conversion, Sora-based free tiers through ChatGPT integration, and select Google Veo alternatives tailored for b",
-        "long_summary": "If you are searching for the best free alternatives to Runway AI in 2026, you have several powerful options that let you generate high-quality video content without spending a dime. While Runway AI remains a leading platform for creative video editing and generation, a growing number of free tools now offer comparable features including text-to-video, image-to-video, and AI-driven motion effects. This guide covers the top free alternatives available right now, based on the latest industry reviews and hands-on testing from trusted sources. A free alternative to Runway AI is any no-cost platform that uses generative artificial intelligence to create or edit video content, often supporting text prompts, image inputs, and style transfers. The best options in 2026 include Img2Video AI for watermark-free image-to-video conversion, Sora-based free tiers through ChatGPT integration, and select Google Veo alternatives tailored for business use. These tools lower the barrier to professional-quality video production for creators, marketers, and small teams. ✓ Img2Video AI offers completely free image-to-video generation with no watermark, making it the top choice for budget-conscious creators. ✓ Sora alternatives available through ChatGPT provide free access to advanced text-to-video capabilities for users with a standard OpenAI account. ✓ Google Veo alternatives highlighted by BBN Times deliver enterprise-grade video generation at no cost for basic tiers. ✓ Free Midjourney alternatives",
-        "long_summary_en": "If you are searching for the best free alternatives to Runway AI in 2026, you have several powerful options that let you generate high-quality video content without spending a dime. While Runway AI remains a leading platform for creative video editing and generation, a growing number of free tools now offer comparable features including text-to-video, image-to-video, and AI-driven motion effects. This guide covers the top free alternatives available right now, based on the latest industry reviews and hands-on testing from trusted sources. A free alternative to Runway AI is any no-cost platform",
-        "image": "https://liveme-image.s3.us-west-1.amazonaws.com/1781065942468360429_05177cb2-4715-4222-a580-bfc49504a781-0.jpeg",
-        "source": "Resource",
-        "url": "https://resource.digen.ai/best-free-alternatives-to-runway-ai-2026/",
-        "date": "10 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Google Loses Two Top AI Researchers To OpenAI & Anthropic",
+        "title_en": "Google Loses Two Top AI Researchers To OpenAI & Anthropic",
+        "summary": "Two of Google’s most prominent AI researchers announced within days of each other that they are leaving for rival labs. Noam Shazeer, a co-lead of the Gemini models, is heading to OpenAI . John Jumper",
+        "summary_en": "<strong>Two senior Google AI researchers, Gemini co-lead Noam Shazeer and AlphaFold&#x27;s John Jumper, are leaving for OpenAI and Anthropic within the same week</strong>. SEJ STAFF Matt G. Southern .",
+        "long_summary": "Two of Google’s most prominent AI researchers announced within days of each other that they are leaving for rival labs. Noam Shazeer, a co-lead of the Gemini models, is heading to OpenAI . John Jumper, who led the AlphaFold project at Google DeepMind, is going to Anthropic . Shazeer announced his move on X on June 18. He co-authored the paper “ Attention Is All You Need ,” which introduced the Transformer architecture behind most of today’s large language models. Google brought him back in 2024 through a deal with Character.AI reported at $2.7 billion, then installed him as a co-lead on Gemini. He is leaving less than two years later. OpenAI CEO Sam Altman welcomed the hire on X. Jumper said that he would leave after nearly nine years, with plans to take time off before starting at Anthropic. He shared the 2024 Nobel Prize in Chemistry for AlphaFold, the system that predicts protein structures. Both Google DeepMind and Anthropic confirmed the move. Jumper’s work on protein structure lines up with Anthropic’s growing focus on AI for science. Jumper wrote on X: Demis Hassabis took a real chance letting me lead the AlphaFold team just six months after finishing my PhD. Alphabet shares fell about 5% to 6% on June 22, with market reports tying the move to concerns about AI spending and Google’s ability to retain senior AI talent. The stock had held up in the days immediately after Shazeer’s move was reported. Reporting on the departures points to a competitive pressure inside Goog",
+        "long_summary_en": "Two of Google’s most prominent AI researchers announced within days of each other that they are leaving for rival labs. Noam Shazeer, a co-lead of the Gemini models, is heading to OpenAI . John Jumper, who led the AlphaFold project at Google DeepMind, is going to Anthropic . Shazeer announced his move on X on June 18. He co-authored the paper “ Attention Is All You Need ,” which introduced the Transformer architecture behind most of today’s large language models. Google brought him back in 2024 through a deal with Character.AI reported at $2.7 billion, then installed him as a co-lead on Gemini",
+        "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/06/015db4c3-3089-4f01-bfb3-b7baca0b470b-171.jpeg",
+        "source": "Searchenginejournal",
+        "url": "https://www.searchenginejournal.com/google-loses-two-top-ai-researchers-to-openai-anthropic/580201/",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "Google Loses Two AI Heavyweights in Three Days: Nobel Laureate Joins Anthropic, Gemini Co-Creator Defects to OpenAI — BigGo Finance",
+        "title_en": "Google Loses Two AI Heavyweights in Three Days: Nobel Laureate Joins Anthropic, Gemini Co-Creator Defects to OpenAI — BigGo Finance",
+        "summary": "‌",
+        "summary_en": "<strong>On June 18, Noam Shazeer, a core author of the Transformer architecture and co-lead of the Gemini project, announced he is joining OpenAI</strong>. Just one day later, John Jumper — the father",
+        "long_summary": "‌",
+        "long_summary_en": "‌",
+        "image": "https://img.biggo.com/NIwp8izMYqTojaIVbp8PPBmqDi3wjHwY4KuOyfy-kmw/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2L2EyZmQwZjQzLTA1YzEtNDgyNC05YWU1LTQ0YThhZmE1ODgzOV8xNzgyMDI4OTk2X2RlZmF1bHQuanBn.jpg",
+        "source": "Finance",
+        "url": "https://finance.biggo.com/news/a2fd0f43-05c1-4824-9ae5-44a8afa58839",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "AI Models in 2026: Which One Should You Actually Use?",
+        "title_en": "AI Models in 2026: Which One Should You Actually Use?",
+        "summary": "Artificial Intelligence AI Models in 2026: Which One Should You Actually Use? The AI model landscape in 2026 has four frontier contenders. This hub breaks down what each does best and links to every d",
+        "summary_en": "<strong>Gemini vs ChatGPT: Full 2026 Comparison — Google&#x27;s flagship against OpenAI&#x27;s</strong>. Perplexity vs ChatGPT: Full 2026 Comparison — Search-native AI vs the generalist. DeepSeek vs C",
+        "long_summary": "Artificial Intelligence AI Models in 2026: Which One Should You Actually Use? The AI model landscape in 2026 has four frontier contenders. This hub breaks down what each does best and links to every detailed head-to-head comparison. Víctor Mollá · May 2, 2026 · 5 min read · Watch video Updated : June 22, 2026 Pide tu demo Table of contents AI Models at a Glance: 2026 Overview Which AI Model Should You Choose? Read the Full Comparisons AI Models for Business: What Actually Matters Frequently Asked Questions Video explainer Watch the video explainer The AI landscape in 2026 looks nothing like it did two years ago. Four frontier models now compete across coding, reasoning, writing, and business automation — and none of them wins everything. This page gives you the high-level picture. For the deep dives, we wrote dedicated head-to-head comparisons you can read below. AI Models at a Glance: 2026 Overview Here is where the four frontier models stand right now: Category | GPT-5.4 | Claude Opus 4.6 | Gemini 3.1 Pro | Grok 4 Coding | Strong (74.9% SWE-bench) | Strong (74%+, powers Cursor) | Good (63.8%, 1M context) | Leader (75%) Reasoning | 92.8% GPQA | 91.3% GPQA | Leader (94.3% GPQA) | Competitive Writing | Good (Canvas editor) | Leader (128K output, natural prose) | Good (Docs integration) | Uncensored style Multimodal | Vision + audio + computer use | Vision + tool use | Leader (video, audio, 1M context) | Vision + real-time X data API Price (in/out per 1M) | $2.50/$15 | $15/$75 ",
+        "long_summary_en": "Artificial Intelligence AI Models in 2026: Which One Should You Actually Use? The AI model landscape in 2026 has four frontier contenders. This hub breaks down what each does best and links to every detailed head-to-head comparison. Víctor Mollá · May 2, 2026 · 5 min read · Watch video Updated : June 22, 2026 Pide tu demo Table of contents AI Models at a Glance: 2026 Overview Which AI Model Should You Choose? Read the Full Comparisons AI Models for Business: What Actually Matters Frequently Asked Questions Video explainer Watch the video explainer The AI landscape in 2026 looks nothing like it",
+        "image": "https://res.cloudinary.com/dhqzl4gpk/image/upload/v1771362322/featured_comparativas_ia_c451d8fc4e.jpg",
+        "source": "Gurusup",
+        "url": "https://gurusup.com/blog/ai-comparisons",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
+        "title_en": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
+        "summary": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks",
+        "summary_en": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks",
+        "long_summary": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs appeared first on MarkTechPost.",
+        "long_summary_en": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs appeared first on MarkTechPost.",
+        "image": "https://cdn.ayautomate.com/storage/v1/object/public/blog-images/sakana-fugu-alternatives/sakana-fugu-alternatives-feature.webp",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+        "title_en": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
+        "summary": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat ",
+        "summary_en": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat ",
+        "long_summary": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.\nThe post GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval appeared first on MarkTechPost.",
+        "long_summary_en": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.\nThe post GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval appeared first on MarkTechPost.",
+        "image": "https://evolink.ai/_next/image?url=https://cdn.evolink.ai/glm-5-2-repo-workflows2.webp&w=1920&q=75",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
+        "date": "23 June 2026"
+      },
+      {
+        "title": "OpenAI launches new initiative to help find and patch open source bugs",
+        "title_en": "OpenAI launches new initiative to help find and patch open source bugs",
+        "summary": "OpenAI is using AI to help the open source community better protect itself.",
+        "summary_en": "OpenAI is using AI to help the open source community better protect itself.",
+        "long_summary": "OpenAI is using AI to help the open source community better protect itself.",
+        "long_summary_en": "OpenAI is using AI to help the open source community better protect itself.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "date": "23 June 2026"
+      },
       {
         "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
         "title_en": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
@@ -655,81 +727,21 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
         "date": "21 June 2026"
-      },
-      {
-        "title": "LLM News Today (June 2026) – AI Model Releases",
-        "title_en": "LLM News Today (June 2026) – AI Model Releases",
-        "summary": "Comparison · Benchmarks GLM-5.2 vs Claude Opus 4.8: Full Comparison GLM-5.2 vs Claude Opus 4.8 on price, benchmarks, context, and openness. Opus leads most of the table; GLM-5.2 costs up to 5.7x less ",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Comparison · Benchmarks GLM-5.2 vs Claude Opus 4.8: Full Comparison GLM-5.2 vs Claude Opus 4.8 on price, benchmarks, context, and openness. Opus leads most of the table; GLM-5.2 costs up to 5.7x less and ships MIT weights. Jonathan Chavez · Jun 16, 2026 · 10 min",
-        "long_summary_en": "Comparison · Benchmarks GLM-5.2 vs Claude Opus 4.8: Full Comparison GLM-5.2 vs Claude Opus 4.8 on price, benchmarks, context, and openness. Opus leads most of the table; GLM-5.2 costs up to 5.7x less and ships MIT weights. Jonathan Chavez · Jun 16, 2026 · 10 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-        "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-        "summary": "Back to Articles | Updated on 6/20/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chat",
-        "summary_en": "While no public metrics exist, vendor claims are notable: Anthropic insists its Claude has lower “falsehood rates” and shows internal citations to sources. OpenAI has begun offering “agentic retrieval",
-        "long_summary": "Back to Articles | Updated on 6/20/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions targeting businesses. Each brings distinct strengths: ChatGPT (based on OpenAI’s GPT family) has achieved widespread adoption in Fortune 500 companies and beyond ( [1] ) ( [2] ); Claude emphasizes safety and very large context windows (up to 500,000+ tokens in its Enterprise edition ( [3] )); Microsoft’s Copilot (including GitHub and 365 Copilot) is deeply integrated into the Microsoft ecosystem and has proven ROI in productivity campaigns ( [4] ) ( [5] ); and Google’s Gemini (backed by DeepMind research) is bundled into Google Cloud and Workspace for an end-to-end “AI fabric” experience ( [6] ) ( [7] ). In detailed comparison, key differentiators emerge along architecture, capabilities, enterprise features, and performance: Model Technology and Capabilities : ChatGPT (GPT-5.2) and Gemini (Gemini 3.1 Pro/3 Flash) are cutting-edge foundation models with high general-language and coding proficie",
-        "long_summary_en": "Back to Articles | Updated on 6/20/2026 | 50 min read | Next Article More Download PDF PDF Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide enterprise ai llm comparison generative ai chatgpt enterprise claude enterprise microsoft copilot google gemini ai security large language models business ai ai Executive Summary The enterprise market for large language models (LLMs) and AI assistants has rapidly consolidated around a few major platforms. As of 2026, OpenAI’s ChatGPT , Anthropic’s Claude , Microsoft’s Copilot , and Google’s Gemini are the leading generative AI solutions target",
-        "image": "https://intuitionlabs.ai/images/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
-        "title_en": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
-        "summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 4 minutes ago · 10:03 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic ext",
-        "summary_en": "<strong>Anthropic opened April at 54% because Claude Opus 4.6 is the incumbent — it holds Arena #1 at 1506 Elo with a large gap over Gemini 3 Pro. Google sits at 24% partly because Gemini 3.1 Pro laun",
-        "long_summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 4 minutes ago · 10:03 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic extended its lead on the AI model leaderboard last week with back-to-back releases: Claude Opus 4.7 on April 16, which pushed the company to the top of the Artificial Analysis Intelligence Index at 57, and Claude Design a day later, an AI design tool that sent Figma, Adobe, Wix, and GoDaddy shares down 2-4% on the news. xAI shipped Grok 4.3 Beta to SuperGrok Heavy subscribers the same week but without Arena-level impact. Polymarket now prices Anthropic at 100.0% to hold the best LLM spot through April 30, with $0 in cumulative volume on the April market. Our cross-platform odds for this month's \"Best AI Model by Company\" market aggregates live probability blended from Kalshi and Polymarket. DeFi Rate LLM prediction data is updated every 30 minutes. Share X Reddit Email Facebook LinkedIn % American Decimal Fractional Largest Spread 0.00% Current Favorite 100.0% claude-opus-4-6-thinking ↑ +29.5% 24H Volume (Share) $0 K: — P: — Momentum Leader ↑ +29.5% claude-opus-4-6-thinking YTD change Current Odds Snapshot Current probabilities across platforms with liquidity indicators Sort: Aggregate Spread Volume A–Z Percentage (%) American (+/-) Decimal (1.00) Fractional (1/1) CO4 claude-opus-4-6-thinking Vol $0 Spread — Agg 100.0% ↑ +29.5% K 100.0% Kalshi 100.0% Vol $0 0–100¢ Trade Now WAH Will",
-        "long_summary_en": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 4 minutes ago · 10:03 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic extended its lead on the AI model leaderboard last week with back-to-back releases: Claude Opus 4.7 on April 16, which pushed the company to the top of the Artificial Analysis Intelligence Index at 57, and Claude Design a day later, an AI design tool that sent Figma, Adobe, Wix, and GoDaddy shares down 2-4% on the news. xAI shipped Grok 4.3 Beta to SuperGrok Heavy subscribers the same week but withou",
-        "image": "https://defirate.com/wp-content/uploads/2026/02/Who-Will-Have-Best-AI-Model-Odds.png",
-        "source": "Defirate",
-        "url": "https://defirate.com/prediction-markets/best-ai-model-odds/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (June 2026) – Latest AI Model Releases",
-        "summary": "Quick verification Confirm you're human to keep going.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Quick verification Confirm you're human to keep going.",
-        "long_summary_en": "Quick verification Confirm you're human to keep going.",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
-        "title_en": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
-        "summary": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accura",
-        "summary_en": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accura",
-        "long_summary": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step level, proposes variants across prompt, parameter, and chain-structure levels, and validates each through an independent reviewer. In Cisco's evaluation, it beat GEPA on 15 of 18 model-benchmark comparisons. Here's how the optimization loop works and how to run it.\nThe post Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With",
-        "long_summary_en": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step level, proposes variants across prompt, parameter, and chain-structure levels, and validates each through an independent reviewer. In Cisco's evaluation, it beat GEPA on 15 of 18 model-benchmark comparisons. Here's how the optimization loop works and how to run it.\nThe post Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With",
-        "image": "https://cryptopond.com/wp-content/uploads/2026/06/Cisco-AI-Introduces-FAPO-Pipeline-Aware-Prompt-Optimization-With-Step-Level-Failure-300x214.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
-        "title_en": "Chinese AI models overtake ChatGPT, Google’s Gemini in global usage",
-        "summary": "Technology Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Anthropic made its place in top 5 in terms of global token usage By Aqsa Qaddus Tahir Published June 20, 2026 Chinese AI ",
-        "summary_en": "The final entries in the top 10 list include Tencent&#x27;s Hy3, Anthropic&#x27;s Claude Opus 4.7, DeepSeek V4 Pro, Owl Alpha, Claude Sonnet 4.6 and Claude Opus 4. The 12th and 13th position in the te",
-        "long_summary": "Technology Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Anthropic made its place in top 5 in terms of global token usage By Aqsa Qaddus Tahir Published June 20, 2026 Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Chinese artificial intelligence models have outcompeted the US-based AI models in the terms of token usage. According to OpenRouter data, the Chinese models have been dominating the token consumption landscape because of their energy efficiency and reliability. Advertisement These Chinese models, including DeepSeek and MiniMax, charge less than leading US companies for tokens, thereby giving the country a new edge on the AI battleground. In the list of top five companies, only one US-based tech company, Anthropic, was able to make its place. Talking about the Chinese models, DeepSeek V4 Flash proved to be the successful one with 4.63 trillion tokens followed by MiniMax M3 with 4.13 trillion tokens and Xiaomi's MiMo-V2.5 with 3.8 trillion tokens. The final entries in the top 10 list include Tencent's Hy3, Anthropic's Claude Opus 4.7, DeepSeek V4 Pro, Owl Alpha, Claude Sonnet 4.6 and Claude Opus 4. The 12th and 13th position in the terms of global token usage were claimed by Google Gemini 2 and OpenAI’s GPT 5.5. The difference between the US and Chinese models comes as several US AI firms are moving away from flat-rate subscriptions to token-based billing, a model that tracks the specific volume of data processed by their sys",
-        "long_summary_en": "Technology Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Anthropic made its place in top 5 in terms of global token usage By Aqsa Qaddus Tahir Published June 20, 2026 Chinese AI models overtake ChatGPT, Google’s Gemini in global usage Chinese artificial intelligence models have outcompeted the US-based AI models in the terms of token usage. According to OpenRouter data, the Chinese models have been dominating the token consumption landscape because of their energy efficiency and reliability. Advertisement These Chinese models, including DeepSeek and MiniMax, charge less t",
-        "image": "https://www.thenews.com.pk/assets/uploads/2026-06-20/1406620_043456_updates.jpg",
-        "source": "Thenews",
-        "url": "https://www.thenews.com.pk/latest/1406620-chinese-ai-models-overtake-chatgpt-google-s-gemini-in-global-usage",
-        "date": "21 June 2026"
       }
     ],
     "audio": [
+      {
+        "title": "AI is cursing renters with the promise of impossible homes",
+        "title_en": "AI is cursing renters with the promise of impossible homes",
+        "summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she des",
+        "summary_en": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she des",
+        "long_summary": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, […]",
+        "long_summary_en": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It was big and airy, […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+        "date": "23 June 2026"
+      },
       {
         "title": "Artificial intelligence | MIT News | Massachusetts Institute of Technology",
         "title_en": "Artificial intelligence | MIT News | Massachusetts Institute of Technology",
@@ -897,29 +909,10 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/03/26/cohere-ai-releases-cohere-transcribe-a-sota-automatic-speech-recognition-asr-model-powering-enterprise-speech-intelligence/",
         "date": "26 March 2026"
-      },
-      {
-        "title": "I went biking with this $100 bone conduction headset and it rocked for 6 hours",
-        "title_en": "I went biking with this $100 bone conduction headset and it rocked for 6 hours",
-        "summary": "If you're curious about bone conduction technology, the H2O Audio Tri Run is a solid entry-level pair.",
-        "summary_en": "If you're curious about bone conduction technology, the H2O Audio Tri Run is a solid entry-level pair.",
-        "long_summary": "If you're curious about bone conduction technology, the H2O Audio Tri Run is a solid entry-level pair.",
-        "long_summary_en": "If you're curious about bone conduction technology, the H2O Audio Tri Run is a solid entry-level pair.",
-        "image": "https://www.zdnet.com/a/img/resize/39809aeec3feb746bbdf4e489eccf6fe13653c71/2026/03/26/84058c21-b376-4d82-8f0a-36412c68b277/tri-run5.jpg?auto=webp&fit=crop&height=675&width=1200",
-        "source": "zdnet_ai",
-        "url": "https://www.zdnet.com/article/h20-audio-tri-run-headset-review/",
-        "date": "26 March 2026"
       }
     ]
   },
   "hotNews": [
-    {
-      "title": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-      "title_en": "Claude vs ChatGPT vs Copilot vs Gemini: 2026 Enterprise Guide | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/claude-vs-chatgpt-vs-copilot-vs-gemini-enterprise-comparison",
-      "date": "21 June 2026"
-    },
     {
       "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
       "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
@@ -933,6 +926,13 @@
       "source": "Bleepingcomputer",
       "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
       "date": "05 June 2026"
+    },
+    {
+      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "source": "Republicworld",
+      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
+      "date": "10 June 2026"
     }
   ]
 }
