@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23 July 2026 - 13:02",
+  "lastUpdate": "23 July 2026 - 13:33",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+        "title_en": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+        "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+        "summary_en": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+        "long_summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+        "long_summary_en": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+        "date": "23 July 2026"
+      },
+      {
         "title": "Google expands Gemini lineup with cheaper models and new Mythos rival",
         "title_en": "Google expands Gemini lineup with cheaper models and new Mythos rival",
         "summary": "Key Points Gemini 3.5 Flash Cyber is designed to find and fix software vulnerabilities and will initially be limited to governments and trusted partners. Gemini 3.6 Flash uses up to 17% fewer tokens a",
@@ -714,18 +726,6 @@
         "image": "https://cdn.ayautomate.com/storage/v1/object/public/blog-images/sakana-fugu-alternatives/sakana-fugu-alternatives-feature.webp",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
-        "date": "23 June 2026"
-      },
-      {
-        "title": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
-        "title_en": "GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval",
-        "summary": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat ",
-        "summary_en": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat ",
-        "long_summary": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.\nThe post GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval appeared first on MarkTechPost.",
-        "long_summary_en": "We build a practical GLM-5.2 workflow using its hosted, OpenAI-compatible API instead of running the model locally. We set up multiple providers, load the API key securely, and create a reusable chat wrapper. We then test thinking-effort control, streamed reasoning, function calling, a tool-using agent, structured JSON output, and long-context retrieval. We close with token and cost accounting so every demo stays measurable.\nThe post GLM-5.2 OpenAI-Compatible API: A Hands-On Guide to Reasoning Effort, Function Calling, and Long-Context Retrieval appeared first on MarkTechPost.",
-        "image": "https://evolink.ai/_next/image?url=https://cdn.evolink.ai/glm-5-2-repo-workflows2.webp&w=1920&q=75",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
         "date": "23 June 2026"
       }
     ],
