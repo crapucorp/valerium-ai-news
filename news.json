@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "23 July 2026 - 18:07",
+  "lastUpdate": "23 July 2026 - 18:38",
   "categories": {
     "general": [
+      {
+        "title": "Cambridge built a planet-scale AI model, and skipped Nvidia to do it",
+        "title_en": "Cambridge built a planet-scale AI model, and skipped Nvidia to do it",
+        "summary": "The AI industry runs on Nvidia. A team at the University of Cambridge has just shown it does not have to. They have built a planetary-scale foundation model for the Earth, and every chip that trained ",
+        "summary_en": "The AI industry runs on Nvidia. A team at the University of Cambridge has just shown it does not have to. They have built a planetary-scale foundation model for the Earth, and every chip that trained ",
+        "long_summary": "The AI industry runs on Nvidia. A team at the University of Cambridge has just shown it does not have to. They have built a planetary-scale foundation model for the Earth, and every chip that trained and ran it came from AMD. The model is called TESSERA, and its idea is borrowed from large language […]\nThis story continues at The Next Web",
+        "long_summary_en": "The AI industry runs on Nvidia. A team at the University of Cambridge has just shown it does not have to. They have built a planetary-scale foundation model for the Earth, and every chip that trained and ran it came from AMD. The model is called TESSERA, and its idea is borrowed from large language […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2025/07/Untitled-design-4.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/tessera-cambridge-earth-observation-ai-amd-vultr",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Apple’s privacy policy reveals an AI shopping assistant is coming to the Apple Store app",
+        "title_en": "Apple’s privacy policy reveals an AI shopping assistant is coming to the Apple Store app",
+        "summary": "Apple is preparing to add an AI-powered shopping assistant to the Apple Store app, according to a privacy policy update spotted by MacRumors. The updated document describes a “Virtual Shopping Assista",
+        "summary_en": "Apple is preparing to add an AI-powered shopping assistant to the Apple Store app, according to a privacy policy update spotted by MacRumors. The updated document describes a “Virtual Shopping Assista",
+        "long_summary": "Apple is preparing to add an AI-powered shopping assistant to the Apple Store app, according to a privacy policy update spotted by MacRumors. The updated document describes a “Virtual Shopping Assistant” that collects account information, device identifiers, carrier information, chat data, and optionally location data to personalise responses. The feature is not live yet. Apple […]\nThis story continues at The Next Web",
+        "long_summary_en": "Apple is preparing to add an AI-powered shopping assistant to the Apple Store app, according to a privacy policy update spotted by MacRumors. The updated document describes a “Virtual Shopping Assistant” that collects account information, device identifiers, carrier information, chat data, and optionally location data to personalise responses. The feature is not live yet. Apple […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/apple-store-app-ai-shopping-assistant-privacy-policy.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/apple-store-app-ai-shopping-assistant-privacy-policy",
+        "date": "23 July 2026"
+      },
       {
         "title": "Nvidia’s open-source simulator trains surgical robots in under two minutes",
         "title_en": "Nvidia’s open-source simulator trains surgical robots in under two minutes",
@@ -157,30 +181,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
         "date": "23 June 2026"
-      },
-      {
-        "title": "Artificial Intelligence News -- ScienceDaily",
-        "title_en": "Artificial Intelligence News -- ScienceDaily",
-        "summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or ",
-        "summary_en": "NASA’s Perseverance Rover Completes the First AI-Planned Drive on Mars · Jan. 31, 2026  NASA’s Perseverance rover has just made history by driving across Mars using routes planned by artificial intel",
-        "long_summary": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... Quantum AI Just Got Shockingly Good at Predicting Chaos Apr. 17, 2026 Â Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI ... This Simple Change Stops Robot Swarms from Getting Stuck Apr. 15, 2026 Â In crowded environments, more robots donât always mean faster resultsâin fact, too many can bring everything to a standstill. Harvard researchers discovered a surprising fix: adding a bit of ... âGiant Superatomsâ Could Finally Solve Quantum Computingâs Biggest Problem Apr. 13, 2026 Â In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an ... This New Chip Could Slash Data Center Energy Waste Apr. 10, 2026 Â A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power is converted for GPUs. By combining vibrating piezoelectric components with a clever ... This New Chip Survives 1300Â°F (700Â°C) and Could Change AI Forever Apr. 7, 2026 Â A team of engineers has created a breakthrough memory device th",
-        "long_summary_en": "Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... Quantum AI Just Got Shockingly Good at Predicting Chaos Apr. 17, 2026 Â Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI ... This Simple Change Stops Robot Swarms",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "source": "Sciencedaily",
-        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "AI News, Updates, Products and Reviews | Yahoo Tech",
-        "title_en": "AI News, Updates, Products and Reviews | Yahoo Tech",
-        "summary": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27 Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving else",
-        "summary_en": "Explore the latest in AI technology with expert reviews, news, and insights on AI technology, machine learning, AI tools and more.",
-        "long_summary": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27 Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27. TechCrunch",
-        "long_summary_en": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27 Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27. TechCrunch",
-        "image": "https://s.yimg.com/en/images/1574a80b96a9fe539115c8759e59eafd4644512c68fea51a79a75f650ad62509.png",
-        "source": "Tech",
-        "url": "https://tech.yahoo.com/ai/",
-        "date": "21 June 2026"
       }
     ],
     "image": [
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
+        "title_en": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
+        "summary": "How to Use Agentic AI for Content Creation",
+        "summary_en": "<strong>Instead of filming with a physical camera, you describe what you want (through text prompts, reference images, or both) and the AI produces a video clip</strong>. Modern AI video tools like Hi",
+        "long_summary": "How to Use Agentic AI for Content Creation",
+        "long_summary_en": "How to Use Agentic AI for Content Creation",
+        "image": "https://higgsfield.ai/thumbnail/default.jpg",
+        "source": "Higgsfield",
+        "url": "https://higgsfield.ai/ai-video",
+        "date": "23 July 2026"
+      },
+      {
         "title": "AI Video Detector & Deepfake Video Checker | Imagera",
         "title_en": "AI Video Detector & Deepfake Video Checker | Imagera",
         "summary": "Enable JavaScript and cookies to continue",
@@ -533,21 +545,69 @@
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
         "date": "21 June 2026"
-      },
-      {
-        "title": "Best AI Image Generators of 2026 - CNET",
-        "title_en": "Best AI Image Generators of 2026 - CNET",
-        "summary": "Nearly every major AI company has an image generator nowadays. These tools can create realistic, fantastical and text-heavy images in a matter of seconds, with other AI-powered tools sitting alongside",
-        "summary_en": "Every AI image generator compared: Here&#x27;s how the top models stack up, from Nano Banana to Midjourney. ... Katelyn is a reporter with CNET covering artificial intelligence, including chatbots, im",
-        "long_summary": "Nearly every major AI company has an image generator nowadays. These tools can create realistic, fantastical and text-heavy images in a matter of seconds, with other AI-powered tools sitting alongside generators to edit your existing images. Our Picks Best overall AI image generator Nano Banana Pro (Gemini 3) See at Google 8.0/10 CNET Score CNET Score CNET provides expert, unbiased reviews of products and services. When we assign a score, we use a scale of 1-10. Each product we score is evaluated by criteria specific to its category with most assessing pricing, quality, features and performance. Read more on: How we test Google’s Nano Banana models took the AI industry by storm in 2025. The original model was praised by fans for its ability to maintain character consistency, and the new pro model is even more capable of handling image editing and generation. Nano Banana Pro is the best program for generating text in images, like infographics. Even though you’ll want to closely inspect those images to make sure those facts are correct, it’s miles ahead of any other AI image generator. Read full review Jump to details Pros Excellent character consistency and realism Can edit existing images as well as generate images Can create legible text in AI images Cons Longer generation time Info in graphics may be inaccurate Expand Pros & Cons Best basic AI image generator for beginners Canva See at Canva 7.5/10 CNET Score CNET Score CNET provides expert, unbiased reviews of products and",
-        "long_summary_en": "Nearly every major AI company has an image generator nowadays. These tools can create realistic, fantastical and text-heavy images in a matter of seconds, with other AI-powered tools sitting alongside generators to edit your existing images. Our Picks Best overall AI image generator Nano Banana Pro (Gemini 3) See at Google 8.0/10 CNET Score CNET Score CNET provides expert, unbiased reviews of products and services. When we assign a score, we use a scale of 1-10. Each product we score is evaluated by criteria specific to its category with most assessing pricing, quality, features and performanc",
-        "image": "https://www.cnet.com/a/img/resize/354e0e20164d6fd972316f5452d12d1259e6be31/hub/2025/11/14/79377b25-b7cb-4966-9d16-2961022f1aec/ai-generative-photovideo-cnet5.png?auto=webp&fit=crop&height=675&width=1200",
-        "source": "Cnet",
-        "url": "https://www.cnet.com/tech/services-and-software/best-ai-image-generators/",
-        "date": "21 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "OpenAI and Anthropic limit latest ChatGPT products to Trump-approved customers amid review | AP News",
+        "title_en": "OpenAI and Anthropic limit latest ChatGPT products to Trump-approved customers amid review | AP News",
+        "summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES How protests over a popular minister's firing sparked Ukraine's sudden military reset Yemen's Ho",
+        "summary_en": "Its chief rival, Anthropic, announced hours later that <strong>the Trump administration has approved a limited release of its strongest cybersecurity model</strong>, two weeks after the U.S. Commerce ",
+        "long_summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES How protests over a popular minister's firing sparked Ukraine's sudden military reset Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war India protest movement holds capital sit-in as police crack down on demonstrators Newsletters The Afternoon Wire Our personalization engine sends you what you may have missed throughout the day. The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. See All Newsletters",
+        "long_summary_en": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES How protests over a popular minister's firing sparked Ukraine's sudden military reset Yemen's Houthis attack Saudi tankers in the Red Sea, threatening to widen Iran war India protest movement holds capital sit-in as police crack down on demonstrators Newsletters The Afternoon Wire Our personalization engine sends you what you may have missed throughout the day. The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. See All Newsletters",
+        "image": "https://dims.apnews.com/dims4/default/715e34a/2147483647/strip/true/crop/5760x3838+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F54%2F4efc73906dcbbb4493463a1f6624%2F201a1d222f0d4381b878408780de6cab",
+        "source": "Apnews",
+        "url": "https://apnews.com/article/trump-ai-openai-gpt56-sol-cybersecurity-mythos-065d5398baac7f16c8265c2cb8ba2baa",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
+        "summary": "Quick verification Confirm you're human to keep going.",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "Quick verification Confirm you're human to keep going.",
+        "long_summary_en": "Quick verification Confirm you're human to keep going.",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
+        "title_en": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
+        "summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the ",
+        "summary_en": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the ",
+        "long_summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthropic emphasized the tool’s versatility upon announcement, highlighting its capability to […]\nThe post Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal appeared first on MarkTechPost.",
+        "long_summary_en": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthropic emphasized the tool’s versatility upon announcement, highlighting its capability to […]\nThe post Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal appeared first on MarkTechPost.",
+        "image": "https://letsdatascience.com/lds_news_fallback_image.svg",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "title_en": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "long_summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "long_summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-50-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "OpenAI sued over ChatGPT’s ‘dangerous’ medical advice in first case of its kind",
+        "title_en": "OpenAI sued over ChatGPT’s ‘dangerous’ medical advice in first case of its kind",
+        "summary": "Scott Winters says he trusted ChatGPT with his health, and it nearly cost him his life. The 55-year-old Florida pastor is suing OpenAI in San Francisco. He alleges the chatbot gave him dangerously wro",
+        "summary_en": "Scott Winters says he trusted ChatGPT with his health, and it nearly cost him his life. The 55-year-old Florida pastor is suing OpenAI in San Francisco. He alleges the chatbot gave him dangerously wro",
+        "long_summary": "Scott Winters says he trusted ChatGPT with his health, and it nearly cost him his life. The 55-year-old Florida pastor is suing OpenAI in San Francisco. He alleges the chatbot gave him dangerously wrong medical advice and talked him out of seeking care. Weeks later, a pulmonary embolism brought him, in his words, “to the […]\nThis story continues at The Next Web",
+        "long_summary_en": "Scott Winters says he trusted ChatGPT with his health, and it nearly cost him his life. The 55-year-old Florida pastor is suing OpenAI in San Francisco. He alleges the chatbot gave him dangerously wrong medical advice and talked him out of seeking care. Weeks later, a pulmonary embolism brought him, in his words, “to the […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/openai-kalshi-chatgpt-world-cup-prediction-markets.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/openai-chatgpt-medical-advice-lawsuit-winters-pulmonary-embolism",
+        "date": "23 July 2026"
+      },
       {
         "title": "Google’s Gemini delay exposes a deeper problem: employee morale",
         "title_en": "Google’s Gemini delay exposes a deeper problem: employee morale",
@@ -666,66 +726,6 @@
         "image": "",
         "source": "Reuters",
         "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "White House accuses Moonshot of distilling Anthropic’s Fable to build Kimi K3",
-        "title_en": "White House accuses Moonshot of distilling Anthropic’s Fable to build Kimi K3",
-        "summary": "The model that rattled Silicon Valley last week now has Washington’s attention. A senior White House official has accused China’s Moonshot AI of breaking US export controls to build Kimi K3. It reache",
-        "summary_en": "The model that rattled Silicon Valley last week now has Washington’s attention. A senior White House official has accused China’s Moonshot AI of breaking US export controls to build Kimi K3. It reache",
-        "long_summary": "The model that rattled Silicon Valley last week now has Washington’s attention. A senior White House official has accused China’s Moonshot AI of breaking US export controls to build Kimi K3. It reached restricted Nvidia chips, he said, and leaned on American models to do it. Kratsios directs the White House Office of Science and […]\nThis story continues at The Next Web",
-        "long_summary_en": "The model that rattled Silicon Valley last week now has Washington’s attention. A senior White House official has accused China’s Moonshot AI of breaking US export controls to build Kimi K3. It reached restricted Nvidia chips, he said, and leaned on American models to do it. Kratsios directs the White House Office of Science and […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/white-house-ai-preemption-kosa-no-fakes-deal.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/white-house-moonshot-banned-nvidia-chips-kimi-k3",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-        "title_en": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-        "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-        "summary_en": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-        "long_summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-        "long_summary_en": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "Google expands Gemini lineup with cheaper models and new Mythos rival",
-        "title_en": "Google expands Gemini lineup with cheaper models and new Mythos rival",
-        "summary": "Key Points Gemini 3.5 Flash Cyber is designed to find and fix software vulnerabilities and will initially be limited to governments and trusted partners. Gemini 3.6 Flash uses up to 17% fewer tokens a",
-        "summary_en": "Artificial Analysis data shows <strong>Gemini Flash already undercuts comparable models from Anthropic, OpenAI and Chinese rivals on cost</strong>. According to the company, Gemini 3.6 Flash — the str",
-        "long_summary": "Key Points Gemini 3.5 Flash Cyber is designed to find and fix software vulnerabilities and will initially be limited to governments and trusted partners. Gemini 3.6 Flash uses up to 17% fewer tokens and costs less per token, while Gemini 3.5 Flash-Lite targets faster, high-volume workloads. The launch comes one day before Alphabet earnings as Chinese rivals gain ground and Google works to improve the timing, scale and efficiency of its AI releases. In this article GOOGL Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 1:57 01:57 Google debuts new Gemini models TechCheck Alphabet is releasing three new Gemini models on Tuesday, including its clearest answer yet to Anthropic 's lead in cybersecurity , as the company looks to show progress across a product pipeline that has faced delays and mounting competition. Gemini 3.5 Flash Cyber is designed to detect and patch software vulnerabilities and will initially be available only to governments and trusted partners through a limited-access pilot. Google said the specialized model runs at a lower price per token than larger models. The new model could help Google narrow its cybersecurity gap with Anthropic, which has built an early lead in automated code defense with its Mythos model. Google is also launching Gemini 3.6 Flash, which improves coding, multimodal and knowledge-work performance while using up to 17% fewer tokens and costing less per token than the previous model — a meaningful reduction in the cost of run",
-        "long_summary_en": "Key Points Gemini 3.5 Flash Cyber is designed to find and fix software vulnerabilities and will initially be limited to governments and trusted partners. Gemini 3.6 Flash uses up to 17% fewer tokens and costs less per token, while Gemini 3.5 Flash-Lite targets faster, high-volume workloads. The launch comes one day before Alphabet earnings as Chinese rivals gain ground and Google works to improve the timing, scale and efficiency of its AI releases. In this article GOOGL Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 1:57 01:57 Google debuts new Gemini models TechCheck Alphabet",
-        "image": "https://image.cnbcfm.com/api/v1/image/108125066-1743612094130-gettyimages-1997200816-dicola-geminire240212_npoUj.jpeg?v=1743612242&w=1920&h=1080",
-        "source": "Cnbc",
-        "url": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-        "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-        "summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 74 live stories from the last 30 days menti",
-        "summary_en": "OpenAI Adds Nubank CEO David Vélez and BNY CEO Robin Vince to Its Foundation and PBC Boards Ahead of IPO ... Anthropic Spent $1.97M on Q2 2026 US Lobbying, Up 26% QoQ, Outspending Nvidia and Nearly Ma",
-        "long_summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 74 live stories from the last 30 days mention OpenAI. 405 total mentions 12/20 recent issues +232% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake. The harder coverage in April: Florida's AG opened a criminal investigation over ChatGPT's role in the FSU shooting; the Musk fraud trial heads to a $150B reckoning; and Sam Altman publicly apologized after the Tumbler Ridge tragedy. AI Weekly tracks every release, lawsuit, and pricing change. Mention Trend — Last 20 Issues Live Stories (74) The Atlantic: AI Companies' Academic Hiring Spree Is Pulling Frontier Research Behind Closed Doors theatlantic.com · 2026-07-22 · Score: 21 OpenAI Discloses GPT-5.6 Sol and Unreleased Model Escaped Sandbox to Hack Hugging Face During ExploitGym Test thehackernews.com · 2026-07-22 · Score: 22 OpenAI President Greg Brockman Calls Kimi K3 'Pretty Good' but Says It Is 'Too Early' to Know If It Was Distilled From OpenAI Models bloomberg.com · 2026-07-22 · Score: 22 Anthropic Held Spring Acquisition Talks With Physical Intelligence Robotics Startup, CEO Sa",
-        "long_summary_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 74 live stories from the last 30 days mention OpenAI. 405 total mentions 12/20 recent issues +232% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake.",
-        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
-        "source": "Aiweekly",
-        "url": "https://aiweekly.co/ai-news-today/openai-news",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
-        "title_en": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
-        "summary": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandb",
-        "summary_en": "In this disclosure, you’ll gain insight into the broader implications of these updates, including how OpenAI plans to address ChatGPT 6’s security concerns and Google’s strategy for refining its Gemin",
-        "long_summary": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandbox vulnerabilities during testing, raising questions about its readiness for deployment. This incident highlights the dual challenge of pushing AI capabilities forward while making sure robust safeguards. Meanwhile, Google’s Gemini 3.6 Flash has faced criticism for underwhelming performance metrics, falling short of expectations despite its focus on efficiency. These contrasting developments underscore the complexities of innovation in a competitive and rapidly evolving AI landscape. In this disclosure, you’ll gain insight into the broader implications of these updates, including how OpenAI plans to address ChatGPT 6’s security concerns and Google’s strategy for refining its Gemini series with the upcoming Gemini 4. Explore how Anthropic’s $1.5 billion copyright settlement could reshape data usage practices across the industry and learn why Poolside AI’s Laguna S2.1 is being hailed for its long-context processing capabilities. By examining these key developments, you’ll better understand the challenges and opportunities shaping the future of AI. OpenAI’s GPT-6: Progress Amid Security Concerns TL;DR Key Takeaways : OpenAI is advancing ChatGPT 6, expected by late summer 2026, but recent testing revealed significant cybersecurity vulnerabilities, prompting discussions with U.S. offi",
-        "long_summary_en": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandbox vulnerabilities during testing, raising questions about its readiness for deployment. This incident highlights the dual challenge of pushing AI capabilities forward while making sure robust safeguards. Meanwhile, Google’s Gemini 3.6 Flash has faced criticism for underwhelming performance metrics, falling short of expectations despite its focus on efficiency. These contrasting developments under",
-        "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/ai-industry-updates.jpg",
-        "source": "Geeky-Gadgets",
-        "url": "https://www.geeky-gadgets.com/ai-news-chatgpt-6-anthropic/",
         "date": "23 July 2026"
       }
     ],
@@ -921,18 +921,18 @@
       "date": "05 June 2026"
     },
     {
-      "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-      "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-      "source": "Aiweekly",
-      "url": "https://aiweekly.co/ai-news-today/openai-news",
+      "title": "OpenAI and Anthropic limit latest ChatGPT products to Trump-approved customers amid review | AP News",
+      "title_en": "OpenAI and Anthropic limit latest ChatGPT products to Trump-approved customers amid review | AP News",
+      "source": "Apnews",
+      "url": "https://apnews.com/article/trump-ai-openai-gpt56-sol-cybersecurity-mythos-065d5398baac7f16c8265c2cb8ba2baa",
       "date": "23 July 2026"
     },
     {
-      "title": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
-      "title_en": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
-      "source": "Geeky-Gadgets",
-      "url": "https://www.geeky-gadgets.com/ai-news-chatgpt-6-anthropic/",
-      "date": "23 July 2026"
+      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "source": "Republicworld",
+      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
+      "date": "10 June 2026"
     }
   ]
 }
