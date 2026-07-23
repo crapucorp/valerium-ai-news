@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23 July 2026 - 12:31",
+  "lastUpdate": "23 July 2026 - 13:02",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Google expands Gemini lineup with cheaper models and new Mythos rival",
+        "title_en": "Google expands Gemini lineup with cheaper models and new Mythos rival",
+        "summary": "Key Points Gemini 3.5 Flash Cyber is designed to find and fix software vulnerabilities and will initially be limited to governments and trusted partners. Gemini 3.6 Flash uses up to 17% fewer tokens a",
+        "summary_en": "Artificial Analysis data shows <strong>Gemini Flash already undercuts comparable models from Anthropic, OpenAI and Chinese rivals on cost</strong>. According to the company, Gemini 3.6 Flash — the str",
+        "long_summary": "Key Points Gemini 3.5 Flash Cyber is designed to find and fix software vulnerabilities and will initially be limited to governments and trusted partners. Gemini 3.6 Flash uses up to 17% fewer tokens and costs less per token, while Gemini 3.5 Flash-Lite targets faster, high-volume workloads. The launch comes one day before Alphabet earnings as Chinese rivals gain ground and Google works to improve the timing, scale and efficiency of its AI releases. In this article GOOGL Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 1:57 01:57 Google debuts new Gemini models TechCheck Alphabet is releasing three new Gemini models on Tuesday, including its clearest answer yet to Anthropic 's lead in cybersecurity , as the company looks to show progress across a product pipeline that has faced delays and mounting competition. Gemini 3.5 Flash Cyber is designed to detect and patch software vulnerabilities and will initially be available only to governments and trusted partners through a limited-access pilot. Google said the specialized model runs at a lower price per token than larger models. The new model could help Google narrow its cybersecurity gap with Anthropic, which has built an early lead in automated code defense with its Mythos model. Google is also launching Gemini 3.6 Flash, which improves coding, multimodal and knowledge-work performance while using up to 17% fewer tokens and costing less per token than the previous model — a meaningful reduction in the cost of run",
+        "long_summary_en": "Key Points Gemini 3.5 Flash Cyber is designed to find and fix software vulnerabilities and will initially be limited to governments and trusted partners. Gemini 3.6 Flash uses up to 17% fewer tokens and costs less per token, while Gemini 3.5 Flash-Lite targets faster, high-volume workloads. The launch comes one day before Alphabet earnings as Chinese rivals gain ground and Google works to improve the timing, scale and efficiency of its AI releases. In this article GOOGL Follow your favorite stocks CREATE FREE ACCOUNT watch now VIDEO 1:57 01:57 Google debuts new Gemini models TechCheck Alphabet",
+        "image": "https://image.cnbcfm.com/api/v1/image/108125066-1743612094130-gettyimages-1997200816-dicola-geminire240212_npoUj.jpeg?v=1743612242&w=1920&h=1080",
+        "source": "Cnbc",
+        "url": "https://www.cnbc.com/2026/07/21/google-gemini-flash-ai-mythos-rival.html",
+        "date": "23 July 2026"
+      },
+      {
         "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
         "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
         "summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 74 live stories from the last 30 days menti",
@@ -714,18 +726,6 @@
         "image": "https://evolink.ai/_next/image?url=https://cdn.evolink.ai/glm-5-2-repo-workflows2.webp&w=1920&q=75",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/22/glm-5-2-openai-compatible-api-a-hands-on-guide-to-reasoning-effort-function-calling-and-long-context-retrieval/",
-        "date": "23 June 2026"
-      },
-      {
-        "title": "OpenAI launches new initiative to help find and patch open source bugs",
-        "title_en": "OpenAI launches new initiative to help find and patch open source bugs",
-        "summary": "OpenAI is using AI to help the open source community better protect itself.",
-        "summary_en": "OpenAI is using AI to help the open source community better protect itself.",
-        "long_summary": "OpenAI is using AI to help the open source community better protect itself.",
-        "long_summary_en": "OpenAI is using AI to help the open source community better protect itself.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
         "date": "23 June 2026"
       }
     ],
