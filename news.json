@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "23 July 2026 - 16:36",
+  "lastUpdate": "23 July 2026 - 18:07",
   "categories": {
     "general": [
+      {
+        "title": "Nvidia’s open-source simulator trains surgical robots in under two minutes",
+        "title_en": "Nvidia’s open-source simulator trains surgical robots in under two minutes",
+        "summary": "The hard part of medical robotics is not the robot. It is the practice. A surgical system needs thousands of attempts to learn a delicate task, and you cannot run those on real patients. Nvidia thinks",
+        "summary_en": "The hard part of medical robotics is not the robot. It is the practice. A surgical system needs thousands of attempts to learn a delicate task, and you cannot run those on real patients. Nvidia thinks",
+        "long_summary": "The hard part of medical robotics is not the robot. It is the practice. A surgical system needs thousands of attempts to learn a delicate task, and you cannot run those on real patients. Nvidia thinks the answer is to let the robot rehearse inside a simulated body, millions of times over. The company has […]\nThis story continues at The Next Web",
+        "long_summary_en": "The hard part of medical robotics is not the robot. It is the practice. A surgical system needs thousands of attempts to learn a delicate task, and you cannot run those on real patients. Nvidia thinks the answer is to let the robot rehearse inside a simulated body, millions of times over. The company has […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2025/02/Untitled-design-4-1.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/nvidia-isaac-medical-physics-simulation-surgical-robots",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+        "title_en": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+        "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+        "summary_en": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+        "long_summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+        "long_summary_en": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+        "date": "23 July 2026"
+      },
       {
         "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
         "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
@@ -157,30 +181,6 @@
         "source": "Tech",
         "url": "https://tech.yahoo.com/ai/",
         "date": "21 June 2026"
-      },
-      {
-        "title": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
-        "title_en": "VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline",
-        "summary": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the ",
-        "summary_en": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the ",
-        "long_summary": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline appeared first on MarkTechPost.",
-        "long_summary_en": "VibeThinker-3B, a 3B MIT-licensed reasoning model matching DeepSeek V3.2 and Kimi K2.5 on verifiable benchmarks.\nThe post VibeThinker-3B: A 3B Dense Reasoning Model Built on Qwen2.5-Coder-3B With the Spectrum-to-Signal Post-Training Pipeline appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog1913-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/19/vibethinker-3b-a-3b-dense-reasoning-model-built-on-qwen2-5-coder-3b-with-the-spectrum-to-signal-post-training-pipeline/",
-        "date": "20 June 2026"
-      },
-      {
-        "title": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
-        "title_en": "NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning",
-        "summary": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That",
-        "summary_en": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That",
-        "long_summary": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost.",
-        "long_summary_en": "SpatialClaw is a training-free agent that writes Python in a persistent kernel, composing perception tools for 3D spatial reasoning\nThe post NVIDIA AI Introduce SpatialClaw: A Training-Free Agent That Treats Code as the Action Interface for Spatial Reasoning appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog19-1-324x160.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
-        "date": "20 June 2026"
       }
     ],
     "image": [
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "AI Video Detector & Deepfake Video Checker | Imagera",
+        "title_en": "AI Video Detector & Deepfake Video Checker | Imagera",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>New generators are added within days of public release</strong>.Detection models are trained on outputs from 20+ video and face tools: Sora 2, Google Veo 3, Runway Gen-4 Turbo, Kling...",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "",
+        "source": "Imagera",
+        "url": "https://imagera.ai/detect/ai-video-detector",
+        "date": "23 July 2026"
+      },
+      {
         "title": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
         "title_en": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
         "summary": "Gear Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop By Boone Ashworth Politics The White House Is Trying to Figure Out What to Do About Chinese AI By Hugo Lowell Business",
@@ -533,21 +545,57 @@
         "source": "Cnet",
         "url": "https://www.cnet.com/tech/services-and-software/best-ai-image-generators/",
         "date": "21 June 2026"
-      },
-      {
-        "title": "Best Local AI Video Generator: Run Video AI Offline",
-        "title_en": "Best Local AI Video Generator: Run Video AI Offline",
-        "summary": "AI Search Optimization for Ecommerce: A Practical Guide June 20, 2026",
-        "summary_en": "Note that top proprietary cloud options like Veo and Runway are covered in our pillar — and a reminder that OpenAI’s Sora consumer app was discontinued, so it’s not a path to rely on. For platform-spe",
-        "long_summary": "AI Search Optimization for Ecommerce: A Practical Guide June 20, 2026",
-        "long_summary_en": "AI Search Optimization for Ecommerce: A Practical Guide June 20, 2026",
-        "image": "https://techiehub.blog/wp-content/uploads/2025/12/ChatGPT-Image-Jun-15-2026-05_04_08-AM.png",
-        "source": "Techiehub",
-        "url": "https://techiehub.blog/best-local-ai-video-generator/",
-        "date": "21 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Google’s Gemini delay exposes a deeper problem: employee morale",
+        "title_en": "Google’s Gemini delay exposes a deeper problem: employee morale",
+        "summary": "Google is losing a race it once led, and the problem may be its own people. Six current and former DeepMind employees told Axios that low morale is slowing the lab’s model releases, Axios reported. Th",
+        "summary_en": "Google is losing a race it once led, and the problem may be its own people. Six current and former DeepMind employees told Axios that low morale is slowing the lab’s model releases, Axios reported. Th",
+        "long_summary": "Google is losing a race it once led, and the problem may be its own people. Six current and former DeepMind employees told Axios that low morale is slowing the lab’s model releases, Axios reported. The immediate symptom is Gemini 3.5 Pro. Google’s most powerful model is months behind, according to Bloomberg. Google did ship […]\nThis story continues at The Next Web",
+        "long_summary_en": "Google is losing a race it once led, and the problem may be its own people. Six current and former DeepMind employees told Axios that low morale is slowing the lab’s model releases, Axios reported. The immediate symptom is Gemini 3.5 Pro. Google’s most powerful model is months behind, according to Bloomberg. Google did ship […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/04/Google-DeepMind.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/google-deepmind-morale-gemini-delay-talent",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+        "title_en": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+        "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
+        "summary_en": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
+        "long_summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception.This wave of VentureBeat Pulse Research examines enterprise agent orchestration: which platforms enterprises run on, what driv",
+        "long_summary_en": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception.This wave of VentureBeat Pulse Research examines enterprise agent orchestration: which platforms enterprises run on, what driv",
+        "image": "https://www.progressiverobot.com/wp-content/uploads/2026/07/img_d01db6f6_00001_-1.png",
+        "source": "venturebeat_ai",
+        "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "AMD commits up to $5 billion to  Anthropic",
+        "title_en": "AMD commits up to $5 billion to  Anthropic",
+        "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro",
+        "summary_en": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro",
+        "long_summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported […]",
+        "long_summary_en": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,10.654292878952,100,78.691414242097",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Google’s Gemini nears billion-user milestone",
+        "title_en": "Google’s Gemini nears billion-user milestone",
+        "summary": "Gemini had over 750 million monthly users in February.",
+        "summary_en": "Gemini had over 750 million monthly users in February.",
+        "long_summary": "Gemini had over 750 million monthly users in February.",
+        "long_summary_en": "Gemini had over 750 million monthly users in February.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+        "date": "23 July 2026"
+      },
       {
         "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
         "title_en": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
@@ -679,57 +727,21 @@
         "source": "Geeky-Gadgets",
         "url": "https://www.geeky-gadgets.com/ai-news-chatgpt-6-anthropic/",
         "date": "23 July 2026"
-      },
-      {
-        "title": "OpenAI and Anthropic limit latest ChatGPT products to Trump-approved customers amid review | AP News",
-        "title_en": "OpenAI and Anthropic limit latest ChatGPT products to Trump-approved customers amid review | AP News",
-        "summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES US military carries out strikes on Iran as both sides threaten civilian infrastructure What to k",
-        "summary_en": "Its chief rival, Anthropic, announced hours later that <strong>the Trump administration has approved a limited release of its strongest cybersecurity model</strong>, two weeks after the U.S. Commerce ",
-        "long_summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES US military carries out strikes on Iran as both sides threaten civilian infrastructure What to know about Iran's Pickaxe Mountain, home to an underground nuclear site threatened by Trump Adolf Hitler’s birthplace in Austria reopens as a police station to deter Nazi pilgrimages Newsletters The Afternoon Wire Our personalization engine sends you what you may have missed throughout the day. The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. See All Newsletters",
-        "long_summary_en": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES US military carries out strikes on Iran as both sides threaten civilian infrastructure What to know about Iran's Pickaxe Mountain, home to an underground nuclear site threatened by Trump Adolf Hitler’s birthplace in Austria reopens as a police station to deter Nazi pilgrimages Newsletters The Afternoon Wire Our personalization engine sends you what you may have missed throughout the day. The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. See All Newsletter",
-        "image": "https://dims.apnews.com/dims4/default/715e34a/2147483647/strip/true/crop/5760x3838+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F54%2F4efc73906dcbbb4493463a1f6624%2F201a1d222f0d4381b878408780de6cab",
-        "source": "Apnews",
-        "url": "https://apnews.com/article/trump-ai-openai-gpt56-sol-cybersecurity-mythos-065d5398baac7f16c8265c2cb8ba2baa",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
-        "summary": "Quick verification Confirm you're human to keep going.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Quick verification Confirm you're human to keep going.",
-        "long_summary_en": "Quick verification Confirm you're human to keep going.",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
-        "title_en": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
-        "summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the ",
-        "summary_en": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the ",
-        "long_summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthropic emphasized the tool’s versatility upon announcement, highlighting its capability to […]\nThe post Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal appeared first on MarkTechPost.",
-        "long_summary_en": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthropic emphasized the tool’s versatility upon announcement, highlighting its capability to […]\nThe post Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-49-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
-        "title_en": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
-        "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
-        "summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
-        "long_summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
-        "long_summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-50-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
-        "date": "23 July 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Inside the data centres powering AI: gold racks, demented noise, and 40 diesel generators",
+        "title_en": "Inside the data centres powering AI: gold racks, demented noise, and 40 diesel generators",
+        "summary": "AI can seem like magic, a voice from a phone, an answer from nowhere. Step inside the buildings that make it, and the magic evaporates. What is left is noise, heat, metal, and an enormous appetite for",
+        "summary_en": "AI can seem like magic, a voice from a phone, an answer from nowhere. Step inside the buildings that make it, and the magic evaporates. What is left is noise, heat, metal, and an enormous appetite for",
+        "long_summary": "AI can seem like magic, a voice from a phone, an answer from nowhere. Step inside the buildings that make it, and the magic evaporates. What is left is noise, heat, metal, and an enormous appetite for power. Axios’s Amy Harder toured a test server hall run by Digital Realty in Ashburn, Virginia, the heart […]\nThis story continues at The Next Web",
+        "long_summary_en": "AI can seem like magic, a voice from a phone, an answer from nowhere. Step inside the buildings that make it, and the magic evaporates. What is left is noise, heat, metal, and an enormous appetite for power. Axios’s Amy Harder toured a test server hall run by Digital Realty in Ashburn, Virginia, the heart […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2013/05/143135053.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/inside-ai-data-centre-ashburn-secrecy-backlash",
+        "date": "23 July 2026"
+      },
       {
         "title": "Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared",
         "title_en": "Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared",
@@ -897,18 +909,6 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
         "date": "26 May 2026"
-      },
-      {
-        "title": "Suno leans into customization with v5.5",
-        "title_en": "Suno leans into customization with v5.5",
-        "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us",
-        "summary_en": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us",
-        "long_summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices […]",
-        "long_summary_en": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/1774532259-suno_v5-5_blogouterbanner.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
-        "date": "29 March 2026"
       }
     ]
   },
