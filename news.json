@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23 July 2026 - 14:34",
+  "lastUpdate": "23 July 2026 - 15:04",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "White House accuses Moonshot of distilling Anthropic’s Fable to build Kimi K3",
+        "title_en": "White House accuses Moonshot of distilling Anthropic’s Fable to build Kimi K3",
+        "summary": "The model that rattled Silicon Valley last week now has Washington’s attention. A senior White House official has accused China’s Moonshot AI of breaking US export controls to build Kimi K3. It reache",
+        "summary_en": "The model that rattled Silicon Valley last week now has Washington’s attention. A senior White House official has accused China’s Moonshot AI of breaking US export controls to build Kimi K3. It reache",
+        "long_summary": "The model that rattled Silicon Valley last week now has Washington’s attention. A senior White House official has accused China’s Moonshot AI of breaking US export controls to build Kimi K3. It reached restricted Nvidia chips, he said, and leaned on American models to do it. Kratsios directs the White House Office of Science and […]\nThis story continues at The Next Web",
+        "long_summary_en": "The model that rattled Silicon Valley last week now has Washington’s attention. A senior White House official has accused China’s Moonshot AI of breaking US export controls to build Kimi K3. It reached restricted Nvidia chips, he said, and leaned on American models to do it. Kratsios directs the White House Office of Science and […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/06/white-house-ai-preemption-kosa-no-fakes-deal.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/white-house-moonshot-banned-nvidia-chips-kimi-k3",
+        "date": "23 July 2026"
+      },
+      {
         "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
         "title_en": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
         "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
@@ -714,18 +726,6 @@
         "image": "https://res.cloudinary.com/dhqzl4gpk/image/upload/v1771362322/featured_comparativas_ia_c451d8fc4e.jpg",
         "source": "Gurusup",
         "url": "https://gurusup.com/blog/ai-comparisons",
-        "date": "23 June 2026"
-      },
-      {
-        "title": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
-        "title_en": "Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs",
-        "summary": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks",
-        "summary_en": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks",
-        "long_summary": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs appeared first on MarkTechPost.",
-        "long_summary_en": "Fugu and Fugu Ultra route tasks across a swappable model pool, leading most coding, reasoning, and agentic benchmarks.\nThe post Sakana AI Launches Sakana Fugu: An Orchestration Model That Routes Tasks Across a Swappable Pool of Frontier LLMs appeared first on MarkTechPost.",
-        "image": "https://cdn.ayautomate.com/storage/v1/object/public/blog-images/sakana-fugu-alternatives/sakana-fugu-alternatives-feature.webp",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/22/sakana-ai-launches-sakana-fugu-an-orchestration-model-that-routes-tasks-across-a-swappable-pool-of-frontier-llms/",
         "date": "23 June 2026"
       }
     ],
