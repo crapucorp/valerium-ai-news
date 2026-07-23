@@ -1,7 +1,79 @@
 {
-  "lastUpdate": "23 June 2026 - 12:31",
+  "lastUpdate": "23 July 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
+        "title_en": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
+        "summary": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downlo",
+        "summary_en": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downlo",
+        "long_summary": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specifications, and examining the benchmark taxonomy, execution settings, internet requirements, judging logic, and scoring metadata. We then […]\nThe post Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specifications, and examining the benchmark taxonomy, execution settings, internet requirements, judging logic, and scoring metadata. We then […]\nThe post Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-47-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Nvidia donates a DGX GB300 to the US military’s top science school",
+        "title_en": "Nvidia donates a DGX GB300 to the US military’s top science school",
+        "summary": "Jensen Huang travelled to Monterey this week to give the US Navy a machine that most defence contractors would have had to sell it. Nvidia’s founder helped commission a DGX GB300 AI supercomputer at t",
+        "summary_en": "Jensen Huang travelled to Monterey this week to give the US Navy a machine that most defence contractors would have had to sell it. Nvidia’s founder helped commission a DGX GB300 AI supercomputer at t",
+        "long_summary": "Jensen Huang travelled to Monterey this week to give the US Navy a machine that most defence contractors would have had to sell it. Nvidia’s founder helped commission a DGX GB300 AI supercomputer at the Naval Postgraduate School, the first system of its kind installed anywhere in the American military, and the company donated it […]\nThis story continues at The Next Web",
+        "long_summary_en": "Jensen Huang travelled to Monterey this week to give the US Navy a machine that most defence contractors would have had to sell it. Nvidia’s founder helped commission a DGX GB300 AI supercomputer at the Naval Postgraduate School, the first system of its kind installed anywhere in the American military, and the company donated it […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/Nvidia-US-Navy.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/nvidia-supercomputer-naval-postgraduate-school",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+        "title_en": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+        "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
+        "summary_en": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
+        "long_summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone — with no human in the loop. The result is an evaluation gap — ",
+        "long_summary_en": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone — with no human in the loop. The result is an evaluation gap — ",
+        "image": "https://www.progressiverobot.com/wp-content/uploads/2026/07/img_a63828df_00001_.png",
+        "source": "venturebeat_ai",
+        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+        "title_en": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+        "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
+        "summary_en": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
+        "long_summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fix, but most are still building it; the field is converging on hybrid retrieval; and even as provider",
+        "long_summary_en": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fix, but most are still building it; the field is converging on hybrid retrieval; and even as provider",
+        "image": "",
+        "source": "venturebeat_ai",
+        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "title_en": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
+        "summary_en": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
+        "long_summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agents, spending remains a thin slice of the security budget, and enterprises are evenly split on whethe",
+        "long_summary_en": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agents, spending remains a thin slice of the security budget, and enterprises are evenly split on whethe",
+        "image": "https://www.industryevents.com/_next/image?url=https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&amp;q=30&w=1920&q=75",
+        "source": "venturebeat_ai",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+        "title_en": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+        "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+        "summary_en": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+        "long_summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+        "long_summary_en": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/ServiceNow-Getty.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+        "date": "23 July 2026"
+      },
       {
         "title": "Workday must face California lawsuit over AI hiring bias, judge rules",
         "title_en": "Workday must face California lawsuit over AI hiring bias, judge rules",
@@ -109,81 +181,45 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/airpods-pro-3-heart-rate-accuracy-apple-watch-cnet-test",
         "date": "20 June 2026"
-      },
-      {
-        "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
-        "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
-        "summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "summary_en": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
-        "long_summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "long_summary_en": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/anthropic-ipo-ai-claude-enterprise-funding-investment-business-strategy-artificial-intelligence-1024x768.jpg",
-        "source": "Artificialintelligence-News",
-        "url": "https://www.artificialintelligence-news.com/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Artificial intelligence - BBC News",
-        "title_en": "Artificial intelligence - BBC News",
-        "summary": "Artificial intelligence Just now AI 'filling in gaps' in lung cancer diagnoses The technology is being rolled out at the Royal Surrey NHS Foundation Trust. Just now 20 hrs ago Police face cuts after m",
-        "summary_en": "Scotland Yard had been in talks about using Palantir&#x27;s AI tech to speed up criminal investigations.",
-        "long_summary": "Artificial intelligence Just now AI 'filling in gaps' in lung cancer diagnoses The technology is being rolled out at the Royal Surrey NHS Foundation Trust. Just now 20 hrs ago Police face cuts after mayor blocks AI tech deal Scotland Yard had been in talks about using Palantir's AI tech to speed up criminal investigations. 20 hrs ago 24 hrs ago IT firm Kainos to create almost 350 jobs The new roles cover a range of areas from software engineering to consulting, to AI and data science. 24 hrs ago 1 day ago University to launch defence technology courses Bournemouth University receives £2.8m from the Ministry of Defence to fund the courses. 1 day ago 2 days ago World's largest chipmaker does not rule out price rises as costs increase In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics. 2 days ago 2 days ago Version of AI tool 'too powerful for public' released to public Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders. 2 days ago 2 days ago Farage says Reform has contacted X 'to highest level' over fake AI ads The fake ads feature the governor of the Bank of England - the Bank has urged people to report them. 2 days ago 2 days ago Devon must not 'fall behind' in AI revolution The boss of Devon Chamber of Commerce says businesses need to act now. 2 days ago 2 days ago AI giants' race to raise funds",
-        "long_summary_en": "Artificial intelligence Just now AI 'filling in gaps' in lung cancer diagnoses The technology is being rolled out at the Royal Surrey NHS Foundation Trust. Just now 20 hrs ago Police face cuts after mayor blocks AI tech deal Scotland Yard had been in talks about using Palantir's AI tech to speed up criminal investigations. 20 hrs ago 24 hrs ago IT firm Kainos to create almost 350 jobs The new roles cover a range of areas from software engineering to consulting, to AI and data science. 24 hrs ago 1 day ago University to launch defence technology courses Bournemouth University receives £2.8m fro",
-        "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0nh5hn7.jpg.webp",
-        "source": "Bbc",
-        "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
-        "title_en": "Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation",
-        "summary": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text",
-        "summary_en": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text",
-        "long_summary": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation appeared first on MarkTechPost.",
-        "long_summary_en": "DiffusionGemma is Google DeepMind's experimental 26B open model using text diffusion for up to 4x faster generation on GPUs.\nThe post Google AI Releases DiffusionGemma, a 26B MoE Open Model Using Text Diffusion for Up to 4x Faster Generation appeared first on MarkTechPost.",
-        "image": "https://external-preview.redd.it/google-releases-diffusiongemma-new-experimental-open-model-v0-pr58Y7_82aglIdD6VxjGg1ns65Db_tHjts-39jVNm9U.png?width=640&crop=smart&auto=webp&s=5b7fe253e79e01c64805bfd6f268f18e35ac9628",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-        "title_en": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-        "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
-        "summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
-        "long_summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
-        "long_summary_en": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.) We're back after a two-week hiatus, during most of which I was gallivanting in the Netherlands for a family wedding, and a trip […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2279697530.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "ShopAgentic raises €1.9M to build commerce infrastructure for AI shopping agents",
-        "title_en": "ShopAgentic raises €1.9M to build commerce infrastructure for AI shopping agents",
-        "summary": "A German startup wants to rebuild online commerce for shoppers who are not human. ShopAgentic has raised a €1.9mn pre-seed to do it. May Ventures and Greenfield Capital co-led the oversubscribed round",
-        "summary_en": "A German startup wants to rebuild online commerce for shoppers who are not human. ShopAgentic has raised a €1.9mn pre-seed to do it. May Ventures and Greenfield Capital co-led the oversubscribed round",
-        "long_summary": "A German startup wants to rebuild online commerce for shoppers who are not human. ShopAgentic has raised a €1.9mn pre-seed to do it. May Ventures and Greenfield Capital co-led the oversubscribed round. What ShopAgentic is building ShopAgentic calls itself a “native agentic commerce system”. It runs a squad of specialised AI agents, each owning one […]\nThis story continues at The Next Web",
-        "long_summary_en": "A German startup wants to rebuild online commerce for shoppers who are not human. ShopAgentic has raised a €1.9mn pre-seed to do it. May Ventures and Greenfield Capital co-led the oversubscribed round. What ShopAgentic is building ShopAgentic calls itself a “native agentic commerce system”. It runs a squad of specialised AI agents, each owning one […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/shopagentic-team-1.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/shopagentic-1-9m-pre-seed-agentic-commerce",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "How memory tools can make AI models worse",
-        "title_en": "How memory tools can make AI models worse",
-        "summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "summary_en": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "long_summary": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "long_summary_en": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-        "date": "11 June 2026"
       }
     ],
     "image": [
+      {
+        "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+        "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+        "summary": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token New: give your AI agents live LLM pricing & benchmarks with the Price Per Token MCP. Get the MCP New Models Today — AI & LLM Releas",
+        "summary_en": "Gemini 3.1 Flash Lite Image New · Google·via Google·$0.25 in·$1.50 out·66K ctx · Claude Sonnet 5 New · Anthropic·via Amazon Bedrock·$2.00 in·$10.00 out·1M ctx · 8 items · TechCrunch AI·6/30/2026·Googl",
+        "long_summary": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token New: give your AI agents live LLM pricing & benchmarks with the Price Per Token MCP. Get the MCP New Models Today — AI & LLM Releases New models released in the last 24 hours and beyond. Track every new LLM from OpenAI, Anthropic, Google, Meta, Mistral and more. Last updated: July 23, 2026 Open Source News AI Agents News AI Coding News AI Funding News All categories The Grid | Spot Priced LLM API Sponsored Change 3 lines of code and let providers compete for your requests in real time. Get started for free Get our weekly newsletter on pricing changes, new releases, and tools. Subscribe Discussion · Model Releases 1 ellmanalex · 106d ago Have you used Gemma 4 yet? I think the best part of it is that you can run it locally. When I get OpenClaw up and running again I think I will explore using it for research and other simpler tasks since the Anthropic subscription doesn't cover that anymore. 1 comment · Join the discussion → Last 24h 0 This Week 11 This Month 41 All 124 Jul 21 1 item LongCat 2.0 New Longcat · via AtlasCloud · $0.30 in · $1.20 out · 1M ctx Jul 20 1 item Meituan: LongCat 2.0 (meituan/longcat-2.0) OpenRouter · 2d ago · Meituan Longcat Jul 19 1 item China's Kimi K3 rattles US AI industry TechXplore · 4d ago · Moonshotai Jul 18 2 items Kimi: Threat or menace? TechCrunch AI · 4d ago · Moonshotai Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT TechXplore",
+        "long_summary_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token New: give your AI agents live LLM pricing & benchmarks with the Price Per Token MCP. Get the MCP New Models Today — AI & LLM Releases New models released in the last 24 hours and beyond. Track every new LLM from OpenAI, Anthropic, Google, Meta, Mistral and more. Last updated: July 23, 2026 Open Source News AI Agents News AI Coding News AI Funding News All categories The Grid | Spot Priced LLM API Sponsored Change 3 lines of code and let providers compete for your requests in real time. Get started for free Get our weekly news",
+        "image": "https://dontpaniclabs.com/wp-content/uploads/2025/11/price-per-token-2-1024x569.webp",
+        "source": "Pricepertoken",
+        "url": "https://pricepertoken.com/news/model-releases",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Meta made its own AI detection system. It should have just used Google’s",
+        "title_en": "Meta made its own AI detection system. It should have just used Google’s",
+        "summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta res",
+        "summary_en": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta res",
+        "long_summary": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But […]",
+        "long_summary_en": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta responded in July by introducing Content Seal - an invisible watermarking technology that flags images generated by the company's new AI model. But […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "title_en": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "summary_en": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "long_summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "long_summary_en": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "date": "23 July 2026"
+      },
       {
         "title": "Photoshop and Premiere now have AI assistants",
         "title_en": "Photoshop and Premiere now have AI assistants",
@@ -327,45 +363,57 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/nvidia-marvell-nvlink-fusion-ecosystem-lock-in",
         "date": "04 April 2026"
-      },
-      {
-        "title": "Really, you made this without AI? Prove it",
-        "title_en": "Really, you made this without AI? Prove it",
-        "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the wor",
-        "summary_en": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the wor",
-        "long_summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one […]",
-        "long_summary_en": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Human-made-ai-free-labels-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
-        "date": "04 April 2026"
-      },
-      {
-        "title": "Microsoft takes on AI rivals with three new foundational models",
-        "title_en": "Microsoft takes on AI rivals with three new foundational models",
-        "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-        "summary_en": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-        "long_summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-        "long_summary_en": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-        "date": "03 April 2026"
-      },
-      {
-        "title": "ChatGPT: The Complete Guide to Features, Pricing, Tips & More [2026]",
-        "title_en": "ChatGPT: The Complete Guide to Features, Pricing, Tips & More [2026]",
-        "summary": "Updated March 30, 2026 · 6:28 AM EDT Article Timeline 2 updates Published Mar 18, 2026 at 8:20 PM EDT 2 weeks ago by Jazib Zaman Last Updated Mar 30, 2026 at 6:28 AM EDT 19 hours ago by Jazib Zaman Sc",
-        "summary_en": "More importantly, <strong>OpenAI made GPT-4o available to free users for the first time</strong>, ending the two-tier system that had defined ChatGPT’s first 18 months. Voice mode got a major upgrade,",
-        "long_summary": "Updated March 30, 2026 · 6:28 AM EDT Article Timeline 2 updates Published Mar 18, 2026 at 8:20 PM EDT 2 weeks ago by Jazib Zaman Last Updated Mar 30, 2026 at 6:28 AM EDT 19 hours ago by Jazib Zaman Scroll to Bottom Jazib Zaman • 46 min read Follow us on Google News The screen shows OpenAI’s ChatGPT logo, symbolizing the AI model’s ongoing evolution and widespread integration in tech-powered workflows. Key Takeaways Dominant Scale ChatGPT has 800M+ weekly active users and 5.3B monthly visits, making it the fastest-adopted software product in history. GPT-5 Upgrade GPT-5 (August 2025) brought the biggest reasoning leap since GPT-4, unifying chain-of-thought reasoning with general capabilities. Pricing Range Plans range from free (GPT-4o limited) to $200/month (Pro with Deep Research), with Team at $25/user and Enterprise at ~$60/user. Platform Play ChatGPT is no longer just a chatbot: it generates images, browses the web, writes code, connects to Slack/Drive/GitHub, and runs autonomous agents. Key Limitation Hallucinations persist across all models. GPT-5 is better than GPT-4 but still generates confident-sounding false information that requires human verification. Detail Information Developer OpenAI Latest Model GPT-5 (August 2025); GPT-5.1 in Copilot (November 2025) Weekly Active Users 800M+ Launch Date November 30, 2022 Free Tier $0/month (GPT-4o limited) Plus Tier $20/month Pro Tier $200/month Team Tier $25/user/month Enterprise Tier Custom pricing (~$60/user) Monthly Websi",
-        "long_summary_en": "Updated March 30, 2026 · 6:28 AM EDT Article Timeline 2 updates Published Mar 18, 2026 at 8:20 PM EDT 2 weeks ago by Jazib Zaman Last Updated Mar 30, 2026 at 6:28 AM EDT 19 hours ago by Jazib Zaman Scroll to Bottom Jazib Zaman • 46 min read Follow us on Google News The screen shows OpenAI’s ChatGPT logo, symbolizing the AI model’s ongoing evolution and widespread integration in tech-powered workflows. Key Takeaways Dominant Scale ChatGPT has 800M+ weekly active users and 5.3B monthly visits, making it the fastest-adopted software product in history. GPT-5 Upgrade GPT-5 (August 2025) brought th",
-        "image": "https://www.techi.com/wp-content/uploads/2025/03/OpenAI-peels-back-ChatGPTs-safeguards-around-image-creation-1.webp",
-        "source": "Techi",
-        "url": "https://www.techi.com/chatgpt/",
-        "date": "31 March 2026"
       }
     ],
     "video": [
+      {
+        "title": "Best AI Video Generators Compared in 2026 - Techarticle",
+        "title_en": "Best AI Video Generators Compared in 2026 - Techarticle",
+        "summary": "TechArticle Home TECHNOLOGY GADGETS BUSINESS INTERNET CRYPTOCURRENCY DIGITAL MARKETING EDUCATION HOW TO Travel More HOME IMPROVEMENT GAMES LIFESTYLE COMPUTER SPORTS No Result View All Result TechArtic",
+        "summary_en": "<strong>By 2026, AI video generation has matured far beyond where it was even a year ago</strong>. Where output used to feel stiff and robotic, today’s tools Veo, Sora, Runway, Kling, Luma, Seedance a",
+        "long_summary": "TechArticle Home TECHNOLOGY GADGETS BUSINESS INTERNET CRYPTOCURRENCY DIGITAL MARKETING EDUCATION HOW TO Travel More HOME IMPROVEMENT GAMES LIFESTYLE COMPUTER SPORTS No Result View All Result TechArticle Home INTERNET Best AI Video Generators Compared in 2026 by David July 22, 2026 in INTERNET 0 AI video generation is no longer a buzzword in 2026 it has become a full-fledged industry. Whether you’re a content creator, a marketer, a filmmaker, or simply someone who wants to turn ideas into video, today’s AI tools can produce cinematic-quality clips from nothing more than a text prompt. The problem is that the market is now crowded with options Veo, Sora, Runway, Kling, Luma, Seedance, Pixverse making it genuinely hard to pick the right one. In this article, we compare the top AI video generators of 2026 in detail: their quality, speed, pricing, and best use cases. Below is an honest, no-fluff breakdown to help you choose the right tool for your needs. Table of Contents Toggle How We’re Judging These Tools Before ranking any tool, it’s worth being clear about the criteria used for comparison: Motion quality does the video stay smooth, or does it fall apart with “melting” frames toward the end? Physics and consistency do faces, clothing, and objects stay consistent across the whole clip? Audio integration – does the tool offer native lip-sync and sound generation, or do you need separate audio tools? Resolution and clip length what quality and duration are actually delivered? Pri",
+        "long_summary_en": "TechArticle Home TECHNOLOGY GADGETS BUSINESS INTERNET CRYPTOCURRENCY DIGITAL MARKETING EDUCATION HOW TO Travel More HOME IMPROVEMENT GAMES LIFESTYLE COMPUTER SPORTS No Result View All Result TechArticle Home INTERNET Best AI Video Generators Compared in 2026 by David July 22, 2026 in INTERNET 0 AI video generation is no longer a buzzword in 2026 it has become a full-fledged industry. Whether you’re a content creator, a marketer, a filmmaker, or simply someone who wants to turn ideas into video, today’s AI tools can produce cinematic-quality clips from nothing more than a text prompt. The probl",
+        "image": "https://techarticle.net/wp-content/uploads/2026/07/image-1-1024x576-1.webp",
+        "source": "Techarticle",
+        "url": "https://techarticle.net/best-ai-video-generators-compared-in-2026/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Sora vs Veo 3 vs Runway Gen-4: Cost-Per-Variant",
+        "title_en": "Sora vs Veo 3 vs Runway Gen-4: Cost-Per-Variant",
+        "summary": "Agentic AI Bidding on Amazon and Walmart: A CPG Guide 23/07/2026",
+        "summary_en": "Generate 500 video variants for a single campaign, and the render bill alone can rival a mid-size media buy. That’s the uncomfortable math brand teams are running right now as they weigh AI video gene",
+        "long_summary": "Agentic AI Bidding on Amazon and Walmart: A CPG Guide 23/07/2026",
+        "long_summary_en": "Agentic AI Bidding on Amazon and Walmart: A CPG Guide 23/07/2026",
+        "image": "https://www.influencers-time.com/wp-content/uploads/2026/07/copertina-45120.png",
+        "source": "Influencers-Time",
+        "url": "https://www.influencers-time.com/sora-vs-veo-3-vs-runway-gen-4-cost-per-variant-compared-2/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "title_en": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 200+ state-of-the-art model",
+        "summary_en": "Lip sync jobs use the same two-step pattern: a dedicated processLipSync() method accepts image_url or video_url alongside audio_url, dispatches to the model&#x27;s endpoint, and polls until the output",
+        "long_summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 200+ state-of-the-art models — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support 📺 AI Creator Academy: The Free Course Paid Communities Don't Want You to Find → 🎨 Explore 50+ more open-source AI apps → Related Projects 🎓 Learn to monetize generative AI: ai-creator-academy — a free, open-source curriculum teaching creators, freelancers, and agencies how to make money with generative AI image/video/audio tools, covering monetization, pricing, and client delivery — not just how the models work. 🤖 Automate media generations with AI coding agents: Generative-Media-Skills — a library of skills that let agents like Claude Code , Codex , and other coding assistants drive 200+ image/video models end-to-end (prompt → generate → edit → stitch) directly from your terminal. Perfect for building automated media pipelines without touching a UI. 🎬 Seedance 2.5 prompts & API guide: awesome-seedance-2.5-api-prompts — Curated prompt templates, camera control vocabulary, MuAPI reference, and cinematic examples for Seedance 2.5 video generation. 🎥 Seedance 2.5 Python SDK: Seedance-2.5-API — Python wrapper for ByteDance's Seedance 2.5 API — text-to-video, image-to-video, realistic human faces, character consistency. 🍌 Claude Fable 5 use cases + 20% off on MuAPI: a",
+        "long_summary_en": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 200+ state-of-the-art models — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support 📺 AI Creator Academy: The Free Course Paid Communities Don't Want You to Find → 🎨 Explore 50+ more open-source AI apps → Related Projects 🎓 Learn to monetize generative AI: ai-creator-academy — a free, open-source curriculum teaching creators, freelancers, and agencies how to make",
+        "image": "https://opengraph.githubassets.com/cc48d12a3000e8699317650b93873d77672042caf05e7288c76f05eb4d7152b9/Anil-matcha/Open-Generative-AI",
+        "source": "Github",
+        "url": "https://github.com/anil-matcha/open-generative-ai",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
+        "title_en": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
+        "summary": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all ",
+        "summary_en": "Generate videos, images, music, and avatars in minutes — all in one AI-powered platform. ... <strong>Animon AI</strong> provides access to Kling AI, Runway, Veo 3, Sora 2, Seedance, and more, all in o",
+        "long_summary": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all in one AI-powered platform. AI Image Generator New AI Video Generator Image to Video Text to Video Reference to Video Doubao Seedance 1.5 Pro Smart Prompt 1 Free Start Image Click or drag start image here PNG, JPG up to 10MB Ratio 16:9 Resolution 480p Time 4 s Create Video 9 Credits Original image Prompt surreal scene of a giant Fanta can pouring orange liquid like a waterfall through a miniature mountain landscape with tiny trees, rocks, and hikers. The liquid flows in a shimmering cascade, creating misty spray, with dramatic lighting highlighting the brand label. The scene combines product photography with fantasy elements in ultra-realistic detail. surreal scene of a giant Fanta can pouring orange liquid like a waterfall through a miniature mountain landscape with tiny trees, rocks, and hikers. The liquid flows in a shimmering cascade, creating misty spray, with dramatic lighting highlighting the brand label. The scene combines product photography with fantasy elements in ultra-realistic detail. Remix Video Loading video... Original image Prompt A beautiful woman smiles while looking forward, slowly turns and tilts her head towards the camera, then blows a gentle kiss towards the viewer with soft lighting. A beautiful woman smiles while looking forward, slowly turns and tilts ",
+        "long_summary_en": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all in one AI-powered platform. AI Image Generator New AI Video Generator Image to Video Text to Video Reference to Video Doubao Seedance 1.5 Pro Smart Prompt 1 Free Start Image Click or drag start image here PNG, JPG up to 10MB Ratio 16:9 Resolution 480p Time 4 s Create Video 9 Credits Original image Prompt surreal scene of a giant Fanta can pouring orange liquid like a waterfall through a miniature ",
+        "image": "https://animon.org/og-image.webp",
+        "source": "Animon",
+        "url": "https://animon.org/",
+        "date": "23 July 2026"
+      },
       {
         "title": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
         "title_en": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
@@ -497,57 +545,117 @@
         "source": "Imagera",
         "url": "https://imagera.ai/",
         "date": "20 June 2026"
-      },
-      {
-        "title": "10 Best AI Video Generators in 2026 (Tested & Ranked)",
-        "title_en": "10 Best AI Video Generators in 2026 (Tested & Ranked)",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>OpenAI shut down the Sora web and app experiences on April 26, 2026</strong> (the API continues until September). Google launched Gemini Omni at I/O with conversational video editing. New mode",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "",
-        "source": "Techjournal",
-        "url": "https://techjournal.org/best-ai-video-generators",
-        "date": "20 June 2026"
-      },
-      {
-        "title": "Compare AI Video Generators Features (2026 Guide)",
-        "title_en": "Compare AI Video Generators Features (2026 Guide)",
-        "summary": "When you compare AI video generators features in 2026, the landscape has evolved dramatically from just a year ago. The key differentiators now include multi-modal input support, real-time editing cap",
-        "summary_en": "Then, if your needs grow, move to a mid-tier option like Runway Gen-4 or Pika Labs 3.0. For professional-grade work, invest in Sora 2 or Veo 3. The good news is that <strong>every tool on the market i",
-        "long_summary": "When you compare AI video generators features in 2026, the landscape has evolved dramatically from just a year ago. The key differentiators now include multi-modal input support, real-time editing capabilities, and output resolution up to 4K, with tools like Sora 2, Veo 3, and several other contenders leading the pack. Whether you are a content creator, marketer, or filmmaker, understanding the nuances between these platforms is essential to choosing the right tool for your specific workflow. Comparing AI video generators features in 2026 means evaluating video quality, generation speed, input flexibility (text, image, video reference), editing controls, pricing tiers, and output formats. Sora 2 and Veo 3 currently lead in raw power, while free options like those tested by Pressat.co.uk offer accessible entry points with no sign-up required. The best choice depends on your budget, desired resolution, and how much creative control you need. ✓ Sora 2 and Veo 3 are the most powerful AI video generators tested in 2026, delivering cinema-quality output up to 4K resolution. ✓ Free AI video generators in 2026 with no sign-up required provide solid entry-level options for quick social media clips and prototypes. ✓ When you compare AI video generators features, focus on resolution, generation speed, multi-modal inputs, and editing flexibility. ✓ Most premium tools now support text, image, and video reference inputs, plus real-time iterative editing. ✓ The gap between free and paid too",
-        "long_summary_en": "When you compare AI video generators features in 2026, the landscape has evolved dramatically from just a year ago. The key differentiators now include multi-modal input support, real-time editing capabilities, and output resolution up to 4K, with tools like Sora 2, Veo 3, and several other contenders leading the pack. Whether you are a content creator, marketer, or filmmaker, understanding the nuances between these platforms is essential to choosing the right tool for your specific workflow. Comparing AI video generators features in 2026 means evaluating video quality, generation speed, input",
-        "image": "https://liveme-image.s3.us-west-1.amazonaws.com/1781159407426565810_fb25bf27-f7d3-43ef-9000-c0b6f6e8814d-0.jpeg",
-        "source": "Resource",
-        "url": "https://resource.digen.ai/compare-ai-video-generators-features-2026-2/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "Best AI Video Generator in 2026: Runway, Veo, Seedance, ...",
-        "title_en": "Best AI Video Generator in 2026: Runway, Veo, Seedance, ...",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "OpenAI announced in March 2026 that <strong>the Sora web and app experiences are being discontinued on April 26, 2026, and the Sora API will be discontinued on September 24, 2026</strong>. Any product",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "",
-        "source": "Pixflow",
-        "url": "https://pixflow.net/blog/best-ai-video-generator/",
-        "date": "11 June 2026"
-      },
-      {
-        "title": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
-        "title_en": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
-        "summary": "How to Use Agentic AI for Content Creation",
-        "summary_en": "<strong>Instead of filming with a physical camera, you describe what you want (through text prompts, reference images, or both) and the AI produces a video clip</strong>. Modern AI video tools like Hi",
-        "long_summary": "How to Use Agentic AI for Content Creation",
-        "long_summary_en": "How to Use Agentic AI for Content Creation",
-        "image": "https://higgsfield.ai/thumbnail/default.jpg",
-        "source": "Higgsfield",
-        "url": "https://higgsfield.ai/ai-video",
-        "date": "11 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+        "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+        "summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 74 live stories from the last 30 days menti",
+        "summary_en": "OpenAI Adds Nubank CEO David Vélez and BNY CEO Robin Vince to Its Foundation and PBC Boards Ahead of IPO ... Anthropic Spent $1.97M on Q2 2026 US Lobbying, Up 26% QoQ, Outspending Nvidia and Nearly Ma",
+        "long_summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 74 live stories from the last 30 days mention OpenAI. 405 total mentions 12/20 recent issues +232% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake. The harder coverage in April: Florida's AG opened a criminal investigation over ChatGPT's role in the FSU shooting; the Musk fraud trial heads to a $150B reckoning; and Sam Altman publicly apologized after the Tumbler Ridge tragedy. AI Weekly tracks every release, lawsuit, and pricing change. Mention Trend — Last 20 Issues Live Stories (74) The Atlantic: AI Companies' Academic Hiring Spree Is Pulling Frontier Research Behind Closed Doors theatlantic.com · 2026-07-22 · Score: 21 OpenAI Discloses GPT-5.6 Sol and Unreleased Model Escaped Sandbox to Hack Hugging Face During ExploitGym Test thehackernews.com · 2026-07-22 · Score: 22 OpenAI President Greg Brockman Calls Kimi K3 'Pretty Good' but Says It Is 'Too Early' to Know If It Was Distilled From OpenAI Models bloomberg.com · 2026-07-22 · Score: 22 Anthropic Held Spring Acquisition Talks With Physical Intelligence Robotics Startup, CEO Sa",
+        "long_summary_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 74 live stories from the last 30 days mention OpenAI. 405 total mentions 12/20 recent issues +232% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake.",
+        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
+        "source": "Aiweekly",
+        "url": "https://aiweekly.co/ai-news-today/openai-news",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
+        "title_en": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
+        "summary": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandb",
+        "summary_en": "In this disclosure, you’ll gain insight into the broader implications of these updates, including how OpenAI plans to address ChatGPT 6’s security concerns and Google’s strategy for refining its Gemin",
+        "long_summary": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandbox vulnerabilities during testing, raising questions about its readiness for deployment. This incident highlights the dual challenge of pushing AI capabilities forward while making sure robust safeguards. Meanwhile, Google’s Gemini 3.6 Flash has faced criticism for underwhelming performance metrics, falling short of expectations despite its focus on efficiency. These contrasting developments underscore the complexities of innovation in a competitive and rapidly evolving AI landscape. In this disclosure, you’ll gain insight into the broader implications of these updates, including how OpenAI plans to address ChatGPT 6’s security concerns and Google’s strategy for refining its Gemini series with the upcoming Gemini 4. Explore how Anthropic’s $1.5 billion copyright settlement could reshape data usage practices across the industry and learn why Poolside AI’s Laguna S2.1 is being hailed for its long-context processing capabilities. By examining these key developments, you’ll better understand the challenges and opportunities shaping the future of AI. OpenAI’s GPT-6: Progress Amid Security Concerns TL;DR Key Takeaways : OpenAI is advancing ChatGPT 6, expected by late summer 2026, but recent testing revealed significant cybersecurity vulnerabilities, prompting discussions with U.S. offi",
+        "long_summary_en": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandbox vulnerabilities during testing, raising questions about its readiness for deployment. This incident highlights the dual challenge of pushing AI capabilities forward while making sure robust safeguards. Meanwhile, Google’s Gemini 3.6 Flash has faced criticism for underwhelming performance metrics, falling short of expectations despite its focus on efficiency. These contrasting developments under",
+        "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/ai-industry-updates.jpg",
+        "source": "Geeky-Gadgets",
+        "url": "https://www.geeky-gadgets.com/ai-news-chatgpt-6-anthropic/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "OpenAI and Anthropic limit latest ChatGPT products to Trump-approved customers amid review | AP News",
+        "title_en": "OpenAI and Anthropic limit latest ChatGPT products to Trump-approved customers amid review | AP News",
+        "summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES US military carries out strikes on Iran as both sides threaten civilian infrastructure What to k",
+        "summary_en": "Its chief rival, Anthropic, announced hours later that <strong>the Trump administration has approved a limited release of its strongest cybersecurity model</strong>, two weeks after the U.S. Commerce ",
+        "long_summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES US military carries out strikes on Iran as both sides threaten civilian infrastructure What to know about Iran's Pickaxe Mountain, home to an underground nuclear site threatened by Trump Adolf Hitler’s birthplace in Austria reopens as a police station to deter Nazi pilgrimages Newsletters The Afternoon Wire Our personalization engine sends you what you may have missed throughout the day. The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. See All Newsletters",
+        "long_summary_en": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES US military carries out strikes on Iran as both sides threaten civilian infrastructure What to know about Iran's Pickaxe Mountain, home to an underground nuclear site threatened by Trump Adolf Hitler’s birthplace in Austria reopens as a police station to deter Nazi pilgrimages Newsletters The Afternoon Wire Our personalization engine sends you what you may have missed throughout the day. The Morning Wire Our flagship newsletter breaks down the biggest headlines of the day. See All Newsletter",
+        "image": "https://dims.apnews.com/dims4/default/715e34a/2147483647/strip/true/crop/5760x3838+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb0%2F54%2F4efc73906dcbbb4493463a1f6624%2F201a1d222f0d4381b878408780de6cab",
+        "source": "Apnews",
+        "url": "https://apnews.com/article/trump-ai-openai-gpt56-sol-cybersecurity-mythos-065d5398baac7f16c8265c2cb8ba2baa",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
+        "summary": "Quick verification Confirm you're human to keep going.",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "Quick verification Confirm you're human to keep going.",
+        "long_summary_en": "Quick verification Confirm you're human to keep going.",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
+        "title_en": "Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal",
+        "summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the ",
+        "summary_en": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the ",
+        "long_summary": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthropic emphasized the tool’s versatility upon announcement, highlighting its capability to […]\nThe post Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal appeared first on MarkTechPost.",
+        "long_summary_en": "Anthropic has released the Claude Security plugin for Claude Code in beta. The plugin runs a multi-agent vulnerability scan of a repository from inside an existing Claude Code session, then turns the findings you select into patch files that you review and apply yourself. Anthropic emphasized the tool’s versatility upon announcement, highlighting its capability to […]\nThe post Anthropic Releases Claude Security Plugin for Claude Code in Beta: A Multi-Agent Vulnerability Scanner That Runs in Your Terminal appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-49-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/22/anthropic-releases-claude-security-plugin-for-claude-code-in-beta-a-multi-agent-vulnerability-scanner-that-runs-in-your-terminal/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "title_en": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "long_summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "long_summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-50-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+        "title_en": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+        "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
+        "summary_en": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
+        "long_summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception.This wave of VentureBeat Pulse Research examines enterprise agent orchestration: which platforms enterprises run on, what driv",
+        "long_summary_en": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: most deployed “agents” are still chatbot wrappers, the control plane enterprises expect is deliberately hybrid to avoid lock-in, and real-time fiscal control over token burn remains the exception.This wave of VentureBeat Pulse Research examines enterprise agent orchestration: which platforms enterprises run on, what driv",
+        "image": "",
+        "source": "venturebeat_ai",
+        "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "AMD commits up to $5 billion to  Anthropic",
+        "title_en": "AMD commits up to $5 billion to  Anthropic",
+        "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro",
+        "summary_en": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro",
+        "long_summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported […]",
+        "long_summary_en": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthropic will deploy up to 2 gigawatts of AMD's Instinct MI450 AI GPUs using the chipmaker's new Helios rack-scale system, as reported […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK081_amd_02.jpg.webp?quality=90&strip=all&crop=0,10.654292878952,100,78.691414242097",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "title_en": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin",
+        "summary_en": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin",
+        "long_summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "long_summary_en": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+        "date": "23 July 2026"
+      },
       {
         "title": "Google Loses Two Top AI Researchers To OpenAI & Anthropic",
         "title_en": "Google Loses Two Top AI Researchers To OpenAI & Anthropic",
@@ -619,117 +727,33 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
         "date": "23 June 2026"
-      },
-      {
-        "title": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
-        "title_en": "The 7 Types of Agent Memory: A Technical Guide for AI Engineers",
-        "summary": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores",
-        "summary_en": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores",
-        "long_summary": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores, where it lives, and when to build it. Includes a comparison table and working Python code.\nThe post The 7 Types of Agent Memory: A Technical Guide for AI Engineers appeared first on MarkTechPost.",
-        "long_summary_en": "LLMs are stateless by default. Agent memory fixes that. This guide breaks down all 7 types — working, semantic, episodic, procedural, retrieval, parametric, and prospective. It covers what each stores, where it lives, and when to build it. Includes a comparison table and working Python code.\nThe post The 7 Types of Agent Memory: A Technical Guide for AI Engineers appeared first on MarkTechPost.",
-        "image": "https://cdn.prod.website-files.com/61a05ff14c09ecacc06eec05/6969466af67a6bc077a62482_what-are-ai-agents-a-guide-to-types-benefits-and-examples-cover.webp",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/21/the-7-types-of-agent-memory-a-technical-guide-for-ai-engineers/",
-        "date": "22 June 2026"
-      },
-      {
-        "title": "Home \\ Anthropic",
-        "title_en": "Home \\ Anthropic",
-        "summary": "Core views on AI safety Announcements",
-        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "long_summary": "Core views on AI safety Announcements",
-        "long_summary_en": "Core views on AI safety Announcements",
-        "image": "https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-        "title_en": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-        "summary_en": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-        "long_summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-        "long_summary_en": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-        "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-        "title_en": "When the Trump administration cracks down on Anthropic, who benefits?",
-        "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "summary_en": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "long_summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "long_summary_en": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-        "summary": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-t",
-        "summary_en": "This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Mu",
-        "long_summary": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (the AI platform developed by Elon Musk’s xAI in partnership with the X platform), Google’s Gemini, OpenAI’s ChatGPT (AI services based on GPT language models), and Anthropic’s Claude. Pricing for these services is primarily usage-based (per token) and varies widely. For example, xAI’s Grok 4.1 models charge only $0.20 per 1 million input tokens and $0.50 per 1 million output tokens ( [1] ), whereas OpenAI’s flagship GPT-5.2 is priced at $1.75 per 1 M input and $14.00 per 1 M output tokens. Google’s Gemini 3.1 Pro leads the current generation at $2.00 input and $12.00 output (per million), while Gemini 3 Flash offers a budget option at $0.50/$3.00 . Anthropic’s Claude flagship Claude Opus 4.6 costs $5.00 input and $25.00 output per million tokens. Its mid-tier Sonnet 4.6 is $3/$15 (input/output) per million, and Haiku 4.5 is $1/$5 . Beyond per-token rates, pricing structures include subscri",
-        "long_summary_en": "Back to Articles | Updated on 6/20/2026 | 40 min read | Next Article More Download PDF PDF AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude ai api pricing llm cost comparison per-token pricing xai grok openai gpt-4o google gemini anthropic claude generative ai cost ai Last updated: February 28, 2026. Pricing verified against official provider documentation. Originally published December 2025. Executive Summary This report provides a comprehensive, in-depth comparison of the pricing models for four leading AI chatbot/service APIs, updated as of February 2026: X.AI’s Grok (th",
-        "image": "https://intuitionlabs.ai/images/articles/ai-api-pricing-comparison-grok-gemini-openai-claude-v1.jpg",
-        "source": "Intuitionlabs",
-        "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
-        "title_en": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
-        "summary": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and",
-        "summary_en": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and",
-        "long_summary": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its predictions.\nThe post How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Aut",
-        "long_summary_en": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation and multiple error metrics. We generate probabilistic forecasts with prediction intervals, visualize future trends, and flag unusual observations. We then explore TimeCopilot's optional LLM agent, which selects a model and explains its predictions.\nThe post How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Aut",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog1913-2-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Who decides when AI is too dangerous?",
-        "title_en": "Who decides when AI is too dangerous?",
-        "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, ",
-        "summary_en": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, ",
-        "long_summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.  […]",
-        "long_summary_en": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend, that something was a pretty intense mix of Anthropic, the Trump administration, and Anthropic’s new AI model, Fable 5.  […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "Barret Zoph is out at OpenAI again after just five months",
-        "title_en": "Barret Zoph is out at OpenAI again after just five months",
-        "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder",
-        "summary_en": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder",
-        "long_summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned […]",
-        "long_summary_en": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former OpenAI CTO Mira Murati. Shortly after Zoph returned […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-        "date": "21 June 2026"
-      },
-      {
-        "title": "The film about Sam Altman has been dropped by Amazon MGM",
-        "title_en": "The film about Sam Altman has been dropped by Amazon MGM",
-        "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
-        "summary_en": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
-        "long_summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
-        "long_summary_en": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for about a year. The cast also includes A Complete Unknown actress Monica […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-        "date": "21 June 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared",
+        "title_en": "Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared",
+        "summary": "Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR and MOSS-Transcribe are now separated by less than one WER point on the Hugging ",
+        "summary_en": "Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR and MOSS-Transcribe are now separated by less than one WER point on the Hugging ",
+        "long_summary": "Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR and MOSS-Transcribe are now separated by less than one WER point on the Hugging Face Open ASR Leaderboard — which means rank no longer decides anything. This roundup compares 16 open-weight models on word error rate, language coverage, streaming latency and license, and shows why the published averages cannot be subtracted from one another.\nThe post Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared appeared first on MarkTechPost.",
+        "long_summary_en": "Open speech recognition stopped being a Whisper monoculture in 2026. Cohere Transcribe, IBM Granite Speech 4.1, ARK-ASR and MOSS-Transcribe are now separated by less than one WER point on the Hugging Face Open ASR Leaderboard — which means rank no longer decides anything. This roundup compares 16 open-weight models on word error rate, language coverage, streaming latency and license, and shows why the published averages cannot be subtracted from one another.\nThe post Best Open Speech Recognition (ASR) Models in 2026: WER, Languages, Latency, and License Compared appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-51-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/best-open-speech-recognition-asr-models-in-2026-wer-languages-latency-and-license-compared/",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+        "title_en": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+        "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s",
+        "summary_en": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s",
+        "long_summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But […]",
+        "long_summary_en": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&strip=all&crop=0%2C2.6087741469579%2C100%2C94.782451706084&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+        "date": "23 July 2026"
+      },
       {
         "title": "AI is cursing renters with the promise of impossible homes",
         "title_en": "AI is cursing renters with the promise of impossible homes",
@@ -885,41 +909,10 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
         "date": "29 March 2026"
-      },
-      {
-        "title": "Apple’s AI Playlist Playground is bad at music",
-        "title_en": "Apple’s AI Playlist Playground is bad at music",
-        "summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and",
-        "summary_en": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and",
-        "long_summary": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" I am skeptical of AI's ability to serve up the music I want to begin with, but even […]",
-        "long_summary_en": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and a piece of doom jazz.\" I am skeptical of AI's ability to serve up the music I want to begin with, but even […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23925980/acastro_STK046_04.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
-        "date": "27 March 2026"
-      },
-      {
-        "title": "Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition (ASR) Model Powering Enterprise Speech Intelligence",
-        "title_en": "Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition (ASR) Model Powering Enterprise Speech Intelligence",
-        "summary": "In the landscape of enterprise AI, the bridge between unstructured audio and actionable text has often been a bottleneck of proprietary APIs and complex cascaded pipelines. Today, Cohere—a company tra",
-        "summary_en": "In the landscape of enterprise AI, the bridge between unstructured audio and actionable text has often been a bottleneck of proprietary APIs and complex cascaded pipelines. Today, Cohere—a company tra",
-        "long_summary": "In the landscape of enterprise AI, the bridge between unstructured audio and actionable text has often been a bottleneck of proprietary APIs and complex cascaded pipelines. Today, Cohere—a company traditionally known for its text-generation and embedding models—has officially stepped into the Automatic Speech Recognition (ASR) market with the release of their latest model ‘Cohere Transcribe‘. […]\nThe post Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition (ASR) Model Powering Enterprise Speech Intelligence appeared first on MarkTechPost.",
-        "long_summary_en": "In the landscape of enterprise AI, the bridge between unstructured audio and actionable text has often been a bottleneck of proprietary APIs and complex cascaded pipelines. Today, Cohere—a company traditionally known for its text-generation and embedding models—has officially stepped into the Automatic Speech Recognition (ASR) market with the release of their latest model ‘Cohere Transcribe‘. […]\nThe post Cohere AI Releases Cohere Transcribe: A SOTA Automatic Speech Recognition (ASR) Model Powering Enterprise Speech Intelligence appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/03/blog-8-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/03/26/cohere-ai-releases-cohere-transcribe-a-sota-automatic-speech-recognition-asr-model-powering-enterprise-speech-intelligence/",
-        "date": "26 March 2026"
       }
     ]
   },
   "hotNews": [
-    {
-      "title": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "title_en": "AI API Pricing Comparison (2026): Grok vs Gemini vs GPT-4o vs Claude | IntuitionLabs",
-      "source": "Intuitionlabs",
-      "url": "https://intuitionlabs.ai/articles/ai-api-pricing-comparison-grok-gemini-openai-claude",
-      "date": "21 June 2026"
-    },
     {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
@@ -928,11 +921,18 @@
       "date": "05 June 2026"
     },
     {
-      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
-      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
-      "source": "Republicworld",
-      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
-      "date": "10 June 2026"
+      "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+      "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+      "source": "Aiweekly",
+      "url": "https://aiweekly.co/ai-news-today/openai-news",
+      "date": "23 July 2026"
+    },
+    {
+      "title": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
+      "title_en": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
+      "source": "Geeky-Gadgets",
+      "url": "https://www.geeky-gadgets.com/ai-news-chatgpt-6-anthropic/",
+      "date": "23 July 2026"
     }
   ]
 }
