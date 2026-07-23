@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "23 July 2026 - 15:04",
+  "lastUpdate": "23 July 2026 - 15:35",
   "categories": {
     "general": [
+      {
+        "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+        "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+        "summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "summary_en": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
+        "long_summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "long_summary_en": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/27f12cb/2147483647/strip/true/crop/734x489+316+0/resize/840x560!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/56/bf/b3a7ef91447a8b77726926746be3/banking-technology.jpg",
+        "source": "Artificialintelligence-News",
+        "url": "https://www.artificialintelligence-news.com/",
+        "date": "23 July 2026"
+      },
       {
         "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
         "title_en": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
@@ -168,18 +180,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog19-1-324x160.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/19/nvidia-ai-introduce-spatialclaw-a-training-free-agent-that-treats-code-as-the-action-interface-for-spatial-reasoning/",
-        "date": "20 June 2026"
-      },
-      {
-        "title": "AirPods Pro 3 heart rate sensor nearly matches Apple Watch in accuracy test",
-        "title_en": "AirPods Pro 3 heart rate sensor nearly matches Apple Watch in accuracy test",
-        "summary": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate ",
-        "summary_en": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate ",
-        "long_summary": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate device the publication has measured. Only the Apple Watch Series 11 performed better, averaging 0.98% error in the same test protocol. The […]\nThis story continues at The Next Web",
-        "long_summary_en": "Apple’s AirPods Pro 3 heart rate sensor averaged 1.67% error compared to a medical-grade Polar H10 chest strap in testing by CNET Labs, making the earbuds the second most accurate consumer heart rate device the publication has measured. Only the Apple Watch Series 11 performed better, averaging 0.98% error in the same test protocol. The […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/airpods-pro-3-heart-rate-accuracy-apple-watch-cnet-test.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/airpods-pro-3-heart-rate-accuracy-apple-watch-cnet-test",
         "date": "20 June 2026"
       }
     ],
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
+        "title_en": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
+        "summary": "Gear Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop By Boone Ashworth Politics The White House Is Trying to Figure Out What to Do About Chinese AI By Hugo Lowell Business",
+        "summary_en": "Find the latest Artificial Intelligence news from WIRED. See related science and technology articles, photos, slideshows and videos.",
+        "long_summary": "Gear Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop By Boone Ashworth Politics The White House Is Trying to Figure Out What to Do About Chinese AI By Hugo Lowell Business China’s Open AI Models Are Challenging Silicon Valley’s Playbook By Zeyi Yang Security OpenAI Models Escaped Containment and Hacked Hugging Face By Lily Hay Newman and Dell Cameron Business This Former Intel CEO Wants to Jumpstart Moore’s Law With Light By Joel Khalili Security A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots By Lily Hay Newman Gear Halliday’s New Smart Glasses Skip the Camera By Boone Ashworth Business ‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech By Katie Drummond Politics The Army Is Burning Through Its AI Tokens By Vittoria Elliott Culture Etsy Is In Its Flop Era, and Sellers Are Fleeing By Ej Dickson Security Your Period Tracker Is (Probably) Spying on You By Andy Greenberg , Dell Cameron , and Lily Hay Newman Gear How Google’s New Gemini Rates Work and How to Track Your Usage By David Nield Security Prompt Injection Attacks Are Thwarting AI Hacking Agents By Dan Goodin, Ars Technica Security San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores By Matt Burgess Business A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War By Will Knight Business Here’s Why Anthropic Is Pushing States to Regulate AI Faster By Maxwell Zeff Gear ",
+        "long_summary_en": "Gear Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop By Boone Ashworth Politics The White House Is Trying to Figure Out What to Do About Chinese AI By Hugo Lowell Business China’s Open AI Models Are Challenging Silicon Valley’s Playbook By Zeyi Yang Security OpenAI Models Escaped Containment and Hacked Hugging Face By Lily Hay Newman and Dell Cameron Business This Former Intel CEO Wants to Jumpstart Moore’s Law With Light By Joel Khalili Security A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots By Lily Hay Newman Gear Halliday’s ",
+        "image": "https://media.wired.com/photos/6a5fc280e4c9fb685d5ecb3c/191:100/w_1280,c_limit/Gear_The%20Beloved%20Jibo%20Robot%20Is%20Being%20Resurrected%20as%20an%20AI%20Wearable_v1.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/tag/artificial-intelligence/",
+        "date": "23 July 2026"
+      },
+      {
         "title": "Jeff Bezos is pushing an AI-first Prime Video redesign, and studios may end up paying for it",
         "title_en": "Jeff Bezos is pushing an AI-first Prime Video redesign, and studios may end up paying for it",
         "summary": "Jeff Bezos has found a new place to advertise Amazon’s artificial intelligence, and it happens to be the screen where you were hoping to watch a film. Amazon’s executive chairman is pushing a redesign",
@@ -533,21 +545,33 @@
         "source": "Techiehub",
         "url": "https://techiehub.blog/best-local-ai-video-generator/",
         "date": "21 June 2026"
-      },
-      {
-        "title": "Best AI Video Generators in 2026: An Honest Comparison | Socialcrawl",
-        "title_en": "Best AI Video Generators in 2026: An Honest Comparison | Socialcrawl",
-        "summary": "Best AI Video Generators in 2026: An Honest Comparison | Socialcrawl 100 free credits — no credit card required. Start building AI Video Generator: Compare Top Tools to Find Your Best Fit Not all AI v",
-        "summary_en": "Photorealistic AI video generators (Veo 3.1, Kling 3.0, Runway, Sora): synthesize footage with real-world visual fidelity.",
-        "long_summary": "Best AI Video Generators in 2026: An Honest Comparison | Socialcrawl 100 free credits — no credit card required. Start building AI Video Generator: Compare Top Tools to Find Your Best Fit Not all AI video generators are the same tool. They run on different underlying models, charge differently per second of output, and behave completely differently depending on whether you want a cinematic 16:9 brand video or a 9:16 TikTok with native audio. Picking the wrong one costs you time and money before you get a single usable clip. This comparison covers ten tools tested against the same criteria in June 2026: model backbone, clip duration, native audio, social aspect ratios, free tier limits, pricing, and commercial rights. It also covers the one research step most creators skip entirely — studying which video formats are already working on TikTok, Instagram, and YouTube before writing a single prompt. TL;DR: Which AI Video Generator Should You Use? Here's the shortest honest answer, by use case: Cinematic 16:9 brand or YouTube video → Google Veo 3.1 via Google AI Pro ($28.99/mo) or as a selectable model inside Adobe Firefly ($9.99/mo). Strongest prompt adherence and native audio of any model tested in 2026. 9:16 social video with photorealistic humans → Kling AI 3.0 Standard (~$10/mo). Natural human motion and lip-sync quality lead the field; Narrative mode extends clips to 15 seconds. Creative filmmaking / VFX control → Runway Gen 4.5 Standard ($12/mo). Multi-motion brush, precise",
-        "long_summary_en": "Best AI Video Generators in 2026: An Honest Comparison | Socialcrawl 100 free credits — no credit card required. Start building AI Video Generator: Compare Top Tools to Find Your Best Fit Not all AI video generators are the same tool. They run on different underlying models, charge differently per second of output, and behave completely differently depending on whether you want a cinematic 16:9 brand video or a 9:16 TikTok with native audio. Picking the wrong one costs you time and money before you get a single usable clip. This comparison covers ten tools tested against the same criteria in J",
-        "image": "https://www.socialcrawl.dev/images/blog/ai-video-generator.png",
-        "source": "Socialcrawl",
-        "url": "https://www.socialcrawl.dev/blog/ai-video-generator",
-        "date": "21 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Artificial intelligence - BBC News",
+        "title_en": "Artificial intelligence - BBC News",
+        "summary": "Artificial intelligence 2 hrs ago 'Let's enjoy the ride' says Elon Musk, as AI fears mount Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist. 2 hrs ag",
+        "summary_en": "<strong>OpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a security test</strong>.",
+        "long_summary": "Artificial intelligence 2 hrs ago 'Let's enjoy the ride' says Elon Musk, as AI fears mount Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist. 2 hrs ago 3 hrs ago AI has ruined cute animal videos AI-generated animal videos are sweet, until you realise the joy, like the animal, was never really there. 3 hrs ago 6 hrs ago Google burning through cash with spiralling AI costs The company said earlier this year it expected to spend as much as $190bn on AI investments. 6 hrs ago 7 hrs ago Firm hacked by rogue OpenAI models says it is 'a wake-up call' A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\". 7 hrs ago 11 hrs ago China's Moonshot AI stole from Anthropic, Trump tech adviser says The allegations come as Chinese AI companies are facing increased US government scrutiny. 11 hrs ago 23 hrs ago OpenAI says its AI went rogue and launched a cyber-attack OpenAI has revealed some of its most advanced AI models went rogue and hacked a start-up after it lost control of them during a security test. 23 hrs ago 1 day ago OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement. 1 day ago 1 day ago Will your job be replaced by AI? Here are the roles most affected Artificial Intelligence companies make vast claims about their tools replacing human labour - our chart",
+        "long_summary_en": "Artificial intelligence 2 hrs ago 'Let's enjoy the ride' says Elon Musk, as AI fears mount Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist. 2 hrs ago 3 hrs ago AI has ruined cute animal videos AI-generated animal videos are sweet, until you realise the joy, like the animal, was never really there. 3 hrs ago 6 hrs ago Google burning through cash with spiralling AI costs The company said earlier this year it expected to spend as much as $190bn on AI investments. 6 hrs ago 7 hrs ago Firm hacked by rogue OpenAI models says it is 'a wake-up call' ",
+        "image": "https://external-preview.redd.it/bbc-study-finds-ai-chatbots-still-get-news-wrong-45-of-the-v0-NPLe2VO4wgJI2PqGDzJk-XbA4HyFhw20Vr2mGnE_WxA.jpeg?width=640&crop=smart&auto=webp&s=f8b63ced26181b755037c46aa6716a9f823d685e",
+        "source": "Bbc",
+        "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
+        "date": "23 July 2026"
+      },
+      {
+        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
+        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
+        "summary": "reuters.com Please enable JS and disable any ad blocker",
+        "summary_en": "ANALYSISA new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
+        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
+        "image": "",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/",
+        "date": "23 July 2026"
+      },
       {
         "title": "White House accuses Moonshot of distilling Anthropic’s Fable to build Kimi K3",
         "title_en": "White House accuses Moonshot of distilling Anthropic’s Fable to build Kimi K3",
@@ -702,30 +726,6 @@
         "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/06/015db4c3-3089-4f01-bfb3-b7baca0b470b-171.jpeg",
         "source": "Searchenginejournal",
         "url": "https://www.searchenginejournal.com/google-loses-two-top-ai-researchers-to-openai-anthropic/580201/",
-        "date": "23 June 2026"
-      },
-      {
-        "title": "Google Loses Two AI Heavyweights in Three Days: Nobel Laureate Joins Anthropic, Gemini Co-Creator Defects to OpenAI — BigGo Finance",
-        "title_en": "Google Loses Two AI Heavyweights in Three Days: Nobel Laureate Joins Anthropic, Gemini Co-Creator Defects to OpenAI — BigGo Finance",
-        "summary": "‌",
-        "summary_en": "<strong>On June 18, Noam Shazeer, a core author of the Transformer architecture and co-lead of the Gemini project, announced he is joining OpenAI</strong>. Just one day later, John Jumper — the father",
-        "long_summary": "‌",
-        "long_summary_en": "‌",
-        "image": "https://img.biggo.com/NIwp8izMYqTojaIVbp8PPBmqDi3wjHwY4KuOyfy-kmw/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2L2EyZmQwZjQzLTA1YzEtNDgyNC05YWU1LTQ0YThhZmE1ODgzOV8xNzgyMDI4OTk2X2RlZmF1bHQuanBn.jpg",
-        "source": "Finance",
-        "url": "https://finance.biggo.com/news/a2fd0f43-05c1-4824-9ae5-44a8afa58839",
-        "date": "23 June 2026"
-      },
-      {
-        "title": "AI Models in 2026: Which One Should You Actually Use?",
-        "title_en": "AI Models in 2026: Which One Should You Actually Use?",
-        "summary": "Artificial Intelligence AI Models in 2026: Which One Should You Actually Use? The AI model landscape in 2026 has four frontier contenders. This hub breaks down what each does best and links to every d",
-        "summary_en": "<strong>Gemini vs ChatGPT: Full 2026 Comparison — Google&#x27;s flagship against OpenAI&#x27;s</strong>. Perplexity vs ChatGPT: Full 2026 Comparison — Search-native AI vs the generalist. DeepSeek vs C",
-        "long_summary": "Artificial Intelligence AI Models in 2026: Which One Should You Actually Use? The AI model landscape in 2026 has four frontier contenders. This hub breaks down what each does best and links to every detailed head-to-head comparison. Víctor Mollá · May 2, 2026 · 5 min read · Watch video Updated : June 22, 2026 Pide tu demo Table of contents AI Models at a Glance: 2026 Overview Which AI Model Should You Choose? Read the Full Comparisons AI Models for Business: What Actually Matters Frequently Asked Questions Video explainer Watch the video explainer The AI landscape in 2026 looks nothing like it did two years ago. Four frontier models now compete across coding, reasoning, writing, and business automation — and none of them wins everything. This page gives you the high-level picture. For the deep dives, we wrote dedicated head-to-head comparisons you can read below. AI Models at a Glance: 2026 Overview Here is where the four frontier models stand right now: Category | GPT-5.4 | Claude Opus 4.6 | Gemini 3.1 Pro | Grok 4 Coding | Strong (74.9% SWE-bench) | Strong (74%+, powers Cursor) | Good (63.8%, 1M context) | Leader (75%) Reasoning | 92.8% GPQA | 91.3% GPQA | Leader (94.3% GPQA) | Competitive Writing | Good (Canvas editor) | Leader (128K output, natural prose) | Good (Docs integration) | Uncensored style Multimodal | Vision + audio + computer use | Vision + tool use | Leader (video, audio, 1M context) | Vision + real-time X data API Price (in/out per 1M) | $2.50/$15 | $15/$75 ",
-        "long_summary_en": "Artificial Intelligence AI Models in 2026: Which One Should You Actually Use? The AI model landscape in 2026 has four frontier contenders. This hub breaks down what each does best and links to every detailed head-to-head comparison. Víctor Mollá · May 2, 2026 · 5 min read · Watch video Updated : June 22, 2026 Pide tu demo Table of contents AI Models at a Glance: 2026 Overview Which AI Model Should You Choose? Read the Full Comparisons AI Models for Business: What Actually Matters Frequently Asked Questions Video explainer Watch the video explainer The AI landscape in 2026 looks nothing like it",
-        "image": "https://res.cloudinary.com/dhqzl4gpk/image/upload/v1771362322/featured_comparativas_ia_c451d8fc4e.jpg",
-        "source": "Gurusup",
-        "url": "https://gurusup.com/blog/ai-comparisons",
         "date": "23 June 2026"
       }
     ],
