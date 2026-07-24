@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "24 July 2026 - 21:08",
+  "lastUpdate": "24 July 2026 - 21:38",
   "categories": {
     "general": [
+      {
+        "title": "Dead internet theory becomes measurable fact as AI agents flood the web",
+        "title_en": "Dead internet theory becomes measurable fact as AI agents flood the web",
+        "summary": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 perce",
+        "summary_en": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 perce",
+        "long_summary": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 percent threshold in June and now accounts for nearly 58 percent of all webpage requests. A separate report from cybersecurity firm HUMAN […]\nThis story continues at The Next Web",
+        "long_summary_en": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 percent threshold in June and now accounts for nearly 58 percent of all webpage requests. A separate report from cybersecurity firm HUMAN […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/bots-outnumber-humans-internet-ai-agents-traffic",
+        "date": "24 July 2026"
+      },
       {
         "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
         "title_en": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
@@ -169,21 +181,21 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/tessera-cambridge-earth-observation-ai-amd-vultr",
         "date": "23 July 2026"
-      },
-      {
-        "title": "Apple’s privacy policy reveals an AI shopping assistant is coming to the Apple Store app",
-        "title_en": "Apple’s privacy policy reveals an AI shopping assistant is coming to the Apple Store app",
-        "summary": "Apple is preparing to add an AI-powered shopping assistant to the Apple Store app, according to a privacy policy update spotted by MacRumors. The updated document describes a “Virtual Shopping Assista",
-        "summary_en": "Apple is preparing to add an AI-powered shopping assistant to the Apple Store app, according to a privacy policy update spotted by MacRumors. The updated document describes a “Virtual Shopping Assista",
-        "long_summary": "Apple is preparing to add an AI-powered shopping assistant to the Apple Store app, according to a privacy policy update spotted by MacRumors. The updated document describes a “Virtual Shopping Assistant” that collects account information, device identifiers, carrier information, chat data, and optionally location data to personalise responses. The feature is not live yet. Apple […]\nThis story continues at The Next Web",
-        "long_summary_en": "Apple is preparing to add an AI-powered shopping assistant to the Apple Store app, according to a privacy policy update spotted by MacRumors. The updated document describes a “Virtual Shopping Assistant” that collects account information, device identifiers, carrier information, chat data, and optionally location data to personalise responses. The feature is not live yet. Apple […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/apple-store-app-ai-shopping-assistant-privacy-policy.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/apple-store-app-ai-shopping-assistant-privacy-policy",
-        "date": "23 July 2026"
       }
     ],
     "image": [
+      {
+        "title": "Midjourney bought the astrology app Co-Star",
+        "title_en": "Midjourney bought the astrology app Co-Star",
+        "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
+        "summary_en": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
+        "long_summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your […]",
+        "long_summary_en": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "date": "24 July 2026"
+      },
       {
         "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
         "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
@@ -351,21 +363,21 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
         "date": "30 May 2026"
-      },
-      {
-        "title": "Nvidia’s $2 billion Marvell bet is not an investment. It is a toll booth.",
-        "title_en": "Nvidia’s $2 billion Marvell bet is not an investment. It is a toll booth.",
-        "summary": "Nvidia has invested $2 billion in Marvell Technology and folded the chipmaker into its NVLink Fusion ecosystem, creating a partnership that covers custom AI accelerators, silicon photonics, and 5G/6G ",
-        "summary_en": "Nvidia has invested $2 billion in Marvell Technology and folded the chipmaker into its NVLink Fusion ecosystem, creating a partnership that covers custom AI accelerators, silicon photonics, and 5G/6G ",
-        "long_summary": "Nvidia has invested $2 billion in Marvell Technology and folded the chipmaker into its NVLink Fusion ecosystem, creating a partnership that covers custom AI accelerators, silicon photonics, and 5G/6G infrastructure. The deal ensures that every custom chip Marvell designs for hyperscalers like Amazon, Google, and Microsoft still generates Nvidia revenue through mandatory platform components, turning […]\nThis story continues at The Next Web",
-        "long_summary_en": "Nvidia has invested $2 billion in Marvell Technology and folded the chipmaker into its NVLink Fusion ecosystem, creating a partnership that covers custom AI accelerators, silicon photonics, and 5G/6G infrastructure. The deal ensures that every custom chip Marvell designs for hyperscalers like Amazon, Google, and Microsoft still generates Nvidia revenue through mandatory platform components, turning […]\nThis story continues at The Next Web",
-        "image": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2026/04/nvidia-marvell-nvlink-fusion-ecosystem-lock-in.png",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/nvidia-marvell-nvlink-fusion-ecosystem-lock-in",
-        "date": "04 April 2026"
       }
     ],
     "video": [
+      {
+        "title": "Runway launches Media Router that auto-picks AI media models | AI Weekly",
+        "title_en": "Runway launches Media Router that auto-picks AI media models | AI Weekly",
+        "summary": "TL;DR Runway launched its Media Router on Thursday through Runway Dev, routing requests across its own image, video and audio models plus third-party APIs. Developers choose whether to prioritize qual",
+        "summary_en": "Co-CEO Anastasis Germanidis frames it as an orchestration story, saying &quot;the orchestration increasingly matters a lot because people are building entire campaigns with those models,&quot; and tha",
+        "long_summary": "TL;DR Runway launched its Media Router on Thursday through Runway Dev, routing requests across its own image, video and audio models plus third-party APIs. Developers choose whether to prioritize quality, speed or cost, and the router picks a model to match, according to TechCrunch's report. Runway Dev already counts Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock and Quora as customers, per the same report. Runway does not want to be just another AI model company anymore. It wants to be the plumbing underneath the whole generative media stack, and on Thursday it shipped the piece that makes that pitch concrete. According to TechCrunch , the company launched Runway Media Router through Runway Dev, its developer platform that opened earlier this month and already counts Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock and Quora as customers. The mechanic is simple to describe and harder to build. A developer tells the router whether they care most about quality, speed or cost for a given image, video or audio request, and the router picks a model from Runway's own lineup plus a growing roster of third-party APIs. Chief Product Officer Anthony Maggio told the outlet that \"most developers are not spending the time to really understand the capabilities of each of these models and where they excel or differ,\" which is a polite way of saying nobody wants to benchmark six video models before every campaign. What makes this interesting strategically is the timing. Runway's l",
+        "long_summary_en": "TL;DR Runway launched its Media Router on Thursday through Runway Dev, routing requests across its own image, video and audio models plus third-party APIs. Developers choose whether to prioritize quality, speed or cost, and the router picks a model to match, according to TechCrunch's report. Runway Dev already counts Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock and Quora as customers, per the same report. Runway does not want to be just another AI model company anymore. It wants to be the plumbing underneath the whole generative media stack, and on Thursday it shipped the piece that ma",
+        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
+        "source": "Aiweekly",
+        "url": "https://aiweekly.co/alerts/runway-launches-media-router-that-auto-picks-ai-media-models",
+        "date": "24 July 2026"
+      },
       {
         "title": "Runway | AI Image and Video Generator",
         "title_en": "Runway | AI Image and Video Generator",
@@ -533,21 +545,21 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/bezos-prime-video-ai-redesign-lighthouse",
         "date": "23 July 2026"
-      },
-      {
-        "title": "Best AI Video Generators Compared in 2026 - Techarticle",
-        "title_en": "Best AI Video Generators Compared in 2026 - Techarticle",
-        "summary": "TechArticle Home TECHNOLOGY GADGETS BUSINESS INTERNET CRYPTOCURRENCY DIGITAL MARKETING EDUCATION HOW TO Travel More HOME IMPROVEMENT GAMES LIFESTYLE COMPUTER SPORTS No Result View All Result TechArtic",
-        "summary_en": "<strong>By 2026, AI video generation has matured far beyond where it was even a year ago</strong>. Where output used to feel stiff and robotic, today’s tools Veo, Sora, Runway, Kling, Luma, Seedance a",
-        "long_summary": "TechArticle Home TECHNOLOGY GADGETS BUSINESS INTERNET CRYPTOCURRENCY DIGITAL MARKETING EDUCATION HOW TO Travel More HOME IMPROVEMENT GAMES LIFESTYLE COMPUTER SPORTS No Result View All Result TechArticle Home INTERNET Best AI Video Generators Compared in 2026 by David July 22, 2026 in INTERNET 0 AI video generation is no longer a buzzword in 2026 it has become a full-fledged industry. Whether you’re a content creator, a marketer, a filmmaker, or simply someone who wants to turn ideas into video, today’s AI tools can produce cinematic-quality clips from nothing more than a text prompt. The problem is that the market is now crowded with options Veo, Sora, Runway, Kling, Luma, Seedance, Pixverse making it genuinely hard to pick the right one. In this article, we compare the top AI video generators of 2026 in detail: their quality, speed, pricing, and best use cases. Below is an honest, no-fluff breakdown to help you choose the right tool for your needs. Table of Contents Toggle How We’re Judging These Tools Before ranking any tool, it’s worth being clear about the criteria used for comparison: Motion quality does the video stay smooth, or does it fall apart with “melting” frames toward the end? Physics and consistency do faces, clothing, and objects stay consistent across the whole clip? Audio integration – does the tool offer native lip-sync and sound generation, or do you need separate audio tools? Resolution and clip length what quality and duration are actually delivered? Pri",
-        "long_summary_en": "TechArticle Home TECHNOLOGY GADGETS BUSINESS INTERNET CRYPTOCURRENCY DIGITAL MARKETING EDUCATION HOW TO Travel More HOME IMPROVEMENT GAMES LIFESTYLE COMPUTER SPORTS No Result View All Result TechArticle Home INTERNET Best AI Video Generators Compared in 2026 by David July 22, 2026 in INTERNET 0 AI video generation is no longer a buzzword in 2026 it has become a full-fledged industry. Whether you’re a content creator, a marketer, a filmmaker, or simply someone who wants to turn ideas into video, today’s AI tools can produce cinematic-quality clips from nothing more than a text prompt. The probl",
-        "image": "https://techarticle.net/wp-content/uploads/2026/07/image-1-1024x576-1.webp",
-        "source": "Techarticle",
-        "url": "https://techarticle.net/best-ai-video-generators-compared-in-2026/",
-        "date": "23 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
+        "title_en": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
+        "summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launch",
+        "summary_en": "Claude, Gemini, and ChatGPT — get these AI models and more for life for $60 · <strong>On July 9, OpenAI announced its own next-generation model with advanced cybersecurity coding abilities, GPT‑5.6 So",
+        "long_summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launched a lighter-weight Gemini 3.5 Flash model for everyday use. However, Google CEO Sundar Pichai assured the audience that Gemini 3.5 Pro would follow in June. \"We are also excited for 3.5 Pro,” Pichai said at a pre-Google I/O media briefing. “We are using it internally. It's showing great improvements. We are still testing and refining it, and it will roll out to everyone next month.\" As of July 17, there's still no sign of the model. You May Also Like Our big Guessing Game is back! Enter now for a chance to win an Apple Watch . So, where is Gemini 3.5 Pro? Yesterday, Bloomberg published a report on the delayed launch, with reporters Julia Love and Davey Alba writing that \"The delay has caused frustration among Google engineers, AI researchers, and managers, who are concerned the company risks losing its edge in the market to rivals Anthropic and OpenAI.\" Mashable reached out to Google with questions about the Gemini 3.5 Pro launch timeline, and the company provided the same statement it shared with Bloomberg. Mashable Light Speed Want more out-of-this world tech, space and science stories? Sign up for Mashable's weekly Light Speed newsletter. Loading... Sign Me Up Use this instead By clicking Sign Me Up, you confirm you are 16+ and agree to our Terms of Use and Privacy Policy . T",
+        "long_summary_en": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launched a lighter-weight Gemini 3.5 Flash model for everyday use. However, Google CEO Sundar Pichai assured the audience that Gemini 3.5 Pro would follow in June. \"We are also excited for 3.5 Pro,” Pichai said at a pre-Google I/O media briefing. “We are using it internally. It's showing great improvements. We are still testing and refining it, and it will roll out to everyone next month.\" As of July 17",
+        "image": "https://helios-i.mashable.com/imagery/articles/02HNX4RCPp31ZCG4L6SyEsk/hero-image.fill.size_1200x675.v1784317551.jpg",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/google-gemini-3-5-pro-delay",
+        "date": "24 July 2026"
+      },
       {
         "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
         "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
@@ -714,18 +726,6 @@
         "image": "",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-52-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
         "date": "24 July 2026"
       }
     ],
