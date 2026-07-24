@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24 July 2026 - 13:33",
+  "lastUpdate": "24 July 2026 - 14:03",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Benchmarking and Improving Perceptual Straightening for Robust AI-Generated Video Detection",
+        "title_en": "Benchmarking and Improving Perceptual Straightening for Robust AI-Generated Video Detection",
+        "summary": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Ru",
+        "summary_en": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Ru",
+        "long_summary": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Runway Gen-3, and Kling—makes automated detection of AI-generated videos an urgent problem in multimedia forensics.",
+        "long_summary_en": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Runway Gen-3, and Kling—makes automated detection of AI-generated videos an urgent problem in multimedia forensics.",
+        "image": "",
+        "source": "Mdpi",
+        "url": "https://www.mdpi.com/2079-9292/15/15/3245",
+        "date": "24 July 2026"
+      },
+      {
         "title": "GitHub - calesthio/OpenMontage: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · GitHub",
         "title_en": "GitHub - calesthio/OpenMontage: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · GitHub",
         "summary": "OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Sponsors · Providers · Review Guide · Agent Guide Follo",
@@ -532,18 +544,6 @@
         "image": "https://cdn-imagine.vyro.ai/imagine-dashboard/assets/images/link-assets/og.png",
         "source": "Imagine",
         "url": "https://www.imagine.art/",
-        "date": "23 June 2026"
-      },
-      {
-        "title": "Runway Gen-5 | Runway Gen 5 AI Video Generator Free - Text to Video & Image to Video",
-        "title_en": "Runway Gen-5 | Runway Gen 5 AI Video Generator Free - Text to Video & Image to Video",
-        "summary": "01 Step 1 Choose Runway Gen-5 Video Generator Start by opening the Runway Gen-5 generator for AI video creation.",
-        "summary_en": "Professionals across North America, Europe and Asia trust <strong>Runway Gen-5 every day</strong>. ... From video content and storytelling to ads, social media, marketing and more. ... Connect with th",
-        "long_summary": "01 Step 1 Choose Runway Gen-5 Video Generator Start by opening the Runway Gen-5 generator for AI video creation.",
-        "long_summary_en": "01 Step 1 Choose Runway Gen-5 Video Generator Start by opening the Runway Gen-5 generator for AI video creation.",
-        "image": "https://www.runwaygen5.org/og-home.jpg",
-        "source": "Runwaygen5",
-        "url": "https://www.runwaygen5.org/",
         "date": "23 June 2026"
       }
     ],
