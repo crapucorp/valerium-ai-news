@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24 July 2026 - 22:39",
+  "lastUpdate": "24 July 2026 - 22:40",
   "categories": {
     "general": [
       {
@@ -549,6 +549,54 @@
     ],
     "llm": [
       {
+        "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "title_en": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "long_summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "long_summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "image": "",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Meta is making its AI chatbot more like an assistant",
+        "title_en": "Meta is making its AI chatbot more like an assistant",
+        "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
+        "summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
+        "long_summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
+        "long_summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0%2C4.9744178812656%2C100%2C60.121795706945&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+        "title_en": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+        "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
+        "summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
+        "long_summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
+        "long_summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "long_summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "long_summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "date": "24 July 2026"
+      },
+      {
         "title": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
         "title_en": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
         "summary": "🔄 Refreshed 24 July 2026. Every price, model, and limit below was re-checked against the official pricing pages and help docs this week. AI plans move fast — this one’s current. If you bought an AI su",
@@ -678,54 +726,6 @@
         "image": "https://helios-i.mashable.com/imagery/articles/02HNX4RCPp31ZCG4L6SyEsk/hero-image.fill.size_1200x675.v1784317551.jpg",
         "source": "Mashable",
         "url": "https://mashable.com/tech/google-gemini-3-5-pro-delay",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
-        "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
-        "summary": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs Updated 2026-07-24 Compare AI Token & Subscription Prices in Real-Time Check AI pricing before the bill lands. We track API token pricing f",
-        "summary_en": "All calculators Token cost calculator Subscription vs API calculator Labs leaderboard Tools News Blog ... Check AI pricing before the bill lands. We track API token pricing for 193 models across 15 pr",
-        "long_summary": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs Updated 2026-07-24 Compare AI Token & Subscription Prices in Real-Time Check AI pricing before the bill lands. We track API token pricing for 193 models across 15 providers, plus monthly AI subscription plans for ChatGPT, Claude, Gemini, Perplexity, Copilot, and more. Current cheapest flagship API model: DeepSeek V4 Flash at $0.14 per million input tokens. API Token Pricing Subscription Pricing Cost Calculators Labs Leaderboard Self-Hosting Costs New · AI Pricing Guru Labs Accuracy is only half the model-cost story DeepSeek V4 Pro and GPT-5.6 Luna and GPT-5.6 Terra and GPT-5.6 Sol and Claude Opus 4.8 and Grok 4.5 and Gemini 3.6 Flash lead accuracy at 100%, while DeepSeek V4 Flash delivers the lowest measured cost per correct answer. Open the leaderboard → 193 Models Tracked 15 Providers Daily Price Updates 31 Subscription Plans AI API price scale How flagship AI model prices compare Open full table → Input + output Input Output Swipe to see all flagships Tap a column for prices $5 $10 $20 $50 $100 Claude Fable 5 — $60 per 1M — cheapest at Anthropic $60 Claude Fable 5 Anthropic Claude Mythos 5 — $60 per 1M — cheapest at Anthropic $60 Claude Mythos 5 Anthropic GPT-5.6 Sol — $35 per 1M — cheapest at OpenAI $35 GPT-5.6 Sol OpenAI Claude Opus 4.8 — $30 per 1M — cheapest at Anthropic $30 Claude Opus 4.8 Anthropic Kimi K3 — $18 per 1M — cheapest at Moonshot $18 Kimi K3 Moonshot GPT-5.6 Terra — $17.50 per 1M — cheapest at O",
-        "long_summary_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs Updated 2026-07-24 Compare AI Token & Subscription Prices in Real-Time Check AI pricing before the bill lands. We track API token pricing for 193 models across 15 providers, plus monthly AI subscription plans for ChatGPT, Claude, Gemini, Perplexity, Copilot, and more. Current cheapest flagship API model: DeepSeek V4 Flash at $0.14 per million input tokens. API Token Pricing Subscription Pricing Cost Calculators Labs Leaderboard Self-Hosting Costs New · AI Pricing Guru Labs Accuracy is only half the model-cost story DeepSeek V4 Pro an",
-        "image": "https://www.aipricing.guru/og/home.png",
-        "source": "Aipricing",
-        "url": "https://www.aipricing.guru/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
-        "title_en": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
-        "summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like an",
-        "summary_en": "Updated daily. Release notes &amp; API changes from ChatGPT, Gemini, Perplexity, Copilot and Google Search — and how each update affects brand visibility in AI-generated responses.",
-        "long_summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool.We're excited to bring this model to all Gemini app users globally. To access, select \"3.6 Flash\" in the model drop down.Why:We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
-        "long_summary_en": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool.We're excited to bring this model to all Gemini app users globally. To access, select \"3.6 Flash\" in the model drop down.Why:We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing ",
-        "image": "https://reconn-ai.com/logo.svg",
-        "source": "Reconn-Ai",
-        "url": "https://reconn-ai.com/llm-changelog.php",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You - The New York Times",
-        "title_en": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You - The New York Times",
-        "summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "summary_en": "I tried the prompts with Gemini and ChatGPT. (Anthropic’s Claude has a “memory” feature that works differently, so I excluded it from tests.) Gemini’s profile on me was more colorful and nuanced becau",
-        "long_summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
-        "image": "https://dnyuz.com/wp-content/uploads/2026/07/00techfix-facebookJumbo-1024x536.jpg",
-        "source": "Nytimes",
-        "url": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-        "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-        "summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter",
-        "summary_en": "• Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyr",
-        "long_summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reportedly refused to threaten another AI in a separate coercion benchmark, and what these results actually tell us about AI alignment and model safety. We also break down Anthropic’s reported $1.5 billion copyright settlement, security disclosures involving AI coding agents such as OpenAI Codex, Cursor and Google Gemini CLI, and Google’s latest Gemini development announcement. This video covers: • Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyright settlement • OpenAI Codex, Cursor and Gemini CLI sandbox vulnerabilities • Google Gemini’s latest model-development update • The difference between verified AI news and exaggerated headlines The biggest lesson is not simply which AI model scored highest. It is whether systems from Anthropic, OpenAI, G",
-        "long_summary_en": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reporte",
-        "image": "https://www.mylivingai.com/wp-content/uploads/2026/06/mylivingai-og.webp",
-        "source": "Mylivingai",
-        "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
         "date": "24 July 2026"
       }
     ],
@@ -914,25 +914,25 @@
   },
   "hotNews": [
     {
-      "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-      "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-      "source": "Mylivingai",
-      "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
-      "date": "24 July 2026"
-    },
-    {
-      "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
-      "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
-      "source": "Aipricing",
-      "url": "https://www.aipricing.guru/",
-      "date": "24 July 2026"
-    },
-    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
       "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
       "date": "05 June 2026"
+    },
+    {
+      "title": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
+      "title_en": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
+      "source": "Exploreaitogether",
+      "url": "https://exploreaitogether.com/llm-usage-limits-comparison/",
+      "date": "24 July 2026"
+    },
+    {
+      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "source": "Republicworld",
+      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
+      "date": "10 June 2026"
     }
   ]
 }
