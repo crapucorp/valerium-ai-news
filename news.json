@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24 July 2026 - 12:31",
+  "lastUpdate": "24 July 2026 - 13:02",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "GitHub - calesthio/OpenMontage: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · GitHub",
+        "title_en": "GitHub - calesthio/OpenMontage: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · GitHub",
+        "summary": "OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Sponsors · Providers · Review Guide · Agent Guide Follo",
+        "summary_en": "Turn your AI coding assistant into a full video production studio. Describe what you want in plain language — your agent handles research, scripting, asset generation, editing, and final composition. ",
+        "long_summary": "OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Sponsors · Providers · Review Guide · Agent Guide Follow The Build Sponsors Want to support OpenMontage? Sponsor the project . Click to collapse Bloome lets multiple AI agents (Claude, ChatGPT, DeepSeek, and more) collaborate in one conversation for agentic video pipelines. It has zero setup, runs in the cloud, works on web and mobile, and lets you share a configured agent with your whole team. Try Bloome . Atlas Cloud is a full-modal AI inference platform that gives developers a single AI API for video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities. Check out Atlas Cloud's new coding plan promotion for more budget-friendly API access. Turn your AI coding assistant into a full video production studio. Describe what you want in plain language — your agent handles research, scripting, asset generation, editing, and final composition. Important distinction: OpenMontage can make image-based videos, but it can also make a real video video for free/open-source workflows: the agent builds a corpus from free stock footage and open archives, retrieves actual motion clips, edits them into a timeline, and renders a finished piece. That is not the usual \"animate a handful of stills and call it video\" trick. signal-f",
+        "long_summary_en": "OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Sponsors · Providers · Review Guide · Agent Guide Follow The Build Sponsors Want to support OpenMontage? Sponsor the project . Click to collapse Bloome lets multiple AI agents (Claude, ChatGPT, DeepSeek, and more) collaborate in one conversation for agentic video pipelines. It has zero setup, runs in the cloud, works on web and mobile, and lets you share a configured agent with your whole team. Try Bloome . Atlas Cloud is a full-modal AI inference pla",
+        "image": "https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d",
+        "source": "Github",
+        "url": "https://github.com/calesthio/OpenMontage",
+        "date": "24 July 2026"
+      },
+      {
         "title": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
         "title_en": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
         "summary": "Related Posts: How is 'artwork' that influences Netflix's viewing generated? Midjourney Announces First Video Generation AI Model 'V1,' Capable of Generating Videos of up to 21 Seconds from a Single I",
@@ -533,21 +545,21 @@
         "source": "Runwaygen5",
         "url": "https://www.runwaygen5.org/",
         "date": "23 June 2026"
-      },
-      {
-        "title": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy",
-        "title_en": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy",
-        "summary": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Rela",
-        "summary_en": "Learn how to use Gen-4.5 Image to Video",
-        "long_summary": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Related Tutorials How to Enhance Live Action Footage Behind the Scenes: A Day at the Museum Behind the Scenes: Grizzlies Back to all courses and tutorials",
-        "long_summary_en": "Getting Started with Gen-4.5 Image to Video | Runway Academy | Runway Academy Skip to main content Runway Team Getting Started with Gen-4.5 Image to Video Learn how to use Gen-4.5 Image to Video. Related Tutorials How to Enhance Live Action Footage Behind the Scenes: A Day at the Museum Behind the Scenes: Grizzlies Back to all courses and tutorials",
-        "image": "https://academy.runwayml.com/thumbnails/gen-45-image-to-video.png",
-        "source": "Academy",
-        "url": "https://academy.runwayml.com/tutorial/gen-45-image-to-video",
-        "date": "23 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "title_en": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "long_summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "long_summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-50-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+        "date": "24 July 2026"
+      },
       {
         "title": "OpenAI News | OpenAI",
         "title_en": "OpenAI News | OpenAI",
@@ -714,18 +726,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "OpenAI makes ChatGPT Health available to all U.S. users",
-        "title_en": "OpenAI makes ChatGPT Health available to all U.S. users",
-        "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-        "summary_en": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-        "long_summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-        "long_summary_en": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
         "date": "23 July 2026"
       }
     ],
