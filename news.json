@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 01:12",
+  "lastUpdate": "25 July 2026 - 01:13",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Anthropic launches Opus 5",
+        "title_en": "Anthropic launches Opus 5",
+        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "long_summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "long_summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
         "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
         "summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter",
@@ -714,18 +726,6 @@
         "image": "",
         "source": "Reuters",
         "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "image": "https://preview.redd.it/z57e32gij4bh1.png?width=140&height=100&auto=webp&s=b4e06f151c9a1431997f794c83f8d29e4df107a3",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
         "date": "24 July 2026"
       }
     ],
