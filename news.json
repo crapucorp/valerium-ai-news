@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24 July 2026 - 23:41",
+  "lastUpdate": "25 July 2026 - 00:11",
   "categories": {
     "general": [
       {
@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "LLM News Today (July 2026) – AI Model Releases",
+        "title_en": "LLM News Today (July 2026) – AI Model Releases",
+        "summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an importan",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "long_summary_en": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+        "title_en": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+        "summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic tea",
+        "summary_en": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic tea",
+        "long_summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […]\nThe post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.",
+        "long_summary_en": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […]\nThe post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-50-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "10 Platforms for AI Visibility and Link Building in 2026",
+        "title_en": "10 Platforms for AI Visibility and Link Building in 2026",
+        "summary": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media o",
+        "summary_en": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media o",
+        "long_summary": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media outlets, the same outlets where SEO specialists have been placing links for years. That means media distribution remains one of the key levers […]\nThis story continues at The Next Web",
+        "long_summary_en": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media outlets, the same outlets where SEO specialists have been placing links for years. That means media distribution remains one of the key levers […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/10-platforms-ai-visibility-link-building-2026.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/10-platforms-ai-visibility-link-building-2026",
+        "date": "25 July 2026"
+      },
+      {
         "title": "You Didn’t Get the AI Model You Paid For",
         "title_en": "You Didn’t Get the AI Model You Paid For",
         "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
@@ -690,42 +726,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "long_summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "long_summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-        "title_en": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-        "summary": "🔄 Refreshed 24 July 2026. Every price, model, and limit below was re-checked against the official pricing pages and help docs this week. AI plans move fast — this one’s current. If you bought an AI su",
-        "summary_en": "Claude’s Fable 5 moves to usage credits after July 7. Anthropic’s programmatic pool went live June 15. <strong>Gemini sells top-up AI credits</strong>. ChatGPT sells Codex credits. The flat monthly fe",
-        "long_summary": "🔄 Refreshed 24 July 2026. Every price, model, and limit below was re-checked against the official pricing pages and help docs this week. AI plans move fast — this one’s current. If you bought an AI subscription in June and haven’t looked since, some of what you’re paying for has already changed. In the last three weeks alone: OpenAI shipped a whole new model family, xAI dropped a new flagship, and the model that got yanked off Claude by an export-control order in June is now just sitting there in the menu like nothing happened. And this morning, Anthropic released Claude Opus 5 — a new state-of-the-art model that’s already the default on its top plan. Here’s the part nobody tells you when you pick a plan. The number on the pricing page is the easy part. What actually decides whether $20 is enough is the limit system underneath it — and that system has been quietly rewritten across almost every platform this year. Message counts are on their way out. Compute pools are in. So let’s go through all five platforms, current as of today, and sort out what you’re really buying. What’s Changed Since Late June 2026 Claude Opus 5 launched today (July 24). Anthropic’s new flagship comes close to the frontier intelligence of Fable 5 at roughly half the token price, and it lands as the new default model on Claude Max and the strongest model available on Claude Pro. It brings a 1-million-token context window in the app, has thinking on by default, and posts new state-of-the-art scores on co",
-        "long_summary_en": "🔄 Refreshed 24 July 2026. Every price, model, and limit below was re-checked against the official pricing pages and help docs this week. AI plans move fast — this one’s current. If you bought an AI subscription in June and haven’t looked since, some of what you’re paying for has already changed. In the last three weeks alone: OpenAI shipped a whole new model family, xAI dropped a new flagship, and the model that got yanked off Claude by an export-control order in June is now just sitting there in the menu like nothing happened. And this morning, Anthropic released Claude Opus 5 — a new state-o",
-        "image": "https://exploreaitogether.com/wp-content/uploads/2026/03/LLM-usge-limits-2026.jpg",
-        "source": "Exploreaitogether",
-        "url": "https://exploreaitogether.com/llm-usage-limits-comparison/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
-        "title_en": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>Organizational friction and employee departures are complicating the race to release Gemini 3.5 Pro</strong>.",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
         "date": "24 July 2026"
       }
     ],
@@ -928,10 +928,10 @@
       "date": "05 June 2026"
     },
     {
-      "title": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-      "title_en": "LLM Usage Limits 2026: ChatGPT vs. Claude vs. Gemini (Full Comparison) - Explore AI Together",
-      "source": "Exploreaitogether",
-      "url": "https://exploreaitogether.com/llm-usage-limits-comparison/",
+      "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
+      "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
+      "source": "Finance",
+      "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-opus-5-model-as-company-preps-for-ipo-later-this-year-170000070.html",
       "date": "24 July 2026"
     }
   ]
