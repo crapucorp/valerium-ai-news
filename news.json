@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "24 July 2026 - 18:33",
+  "lastUpdate": "24 July 2026 - 18:35",
   "categories": {
     "general": [
+      {
+        "title": "AI News & Artificial Intelligence | TechCrunch",
+        "title_en": "AI News & Artificial Intelligence | TechCrunch",
+        "summary": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
+        "summary_en": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
+        "long_summary": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
+        "long_summary_en": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
+        "image": "https://techcrunch.com/wp-content/uploads/2023/12/face-ai-binary.jpg?w=595",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/category/artificial-intelligence/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Artificial Intelligence News -- ScienceDaily",
+        "title_en": "Artificial Intelligence News -- ScienceDaily",
+        "summary": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning arg",
+        "summary_en": "Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, ... Millions of Exploding Stars Could Soon Reveal Dark Energy&#x27;s Secrets · June 29, 2026 ",
+        "long_summary": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including ... Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... AI Lets Chemists Design Molecules by Simply Describing Them May 5, 2026 Â Creating complex molecules usually requires years of experience and countless decisions, but a new AI system is changing that. Synthegy lets chemists guide synthesis and reaction planning using ... This AI Knew the Answers but Didnât Understand the Questions Apr. 30, 2026 Â For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur ... AI Swarms Could Hijack Democracy Without Anyone Noticing Apr. 20, 2026 Â AI-powered personas are becoming so realistic that they can infiltrate online communities and subtly steer public opinion. Unlike traditional bots, they adapt, coordinate, and refine their messaging ... Think AI \"knows\" What Itâs Doing? Scientists Say Think Again Apr. 19, 2026 Â Calling AI things like âsma",
+        "long_summary_en": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including ... Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... AI Lets Chemists Design Molecules by Simply",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "source": "Sciencedaily",
+        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "date": "24 July 2026"
+      },
       {
         "title": "Meta launches a standalone Seller app for Facebook Marketplace with AI-powered listings",
         "title_en": "Meta launches a standalone Seller app for Facebook Marketplace with AI-powered listings",
@@ -156,30 +180,6 @@
         "image": "https://ca-times.brightspotcdn.com/dims4/default/27f12cb/2147483647/strip/true/crop/734x489+316+0/resize/840x560!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/56/bf/b3a7ef91447a8b77726926746be3/banking-technology.jpg",
         "source": "Artificialintelligence-News",
         "url": "https://www.artificialintelligence-news.com/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
-        "title_en": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
-        "summary": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downlo",
-        "summary_en": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downlo",
-        "long_summary": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specifications, and examining the benchmark taxonomy, execution settings, internet requirements, judging logic, and scoring metadata. We then […]\nThe post Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics appeared first on MarkTechPost.",
-        "long_summary_en": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by downloading the dataset snapshot from Hugging Face, parsing the released task specifications, and examining the benchmark taxonomy, execution settings, internet requirements, judging logic, and scoring metadata. We then […]\nThe post Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-47-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "Nvidia donates a DGX GB300 to the US military’s top science school",
-        "title_en": "Nvidia donates a DGX GB300 to the US military’s top science school",
-        "summary": "Jensen Huang travelled to Monterey this week to give the US Navy a machine that most defence contractors would have had to sell it. Nvidia’s founder helped commission a DGX GB300 AI supercomputer at t",
-        "summary_en": "Jensen Huang travelled to Monterey this week to give the US Navy a machine that most defence contractors would have had to sell it. Nvidia’s founder helped commission a DGX GB300 AI supercomputer at t",
-        "long_summary": "Jensen Huang travelled to Monterey this week to give the US Navy a machine that most defence contractors would have had to sell it. Nvidia’s founder helped commission a DGX GB300 AI supercomputer at the Naval Postgraduate School, the first system of its kind installed anywhere in the American military, and the company donated it […]\nThis story continues at The Next Web",
-        "long_summary_en": "Jensen Huang travelled to Monterey this week to give the US Navy a machine that most defence contractors would have had to sell it. Nvidia’s founder helped commission a DGX GB300 AI supercomputer at the Naval Postgraduate School, the first system of its kind installed anywhere in the American military, and the company donated it […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/Nvidia-US-Navy.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/nvidia-supercomputer-naval-postgraduate-school",
         "date": "23 July 2026"
       }
     ],
@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
+        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
+        "summary": "reuters.com Please enable JS and disable any ad blocker",
+        "summary_en": "ANALYSISA new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
+        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
+        "image": "",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "title_en": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ",
+        "summary_en": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ",
+        "long_summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" […]",
+        "long_summary_en": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "title_en": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "summary_en": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "long_summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "long_summary_en": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "date": "24 July 2026"
+      },
+      {
         "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
         "title_en": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
         "summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like an",
@@ -690,42 +726,6 @@
         "image": "https://www.varindia.com/storage/news/2026/07/AEjAb7bHlHs4ug7oIGYWUafhFJJmk8zP1KdqAh4c.jpg",
         "source": "Axios",
         "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "You Didn’t Get the AI Model You Paid For",
-        "title_en": "You Didn’t Get the AI Model You Paid For",
-        "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
-        "summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
-        "long_summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
-        "long_summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
-        "image": "https://external-preview.redd.it/ai-model-collapse-is-not-what-we-paid-for-v0-t1a82RbH0UL1UYDwa90CKgzP5n0-XQv2jFvDTCEsOMg.jpg?width=640&crop=smart&auto=webp&s=2a421a6f6f1e07eff8cf2a3a497e1b764b1ce4a9",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-52-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Claude’s voice mode is now available for Opus and Sonnet",
-        "title_en": "Claude’s voice mode is now available for Opus and Sonnet",
-        "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending i",
-        "summary_en": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending i",
-        "long_summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]",
-        "long_summary_en": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
         "date": "24 July 2026"
       }
     ],
