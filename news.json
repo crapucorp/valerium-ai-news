@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 00:42",
+  "lastUpdate": "25 July 2026 - 01:12",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Is A2E AI Really Uncensored?",
+        "title_en": "Is A2E AI Really Uncensored?",
+        "summary": "FREE NEWSLETTER Stop Reading About AI. Start Using It. Join 18,000+ people learning how to plug AI into their daily work and building automations that get real results.",
+        "summary_en": "After spending three weeks on A2E’s Pro plan generating 80+ videos and images across its avatar, face swap, voice clone, and image-to-video tools, here is my honest answer to the question everyone is ",
+        "long_summary": "FREE NEWSLETTER Stop Reading About AI. Start Using It. Join 18,000+ people learning how to plug AI into their daily work and building automations that get real results.",
+        "long_summary_en": "FREE NEWSLETTER Stop Reading About AI. Start Using It. Join 18,000+ people learning how to plug AI into their daily work and building automations that get real results.",
+        "image": "https://autogpt.net/wp-content/uploads/2025/03/url-preview-agents.jpg",
+        "source": "Autogpt",
+        "url": "https://autogpt.net/is-a2e-ai-really-uncensored/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Runway launches Media Router that auto-picks AI media models | AI Weekly",
         "title_en": "Runway launches Media Router that auto-picks AI media models | AI Weekly",
         "summary": "TL;DR Runway launched its Media Router on Thursday through Runway Dev, routing requests across its own image, video and audio models plus third-party APIs. Developers choose whether to prioritize qual",
@@ -533,21 +545,21 @@
         "source": "Wired",
         "url": "https://www.wired.com/tag/artificial-intelligence/",
         "date": "23 July 2026"
-      },
-      {
-        "title": "Jeff Bezos is pushing an AI-first Prime Video redesign, and studios may end up paying for it",
-        "title_en": "Jeff Bezos is pushing an AI-first Prime Video redesign, and studios may end up paying for it",
-        "summary": "Jeff Bezos has found a new place to advertise Amazon’s artificial intelligence, and it happens to be the screen where you were hoping to watch a film. Amazon’s executive chairman is pushing a redesign",
-        "summary_en": "Jeff Bezos has found a new place to advertise Amazon’s artificial intelligence, and it happens to be the screen where you were hoping to watch a film. Amazon’s executive chairman is pushing a redesign",
-        "long_summary": "Jeff Bezos has found a new place to advertise Amazon’s artificial intelligence, and it happens to be the screen where you were hoping to watch a film. Amazon’s executive chairman is pushing a redesign of Prime Video, known internally as Lighthouse, meant to turn the streaming service into a high-profile showcase for the hundreds of […]\nThis story continues at The Next Web",
-        "long_summary_en": "Jeff Bezos has found a new place to advertise Amazon’s artificial intelligence, and it happens to be the screen where you were hoping to watch a film. Amazon’s executive chairman is pushing a redesign of Prime Video, known internally as Lighthouse, meant to turn the streaming service into a high-profile showcase for the hundreds of […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/Jeff-bezos.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/bezos-prime-video-ai-redesign-lighthouse",
-        "date": "23 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
+        "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
+        "summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter",
+        "summary_en": "• Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyr",
+        "long_summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reportedly refused to threaten another AI in a separate coercion benchmark, and what these results actually tell us about AI alignment and model safety. We also break down Anthropic’s reported $1.5 billion copyright settlement, security disclosures involving AI coding agents such as OpenAI Codex, Cursor and Google Gemini CLI, and Google’s latest Gemini development announcement. This video covers: • Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyright settlement • OpenAI Codex, Cursor and Gemini CLI sandbox vulnerabilities • Google Gemini’s latest model-development update • The difference between verified AI news and exaggerated headlines The biggest lesson is not simply which AI model scored highest. It is whether systems from Anthropic, OpenAI, G",
+        "long_summary_en": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reporte",
+        "image": "https://www.mylivingai.com/wp-content/uploads/2026/06/mylivingai-og.webp",
+        "source": "Mylivingai",
+        "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
+        "date": "25 July 2026"
+      },
       {
         "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
         "title_en": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
@@ -714,18 +726,6 @@
         "image": "https://preview.redd.it/z57e32gij4bh1.png?width=140&height=100&auto=webp&s=b4e06f151c9a1431997f794c83f8d29e4df107a3",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Anthropic launches Opus 5",
-        "title_en": "Anthropic launches Opus 5",
-        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "long_summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "long_summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
         "date": "24 July 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
+      "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
+      "source": "Mylivingai",
+      "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
+      "date": "25 July 2026"
+    },
+    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -926,13 +933,6 @@
       "source": "Republicworld",
       "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
       "date": "10 June 2026"
-    },
-    {
-      "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
-      "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
-      "source": "Pricepertoken",
-      "url": "https://pricepertoken.com/news/model-releases",
-      "date": "23 July 2026"
     }
   ]
 }
