@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24 July 2026 - 18:35",
+  "lastUpdate": "24 July 2026 - 19:05",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio — but in limited release to start | VentureBeat",
+        "title_en": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio — but in limited release to start | VentureBeat",
+        "summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
+        "summary_en": "In early head-to-head preference testing on 10-second, 720p text-to-video clips with audio, the company says FLUX 3 was preferred over Luma Ray 3.2 in 93% of comparisons, Runway Gen-4.5 in 77%, Grok I",
+        "long_summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
+        "long_summary_en": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
+        "image": "",
+        "source": "Venturebeat",
+        "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
+        "date": "24 July 2026"
+      },
+      {
         "title": "FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together | Wan 2.7",
         "title_en": "FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together | Wan 2.7",
         "summary": "FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together | Wan 2.7 2026/07/23 FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Gene",
@@ -533,21 +545,69 @@
         "source": "Influencers-Time",
         "url": "https://www.influencers-time.com/sora-vs-veo-3-vs-runway-gen-4-cost-per-variant-compared-2/",
         "date": "23 July 2026"
-      },
-      {
-        "title": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-        "title_en": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-        "summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 200+ state-of-the-art model",
-        "summary_en": "Lip sync jobs use the same two-step pattern: a dedicated processLipSync() method accepts image_url or video_url alongside audio_url, dispatches to the model&#x27;s endpoint, and polls until the output",
-        "long_summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 200+ state-of-the-art models — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support 📺 AI Creator Academy: The Free Course Paid Communities Don't Want You to Find → 🎨 Explore 50+ more open-source AI apps → Related Projects 🎓 Learn to monetize generative AI: ai-creator-academy — a free, open-source curriculum teaching creators, freelancers, and agencies how to make money with generative AI image/video/audio tools, covering monetization, pricing, and client delivery — not just how the models work. 🤖 Automate media generations with AI coding agents: Generative-Media-Skills — a library of skills that let agents like Claude Code , Codex , and other coding assistants drive 200+ image/video models end-to-end (prompt → generate → edit → stitch) directly from your terminal. Perfect for building automated media pipelines without touching a UI. 🎬 Seedance 2.5 prompts & API guide: awesome-seedance-2.5-api-prompts — Curated prompt templates, camera control vocabulary, MuAPI reference, and cinematic examples for Seedance 2.5 video generation. 🎥 Seedance 2.5 Python SDK: Seedance-2.5-API — Python wrapper for ByteDance's Seedance 2.5 API — text-to-video, image-to-video, realistic human faces, character consistency. 🍌 Claude Fable 5 use cases + 20% off on MuAPI: a",
-        "long_summary_en": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 200+ state-of-the-art models — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support 📺 AI Creator Academy: The Free Course Paid Communities Don't Want You to Find → 🎨 Explore 50+ more open-source AI apps → Related Projects 🎓 Learn to monetize generative AI: ai-creator-academy — a free, open-source curriculum teaching creators, freelancers, and agencies how to make",
-        "image": "https://opengraph.githubassets.com/cc48d12a3000e8699317650b93873d77672042caf05e7288c76f05eb4d7152b9/Anil-matcha/Open-Generative-AI",
-        "source": "Github",
-        "url": "https://github.com/anil-matcha/open-generative-ai",
-        "date": "23 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "LLM News Today (July 2026) – AI Model Releases",
+        "title_en": "LLM News Today (July 2026) – AI Model Releases",
+        "summary": "Comparison · Developer Guide Claude Code vs Cursor: The Ultimate Comparison Claude Code vs Cursor in 2026: compare workflow, agents, pricing, and why LLM Stats Playground is the fast, affordable codin",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Comparison · Developer Guide Claude Code vs Cursor: The Ultimate Comparison Claude Code vs Cursor in 2026: compare workflow, agents, pricing, and why LLM Stats Playground is the fast, affordable coding choice. Jonathan Chavez · Jul 17, 2026 · 9 min",
+        "long_summary_en": "Comparison · Developer Guide Claude Code vs Cursor: The Ultimate Comparison Claude Code vs Cursor in 2026: compare workflow, agents, pricing, and why LLM Stats Playground is the fast, affordable coding choice. Jonathan Chavez · Jul 17, 2026 · 9 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
+        "title_en": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>Organizational friction and employee departures are complicating the race to release Gemini 3.5 Pro</strong>.",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "The AI giants just broke with OpenAI and Anthropic on open weights",
+        "title_en": "The AI giants just broke with OpenAI and Anthropic on open weights",
+        "summary": "The AI industry just picked a side, in public. On Friday, 25 companies and groups published an open letter, “Open Weights and American AI Leadership”, urging Washington not to crack down on open-weigh",
+        "summary_en": "The AI industry just picked a side, in public. On Friday, 25 companies and groups published an open letter, “Open Weights and American AI Leadership”, urging Washington not to crack down on open-weigh",
+        "long_summary": "The AI industry just picked a side, in public. On Friday, 25 companies and groups published an open letter, “Open Weights and American AI Leadership”, urging Washington not to crack down on open-weight AI, Business Insider reported. The names are heavy: Nvidia, Microsoft, Meta, Mistral, Palantir, IBM, Andreessen Horowitz, Hugging Face, Mozilla and the Linux […]\nThis story continues at The Next Web",
+        "long_summary_en": "The AI industry just picked a side, in public. On Friday, 25 companies and groups published an open letter, “Open Weights and American AI Leadership”, urging Washington not to crack down on open-weight AI, Business Insider reported. The names are heavy: Nvidia, Microsoft, Meta, Mistral, Palantir, IBM, Andreessen Horowitz, Hugging Face, Mozilla and the Linux […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/jensen-huang-75-million-vanderbilt-art-school-san-francisco.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/open-weights-american-ai-leadership-letter-huang-nvidia-openai-absent",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+        "title_en": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+        "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unrelease",
+        "summary_en": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unrelease",
+        "long_summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
+        "long_summary_en": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Anthropic launches Opus 5",
+        "title_en": "Anthropic launches Opus 5",
+        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+        "summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+        "long_summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+        "long_summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "date": "24 July 2026"
+      },
       {
         "title": "You Didn’t Get the AI Model You Paid For",
         "title_en": "You Didn’t Get the AI Model You Paid For",
@@ -666,66 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "long_summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "long_summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
-        "title_en": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
-        "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
-        "summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
-        "long_summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
-        "long_summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-50-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "OpenAI News | OpenAI",
-        "title_en": "OpenAI News | OpenAI",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/1100/quality/50/format/jpeg/?url=http://npr-brightspot.s3.amazonaws.com/f0/2f/84c5c3c043149e502d27ea256460/ap26203630156692.jpg",
-        "source": "Openai",
-        "url": "https://openai.com/news/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-        "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-        "summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter",
-        "summary_en": "• Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyr",
-        "long_summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reportedly refused to threaten another AI in a separate coercion benchmark, and what these results actually tell us about AI alignment and model safety. We also break down Anthropic’s reported $1.5 billion copyright settlement, security disclosures involving AI coding agents such as OpenAI Codex, Cursor and Google Gemini CLI, and Google’s latest Gemini development announcement. This video covers: • Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyright settlement • OpenAI Codex, Cursor and Gemini CLI sandbox vulnerabilities • Google Gemini’s latest model-development update • The difference between verified AI news and exaggerated headlines The biggest lesson is not simply which AI model scored highest. It is whether systems from Anthropic, OpenAI, G",
-        "long_summary_en": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reporte",
-        "image": "https://www.mylivingai.com/wp-content/uploads/2026/06/mylivingai-og.webp",
-        "source": "Mylivingai",
-        "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You - The New York Times",
-        "title_en": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You - The New York Times",
-        "summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "summary_en": "I tried the prompts with Gemini and ChatGPT. (Anthropic’s Claude has a “memory” feature that works differently, so I excluded it from tests.) Gemini’s profile on me was more colorful and nuanced becau",
-        "long_summary": "nytimes.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
-        "image": "https://dnyuz.com/wp-content/uploads/2026/07/00techfix-facebookJumbo-1024x536.jpg",
-        "source": "Nytimes",
-        "url": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
         "date": "24 July 2026"
       }
     ],
@@ -914,13 +914,6 @@
   },
   "hotNews": [
     {
-      "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-      "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-      "source": "Mylivingai",
-      "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
-      "date": "24 July 2026"
-    },
-    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -933,6 +926,13 @@
       "source": "Republicworld",
       "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
       "date": "10 June 2026"
+    },
+    {
+      "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "source": "Pricepertoken",
+      "url": "https://pricepertoken.com/news/model-releases",
+      "date": "23 July 2026"
     }
   ]
 }
