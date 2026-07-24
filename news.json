@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "24 July 2026 - 19:05",
+  "lastUpdate": "24 July 2026 - 19:36",
   "categories": {
     "general": [
+      {
+        "title": "Stripe wants to own the toll booth between AI models, for ~$10bn",
+        "title_en": "Stripe wants to own the toll booth between AI models, for ~$10bn",
+        "summary": "Stripe wants a foothold in AI, and it is willing to pay dearly for it. The payments company is in talks to buy OpenRouter for about $10 billion, the Wall Street Journal reported. That is a staggering ",
+        "summary_en": "Stripe wants a foothold in AI, and it is willing to pay dearly for it. The payments company is in talks to buy OpenRouter for about $10 billion, the Wall Street Journal reported. That is a staggering ",
+        "long_summary": "Stripe wants a foothold in AI, and it is willing to pay dearly for it. The payments company is in talks to buy OpenRouter for about $10 billion, the Wall Street Journal reported. That is a staggering price for a startup valued at just $1.3 billion in May. The talks are preliminary, and could still […]\nThis story continues at The Next Web",
+        "long_summary_en": "Stripe wants a foothold in AI, and it is willing to pay dearly for it. The payments company is in talks to buy OpenRouter for about $10 billion, the Wall Street Journal reported. That is a staggering price for a startup valued at just $1.3 billion in May. The talks are preliminary, and could still […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/05/stripe-collison-agentic-commerce-reshape-internet.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/stripe-openrouter-10-billion-ai-model-marketplace-acquisition",
+        "date": "24 July 2026"
+      },
       {
         "title": "AI News & Artificial Intelligence | TechCrunch",
         "title_en": "AI News & Artificial Intelligence | TechCrunch",
@@ -168,18 +180,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
-        "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
-        "summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "summary_en": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
-        "long_summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "long_summary_en": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
-        "image": "https://ca-times.brightspotcdn.com/dims4/default/27f12cb/2147483647/strip/true/crop/734x489+316+0/resize/840x560!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/56/bf/b3a7ef91447a8b77726926746be3/banking-technology.jpg",
-        "source": "Artificialintelligence-News",
-        "url": "https://www.artificialintelligence-news.com/",
         "date": "23 July 2026"
       }
     ],
@@ -549,6 +549,78 @@
     ],
     "llm": [
       {
+        "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You - The New York Times",
+        "title_en": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You - The New York Times",
+        "summary": "nytimes.com Please enable JS and disable any ad blocker",
+        "summary_en": "I tried the prompts with Gemini and ChatGPT. (Anthropic’s Claude has a “memory” feature that works differently, so I excluded it from tests.) Gemini’s profile on me was more colorful and nuanced becau",
+        "long_summary": "nytimes.com Please enable JS and disable any ad blocker",
+        "long_summary_en": "nytimes.com Please enable JS and disable any ad blocker",
+        "image": "https://dnyuz.com/wp-content/uploads/2026/07/00techfix-facebookJumbo-1024x536.jpg",
+        "source": "Nytimes",
+        "url": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
+        "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
+        "summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter",
+        "summary_en": "• Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyr",
+        "long_summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reportedly refused to threaten another AI in a separate coercion benchmark, and what these results actually tell us about AI alignment and model safety. We also break down Anthropic’s reported $1.5 billion copyright settlement, security disclosures involving AI coding agents such as OpenAI Codex, Cursor and Google Gemini CLI, and Google’s latest Gemini development announcement. This video covers: • Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyright settlement • OpenAI Codex, Cursor and Gemini CLI sandbox vulnerabilities • Google Gemini’s latest model-development update • The difference between verified AI news and exaggerated headlines The biggest lesson is not simply which AI model scored highest. It is whether systems from Anthropic, OpenAI, G",
+        "long_summary_en": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reporte",
+        "image": "https://www.mylivingai.com/wp-content/uploads/2026/06/mylivingai-og.webp",
+        "source": "Mylivingai",
+        "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "title_en": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
+        "summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers an",
+        "long_summary": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "long_summary_en": "Gigatoken is an MIT-licensed Rust BPE tokenizer that encodes text at gigabytes per second. On a 144-core AMD EPYC 9565, it runs GPT-2 tokenization at 24.53 GB/s. That is 989x HuggingFace tokenizers and 681x tiktoken, against baselines already written in multithreaded Rust. The gains come from a hand-written SWAR pretokenizer and pretoken caching, not a faster BPE merge loop.\nThe post Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-50-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/meet-gigatoken-a-rust-bpe-tokenizer-that-encodes-text-at-24-53-gb-s-up-to-989x-faster-than-huggingface-tokenizers/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Meta is making its AI chatbot more like an assistant",
+        "title_en": "Meta is making its AI chatbot more like an assistant",
+        "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
+        "summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
+        "long_summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
+        "long_summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0%2C4.9744178812656%2C100%2C60.121795706945&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+        "title_en": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+        "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
+        "summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
+        "long_summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
+        "long_summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "long_summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "long_summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "date": "24 July 2026"
+      },
+      {
         "title": "LLM News Today (July 2026) – AI Model Releases",
         "title_en": "LLM News Today (July 2026) – AI Model Releases",
         "summary": "Comparison · Developer Guide Claude Code vs Cursor: The Ultimate Comparison Claude Code vs Cursor in 2026: compare workflow, agents, pricing, and why LLM Stats Playground is the fast, affordable codin",
@@ -654,78 +726,6 @@
         "image": "",
         "source": "Reuters",
         "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "title_en": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ",
-        "summary_en": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ",
-        "long_summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" […]",
-        "long_summary_en": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/chatgpt-health-launch.webp?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "title_en": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "summary_en": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "long_summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "long_summary_en": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
-        "title_en": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
-        "summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like an",
-        "summary_en": "Updated daily. Release notes &amp; API changes from ChatGPT, Gemini, Perplexity, Copilot and Google Search — and how each update affects brand visibility in AI-generated responses.",
-        "long_summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool.We're excited to bring this model to all Gemini app users globally. To access, select \"3.6 Flash\" in the model drop down.Why:We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
-        "long_summary_en": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool.We're excited to bring this model to all Gemini app users globally. To access, select \"3.6 Flash\" in the model drop down.Why:We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing ",
-        "image": "https://reconn-ai.com/logo.svg",
-        "source": "Reconn-Ai",
-        "url": "https://reconn-ai.com/llm-changelog.php",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Claude’s new voice mode isn’t chasing natural. It’s chasing your to-do list.",
-        "title_en": "Claude’s new voice mode isn’t chasing natural. It’s chasing your to-do list.",
-        "summary": "Anthropic wants you to talk to Claude, and then watch it act. On Thursday it upgraded Claude’s voice mode to run on its most capable models, Opus and Sonnet, the company announced. Voice mode launched",
-        "summary_en": "Anthropic wants you to talk to Claude, and then watch it act. On Thursday it upgraded Claude’s voice mode to run on its most capable models, Opus and Sonnet, the company announced. Voice mode launched",
-        "long_summary": "Anthropic wants you to talk to Claude, and then watch it act. On Thursday it upgraded Claude’s voice mode to run on its most capable models, Opus and Sonnet, the company announced. Voice mode launched last year, and until now it ran only on Haiku, Anthropic’s fastest but shallowest model. That was fine for quick […]\nThis story continues at The Next Web",
-        "long_summary_en": "Anthropic wants you to talk to Claude, and then watch it act. On Thursday it upgraded Claude’s voice mode to run on its most capable models, Opus and Sonnet, the company announced. Voice mode launched last year, and until now it ran only on Haiku, Anthropic’s fastest but shallowest model. That was fine for quick […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/claude-voice.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/anthropic-claude-voice-mode-opus-sonnet-tools",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "OpenAI wants your medical records, and says its AI is ‘better than clinician level’",
-        "title_en": "OpenAI wants your medical records, and says its AI is ‘better than clinician level’",
-        "summary": "OpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult. The chatbot can now connect to your Apple Health data and medical r",
-        "summary_en": "OpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult. The chatbot can now connect to your Apple Health data and medical r",
-        "long_summary": "OpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult. The chatbot can now connect to your Apple Health data and medical records, the company said. It can then draw on them in any conversation. More than 300 million people already […]\nThis story continues at The Next Web",
-        "long_summary_en": "OpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult. The chatbot can now connect to your Apple Health data and medical records, the company said. It can then draw on them in any conversation. More than 300 million people already […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/chatgpt-health.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/openai-chatgpt-health-launch-all-us-clinician-claim",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-        "title_en": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-        "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-        "summary_en": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-        "long_summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-        "long_summary_en": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
         "date": "24 July 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
+      "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
+      "source": "Mylivingai",
+      "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
+      "date": "24 July 2026"
+    },
+    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -926,13 +933,6 @@
       "source": "Republicworld",
       "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
       "date": "10 June 2026"
-    },
-    {
-      "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
-      "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
-      "source": "Pricepertoken",
-      "url": "https://pricepertoken.com/news/model-releases",
-      "date": "23 July 2026"
     }
   ]
 }
