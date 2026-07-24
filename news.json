@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24 July 2026 - 23:11",
+  "lastUpdate": "24 July 2026 - 23:41",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "You Didn’t Get the AI Model You Paid For",
+        "title_en": "You Didn’t Get the AI Model You Paid For",
+        "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
+        "summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
+        "long_summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
+        "long_summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
+        "image": "https://external-preview.redd.it/ai-model-collapse-is-not-what-we-paid-for-v0-t1a82RbH0UL1UYDwa90CKgzP5n0-XQv2jFvDTCEsOMg.jpg?width=640&crop=smart&auto=webp&s=2a421a6f6f1e07eff8cf2a3a497e1b764b1ce4a9",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
+        "date": "24 July 2026"
+      },
+      {
         "title": "Artificial intelligence | AP News",
         "title_en": "Artificial intelligence | AP News",
         "summary": "SECTIONS Iran war Russia-Ukraine war Español China Asia Pacific Latin America Europe Africa TOP STORIES Iran targets American strongholds around the Gulf while US hits more Iranian military sites US V",
@@ -714,18 +726,6 @@
         "image": "",
         "source": "Axios",
         "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "10 Platforms for AI Visibility and Link Building in 2026",
-        "title_en": "10 Platforms for AI Visibility and Link Building in 2026",
-        "summary": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media o",
-        "summary_en": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media o",
-        "long_summary": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media outlets, the same outlets where SEO specialists have been placing links for years. That means media distribution remains one of the key levers […]\nThis story continues at The Next Web",
-        "long_summary_en": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media outlets, the same outlets where SEO specialists have been placing links for years. That means media distribution remains one of the key levers […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/10-platforms-ai-visibility-link-building-2026.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/10-platforms-ai-visibility-link-building-2026",
         "date": "24 July 2026"
       }
     ],
