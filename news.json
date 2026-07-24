@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 00:41",
+  "lastUpdate": "25 July 2026 - 00:42",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
+        "title_en": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
+        "summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like an",
+        "summary_en": "Updated daily. Release notes &amp; API changes from ChatGPT, Gemini, Perplexity, Copilot and Google Search — and how each update affects brand visibility in AI-generated responses.",
+        "long_summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool.We're excited to bring this model to all Gemini app users globally. To access, select \"3.6 Flash\" in the model drop down.Why:We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
+        "long_summary_en": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool.We're excited to bring this model to all Gemini app users globally. To access, select \"3.6 Flash\" in the model drop down.Why:We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing ",
+        "image": "https://reconn-ai.com/logo.svg",
+        "source": "Reconn-Ai",
+        "url": "https://reconn-ai.com/llm-changelog.php",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Claude Opus 5 matches Fable on coding at half the price, and Anthropic says it is the most aligned model it has ever shipped",
+        "title_en": "Claude Opus 5 matches Fable on coding at half the price, and Anthropic says it is the most aligned model it has ever shipped",
+        "summary": "Anthropic on Thursday released Claude Opus 5, a model that matches or exceeds its flagship Fable 5 on most coding and knowledge-work benchmarks at half the token price. The model is the fourth Anthrop",
+        "summary_en": "Anthropic on Thursday released Claude Opus 5, a model that matches or exceeds its flagship Fable 5 on most coding and knowledge-work benchmarks at half the token price. The model is the fourth Anthrop",
+        "long_summary": "Anthropic on Thursday released Claude Opus 5, a model that matches or exceeds its flagship Fable 5 on most coding and knowledge-work benchmarks at half the token price. The model is the fourth Anthropic has shipped in under two months, following Fable 5 in early June, Sonnet 5 at the end of June, and now […]\nThis story continues at The Next Web",
+        "long_summary_en": "Anthropic on Thursday released Claude Opus 5, a model that matches or exceeds its flagship Fable 5 on most coding and knowledge-work benchmarks at half the token price. The model is the fourth Anthropic has shipped in under two months, following Fable 5 in early June, Sonnet 5 at the end of June, and now […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/anthropic-claude-opus-5-launch-frontier-bench-coding.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding",
+        "date": "25 July 2026"
+      },
+      {
         "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
         "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
         "summary": "Quick verification Confirm you're human to keep going.",
@@ -702,30 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-        "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-        "summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter",
-        "summary_en": "• Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyr",
-        "long_summary": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reportedly refused to threaten another AI in a separate coercion benchmark, and what these results actually tell us about AI alignment and model safety. We also break down Anthropic’s reported $1.5 billion copyright settlement, security disclosures involving AI coding agents such as OpenAI Codex, Cursor and Google Gemini CLI, and Google’s latest Gemini development announcement. This video covers: • Anthropic Claude and OpenAI GPT safety evaluations • ChatGPT, Gemini, Grok and DeepSeek benchmark behavior • Claude Sonnet and Claude Opus coercion-test results • Anthropic’s reported $1.5B AI copyright settlement • OpenAI Codex, Cursor and Gemini CLI sandbox vulnerabilities • Google Gemini’s latest model-development update • The difference between verified AI news and exaggerated headlines The biggest lesson is not simply which AI model scored highest. It is whether systems from Anthropic, OpenAI, G",
-        "long_summary_en": "Building the “Worst” Quantum Devices at DEF CON – with Mark Carney and Victoria Kumran | Ep. 133 July 22, 2026 GPT 6 The 4 TRILLION Parameter Reset Nobody Expected July 22, 2026 Link to our newsletter: https://bitbiased.ai/ Anthropic’s Claude, OpenAI’s ChatGPT and GPT models, Google Gemini, Grok and DeepSeek were placed under the spotlight in a series of major AI safety and security tests—but the results were far more complicated than the headlines suggest. In this AI news roundup, we examine claims that frontier AI models attempted to cheat during cybersecurity evaluations, why Claude reporte",
-        "image": "https://www.mylivingai.com/wp-content/uploads/2026/06/mylivingai-og.webp",
-        "source": "Mylivingai",
-        "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-        "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-        "summary": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted",
-        "summary_en": "Opus 5 comes after OpenAI (OPAI.PVT) released its GPT-5.6 family of models earlier this month. <strong>Google is also preparing to release its Gemini 3.5 Pro model, but according to Bloomberg, it&#x27",
-        "long_summary": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted its Claude Opus 5 AI model on Thursday, the fourth in its Claude 5 family of models, which also includes its powerful Mythos 5 and Fable 5. Fable 5 is Anthropic's most capable publicly available model, meant for \"days-long autonomous projects,\" the company said. Mythos 5 is Anthropic's current cutting-edge model, but the AI lab has limited availability to a select group of companies and organizations due to its impressive hacking capabilities. The company is framing Opus 5 as the go-to AI model for most tasks, including knowledge work and automation. According to Anthropic, Opus 5 approaches Fable 5's competencies at half the cost. Unlike Fable 5, Opus 5 doesn't retain user data for 30 days. Anthropic said it retains user inputs and outputs for Fable 5 as part of its safety efforts and to prevent future misuse. Opus 5 comes after OpenAI ( OPAI.PVT ) released its GPT-5.6 family of models earlier this month. Google is also preparing to release its Gemini 3.5 Pro model, but according to Bloomberg , it's been delayed. Google pushed back against the report. Anthropic CEO and co-founder Dario Amodei speaks during the 56th annual World Economic Forum meeting in Davos, Switzerland, on Jan. 20, 2026. (Reuters/Denis Balibouse) · REUTERS / Reuters The Trump administration initially forced ",
-        "long_summary_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted its Claude Opus 5 AI model on Thursday, the fourth in its Claude 5 family of models, which also includes its powerful Mythos 5 and Fable 5. Fable 5 is Anthropic's most capable publicly available model, meant for \"days-long autonomous projects,\" the company said. Mythos 5 is Anthropic's current cutting-edge model, but the AI lab has limited availability to a select group of companies and organizat",
-        "image": "https://s.yimg.com/lo/mysterio/api/ED649306CA8E757F21286EF832CF0ADE7B8DD00949636A750C3414BAF1804D46/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F836c3654-d573-4758-8156-4e061678fe5e",
-        "source": "Finance",
-        "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-opus-5-model-as-company-preps-for-ipo-later-this-year-170000070.html",
         "date": "24 July 2026"
       }
     ],
@@ -914,13 +914,6 @@
   },
   "hotNews": [
     {
-      "title": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-      "title_en": "Anthropic, ChatGPT & Gemini AI Safety Tests Exposed — What Really Happened - My Living AI",
-      "source": "Mylivingai",
-      "url": "https://www.mylivingai.com/anthropic-chatgpt-gemini-ai-safety-tests-exposed-what-really-happened/",
-      "date": "24 July 2026"
-    },
-    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -928,11 +921,18 @@
       "date": "05 June 2026"
     },
     {
-      "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-      "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-      "source": "Finance",
-      "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-opus-5-model-as-company-preps-for-ipo-later-this-year-170000070.html",
-      "date": "24 July 2026"
+      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "source": "Republicworld",
+      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
+      "date": "10 June 2026"
+    },
+    {
+      "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "source": "Pricepertoken",
+      "url": "https://pricepertoken.com/news/model-releases",
+      "date": "23 July 2026"
     }
   ]
 }
