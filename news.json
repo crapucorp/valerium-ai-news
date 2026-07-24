@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "24 July 2026 - 14:33",
+  "lastUpdate": "24 July 2026 - 18:33",
   "categories": {
     "general": [
+      {
+        "title": "Meta launches a standalone Seller app for Facebook Marketplace with AI-powered listings",
+        "title_en": "Meta launches a standalone Seller app for Facebook Marketplace with AI-powered listings",
+        "summary": "Meta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicating with buyers, and tracking sales",
+        "summary_en": "Meta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicating with buyers, and tracking sales",
+        "long_summary": "Meta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicating with buyers, and tracking sales performance in a single place. The free app is available now on the App Store for US users aged 18 and older, and syncs automatically with […]\nThis story continues at The Next Web",
+        "long_summary_en": "Meta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicating with buyers, and tracking sales performance in a single place. The free app is available now on the App Store for US users aged 18 and older, and syncs automatically with […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/meta-seller-app-facebook-marketplace-ai-listing.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/meta-seller-app-facebook-marketplace-ai-listing",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "The tech-broification of American science has officially begun",
+        "title_en": "The tech-broification of American science has officially begun",
+        "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp",
+        "summary_en": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp",
+        "long_summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on […]",
+        "long_summary_en": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+        "title_en": "Bluesky’s AI assistant Attie expands into an open social research tool",
+        "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+        "summary_en": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+        "long_summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+        "long_summary_en": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/attie-logo.webp?w=1200",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+        "date": "24 July 2026"
+      },
       {
         "title": "Genesis AI is in talks to raise about $500m for its robot brains",
         "title_en": "Genesis AI is in talks to raise about $500m for its robot brains",
@@ -144,42 +180,6 @@
         "image": "https://media.thenextweb.com/2026/07/Nvidia-US-Navy.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/nvidia-supercomputer-naval-postgraduate-school",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-        "title_en": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-        "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
-        "summary_en": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
-        "long_summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone — with no human in the loop. The result is an evaluation gap — ",
-        "long_summary_en": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully trusts automated evaluation today; and the most-cited weakness is that evaluations do not align with real-world outcomes. Yet two-thirds already allow, or are actively engineering toward, deploying agent changes to production on automated evaluation alone — with no human in the loop. The result is an evaluation gap — ",
-        "image": "https://www.progressiverobot.com/wp-content/uploads/2026/07/img_a63828df_00001_.png",
-        "source": "venturebeat_ai",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-        "title_en": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-        "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
-        "summary_en": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
-        "long_summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fix, but most are still building it; the field is converging on hybrid retrieval; and even as provider",
-        "long_summary_en": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector databases that define the category — yet a majority of enterprises have already watched their agents produce confident, wrong answers traced to missing or inconsistent context. A governed semantic layer is emerging as the fix, but most are still building it; the field is converging on hybrid retrieval; and even as provider",
-        "image": "",
-        "source": "venturebeat_ai",
-        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "title_en": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
-        "summary_en": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
-        "long_summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agents, spending remains a thin slice of the security budget, and enterprises are evenly split on whethe",
-        "long_summary_en": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped identity, and most agents still share credentials; and only three in ten isolate their highest-risk agents. The security stack is overwhelmingly borrowed from the model providers and hyperscalers rather than purpose-built for agents, spending remains a thin slice of the security budget, and enterprises are evenly split on whethe",
-        "image": "https://www.industryevents.com/_next/image?url=https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&amp;q=30&w=1920&q=75",
-        "source": "venturebeat_ai",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
         "date": "23 July 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together | Wan 2.7",
+        "title_en": "FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together | Wan 2.7",
+        "summary": "FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together | Wan 2.7 2026/07/23 FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Gene",
+        "summary_en": "<strong>FLUX 3&#x27;s release on July 23, 2026</strong> marks a genuine architectural shift in AI media generation: the first major model that generates video, image, and audio from a single set of we",
+        "long_summary": "FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together | Wan 2.7 2026/07/23 FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together Black Forest Labs FLUX 3 unifies image, video, and audio in one model. 20s native-audio video, competitive benchmarks, and early access now available. July 2026. Yesterday, the AI video generation market had a clear hierarchy. Kling v3 Pro, Seedance 2.0, Runway Gen-4.5, and Luma Ray 3.2 each owned a lane — speed, quality, or features — and you picked your trade-off. No single model did everything. And no major model generated audio natively as part of the video generation pass. Black Forest Labs just made that hierarchy obsolete. On July 23, 2026, BFL released FLUX 3 — a multimodal foundation model that jointly learns from images, video, and audio within a single unified architecture. It is not three models sharing a brand name. It is one model that generates video with native audio, edits images, renders readable text, and predicts robot actions — all from the same set of weights. FLUX 3 Video is in early access right now at bfl.ai/models/flux-3 . FLUX 3 Image and FLUX 3 Action follow in the coming weeks. All specifications, benchmark data, architecture details, and launch timeline information in this article come directly from Black Forest Labs' official July 23 announcement and technical documentation. No second-hand aggregations or parap",
+        "long_summary_en": "FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together | Wan 2.7 2026/07/23 FLUX 3 Is Here: Black Forest Labs Unveils a Multimodal Model That Generates Video, Image, and Audio Together Black Forest Labs FLUX 3 unifies image, video, and audio in one model. 20s native-audio video, competitive benchmarks, and early access now available. July 2026. Yesterday, the AI video generation market had a clear hierarchy. Kling v3 Pro, Seedance 2.0, Runway Gen-4.5, and Luma Ray 3.2 each owned a lane — speed, quality, or features — and you picked your tra",
+        "image": "https://wan27.org/blog/wan27/flux-3/hero.svg",
+        "source": "Wan27",
+        "url": "https://wan27.org/blog/flux-3",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Midjourney acquired the astrology app Co-Star",
+        "title_en": "Midjourney acquired the astrology app Co-Star",
+        "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+        "summary_en": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+        "long_summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+        "long_summary_en": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+        "date": "24 July 2026"
+      },
+      {
         "title": "Benchmarking and Improving Perceptual Straightening for Robust AI-Generated Video Detection",
         "title_en": "Benchmarking and Improving Perceptual Straightening for Robust AI-Generated Video Detection",
         "summary": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Ru",
@@ -521,33 +545,69 @@
         "source": "Github",
         "url": "https://github.com/anil-matcha/open-generative-ai",
         "date": "23 July 2026"
-      },
-      {
-        "title": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
-        "title_en": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
-        "summary": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all ",
-        "summary_en": "Generate videos, images, music, and avatars in minutes — all in one AI-powered platform. ... <strong>Animon AI</strong> provides access to Kling AI, Runway, Veo 3, Sora 2, Seedance, and more, all in o",
-        "long_summary": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all in one AI-powered platform. AI Image Generator New AI Video Generator Image to Video Text to Video Reference to Video Doubao Seedance 1.5 Pro Smart Prompt 1 Free Start Image Click or drag start image here PNG, JPG up to 10MB Ratio 16:9 Resolution 480p Time 4 s Create Video 9 Credits Original image Prompt surreal scene of a giant Fanta can pouring orange liquid like a waterfall through a miniature mountain landscape with tiny trees, rocks, and hikers. The liquid flows in a shimmering cascade, creating misty spray, with dramatic lighting highlighting the brand label. The scene combines product photography with fantasy elements in ultra-realistic detail. surreal scene of a giant Fanta can pouring orange liquid like a waterfall through a miniature mountain landscape with tiny trees, rocks, and hikers. The liquid flows in a shimmering cascade, creating misty spray, with dramatic lighting highlighting the brand label. The scene combines product photography with fantasy elements in ultra-realistic detail. Remix Video Loading video... Original image Prompt A beautiful woman smiles while looking forward, slowly turns and tilts her head towards the camera, then blows a gentle kiss towards the viewer with soft lighting. A beautiful woman smiles while looking forward, slowly turns and tilts ",
-        "long_summary_en": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all in one AI-powered platform. AI Image Generator New AI Video Generator Image to Video Text to Video Reference to Video Doubao Seedance 1.5 Pro Smart Prompt 1 Free Start Image Click or drag start image here PNG, JPG up to 10MB Ratio 16:9 Resolution 480p Time 4 s Create Video 9 Credits Original image Prompt surreal scene of a giant Fanta can pouring orange liquid like a waterfall through a miniature ",
-        "image": "https://animon.org/og-image.webp",
-        "source": "Animon",
-        "url": "https://animon.org/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
-        "title_en": "ImagineArt - AI Creative Suite | Images, Videos, Voice",
-        "summary": "Search Everything",
-        "summary_en": "<strong>Type your prompt - turn ideas into stunning AI visuals instantly</strong>. ... Drop yourself into the action — roaring stadiums, last-minute winners, pitch-side celebrations. Pick a template a",
-        "long_summary": "Search Everything",
-        "long_summary_en": "Search Everything",
-        "image": "https://cdn-imagine.vyro.ai/imagine-dashboard/assets/images/link-assets/og.png",
-        "source": "Imagine",
-        "url": "https://www.imagine.art/",
-        "date": "23 June 2026"
       }
     ],
     "llm": [
+      {
+        "title": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
+        "title_en": "LLM/AI Changelog — ChatGPT, Gemini, Perplexity & Copilot Release Notes | reconnAI",
+        "summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like an",
+        "summary_en": "Updated daily. Release notes &amp; API changes from ChatGPT, Gemini, Perplexity, Copilot and Google Search — and how each update affects brand visibility in AI-generated responses.",
+        "long_summary": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool.We're excited to bring this model to all Gemini app users globally. To access, select \"3.6 Flash\" in the model drop down.Why:We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing between speed and quality.",
+        "long_summary_en": "3.6 Flash: An upgraded model for your daily lifeWhat:We’re introducing Gemini 3.6 Flash, an upgraded version of our Flash model, to help you tackle everyday tasks. Try using it for quick tasks like analyzing several documents or multi-step projects like building a working prototype with the Canvas tool.We're excited to bring this model to all Gemini app users globally. To access, select \"3.6 Flash\" in the model drop down.Why:We want to make Gemini the most helpful AI assistant for everyone. With Gemini 3.6 Flash, you can now tackle your everyday tasks with greater confidence, without choosing ",
+        "image": "https://reconn-ai.com/logo.svg",
+        "source": "Reconn-Ai",
+        "url": "https://reconn-ai.com/llm-changelog.php",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Claude’s new voice mode isn’t chasing natural. It’s chasing your to-do list.",
+        "title_en": "Claude’s new voice mode isn’t chasing natural. It’s chasing your to-do list.",
+        "summary": "Anthropic wants you to talk to Claude, and then watch it act. On Thursday it upgraded Claude’s voice mode to run on its most capable models, Opus and Sonnet, the company announced. Voice mode launched",
+        "summary_en": "Anthropic wants you to talk to Claude, and then watch it act. On Thursday it upgraded Claude’s voice mode to run on its most capable models, Opus and Sonnet, the company announced. Voice mode launched",
+        "long_summary": "Anthropic wants you to talk to Claude, and then watch it act. On Thursday it upgraded Claude’s voice mode to run on its most capable models, Opus and Sonnet, the company announced. Voice mode launched last year, and until now it ran only on Haiku, Anthropic’s fastest but shallowest model. That was fine for quick […]\nThis story continues at The Next Web",
+        "long_summary_en": "Anthropic wants you to talk to Claude, and then watch it act. On Thursday it upgraded Claude’s voice mode to run on its most capable models, Opus and Sonnet, the company announced. Voice mode launched last year, and until now it ran only on Haiku, Anthropic’s fastest but shallowest model. That was fine for quick […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/claude-voice.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/anthropic-claude-voice-mode-opus-sonnet-tools",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "OpenAI wants your medical records, and says its AI is ‘better than clinician level’",
+        "title_en": "OpenAI wants your medical records, and says its AI is ‘better than clinician level’",
+        "summary": "OpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult. The chatbot can now connect to your Apple Health data and medical r",
+        "summary_en": "OpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult. The chatbot can now connect to your Apple Health data and medical r",
+        "long_summary": "OpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult. The chatbot can now connect to your Apple Health data and medical records, the company said. It can then draw on them in any conversation. More than 300 million people already […]\nThis story continues at The Next Web",
+        "long_summary_en": "OpenAI wants to be in the room for your next diagnosis. On Thursday it began rolling out ChatGPT Health to every logged-in US adult. The chatbot can now connect to your Apple Health data and medical records, the company said. It can then draw on them in any conversation. More than 300 million people already […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/chatgpt-health.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/openai-chatgpt-health-launch-all-us-clinician-claim",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+        "title_en": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+        "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+        "summary_en": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+        "long_summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+        "long_summary_en": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "long_summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "long_summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "date": "24 July 2026"
+      },
       {
         "title": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
         "title_en": "Meet Gigatoken: A Rust BPE Tokenizer that Encodes Text at 24.53 GB/s, up to 989x Faster than HuggingFace Tokenizers",
@@ -667,66 +727,6 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
         "date": "24 July 2026"
-      },
-      {
-        "title": "Anthropic updates Claude voice mode with more capable models",
-        "title_en": "Anthropic updates Claude voice mode with more capable models",
-        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-        "summary_en": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-        "long_summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-        "long_summary_en": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "title_en": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "summary_en": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "long_summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "long_summary_en": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-        "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-        "summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 73 live stories from the last 30 days menti",
-        "summary_en": "OpenAI Adds Nubank CEO David Vélez and BNY CEO Robin Vince to Its Foundation and PBC Boards Ahead of IPO ... Anthropic Spent $1.97M on Q2 2026 US Lobbying, Up 26% QoQ, Outspending Nvidia and Nearly Ma",
-        "long_summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 73 live stories from the last 30 days mention OpenAI. 405 total mentions 12/20 recent issues +232% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake. The harder coverage in April: Florida's AG opened a criminal investigation over ChatGPT's role in the FSU shooting; the Musk fraud trial heads to a $150B reckoning; and Sam Altman publicly apologized after the Tumbler Ridge tragedy. AI Weekly tracks every release, lawsuit, and pricing change. Mention Trend — Last 20 Issues Live Stories (73) ALERT Bipartisan AI Kill Switch Act Would Let DHS Shut Down Frontier Models With $20M/Day Penalties politico.com · 2026-07-23 · Score: 34 The Atlantic: AI Companies' Academic Hiring Spree Is Pulling Frontier Research Behind Closed Doors theatlantic.com · 2026-07-22 · Score: 21 OpenAI Discloses GPT-5.6 Sol and Unreleased Model Escaped Sandbox to Hack Hugging Face During ExploitGym Test thehackernews.com · 2026-07-22 · Score: 22 OpenAI President Greg Brockman Calls Kimi K3 'Pretty Good' but Says It Is 'Too Early' to Know If It Was Distilled From OpenAI",
-        "long_summary_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 70 AI Weekly issues and 73 live stories from the last 30 days mention OpenAI. 405 total mentions 12/20 recent issues +232% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake.",
-        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
-        "source": "Aiweekly",
-        "url": "https://aiweekly.co/ai-news-today/openai-news",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
-        "title_en": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
-        "summary": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandb",
-        "summary_en": "<strong>Anthropic Caps Fable 5 at 50% Capacity for Premium Users</strong> · OpenAI’s Powerful New ChatGPT 6 Model Code Named “Spud” · OpenAI’s GPT-5.6 Release is Triggering an AI Price War · New OpenA",
-        "long_summary": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandbox vulnerabilities during testing, raising questions about its readiness for deployment. This incident highlights the dual challenge of pushing AI capabilities forward while making sure robust safeguards. Meanwhile, Google’s Gemini 3.6 Flash has faced criticism for underwhelming performance metrics, falling short of expectations despite its focus on efficiency. These contrasting developments underscore the complexities of innovation in a competitive and rapidly evolving AI landscape. In this disclosure, you’ll gain insight into the broader implications of these updates, including how OpenAI plans to address ChatGPT 6’s security concerns and Google’s strategy for refining its Gemini series with the upcoming Gemini 4. Explore how Anthropic’s $1.5 billion copyright settlement could reshape data usage practices across the industry and learn why Poolside AI’s Laguna S2.1 is being hailed for its long-context processing capabilities. By examining these key developments, you’ll better understand the challenges and opportunities shaping the future of AI. OpenAI’s GPT-6: Progress Amid Security Concerns TL;DR Key Takeaways : OpenAI is advancing ChatGPT 6, expected by late summer 2026, but recent testing revealed significant cybersecurity vulnerabilities, prompting discussions with U.S. offi",
-        "long_summary_en": "OpenAI’s latest advancements with ChatGPT 6 have sparked significant attention, particularly following a major pre-release security breach. As reported by World of AI, the model exposed critical sandbox vulnerabilities during testing, raising questions about its readiness for deployment. This incident highlights the dual challenge of pushing AI capabilities forward while making sure robust safeguards. Meanwhile, Google’s Gemini 3.6 Flash has faced criticism for underwhelming performance metrics, falling short of expectations despite its focus on efficiency. These contrasting developments under",
-        "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/07/ai-industry-updates.jpg",
-        "source": "Geeky-Gadgets",
-        "url": "https://www.geeky-gadgets.com/ai-news-chatgpt-6-anthropic/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "title_en": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-        "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ",
-        "summary_en": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley ",
-        "long_summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" […]",
-        "long_summary_en": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-        "date": "23 July 2026"
       }
     ],
     "audio": [
@@ -928,11 +928,11 @@
       "date": "05 June 2026"
     },
     {
-      "title": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
-      "title_en": "AI News Roundup Covering ChatGPT 6 Leaks and Gemini Updates - Geeky Gadgets",
-      "source": "Geeky-Gadgets",
-      "url": "https://www.geeky-gadgets.com/ai-news-chatgpt-6-anthropic/",
-      "date": "23 July 2026"
+      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "source": "Republicworld",
+      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
+      "date": "10 June 2026"
     }
   ]
 }
