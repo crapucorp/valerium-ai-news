@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 01:13",
+  "lastUpdate": "25 July 2026 - 01:43",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
+        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
+        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
+        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
+        "image": "https://preview.redd.it/z57e32gij4bh1.png?width=140&height=100&auto=webp&s=b4e06f151c9a1431997f794c83f8d29e4df107a3",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Anthropic launches Opus 5",
         "title_en": "Anthropic launches Opus 5",
         "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
@@ -714,18 +726,6 @@
         "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
         "source": "Apnews",
         "url": "https://apnews.com/hub/artificial-intelligence",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "ANALYSISA new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
         "date": "24 July 2026"
       }
     ],
