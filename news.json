@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "You Didn’t Get the AI Model You Paid For",
+        "title_en": "You Didn’t Get the AI Model You Paid For",
+        "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
+        "summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
+        "long_summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
+        "long_summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
+        "image": "",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
+        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
+        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
+        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-52-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Claude’s voice mode is now available for Opus and Sonnet",
+        "title_en": "Claude’s voice mode is now available for Opus and Sonnet",
+        "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending i",
+        "summary_en": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending i",
+        "long_summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]",
+        "long_summary_en": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "date": "24 July 2026"
+      },
+      {
         "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
         "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
         "summary": "reuters.com Please enable JS and disable any ad blocker",
@@ -690,42 +726,6 @@
         "image": "https://dnyuz.com/wp-content/uploads/2026/07/00techfix-facebookJumbo-1024x536.jpg",
         "source": "Nytimes",
         "url": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Anthropic's Claude Opus 5 Set for July 23 Debut, Joining GPT and Chinese AI in Three-Way Battle — BigGo Finance",
-        "title_en": "Anthropic's Claude Opus 5 Set for July 23 Debut, Joining GPT and Chinese AI in Three-Way Battle — BigGo Finance",
-        "summary": "‌",
-        "summary_en": "David Sacks, former White House AI czar, called the Kimi K3 launch &quot;concerning,&quot; while OpenAI and Anthropic executives have argued that the spread of cheap Chinese models in the U.S. poses a",
-        "long_summary": "‌",
-        "long_summary_en": "‌",
-        "image": "https://img.biggo.com/hVl3UV-kOSC8tLsW8YZJKwT6TUrLgEOmbdB72LZilwE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzhmMzE0ZDZlLTMxN2ItNDBlMy1hNTkxLTU2N2RkZWM0YzA1NF8xNzg0ODE4NzY5X2RlZmF1bHQud2VicA.jpg",
-        "source": "Finance",
-        "url": "https://finance.biggo.com/news/8f314d6e-317b-40e3-a591-567ddec4c054",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "LLM News Today (July 2026) – AI Model Releases",
-        "title_en": "LLM News Today (July 2026) – AI Model Releases",
-        "summary": "Comparison · Developer Guide Claude Code vs Cursor: The Ultimate Comparison Claude Code vs Cursor in 2026: compare workflow, agents, pricing, and why LLM Stats Playground is the fast, affordable codin",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Comparison · Developer Guide Claude Code vs Cursor: The Ultimate Comparison Claude Code vs Cursor in 2026: compare workflow, agents, pricing, and why LLM Stats Playground is the fast, affordable coding choice. Jonathan Chavez · Jul 17, 2026 · 9 min",
-        "long_summary_en": "Comparison · Developer Guide Claude Code vs Cursor: The Ultimate Comparison Claude Code vs Cursor in 2026: compare workflow, agents, pricing, and why LLM Stats Playground is the fast, affordable coding choice. Jonathan Chavez · Jul 17, 2026 · 9 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
-        "title_en": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>Organizational friction and employee departures are complicating the race to release Gemini 3.5 Pro</strong>.",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://www.varindia.com/storage/news/2026/07/AEjAb7bHlHs4ug7oIGYWUafhFJJmk8zP1KdqAh4c.jpg",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
         "date": "24 July 2026"
       }
     ],
