@@ -3,6 +3,30 @@
   "categories": {
     "general": [
       {
+        "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+        "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+        "summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "summary_en": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
+        "long_summary": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "long_summary_en": "bg_error_lines circle_dots 403 - Forbidden Access to this page is forbidden. clouds_shape",
+        "image": "https://ca-times.brightspotcdn.com/dims4/default/27f12cb/2147483647/strip/true/crop/734x489+316+0/resize/840x560!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/56/bf/b3a7ef91447a8b77726926746be3/banking-technology.jpg",
+        "source": "Artificialintelligence-News",
+        "url": "https://www.artificialintelligence-news.com/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Artificial intelligence - BBC News",
+        "title_en": "Artificial intelligence - BBC News",
+        "summary": "Artificial intelligence 7 hrs ago Man sues ChatGPT for near-fatal medical advice A man who claims medical advice from ChatGPT \"brought him to the brink of death\" has sued OpenAI, the company behind th",
+        "summary_en": "<strong>A new bill would let the US government order the shutdown of AI models that pose a public threat</strong>.",
+        "long_summary": "Artificial intelligence 7 hrs ago Man sues ChatGPT for near-fatal medical advice A man who claims medical advice from ChatGPT \"brought him to the brink of death\" has sued OpenAI, the company behind the popular chatbot, 7 hrs ago 8 hrs ago Gallery defends decision to use AI images in exhibition Local artists have been critical about the inclusion of the AI artwork at the exhibit. 8 hrs ago 19 hrs ago China's Moonshot AI stole from Anthropic, Trump tech adviser says The allegations come as Chinese AI companies are facing increased US government scrutiny. 19 hrs ago 22 hrs ago Lawmakers push for AI 'kill switch' after OpenAI models go rogue A new bill would let the US government order the shutdown of AI models that pose a public threat. 22 hrs ago 22 hrs ago Google and Tesla shares plunge as AI spending rattles markets As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear. 22 hrs ago 1 day ago ChatGPT medical advice brought man 'to brink of death', lawsuit alleges An American man sues OpenAI and its founder Sam Altman, claiming the popular chatbot \"repeatedly misdiagnosed\" him. 1 day ago 1 day ago 'Let's enjoy the ride' says Elon Musk, as AI fears mount Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist. 1 day ago 1 day ago AI has ruined cute animal videos AI-generated animal videos are sweet, until you realise the joy, like the animal, was never really ther",
+        "long_summary_en": "Artificial intelligence 7 hrs ago Man sues ChatGPT for near-fatal medical advice A man who claims medical advice from ChatGPT \"brought him to the brink of death\" has sued OpenAI, the company behind the popular chatbot, 7 hrs ago 8 hrs ago Gallery defends decision to use AI images in exhibition Local artists have been critical about the inclusion of the AI artwork at the exhibit. 8 hrs ago 19 hrs ago China's Moonshot AI stole from Anthropic, Trump tech adviser says The allegations come as Chinese AI companies are facing increased US government scrutiny. 19 hrs ago 22 hrs ago Lawmakers push for ",
+        "image": "https://external-preview.redd.it/bbc-study-finds-ai-chatbots-still-get-news-wrong-45-of-the-v0-NPLe2VO4wgJI2PqGDzJk-XbA4HyFhw20Vr2mGnE_WxA.jpeg?width=640&crop=smart&auto=webp&s=f8b63ced26181b755037c46aa6716a9f823d685e",
+        "source": "Bbc",
+        "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
+        "date": "24 July 2026"
+      },
+      {
         "title": "Dead internet theory becomes measurable fact as AI agents flood the web",
         "title_en": "Dead internet theory becomes measurable fact as AI agents flood the web",
         "summary": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 perce",
@@ -157,30 +181,6 @@
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
         "date": "24 July 2026"
-      },
-      {
-        "title": "Nvidia rival Etched doubles its value to $10.3B in seven months",
-        "title_en": "Nvidia rival Etched doubles its value to $10.3B in seven months",
-        "summary": "Etched has a simple pitch. Nvidia builds chips that do everything. Etched builds chips that do one thing, inference, and claims to do it far better. On Thursday the bet got a lot more money behind it.",
-        "summary_en": "Etched has a simple pitch. Nvidia builds chips that do everything. Etched builds chips that do one thing, inference, and claims to do it far better. On Thursday the bet got a lot more money behind it.",
-        "long_summary": "Etched has a simple pitch. Nvidia builds chips that do everything. Etched builds chips that do one thing, inference, and claims to do it far better. On Thursday the bet got a lot more money behind it. The startup raised $300 million in a Series C round that values it at $10.3 billion. Sequoia led […]\nThis story continues at The Next Web",
-        "long_summary_en": "Etched has a simple pitch. Nvidia builds chips that do everything. Etched builds chips that do one thing, inference, and claims to do it far better. On Thursday the bet got a lot more money behind it. The startup raised $300 million in a Series C round that values it at $10.3 billion. Sequoia led […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/etched-team.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/etched-300m-series-c-10-3b-valuation-sequoia-sk-hynix",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "Cambridge built a planet-scale AI model, and skipped Nvidia to do it",
-        "title_en": "Cambridge built a planet-scale AI model, and skipped Nvidia to do it",
-        "summary": "The AI industry runs on Nvidia. A team at the University of Cambridge has just shown it does not have to. They have built a planetary-scale foundation model for the Earth, and every chip that trained ",
-        "summary_en": "The AI industry runs on Nvidia. A team at the University of Cambridge has just shown it does not have to. They have built a planetary-scale foundation model for the Earth, and every chip that trained ",
-        "long_summary": "The AI industry runs on Nvidia. A team at the University of Cambridge has just shown it does not have to. They have built a planetary-scale foundation model for the Earth, and every chip that trained and ran it came from AMD. The model is called TESSERA, and its idea is borrowed from large language […]\nThis story continues at The Next Web",
-        "long_summary_en": "The AI industry runs on Nvidia. A team at the University of Cambridge has just shown it does not have to. They have built a planetary-scale foundation model for the Earth, and every chip that trained and ran it came from AMD. The model is called TESSERA, and its idea is borrowed from large language […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2025/07/Untitled-design-4.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/tessera-cambridge-earth-observation-ai-amd-vultr",
-        "date": "23 July 2026"
       }
     ],
     "image": [
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
+        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
+        "summary": "reuters.com Please enable JS and disable any ad blocker",
+        "summary_en": "ANALYSISA new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
+        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
+        "image": "https://images.indianexpress.com/2026/02/Nvidia-CEO-Jensen-Huang-reuters-file-photo_20260219001928.jpg?w=320",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/",
+        "date": "24 July 2026"
+      },
+      {
+        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
+        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
+        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
+        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
+        "image": "https://preview.redd.it/z57e32gij4bh1.png?width=140&height=100&auto=webp&s=b4e06f151c9a1431997f794c83f8d29e4df107a3",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+        "date": "24 July 2026"
+      },
+      {
         "title": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
         "title_en": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
         "summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launch",
@@ -702,30 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Anthropic launches Opus 5",
-        "title_en": "Anthropic launches Opus 5",
-        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
-        "summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
-        "long_summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
-        "long_summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "You Didn’t Get the AI Model You Paid For",
-        "title_en": "You Didn’t Get the AI Model You Paid For",
-        "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
-        "summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
-        "long_summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
-        "long_summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
-        "image": "",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
         "date": "24 July 2026"
       }
     ],
