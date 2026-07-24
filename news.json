@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "24 July 2026 - 20:07",
+  "lastUpdate": "24 July 2026 - 20:38",
   "categories": {
     "general": [
+      {
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "title_en": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
+        "summary_en": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
+        "long_summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+        "long_summary_en": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+        "date": "24 July 2026"
+      },
       {
         "title": "Amazon just shut its AGI Lab, and quit a race it never led",
         "title_en": "Amazon just shut its AGI Lab, and quit a race it never led",
@@ -168,18 +180,6 @@
         "image": "https://media.thenextweb.com/2026/07/apple-store-app-ai-shopping-assistant-privacy-policy.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/apple-store-app-ai-shopping-assistant-privacy-policy",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "Nvidia’s open-source simulator trains surgical robots in under two minutes",
-        "title_en": "Nvidia’s open-source simulator trains surgical robots in under two minutes",
-        "summary": "The hard part of medical robotics is not the robot. It is the practice. A surgical system needs thousands of attempts to learn a delicate task, and you cannot run those on real patients. Nvidia thinks",
-        "summary_en": "The hard part of medical robotics is not the robot. It is the practice. A surgical system needs thousands of attempts to learn a delicate task, and you cannot run those on real patients. Nvidia thinks",
-        "long_summary": "The hard part of medical robotics is not the robot. It is the practice. A surgical system needs thousands of attempts to learn a delicate task, and you cannot run those on real patients. Nvidia thinks the answer is to let the robot rehearse inside a simulated body, millions of times over. The company has […]\nThis story continues at The Next Web",
-        "long_summary_en": "The hard part of medical robotics is not the robot. It is the practice. A surgical system needs thousands of attempts to learn a delicate task, and you cannot run those on real patients. Nvidia thinks the answer is to let the robot rehearse inside a simulated body, millions of times over. The company has […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2025/02/Untitled-design-4-1.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/nvidia-isaac-medical-physics-simulation-surgical-robots",
         "date": "23 July 2026"
       }
     ],
