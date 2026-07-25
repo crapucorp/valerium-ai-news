@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "25 July 2026 - 03:44",
+  "lastUpdate": "25 July 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+        "title_en": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+        "summary": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration a",
+        "summary_en": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration a",
+        "long_summary": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent systems.\nThe post Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse appeared first on MarkTechPost.",
+        "long_summary_en": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment setup and custom skill creation to MCP integration and using SQLite to manage agent lineage—empowering you to build more efficient, reusable agent systems.\nThe post Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-56-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Samsung signs a $200 billion chip deal with Broadcom covering memory, foundry and advanced packaging through 2030",
+        "title_en": "Samsung signs a $200 billion chip deal with Broadcom covering memory, foundry and advanced packaging through 2030",
+        "summary": "Samsung Electronics and Broadcom have signed a memorandum of understanding worth more than $200 billion spanning memory chips, foundry manufacturing and advanced packaging for artificial intelligence ",
+        "summary_en": "Samsung Electronics and Broadcom have signed a memorandum of understanding worth more than $200 billion spanning memory chips, foundry manufacturing and advanced packaging for artificial intelligence ",
+        "long_summary": "Samsung Electronics and Broadcom have signed a memorandum of understanding worth more than $200 billion spanning memory chips, foundry manufacturing and advanced packaging for artificial intelligence semiconductors. The deal, announced on Friday at an AI summit in San Francisco, runs for five years through 2030 and covers some of the most critical layers of the […]\nThis story continues at The Next Web",
+        "long_summary_en": "Samsung Electronics and Broadcom have signed a memorandum of understanding worth more than $200 billion spanning memory chips, foundry manufacturing and advanced packaging for artificial intelligence semiconductors. The deal, announced on Friday at an AI summit in San Francisco, runs for five years through 2030 and covers some of the most critical layers of the […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/samsung-broadcom-200-billion-chip-deal-ai-memory-foundry.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/samsung-broadcom-200-billion-chip-deal-ai-memory-foundry",
+        "date": "25 July 2026"
+      },
       {
         "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
         "title_en": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
@@ -156,30 +180,6 @@
         "image": "https://media.thenextweb.com/2026/05/AMD.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/amd-foundation-eric-trump-humanoid-robots",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-        "title_en": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-        "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-        "summary_en": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-        "long_summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-        "long_summary_en": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-        "title_en": "AMD takes on Nvidia with its Helios AI rack-scale system",
-        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-        "summary_en": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-        "long_summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-        "long_summary_en": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
         "date": "24 July 2026"
       }
     ],
@@ -367,6 +367,42 @@
     ],
     "video": [
       {
+        "title": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
+        "title_en": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
+        "summary": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all ",
+        "summary_en": "<strong>Animon AI provides access to Kling AI, Runway, Veo 3, Sora 2, Seedance, and more, all in one place</strong>. Create stunning videos using the best AI models available. ... Loading video...",
+        "long_summary": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all in one AI-powered platform. AI Image Generator New AI Video Generator Image to Video Text to Video Reference to Video Doubao Seedance 1.5 Pro Smart Prompt 1 Free Start Image Click or drag start image here PNG, JPG up to 10MB Ratio 16:9 Resolution 480p Time 4 s Create Video 9 Credits Choose from a Variety of Cutting-edge AI Models Animon AI provides access to Kling AI, Runway, Veo 3, Sora 2, Seedance, and more, all in one place. Create stunning videos using the best AI models available. Kling Luma Runway Seaweed Hailuo Jimeng Veo 3 Gemini Vidu Midjourney Sora 2 Flux Wanx Seedance Loading video... Text to Video: Describe It, Create It Simply type your idea and watch AI transform it into stunning video content. Powered by Veo3, Sora 2, and more. Perfect for ads, social media, and storytelling—no video editing skills required. Try Text to Video → Image to Video: One-Click Animation Transform any static image into a captivating video. Our AI understands your photos and adds cinematic motion, camera movements, and natural flow. Upload once, amaze forever. Animate Your Images → Loading video... Loading video... Magical Effects, Zero Editing Apply stunning visual effects instantly. From cinematic transitions to artistic filters—transform your content with a single click. Explore Effects ",
+        "long_summary_en": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all in one AI-powered platform. AI Image Generator New AI Video Generator Image to Video Text to Video Reference to Video Doubao Seedance 1.5 Pro Smart Prompt 1 Free Start Image Click or drag start image here PNG, JPG up to 10MB Ratio 16:9 Resolution 480p Time 4 s Create Video 9 Credits Choose from a Variety of Cutting-edge AI Models Animon AI provides access to Kling AI, Runway, Veo 3, Sora 2, Seedan",
+        "image": "https://animon.org/og-image.webp",
+        "source": "Animon",
+        "url": "https://animon.org/",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Higgsfield MCP: Sora, Veo, Kling from Claude Code",
+        "title_en": "Higgsfield MCP: Sora, Veo, Kling from Claude Code",
+        "summary": "MCP & Extensions Higgsfield MCP: Generate AI Images and Video from Claude Code Connect Higgsfield MCP to Claude Code. Generate ad creatives, product photos, and 4K video from 30+ models: Sora 2, Veo 3",
+        "summary_en": "Higgsfield exposes Sora 2 generation, not the full portal. Standalone Veo is right when you are deep in Google&#x27;s creative stack (YouTube assets, Workspace integration) and single-vendor billing s",
+        "long_summary": "MCP & Extensions Higgsfield MCP: Generate AI Images and Video from Claude Code Connect Higgsfield MCP to Claude Code. Generate ad creatives, product photos, and 4K video from 30+ models: Sora 2, Veo 3.1, Kling 3.0. Stop configuring. Start shipping. Everything you're reading about and more.. Agentic Orchestration Kit for Claude Code. Get Claude Fast Problem : A modern paid-media test cycle needs five hooks, three aspect ratios, and a fresh thumbnail per ad set. Building that in a creative tool means twelve browser tabs and four logins. Building it in Claude Code with Higgsfield MCP means one prompt and a polling loop. Quick Win : Add the Higgsfield connector once, then ask Claude to \"generate three 9:16 product hero shots with the headline 'Sleep cooler tonight' on the bottle and four 15-second TikTok videos using Kling 3.0.\" The agent picks the right model, sends the job, polls until ready, and returns URLs. Higgsfield shipped its official MCP server on April 30, 2026, exposing 30+ image and video generation models through a single hosted endpoint. For anyone running paid creative, this is the missing layer between the prompt in your head and the asset on your hard drive. This post covers what launched, how to wire it into Claude Code, which models are worth your credits, and how it fits alongside the official Meta MCP and the Shopify AI Toolkit . What Higgsfield Just Launched Higgsfield is the AI media company behind Soul (photorealism), the Cinema Studio physics simulator, ",
+        "long_summary_en": "MCP & Extensions Higgsfield MCP: Generate AI Images and Video from Claude Code Connect Higgsfield MCP to Claude Code. Generate ad creatives, product photos, and 4K video from 30+ models: Sora 2, Veo 3.1, Kling 3.0. Stop configuring. Start shipping. Everything you're reading about and more.. Agentic Orchestration Kit for Claude Code. Get Claude Fast Problem : A modern paid-media test cycle needs five hooks, three aspect ratios, and a fresh thumbnail per ad set. Building that in a creative tool means twelve browser tabs and four logins. Building it in Claude Code with Higgsfield MCP means one pr",
+        "image": "https://claudefa.st/api/og/tools/mcp-extensions/higgsfield-mcp/image.png?v4",
+        "source": "Claudefa",
+        "url": "https://claudefa.st/blog/tools/mcp-extensions/higgsfield-mcp",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Video generation with Sora | OpenAI API",
+        "title_en": "Video generation with Sora | OpenAI API",
+        "summary": "Explore The Sora 2 video generation models and Videos API are deprecated and will shut down on September 24, 2026. This affects Videos API, sora-2 , sora-2-pro , sora-2-2025-10-06 , sora-2-2025-12-08 ",
+        "summary_en": "<strong>The Sora 2 video generation models and Videos API are deprecated and will shut down on September 24, 2026</strong>. This affects Videos API, sora-2, sora-2-pro, sora-2-2025-10-06, sora-2-2025-",
+        "long_summary": "Explore The Sora 2 video generation models and Videos API are deprecated and will shut down on September 24, 2026. This affects Videos API, sora-2 , sora-2-pro , sora-2-2025-10-06 , sora-2-2025-12-08 , and sora-2-pro-2025-10-06 . See the deprecations page for details. Overview Sora is OpenAI’s newest frontier in generative media – a state-of-the-art video model capable of creating richly detailed, dynamic clips with audio from natural language or images. Built on years of research into multimodal diffusion and trained on diverse visual data, Sora brings a deep understanding of 3D space, motion, and scene continuity to text-to-video generation. The Videos API exposes these capabilities to developers for the first time, enabling programmatic creation, extension, editing, and management of videos. You can use it to: Create new videos from prompts. Guide a generation with an image reference. Reuse character assets across multiple generations for stronger visual consistency. Continue a completed clip with video extensions. Edit an existing video with targeted changes. Download finished videos and supporting assets. Submit large offline render queues through the Batch API . Models The second generation Sora model comes in two variants, each tailored for different use cases. Sora 2 sora-2 is designed for speed and flexibility . It’s ideal for the exploration phase, when you’re experimenting with tone, structure, or visual style and need quick feedback rather than perfect fidelity. I",
+        "long_summary_en": "Explore The Sora 2 video generation models and Videos API are deprecated and will shut down on September 24, 2026. This affects Videos API, sora-2 , sora-2-pro , sora-2-2025-10-06 , sora-2-2025-12-08 , and sora-2-pro-2025-10-06 . See the deprecations page for details. Overview Sora is OpenAI’s newest frontier in generative media – a state-of-the-art video model capable of creating richly detailed, dynamic clips with audio from natural language or images. Built on years of research into multimodal diffusion and trained on diverse visual data, Sora brings a deep understanding of 3D space, motion",
+        "image": "https://developers.openai.com/og/api/docs/guides/video-generation.png",
+        "source": "Developers",
+        "url": "https://developers.openai.com/api/docs/guides/video-generation",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Sora 2 Powered TikTok Creator: Studio-Quality Tools | HiggsField",
         "title_en": "Sora 2 Powered TikTok Creator: Studio-Quality Tools | HiggsField",
         "summary": "Step 1 of 3 Type your idea Describe your video idea, paste a link, or give the AI a topic. Our AI script generator will craft the perfect narrative for your TikTok.",
@@ -509,45 +545,57 @@
         "source": "Helpx",
         "url": "https://helpx.adobe.com/firefly/web/firefly-video-editor/generate-videos/generate-videos-using-openai-video-models.html",
         "date": "24 July 2026"
-      },
-      {
-        "title": "Runway launches AI model router as generative media gets crowded",
-        "title_en": "Runway launches AI model router as generative media gets crowded",
-        "summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, ",
-        "summary_en": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, ",
-        "long_summary": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video and audio models alongside […]",
-        "long_summary_en": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev, its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video and audio models alongside […]",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
-        "title_en": "AI Video Generator - Sora, Kling, Veo, Seedance & More | Higgsfield",
-        "summary": "How to Use Agentic AI for Content Creation",
-        "summary_en": "<strong>Instead of filming with a physical camera, you describe what you want (through text prompts, reference images, or both) and the AI produces a video clip</strong>. Modern AI video tools like Hi",
-        "long_summary": "How to Use Agentic AI for Content Creation",
-        "long_summary_en": "How to Use Agentic AI for Content Creation",
-        "image": "https://higgsfield.ai/thumbnail/default.jpg",
-        "source": "Higgsfield",
-        "url": "https://higgsfield.ai/ai-video",
-        "date": "23 July 2026"
-      },
-      {
-        "title": "AI Video Detector & Deepfake Video Checker | Imagera",
-        "title_en": "AI Video Detector & Deepfake Video Checker | Imagera",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>New generators are added within days of public release</strong>.Detection models are trained on outputs from 20+ video and face tools: Sora 2, Google Veo 3, Runway Gen-4 Turbo, Kling...",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "",
-        "source": "Imagera",
-        "url": "https://imagera.ai/detect/ai-video-detector",
-        "date": "23 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Google Releases Gemini 3.6 Flash AI Model July 21",
+        "title_en": "Google Releases Gemini 3.6 Flash AI Model July 21",
+        "summary": "Google DeepMind released three new Gemini models on July 21: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. The announcement refocused the company on practical efficiency rather than chasing f",
+        "summary_en": "<strong>It last saw updates in February 2026</strong>. The silence around a Pro refresh suggests Google is prioritizing shipping smaller, faster models that compete on value rather than raw capability",
+        "long_summary": "Google DeepMind released three new Gemini models on July 21: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. The announcement refocused the company on practical efficiency rather than chasing flagship capability updates. Advertisement Gemini 3.6 Flash is Google’s updated workhorse model, cutting token usage by up to 17% compared to its predecessor while improving coding , knowledge work, and multimodal performance. The cost per token drops, making it attractive for production applications where API spend matters. Three Models, Three Purposes Gemini 3.5 Flash-Lite targets developers who need the cheapest option for straightforward tasks. Lighter models trade raw capability for speed and cost. For many use cases, you don’t need the heaviest hitter. Flash Cyber is specialized for cybersecurity work. Google fine-tuned it for vulnerability discovery and exploitation prevention. The model supports threat modeling, code review, and red-teaming exercises. Access is limited to governments and trusted partners for now. The Flagship Gap Notably absent from the release is an update to Gemini Pro, Google’s flagship model. It last saw updates in February 2026. The silence around a Pro refresh suggests Google is prioritizing shipping smaller, faster models that compete on value rather than raw capability. This mirrors what competitors are doing. OpenAI ships multiple GPT variants. Anthropic offers Claude at different scale tiers. The market is moving toward specialization. Hardware a",
+        "long_summary_en": "Google DeepMind released three new Gemini models on July 21: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. The announcement refocused the company on practical efficiency rather than chasing flagship capability updates. Advertisement Gemini 3.6 Flash is Google’s updated workhorse model, cutting token usage by up to 17% compared to its predecessor while improving coding , knowledge work, and multimodal performance. The cost per token drops, making it attractive for production applications where API spend matters. Three Models, Three Purposes Gemini 3.5 Flash-Lite targets developers who ",
+        "image": "https://inews.zoombangla.com/wp-content/uploads/2026/07/Google-Gemini-3.6-Flash-model.jpg",
+        "source": "Inews",
+        "url": "https://inews.zoombangla.com/google-gemini-3-6-flash-july-21/",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
+        "title_en": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>Organizational friction and employee departures are complicating the race to release Gemini 3.5 Pro</strong>.",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://www.varindia.com/storage/news/2026/07/AEjAb7bHlHs4ug7oIGYWUafhFJJmk8zP1KdqAh4c.jpg",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "LLM News Today (July 2026) – AI Model Releases",
+        "title_en": "LLM News Today (July 2026) – AI Model Releases",
+        "summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an importan",
+        "summary_en": "The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s Claude, Google&#",
+        "long_summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "long_summary_en": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+        "title_en": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+        "summary": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. ",
+        "summary_en": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. ",
+        "long_summary": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.\nThe post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost.",
+        "long_summary_en": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.\nThe post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost.",
+        "image": "https://deeperinsights.com/wp-content/uploads/2026/07/Did-OpenAIs-AI-Go-Rogue-The-Hugging-Face-Breach-Explained-1600x800.jpg",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+        "date": "25 July 2026"
+      },
       {
         "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
         "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
@@ -678,54 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "ANALYSISA new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "You Didn’t Get the AI Model You Paid For",
-        "title_en": "You Didn’t Get the AI Model You Paid For",
-        "summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
-        "summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothin",
-        "long_summary": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
-        "long_summary_en": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “model”: “claude-opus-4-8”. Nothing errored. Nothing retried. The request was classified before generation began, matched a sensitive category, and was handed to a different set of weights entirely. Anthropic […]\nThe post You Didn’t Get the AI Model You Paid For appeared first on MarkTechPost.",
-        "image": "https://external-preview.redd.it/ai-model-collapse-is-not-what-we-paid-for-v0-t1a82RbH0UL1UYDwa90CKgzP5n0-XQv2jFvDTCEsOMg.jpg?width=640&crop=smart&auto=webp&s=2a421a6f6f1e07eff8cf2a3a497e1b764b1ce4a9",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "10 Platforms for AI Visibility and Link Building in 2026",
-        "title_en": "10 Platforms for AI Visibility and Link Building in 2026",
-        "summary": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media o",
-        "summary_en": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media o",
-        "long_summary": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media outlets, the same outlets where SEO specialists have been placing links for years. That means media distribution remains one of the key levers […]\nThis story continues at The Next Web",
-        "long_summary_en": "Millions now choose products through ChatGPT, Gemini, and Perplexity, and Google AI Overviews appear in nearly half of all search queries. According to Muck Rack, 84% of AI citations come from media outlets, the same outlets where SEO specialists have been placing links for years. That means media distribution remains one of the key levers […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/10-platforms-ai-visibility-link-building-2026.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/10-platforms-ai-visibility-link-building-2026",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Newsroom \\ Anthropic",
-        "title_en": "Newsroom \\ Anthropic",
-        "summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement fo",
-        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "long_summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners. Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale. News Search Date Category Title Jul 24, 2026 Product Introducing Claude Opus 5 Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action Jul 20, 2026 Announcements Apply for Anthropic’s AI for Science rare disease research grants Jul 14, 2026 Product Introducing Cla",
-        "long_summary_en": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's codi",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/news",
         "date": "25 July 2026"
       }
     ],
