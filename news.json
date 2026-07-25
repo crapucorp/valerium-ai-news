@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 22:13",
+  "lastUpdate": "25 July 2026 - 22:44",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "50 Top AI Funded Startups (July 2026)",
+        "title_en": "50 Top AI Funded Startups (July 2026)",
+        "summary": "Top 50 AI Funded Startups July 2026 | Complete Rankings ✦ Updated July 24, 2026 Top 50 AI Funded Startups July 2026 Complete rankings of the most funded artificial intelligence companies. Anthropic fi",
+        "summary_en": "<strong>Annualised revenue is roughly $25B and reportedly flattened between February and spring</strong>. SoftBank fell more than 12% on the delay report. New revenue lines in test: ads inside ChatGPT",
+        "long_summary": "Top 50 AI Funded Startups July 2026 | Complete Rankings ✦ Updated July 24, 2026 Top 50 AI Funded Startups July 2026 Complete rankings of the most funded artificial intelligence companies. Anthropic filed confidentially on June 1 and is meeting investors for an October listing under ANTH. OpenAI filed a week later but is leaning toward 2027. SpaceX went public June 12 in the largest IPO ever — then spent $60B on Cursor. Global venture funding hit a record $510B in H1. Top 6 Deep Dives Rankings #7-50 H1 2026 Trends Quick Comparison FAQ Methodology $700B+ Total Funding Tracked ↑ +$100B from June $510B H1 2026 Global VC — Record ↑ Beats all of 2025 ($440B) 43% Of H1 VC Went To Two Companies OpenAI + Anthropic = $217B −25% SPCX vs. IPO Debut Close ↓ $161 → ~$123 (Jul 22) Top 6 Most Funded AI Startups 1 Anthropic AI safety lab behind Claude — the most valuable private company on Crunchbase’s Unicorn Board since SpaceX listed. Run-rate revenue crossed $47B in May 2026, driven by Claude Code, enterprise API, and hyperscaler resale 🔥 July Update: Confidential S-1 filed with the SEC on June 1, 2026. CNBC reported July 15 that bankers are lining up investor meetings for a listing as soon as October, with institutional investor meetings continuing through the week of July 20. Expected ticker: ANTH. Last private mark $965B post-money from the $65B Series H (May 28). Run-rate revenue disclosed at $47B in May — the trajectory ran $9B (end-2025) → $14B (Feb) → $19B (Mar) → $30B (Apr) → $47B ",
+        "long_summary_en": "Top 50 AI Funded Startups July 2026 | Complete Rankings ✦ Updated July 24, 2026 Top 50 AI Funded Startups July 2026 Complete rankings of the most funded artificial intelligence companies. Anthropic filed confidentially on June 1 and is meeting investors for an October listing under ANTH. OpenAI filed a week later but is leaning toward 2027. SpaceX went public June 12 in the largest IPO ever — then spent $60B on Cursor. Global venture funding hit a record $510B in H1. Top 6 Deep Dives Rankings #7-50 H1 2026 Trends Quick Comparison FAQ Methodology $700B+ Total Funding Tracked ↑ +$100B from June ",
+        "image": "https://aifundingtracker.com/wp-content/uploads/2025/09/AI-Funding-Tracker-1.webp",
+        "source": "Aifundingtracker",
+        "url": "https://aifundingtracker.com/top-50-ai-startups/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Runway launches AI model router as generative media gets crowded | TechCrunch",
         "title_en": "Runway launches AI model router as generative media gets crowded | TechCrunch",
         "summary": "Image Credits: Runway AI Runway launches AI model router as generative media gets crowded Rebecca Bellan 10:07 AM PDT · July 23, 2026 Runway no longer wants to be just another AI model company . It wa",
@@ -532,18 +544,6 @@
         "image": "https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d",
         "source": "Github",
         "url": "https://github.com/calesthio/OpenMontage",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
-        "title_en": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
-        "summary": "Related Posts: How is 'artwork' that influences Netflix's viewing generated? Midjourney Announces First Video Generation AI Model 'V1,' Capable of Generating Videos of up to 21 Seconds from a Single I",
-        "summary_en": "<strong>On July 23, 2026, Runway, a generative AI company, announced &#x27;Runway Media Router,&#x27; a feature that automatically selects the AI model used for generating images, videos, and audio</s",
-        "long_summary": "Related Posts: How is 'artwork' that influences Netflix's viewing generated? Midjourney Announces First Video Generation AI Model 'V1,' Capable of Generating Videos of up to 21 Seconds from a Single Image Google announces 'Flow,' a tool that can create movies with AI, integrating image generation AI 'Imagen' and video generation AI 'Veo' to perform everything from scene generation to cutting and editing OpenAI CEO Sam Altman says 'AI regulation is essential' and ChatGPT surprises lawmakers with bill at public hearing Netflix is using generative AI in post-production processes for 300 titles. Twitter introduces optimization of automatic trimming of images by AI technology Adobe announces AI tools for Photoshop, Premiere, and more, with Firefly Image Model 5 enabling native 4MP image generation \"Free Universal Construction Kit\" which can connect various intellectual training blocks of several companies such as Lego and DuPro",
-        "long_summary_en": "Related Posts: How is 'artwork' that influences Netflix's viewing generated? Midjourney Announces First Video Generation AI Model 'V1,' Capable of Generating Videos of up to 21 Seconds from a Single Image Google announces 'Flow,' a tool that can create movies with AI, integrating image generation AI 'Imagen' and video generation AI 'Veo' to perform everything from scene generation to cutting and editing OpenAI CEO Sam Altman says 'AI regulation is essential' and ChatGPT surprises lawmakers with bill at public hearing Netflix is using generative AI in post-production processes for 300 titles. T",
-        "image": "https://i.gzn.jp/img/2026/07/24/runway-media-router/00.png",
-        "source": "Gigazine",
-        "url": "https://gigazine.net/gsc_news/en/20260724-runway-media-router/",
         "date": "24 July 2026"
       }
     ],
