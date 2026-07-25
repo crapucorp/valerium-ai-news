@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 18:39",
+  "lastUpdate": "25 July 2026 - 19:10",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Runway launches AI model router as generative media gets crowded | TechCrunch",
+        "title_en": "Runway launches AI model router as generative media gets crowded | TechCrunch",
+        "summary": "Image Credits: Runway AI Runway launches AI model router as generative media gets crowded Rebecca Bellan 10:07 AM PDT · July 23, 2026 Runway no longer wants to be just another AI model company . It wa",
+        "summary_en": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed, or cost. While model route",
+        "long_summary": "Image Credits: Runway AI Runway launches AI model router as generative media gets crowded Rebecca Bellan 10:07 AM PDT · July 23, 2026 Runway no longer wants to be just another AI model company . It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev , its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video, and audio models alongside Runway’s own. The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed, or cost. While model routers have become increasingly common in the world of large language models, Runway says this is the first built specifically for generative media. “The routing really fits into that overall promise of being the easiest one-stop shop for developers to integrate with any type of generative media model,” Anthony Maggio, Runway’s chief product officer, told TechCrunch. The launch, shared exclusively with TechCrunch, marks another step in Runway’s evolution from an AI video startup into infrastructure for companies building with generative media. Through Runway Dev, customers including Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock, and Quora can build media generation directly into their own products using Runway’s API rather than sending their users to Runway’s own app or site. The la",
+        "long_summary_en": "Image Credits: Runway AI Runway launches AI model router as generative media gets crowded Rebecca Bellan 10:07 AM PDT · July 23, 2026 Runway no longer wants to be just another AI model company . It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev , its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video, and audio models alongside Runway’s own. The Media Router is a tool that automatically selects the best image, video, or audio generation",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
+        "source": "Techcrunch",
+        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
         "title_en": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
         "summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art model",
@@ -532,18 +544,6 @@
         "image": "https://i.gzn.jp/img/2026/07/24/runway-media-router/00.png",
         "source": "Gigazine",
         "url": "https://gigazine.net/gsc_news/en/20260724-runway-media-router/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "AI Video Generator | Runway",
-        "title_en": "AI Video Generator | Runway",
-        "summary": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video",
-        "summary_en": "An AI video generator <strong>creates video from a text prompt, an image or an existing clip</strong>. Most models can work with multiple input sources to generate an AI video output.",
-        "long_summary": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video prompting guide",
-        "long_summary_en": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video prompting guide",
-        "image": "https://www.easemate.ai/_image/home/features/2x/imageLand/ai_video-2x.webp",
-        "source": "Runway",
-        "url": "https://runway.com/product/ai-video-generator",
         "date": "24 July 2026"
       }
     ],
