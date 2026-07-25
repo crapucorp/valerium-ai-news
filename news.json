@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 03:14",
+  "lastUpdate": "25 July 2026 - 03:44",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
+        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
+        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
+        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
+        "image": "https://preview.redd.it/z57e32gij4bh1.png?width=140&height=100&auto=webp&s=b4e06f151c9a1431997f794c83f8d29e4df107a3",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Anthropic launches Opus 5",
+        "title_en": "Anthropic launches Opus 5",
+        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "long_summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "long_summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
         "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
         "summary": "Quick verification Confirm you're human to keep going.",
@@ -702,30 +726,6 @@
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "source": "Anthropic",
         "url": "https://www.anthropic.com/news",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Reuters OpenAI News | Today's Latest Stories | Reuters",
-        "title_en": "Reuters OpenAI News | Today's Latest Stories | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "<strong>OpenAI on Thursday launched new usage analytics and updated spend controls for its ChatGPT Enterprise platform</strong>, designed to ​provide clients with greater visibility and management ove",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "https://static.independent.co.uk/2026/06/04/15/52/sam-altman-ai-letter.jpeg?quality=75&width=640&crop=3:2,smart&trim=0,0,0,0&auto=webp",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/openai/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
-        "title_en": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
-        "summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launch",
-        "summary_en": "Claude, Gemini, and ChatGPT — get these AI models and more for life for $60 · <strong>On July 9, OpenAI announced its own next-generation model with advanced cybersecurity coding abilities, GPT‑5.6 So",
-        "long_summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launched a lighter-weight Gemini 3.5 Flash model for everyday use. However, Google CEO Sundar Pichai assured the audience that Gemini 3.5 Pro would follow in June. \"We are also excited for 3.5 Pro,” Pichai said at a pre-Google I/O media briefing. “We are using it internally. It's showing great improvements. We are still testing and refining it, and it will roll out to everyone next month.\" As of July 17, there's still no sign of the model. You May Also Like Our big Guessing Game is back! Enter now for a chance to win an Apple Watch . So, where is Gemini 3.5 Pro? Yesterday, Bloomberg published a report on the delayed launch, with reporters Julia Love and Davey Alba writing that \"The delay has caused frustration among Google engineers, AI researchers, and managers, who are concerned the company risks losing its edge in the market to rivals Anthropic and OpenAI.\" Mashable reached out to Google with questions about the Gemini 3.5 Pro launch timeline, and the company provided the same statement it shared with Bloomberg. Mashable Light Speed Want more out-of-this world tech, space and science stories? Sign up for Mashable's weekly Light Speed newsletter. Loading... Sign Me Up Use this instead By clicking Sign Me Up, you confirm you are 16+ and agree to our Terms of Use and Privacy Policy . T",
-        "long_summary_en": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launched a lighter-weight Gemini 3.5 Flash model for everyday use. However, Google CEO Sundar Pichai assured the audience that Gemini 3.5 Pro would follow in June. \"We are also excited for 3.5 Pro,” Pichai said at a pre-Google I/O media briefing. “We are using it internally. It's showing great improvements. We are still testing and refining it, and it will roll out to everyone next month.\" As of July 17",
-        "image": "https://helios-i.mashable.com/imagery/articles/02HNX4RCPp31ZCG4L6SyEsk/hero-image.fill.size_1200x675.v1784317551.jpg",
-        "source": "Mashable",
-        "url": "https://mashable.com/tech/google-gemini-3-5-pro-delay",
         "date": "25 July 2026"
       }
     ],
