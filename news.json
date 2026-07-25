@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 15:35",
+  "lastUpdate": "25 July 2026 - 16:06",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Meta is making its AI chatbot more like an assistant",
+        "title_en": "Meta is making its AI chatbot more like an assistant",
+        "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
+        "summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
+        "long_summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
+        "long_summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0%2C4.9744178812656%2C100%2C60.121795706945&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "title_en": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
@@ -714,18 +726,6 @@
         "image": "https://tech-insider.org/wp-content/uploads/2026/03/feat-chatgpt-vs-claude-vs-deepseek-vs-gemini-2026-1.jpg",
         "source": "Tech-Insider",
         "url": "https://tech-insider.org/chatgpt-vs-claude-vs-deepseek-vs-gemini-2026/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-        "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-        "summary": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted",
-        "summary_en": "Opus 5 comes after OpenAI (OPAI.PVT) released its GPT-5.6 family of models earlier this month. <strong>Google is also preparing to release its Gemini 3.5 Pro model, but according to Bloomberg, it&#x27",
-        "long_summary": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted its Claude Opus 5 AI model on Friday, the fourth in its Claude 5 family of models, which also includes its powerful Mythos 5 and Fable 5. Fable 5 is Anthropic's most capable publicly available model, meant for \"days-long autonomous projects,\" the company said. Mythos 5 is Anthropic's current cutting-edge model, but the AI lab has limited availability to a select group of companies and organizations due to its impressive hacking capabilities. The company is framing Opus 5 as the go-to AI model for most tasks, including knowledge work and automation. According to Anthropic, Opus 5 approaches Fable 5's competencies at half the cost. Unlike Fable 5, Opus 5 doesn't retain user data for 30 days. Anthropic said it retains user inputs and outputs for Fable 5 as part of its safety efforts and to prevent future misuse. Opus 5 comes after OpenAI ( OPAI.PVT ) released its GPT-5.6 family of models earlier this month. Google is also preparing to release its Gemini 3.5 Pro model, but according to Bloomberg , it's been delayed. Google pushed back against the report. Anthropic CEO and co-founder Dario Amodei speaks during the 56th annual World Economic Forum meeting in Davos, Switzerland, on Jan. 20, 2026. (Reuters/Denis Balibouse) · REUTERS / Reuters The Trump administration initially forced An",
-        "long_summary_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted its Claude Opus 5 AI model on Friday, the fourth in its Claude 5 family of models, which also includes its powerful Mythos 5 and Fable 5. Fable 5 is Anthropic's most capable publicly available model, meant for \"days-long autonomous projects,\" the company said. Mythos 5 is Anthropic's current cutting-edge model, but the AI lab has limited availability to a select group of companies and organizatio",
-        "image": "https://s.yimg.com/lo/mysterio/api/ED649306CA8E757F21286EF832CF0ADE7B8DD00949636A750C3414BAF1804D46/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F836c3654-d573-4758-8156-4e061678fe5e",
-        "source": "Finance",
-        "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-opus-5-model-as-company-preps-for-ipo-later-this-year-170000070.html",
         "date": "25 July 2026"
       }
     ],
@@ -928,11 +928,11 @@
       "date": "05 June 2026"
     },
     {
-      "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-      "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-      "source": "Finance",
-      "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-opus-5-model-as-company-preps-for-ipo-later-this-year-170000070.html",
-      "date": "25 July 2026"
+      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "source": "Republicworld",
+      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
+      "date": "10 June 2026"
     }
   ]
 }
