@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 16:06",
+  "lastUpdate": "25 July 2026 - 16:36",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
+        "title_en": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
+        "summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launch",
+        "summary_en": "Claude, Gemini, and ChatGPT — get these AI models and more for life for $60 · <strong>On July 9, OpenAI announced its own next-generation model with advanced cybersecurity coding abilities, GPT‑5.6 So",
+        "long_summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launched a lighter-weight Gemini 3.5 Flash model for everyday use. However, Google CEO Sundar Pichai assured the audience that Gemini 3.5 Pro would follow in June. \"We are also excited for 3.5 Pro,” Pichai said at a pre-Google I/O media briefing. “We are using it internally. It's showing great improvements. We are still testing and refining it, and it will roll out to everyone next month.\" As of July 17, there's still no sign of the model. You May Also Like Our big Guessing Game is back! Enter now for a chance to win an Apple Watch . So, where is Gemini 3.5 Pro? Yesterday, Bloomberg published a report on the delayed launch, with reporters Julia Love and Davey Alba writing that \"The delay has caused frustration among Google engineers, AI researchers, and managers, who are concerned the company risks losing its edge in the market to rivals Anthropic and OpenAI.\" Mashable reached out to Google with questions about the Gemini 3.5 Pro launch timeline, and the company provided the same statement it shared with Bloomberg. Mashable Light Speed Want more out-of-this world tech, space and science stories? Sign up for Mashable's weekly Light Speed newsletter. Loading... Sign Me Up Use this instead By clicking Sign Me Up, you confirm you are 16+ and agree to our Terms of Use and Privacy Policy . T",
+        "long_summary_en": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launched a lighter-weight Gemini 3.5 Flash model for everyday use. However, Google CEO Sundar Pichai assured the audience that Gemini 3.5 Pro would follow in June. \"We are also excited for 3.5 Pro,” Pichai said at a pre-Google I/O media briefing. “We are using it internally. It's showing great improvements. We are still testing and refining it, and it will roll out to everyone next month.\" As of July 17",
+        "image": "https://helios-i.mashable.com/imagery/articles/02HNX4RCPp31ZCG4L6SyEsk/hero-image.fill.size_1200x675.v1784317551.jpg",
+        "source": "Mashable",
+        "url": "https://mashable.com/tech/google-gemini-3-5-pro-delay",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Meta is making its AI chatbot more like an assistant",
         "title_en": "Meta is making its AI chatbot more like an assistant",
         "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
@@ -714,18 +726,6 @@
         "image": "https://media.thenextweb.com/2026/07/anthropic-claude-opus-5-launch-frontier-bench-coding.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
-        "title_en": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
-        "summary": "Marcus Chen March 15, 2026 36 min read Last updated: July 14, 2026 – Refreshed with verified July 2026 context-window, output-limit, and agentic-benchmark corrections sourced from vendor documentation",
-        "summary_en": "<strong>On March 5, OpenAI dropped GPT-5.4 “Thinking”</strong> – a model that achieves what the company internally benchmarked as GPT-6-level reasoning within a smaller, faster architecture.",
-        "long_summary": "Marcus Chen March 15, 2026 36 min read Last updated: July 14, 2026 – Refreshed with verified July 2026 context-window, output-limit, and agentic-benchmark corrections sourced from vendor documentation, Spectrum AI Labs, NxCode, and AIMagicX. July 2026 Update: What Changed Three corrections to the figures below: Gemini 3.1 Pro’s context window is verified at 2.5 million tokens – the largest among commercial models, not the 1M–2M figures earlier sources cited. Claude Opus 4.6’s max output is 128K tokens , not the 64K previously listed. And on agentic execution, GPT-5.4 leads the Terminal-Bench 2.0 benchmark at 75.1% , ahead of Claude Opus 4.6’s 65.4% on the same test – a reversal of how that metric was framed in the May 2026 sections below. July 2026 Quick Answer: Which Model Wins What Best for coding (verified): Claude Opus 4.6 – 80.8% SWE-bench single-attempt , 81.42% with prompt modification . Best for agentic/terminal tasks: GPT-5.4 – 75.1% on Terminal-Bench 2.0 , ahead of Claude Opus 4.6’s 65.4% on the same benchmark. Best for cost: DeepSeek V4 – ~$0.28 per million input tokens , roughly 50x cheaper than Claude Opus 4.6 on input. Best for throughput: Gemini 3.1 Pro – 120.3 tokens/sec output , about 2x Claude and 1.6x GPT-5.4 . Best for context window: Gemini 3.1 Pro – 2.5 million tokens , the largest commercial context window available. Best balanced default: GPT-5.4 – competitive on every axis when a multi-model stack isn’t an option. March 2026 has delivered the most exp",
-        "long_summary_en": "Marcus Chen March 15, 2026 36 min read Last updated: July 14, 2026 – Refreshed with verified July 2026 context-window, output-limit, and agentic-benchmark corrections sourced from vendor documentation, Spectrum AI Labs, NxCode, and AIMagicX. July 2026 Update: What Changed Three corrections to the figures below: Gemini 3.1 Pro’s context window is verified at 2.5 million tokens – the largest among commercial models, not the 1M–2M figures earlier sources cited. Claude Opus 4.6’s max output is 128K tokens , not the 64K previously listed. And on agentic execution, GPT-5.4 leads the Terminal-Bench 2",
-        "image": "https://tech-insider.org/wp-content/uploads/2026/03/feat-chatgpt-vs-claude-vs-deepseek-vs-gemini-2026-1.jpg",
-        "source": "Tech-Insider",
-        "url": "https://tech-insider.org/chatgpt-vs-claude-vs-deepseek-vs-gemini-2026/",
         "date": "25 July 2026"
       }
     ],
@@ -914,13 +914,6 @@
   },
   "hotNews": [
     {
-      "title": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
-      "title_en": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
-      "source": "Tech-Insider",
-      "url": "https://tech-insider.org/chatgpt-vs-claude-vs-deepseek-vs-gemini-2026/",
-      "date": "25 July 2026"
-    },
-    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -933,6 +926,13 @@
       "source": "Republicworld",
       "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
       "date": "10 June 2026"
+    },
+    {
+      "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "source": "Pricepertoken",
+      "url": "https://pricepertoken.com/news/model-releases",
+      "date": "23 July 2026"
     }
   ]
 }
