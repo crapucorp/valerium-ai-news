@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 13:33",
+  "lastUpdate": "25 July 2026 - 14:03",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "title_en": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "summary_en": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "long_summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "long_summary_en": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "OpenAI hit by another outage as ChatGPT, Codex, and APIs stumble together",
         "title_en": "OpenAI hit by another outage as ChatGPT, Codex, and APIs stumble together",
         "summary": "OpenAI’s status page reported elevated error rates across its APIs, ChatGPT, and Codex on Saturday, marking the fourth service disruption in four days for the company. Users encountered 503 errors wit",
@@ -714,18 +726,6 @@
         "image": "https://www.analyticsvidhya.com/wp-content/themes/analytics-vidhya/images/Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "long_summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "long_summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
         "date": "25 July 2026"
       }
     ],
