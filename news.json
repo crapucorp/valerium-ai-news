@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26 July 2026 - 01:16",
+  "lastUpdate": "26 July 2026 - 01:47",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+        "title_en": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+        "summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen.",
+        "summary_en": "A handful of open-weight AI video generators (like CogVideoX and Mochi) can be run locally for free if you have GPU access, and most hosted providers (Runway, Kling, Luma, Pika) offer a small free tie",
+        "long_summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $0.89 / M tokens See model page → Compare side-by-side",
+        "long_summary_en": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $0.89 / M tokens See model page → Compare side-by-side",
+        "image": "https://llm-stats.com/api/og/category/video_generation",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+        "date": "26 July 2026"
+      },
+      {
         "title": "Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared",
         "title_en": "Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared",
         "summary": "We are supported by our readers , and may earn a commission when you purchase products linked throughout our site. Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Comp",
@@ -532,18 +544,6 @@
         "image": "https://wan27.org/blog/wan27/flux-3/hero.svg",
         "source": "Wan27",
         "url": "https://wan27.org/blog/flux-3",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Midjourney acquired the astrology app Co-Star",
-        "title_en": "Midjourney acquired the astrology app Co-Star",
-        "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-        "summary_en": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-        "long_summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-        "long_summary_en": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
         "date": "24 July 2026"
       }
     ],
