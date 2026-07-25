@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26 July 2026 - 00:16",
+  "lastUpdate": "26 July 2026 - 00:46",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared",
+        "title_en": "Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared",
+        "summary": "We are supported by our readers , and may earn a commission when you purchase products linked throughout our site. Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Comp",
+        "summary_en": "<strong>Runway Gen-4.5 is the best alternative for general production</strong>. Kling 3.0 is the best alternative for photorealistic motion, while Luma is one of the best alternatives for image-to-vid",
+        "long_summary": "We are supported by our readers , and may earn a commission when you purchase products linked throughout our site. Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared Updated on: July 24, 2026 by Steven Jones Originally Published on: November 12, 2025 TL;DR: The best AI video generator for most people in 2026 is Google Flow with Veo 3.1 if you want cinematic clips, generated audio and strong prompt-following. Runway Gen-4.5 is the better all-around production workspace, Kling 3.0 is the strongest riser for photorealistic motion, and Luma should be retested because our current dataset score still reflects Luma Ray2. This guide compares the best AI video generators in 2026 using DIY AI’s video-generation scoring framework. The ranking covers cinematic scene generators, image-to-video tools, avatar platforms, AI UGC ad tools, script-to-video products and Sora alternatives. That distinction matters because a tool built for training videos should not be judged by the same criteria as a model built for camera movement, physics, lighting and shot continuity. Scores below come from the DIY AI 2026 video generation dataset. We score tools on video quality, prompt accuracy, voice and lip sync, editing flexibility, render speed, character consistency, templates, commercial licensing, ease of use and overall recommendation strength. Visit the DIY AI Video Studio to test video tools directly, or for additional video tool content, check our AI video ge",
+        "long_summary_en": "We are supported by our readers , and may earn a commission when you purchase products linked throughout our site. Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared Updated on: July 24, 2026 by Steven Jones Originally Published on: November 12, 2025 TL;DR: The best AI video generator for most people in 2026 is Google Flow with Veo 3.1 if you want cinematic clips, generated audio and strong prompt-following. Runway Gen-4.5 is the better all-around production workspace, Kling 3.0 is the strongest riser for photorealistic motion, and Luma should be retested",
+        "image": "https://diyai.io/wp-content/uploads/2025/11/Best-AI-Video-Tools.webp",
+        "source": "Diyai",
+        "url": "https://diyai.io/ai-tools/video-generation/best-ai-video-tools/",
+        "date": "26 July 2026"
+      },
+      {
         "title": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
         "title_en": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
         "summary": "Related Posts: Runway releases 'Act-One,' a tool that can animate AI-generated characters with realistic facial expressions How is 'artwork' that influences Netflix's viewing generated? Introducing 'F",
@@ -532,18 +544,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-149418827.jpg?resize=1200,837",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Benchmarking and Improving Perceptual Straightening for Robust AI-Generated Video Detection",
-        "title_en": "Benchmarking and Improving Perceptual Straightening for Robust AI-Generated Video Detection",
-        "summary": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Ru",
-        "summary_en": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Ru",
-        "long_summary": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Runway Gen-3, and Kling—makes automated detection of AI-generated videos an urgent problem in multimedia forensics.",
-        "long_summary_en": "(This article belongs to the Special Issue Advances in Image Processing and Computer Vision) ... The proliferation of text-to-video generative models—including commercial systems such as Sora, Veo, Runway Gen-3, and Kling—makes automated detection of AI-generated videos an urgent problem in multimedia forensics.",
-        "image": "",
-        "source": "Mdpi",
-        "url": "https://www.mdpi.com/2079-9292/15/15/3245",
         "date": "24 July 2026"
       }
     ],
