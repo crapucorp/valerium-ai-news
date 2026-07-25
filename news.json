@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
+        "summary": "Quick verification Confirm you're human to keep going.",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "Quick verification Confirm you're human to keep going.",
+        "long_summary_en": "Quick verification Confirm you're human to keep going.",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "Claude Opus 5 matches Fable on coding at half the price, and Anthropic says it is the most aligned model it has ever shipped",
+        "title_en": "Claude Opus 5 matches Fable on coding at half the price, and Anthropic says it is the most aligned model it has ever shipped",
+        "summary": "Anthropic on Thursday released Claude Opus 5, a model that matches or exceeds its flagship Fable 5 on most coding and knowledge-work benchmarks at half the token price. The model is the fourth Anthrop",
+        "summary_en": "Anthropic on Thursday released Claude Opus 5, a model that matches or exceeds its flagship Fable 5 on most coding and knowledge-work benchmarks at half the token price. The model is the fourth Anthrop",
+        "long_summary": "Anthropic on Thursday released Claude Opus 5, a model that matches or exceeds its flagship Fable 5 on most coding and knowledge-work benchmarks at half the token price. The model is the fourth Anthropic has shipped in under two months, following Fable 5 in early June, Sonnet 5 at the end of June, and now […]\nThis story continues at The Next Web",
+        "long_summary_en": "Anthropic on Thursday released Claude Opus 5, a model that matches or exceeds its flagship Fable 5 on most coding and knowledge-work benchmarks at half the token price. The model is the fourth Anthropic has shipped in under two months, following Fable 5 in early June, Sonnet 5 at the end of June, and now […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/anthropic-claude-opus-5-launch-frontier-bench-coding.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/anthropic-claude-opus-5-launch-frontier-bench-coding",
+        "date": "25 July 2026"
+      },
+      {
         "title": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
         "title_en": "ChatGPT vs Claude vs Gemini vs DeepSeek [2026]",
         "summary": "Marcus Chen March 15, 2026 36 min read Last updated: July 14, 2026 – Refreshed with verified July 2026 context-window, output-limit, and agentic-benchmark corrections sourced from vendor documentation",
@@ -702,30 +726,6 @@
         "image": "https://helios-i.mashable.com/imagery/articles/02HNX4RCPp31ZCG4L6SyEsk/hero-image.fill.size_1200x675.v1784317551.jpg",
         "source": "Mashable",
         "url": "https://mashable.com/tech/google-gemini-3-5-pro-delay",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "image": "https://preview.redd.it/z57e32gij4bh1.png?width=140&height=100&auto=webp&s=b4e06f151c9a1431997f794c83f8d29e4df107a3",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Anthropic launches Opus 5",
-        "title_en": "Anthropic launches Opus 5",
-        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "long_summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "long_summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
         "date": "25 July 2026"
       }
     ],
