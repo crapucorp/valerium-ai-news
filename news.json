@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 22:44",
+  "lastUpdate": "25 July 2026 - 23:14",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
+        "title_en": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
+        "summary": "Related Posts: Runway releases 'Act-One,' a tool that can animate AI-generated characters with realistic facial expressions How is 'artwork' that influences Netflix's viewing generated? Introducing 'F",
+        "summary_en": "<strong>On July 23, 2026, Runway, a generative AI company, announced &#x27;Runway Media Router,&#x27; a feature that automatically selects the AI model used for generating images, videos, and audio</s",
+        "long_summary": "Related Posts: Runway releases 'Act-One,' a tool that can animate AI-generated characters with realistic facial expressions How is 'artwork' that influences Netflix's viewing generated? Introducing 'FLUX Portrait Trainer,' an AI learning tool for generating images specializing in portrait photography In response to the criticism that 'Perplexity's AI ignores robots.txt that blocks crawlers,' the CEO claims that 'we don't ignore it, but we rely on third-party crawlers' Netflix is using generative AI in post-production processes for 300 titles. Adobe announces AI tools for Photoshop, Premiere, and more, with Firefly Image Model 5 enabling native 4MP image generation OpenRouter MCP Server has emerged, giving AI agents the ability to 'find the right AI model for the task.' How did Facebook introduce the next-generation protocol 'QUIC' to speed up the service?",
+        "long_summary_en": "Related Posts: Runway releases 'Act-One,' a tool that can animate AI-generated characters with realistic facial expressions How is 'artwork' that influences Netflix's viewing generated? Introducing 'FLUX Portrait Trainer,' an AI learning tool for generating images specializing in portrait photography In response to the criticism that 'Perplexity's AI ignores robots.txt that blocks crawlers,' the CEO claims that 'we don't ignore it, but we rely on third-party crawlers' Netflix is using generative AI in post-production processes for 300 titles. Adobe announces AI tools for Photoshop, Premiere, a",
+        "image": "https://i.gzn.jp/img/2026/07/24/runway-media-router/00.png",
+        "source": "Gigazine",
+        "url": "https://gigazine.net/gsc_news/en/20260724-runway-media-router/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "50 Top AI Funded Startups (July 2026)",
         "title_en": "50 Top AI Funded Startups (July 2026)",
         "summary": "Top 50 AI Funded Startups July 2026 | Complete Rankings ✦ Updated July 24, 2026 Top 50 AI Funded Startups July 2026 Complete rankings of the most funded artificial intelligence companies. Anthropic fi",
@@ -532,18 +544,6 @@
         "image": "",
         "source": "Mdpi",
         "url": "https://www.mdpi.com/2079-9292/15/15/3245",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "GitHub - calesthio/OpenMontage: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · GitHub",
-        "title_en": "GitHub - calesthio/OpenMontage: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio. · GitHub",
-        "summary": "OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Sponsors · Providers · Review Guide · Agent Guide Follo",
-        "summary_en": "Turn your AI coding assistant into a full video production studio. Describe what you want in plain language — your agent handles research, scripting, asset generation, editing, and final composition. ",
-        "long_summary": "OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Sponsors · Providers · Review Guide · Agent Guide Follow The Build Sponsors Want to support OpenMontage? Sponsor the project . Click to collapse Bloome lets multiple AI agents (Claude, ChatGPT, DeepSeek, and more) collaborate in one conversation for agentic video pipelines. It has zero setup, runs in the cloud, works on web and mobile, and lets you share a configured agent with your whole team. Try Bloome . Atlas Cloud is a full-modal AI inference platform that gives developers a single AI API for video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities. Check out Atlas Cloud's new coding plan promotion for more budget-friendly API access. Turn your AI coding assistant into a full video production studio. Describe what you want in plain language — your agent handles research, scripting, asset generation, editing, and final composition. Important distinction: OpenMontage can make image-based videos, but it can also make a real video video for free/open-source workflows: the agent builds a corpus from free stock footage and open archives, retrieves actual motion clips, edits them into a timeline, and renders a finished piece. That is not the usual \"animate a handful of stills and call it video\" trick. signal-f",
-        "long_summary_en": "OpenMontage The first open-source, agentic video production system. Paste A Video · Quick Start · Try These Prompts · Pipelines · How It Works · Sponsors · Providers · Review Guide · Agent Guide Follow The Build Sponsors Want to support OpenMontage? Sponsor the project . Click to collapse Bloome lets multiple AI agents (Claude, ChatGPT, DeepSeek, and more) collaborate in one conversation for agentic video pipelines. It has zero setup, runs in the cloud, works on web and mobile, and lets you share a configured agent with your whole team. Try Bloome . Atlas Cloud is a full-modal AI inference pla",
-        "image": "https://repository-images.githubusercontent.com/1195360525/645f0bc1-450d-4791-99b8-6102b4bb9f3d",
-        "source": "Github",
-        "url": "https://github.com/calesthio/OpenMontage",
         "date": "24 July 2026"
       }
     ],
