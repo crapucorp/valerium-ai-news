@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 14:34",
+  "lastUpdate": "25 July 2026 - 15:04",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+        "title_en": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+        "summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic tea",
+        "summary_en": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic tea",
+        "long_summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […]\nThe post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.",
+        "long_summary_en": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […]\nThe post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.",
+        "image": "https://www.techmeme.com/simg/hard_fork-Sj20NcEz_216px.jpg",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
         "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
         "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
@@ -715,21 +727,21 @@
         "source": "The Verge",
         "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
         "date": "25 July 2026"
-      },
-      {
-        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-        "title_en": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-        "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
-        "summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
-        "long_summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
-        "long_summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "date": "25 July 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Nvidia is pouring $1 billion into South Korea’s AI infrastructure through Naver and SK Group",
+        "title_en": "Nvidia is pouring $1 billion into South Korea’s AI infrastructure through Naver and SK Group",
+        "summary": "Nvidia will invest $1 billion in South Korean internet company Naver to help finance an AI data center under construction in South Korea, the chipmaker announced late Friday. The funding will allow Na",
+        "summary_en": "Nvidia will invest $1 billion in South Korean internet company Naver to help finance an AI data center under construction in South Korea, the chipmaker announced late Friday. The funding will allow Na",
+        "long_summary": "Nvidia will invest $1 billion in South Korean internet company Naver to help finance an AI data center under construction in South Korea, the chipmaker announced late Friday. The funding will allow Naver to more than triple the size of the facility from 55 megawatts to 200 megawatts, with US private equity firm Brookfield agreeing […]\nThis story continues at The Next Web",
+        "long_summary_en": "Nvidia will invest $1 billion in South Korean internet company Naver to help finance an AI data center under construction in South Korea, the chipmaker announced late Friday. The funding will allow Naver to more than triple the size of the facility from 55 megawatts to 200 megawatts, with US private equity firm Brookfield agreeing […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/nvidia-naver-sk-group-korea-ai-investment",
+        "date": "25 July 2026"
+      },
       {
         "title": "Inside the data centres powering AI: gold racks, demented noise, and 40 diesel generators",
         "title_en": "Inside the data centres powering AI: gold racks, demented noise, and 40 diesel generators",
@@ -897,18 +909,6 @@
         "source": "Cnn",
         "url": "https://www.cnn.com/business/tech/ai-news-artificial-intelligence-updates",
         "date": "01 June 2026"
-      },
-      {
-        "title": "Nobody wants to tell me why they only listen to their own Suno slop",
-        "title_en": "Nobody wants to tell me why they only listen to their own Suno slop",
-        "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclai",
-        "summary_en": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclai",
-        "long_summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own […]",
-        "long_summary_en": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day. \"Does anyone just listen to their own […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
-        "date": "26 May 2026"
       }
     ]
   },
