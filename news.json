@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 12:31",
+  "lastUpdate": "25 July 2026 - 13:02",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "title_en": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art model",
+        "summary_en": "Lip sync jobs use the same two-step pattern: a dedicated processLipSync() method accepts image_url or video_url alongside audio_url, dispatches to the model&#x27;s endpoint, and polls until the output",
+        "long_summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art models across 14 studios — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support 📺 Uncensored AI Image & Video Generator — Free & Open Source (500+ Models) → 🎨 Explore 50+ more open-source AI apps → Related Projects 🆕 FLUX 3 Python SDK: Flux-3-Dev-API — Python wrapper for Black Forest Labs' newly announced FLUX 3 — text-to-image, image-to-image, text-to-video, and image-to-video through one client, including the fast/low-cost Dev variant. 🎬 FLUX 3 video, specifically: flux-3-video-api — a focused Python wrapper for just the FLUX 3 Text-to-Video and Image-to-Video endpoints, with native synchronized audio. 🎓 Learn to monetize generative AI: ai-creator-academy — a free, open-source curriculum teaching creators, freelancers, and agencies how to make money with generative AI image/video/audio tools, covering monetization, pricing, and client delivery — not just how the models work. 🤖 Automate media generations with AI coding agents: Generative-Media-Skills — a library of skills that let agents like Claude Code , Codex , and other coding assistants drive 200+ image/video models end-to-end (prompt → generate → edit → stitch) directly from your terminal. Perfect for building automated media pipelines without touching a UI. 🎬 Seedan",
+        "long_summary_en": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art models across 14 studios — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support 📺 Uncensored AI Image & Video Generator — Free & Open Source (500+ Models) → 🎨 Explore 50+ more open-source AI apps → Related Projects 🆕 FLUX 3 Python SDK: Flux-3-Dev-API — Python wrapper for Black Forest Labs' newly announced FLUX 3 — text-to-image, image-to-ima",
+        "image": "https://opengraph.githubassets.com/9a4c136ffbedb378e792149298ef132480023136016fe0b2679e7e0b7f59ea74/Anil-matcha/Open-Generative-AI",
+        "source": "Github",
+        "url": "https://github.com/anil-matcha/open-generative-ai",
+        "date": "25 July 2026"
+      },
+      {
         "title": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
         "title_en": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
         "summary": "AI Video Generator & Editor — All-in-One Platform | Animon AI Animon AI ® One-Stop AI Creation Platform for Social Media Creators & Brands Generate videos, images, music, and avatars in minutes — all ",
@@ -532,18 +544,6 @@
         "image": "https://www.easemate.ai/_image/home/features/2x/imageLand/ai_video-2x.webp",
         "source": "Runway",
         "url": "https://runway.com/product/ai-video-generator",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Generate videos with OpenAI models in Firefly | Firefly",
-        "title_en": "Generate videos with OpenAI models in Firefly | Firefly",
-        "summary": "Firefly Help Web Mobile Web Open on Web Adobe Help Center Adobe Firefly Web Help What's new New features What's new in Adobe Firefly Get started Learn the basics Adobe Firefly overview Adobe Firefly F",
-        "summary_en": "<strong>In the Model dropdown menu under General settings, select Sora 2.</strong> Select the Generate icon to open the Generate media panel. Select the Generate icon to open the Generate media panel.",
-        "long_summary": "Firefly Help Web Mobile Web Open on Web Adobe Help Center Adobe Firefly Web Help What's new New features What's new in Adobe Firefly Get started Learn the basics Adobe Firefly overview Adobe Firefly FAQ Technical requirements Generative credits overview Content Credentials overview Firefly unlimited generations special offer Access the app Access Adobe Firefly Firefly workspace overview Work with images Generate images Generate images from text descriptions Writing effective text prompts Enhance prompts to generate images Generate images quickly using Fast mode Set aspect ratio of images Set content type Match image composition to reference image Reference images for styling Set styles for image generation Modify generated images Effects for generated images Generate images using FLUX Generate images using Gemini Generate images using GPT Image Generate images using Imagen Generate images using Ideogram Generate images using Runway Edit images Edit images using text prompts Edit images with Markup Edit images with Precision Flow (beta) Use generative fill Use generative remove Expand images Generate vectors Text to vector Generate vectors using text prompts Generate vectors using partner models Work with audio and video Work with audio Translate audio Frequently asked questions about Translate audio and Translate video Generate sound effects using text prompts Generate sound effects using your voice as a guide Writing effective text prompts for sound effects generation Remove",
-        "long_summary_en": "Firefly Help Web Mobile Web Open on Web Adobe Help Center Adobe Firefly Web Help What's new New features What's new in Adobe Firefly Get started Learn the basics Adobe Firefly overview Adobe Firefly FAQ Technical requirements Generative credits overview Content Credentials overview Firefly unlimited generations special offer Access the app Access Adobe Firefly Firefly workspace overview Work with images Generate images Generate images from text descriptions Writing effective text prompts Enhance prompts to generate images Generate images quickly using Fast mode Set aspect ratio of images Set c",
-        "image": "https://preview.redd.it/adobe-firefly-now-generates-ai-images-with-openai-google-v0-fpmpumebgqrf1.png?width=640&crop=smart&auto=webp&s=62e7a562ae0a2af2d0b2bb7d9272437a221890e0",
-        "source": "Helpx",
-        "url": "https://helpx.adobe.com/firefly/web/firefly-video-editor/generate-videos/generate-videos-using-openai-video-models.html",
         "date": "24 July 2026"
       }
     ],
