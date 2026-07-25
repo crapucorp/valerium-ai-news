@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 21:12",
+  "lastUpdate": "25 July 2026 - 21:43",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+        "title_en": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+        "summary": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthrop",
+        "summary_en": "The rest of the headlines landed in the final week of June: <strong>OpenAI first previewed GPT-5.6 on June 26 behind a US-government access list</strong>; Meituan open-sourced LongCat-2.0, a 1.6-trill",
+        "long_summary": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthropic refusing the Pentagon’s demand to strip the guardrails off Claude for autonomous weapons and mass surveillance. The administration then told federal agencies Read More »",
+        "long_summary_en": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthropic refusing the Pentagon’s demand to strip the guardrails off Claude for autonomous weapons and mass surveillance. The administration then told federal agencies Read More »",
+        "image": "https://felloai.com/wp-content/uploads/2026/07/best-ai-models-in-July-2026.jpg",
+        "source": "Felloai",
+        "url": "https://felloai.com/best-ai-models/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
         "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
         "summary": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted",
@@ -714,18 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
-        "summary": "Quick verification Confirm you're human to keep going.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Quick verification Confirm you're human to keep going.",
-        "long_summary_en": "Quick verification Confirm you're human to keep going.",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
         "date": "25 July 2026"
       }
     ],
@@ -921,18 +921,18 @@
       "date": "05 June 2026"
     },
     {
+      "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+      "title_en": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
+      "source": "Felloai",
+      "url": "https://felloai.com/best-ai-models/",
+      "date": "25 July 2026"
+    },
+    {
       "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
       "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
       "source": "Finance",
       "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-opus-5-model-as-company-preps-for-ipo-later-this-year-170000070.html",
       "date": "25 July 2026"
-    },
-    {
-      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
-      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
-      "source": "Republicworld",
-      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
-      "date": "10 June 2026"
     }
   ]
 }
