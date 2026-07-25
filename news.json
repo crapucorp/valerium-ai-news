@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 02:14",
+  "lastUpdate": "25 July 2026 - 02:44",
   "categories": {
     "general": [
       {
@@ -549,6 +549,42 @@
     ],
     "llm": [
       {
+        "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+        "title_en": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+        "summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic tea",
+        "summary_en": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic tea",
+        "long_summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […]\nThe post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.",
+        "long_summary_en": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […]\nThe post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.",
+        "image": "https://www.analyticsvidhya.com/wp-content/themes/analytics-vidhya/images/Building-LLM-Applications-using-Prompt-Engineering---Free-Course.webp",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "long_summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "long_summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "title_en": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "summary_en": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "long_summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "long_summary_en": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
         "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
         "summary": "reuters.com Please enable JS and disable any ad blocker",
@@ -690,42 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/llm-updates",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Meta is making its AI chatbot more like an assistant",
-        "title_en": "Meta is making its AI chatbot more like an assistant",
-        "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
-        "summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
-        "long_summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
-        "long_summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0%2C4.9744178812656%2C100%2C60.121795706945&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-        "title_en": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-        "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
-        "summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
-        "long_summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
-        "long_summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
-        "title_en": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>Organizational friction and employee departures are complicating the race to release Gemini 3.5 Pro</strong>.",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
         "date": "25 July 2026"
       }
     ],
