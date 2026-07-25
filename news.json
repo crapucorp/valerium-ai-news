@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25 July 2026 - 21:43",
+  "lastUpdate": "25 July 2026 - 22:13",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+        "title_en": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+        "summary": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly Anthropic Company Tracked keywords: anthropic, claude, claude code, claude opus, claude sonnet 72 AI Weekly issues and 72 live storie",
+        "summary_en": "<strong>Anthropic Brings Claude Cowork to Web and Mobile for Max Subscribers</strong> — Publishes Usage Data Showing Just 8.7% of Sessions Are Coding, 33.4% Are Business Ops ... Microsoft Starts Repla",
+        "long_summary": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly Anthropic Company Tracked keywords: anthropic, claude, claude code, claude opus, claude sonnet 72 AI Weekly issues and 72 live stories from the last 30 days mention Anthropic. 517 total mentions 15/20 recent issues -100% vs. baseline peak 17 /issue tracked since 2026-03-11 Anthropic ended April being priced as a long-dated electricity hedge . Google committed up to $40B at a $350B valuation with 5GW of Cloud capacity over five years; Amazon doubled-up earlier the same week with $25B and matching Trainium capacity. With $30B+ revenue run rate (1,400% YoY), an October IPO at $800B is now in play. The other story this month: Mythos , a model held back under Project Glasswing because it can autonomously discover zero-days, was breached via a third-party vendor portal — containment failed at the procurement layer, not the model layer. AI Weekly tracks every Claude release, lab deal, and security disclosure. Mention Trend — Last 20 Issues Live Stories (72) WSJ: Corporate America Suddenly Pulls Back AI Spending as Costs Balloon and Chinese Models Get a Look wsj.com · 2026-07-25 · Score: 23 NYT: OpenAI and Anthropic Quietly Lobby Washington to Restrict Open-Source AI as Altman Publicly Backs It nytimes.com · 2026-07-25 · Score: 23 ALERT Anthropic Ships Claude Opus 5, Matches Fable 5 on Most Benchmarks at Half the Price anthropic.com · 2026-07-24 · Score: 34 Echo Debuts on Hacker News, Claims Fable-Level Results From O",
+        "long_summary_en": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly Anthropic Company Tracked keywords: anthropic, claude, claude code, claude opus, claude sonnet 72 AI Weekly issues and 72 live stories from the last 30 days mention Anthropic. 517 total mentions 15/20 recent issues -100% vs. baseline peak 17 /issue tracked since 2026-03-11 Anthropic ended April being priced as a long-dated electricity hedge . Google committed up to $40B at a $350B valuation with 5GW of Cloud capacity over five years; Amazon doubled-up earlier the same week with $25B and matching Trainium capacity. With $30B+ re",
+        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
+        "source": "Aiweekly",
+        "url": "https://aiweekly.co/ai-news-today/anthropic-news",
+        "date": "25 July 2026"
+      },
+      {
+        "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
+        "summary": "Quick verification Confirm you're human to keep going.",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "Quick verification Confirm you're human to keep going.",
+        "long_summary_en": "Quick verification Confirm you're human to keep going.",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "25 July 2026"
+      },
+      {
         "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
         "title_en": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
         "summary": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthrop",
@@ -702,30 +726,6 @@
         "image": "https://deeperinsights.com/wp-content/uploads/2026/07/Did-OpenAIs-AI-Go-Rogue-The-Hugging-Face-Breach-Explained-1600x800.jpg",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "title_en": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
-        "summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 cur",
-        "long_summary": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "long_summary_en": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python agent server under a Tauri shell, supports 30 curated tool-calling models plus fully local Ollama, and gates every write, shell command and off-machine action behind a typed risk engine.\nThe post Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat appeared first on MarkTechPost.",
-        "image": "https://preview.redd.it/z57e32gij4bh1.png?width=140&height=100&auto=webp&s=b4e06f151c9a1431997f794c83f8d29e4df107a3",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Anthropic launches Opus 5",
-        "title_en": "Anthropic launches Opus 5",
-        "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "long_summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "long_summary_en": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
         "date": "25 July 2026"
       }
     ],
