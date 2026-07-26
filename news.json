@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "26 July 2026 - 03:19",
+  "lastUpdate": "26 July 2026 - 18:30",
   "categories": {
     "general": [
+      {
+        "title": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
+        "title_en": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
+        "summary": "In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorgan",
+        "summary_en": "In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorgan",
+        "long_summary": "In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorganic materials. We configure an environment, authenticate with Hugging Face to access the gated UMA model weights, and initialize task-specific calculators for the omol, oc20, and omat domains. We […]\nThe post FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation across molecular chemistry, catalysis, and inorganic materials. We configure an environment, authenticate with Hugging Face to access the gated UMA model weights, and initialize task-specific calculators for the omol, oc20, and omat domains. We […]\nThe post FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-4-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/",
+        "date": "26 July 2026"
+      },
       {
         "title": "Artificial intelligence | AP News",
         "title_en": "Artificial intelligence | AP News",
@@ -168,18 +180,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/attie-logo.webp?w=1200",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Genesis AI is in talks to raise about $500m for its robot brains",
-        "title_en": "Genesis AI is in talks to raise about $500m for its robot brains",
-        "summary": "Genesis AI, the startup building foundation models that it hopes will run inside a wide range of robots, is in talks to raise about $500m, according to Bloomberg. A round of that size would value the ",
-        "summary_en": "Genesis AI, the startup building foundation models that it hopes will run inside a wide range of robots, is in talks to raise about $500m, according to Bloomberg. A round of that size would value the ",
-        "long_summary": "Genesis AI, the startup building foundation models that it hopes will run inside a wide range of robots, is in talks to raise about $500m, according to Bloomberg. A round of that size would value the company at roughly $3bn, capping a fast climb for a business that only came out of stealth last summer. […]\nThis story continues at The Next Web",
-        "long_summary_en": "Genesis AI, the startup building foundation models that it hopes will run inside a wide range of robots, is in talks to raise about $500m, according to Bloomberg. A round of that size would value the company at roughly $3bn, capping a fast climb for a business that only came out of stealth last summer. […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/06/genesis-ai-eno-robot-humanoid-alternative.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/genesis-ai-500m-raise-robotics-foundation-model",
         "date": "24 July 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "05+ Best AI Video Generators of 2026 (Tested & Compared) - AiVideo-Expert.com",
+        "title_en": "05+ Best AI Video Generators of 2026 (Tested & Compared) - AiVideo-Expert.com",
+        "summary": "05+ Best AI Video Generators of 2026 (Tested & Compared) Ajay July 25, 2026 7:22 am Ai Video Generators 05+ Best AI Video Generators of 2026 (Tested & Compared) AI video generation is evolving at an i",
+        "summary_en": "ImagineArt has grown into a capable AI creative suite that combines image generation, video creation, voice tools, and access to multiple leading AI models. Depending on your subscription, you can gen",
+        "long_summary": "05+ Best AI Video Generators of 2026 (Tested & Compared) Ajay July 25, 2026 7:22 am Ai Video Generators 05+ Best AI Video Generators of 2026 (Tested & Compared) AI video generation is evolving at an incredible pace, with new models and platforms launching almost every month. This is a living ranking of the best AI video generators in 2026, updated as the market changes. If you’re looking for comparisons of the underlying AI models, including motion quality, realism, and independent Elo rankings, check out our companion guide on the best AI video models. One thing that’s important to understand is that AI video generators and AI video models are not the same thing. Models like Veo, Sora, Kling, Seedance, and Omnia are the engines responsible for generating the video itself. The generator is the platform you actually use to create videos. It determines your workflow, available models, collaboration features, pricing, automation tools, and overall production experience. This ranking focuses exclusively on AI video generators —the platforms that creators, marketers, and production teams use to turn prompts, images, and scripts into finished videos. The Best AI Video Generators of 2026 at a Glance For those who want a quick overview, here’s a summary of the top best AI video generators and what they excel at: Tool Best For Starting Price (Monthly) Kling Cinematic, photorealistic text-to-video and image-to-video $6.99/month Runway Professional AI filmmaking, editing, motion trackin",
+        "long_summary_en": "05+ Best AI Video Generators of 2026 (Tested & Compared) Ajay July 25, 2026 7:22 am Ai Video Generators 05+ Best AI Video Generators of 2026 (Tested & Compared) AI video generation is evolving at an incredible pace, with new models and platforms launching almost every month. This is a living ranking of the best AI video generators in 2026, updated as the market changes. If you’re looking for comparisons of the underlying AI models, including motion quality, realism, and independent Elo rankings, check out our companion guide on the best AI video models. One thing that’s important to understand",
+        "image": "https://aivideo-expert.com/wp-content/uploads/2026/07/05-Best-AI-Video-Generators-of-2026-Tested-Compared.webp",
+        "source": "Aivideo-Expert",
+        "url": "https://aivideo-expert.com/best-ai-video-generators/",
+        "date": "26 July 2026"
+      },
+      {
+        "title": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
+        "title_en": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
+        "summary": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a founda",
+        "summary_en": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a founda",
+        "long_summary": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system is Photon-1, a sparse 106B-A5B mixture-of-experts (MoE) […]\nThe post Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run appeared first on MarkTechPost.",
+        "long_summary_en": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system is Photon-1, a sparse 106B-A5B mixture-of-experts (MoE) […]\nThe post Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-5-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/",
+        "date": "26 July 2026"
+      },
+      {
         "title": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
         "title_en": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
         "summary": "Security The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days By Lily Hay Newman and Dhruv Mehrotra Business China-US AI Race Escalates, OpenAI Models Break Free, and Why ",
@@ -521,33 +545,21 @@
         "source": "Aiweekly",
         "url": "https://aiweekly.co/alerts/runway-launches-media-router-that-auto-picks-ai-media-models",
         "date": "24 July 2026"
-      },
-      {
-        "title": "Runway | AI Image and Video Generator",
-        "title_en": "Runway | AI Image and Video Generator",
-        "summary": "Generate images and video with AI. Text to video, image to video, plus more. Runway&#x27;s AI image and video generation tools trusted by millions worldwide",
-        "summary_en": "Generate images and video with AI. Text to video, image to video, plus more. Runway&#x27;s AI image and video generation tools trusted by millions worldwide",
-        "long_summary": "Generate images and video with AI. Text to video, image to video, plus more. Runway&#x27;s AI image and video generation tools trusted by millions worldwide",
-        "long_summary_en": "Generate images and video with AI. Text to video, image to video, plus more. Runway&#x27;s AI image and video generation tools trusted by millions worldwide",
-        "image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/product-og.png",
-        "source": "Runway",
-        "url": "https://runway.com/product",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio — but in limited release to start | VentureBeat",
-        "title_en": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio — but in limited release to start | VentureBeat",
-        "summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
-        "summary_en": "In early head-to-head preference testing on 10-second, 720p text-to-video clips with audio, the company says FLUX 3 was preferred over Luma Ray 3.2 in 93% of comparisons, Runway Gen-4.5 in 77%, Grok I",
-        "long_summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
-        "long_summary_en": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
-        "image": "",
-        "source": "Venturebeat",
-        "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
-        "date": "24 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
+        "title_en": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
+        "summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 44 minutes ago · 8:46 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic ext",
+        "summary_en": "<strong>Anthropic opened April at 54% because Claude Opus 4.6 is the incumbent — it holds Arena #1 at 1506 Elo with a large gap over Gemini 3 Pro. Google sits at 24% partly because Gemini 3.1 Pro laun",
+        "long_summary": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 44 minutes ago · 8:46 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic extended its lead on the AI model leaderboard last week with back-to-back releases: Claude Opus 4.7 on April 16, which pushed the company to the top of the Artificial Analysis Intelligence Index at 57, and Claude Design a day later, an AI design tool that sent Figma, Adobe, Wix, and GoDaddy shares down 2-4% on the news. xAI shipped Grok 4.3 Beta to SuperGrok Heavy subscribers the same week but without Arena-level impact. Polymarket now prices Anthropic at 100.0% to hold the best LLM spot through April 30, with $0 in cumulative volume on the April market. Our cross-platform odds for this month's \"Best AI Model by Company\" market aggregates live probability blended from Kalshi and Polymarket. DeFi Rate LLM prediction data is updated every 30 minutes. Share X Reddit Email Facebook LinkedIn % American Decimal Fractional Largest Spread 0.00% Current Favorite 100.0% claude-opus-4-6-thinking ↑ +29.5% 24H Volume (Share) $0 K: — P: — Momentum Leader ↑ +29.5% claude-opus-4-6-thinking YTD change Current Odds Snapshot Current probabilities across platforms with liquidity indicators Sort: Aggregate Spread Volume A–Z Percentage (%) American (+/-) Decimal (1.00) Fractional (1/1) CO4 claude-opus-4-6-thinking Vol $0 Spread — Agg 100.0% ↑ +29.5% K 100.0% Kalshi 100.0% Vol $0 — Trade Now CO4 claude-op",
+        "long_summary_en": "Prediction Markets Best AI Model in March Odds & Predictions Predictions on Best AI Model for April LIVE Updated 44 minutes ago · 8:46 AM PDT Share Share X Reddit Email Facebook LinkedIn Anthropic extended its lead on the AI model leaderboard last week with back-to-back releases: Claude Opus 4.7 on April 16, which pushed the company to the top of the Artificial Analysis Intelligence Index at 57, and Claude Design a day later, an AI design tool that sent Figma, Adobe, Wix, and GoDaddy shares down 2-4% on the news. xAI shipped Grok 4.3 Beta to SuperGrok Heavy subscribers the same week but withou",
+        "image": "https://defirate.com/wp-content/uploads/2026/02/Who-Will-Have-Best-AI-Model-Odds.png",
+        "source": "Defirate",
+        "url": "https://defirate.com/prediction-markets/best-ai-model-odds/",
+        "date": "26 July 2026"
+      },
       {
         "title": "Google Releases Gemini 3.6 Flash AI Model July 21",
         "title_en": "Google Releases Gemini 3.6 Flash AI Model July 21",
@@ -714,18 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-        "title_en": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-        "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-        "summary_en": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-        "long_summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-        "long_summary_en": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
         "date": "25 July 2026"
       }
     ],
@@ -928,11 +928,11 @@
       "date": "25 July 2026"
     },
     {
-      "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-      "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-      "source": "Finance",
-      "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-opus-5-model-as-company-preps-for-ipo-later-this-year-170000070.html",
-      "date": "25 July 2026"
+      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
+      "source": "Republicworld",
+      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
+      "date": "10 June 2026"
     }
   ]
 }
