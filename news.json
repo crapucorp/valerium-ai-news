@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26 July 2026 - 02:17",
+  "lastUpdate": "26 July 2026 - 02:48",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "LLM News Today (July 2026) – AI Model Releases",
+        "title_en": "LLM News Today (July 2026) – AI Model Releases",
+        "summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an importan",
+        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
+        "long_summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "long_summary_en": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "26 July 2026"
+      },
+      {
+        "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+        "title_en": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+        "summary": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. ",
+        "summary_en": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. ",
+        "long_summary": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.\nThe post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost.",
+        "long_summary_en": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.\nThe post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-56-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+        "date": "26 July 2026"
+      },
+      {
         "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
         "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
         "summary": "reuters.com Please enable JS and disable any ad blocker",
@@ -702,30 +726,6 @@
         "image": "https://media.thenextweb.com/2026/07/openai-outage-chatgpt-codex-api-july-2026.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/openai-outage-chatgpt-codex-api-july-2026",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Google Releases Gemini 3.6 Flash AI Model July 21",
-        "title_en": "Google Releases Gemini 3.6 Flash AI Model July 21",
-        "summary": "Google DeepMind released three new Gemini models on July 21: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. The announcement refocused the company on practical efficiency rather than chasing f",
-        "summary_en": "<strong>It last saw updates in February 2026</strong>. The silence around a Pro refresh suggests Google is prioritizing shipping smaller, faster models that compete on value rather than raw capability",
-        "long_summary": "Google DeepMind released three new Gemini models on July 21: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. The announcement refocused the company on practical efficiency rather than chasing flagship capability updates. Advertisement Gemini 3.6 Flash is Google’s updated workhorse model, cutting token usage by up to 17% compared to its predecessor while improving coding , knowledge work, and multimodal performance. The cost per token drops, making it attractive for production applications where API spend matters. Three Models, Three Purposes Gemini 3.5 Flash-Lite targets developers who need the cheapest option for straightforward tasks. Lighter models trade raw capability for speed and cost. For many use cases, you don’t need the heaviest hitter. Flash Cyber is specialized for cybersecurity work. Google fine-tuned it for vulnerability discovery and exploitation prevention. The model supports threat modeling, code review, and red-teaming exercises. Access is limited to governments and trusted partners for now. The Flagship Gap Notably absent from the release is an update to Gemini Pro, Google’s flagship model. It last saw updates in February 2026. The silence around a Pro refresh suggests Google is prioritizing shipping smaller, faster models that compete on value rather than raw capability. This mirrors what competitors are doing. OpenAI ships multiple GPT variants. Anthropic offers Claude at different scale tiers. The market is moving toward specialization. Hardware a",
-        "long_summary_en": "Google DeepMind released three new Gemini models on July 21: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. The announcement refocused the company on practical efficiency rather than chasing flagship capability updates. Advertisement Gemini 3.6 Flash is Google’s updated workhorse model, cutting token usage by up to 17% compared to its predecessor while improving coding , knowledge work, and multimodal performance. The cost per token drops, making it attractive for production applications where API spend matters. Three Models, Three Purposes Gemini 3.5 Flash-Lite targets developers who ",
-        "image": "https://inews.zoombangla.com/wp-content/uploads/2026/07/Google-Gemini-3.6-Flash-model.jpg",
-        "source": "Inews",
-        "url": "https://inews.zoombangla.com/google-gemini-3-6-flash-july-21/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
-        "title_en": "Google's Gemini delay widens AI race with OpenAI, Anthropic",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>Organizational friction and employee departures are complicating the race to release Gemini 3.5 Pro</strong>.",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://www.varindia.com/storage/news/2026/07/AEjAb7bHlHs4ug7oIGYWUafhFJJmk8zP1KdqAh4c.jpg",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
         "date": "25 July 2026"
       }
     ],
