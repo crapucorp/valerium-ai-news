@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "26 July 2026 - 18:30",
+  "lastUpdate": "01 August 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
+        "title_en": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
+        "summary": "DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release supersedin",
+        "summary_en": "DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release supersedin",
+        "long_summary": "DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release superseding the preview, and that the architecture and size are unchanged. The gains come from re-post-training, not a new design. The checkpoint ships with the […]\nThe post DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains appeared first on MarkTechPost.",
+        "long_summary_en": "DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is explicit that this is the official release superseding the preview, and that the architecture and size are unchanged. The gains come from re-post-training, not a new design. The checkpoint ships with the […]\nThe post DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains appeared first on MarkTechPost.",
+        "image": "https://modelfit.io/images/blog/charts/deepseek-v4-flash-0731-128gb-macbook.svg",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+        "date": "01 August 2026"
+      },
       {
         "title": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
         "title_en": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
@@ -168,18 +180,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-        "title_en": "Bluesky’s AI assistant Attie expands into an open social research tool",
-        "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-        "summary_en": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-        "long_summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-        "long_summary_en": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/attie-logo.webp?w=1200",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
         "date": "24 July 2026"
       }
     ],
@@ -367,6 +367,54 @@
     ],
     "video": [
       {
+        "title": "12 Best Runway Alternatives in 2026 (Free & Paid Compared)",
+        "title_en": "12 Best Runway Alternatives in 2026 (Free & Paid Compared)",
+        "summary": "2 R Runway ML $12 - $78/month 125 free credits one-time, then paid plans Cloud-based AI video generation and editing platform with Gen-4 and Aleph models for text-to-video, image-to-video, and advance",
+        "summary_en": "Video length varies by tool. Pika Labs creates 3-10 second clips, Runway generates up to 40 seconds, <strong>Sora produces 20-second videos</strong>, while Kling AI leads with up to 3-minute videos.",
+        "long_summary": "2 R Runway ML $12 - $78/month 125 free credits one-time, then paid plans Cloud-based AI video generation and editing platform with Gen-4 and Aleph models for text-to-video, image-to-video, and advanced post-generation editing capabilities. Pros Powerful Gen-4 with character consistency Revolutionary Aleph in-video editing Intuitive browser-based interface Commercial rights on all plans Collaborative team workspaces Cons Free credits are limited and one-time only Per-user pricing expensive for teams No Android or iPad app No custom model training Best for: Professional creators needing narrative-driven content with consistent characters Visit Site",
+        "long_summary_en": "2 R Runway ML $12 - $78/month 125 free credits one-time, then paid plans Cloud-based AI video generation and editing platform with Gen-4 and Aleph models for text-to-video, image-to-video, and advanced post-generation editing capabilities. Pros Powerful Gen-4 with character consistency Revolutionary Aleph in-video editing Intuitive browser-based interface Commercial rights on all plans Collaborative team workspaces Cons Free credits are limited and one-time only Per-user pricing expensive for teams No Android or iPad app No custom model training Best for: Professional creators needing narrativ",
+        "image": "https://marketplace.relevanceai.com/OG.png",
+        "source": "Marketplace",
+        "url": "https://marketplace.relevanceai.com/compare/runway-alternatives",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "Runway | AI Image and Video Generator",
+        "title_en": "Runway | AI Image and Video Generator",
+        "summary": "Generate images and video with AI. Text to video, image to video, plus more. Runway&#x27;s AI image and video generation tools trusted by millions worldwide",
+        "summary_en": "Generate images and video with AI. Text to video, image to video, plus more. Runway&#x27;s AI image and video generation tools trusted by millions worldwide",
+        "long_summary": "Generate images and video with AI. Text to video, image to video, plus more. Runway&#x27;s AI image and video generation tools trusted by millions worldwide",
+        "long_summary_en": "Generate images and video with AI. Text to video, image to video, plus more. Runway&#x27;s AI image and video generation tools trusted by millions worldwide",
+        "image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/product-og.png",
+        "source": "Runway",
+        "url": "https://runway.com/product",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "AI Video Generator | Runway",
+        "title_en": "AI Video Generator | Runway",
+        "summary": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video",
+        "summary_en": "An AI video generator <strong>creates video from a text prompt, an image or an existing clip</strong>. Most models can work with multiple input sources to generate an AI video output.",
+        "long_summary": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video prompting guide",
+        "long_summary_en": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video prompting guide",
+        "image": "https://www.easemate.ai/_image/home/features/2x/imageLand/ai_video-2x.webp",
+        "source": "Runway",
+        "url": "https://runway.com/product/ai-video-generator",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
+        "title_en": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
+        "summary": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model ",
+        "summary_en": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model ",
+        "long_summary": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model that reads text, images, video, and audio as one unified context and returns video with native stereo sound. The mains specs include: 2K output, 4–15 seconds, integer durations […]\nThe post MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio appeared first on MarkTechPost.",
+        "long_summary_en": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model that reads text, images, video, and audio as one unified context and returns video with native stereo sound. The mains specs include: 2K output, 4–15 seconds, integer durations […]\nThe post MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog6171-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
+        "date": "01 August 2026"
+      },
+      {
         "title": "05+ Best AI Video Generators of 2026 (Tested & Compared) - AiVideo-Expert.com",
         "title_en": "05+ Best AI Video Generators of 2026 (Tested & Compared) - AiVideo-Expert.com",
         "summary": "05+ Best AI Video Generators of 2026 (Tested & Compared) Ajay July 25, 2026 7:22 am Ai Video Generators 05+ Best AI Video Generators of 2026 (Tested & Compared) AI video generation is evolving at an i",
@@ -497,57 +545,117 @@
         "source": "Claudefa",
         "url": "https://claudefa.st/blog/tools/mcp-extensions/higgsfield-mcp",
         "date": "25 July 2026"
-      },
-      {
-        "title": "Video generation with Sora | OpenAI API",
-        "title_en": "Video generation with Sora | OpenAI API",
-        "summary": "Explore The Sora 2 video generation models and Videos API are deprecated and will shut down on September 24, 2026. This affects Videos API, sora-2 , sora-2-pro , sora-2-2025-10-06 , sora-2-2025-12-08 ",
-        "summary_en": "<strong>The Sora 2 video generation models and Videos API are deprecated and will shut down on September 24, 2026</strong>. This affects Videos API, sora-2, sora-2-pro, sora-2-2025-10-06, sora-2-2025-",
-        "long_summary": "Explore The Sora 2 video generation models and Videos API are deprecated and will shut down on September 24, 2026. This affects Videos API, sora-2 , sora-2-pro , sora-2-2025-10-06 , sora-2-2025-12-08 , and sora-2-pro-2025-10-06 . See the deprecations page for details. Overview Sora is OpenAI’s newest frontier in generative media – a state-of-the-art video model capable of creating richly detailed, dynamic clips with audio from natural language or images. Built on years of research into multimodal diffusion and trained on diverse visual data, Sora brings a deep understanding of 3D space, motion, and scene continuity to text-to-video generation. The Videos API exposes these capabilities to developers for the first time, enabling programmatic creation, extension, editing, and management of videos. You can use it to: Create new videos from prompts. Guide a generation with an image reference. Reuse character assets across multiple generations for stronger visual consistency. Continue a completed clip with video extensions. Edit an existing video with targeted changes. Download finished videos and supporting assets. Submit large offline render queues through the Batch API . Models The second generation Sora model comes in two variants, each tailored for different use cases. Sora 2 sora-2 is designed for speed and flexibility . It’s ideal for the exploration phase, when you’re experimenting with tone, structure, or visual style and need quick feedback rather than perfect fidelity. I",
-        "long_summary_en": "Explore The Sora 2 video generation models and Videos API are deprecated and will shut down on September 24, 2026. This affects Videos API, sora-2 , sora-2-pro , sora-2-2025-10-06 , sora-2-2025-12-08 , and sora-2-pro-2025-10-06 . See the deprecations page for details. Overview Sora is OpenAI’s newest frontier in generative media – a state-of-the-art video model capable of creating richly detailed, dynamic clips with audio from natural language or images. Built on years of research into multimodal diffusion and trained on diverse visual data, Sora brings a deep understanding of 3D space, motion",
-        "image": "https://developers.openai.com/og/api/docs/guides/video-generation.png",
-        "source": "Developers",
-        "url": "https://developers.openai.com/api/docs/guides/video-generation",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Sora 2 Powered TikTok Creator: Studio-Quality Tools | HiggsField",
-        "title_en": "Sora 2 Powered TikTok Creator: Studio-Quality Tools | HiggsField",
-        "summary": "Step 1 of 3 Type your idea Describe your video idea, paste a link, or give the AI a topic. Our AI script generator will craft the perfect narrative for your TikTok.",
-        "summary_en": "Perfect for creating engaging ... into dynamic, studio-quality video ads. <strong>Sora 2 x Higgsfield generates cinematic, ready-to-publish Reels that make your products irresistible</strong>....",
-        "long_summary": "Step 1 of 3 Type your idea Describe your video idea, paste a link, or give the AI a topic. Our AI script generator will craft the perfect narrative for your TikTok.",
-        "long_summary_en": "Step 1 of 3 Type your idea Describe your video idea, paste a link, or give the AI a topic. Our AI script generator will craft the perfect narrative for your TikTok.",
-        "image": "https://higgsfield.ai/thumbnail/tiktok.jpg",
-        "source": "Higgsfield",
-        "url": "https://higgsfield.ai/sora-2-tiktok",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Is A2E AI Really Uncensored?",
-        "title_en": "Is A2E AI Really Uncensored?",
-        "summary": "FREE NEWSLETTER Stop Reading About AI. Start Using It. Join 18,000+ people learning how to plug AI into their daily work and building automations that get real results.",
-        "summary_en": "After spending three weeks on A2E’s Pro plan generating 80+ videos and images across its avatar, face swap, voice clone, and image-to-video tools, here is my honest answer to the question everyone is ",
-        "long_summary": "FREE NEWSLETTER Stop Reading About AI. Start Using It. Join 18,000+ people learning how to plug AI into their daily work and building automations that get real results.",
-        "long_summary_en": "FREE NEWSLETTER Stop Reading About AI. Start Using It. Join 18,000+ people learning how to plug AI into their daily work and building automations that get real results.",
-        "image": "https://autogpt.net/wp-content/uploads/2025/03/url-preview-agents.jpg",
-        "source": "Autogpt",
-        "url": "https://autogpt.net/is-a2e-ai-really-uncensored/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Runway launches Media Router that auto-picks AI media models | AI Weekly",
-        "title_en": "Runway launches Media Router that auto-picks AI media models | AI Weekly",
-        "summary": "TL;DR Runway launched its Media Router on Thursday through Runway Dev, routing requests across its own image, video and audio models plus third-party APIs. Developers choose whether to prioritize qual",
-        "summary_en": "Co-CEO Anastasis Germanidis frames it as an orchestration story, saying &quot;the orchestration increasingly matters a lot because people are building entire campaigns with those models,&quot; and tha",
-        "long_summary": "TL;DR Runway launched its Media Router on Thursday through Runway Dev, routing requests across its own image, video and audio models plus third-party APIs. Developers choose whether to prioritize quality, speed or cost, and the router picks a model to match, according to TechCrunch's report. Runway Dev already counts Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock and Quora as customers, per the same report. Runway does not want to be just another AI model company anymore. It wants to be the plumbing underneath the whole generative media stack, and on Thursday it shipped the piece that makes that pitch concrete. According to TechCrunch , the company launched Runway Media Router through Runway Dev, its developer platform that opened earlier this month and already counts Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock and Quora as customers. The mechanic is simple to describe and harder to build. A developer tells the router whether they care most about quality, speed or cost for a given image, video or audio request, and the router picks a model from Runway's own lineup plus a growing roster of third-party APIs. Chief Product Officer Anthony Maggio told the outlet that \"most developers are not spending the time to really understand the capabilities of each of these models and where they excel or differ,\" which is a polite way of saying nobody wants to benchmark six video models before every campaign. What makes this interesting strategically is the timing. Runway's l",
-        "long_summary_en": "TL;DR Runway launched its Media Router on Thursday through Runway Dev, routing requests across its own image, video and audio models plus third-party APIs. Developers choose whether to prioritize quality, speed or cost, and the router picks a model to match, according to TechCrunch's report. Runway Dev already counts Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock and Quora as customers, per the same report. Runway does not want to be just another AI model company anymore. It wants to be the plumbing underneath the whole generative media stack, and on Thursday it shipped the piece that ma",
-        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
-        "source": "Aiweekly",
-        "url": "https://aiweekly.co/alerts/runway-launches-media-router-that-auto-picks-ai-media-models",
-        "date": "24 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In – NaturalNews.com",
+        "title_en": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In – NaturalNews.com",
+        "summary": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In â NaturalNews.com Home Brighteon Prep with Mike Interviews Audio Books BrightAnswers.ai Download Our App About Us FAQs Search Section",
+        "summary_en": "Chinese companies such as DeepSeek and ByteDance have released AI models that rival U.S. giants like OpenAI and Google with significant cost and efficiency advantages, according to previous reports [1",
+        "long_summary": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In â NaturalNews.com Home Brighteon Prep with Mike Interviews Audio Books BrightAnswers.ai Download Our App About Us FAQs Search Sections Follow Us Podcast Store Subscribe BrightAnswers.ai Home Politics Culture Health & Medicine Finance & Economy Prepping & Survival Science Technology Popular Articles Today Week Month Year See More Popular Articles Health Ranger Report 2:17:36 Bright Videos News, July 31, 2026 - U.S. Military DEFEATED, Fauci SHAMED, and Truth-Tellers VINDICATED 34:25 Iran Is Now Picking Apart the Defeated U.S. Military with Precision Attacks on Critical Air Bases 23:43 Fauci Destroyed Millions of Lives, and Truth-Tellers Are Owed Vast Apologies 1:19:46 Michael Yon, Mike Adams, Steve Murray and Michael Farris on Global Chokepoint Warfare and the Coming Famine 1:50:41 Bright Videos News, July 30, 2026 - Fauci and Trump Are Running a Genetic KILL SWITCH War Against Humanity 50:15 Fauci and Trump Are Globalist Puppets In A GENETIC WAR Against the Entire Human Race 50:45 Mike Adams Joins Rex Jones to Talk About the Genetic Kill Switch, Nuclear War and Civilizational Collapse Home // Artificial Intelligence OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In 07/31/2026 // Douglas Harrington // Views Tags: AI tokens , artificial intelligence , Big Tech , Bubble , business , ChatGPT , Collapse , computing , corporations , future tech , Glitch , GPT-5.6 Luna , information technology , input t",
+        "long_summary_en": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In â NaturalNews.com Home Brighteon Prep with Mike Interviews Audio Books BrightAnswers.ai Download Our App About Us FAQs Search Sections Follow Us Podcast Store Subscribe BrightAnswers.ai Home Politics Culture Health & Medicine Finance & Economy Prepping & Survival Science Technology Popular Articles Today Week Month Year See More Popular Articles Health Ranger Report 2:17:36 Bright Videos News, July 31, 2026 - U.S. Military DEFEATED, Fauci SHAMED, and Truth-Tellers VINDICATED 34:25 Iran Is Now Picking Apart the Defeated U.S. Mil",
+        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/openai-gpt-56-luna-ai-price-cuts-3082-original.jpg",
+        "source": "Naturalnews",
+        "url": "https://www.naturalnews.com/2026-07-31-openai-cuts-price-gpt-luna-ai-model.html",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "Newsroom \\ Anthropic",
+        "title_en": "Newsroom \\ Anthropic",
+        "summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement fo",
+        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "long_summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners. Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale. News Search Date Category Title Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations Jul 27, 2026 Announcements Our position on open-weights models Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients Jul 24, 2026 Product Introducing Claude Opus 5 Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund Jul 22",
+        "long_summary_en": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's codi",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "AI Subscription Pricing Compared | AI Pricing Guru",
+        "title_en": "AI Subscription Pricing Compared | AI Pricing Guru",
+        "summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advance",
+        "summary_en": "Use the token pricing table when you are building with OpenAI, Claude, Gemini, Groq, or other model APIs. ... Estimate the break-even point between a monthly plan and pay-as-you-go token usage. ChatGP",
+        "long_summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-01 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Team per seat ChatGPT Free ChatGPT Free ChatGPT Free Models: gpt-5-mini, gpt-4o-mini Limited access to GPT-5 with usage caps, unlimited GPT-5 mini $8 /mo ChatGPT Go ChatGPT Go Models: gpt-5.5, gpt-5.5-mini, gpt-5-mini Official ChatGPT pricing page still lists Go as an individual plan; price is retained from the prior verified source when the raw page omits the amount. $20 /mo ChatGPT Plus ChatGPT Plus Models: gpt-5.6, gpt-5.6-thinking GPT-5.6 is appearing in paid ChatGPT subscriptions. Availability may roll out by account, region, and plan; higher-capacity Pro access remains reserved for Pro, Business, Enterprise, and Edu. $100 /mo ChatGPT Pro ($100) ChatGPT Pro ($100) Models: gpt-5.6, gpt-5.6-sol, gpt-5.4, o3-pro, codex 5x higher limits than Plus; launch promo gives 10x Codex usage versus Plus through May 31, 2026. $200 /mo ChatGPT Pro ($200) ChatGPT Pro ($200) Models: gpt-5.6, gpt-5.6-so",
+        "long_summary_en": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-01 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Te",
+        "image": "https://www.aipricing.guru/og/subscriptions.png",
+        "source": "Aipricing",
+        "url": "https://www.aipricing.guru/subscriptions/",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+        "title_en": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+        "summary": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather tha",
+        "summary_en": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather tha",
+        "long_summary": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios completed with a 100% hot-reload success rate and roughly 1% runtime overhead.\nThe post JetBrains Open-Source",
+        "long_summary_en": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios completed with a 100% hot-reload success rate and roughly 1% runtime overhead.\nThe post JetBrains Open-Source",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-15-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+        "title_en": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+        "summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
+        "summary_en": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
+        "long_summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.\nThe post Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks appeared first on MarkTechPost.",
+        "long_summary_en": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.\nThe post Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks appeared first on MarkTechPost.",
+        "image": "https://aithinkerlab.com/wp-content/uploads/2026/03/Bar-chart-comparing-OpenAI-Codex-and-Claude-Code-benchmark-scores-1024x683.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "Anthropic says Claude accidentally hacked real companies too",
+        "title_en": "Anthropic says Claude accidentally hacked real companies too",
+        "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co",
+        "summary_en": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co",
+        "long_summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI […]",
+        "long_summary_en": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "It’s time to panic about AI safety",
+        "title_en": "It’s time to panic about AI safety",
+        "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
+        "summary_en": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
+        "long_summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of […]",
+        "long_summary_en": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+        "title_en": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+        "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o",
+        "summary_en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out o",
+        "long_summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+        "long_summary_en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "title_en": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "summary_en": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "long_summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "long_summary_en": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "date": "01 August 2026"
+      },
       {
         "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
         "title_en": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
@@ -619,114 +727,6 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
         "date": "26 July 2026"
-      },
-      {
-        "title": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-        "title_en": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-        "summary": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly Anthropic Company Tracked keywords: anthropic, claude, claude code, claude opus, claude sonnet 72 AI Weekly issues and 72 live storie",
-        "summary_en": "<strong>Anthropic Brings Claude Cowork to Web and Mobile for Max Subscribers</strong> — Publishes Usage Data Showing Just 8.7% of Sessions Are Coding, 33.4% Are Business Ops ... Microsoft Starts Repla",
-        "long_summary": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly Anthropic Company Tracked keywords: anthropic, claude, claude code, claude opus, claude sonnet 72 AI Weekly issues and 72 live stories from the last 30 days mention Anthropic. 517 total mentions 15/20 recent issues -100% vs. baseline peak 17 /issue tracked since 2026-03-11 Anthropic ended April being priced as a long-dated electricity hedge . Google committed up to $40B at a $350B valuation with 5GW of Cloud capacity over five years; Amazon doubled-up earlier the same week with $25B and matching Trainium capacity. With $30B+ revenue run rate (1,400% YoY), an October IPO at $800B is now in play. The other story this month: Mythos , a model held back under Project Glasswing because it can autonomously discover zero-days, was breached via a third-party vendor portal — containment failed at the procurement layer, not the model layer. AI Weekly tracks every Claude release, lab deal, and security disclosure. Mention Trend — Last 20 Issues Live Stories (72) WSJ: Corporate America Suddenly Pulls Back AI Spending as Costs Balloon and Chinese Models Get a Look wsj.com · 2026-07-25 · Score: 23 NYT: OpenAI and Anthropic Quietly Lobby Washington to Restrict Open-Source AI as Altman Publicly Backs It nytimes.com · 2026-07-25 · Score: 23 ALERT Anthropic Ships Claude Opus 5, Matches Fable 5 on Most Benchmarks at Half the Price anthropic.com · 2026-07-24 · Score: 34 Echo Debuts on Hacker News, Claims Fable-Level Results From O",
-        "long_summary_en": "Anthropic AI News — Latest Updates, Tracker & Coverage | AI Weekly Anthropic Company Tracked keywords: anthropic, claude, claude code, claude opus, claude sonnet 72 AI Weekly issues and 72 live stories from the last 30 days mention Anthropic. 517 total mentions 15/20 recent issues -100% vs. baseline peak 17 /issue tracked since 2026-03-11 Anthropic ended April being priced as a long-dated electricity hedge . Google committed up to $40B at a $350B valuation with 5GW of Cloud capacity over five years; Amazon doubled-up earlier the same week with $25B and matching Trainium capacity. With $30B+ re",
-        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
-        "source": "Aiweekly",
-        "url": "https://aiweekly.co/ai-news-today/anthropic-news",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "AI Updates Today (July 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (July 2026) – Latest AI Model Releases",
-        "summary": "Quick verification Confirm you're human to keep going.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Quick verification Confirm you're human to keep going.",
-        "long_summary_en": "Quick verification Confirm you're human to keep going.",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
-        "title_en": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
-        "summary": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthrop",
-        "summary_en": "The rest of the headlines landed in the final week of June: <strong>OpenAI first previewed GPT-5.6 on June 26 behind a US-government access list</strong>; Meituan open-sourced LongCat-2.0, a 1.6-trill",
-        "long_summary": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthropic refusing the Pentagon’s demand to strip the guardrails off Claude for autonomous weapons and mass surveillance. The administration then told federal agencies Read More »",
-        "long_summary_en": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthropic refusing the Pentagon’s demand to strip the guardrails off Claude for autonomous weapons and mass surveillance. The administration then told federal agencies Read More »",
-        "image": "https://felloai.com/wp-content/uploads/2026/07/best-ai-models-in-July-2026.jpg",
-        "source": "Felloai",
-        "url": "https://felloai.com/best-ai-models/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-        "title_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year",
-        "summary": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted",
-        "summary_en": "Opus 5 comes after OpenAI (OPAI.PVT) released its GPT-5.6 family of models earlier this month. <strong>Google is also preparing to release its Gemini 3.5 Pro model, but according to Bloomberg, it&#x27",
-        "long_summary": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted its Claude Opus 5 AI model on Friday, the fourth in its Claude 5 family of models, which also includes its powerful Mythos 5 and Fable 5. Fable 5 is Anthropic's most capable publicly available model, meant for \"days-long autonomous projects,\" the company said. Mythos 5 is Anthropic's current cutting-edge model, but the AI lab has limited availability to a select group of companies and organizations due to its impressive hacking capabilities. The company is framing Opus 5 as the go-to AI model for most tasks, including knowledge work and automation. According to Anthropic, Opus 5 approaches Fable 5's competencies at half the cost. Unlike Fable 5, Opus 5 doesn't retain user data for 30 days. Anthropic said it retains user inputs and outputs for Fable 5 as part of its safety efforts and to prevent future misuse. Opus 5 comes after OpenAI ( OPAI.PVT ) released its GPT-5.6 family of models earlier this month. Google is also preparing to release its Gemini 3.5 Pro model, but according to Bloomberg , it's been delayed. Google pushed back against the report. Anthropic CEO and co-founder Dario Amodei speaks during the 56th annual World Economic Forum meeting in Davos, Switzerland, on Jan. 20, 2026. (Reuters/Denis Balibouse) · REUTERS / Reuters The Trump administration initially forced An",
-        "long_summary_en": "Anthropic debuts Opus 5 model as company preps for IPO later this year Daniel Howley · Technology Editor Fri, July 24, 2026 at 7:00 PM GMT+2 2 min read ANTH.PVT OPAI.PVT Anthropic ( ANTH.PVT ) debuted its Claude Opus 5 AI model on Friday, the fourth in its Claude 5 family of models, which also includes its powerful Mythos 5 and Fable 5. Fable 5 is Anthropic's most capable publicly available model, meant for \"days-long autonomous projects,\" the company said. Mythos 5 is Anthropic's current cutting-edge model, but the AI lab has limited availability to a select group of companies and organizatio",
-        "image": "https://s.yimg.com/lo/mysterio/api/ED649306CA8E757F21286EF832CF0ADE7B8DD00949636A750C3414BAF1804D46/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-05%2F836c3654-d573-4758-8156-4e061678fe5e",
-        "source": "Finance",
-        "url": "https://finance.yahoo.com/technology/article/anthropic-debuts-opus-5-model-as-company-preps-for-ipo-later-this-year-170000070.html",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
-        "title_en": "Where is Gemini 3.5 Pro? The case of the missing AI model. | Mashable",
-        "summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launch",
-        "summary_en": "Claude, Gemini, and ChatGPT — get these AI models and more for life for $60 · <strong>On July 9, OpenAI announced its own next-generation model with advanced cybersecurity coding abilities, GPT‑5.6 So",
-        "long_summary": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launched a lighter-weight Gemini 3.5 Flash model for everyday use. However, Google CEO Sundar Pichai assured the audience that Gemini 3.5 Pro would follow in June. \"We are also excited for 3.5 Pro,” Pichai said at a pre-Google I/O media briefing. “We are using it internally. It's showing great improvements. We are still testing and refining it, and it will roll out to everyone next month.\" As of July 17, there's still no sign of the model. You May Also Like Our big Guessing Game is back! Enter now for a chance to win an Apple Watch . So, where is Gemini 3.5 Pro? Yesterday, Bloomberg published a report on the delayed launch, with reporters Julia Love and Davey Alba writing that \"The delay has caused frustration among Google engineers, AI researchers, and managers, who are concerned the company risks losing its edge in the market to rivals Anthropic and OpenAI.\" Mashable reached out to Google with questions about the Gemini 3.5 Pro launch timeline, and the company provided the same statement it shared with Bloomberg. Mashable Light Speed Want more out-of-this world tech, space and science stories? Sign up for Mashable's weekly Light Speed newsletter. Loading... Sign Me Up Use this instead By clicking Sign Me Up, you confirm you are 16+ and agree to our Terms of Use and Privacy Policy . T",
-        "long_summary_en": "Credit: Ian Moore / Mashable / Shutterstock Gemini users who were hoping to see the launch of Gemini 3.5 Pro at Google I/O 2026 left disappointed. At the May developers' conference, the company launched a lighter-weight Gemini 3.5 Flash model for everyday use. However, Google CEO Sundar Pichai assured the audience that Gemini 3.5 Pro would follow in June. \"We are also excited for 3.5 Pro,” Pichai said at a pre-Google I/O media briefing. “We are using it internally. It's showing great improvements. We are still testing and refining it, and it will roll out to everyone next month.\" As of July 17",
-        "image": "https://helios-i.mashable.com/imagery/articles/02HNX4RCPp31ZCG4L6SyEsk/hero-image.fill.size_1200x675.v1784317551.jpg",
-        "source": "Mashable",
-        "url": "https://mashable.com/tech/google-gemini-3-5-pro-delay",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Meta is making its AI chatbot more like an assistant",
-        "title_en": "Meta is making its AI chatbot more like an assistant",
-        "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
-        "summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
-        "long_summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
-        "long_summary_en": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0%2C4.9744178812656%2C100%2C60.121795706945&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-        "title_en": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-        "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
-        "summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, ",
-        "long_summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
-        "long_summary_en": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
-        "title_en": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
-        "summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic tea",
-        "summary_en": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic tea",
-        "long_summary": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […]\nThe post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.",
-        "long_summary_en": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens and $25 per million output tokens. The Anthropic team positions Opus 5 as approaching the intelligence of Claude Fable 5 at half the price. It is now the default model on […]\nThe post Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing appeared first on MarkTechPost.",
-        "image": "https://www.techmeme.com/simg/hard_fork-Sj20NcEz_216px.jpg",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "long_summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "long_summary_en": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-        "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-        "date": "25 July 2026"
       }
     ],
     "audio": [
@@ -921,11 +921,11 @@
       "date": "05 June 2026"
     },
     {
-      "title": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
-      "title_en": "Best AI Models in July 2026: ChatGPT, Claude, Gemini & Grok",
-      "source": "Felloai",
-      "url": "https://felloai.com/best-ai-models/",
-      "date": "25 July 2026"
+      "title": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In – NaturalNews.com",
+      "title_en": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In – NaturalNews.com",
+      "source": "Naturalnews",
+      "url": "https://www.naturalnews.com/2026-07-31-openai-cuts-price-gpt-luna-ai-model.html",
+      "date": "01 August 2026"
     },
     {
       "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
