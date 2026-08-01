@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 August 2026 - 14:34",
+  "lastUpdate": "01 August 2026 - 15:04",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Cybersecurity experts criticize Anthropic and OpenAI for security breaches that threaten national security",
+        "title_en": "Cybersecurity experts criticize Anthropic and OpenAI for security breaches that threaten national security",
+        "summary": "Via abc7news.com Cybersecurity experts criticize Anthropic and OpenAI for security breaches that threaten national security FAR.AI research reveals widespread jailbreak vulnerabilities across major AI",
+        "summary_en": "A report from FAR.AI tested multiple ... them <strong>susceptible to jailbreak attacks designed to extract genuinely dangerous outputs, including exploitative code, chemical weapons information, and b",
+        "long_summary": "Via abc7news.com Cybersecurity experts criticize Anthropic and OpenAI for security breaches that threaten national security FAR.AI research reveals widespread jailbreak vulnerabilities across major AI models, prompting export controls and White House intervention Share Add us on Google by Editorial Team Jul. 31, 2026 Cybersecurity researchers have found significant vulnerabilities in models from both Anthropic and OpenAI, with the fallout now reaching the highest levels of the US government. A report from FAR.AI tested multiple frontier models, including Anthropic’s Claude Opus 4.8, Fable 5, and OpenAI’s GPT 5.5 and 5.6, and found them susceptible to jailbreak attacks designed to extract genuinely dangerous outputs, including exploitative code, chemical weapons information, and biological weaponry details. The numbers tell a damning story Anthropic and OpenAI’s models weren’t the worst performers. That distinction belongs to xAI’s Grok models, which logged 448 instances of successful automated jailbreaks. Google’s Gemini models came in second at 249 instances. Claude, Fable, and GPT series models showed comparatively greater resistance to jailbreaking. Advertisement In June 2026, the Commerce Department restricted foreign access to Anthropic’s Fable 5 and Mythos 5 models after a reported jailbreak technique surfaced. The White House has also requested that both OpenAI and Anthropic delay the release of certain upcoming models so the government can properly assess cybersecurit",
+        "long_summary_en": "Via abc7news.com Cybersecurity experts criticize Anthropic and OpenAI for security breaches that threaten national security FAR.AI research reveals widespread jailbreak vulnerabilities across major AI models, prompting export controls and White House intervention Share Add us on Google by Editorial Team Jul. 31, 2026 Cybersecurity researchers have found significant vulnerabilities in models from both Anthropic and OpenAI, with the fallout now reaching the highest levels of the US government. A report from FAR.AI tested multiple frontier models, including Anthropic’s Claude Opus 4.8, Fable 5, a",
+        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/31191453/anthropic-ai-could-soon-escape-human-control-calls-for-globa-1-800x420.jpeg",
+        "source": "Cryptobriefing",
+        "url": "https://cryptobriefing.com/anthropic-openai-security-breaches-criticized/",
+        "date": "01 August 2026"
+      },
+      {
         "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
         "title_en": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
         "summary": "Key Points OpenAI announced it is slashing the price of two of its latest artificial intelligence models, GPT-5.6 Terra and GPT-5.6 Luna. The company said it is reducing the price of Terra by 20% and ",
@@ -714,18 +726,6 @@
         "image": "https://inews.zoombangla.com/wp-content/uploads/2026/07/Google-Gemini-3.6-Flash-model.jpg",
         "source": "Inews",
         "url": "https://inews.zoombangla.com/google-gemini-3-6-flash-july-21/",
-        "date": "26 July 2026"
-      },
-      {
-        "title": "LLM News Today (July 2026) – AI Model Releases",
-        "title_en": "LLM News Today (July 2026) – AI Model Releases",
-        "summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an importan",
-        "summary_en": "<strong>The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases</strong>. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s",
-        "long_summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
-        "long_summary_en": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
         "date": "26 July 2026"
       }
     ],
@@ -928,10 +928,10 @@
       "date": "01 August 2026"
     },
     {
-      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-      "title_en": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-      "source": "Cnbc",
-      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+      "title": "AI Subscription Pricing Compared | AI Pricing Guru",
+      "title_en": "AI Subscription Pricing Compared | AI Pricing Guru",
+      "source": "Aipricing",
+      "url": "https://www.aipricing.guru/subscriptions/",
       "date": "01 August 2026"
     }
   ]
