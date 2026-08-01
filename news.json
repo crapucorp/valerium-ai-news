@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 August 2026 - 21:08",
+  "lastUpdate": "01 August 2026 - 21:39",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "AI Model Pricing Compared: Cost Per Token (2026)",
+        "title_en": "AI Model Pricing Compared: Cost Per Token (2026)",
+        "summary": "AI Model Pricing Compared: Cost Per Token (2026) Prices verified Jul 31, 2026 AI Model Pricing: Every Model, Per-Token & Per-Seat One place to see what every major AI model actually costs — per-millio",
+        "summary_en": "Most AI vendors offer a free tier in their chat app, separate from the paid API pricing shown here. ChatGPT, Claude, and Gemini each have a free tier with usage limits (OpenAI, Anthropic, Google). The",
+        "long_summary": "AI Model Pricing Compared: Cost Per Token (2026) Prices verified Jul 31, 2026 AI Model Pricing: Every Model, Per-Token & Per-Seat One place to see what every major AI model actually costs — per-million-token API pricing and per-seat plans, sortable and source-linked. Prices verified Jul 31, 2026 Vendor: All OpenAI Anthropic Google xAI Perplexity Mistral DeepSeek Amazon Meta Cohere Moonshot AI Zhipu AI Alibaba MiniMax Model ↕ Vendor ↕ Input / 1M tokens ▲ Output / 1M tokens ↕ GLM 4.7 Flash Free tier on the Z.ai API Zhipu AI $0 $0 Nova Micro AWS Bedrock on-demand Amazon $0.035 $0.14 GPT-5 Nano Cheapest OpenAI text model OpenAI $0.05 $0.40 Nova Lite AWS Bedrock on-demand Amazon $0.06 $0.24 GLM 4.7 FlashX Fast, low-cost tier Zhipu AI $0.07 $0.40 Gemini 2.5 Flash-Lite Cheapest Gemini text rate Google $0.10 $0.40 Devstral Small 2 Agentic coding, small Mistral $0.10 $0.30 Ministral 3 (3B) Edge model Mistral $0.10 $0.10 DeepSeek V4 Flash Cache-hit input $0.003 / 1M DeepSeek $0.14 $0.28 Mistral Small 4 Mistral $0.15 $0.60 Ministral 3 (8B) Edge model Mistral $0.15 $0.15 Mistral NeMo Open-weight, Apache 2.0 Mistral $0.15 $0.15 Llama 4 Scout Hosted on AWS Bedrock Meta $0.17 $0.66 Qwen3.6 Flash Intl (Singapore) endpoint; CN endpoint cheaper Alibaba $0.19 $1.13 GPT-5.6 Luna Lowest-cost tier; price cut Jul 30, 2026 OpenAI $0.20 $1.20 GPT-5.4 Nano Cheapest 5.4-gen model OpenAI $0.20 $1.25 Ministral 3 (14B) Edge model Mistral $0.20 $0.20 GLM 4.5 Air Lightweight open-weight tier Zhipu AI $0.20 ",
+        "long_summary_en": "AI Model Pricing Compared: Cost Per Token (2026) Prices verified Jul 31, 2026 AI Model Pricing: Every Model, Per-Token & Per-Seat One place to see what every major AI model actually costs — per-million-token API pricing and per-seat plans, sortable and source-linked. Prices verified Jul 31, 2026 Vendor: All OpenAI Anthropic Google xAI Perplexity Mistral DeepSeek Amazon Meta Cohere Moonshot AI Zhipu AI Alibaba MiniMax Model ↕ Vendor ↕ Input / 1M tokens ▲ Output / 1M tokens ↕ GLM 4.7 Flash Free tier on the Z.ai API Zhipu AI $0 $0 Nova Micro AWS Bedrock on-demand Amazon $0.035 $0.14 GPT-5 Nano Ch",
+        "image": "https://www.layer3labs.io/og-default.png",
+        "source": "Layer3Labs",
+        "url": "https://www.layer3labs.io/ai-model-pricing",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "AI Subscription Pricing Compared | AI Pricing Guru",
+        "title_en": "AI Subscription Pricing Compared | AI Pricing Guru",
+        "summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advance",
+        "summary_en": "Use the token pricing table when you are building with OpenAI, Claude, Gemini, Groq, or other model APIs. ... Estimate the break-even point between a monthly plan and pay-as-you-go token usage. ChatGP",
+        "long_summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-01 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Team per seat ChatGPT Free ChatGPT Free ChatGPT Free Models: gpt-5-mini, gpt-4o-mini Limited access to GPT-5 with usage caps, unlimited GPT-5 mini $8 /mo ChatGPT Go ChatGPT Go Models: gpt-5.5, gpt-5.5-mini, gpt-5-mini Official ChatGPT pricing page still lists Go as an individual plan; price is retained from the prior verified source when the raw page omits the amount. $20 /mo ChatGPT Plus ChatGPT Plus Models: gpt-5.6, gpt-5.6-thinking GPT-5.6 is appearing in paid ChatGPT subscriptions. Availability may roll out by account, region, and plan; higher-capacity Pro access remains reserved for Pro, Business, Enterprise, and Edu. $100 /mo ChatGPT Pro ($100) ChatGPT Pro ($100) Models: gpt-5.6, gpt-5.6-sol, gpt-5.4, o3-pro, codex 5x higher limits than Plus; launch promo gives 10x Codex usage versus Plus through May 31, 2026. $200 /mo ChatGPT Pro ($200) ChatGPT Pro ($200) Models: gpt-5.6, gpt-5.6-so",
+        "long_summary_en": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-01 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Te",
+        "image": "https://www.aipricing.guru/og/subscriptions.png",
+        "source": "Aipricing",
+        "url": "https://www.aipricing.guru/subscriptions/",
+        "date": "01 August 2026"
+      },
+      {
         "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
         "title_en": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
         "summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
@@ -702,30 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/llm-updates",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In – NaturalNews.com",
-        "title_en": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In – NaturalNews.com",
-        "summary": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In â NaturalNews.com Home Brighteon Prep with Mike Interviews Audio Books BrightAnswers.ai Download Our App About Us FAQs Search Section",
-        "summary_en": "Chinese companies such as DeepSeek and ByteDance have released AI models that rival U.S. giants like OpenAI and Google with significant cost and efficiency advantages, according to previous reports [1",
-        "long_summary": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In â NaturalNews.com Home Brighteon Prep with Mike Interviews Audio Books BrightAnswers.ai Download Our App About Us FAQs Search Sections Follow Us Podcast Store Subscribe BrightAnswers.ai Home Politics Culture Health & Medicine Finance & Economy Prepping & Survival Science Technology Popular Articles Today Week Month Year See More Popular Articles Health Ranger Report 2:17:36 Bright Videos News, July 31, 2026 - U.S. Military DEFEATED, Fauci SHAMED, and Truth-Tellers VINDICATED 34:25 Iran Is Now Picking Apart the Defeated U.S. Military with Precision Attacks on Critical Air Bases 23:43 Fauci Destroyed Millions of Lives, and Truth-Tellers Are Owed Vast Apologies 1:19:46 Michael Yon, Mike Adams, Steve Murray and Michael Farris on Global Chokepoint Warfare and the Coming Famine 1:50:41 Bright Videos News, July 30, 2026 - Fauci and Trump Are Running a Genetic KILL SWITCH War Against Humanity 50:15 Fauci and Trump Are Globalist Puppets In A GENETIC WAR Against the Entire Human Race 50:45 Mike Adams Joins Rex Jones to Talk About the Genetic Kill Switch, Nuclear War and Civilizational Collapse Home // Artificial Intelligence OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In 07/31/2026 // Douglas Harrington // Views Tags: AI tokens , artificial intelligence , Big Tech , Bubble , business , ChatGPT , Collapse , computing , corporations , future tech , Glitch , GPT-5.6 Luna , information technology , input t",
-        "long_summary_en": "OpenAI Cuts GPT-5.6 Luna Price by 80% as Chinese Models Close In â NaturalNews.com Home Brighteon Prep with Mike Interviews Audio Books BrightAnswers.ai Download Our App About Us FAQs Search Sections Follow Us Podcast Store Subscribe BrightAnswers.ai Home Politics Culture Health & Medicine Finance & Economy Prepping & Survival Science Technology Popular Articles Today Week Month Year See More Popular Articles Health Ranger Report 2:17:36 Bright Videos News, July 31, 2026 - U.S. Military DEFEATED, Fauci SHAMED, and Truth-Tellers VINDICATED 34:25 Iran Is Now Picking Apart the Defeated U.S. Mil",
-        "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/openai-gpt-56-luna-ai-price-cuts-3082-original.jpg",
-        "source": "Naturalnews",
-        "url": "https://www.naturalnews.com/2026-07-31-openai-cuts-price-gpt-luna-ai-model.html",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "Newsroom \\ Anthropic",
-        "title_en": "Newsroom \\ Anthropic",
-        "summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement fo",
-        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "long_summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners. Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale. News Search Date Category Title Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations Jul 27, 2026 Announcements Our position on open-weights models Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients Jul 24, 2026 Product Introducing Claude Opus 5 Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund Jul 22",
-        "long_summary_en": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's codi",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/news",
         "date": "01 August 2026"
       }
     ],
@@ -914,6 +914,13 @@
   },
   "hotNews": [
     {
+      "title": "AI Model Pricing Compared: Cost Per Token (2026)",
+      "title_en": "AI Model Pricing Compared: Cost Per Token (2026)",
+      "source": "Layer3Labs",
+      "url": "https://www.layer3labs.io/ai-model-pricing",
+      "date": "01 August 2026"
+    },
+    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
@@ -925,13 +932,6 @@
       "title_en": "☕ Google's new AI lets robots collaborate & AI hedge fund, started by former OpenAI researcher dumps all stocks.",
       "source": "Venturedailydigest",
       "url": "https://www.venturedailydigest.com/p/googles-new-ai-lets-robots-collaborate",
-      "date": "01 August 2026"
-    },
-    {
-      "title": "OpenAI GPT-5.6 Price Cuts Slash Costs Dramatically",
-      "title_en": "OpenAI GPT-5.6 Price Cuts Slash Costs Dramatically",
-      "source": "En",
-      "url": "https://en.cryptonomist.ch/2026/07/31/openai-gpt-5-6-price-cuts/",
       "date": "01 August 2026"
     }
   ]
