@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 August 2026 - 23:42",
+  "lastUpdate": "02 August 2026 - 00:13",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "LLM News Today (August 2026) – AI Model Releases",
+        "title_en": "LLM News Today (August 2026) – AI Model Releases",
+        "summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an importan",
+        "summary_en": "The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s Claude, Google&#",
+        "long_summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "long_summary_en": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "02 August 2026"
+      },
+      {
         "title": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
         "title_en": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
         "summary": "Enable JavaScript and cookies to continue",
@@ -714,18 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "☕ Google's new AI lets robots collaborate & AI hedge fund, started by former OpenAI researcher dumps all stocks.",
-        "title_en": "☕ Google's new AI lets robots collaborate & AI hedge fund, started by former OpenAI researcher dumps all stocks.",
-        "summary": "☕ Google's new AI lets robots collaborate & AI hedge fund, started by former OpenAI researcher dumps all stocks. OpenAI's July revenue topped all of Q2 & Anthropic says Claude AI hacked three companie",
-        "summary_en": "OpenAI told employees that its <strong>annualized recurring revenue in July alone exceeded its entire second-quarter total</strong>, driven by GPT-5.6, ChatGPT Work, and Codex. The milestone highlight",
-        "long_summary": "☕ Google's new AI lets robots collaborate & AI hedge fund, started by former OpenAI researcher dumps all stocks. OpenAI's July revenue topped all of Q2 & Anthropic says Claude AI hacked three companies during cyber tests. Jul 31, 2026 Share Breaking News OpenAI told employees that its annualized recurring revenue in July alone exceeded its entire second-quarter total , driven by GPT-5.6, ChatGPT Work, and Codex. The milestone highlights the company’s accelerating commercial growth as it prepares for a potential IPO. Google unveiled Gemini Robotics ER 2, a new AI model that enables multiple robots to coordinate , communicate, and complete complex tasks together. The release marks a significant step toward more capable physical AI systems that can operate collaboratively in real-world environments. FROM OUR PARTNER - SEMRUSH Search has changed. Has your SEO strategy? Ranking on Google is still important. But today’s buyers also discover companies through ChatGPT, Gemini, AI Overviews, and other AI-powered search experiences. Semrush One helps you track both worlds from a single platform. Monitor your SEO performance, measure AI visibility, identify competitive gaps, and discover new growth opportunities before your competitors do. If your goal is to stay visible wherever customers are searching, this is worth exploring. Try Semrush One free for 7 days → PARTNERSHIP WITH US 🤝 Get your brand in front of 125,000+ decision makers. Our newsletter is read by 125,000+ of founders, CEO",
-        "long_summary_en": "☕ Google's new AI lets robots collaborate & AI hedge fund, started by former OpenAI researcher dumps all stocks. OpenAI's July revenue topped all of Q2 & Anthropic says Claude AI hacked three companies during cyber tests. Jul 31, 2026 Share Breaking News OpenAI told employees that its annualized recurring revenue in July alone exceeded its entire second-quarter total , driven by GPT-5.6, ChatGPT Work, and Codex. The milestone highlights the company’s accelerating commercial growth as it prepares for a potential IPO. Google unveiled Gemini Robotics ER 2, a new AI model that enables multiple rob",
-        "image": "https://substackcdn.com/image/fetch/$s_!LCyA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34fd5d82-b665-44d2-8662-a8e19f5c095e_800x446.jpeg",
-        "source": "Venturedailydigest",
-        "url": "https://www.venturedailydigest.com/p/googles-new-ai-lets-robots-collaborate",
         "date": "01 August 2026"
       }
     ],
@@ -921,18 +921,18 @@
       "date": "01 August 2026"
     },
     {
-      "title": "☕ Google's new AI lets robots collaborate & AI hedge fund, started by former OpenAI researcher dumps all stocks.",
-      "title_en": "☕ Google's new AI lets robots collaborate & AI hedge fund, started by former OpenAI researcher dumps all stocks.",
-      "source": "Venturedailydigest",
-      "url": "https://www.venturedailydigest.com/p/googles-new-ai-lets-robots-collaborate",
-      "date": "01 August 2026"
-    },
-    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
       "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
       "date": "05 June 2026"
+    },
+    {
+      "title": "OpenAI GPT-5.6 Price Cuts Slash Costs Dramatically",
+      "title_en": "OpenAI GPT-5.6 Price Cuts Slash Costs Dramatically",
+      "source": "En",
+      "url": "https://en.cryptonomist.ch/2026/07/31/openai-gpt-5-6-price-cuts/",
+      "date": "01 August 2026"
     }
   ]
 }
