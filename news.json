@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 August 2026 - 20:07",
+  "lastUpdate": "01 August 2026 - 20:38",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Best All-in-One AI Video Platforms in 2026: From Idea and Script to Final Video - quasa.io - ZoomYourTraffic",
+        "title_en": "Best All-in-One AI Video Platforms in 2026: From Idea and Script to Final Video - quasa.io - ZoomYourTraffic",
+        "summary": "AI has changed the landscape of video production. What used to take many software applications, proficiency in editing, and hours of work can now be done using just one program. From YouTube videos, T",
+        "summary_en": "Loova AI is a full-fledged platform designed to offer a blend of AI image generation, video generation, editing, and access to different AI models in one place. Rather than developing a dedicated AI g",
+        "long_summary": "AI has changed the landscape of video production. What used to take many software applications, proficiency in editing, and hours of work can now be done using just one program. From YouTube videos, TikTok videos, product commercials, educational videos, to marketing campaigns, AI video platforms will make your work easy. Gone are the days when you had to use different applications for image making, video editing, recording voices, adding captions, and exporting. Now, thanks to AI platforms, it all happens in one application. An all-in-one AI video platform is the integration of various AI-based creative tools into one tool. Instead of using different software for the generation of visuals, video editing, or voiceover creation, a user can perform most of their tasks from one single dashboard. Many modern platforms include features such as: These comprehensive and integrated attributes effectively streamline the entire video production process, greatly cut down repetitive manual operations, and drastically minimize overall content production time. By lowering the technical threshold and simplifying complex production procedures, such powerful all-in-one platforms enable complete novice creators with little professional video production experience, as well as seasoned professional content creators and filmmakers, to efficiently produce polished, high-quality, and platform-adaptive video content with less time and effort. Loova AI is a full-fledged platform designed to offer a b",
+        "long_summary_en": "AI has changed the landscape of video production. What used to take many software applications, proficiency in editing, and hours of work can now be done using just one program. From YouTube videos, TikTok videos, product commercials, educational videos, to marketing campaigns, AI video platforms will make your work easy. Gone are the days when you had to use different applications for image making, video editing, recording voices, adding captions, and exporting. Now, thanks to AI platforms, it all happens in one application. An all-in-one AI video platform is the integration of various AI-bas",
+        "image": "https://cdn.quasa.io/photos/0001/dgrt665hg7.jpg",
+        "source": "Zoomyourtraffic",
+        "url": "https://zoomyourtraffic.com/best-all-in-one-ai-video-platforms-in-2026-from-idea-and-script-to-final-video-quasa-io/",
+        "date": "01 August 2026"
+      },
+      {
         "title": "Sora 2 Powered TikTok Creator: Studio-Quality Tools | HiggsField",
         "title_en": "Sora 2 Powered TikTok Creator: Studio-Quality Tools | HiggsField",
         "summary": "Step 1 of 3 Type your idea Describe your video idea, paste a link, or give the AI a topic. Our AI script generator will craft the perfect narrative for your TikTok.",
@@ -533,21 +545,33 @@
         "source": "Techcrunch",
         "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
         "date": "25 July 2026"
-      },
-      {
-        "title": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-        "title_en": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-        "summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art model",
-        "summary_en": "Lip sync jobs use the same two-step pattern: a dedicated processLipSync() method accepts image_url or video_url alongside audio_url, dispatches to the model&#x27;s endpoint, and polls until the output",
-        "long_summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art models across 14 studios — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support 📺 Uncensored AI Image & Video Generator — Free & Open Source (500+ Models) → 🎨 Explore 50+ more open-source AI apps → Related Projects 🆕 FLUX 3 Python SDK: Flux-3-Dev-API — Python wrapper for Black Forest Labs' newly announced FLUX 3 — text-to-image, image-to-image, text-to-video, and image-to-video through one client, including the fast/low-cost Dev variant. 🎬 FLUX 3 video, specifically: flux-3-video-api — a focused Python wrapper for just the FLUX 3 Text-to-Video and Image-to-Video endpoints, with native synchronized audio. 🎓 Learn to monetize generative AI: ai-creator-academy — a free, open-source curriculum teaching creators, freelancers, and agencies how to make money with generative AI image/video/audio tools, covering monetization, pricing, and client delivery — not just how the models work. 🤖 Automate media generations with AI coding agents: Generative-Media-Skills — a library of skills that let agents like Claude Code , Codex , and other coding assistants drive 200+ image/video models end-to-end (prompt → generate → edit → stitch) directly from your terminal. Perfect for building automated media pipelines without touching a UI. 🎬 Seedan",
-        "long_summary_en": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art models across 14 studios — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support 📺 Uncensored AI Image & Video Generator — Free & Open Source (500+ Models) → 🎨 Explore 50+ more open-source AI apps → Related Projects 🆕 FLUX 3 Python SDK: Flux-3-Dev-API — Python wrapper for Black Forest Labs' newly announced FLUX 3 — text-to-image, image-to-ima",
-        "image": "https://opengraph.githubassets.com/9a4c136ffbedb378e792149298ef132480023136016fe0b2679e7e0b7f59ea74/Anil-matcha/Open-Generative-AI",
-        "source": "Github",
-        "url": "https://github.com/anil-matcha/open-generative-ai",
-        "date": "25 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
+        "title_en": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
+        "summary": "Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking m",
+        "summary_en": "Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking m",
+        "long_summary": "Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking model performance. Learn to build and train efficient GPT-style causal language models in PyTorch with practical code examples and performance analysis.\nThe post Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking appeared first on MarkTechPost.",
+        "long_summary_en": "Discover how to optimize transformer workloads using the NVIDIA Transformer Engine. This tutorial guides you through configuring fused GPU kernels, implementing FP8 delayed scaling, and benchmarking model performance. Learn to build and train efficient GPT-style causal language models in PyTorch with practical code examples and performance analysis.\nThe post Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog6171-2-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "It’s time to panic about AI safety",
+        "title_en": "It’s time to panic about AI safety",
+        "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
+        "summary_en": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
+        "long_summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of […]",
+        "long_summary_en": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+        "date": "01 August 2026"
+      },
       {
         "title": "OpenAI GPT-5.6 Price Cuts Slash Costs Dramatically",
         "title_en": "OpenAI GPT-5.6 Price Cuts Slash Costs Dramatically",
@@ -702,30 +726,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-15-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-        "title_en": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-        "summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
-        "summary_en": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
-        "long_summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.\nThe post Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks appeared first on MarkTechPost.",
-        "long_summary_en": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.\nThe post Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks appeared first on MarkTechPost.",
-        "image": "https://aithinkerlab.com/wp-content/uploads/2026/03/Bar-chart-comparing-OpenAI-Codex-and-Claude-Code-benchmark-scores-1024x683.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "Anthropic says Claude accidentally hacked real companies too",
-        "title_en": "Anthropic says Claude accidentally hacked real companies too",
-        "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co",
-        "summary_en": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co",
-        "long_summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI […]",
-        "long_summary_en": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation comes days after rival OpenAI said one of its own models had breached developer platform Hugging Face, adding to growing unease over whether frontier AI […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_C_96d15c-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
         "date": "01 August 2026"
       }
     ],
