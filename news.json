@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 August 2026 - 13:02",
+  "lastUpdate": "01 August 2026 - 13:32",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
+        "title_en": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>OpenAI research found AI is redrawing job boundaries, with 43.5% of occupation-specific ChatGPT use involving tasks tied to a different job</strong>, a pattern the team calls task crossover th",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "https://img.etimg.com/thumb/width-200,height-150,imgsize-1004187,resizemode-75,msid-131650230/from-finance-to-leadership-how-technology-is-shaping-smarter-decisions.jpg",
+        "source": "Trewknowledge",
+        "url": "https://trewknowledge.com/2026/07/31/ai-this-week-routing-repricing-and-the-new-economics-of-ai/",
+        "date": "01 August 2026"
+      },
+      {
         "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
         "title_en": "AI Updates Today (August 2026) – Latest AI Model Releases",
         "summary": "Quick verification Confirm you're human to keep going.",
@@ -714,18 +726,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-56-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
-        "date": "26 July 2026"
-      },
-      {
-        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
-        "summary": "reuters.com Please enable JS and disable any ad blocker",
-        "summary_en": "ANALYSISA new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
-        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
-        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
-        "image": "",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/technology/artificial-intelligence/",
         "date": "26 July 2026"
       }
     ],
