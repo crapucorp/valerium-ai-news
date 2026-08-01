@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 August 2026 - 20:38",
+  "lastUpdate": "01 August 2026 - 21:08",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "title_en": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+        "summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art model",
+        "summary_en": "Lip sync jobs use the same two-step pattern: a dedicated processLipSync() method accepts image_url or video_url alongside audio_url, dispatches to the model&#x27;s endpoint, and polls until the output",
+        "long_summary": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art models across 14 studios — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support ▶ Watch: How to Get Exclusive Access to Seedance 2.5 API (Step-by-Step Guide) 🎨 Explore 50+ more open-source AI apps → 💰 Turn This Into Your Own Product — White Label & Resell Want to launch this as your own branded AI studio and charge your own customers for it? MuAPI White Label lets you spin up a fully white-labeled version of this app — your logo, your colors, your custom domain, your own pricing — with zero infra to manage. You keep the markup on every generation; MuAPI handles the models, the queue, and the billing plumbing underneath. Your branding — logo, color theme, and a custom domain (e.g. studio.yourbrand.com ) Your pricing — set your own credit/subscription prices for end users, keep the margin No infra — no servers, workers, or model hosting to run yourself All studios included — Image, Video, Audio, Lip Sync, Cinema, Workflows, and more, depending on plan Plans start at $49/mo. Get started with White Label → What similar AI studios charge their users Consumer AI image/video platforms almost all run on paid monthly subscriptions — this is the same playbook you'd run under your own brand: Platform Typical subscription range Midjour",
+        "long_summary_en": "Open Generative AI — Unrestricted Open-Source Alternative to AI Video Platforms The free, open-source alternative to AI Video Platforms. Generate AI images and videos using 400+ state-of-the-art models across 14 studios — no content filters, no closed ecosystem, no subscription fees. Community: Join Discord for discussions and support ▶ Watch: How to Get Exclusive Access to Seedance 2.5 API (Step-by-Step Guide) 🎨 Explore 50+ more open-source AI apps → 💰 Turn This Into Your Own Product — White Label & Resell Want to launch this as your own branded AI studio and charge your own customers for it?",
+        "image": "https://opengraph.githubassets.com/c83001dff9b5039269ad6949fcc1fca7dc064c4d7e0178300a2d69be2f58c2d9/Anil-matcha/Open-Generative-AI",
+        "source": "Github",
+        "url": "https://github.com/anil-matcha/open-generative-ai",
+        "date": "01 August 2026"
+      },
+      {
         "title": "Best All-in-One AI Video Platforms in 2026: From Idea and Script to Final Video - quasa.io - ZoomYourTraffic",
         "title_en": "Best All-in-One AI Video Platforms in 2026: From Idea and Script to Final Video - quasa.io - ZoomYourTraffic",
         "summary": "AI has changed the landscape of video production. What used to take many software applications, proficiency in editing, and hours of work can now be done using just one program. From YouTube videos, T",
@@ -533,21 +545,33 @@
         "source": "Aifundingtracker",
         "url": "https://aifundingtracker.com/top-50-ai-startups/",
         "date": "25 July 2026"
-      },
-      {
-        "title": "Runway launches AI model router as generative media gets crowded | TechCrunch",
-        "title_en": "Runway launches AI model router as generative media gets crowded | TechCrunch",
-        "summary": "Image Credits: Runway AI Runway launches AI model router as generative media gets crowded Rebecca Bellan 10:07 AM PDT · July 23, 2026 Runway no longer wants to be just another AI model company . It wa",
-        "summary_en": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed, or cost. While model route",
-        "long_summary": "Image Credits: Runway AI Runway launches AI model router as generative media gets crowded Rebecca Bellan 10:07 AM PDT · July 23, 2026 Runway no longer wants to be just another AI model company . It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev , its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video, and audio models alongside Runway’s own. The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed, or cost. While model routers have become increasingly common in the world of large language models, Runway says this is the first built specifically for generative media. “The routing really fits into that overall promise of being the easiest one-stop shop for developers to integrate with any type of generative media model,” Anthony Maggio, Runway’s chief product officer, told TechCrunch. The launch, shared exclusively with TechCrunch, marks another step in Runway’s evolution from an AI video startup into infrastructure for companies building with generative media. Through Runway Dev, customers including Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock, and Quora can build media generation directly into their own products using Runway’s API rather than sending their users to Runway’s own app or site. The la",
-        "long_summary_en": "Image Credits: Runway AI Runway launches AI model router as generative media gets crowded Rebecca Bellan 10:07 AM PDT · July 23, 2026 Runway no longer wants to be just another AI model company . It wants to become the infrastructure layer for generative media. On Thursday, the startup launched Runway Media Router through Runway Dev , its developer platform, released earlier this month, that provides API access to a growing roster of third-party image, video, and audio models alongside Runway’s own. The Media Router is a tool that automatically selects the best image, video, or audio generation",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-        "date": "25 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+        "title_en": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+        "summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
+        "summary_en": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
+        "long_summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.\nThe post Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks appeared first on MarkTechPost.",
+        "long_summary_en": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.\nThe post Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-20-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
+        "title_en": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
+        "summary": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per tok",
+        "summary_en": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per tok",
+        "long_summary": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus data mixtures, configs, and inference code.\nThe post AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs appeared first on MarkTechPost.",
+        "long_summary_en": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus data mixtures, configs, and inference code.\nThe post AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs appeared first on MarkTechPost.",
+        "image": "https://rocm.blogs.amd.com/_images/artificial-intelligence-instella-moe-images-instella-moe-thumbnail.webp",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+        "date": "01 August 2026"
+      },
       {
         "title": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
         "title_en": "Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking",
@@ -702,30 +726,6 @@
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "source": "Anthropic",
         "url": "https://www.anthropic.com/news",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "AI Subscription Pricing Compared | AI Pricing Guru",
-        "title_en": "AI Subscription Pricing Compared | AI Pricing Guru",
-        "summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advance",
-        "summary_en": "Use the token pricing table when you are building with OpenAI, Claude, Gemini, Groq, or other model APIs. ... Estimate the break-even point between a monthly plan and pay-as-you-go token usage. ChatGP",
-        "long_summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-01 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Team per seat ChatGPT Free ChatGPT Free ChatGPT Free Models: gpt-5-mini, gpt-4o-mini Limited access to GPT-5 with usage caps, unlimited GPT-5 mini $8 /mo ChatGPT Go ChatGPT Go Models: gpt-5.5, gpt-5.5-mini, gpt-5-mini Official ChatGPT pricing page still lists Go as an individual plan; price is retained from the prior verified source when the raw page omits the amount. $20 /mo ChatGPT Plus ChatGPT Plus Models: gpt-5.6, gpt-5.6-thinking GPT-5.6 is appearing in paid ChatGPT subscriptions. Availability may roll out by account, region, and plan; higher-capacity Pro access remains reserved for Pro, Business, Enterprise, and Edu. $100 /mo ChatGPT Pro ($100) ChatGPT Pro ($100) Models: gpt-5.6, gpt-5.6-sol, gpt-5.4, o3-pro, codex 5x higher limits than Plus; launch promo gives 10x Codex usage versus Plus through May 31, 2026. $200 /mo ChatGPT Pro ($200) ChatGPT Pro ($200) Models: gpt-5.6, gpt-5.6-so",
-        "long_summary_en": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-01 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Te",
-        "image": "https://www.aipricing.guru/og/subscriptions.png",
-        "source": "Aipricing",
-        "url": "https://www.aipricing.guru/subscriptions/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
-        "title_en": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
-        "summary": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather tha",
-        "summary_en": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather tha",
-        "long_summary": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios completed with a 100% hot-reload success rate and roughly 1% runtime overhead.\nThe post JetBrains Open-Source",
-        "long_summary_en": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, whose bodies are generated Kotlin source rather than live model calls. The plugin captures runtime values through JDI, asks an LLM agent for a narrow code update, compiles it, and redefines the loaded class. Covered scenarios then run as plain Kotlin with no further inference call. On an adapted Spring Petclinic project, 24 of 24 scenarios completed with a 100% hot-reload success rate and roughly 1% runtime overhead.\nThe post JetBrains Open-Source",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-15-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
         "date": "01 August 2026"
       }
     ],
