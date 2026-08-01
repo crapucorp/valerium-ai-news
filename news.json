@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 August 2026 - 14:03",
+  "lastUpdate": "01 August 2026 - 14:34",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+        "title_en": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+        "summary": "Key Points OpenAI announced it is slashing the price of two of its latest artificial intelligence models, GPT-5.6 Terra and GPT-5.6 Luna. The company said it is reducing the price of Terra by 20% and ",
+        "summary_en": "The company said <strong>Gemini 3.6 Flash, the strongest of its new offerings, is cheaper per task than Kimi K3 and other Chinese models</strong>. WATCH: OpenAI CEO Sam Altman to meet with White House",
+        "long_summary": "Key Points OpenAI announced it is slashing the price of two of its latest artificial intelligence models, GPT-5.6 Terra and GPT-5.6 Luna. The company said it is reducing the price of Terra by 20% and the cost of Luna by 80%. The company is facing pressure to cater to a more cost-sensitive customer base and fend off competition from Chinese startups and other tech giants. In this article OPENAI.FG Follow your favorite stocks CREATE FREE ACCOUNT Open AI CEO Sam Altman reacts as he attends the G7 summit, in Evian, eastern France, on June 17, 2026. Mandel Ngan | Afp | Getty Images OpenAI on Thursday announced it is slashing the price of two of its latest artificial intelligence models, GPT-5.6 Terra and GPT-5.6 Luna, roughly three weeks after their public release . The company is facing pressure to cater to a more cost-sensitive customer base , where enterprises have been less inclined to deploy expensive models without a clear picture of the return on their investments. It's also working to fend off competition from Chinese startups and tech giants Google and Microsoft , which have been touting cost-effective models. OpenAI launched three models as part of its GPT-5.6 series, including Sol, the most powerful offering, Terra, the mid-tier model, and Luna, its fastest offering. The company said Thursday that it's reducing the price of Terra by 20% to $2 per million input tokens and $12 per million output tokens. It's cutting the cost of Luna by 80% to 20 cents per million input to",
+        "long_summary_en": "Key Points OpenAI announced it is slashing the price of two of its latest artificial intelligence models, GPT-5.6 Terra and GPT-5.6 Luna. The company said it is reducing the price of Terra by 20% and the cost of Luna by 80%. The company is facing pressure to cater to a more cost-sensitive customer base and fend off competition from Chinese startups and other tech giants. In this article OPENAI.FG Follow your favorite stocks CREATE FREE ACCOUNT Open AI CEO Sam Altman reacts as he attends the G7 summit, in Evian, eastern France, on June 17, 2026. Mandel Ngan | Afp | Getty Images OpenAI on Thursd",
+        "image": "https://image.cnbcfm.com/api/v1/image/108323234-1781707873467-gettyimages-2281437321-AFP_B7EF6PE.jpeg?v=1781707898&w=1920&h=1080",
+        "source": "Cnbc",
+        "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+        "date": "01 August 2026"
+      },
+      {
         "title": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
         "title_en": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
         "summary": "Enable JavaScript and cookies to continue",
@@ -714,18 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/ai-news",
-        "date": "26 July 2026"
-      },
-      {
-        "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
-        "title_en": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
-        "summary": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. ",
-        "summary_en": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. ",
-        "long_summary": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.\nThe post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost.",
-        "long_summary_en": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not attacking a target — they were optimizing a score. Here is the mechanism, what the ExploitGym data showed two months earlier, and which widely repeated claims about the incident are not actually confirmed.\nThe post Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog19132-56-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
         "date": "26 July 2026"
       }
     ],
@@ -928,11 +928,11 @@
       "date": "01 August 2026"
     },
     {
-      "title": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
-      "title_en": "Anthropic's Claude Fable 5 Challenges GPT 5.5 and Gemini 3.1 Pro With Stronger Coding and Reasoning Skills | Republic World",
-      "source": "Republicworld",
-      "url": "https://www.republicworld.com/tech/anthropic-s-claude-fable-5-challenges-gpt-55-and-gemini-31-pro-with-stronger-coding-and-reasoning-skills-2026-06-10-127624",
-      "date": "10 June 2026"
+      "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+      "title_en": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+      "source": "Cnbc",
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+      "date": "01 August 2026"
     }
   ]
 }
