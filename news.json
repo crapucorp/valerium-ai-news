@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01 August 2026 - 21:39",
+  "lastUpdate": "01 August 2026 - 22:10",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "Newsroom \\ Anthropic",
+        "title_en": "Newsroom \\ Anthropic",
+        "summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement fo",
+        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
+        "long_summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners. Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale. News Search Date Category Title Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations Jul 27, 2026 Announcements Our position on open-weights models Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients Jul 24, 2026 Product Introducing Claude Opus 5 Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund Jul 22",
+        "long_summary_en": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's codi",
+        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news",
+        "date": "01 August 2026"
+      },
+      {
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "title_en": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "summary_en": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "long_summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "long_summary_en": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+        "date": "01 August 2026"
+      },
+      {
         "title": "AI Model Pricing Compared: Cost Per Token (2026)",
         "title_en": "AI Model Pricing Compared: Cost Per Token (2026)",
         "summary": "AI Model Pricing Compared: Cost Per Token (2026) Prices verified Jul 31, 2026 AI Model Pricing: Every Model, Per-Token & Per-Seat One place to see what every major AI model actually costs — per-millio",
@@ -702,30 +726,6 @@
         "image": "https://image.cnbcfm.com/api/v1/image/108323234-1781707873467-gettyimages-2281437321-AFP_B7EF6PE.jpeg?v=1781707898&w=1920&h=1080",
         "source": "Cnbc",
         "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
-        "title_en": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>OpenAI research found AI is redrawing job boundaries, with 43.5% of occupation-specific ChatGPT use involving tasks tied to a different job</strong>, a pattern the team calls task crossover th",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "https://img.etimg.com/thumb/width-200,height-150,imgsize-1004187,resizemode-75,msid-131650230/from-finance-to-leadership-how-technology-is-shaping-smarter-decisions.jpg",
-        "source": "Trewknowledge",
-        "url": "https://trewknowledge.com/2026/07/31/ai-this-week-routing-repricing-and-the-new-economics-of-ai/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (August 2026) – Latest AI Model Releases",
-        "summary": "Quick verification Confirm you're human to keep going.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Quick verification Confirm you're human to keep going.",
-        "long_summary_en": "Quick verification Confirm you're human to keep going.",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
         "date": "01 August 2026"
       }
     ],
