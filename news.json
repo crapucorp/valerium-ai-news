@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02 August 2026 - 02:46",
+  "lastUpdate": "02 August 2026 - 03:16",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "title_en": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "summary_en": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "long_summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "long_summary_en": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "date": "02 August 2026"
+      },
+      {
         "title": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today | Mashable",
         "title_en": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today | Mashable",
         "summary": "Credit: Pexels Deal pricing and availability subject to change after time of publication. TL;DR: Get the 1min.AI Advanced Business Plan for just $69.97 through Aug. 9 and bring leading AI models and o",
@@ -714,18 +726,6 @@
         "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog6171-2-218x150.png",
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "It’s time to panic about AI safety",
-        "title_en": "It’s time to panic about AI safety",
-        "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
-        "summary_en": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san",
-        "long_summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of […]",
-        "long_summary_en": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a sandbox and autonomously traversed the web, including a bunch of other supposedly secure web services, all in the name of […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_073126_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
         "date": "01 August 2026"
       }
     ],
