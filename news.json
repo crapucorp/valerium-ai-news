@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02 August 2026 - 01:45",
+  "lastUpdate": "02 August 2026 - 02:15",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Open Source AI Models: 9 Launches in 12 Days [2026]",
+        "title_en": "Open Source AI Models: 9 Launches in 12 Days [2026]",
+        "summary": "Nadia Dubois August 1, 2026 12 min read Nine open-weight AI models reached the public in the space of roughly twelve days this July, and the one that made rivals sit up wasn’t from Beijing or Hangzhou",
+        "summary_en": "<strong>Open-weight AI models are now landing within days of GPT-5.6 and Grok 4.5</strong>, closed frontier releases that cost far more to run per token, and the gap between what a company can self-ho",
+        "long_summary": "Nadia Dubois August 1, 2026 12 min read Nine open-weight AI models reached the public in the space of roughly twelve days this July, and the one that made rivals sit up wasn’t from Beijing or Hangzhou. It came from a lab in San Francisco that had never shipped a product before. Thinking Machines Lab, founded by former OpenAI chief technology officer Mira Murati, released Inkling on July 15, 2026: a 975-billion-parameter multimodal model under a fully permissive Apache 2.0 license, arriving in the same stretch as new open-weight drops from Moonshot AI, Zhipu AI, Google DeepMind and Mistral AI. The pile-up matters beyond the changelog. Open-weight AI models are now landing within days of GPT-5.6 and Grok 4.5, closed frontier releases that cost far more to run per token, and the gap between what a company can self-host and what it must rent from OpenAI or Anthropic has rarely been this visible. This is a look at what actually shipped, what it costs, and why the open source AI model race just picked up its fastest pace of the year. · Google · Preferred Sources Don't miss new tech stories on Google Add Tech Insider once in the Google app and our stories appear in your news suggestions. Add Now A Nine-Model Surge in Twelve Days Tracking sites that log every model release logged an unusual cluster in July 2026. AI Release Tracker counted nine notable open-weight releases with downloadable weights by July 27, while a separate rundown from Digital Applied counted seven model launches ",
+        "long_summary_en": "Nadia Dubois August 1, 2026 12 min read Nine open-weight AI models reached the public in the space of roughly twelve days this July, and the one that made rivals sit up wasn’t from Beijing or Hangzhou. It came from a lab in San Francisco that had never shipped a product before. Thinking Machines Lab, founded by former OpenAI chief technology officer Mira Murati, released Inkling on July 15, 2026: a 975-billion-parameter multimodal model under a fully permissive Apache 2.0 license, arriving in the same stretch as new open-weight drops from Moonshot AI, Zhipu AI, Google DeepMind and Mistral AI. ",
+        "image": "https://tech-insider.org/au/wp-content/uploads/sites/9/2026/07/open-source-ai-model-wave-2026.webp",
+        "source": "Tech-Insider",
+        "url": "https://tech-insider.org/au/open-source-ai-model-wave-2026/",
+        "date": "02 August 2026"
+      },
+      {
         "title": "LLM News Today (August 2026) – AI Model Releases",
         "title_en": "LLM News Today (August 2026) – AI Model Releases",
         "summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an importan",
@@ -714,18 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "title_en": "Sam Altman is still making the case for parenting via ChatGPT",
-        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "summary_en": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "long_summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "long_summary_en": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
         "date": "01 August 2026"
       }
     ],
