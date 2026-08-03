@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03 August 2026 - 14:32",
+  "lastUpdate": "03 August 2026 - 15:03",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "OpenAI Stops Generating Revenue Through Its Most Expensive AI Models",
+        "title_en": "OpenAI Stops Generating Revenue Through Its Most Expensive AI Models",
+        "summary": "Home Article OpenAI no longer makes money by relying on its most expensive models. 版面之外 2026-08-03 10:01 Anthropic: Me too. If there are still people today spending the most money to call OpenAI's mos",
+        "summary_en": "Every time a new model is released, ... and Anthropic break this rule, and they convey a new signal to the market: <strong>The appeal of the single-performance</strong> ......",
+        "long_summary": "Home Article OpenAI no longer makes money by relying on its most expensive models. 版面之外 2026-08-03 10:01 Anthropic: Me too. If there are still people today spending the most money to call OpenAI's most powerful model. OpenAI would instead advise them to switch to another one. On July 30, OpenAI released a price adjustment announcement. The GPT-5.6Luna model saw an 80% price cut, and the Terra model got a 20% price reduction. Seeing this news, it's easy to focus on the price war that has kicked off in Silicon Valley. However, if you carefully go through the officially published technical documents and API call guidelines, you will realize that the truly noteworthy move is not the price figures themselves. Essentially, this is the first time OpenAI has started telling users that many tasks do not actually require the most powerful model. The official gave a very specific suggestion: for a complex task, first use GPT-5.6Sol to complete requirement analysis and solution design, then hand it over to Luna for execution, code writing and test running. The most expensive model is responsible for thinking, and the cheapest one is responsible for execution. This strategy would have been equivalent to commercial self-denial two years ago. You know, in the past, the entire AI industry was desperately telling the market that their own model was the smartest. But today, OpenAI is standing up and saying you don't always have to buy the most expensive one. This move is far more important tha",
+        "long_summary_en": "Home Article OpenAI no longer makes money by relying on its most expensive models. 版面之外 2026-08-03 10:01 Anthropic: Me too. If there are still people today spending the most money to call OpenAI's most powerful model. OpenAI would instead advise them to switch to another one. On July 30, OpenAI released a price adjustment announcement. The GPT-5.6Luna model saw an 80% price cut, and the Terra model got a 20% price reduction. Seeing this news, it's easy to focus on the price war that has kicked off in Silicon Valley. However, if you carefully go through the officially published technical docume",
+        "image": "https://img.36krcdn.com/hsossms/20260803/v2_1b84ec9c02ed4b85a7d6b9f4dbd4342d@000000_oswg90357oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+        "source": "Eu",
+        "url": "https://eu.36kr.com/en/p/3923151726876544",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (August 2026) – Latest AI Model Releases",
+        "summary": "Quick verification Confirm you're human to keep going.",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "Quick verification Confirm you're human to keep going.",
+        "long_summary_en": "Quick verification Confirm you're human to keep going.",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "03 August 2026"
+      },
+      {
         "title": "AI Subscription Pricing Compared | AI Pricing Guru",
         "title_en": "AI Subscription Pricing Compared | AI Pricing Guru",
         "summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advance",
@@ -703,30 +727,6 @@
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/ai-news",
         "date": "02 August 2026"
-      },
-      {
-        "title": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
-        "title_en": "AI This Week: Routing, Repricing, and the New Economics of AI - Trew Knowledge Inc.",
-        "summary": "Enable JavaScript and cookies to continue",
-        "summary_en": "<strong>OpenAI research found AI is redrawing job boundaries, with 43.5% of occupation-specific ChatGPT use involving tasks tied to a different job</strong>, a pattern the team calls task crossover th",
-        "long_summary": "Enable JavaScript and cookies to continue",
-        "long_summary_en": "Enable JavaScript and cookies to continue",
-        "image": "",
-        "source": "Trewknowledge",
-        "url": "https://trewknowledge.com/2026/07/31/ai-this-week-routing-repricing-and-the-new-economics-of-ai/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
-        "title_en": "Best AI Models in August 2026: ChatGPT, Claude, Gemini & Grok",
-        "summary": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthrop",
-        "summary_en": "The rest of the headlines landed in the final week of June: <strong>OpenAI first previewed GPT-5.6 on June 26 behind a US-government access list</strong>; Meituan open-sourced LongCat-2.0, a 1.6-trill",
-        "long_summary": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthropic refusing the Pentagon’s demand to strip the guardrails off Claude for autonomous weapons and mass surveillance. The administration then told federal agencies Read More »",
-        "long_summary_en": "Claude vs ChatGPT: Which AI Is Actually Better in 2026? Claude hit #1 on the App Store free chart on February 28, 2026, pushing ChatGPT out of the top spot for the first time. The catalyst was Anthropic refusing the Pentagon’s demand to strip the guardrails off Claude for autonomous weapons and mass surveillance. The administration then told federal agencies Read More »",
-        "image": "https://felloai.com/wp-content/uploads/2026/08/best-ai-models-in-august-2026.jpg",
-        "source": "Felloai",
-        "url": "https://felloai.com/best-ai-models/",
-        "date": "01 August 2026"
       }
     ],
     "audio": [
