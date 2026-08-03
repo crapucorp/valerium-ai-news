@@ -1,7 +1,43 @@
 {
-  "lastUpdate": "03 August 2026 - 16:33",
+  "lastUpdate": "03 August 2026 - 18:34",
   "categories": {
     "general": [
+      {
+        "title": "Nvidia’s real moat was never the chips. AI has started rewriting it.",
+        "title_en": "Nvidia’s real moat was never the chips. AI has started rewriting it.",
+        "summary": "The usual story about Nvidia is a hardware story: the fastest chips, in the shortest supply, at the highest price. The more important part is software. For two decades the company’s real moat has been",
+        "summary_en": "The usual story about Nvidia is a hardware story: the fastest chips, in the shortest supply, at the highest price. The more important part is software. For two decades the company’s real moat has been",
+        "long_summary": "The usual story about Nvidia is a hardware story: the fastest chips, in the shortest supply, at the highest price. The more important part is software. For two decades the company’s real moat has been CUDA. It is the layer that turns its silicon into something developers can build AI on. That moat is now […]\nThis story continues at The Next Web",
+        "long_summary_en": "The usual story about Nvidia is a hardware story: the fastest chips, in the shortest supply, at the highest price. The more important part is software. For two decades the company’s real moat has been CUDA. It is the layer that turns its silicon into something developers can build AI on. That moat is now […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/07/nvidia-naver-sk-group-korea-ai-investment.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/nvidia-cuda-moat-ai-coding-agents-inference",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "A startup says the AI bottleneck isn’t compute. It’s memory, and it ditched the GPU to prove it.",
+        "title_en": "A startup says the AI bottleneck isn’t compute. It’s memory, and it ditched the GPU to prove it.",
+        "summary": "The AI hardware conversation is stuck on one word: compute. A startup out of Tel Aviv wants to change the word to memory. Majestic Labs, founded in 2023 by former Google and Meta engineers, has unveil",
+        "summary_en": "The AI hardware conversation is stuck on one word: compute. A startup out of Tel Aviv wants to change the word to memory. Majestic Labs, founded in 2023 by former Google and Meta engineers, has unveil",
+        "long_summary": "The AI hardware conversation is stuck on one word: compute. A startup out of Tel Aviv wants to change the word to memory. Majestic Labs, founded in 2023 by former Google and Meta engineers, has unveiled a server it says can do the work of a rack of Nvidia GPUs. It does so by attacking […]\nThis story continues at The Next Web",
+        "long_summary_en": "The AI hardware conversation is stuck on one word: compute. A startup out of Tel Aviv wants to change the word to memory. Majestic Labs, founded in 2023 by former Google and Meta engineers, has unveiled a server it says can do the work of a rack of Nvidia GPUs. It does so by attacking […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/08/Majestic-Labs-AI-server-Prometheus.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/majestic-labs-prometheus-memory-wall-nvidia-gpu",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "AI agents are breaking into companies on their own. The law has no idea who to blame.",
+        "title_en": "AI agents are breaking into companies on their own. The law has no idea who to blame.",
+        "summary": "The strangest security story in AI has an unanswered question at its centre. When an AI agent breaks its leash, hacks a company it was never meant to touch, and no human told it to, who is liable? Nob",
+        "summary_en": "The strangest security story in AI has an unanswered question at its centre. When an AI agent breaks its leash, hacks a company it was never meant to touch, and no human told it to, who is liable? Nob",
+        "long_summary": "The strangest security story in AI has an unanswered question at its centre. When an AI agent breaks its leash, hacks a company it was never meant to touch, and no human told it to, who is liable? Nobody is quite sure. That gap is starting to matter. The question is not hypothetical. Over recent […]\nThis story continues at The Next Web",
+        "long_summary_en": "The strangest security story in AI has an unanswered question at its centre. When an AI agent breaks its leash, hacks a company it was never meant to touch, and no human told it to, who is liable? Nobody is quite sure. That gap is starting to matter. The question is not hypothetical. Over recent […]\nThis story continues at The Next Web",
+        "image": "https://media.thenextweb.com/2026/08/georgia-power-demolishing-homes-ai-data-centres-zuckerberg-agents.avif",
+        "source": "thenextweb_ai",
+        "url": "https://thenextweb.com/news/rogue-ai-agents-legal-liability-openai-anthropic",
+        "date": "03 August 2026"
+      },
       {
         "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
         "title_en": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
@@ -144,42 +180,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2023/12/face-ai-binary.jpg?w=595",
         "source": "Techcrunch",
         "url": "https://techcrunch.com/category/artificial-intelligence/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Artificial Intelligence News -- ScienceDaily",
-        "title_en": "Artificial Intelligence News -- ScienceDaily",
-        "summary": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning arg",
-        "summary_en": "Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, ... Millions of Exploding Stars Could Soon Reveal Dark Energy&#x27;s Secrets · June 29, 2026 ",
-        "long_summary": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including ... Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... AI Lets Chemists Design Molecules by Simply Describing Them May 5, 2026 Â Creating complex molecules usually requires years of experience and countless decisions, but a new AI system is changing that. Synthegy lets chemists guide synthesis and reaction planning using ... This AI Knew the Answers but Didnât Understand the Questions Apr. 30, 2026 Â For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur ... AI Swarms Could Hijack Democracy Without Anyone Noticing Apr. 20, 2026 Â AI-powered personas are becoming so realistic that they can infiltrate online communities and subtly steer public opinion. Unlike traditional bots, they adapt, coordinate, and refine their messaging ... Think AI \"knows\" What Itâs Doing? Scientists Say Think Again Apr. 19, 2026 Â Calling AI things like âsma",
-        "long_summary_en": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including ... Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... AI Lets Chemists Design Molecules by Simply",
-        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
-        "source": "Sciencedaily",
-        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Meta launches a standalone Seller app for Facebook Marketplace with AI-powered listings",
-        "title_en": "Meta launches a standalone Seller app for Facebook Marketplace with AI-powered listings",
-        "summary": "Meta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicating with buyers, and tracking sales",
-        "summary_en": "Meta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicating with buyers, and tracking sales",
-        "long_summary": "Meta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicating with buyers, and tracking sales performance in a single place. The free app is available now on the App Store for US users aged 18 and older, and syncs automatically with […]\nThis story continues at The Next Web",
-        "long_summary_en": "Meta has launched Seller, a standalone app built for people who sell regularly on Facebook Marketplace, giving them dedicated tools for managing listings, communicating with buyers, and tracking sales performance in a single place. The free app is available now on the App Store for US users aged 18 and older, and syncs automatically with […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/meta-seller-app-facebook-marketplace-ai-listing.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/meta-seller-app-facebook-marketplace-ai-listing",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "The tech-broification of American science has officially begun",
-        "title_en": "The tech-broification of American science has officially begun",
-        "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp",
-        "summary_en": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp",
-        "long_summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on […]",
-        "long_summary_en": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
         "date": "24 July 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "OpenAI employee claims Google had ChatGPT before OpenAI but never released it - India Today",
+        "title_en": "OpenAI employee claims Google had ChatGPT before OpenAI but never released it - India Today",
+        "summary": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/openai-employee-claims-google-had-chatgpt-before-openai-but-never-released-it-2962043-20",
+        "summary_en": "You see, Google fundamentally created the architecture of a large language model (LLM) that we use today with its 2017 paper, “Attention is All You Need.” Simply put, Google developed the Transformer ",
+        "long_summary": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/openai-employee-claims-google-had-chatgpt-before-openai-but-never-released-it-2962043-2026-08-03\" on this server. Reference #18.9e2a1202.1785774858.460ea2cb https://errors.edgesuite.net/18.9e2a1202.1785774858.460ea2cb",
+        "long_summary_en": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/openai-employee-claims-google-had-chatgpt-before-openai-but-never-released-it-2962043-2026-08-03\" on this server. Reference #18.9e2a1202.1785774858.460ea2cb https://errors.edgesuite.net/18.9e2a1202.1785774858.460ea2cb",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/google-ceo-sundar-pichai-02124079-1x1.jpg?VersionId=LgeuZahfYxUuPgKTWNmze8xhxB.2NbMO&size=80:80",
+        "source": "Indiatoday",
+        "url": "https://www.indiatoday.in/technology/news/story/openai-employee-claims-google-had-chatgpt-before-openai-but-never-released-it-2962043-2026-08-03",
+        "date": "03 August 2026"
+      },
+      {
         "title": "OpenAI Stops Generating Revenue Through Its Most Expensive AI Models",
         "title_en": "OpenAI Stops Generating Revenue Through Its Most Expensive AI Models",
         "summary": "Home Article OpenAI no longer makes money by relying on its most expensive models. 版面之外 2026-08-03 10:01 Anthropic: Me too. If there are still people today spending the most money to call OpenAI's mos",
@@ -714,18 +726,6 @@
         "image": "https://tech-insider.org/au/wp-content/uploads/sites/9/2026/07/open-source-ai-model-wave-2026.webp",
         "source": "Tech-Insider",
         "url": "https://tech-insider.org/au/open-source-ai-model-wave-2026/",
-        "date": "02 August 2026"
-      },
-      {
-        "title": "LLM News Today (August 2026) – AI Model Releases",
-        "title_en": "LLM News Today (August 2026) – AI Model Releases",
-        "summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an importan",
-        "summary_en": "The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s Claude, Google&#",
-        "long_summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
-        "long_summary_en": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/ai-news",
         "date": "02 August 2026"
       }
     ],
