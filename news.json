@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03 August 2026 - 14:03",
+  "lastUpdate": "03 August 2026 - 14:32",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "AI Subscription Pricing Compared | AI Pricing Guru",
+        "title_en": "AI Subscription Pricing Compared | AI Pricing Guru",
+        "summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advance",
+        "summary_en": "Use the token pricing table when you are building with OpenAI, Claude, Gemini, Groq, or other model APIs. ... Estimate the break-even point between a monthly plan and pay-as-you-go token usage. ChatGP",
+        "long_summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-03 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Team per seat ChatGPT Free ChatGPT Free ChatGPT Free Models: gpt-5.6-terra GPT-5.6 Terra is available to Free users; subscription prices and quota budgets were unchanged by the July 30 price cut. $8 /mo ChatGPT Go ChatGPT Go Models: gpt-5.6-terra Official ChatGPT pricing still lists Go as an individual plan; price is retained from the prior verified source when the raw page omits the amount. $20 /mo ChatGPT Plus ChatGPT Plus Models: gpt-5.6-terra, gpt-5.6-luna Plus users can choose GPT-5.6 Terra and Luna; subscription prices and quota budgets were unchanged by the July 30 price cut. $100 /mo ChatGPT Pro ($100) ChatGPT Pro ($100) Models: gpt-5.6, gpt-5.6-sol, gpt-5.4, o3-pro, codex 5x higher limits than Plus; launch promo gives 10x Codex usage versus Plus through May 31, 2026. $200 /mo ChatGPT Pro ($200) ChatGPT Pro ($200) Models: gpt-5.6, gpt-5.6-sol, gpt-5.4, o3-pro, o4-mini, codex 20x hi",
+        "long_summary_en": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-03 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Te",
+        "image": "https://www.aipricing.guru/og/subscriptions.png",
+        "source": "Aipricing",
+        "url": "https://www.aipricing.guru/subscriptions/",
+        "date": "03 August 2026"
+      },
+      {
         "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
         "title_en": "YouTuber Hank Green says his AI usage is ‘not healthy’",
         "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
@@ -714,18 +726,6 @@
         "image": "https://felloai.com/wp-content/uploads/2026/08/best-ai-models-in-august-2026.jpg",
         "source": "Felloai",
         "url": "https://felloai.com/best-ai-models/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (August 2026) – Latest AI Model Releases",
-        "summary": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
         "date": "01 August 2026"
       }
     ],
