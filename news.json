@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02 August 2026 - 03:47",
+  "lastUpdate": "03 August 2026 - 12:31",
   "categories": {
     "general": [
       {
@@ -185,6 +185,18 @@
     ],
     "image": [
       {
+        "title": "A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN",
+        "title_en": "A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN",
+        "summary": "In this tutorial, we design a complete GeoAI workflow for extracting building footprints from high-resolution NAIP aerial imagery. We begin by configuring the geospatial deep learning environment, dow",
+        "summary_en": "In this tutorial, we design a complete GeoAI workflow for extracting building footprints from high-resolution NAIP aerial imagery. We begin by configuring the geospatial deep learning environment, dow",
+        "long_summary": "In this tutorial, we design a complete GeoAI workflow for extracting building footprints from high-resolution NAIP aerial imagery. We begin by configuring the geospatial deep learning environment, downloading raster imagery and vector labels, and inspecting their spatial properties before generating georeferenced image chips and segmentation masks. We then train a U-Net model with a ResNet-34 […]\nThe post A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN appeared first on MarkTechPost.",
+        "long_summary_en": "In this tutorial, we design a complete GeoAI workflow for extracting building footprints from high-resolution NAIP aerial imagery. We begin by configuring the geospatial deep learning environment, downloading raster imagery and vector labels, and inspecting their spatial properties before generating georeferenced image chips and segmentation masks. We then train a U-Net model with a ResNet-34 […]\nThe post A Tutorial on GeoAI: Designing Footprint Extraction from NAIP Imagery Using U-Net, Grounding DINO, SAM, and Mask R-CNN appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog6176-3-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/02/a-tutorial-on-geoai-designing-footprint-extraction-from-naip-imagery-using-u-net-grounding-dino-sam-and-mask-r-cnn/",
+        "date": "03 August 2026"
+      },
+      {
         "title": "Midjourney bought the astrology app Co-Star",
         "title_en": "Midjourney bought the astrology app Co-Star",
         "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
@@ -351,21 +363,45 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/heartfocus-link-ai-cardiac-ultrasound-cart-based",
         "date": "30 May 2026"
-      },
-      {
-        "title": "Adobe’s conversational AI agent is a mediocre design intern",
-        "title_en": "Adobe’s conversational AI agent is a mediocre design intern",
-        "summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re",
-        "summary_en": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re",
-        "long_summary": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a […]",
-        "long_summary_en": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image assistant: It's a […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Adobe-Firefly-AI-Assistant-hands-on-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
-        "date": "30 May 2026"
       }
     ],
     "video": [
+      {
+        "title": "AI YouTube Video Generator — Sora 2 Tools | Higgsfield",
+        "title_en": "AI YouTube Video Generator — Sora 2 Tools | Higgsfield",
+        "summary": "Step 1 of 3 type your prompt Write your idea in one phrase, select the platform and choose a style.",
+        "summary_en": "<strong>Higgsfield x Sora 2 offers a complete AI YouTube video maker designed for creators of all skill levels</strong>. Our platform streamlines the entire production process, allowing you to generat",
+        "long_summary": "Step 1 of 3 type your prompt Write your idea in one phrase, select the platform and choose a style.",
+        "long_summary_en": "Step 1 of 3 type your prompt Write your idea in one phrase, select the platform and choose a style.",
+        "image": "https://higgsfield.ai/thumbnail/youtube-videos.jpg",
+        "source": "Higgsfield",
+        "url": "https://higgsfield.ai/sora-2-youtube",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "AI Video Detector & Deepfake Video Checker | Imagera",
+        "title_en": "AI Video Detector & Deepfake Video Checker | Imagera",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "<strong>New generators are added within days of public release</strong>.Detection models are trained on outputs from 20+ video and face tools: Sora 2, Google Veo 3, Runway Gen-4 Turbo, Kling...",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "",
+        "source": "Imagera",
+        "url": "https://imagera.ai/detect/ai-video-detector",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model",
+        "title_en": "Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model",
+        "summary": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU\nThe post Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights M",
+        "summary_en": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU\nThe post Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights M",
+        "long_summary": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU\nThe post Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model appeared first on MarkTechPost.",
+        "long_summary_en": "Inkling-Small matches Inkling at a quarter the size, and its NVFP4 checkpoint runs on one NVIDIA B300 GPU\nThe post Thinking Machines Lab Releases Inkling-Small: A 276B Total, 12B Active Open Weights Multimodal MoE Model appeared first on MarkTechPost.",
+        "image": "https://external-preview.redd.it/inkling-small-by-thinkingmachines-v0-DhvIQqDQsGRsmn4-6RhzyrqhiFe6tJkuheJbHBwuQI4.png?width=640&crop=smart&auto=webp&s=97656f7eae525c06775eb133d8426a3268d00163",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/02/thinking-machines-lab-releases-inkling-small-276b-open-weights-multimodal-moe-model/",
+        "date": "03 August 2026"
+      },
       {
         "title": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
         "title_en": "GitHub - Anil-matcha/Open-Generative-AI: Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
@@ -509,45 +545,45 @@
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
         "date": "26 July 2026"
-      },
-      {
-        "title": "Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared",
-        "title_en": "Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared",
-        "summary": "We are supported by our readers , and may earn a commission when you purchase products linked throughout our site. Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Comp",
-        "summary_en": "<strong>Runway Gen-4.5 is the best alternative for general production</strong>. Kling 3.0 is the best alternative for photorealistic motion, while Luma is one of the best alternatives for image-to-vid",
-        "long_summary": "We are supported by our readers , and may earn a commission when you purchase products linked throughout our site. Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared Updated on: July 24, 2026 by Steven Jones Originally Published on: November 12, 2025 TL;DR: The best AI video generator for most people in 2026 is Google Flow with Veo 3.1 if you want cinematic clips, generated audio and strong prompt-following. Runway Gen-4.5 is the better all-around production workspace, Kling 3.0 is the strongest riser for photorealistic motion, and Luma should be retested because our current dataset score still reflects Luma Ray2. This guide compares the best AI video generators in 2026 using DIY AI’s video-generation scoring framework. The ranking covers cinematic scene generators, image-to-video tools, avatar platforms, AI UGC ad tools, script-to-video products and Sora alternatives. That distinction matters because a tool built for training videos should not be judged by the same criteria as a model built for camera movement, physics, lighting and shot continuity. Scores below come from the DIY AI 2026 video generation dataset. We score tools on video quality, prompt accuracy, voice and lip sync, editing flexibility, render speed, character consistency, templates, commercial licensing, ease of use and overall recommendation strength. Visit the DIY AI Video Studio to test video tools directly, or for additional video tool content, check our AI video ge",
-        "long_summary_en": "We are supported by our readers , and may earn a commission when you purchase products linked throughout our site. Best AI Video Generators in 2026: Veo, Runway, Kling, Luma and Sora Alternatives Compared Updated on: July 24, 2026 by Steven Jones Originally Published on: November 12, 2025 TL;DR: The best AI video generator for most people in 2026 is Google Flow with Veo 3.1 if you want cinematic clips, generated audio and strong prompt-following. Runway Gen-4.5 is the better all-around production workspace, Kling 3.0 is the strongest riser for photorealistic motion, and Luma should be retested",
-        "image": "https://diyai.io/wp-content/uploads/2025/11/Best-AI-Video-Tools.webp",
-        "source": "Diyai",
-        "url": "https://diyai.io/ai-tools/video-generation/best-ai-video-tools/",
-        "date": "26 July 2026"
-      },
-      {
-        "title": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
-        "title_en": "'Runway Media Router' has been released, which automatically selects the appropriate AI model for generating images, videos, and audio based on specific criteria. - GIGAZINE",
-        "summary": "Related Posts: Runway releases 'Act-One,' a tool that can animate AI-generated characters with realistic facial expressions How is 'artwork' that influences Netflix's viewing generated? Introducing 'F",
-        "summary_en": "<strong>On July 23, 2026, Runway, a generative AI company, announced &#x27;Runway Media Router,&#x27; a feature that automatically selects the AI model used for generating images, videos, and audio</s",
-        "long_summary": "Related Posts: Runway releases 'Act-One,' a tool that can animate AI-generated characters with realistic facial expressions How is 'artwork' that influences Netflix's viewing generated? Introducing 'FLUX Portrait Trainer,' an AI learning tool for generating images specializing in portrait photography In response to the criticism that 'Perplexity's AI ignores robots.txt that blocks crawlers,' the CEO claims that 'we don't ignore it, but we rely on third-party crawlers' Netflix is using generative AI in post-production processes for 300 titles. Adobe announces AI tools for Photoshop, Premiere, and more, with Firefly Image Model 5 enabling native 4MP image generation OpenRouter MCP Server has emerged, giving AI agents the ability to 'find the right AI model for the task.' How did Facebook introduce the next-generation protocol 'QUIC' to speed up the service?",
-        "long_summary_en": "Related Posts: Runway releases 'Act-One,' a tool that can animate AI-generated characters with realistic facial expressions How is 'artwork' that influences Netflix's viewing generated? Introducing 'FLUX Portrait Trainer,' an AI learning tool for generating images specializing in portrait photography In response to the criticism that 'Perplexity's AI ignores robots.txt that blocks crawlers,' the CEO claims that 'we don't ignore it, but we rely on third-party crawlers' Netflix is using generative AI in post-production processes for 300 titles. Adobe announces AI tools for Photoshop, Premiere, a",
-        "image": "https://i.gzn.jp/img/2026/07/24/runway-media-router/00.png",
-        "source": "Gigazine",
-        "url": "https://gigazine.net/gsc_news/en/20260724-runway-media-router/",
-        "date": "25 July 2026"
-      },
-      {
-        "title": "50 Top AI Funded Startups (July 2026)",
-        "title_en": "50 Top AI Funded Startups (July 2026)",
-        "summary": "Top 50 AI Funded Startups July 2026 | Complete Rankings ✦ Updated July 24, 2026 Top 50 AI Funded Startups July 2026 Complete rankings of the most funded artificial intelligence companies. Anthropic fi",
-        "summary_en": "<strong>Annualised revenue is roughly $25B and reportedly flattened between February and spring</strong>. SoftBank fell more than 12% on the delay report. New revenue lines in test: ads inside ChatGPT",
-        "long_summary": "Top 50 AI Funded Startups July 2026 | Complete Rankings ✦ Updated July 24, 2026 Top 50 AI Funded Startups July 2026 Complete rankings of the most funded artificial intelligence companies. Anthropic filed confidentially on June 1 and is meeting investors for an October listing under ANTH. OpenAI filed a week later but is leaning toward 2027. SpaceX went public June 12 in the largest IPO ever — then spent $60B on Cursor. Global venture funding hit a record $510B in H1. Top 6 Deep Dives Rankings #7-50 H1 2026 Trends Quick Comparison FAQ Methodology $700B+ Total Funding Tracked ↑ +$100B from June $510B H1 2026 Global VC — Record ↑ Beats all of 2025 ($440B) 43% Of H1 VC Went To Two Companies OpenAI + Anthropic = $217B −25% SPCX vs. IPO Debut Close ↓ $161 → ~$123 (Jul 22) Top 6 Most Funded AI Startups 1 Anthropic AI safety lab behind Claude — the most valuable private company on Crunchbase’s Unicorn Board since SpaceX listed. Run-rate revenue crossed $47B in May 2026, driven by Claude Code, enterprise API, and hyperscaler resale 🔥 July Update: Confidential S-1 filed with the SEC on June 1, 2026. CNBC reported July 15 that bankers are lining up investor meetings for a listing as soon as October, with institutional investor meetings continuing through the week of July 20. Expected ticker: ANTH. Last private mark $965B post-money from the $65B Series H (May 28). Run-rate revenue disclosed at $47B in May — the trajectory ran $9B (end-2025) → $14B (Feb) → $19B (Mar) → $30B (Apr) → $47B ",
-        "long_summary_en": "Top 50 AI Funded Startups July 2026 | Complete Rankings ✦ Updated July 24, 2026 Top 50 AI Funded Startups July 2026 Complete rankings of the most funded artificial intelligence companies. Anthropic filed confidentially on June 1 and is meeting investors for an October listing under ANTH. OpenAI filed a week later but is leaning toward 2027. SpaceX went public June 12 in the largest IPO ever — then spent $60B on Cursor. Global venture funding hit a record $510B in H1. Top 6 Deep Dives Rankings #7-50 H1 2026 Trends Quick Comparison FAQ Methodology $700B+ Total Funding Tracked ↑ +$100B from June ",
-        "image": "https://aifundingtracker.com/wp-content/uploads/2025/09/AI-Funding-Tracker-1.webp",
-        "source": "Aifundingtracker",
-        "url": "https://aifundingtracker.com/top-50-ai-startups/",
-        "date": "25 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
+        "title_en": "Best AI Coding Agents (August 2026): Scored Leaderboard",
+        "summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
+        "summary_en": "It connects per-run via flags, ... anthropic=&lt;key&gt; or aider --model deepseek --api-key deepseek=&lt;key&gt;, and runs local models via Ollama and any OpenAI-compatible API. One caveat: Aider&#x2",
+        "long_summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
+        "long_summary_en": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
+        "image": "https://rapidclaw.dev/blog/ai-agent-benchmarks-2026/leaderboard-snapshot.png",
+        "source": "Morphllm",
+        "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "Simon Willison’s Weblog",
+        "title_en": "Simon Willison’s Weblog",
+        "summary": "Release condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big",
+        "summary_en": "This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠and Gluon⁠, two open-source GPU programming languages maintained by OpenAI. These efforts, ",
+        "long_summary": "Release condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { \"foo\" : { \"bar\" : { \"string\" : \" This is a string with foxes in it \" , \"nested\" : { \"more\" : [ \" Here is a string \" , \" another with foxes in it too \" ] } } } } Combine that with a replacements object: { \"1\" : \" with foxes in it \" } And condense_json(input_json, replacements) produces the following: { \"foo\" : { \"bar\" : { \"string\" : { \"$r\" : [ \" This is a string \" , { \"$\" : \" 1 \" }]}, \"nested\" : { \"more\" : [ \" Here is a string \" , { \"$r\" : [ \" another \" , { \"$\" : \" 1 \" }, \" too \" ]}] } } } } It scans for strings or substrings that are present in that replacements object and replaces those with a special {\"$r\": ...} syntax in the output. You can reverse the effect with uncondense_json(condensed, replacements) . The idea is to make it easier to store JSON that includes duplicated data from other related structures. I use it to save space in the SQLite logs generated by LLM - see PR #1586 for the latest iteration of that. 2nd Aug 2026, 10:19 pm · projects , json , python , llm",
+        "long_summary_en": "Release condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { \"foo\" : { \"bar\" : { \"string\" : \" This is a string with foxes in it \" , \"nested\" : { \"more\" : [ \" Here is a string \" , \" another with foxes in it too \" ] } } } } Combine that with a replacements object: { \"1\" : \" with foxes in it \" } And condense_json(input_json, replacements) produces the following: { \"foo\" : { \"bar\" : { \"",
+        "image": "https://digialps.com/wp-content/uploads/2025/07/simon-willisons-weblog-ai-coding-revolution.png",
+        "source": "Simonwillison",
+        "url": "https://simonwillison.net/",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines",
+        "title_en": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines",
+        "summary": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by thre",
+        "summary_en": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by thre",
+        "long_summary": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by three independent LLM judges, Ontology 1 reached a mean precision@10 of 0.630, against 0.543 for Google Shopping and 0.469 for Amazon. It did this while indexing roughly 1% […]\nThe post Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines appeared first on MarkTechPost.",
+        "long_summary_en": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by three independent LLM judges, Ontology 1 reached a mean precision@10 of 0.630, against 0.543 for Google Shopping and 0.469 for Amazon. It did this while indexing roughly 1% […]\nThe post Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines appeared first on MarkTechPost.",
+        "image": "https://onton.com/assets/2442f3dcde18f34afff5616a512331ae99295860/rethinking-product-search-why-smaller-models-and-context-win-cover.webp",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
+        "date": "03 August 2026"
+      },
       {
         "title": "It’s time to panic about AI safety",
         "title_en": "It’s time to panic about AI safety",
@@ -691,45 +727,33 @@
         "source": "Layer3Labs",
         "url": "https://www.layer3labs.io/ai-model-pricing",
         "date": "01 August 2026"
-      },
-      {
-        "title": "AI Subscription Pricing Compared | AI Pricing Guru",
-        "title_en": "AI Subscription Pricing Compared | AI Pricing Guru",
-        "summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advance",
-        "summary_en": "Use the token pricing table when you are building with OpenAI, Claude, Gemini, Groq, or other model APIs. ... Estimate the break-even point between a monthly plan and pay-as-you-go token usage. ChatGP",
-        "long_summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-01 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Team per seat ChatGPT Free ChatGPT Free ChatGPT Free Models: gpt-5-mini, gpt-4o-mini Limited access to GPT-5 with usage caps, unlimited GPT-5 mini $8 /mo ChatGPT Go ChatGPT Go Models: gpt-5.5, gpt-5.5-mini, gpt-5-mini Official ChatGPT pricing page still lists Go as an individual plan; price is retained from the prior verified source when the raw page omits the amount. $20 /mo ChatGPT Plus ChatGPT Plus Models: gpt-5.6, gpt-5.6-thinking GPT-5.6 is appearing in paid ChatGPT subscriptions. Availability may roll out by account, region, and plan; higher-capacity Pro access remains reserved for Pro, Business, Enterprise, and Edu. $100 /mo ChatGPT Pro ($100) ChatGPT Pro ($100) Models: gpt-5.6, gpt-5.6-sol, gpt-5.4, o3-pro, codex 5x higher limits than Plus; launch promo gives 10x Codex usage versus Plus through May 31, 2026. $200 /mo ChatGPT Pro ($200) ChatGPT Pro ($200) Models: gpt-5.6, gpt-5.6-so",
-        "long_summary_en": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-01 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Te",
-        "image": "https://www.aipricing.guru/og/subscriptions.png",
-        "source": "Aipricing",
-        "url": "https://www.aipricing.guru/subscriptions/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-        "title_en": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
-        "summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
-        "summary_en": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugg",
-        "long_summary": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.\nThe post Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks appeared first on MarkTechPost.",
-        "long_summary_en": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode against real Supabase tasks — building schemas, debugging Edge Functions, fixing RLS policies — inside containerized stacks, then scores them with deterministic checks and LLM-as-a-judge.\nThe post Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-20-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
-        "title_en": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
-        "summary": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per tok",
-        "summary_en": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per tok",
-        "long_summary": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus data mixtures, configs, and inference code.\nThe post AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs appeared first on MarkTechPost.",
-        "long_summary_en": "AMD released Instella-MoE-16B-A3B, a fully open Mixture-of-Experts language model trained from scratch on Instinct MI300X and MI325X GPUs. It holds 16B total parameters but activates only 2.8B per token, using Gated MLA and FarSkip-Collective. AMD published weights from every training stage, plus data mixtures, configs, and inference code.\nThe post AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs appeared first on MarkTechPost.",
-        "image": "https://rocm.blogs.amd.com/_images/artificial-intelligence-instella-moe-images-instella-moe-thumbnail.webp",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
-        "date": "01 August 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Is paying artists enough to convince them to embrace AI?",
+        "title_en": "Is paying artists enough to convince them to embrace AI?",
+        "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is ta",
+        "summary_en": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is ta",
+        "long_summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's […]",
+        "long_summary_en": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is tantamount to theft, and in response, many gen AI boosters have argued that it's necessary for the technology's evolution. This has led to contentious legal battles, but it's […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-31-at-4.11.25-PM.png?quality=90&strip=all&crop=2.6881256103516%2C4.7093735253803%2C97.311874389648%2C90.581252949239&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+        "title_en": "Fender’s CEO seems to think your bandmates are just analog AI",
+        "summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak",
+        "summary_en": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak",
+        "long_summary": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off […]",
+        "long_summary_en": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1259130896.jpg?quality=90&strip=all&crop=0%2C9.9724610532046%2C100%2C80.055077893591&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+        "date": "03 August 2026"
+      },
       {
         "title": "Nvidia is pouring $1 billion into South Korea’s AI infrastructure through Naver and SK Group",
         "title_en": "Nvidia is pouring $1 billion into South Korea’s AI infrastructure through Naver and SK Group",
@@ -885,30 +909,6 @@
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/suno-5-4-billion-valuation-raise",
         "date": "03 June 2026"
-      },
-      {
-        "title": "AI is blowing up music. How should the Grammys handle it?",
-        "title_en": "AI is blowing up music. How should the Grammys handle it?",
-        "summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI",
-        "summary_en": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI",
-        "long_summary": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.  Well, it’s been […]",
-        "long_summary_en": "Today I’m talking with Harvey Mason Jr., who is CEO of the Recording Academy — that’s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would happen.  Well, it’s been […]",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_20260601_Mason_Grammys.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-        "date": "01 June 2026"
-      },
-      {
-        "title": "AI News: CNN’s coverage on artificial intelligence and related advanced machine learning | CNN Business",
-        "title_en": "AI News: CNN’s coverage on artificial intelligence and related advanced machine learning | CNN Business",
-        "summary": "AI News Rikka Altland/CNN Underscored Hot weather is on the way, but these 2 best-tested tower fans can help • Video 5:04 CNN Video Erin Brockovich joins fight against AI data centers: ‘It’s shocking’",
-        "summary_en": "AI ‘voice cloning’ scams are on the rise.",
-        "long_summary": "AI News Rikka Altland/CNN Underscored Hot weather is on the way, but these 2 best-tested tower fans can help • Video 5:04 CNN Video Erin Brockovich joins fight against AI data centers: ‘It’s shocking’ 5:04 • Video 2:55 Clipped From Video Video Can AI resurrect the genius of France’s greatest playwright 2:55 Westend61/Getty Images AI ‘voice cloning’ scams are on the rise. Here’s how to protect yourself Jung Yeon-je/AFP/Getty Images For the third time this month, a chip giant has joined the $1 trillion club • Video 11:05 MS Video LA mayoral candidate Spencer Pratt separates his current mission from his past: I’m a ‘very different’ person now 11:05 Ad Feedback Vatican Media via Reuters Video Pope Leo’s AI encyclical is ‘an extraordinary step forward’, says Cardinal Michael Czerny 4:28 May 26, 2026 Courtesy Tuma Basa Why Africa’s global music boom still leaves much of the continent unheard May 26, 2026 CJ ENM South Korea’s movie industry is embracing AI. Will K-film lose its magic? May 26, 2026 Yara Nardi/Reuters Pope Leo warns of AI fueling warfare in first major theological document May 25, 2026 More Tech News Aitor Diago/Moment RF/Getty Images Child safety lab launching ‘independent crash testing’ for AI tools CFOTO/Future Publishing/Getty Images Apple’s new CEO will inherit strong sales and even greater expectations Jennifer Gauthier/Reuters Families of Tumbler Ridge shooting victims sue OpenAI and CEO Sam Altman David Paul Morris/Bloomberg/Getty Images Microsoft to offer vol",
-        "long_summary_en": "AI News Rikka Altland/CNN Underscored Hot weather is on the way, but these 2 best-tested tower fans can help • Video 5:04 CNN Video Erin Brockovich joins fight against AI data centers: ‘It’s shocking’ 5:04 • Video 2:55 Clipped From Video Video Can AI resurrect the genius of France’s greatest playwright 2:55 Westend61/Getty Images AI ‘voice cloning’ scams are on the rise. Here’s how to protect yourself Jung Yeon-je/AFP/Getty Images For the third time this month, a chip giant has joined the $1 trillion club • Video 11:05 MS Video LA mayoral candidate Spencer Pratt separates his current mission f",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/mpa-49-1-1.jpg?c=16x9&q=w_800,c_fill",
-        "source": "Cnn",
-        "url": "https://www.cnn.com/business/tech/ai-news-artificial-intelligence-updates",
-        "date": "01 June 2026"
       }
     ]
   },
