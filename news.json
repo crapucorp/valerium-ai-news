@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03 August 2026 - 13:02",
+  "lastUpdate": "03 August 2026 - 13:32",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "title_en": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "summary_en": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "long_summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "long_summary_en": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+        "date": "03 August 2026"
+      },
+      {
         "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
         "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
         "summary": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs Updated 2026-08-03 Compare AI Token & Subscription Prices in Real-Time Check AI pricing before the bill lands. We track API token pricing f",
@@ -714,18 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/llm-updates",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "Newsroom \\ Anthropic",
-        "title_en": "Newsroom \\ Anthropic",
-        "summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement fo",
-        "summary_en": "Anthropic is an AI safety and research company that&#x27;s working to build reliable, interpretable, and steerable AI systems.",
-        "long_summary": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it. Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners. Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale. News Search Date Category Title Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations Jul 27, 2026 Announcements Our position on open-weights models Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients Jul 24, 2026 Product Introducing Claude Opus 5 Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund Jul 22",
-        "long_summary_en": "Newsroom Press inquires press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work. Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them. Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's codi",
-        "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/news",
         "date": "01 August 2026"
       }
     ],
