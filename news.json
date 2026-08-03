@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03 August 2026 - 19:05",
+  "lastUpdate": "03 August 2026 - 19:35",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+        "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
+        "summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 71 AI Weekly issues and 76 live stories from the last 30 days menti",
+        "summary_en": "OpenAI Adds Nubank CEO David Vélez and BNY CEO Robin Vince to Its Foundation and PBC Boards Ahead of IPO ... Anthropic Spent $1.97M on Q2 2026 US Lobbying, Up 26% QoQ, Outspending Nvidia and Nearly Ma",
+        "long_summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 71 AI Weekly issues and 76 live stories from the last 30 days mention OpenAI. 407 total mentions 13/20 recent issues -49% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake. The harder coverage in April: Florida's AG opened a criminal investigation over ChatGPT's role in the FSU shooting; the Musk fraud trial heads to a $150B reckoning; and Sam Altman publicly apologized after the Tumbler Ridge tragedy. AI Weekly tracks every release, lawsuit, and pricing change. Mention Trend — Last 20 Issues Live Stories (76) White House Says It Finalized Voluntary Frontier AI Framework Behind Closed Doors axios.com · 2026-08-03 · Score: 18 Axios: Dario Amodei Warns Anthropic Staff Increasingly Chasing Money Over Mission Amid Meta Poaching War axios.com · 2026-08-03 · Score: 21 Trump White House Convenes OpenAI, Google and Anthropic Staff Tuesday to Review AI Oversight Framework theinformation.com · 2026-08-03 · Score: 22 Wired: US Law Unprepared for Rogue AI Agents After OpenAI and Anthropic Breach Disclosures wired.com · 2026-08-02 · Score: 19 YouTuber Hank Green Pauses ",
+        "long_summary_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 71 AI Weekly issues and 76 live stories from the last 30 days mention OpenAI. 407 total mentions 13/20 recent issues -49% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake. ",
+        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
+        "source": "Aiweekly",
+        "url": "https://aiweekly.co/ai-news-today/openai-news",
+        "date": "03 August 2026"
+      },
+      {
         "title": "Congress’s favorite AI tool? ChatGPT",
         "title_en": "Congress’s favorite AI tool? ChatGPT",
         "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm",
@@ -714,18 +726,6 @@
         "image": "https://helios-i.mashable.com/imagery/articles/07fjLqHalCmDOKWHos9a4fH/hero-image.fill.size_1200x675.v1785410681.jpg",
         "source": "Mashable",
         "url": "https://mashable.com/tech/aug-1-1minai-advanced-business-plan-lifetime-subscription",
-        "date": "02 August 2026"
-      },
-      {
-        "title": "Sam Altman is still making the case for parenting via ChatGPT",
-        "title_en": "Sam Altman is still making the case for parenting via ChatGPT",
-        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "summary_en": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "long_summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "long_summary_en": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
         "date": "02 August 2026"
       }
     ],
