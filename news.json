@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03 August 2026 - 12:31",
+  "lastUpdate": "03 August 2026 - 13:02",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
+        "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
+        "summary": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs Updated 2026-08-03 Compare AI Token & Subscription Prices in Real-Time Check AI pricing before the bill lands. We track API token pricing f",
+        "summary_en": "All calculators Token cost calculator Subscription vs API calculator Labs leaderboard Tools News Blog ... Check AI pricing before the bill lands. We track API token pricing for 196 models across 16 pr",
+        "long_summary": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs Updated 2026-08-03 Compare AI Token & Subscription Prices in Real-Time Check AI pricing before the bill lands. We track API token pricing for 196 models across 16 providers, plus monthly AI subscription plans for ChatGPT, Claude, Gemini, Perplexity, Copilot, and more. Current cheapest flagship API model: DeepSeek V4 Flash 0731 at $0.14 per million input tokens. API Token Pricing Subscription Pricing Cost Calculators Labs Leaderboard Self-Hosting Costs New · AI Pricing Guru Labs Accuracy is only half the model-cost story GPT-5.6 Terra and GPT-5.6 Sol and Claude Opus 4.8 and Grok 4.5 and Gemini 3.6 Flash lead accuracy at 100%, while DeepSeek V4 Flash (pre-0731) delivers the lowest measured cost per correct answer. Open the leaderboard → 196 Models Tracked 16 Providers Daily Price Updates 31 Subscription Plans AI API price scale How flagship AI model prices compare Open full table → Input + output Input Output Swipe to see all flagships Tap a column for prices $10 $20 $50 $100 $200 GPT-5.4 Pro — $210 per 1M — cheapest at OpenAI $210 GPT-5.4 Pro OpenAI GPT-5.5 Pro — $210 per 1M — cheapest at OpenAI $210 GPT-5.5 Pro OpenAI Claude Fable 5 — $60 per 1M — cheapest at Anthropic $60 Claude Fable 5 Anthropic Claude Mythos 5 — $60 per 1M — cheapest at Anthropic $60 Claude Mythos 5 Anthropic GPT-5.5 — $35 per 1M — cheapest at OpenAI $35 GPT-5.5 OpenAI GPT-5.6 Sol — $35 per 1M — cheapest at OpenAI $35 GPT-5.6 Sol OpenAI Claude Op",
+        "long_summary_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs Updated 2026-08-03 Compare AI Token & Subscription Prices in Real-Time Check AI pricing before the bill lands. We track API token pricing for 196 models across 16 providers, plus monthly AI subscription plans for ChatGPT, Claude, Gemini, Perplexity, Copilot, and more. Current cheapest flagship API model: DeepSeek V4 Flash 0731 at $0.14 per million input tokens. API Token Pricing Subscription Pricing Cost Calculators Labs Leaderboard Self-Hosting Costs New · AI Pricing Guru Labs Accuracy is only half the model-cost story GPT-5.6 Terra",
+        "image": "https://www.aipricing.guru/og/home.png",
+        "source": "Aipricing",
+        "url": "https://www.aipricing.guru/",
+        "date": "03 August 2026"
+      },
+      {
+        "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+        "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well",
+        "summary_en": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well",
+        "long_summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a […]",
+        "long_summary_en": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+        "date": "03 August 2026"
+      },
+      {
         "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
         "title_en": "Best AI Coding Agents (August 2026): Scored Leaderboard",
         "summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
@@ -702,30 +726,6 @@
         "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
         "source": "Anthropic",
         "url": "https://www.anthropic.com/news",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "title_en": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-        "summary_en": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-        "long_summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-        "long_summary_en": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "AI Model Pricing Compared: Cost Per Token (2026)",
-        "title_en": "AI Model Pricing Compared: Cost Per Token (2026)",
-        "summary": "AI Model Pricing Compared: Cost Per Token (2026) Prices verified Jul 31, 2026 AI Model Pricing: Every Model, Per-Token & Per-Seat One place to see what every major AI model actually costs — per-millio",
-        "summary_en": "Most AI vendors offer a free tier in their chat app, separate from the paid API pricing shown here. ChatGPT, Claude, and Gemini each have a free tier with usage limits (OpenAI, Anthropic, Google). The",
-        "long_summary": "AI Model Pricing Compared: Cost Per Token (2026) Prices verified Jul 31, 2026 AI Model Pricing: Every Model, Per-Token & Per-Seat One place to see what every major AI model actually costs — per-million-token API pricing and per-seat plans, sortable and source-linked. Prices verified Jul 31, 2026 Vendor: All OpenAI Anthropic Google xAI Perplexity Mistral DeepSeek Amazon Meta Cohere Moonshot AI Zhipu AI Alibaba MiniMax Model ↕ Vendor ↕ Input / 1M tokens ▲ Output / 1M tokens ↕ GLM 4.7 Flash Free tier on the Z.ai API Zhipu AI $0 $0 Nova Micro AWS Bedrock on-demand Amazon $0.035 $0.14 GPT-5 Nano Cheapest OpenAI text model OpenAI $0.05 $0.40 Nova Lite AWS Bedrock on-demand Amazon $0.06 $0.24 GLM 4.7 FlashX Fast, low-cost tier Zhipu AI $0.07 $0.40 Gemini 2.5 Flash-Lite Cheapest Gemini text rate Google $0.10 $0.40 Devstral Small 2 Agentic coding, small Mistral $0.10 $0.30 Ministral 3 (3B) Edge model Mistral $0.10 $0.10 DeepSeek V4 Flash Cache-hit input $0.003 / 1M DeepSeek $0.14 $0.28 Mistral Small 4 Mistral $0.15 $0.60 Ministral 3 (8B) Edge model Mistral $0.15 $0.15 Mistral NeMo Open-weight, Apache 2.0 Mistral $0.15 $0.15 Llama 4 Scout Hosted on AWS Bedrock Meta $0.17 $0.66 Qwen3.6 Flash Intl (Singapore) endpoint; CN endpoint cheaper Alibaba $0.19 $1.13 GPT-5.6 Luna Lowest-cost tier; price cut Jul 30, 2026 OpenAI $0.20 $1.20 GPT-5.4 Nano Cheapest 5.4-gen model OpenAI $0.20 $1.25 Ministral 3 (14B) Edge model Mistral $0.20 $0.20 GLM 4.5 Air Lightweight open-weight tier Zhipu AI $0.20 ",
-        "long_summary_en": "AI Model Pricing Compared: Cost Per Token (2026) Prices verified Jul 31, 2026 AI Model Pricing: Every Model, Per-Token & Per-Seat One place to see what every major AI model actually costs — per-million-token API pricing and per-seat plans, sortable and source-linked. Prices verified Jul 31, 2026 Vendor: All OpenAI Anthropic Google xAI Perplexity Mistral DeepSeek Amazon Meta Cohere Moonshot AI Zhipu AI Alibaba MiniMax Model ↕ Vendor ↕ Input / 1M tokens ▲ Output / 1M tokens ↕ GLM 4.7 Flash Free tier on the Z.ai API Zhipu AI $0 $0 Nova Micro AWS Bedrock on-demand Amazon $0.035 $0.14 GPT-5 Nano Ch",
-        "image": "https://www.layer3labs.io/og-default.png",
-        "source": "Layer3Labs",
-        "url": "https://www.layer3labs.io/ai-model-pricing",
         "date": "01 August 2026"
       }
     ],
@@ -914,11 +914,11 @@
   },
   "hotNews": [
     {
-      "title": "AI Model Pricing Compared: Cost Per Token (2026)",
-      "title_en": "AI Model Pricing Compared: Cost Per Token (2026)",
-      "source": "Layer3Labs",
-      "url": "https://www.layer3labs.io/ai-model-pricing",
-      "date": "01 August 2026"
+      "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
+      "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
+      "source": "Aipricing",
+      "url": "https://www.aipricing.guru/",
+      "date": "03 August 2026"
     },
     {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
