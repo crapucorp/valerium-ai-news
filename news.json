@@ -1,7 +1,31 @@
 {
-  "lastUpdate": "03 August 2026 - 21:06",
+  "lastUpdate": "04 August 2026 - 12:31",
   "categories": {
     "general": [
+      {
+        "title": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
+        "title_en": "Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates",
+        "summary": "Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malici",
+        "summary_en": "Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malici",
+        "long_summary": "Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.\nThe post Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates appeared first on MarkTechPost.",
+        "long_summary_en": "Learn how to build an end-to-end security assessment pipeline for AI agent skills using NVIDIA SkillSpector and LangGraph. In this tutorial, we construct a synthetic skill marketplace, scan for malicious prompt injection, credential access, and risky dependencies, and implement custom YARA rules, baseline suppressions, and CI deployment gates.\nThe post Building an Advanced AI Skill Security Auditing Pipeline with NVIDIA SkillSpector, LangGraph, YARA Rules, SARIF, and CI Policy Gates appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/high-level-description-a-monochrome-cybe_2rr6n78EUGGOOwTBaf3UzA_gSBnpjrRS5CwRLN0TlRb5g_cover_2k-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates/",
+        "date": "04 August 2026"
+      },
+      {
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "title_en": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "summary_en": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "long_summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "long_summary_en": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "date": "04 August 2026"
+      },
       {
         "title": "Nvidia’s real moat was never the chips. AI has started rewriting it.",
         "title_en": "Nvidia’s real moat was never the chips. AI has started rewriting it.",
@@ -156,30 +180,6 @@
         "image": "https://media.thenextweb.com/2026/06/amazon-human-in-the-loop-ai-governance-normalization-deviance.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/amazon-shuts-agi-lab-frontier-model-retreat-layoffs",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Stripe wants to own the toll booth between AI models, for ~$10bn",
-        "title_en": "Stripe wants to own the toll booth between AI models, for ~$10bn",
-        "summary": "Stripe wants a foothold in AI, and it is willing to pay dearly for it. The payments company is in talks to buy OpenRouter for about $10 billion, the Wall Street Journal reported. That is a staggering ",
-        "summary_en": "Stripe wants a foothold in AI, and it is willing to pay dearly for it. The payments company is in talks to buy OpenRouter for about $10 billion, the Wall Street Journal reported. That is a staggering ",
-        "long_summary": "Stripe wants a foothold in AI, and it is willing to pay dearly for it. The payments company is in talks to buy OpenRouter for about $10 billion, the Wall Street Journal reported. That is a staggering price for a startup valued at just $1.3 billion in May. The talks are preliminary, and could still […]\nThis story continues at The Next Web",
-        "long_summary_en": "Stripe wants a foothold in AI, and it is willing to pay dearly for it. The payments company is in talks to buy OpenRouter for about $10 billion, the Wall Street Journal reported. That is a staggering price for a startup valued at just $1.3 billion in May. The talks are preliminary, and could still […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/05/stripe-collison-agentic-commerce-reshape-internet.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/stripe-openrouter-10-billion-ai-model-marketplace-acquisition",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "AI News & Artificial Intelligence | TechCrunch",
-        "title_en": "AI News & Artificial Intelligence | TechCrunch",
-        "summary": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
-        "summary_en": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
-        "long_summary": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
-        "long_summary_en": "News coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today.",
-        "image": "https://techcrunch.com/wp-content/uploads/2023/12/face-ai-binary.jpg?w=595",
-        "source": "Techcrunch",
-        "url": "https://techcrunch.com/category/artificial-intelligence/",
         "date": "24 July 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "Partner models in Adobe products | Creative Cloud",
+        "title_en": "Partner models in Adobe products | Creative Cloud",
+        "summary": "Creative Cloud Help View all apps Adobe Help Center Creative Cloud Help What's new What’s new in Creative Cloud desktop app Adobe Creative Cloud desktop app release notes Get started Creative Cloud de",
+        "summary_en": "Your content is never used to train partner generative AI models or Adobe models. We only offer partner models if the developer/hosting platform contractually agrees to this. Your prompts and inputs a",
+        "long_summary": "Creative Cloud Help View all apps Adobe Help Center Creative Cloud Help What's new What’s new in Creative Cloud desktop app Adobe Creative Cloud desktop app release notes Get started Creative Cloud desktop technical requirements Creative Cloud FAQ Adobe Creative Cloud desktop app features Creative Cloud on desktop languages Adobe Home languages Supported file formats in Creative Cloud Adobe mobile apps FAQ Manage apps Creative Cloud desktop app Check Creative Cloud desktop app version Switch between light and dark mode Turn notifications on or off in Creative Cloud desktop app Uninstall Creative Cloud desktop app Change language for Creative Cloud desktop app Manage local storage in Creative Cloud desktop app Creative Cloud apps Launch Creative Cloud apps Open Creative Cloud desktop apps from your browser Manage apps in Creative Cloud Update Creative Cloud apps automatically Update Creative Cloud apps manually Check for app updates Schedule app updates Change language for Creative Cloud apps Uninstall Creative Cloud apps Uninstall or remove apps while offline Connect with other creatives through Adobe Discord servers Generative AI in Creative Cloud Welcome to Generative AI Generative credits access and use Creative Cloud Generative AI features Generative credits FAQ Partner models in Adobe products Generative AI model retirement Watermarks for Generative AI content FAQ Work with cloud documents Manage cloud storage Cloud documents overview Convert files to cloud documents Ope",
+        "long_summary_en": "Creative Cloud Help View all apps Adobe Help Center Creative Cloud Help What's new What’s new in Creative Cloud desktop app Adobe Creative Cloud desktop app release notes Get started Creative Cloud desktop technical requirements Creative Cloud FAQ Adobe Creative Cloud desktop app features Creative Cloud on desktop languages Adobe Home languages Supported file formats in Creative Cloud Adobe mobile apps FAQ Manage apps Creative Cloud desktop app Check Creative Cloud desktop app version Switch between light and dark mode Turn notifications on or off in Creative Cloud desktop app Uninstall Creati",
+        "image": "https://fortune.com/img-assets/wp-content/uploads/2025/10/GettyImages-1767594383.jpg?format=webp&w=1440&q=100",
+        "source": "Helpx",
+        "url": "https://helpx.adobe.com/creative-cloud/apps/generative-ai/non-adobe-models-in-adobe-products.html",
+        "date": "04 August 2026"
+      },
+      {
+        "title": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
+        "title_en": "AI Video Generator & Editor — All-in-One Platform | Animon AI",
+        "summary": "<strong>Animon AI provides access to Kling AI, Runway, Veo 3, Sora 2, Seedance, and more, all in one place</strong>. Create stunning videos using the best AI models available. ... Loading video...",
+        "summary_en": "<strong>Animon AI provides access to Kling AI, Runway, Veo 3, Sora 2, Seedance, and more, all in one place</strong>. Create stunning videos using the best AI models available. ... Loading video...",
+        "long_summary": "<strong>Animon AI provides access to Kling AI, Runway, Veo 3, Sora 2, Seedance, and more, all in one place</strong>. Create stunning videos using the best AI models available. ... Loading video...",
+        "long_summary_en": "<strong>Animon AI provides access to Kling AI, Runway, Veo 3, Sora 2, Seedance, and more, all in one place</strong>. Create stunning videos using the best AI models available. ... Loading video...",
+        "image": "",
+        "source": "Animon",
+        "url": "https://animon.org/",
+        "date": "04 August 2026"
+      },
+      {
         "title": "AI YouTube Video Generator — Sora 2 Tools | Higgsfield",
         "title_en": "AI YouTube Video Generator — Sora 2 Tools | Higgsfield",
         "summary": "Step 1 of 3 type your prompt Write your idea in one phrase, select the platform and choose a style.",
@@ -521,33 +545,45 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/",
         "date": "26 July 2026"
-      },
-      {
-        "title": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
-        "title_en": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
-        "summary": "Security The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days By Lily Hay Newman and Dhruv Mehrotra Business China-US AI Race Escalates, OpenAI Models Break Free, and Why ",
-        "summary_en": "Find the latest Artificial Intelligence news from WIRED. See related science and technology articles, photos, slideshows and videos.",
-        "long_summary": "Security The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days By Lily Hay Newman and Dhruv Mehrotra Business China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm By Brian Barrett , Zoë Schiffer , and Leah Feiger Business Silicon Valley Is Completely Divided Over Chinese AI By Lauren Goode The Big Story Some Kids Will Never Think AI Is Cool By Elana Klein Business Meta’s New Feel-Good AI Ad Uses a Song About the World Ending By Caroline Haskins Gear Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop By Boone Ashworth Politics The White House Is Trying to Figure Out What to Do About Chinese AI By Hugo Lowell Business China’s Open AI Models Are Challenging Silicon Valley’s Playbook By Zeyi Yang Security OpenAI Models Escaped Containment and Hacked Hugging Face By Lily Hay Newman and Dell Cameron Business This Former Intel CEO Wants to Jumpstart Moore’s Law With Light By Joel Khalili Security A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots By Lily Hay Newman Gear Halliday’s New Smart Glasses Skip the Camera By Boone Ashworth Business ‘It’s a Modern-Day Draft’: Why Stanford Students Walked Out on Sundar Pichai’s Commencement Speech By Katie Drummond Politics The Army Is Burning Through Its AI Tokens By Vittoria Elliott Culture Etsy Is In Its Flop Era, and Sellers Are Fleeing By Ej Dickson Security Your Period Tracker Is (Probably) Spying on You By An",
-        "long_summary_en": "Security The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days By Lily Hay Newman and Dhruv Mehrotra Business China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm By Brian Barrett , Zoë Schiffer , and Leah Feiger Business Silicon Valley Is Completely Divided Over Chinese AI By Lauren Goode The Big Story Some Kids Will Never Think AI Is Cool By Elana Klein Business Meta’s New Feel-Good AI Ad Uses a Song About the World Ending By Caroline Haskins Gear Remember Jibo? Its Successor Is a Wearable That Turns Your Life Into AI Slop ",
-        "image": "https://media.wired.com/photos/6a639d3adc5893971a3d0afd/191:100/w_1280,c_limit/GettyImages-2278950606.jpg",
-        "source": "Wired",
-        "url": "https://www.wired.com/tag/artificial-intelligence/",
-        "date": "26 July 2026"
-      },
-      {
-        "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
-        "title_en": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
-        "summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen.",
-        "summary_en": "A handful of open-weight AI video generators (like CogVideoX and Mochi) can be run locally for free if you have GPU access, and most hosted providers (Runway, Kling, Luma, Pika) offer a small free tie",
-        "long_summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $0.89 / M tokens See model page → Compare side-by-side",
-        "long_summary_en": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $0.89 / M tokens See model page → Compare side-by-side",
-        "image": "https://llm-stats.com/api/og/category/video_generation",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
-        "date": "26 July 2026"
       }
     ],
     "llm": [
+      {
+        "title": "LLM News Today (August 2026) – AI Model Releases",
+        "title_en": "LLM News Today (August 2026) – AI Model Releases",
+        "summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an importan",
+        "summary_en": "The LLM ecosystem has evolved dramatically, with over 500 models now available across commercial APIs and open source LLM releases. From OpenAI&#x27;s GPT-4 series to Anthropic&#x27;s Claude, Google&#",
+        "long_summary": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "long_summary_en": "Comparison · Benchmarks Claude Opus 5 vs GPT-5.6 Sol: Frontier Analysis Claude Opus 5 vs GPT-5.6 Sol on FrontierCode 1.1. Opus posts a higher mergeability score at lower rollout cost, with an important effort-setting caveat. Jonathan Chavez · Jul 24, 2026 · 7 min",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/ai-news",
+        "date": "04 August 2026"
+      },
+      {
+        "title": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
+        "title_en": "Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web",
+        "summary": "Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employe",
+        "summary_en": "Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employe",
+        "long_summary": "Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode, Codex, and Claude Code all drive the same headless core, so deployments avoid vendor lock-in.\nThe post Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web appeared first on MarkTechPost.",
+        "long_summary_en": "Y Combinator has open-sourced QM, the multiplayer agent harness it uses internally across accounting, legal, events, and engineering. Released July 31, 2026 under an MIT license, QM gives each employee an isolated workspace and each Slack room its own scoped memory, files, keychain view, permissions, crons, web apps, and durable sandbox. Pi, OpenCode, Codex, and Claude Code all drive the same headless core, so deployments avoid vendor lock-in.\nThe post Y Combinator Open-Sources QM: An MIT-Licensed Multiplayer Agent Harness That Runs In Slack And The Web appeared first on MarkTechPost.",
+        "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog6176-8-218x150.png",
+        "source": "marktechpost",
+        "url": "https://www.marktechpost.com/2026/08/03/y-combinator-open-sources-qm-multiplayer-ai-agent-harness/",
+        "date": "04 August 2026"
+      },
+      {
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "title_en": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "summary_en": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "long_summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "long_summary_en": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1502799666.jpg?resize=1200,633",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "date": "04 August 2026"
+      },
       {
         "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
         "title_en": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
@@ -690,42 +726,6 @@
         "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
         "source": "The Verge",
         "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-        "date": "03 August 2026"
-      },
-      {
-        "title": "Best AI Coding Agents (August 2026): Scored Leaderboard",
-        "title_en": "Best AI Coding Agents (August 2026): Scored Leaderboard",
-        "summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
-        "summary_en": "It connects per-run via flags, ... anthropic=&lt;key&gt; or aider --model deepseek --api-key deepseek=&lt;key&gt;, and runs local models via Ollama and any OpenAI-compatible API. One caveat: Aider&#x2",
-        "long_summary": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
-        "long_summary_en": "Vercel Security Checkpoint We're verifying your browser Website owner? Click here to fix Enable JavaScript to continue",
-        "image": "https://rapidclaw.dev/blog/ai-agent-benchmarks-2026/leaderboard-snapshot.png",
-        "source": "Morphllm",
-        "url": "https://www.morphllm.com/best-ai-coding-agents-2026",
-        "date": "03 August 2026"
-      },
-      {
-        "title": "Simon Willison’s Weblog",
-        "title_en": "Simon Willison’s Weblog",
-        "summary": "Release condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big",
-        "summary_en": "This worked in part because we’ve trained GPT‑5.6 to be effective at writing and improving kernels in Triton⁠and Gluon⁠, two open-source GPU programming languages maintained by OpenAI. These efforts, ",
-        "long_summary": "Release condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { \"foo\" : { \"bar\" : { \"string\" : \" This is a string with foxes in it \" , \"nested\" : { \"more\" : [ \" Here is a string \" , \" another with foxes in it too \" ] } } } } Combine that with a replacements object: { \"1\" : \" with foxes in it \" } And condense_json(input_json, replacements) produces the following: { \"foo\" : { \"bar\" : { \"string\" : { \"$r\" : [ \" This is a string \" , { \"$\" : \" 1 \" }]}, \"nested\" : { \"more\" : [ \" Here is a string \" , { \"$r\" : [ \" another \" , { \"$\" : \" 1 \" }, \" too \" ]}] } } } } It scans for strings or substrings that are present in that replacements object and replaces those with a special {\"$r\": ...} syntax in the output. You can reverse the effect with uncondense_json(condensed, replacements) . The idea is to make it easier to store JSON that includes duplicated data from other related structures. I use it to save space in the SQLite logs generated by LLM - see PR #1586 for the latest iteration of that. 2nd Aug 2026, 10:19 pm · projects , json , python , llm",
-        "long_summary_en": "Release condense-json 1.0 I'm trying to get braver at releasing 1.0 versions. This little library is a year and a half old now - I've applied some sensible and non-disruptive fixes and shipped the big 1.0 for it. Here's an example of what it can do, lifted from the README: { \"foo\" : { \"bar\" : { \"string\" : \" This is a string with foxes in it \" , \"nested\" : { \"more\" : [ \" Here is a string \" , \" another with foxes in it too \" ] } } } } Combine that with a replacements object: { \"1\" : \" with foxes in it \" } And condense_json(input_json, replacements) produces the following: { \"foo\" : { \"bar\" : { \"",
-        "image": "https://digialps.com/wp-content/uploads/2025/07/simon-willisons-weblog-ai-coding-revolution.png",
-        "source": "Simonwillison",
-        "url": "https://simonwillison.net/",
-        "date": "03 August 2026"
-      },
-      {
-        "title": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines",
-        "title_en": "Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines",
-        "summary": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by thre",
-        "summary_en": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by thre",
-        "long_summary": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by three independent LLM judges, Ontology 1 reached a mean precision@10 of 0.630, against 0.543 for Google Shopping and 0.469 for Amazon. It did this while indexing roughly 1% […]\nThe post Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines appeared first on MarkTechPost.",
-        "long_summary_en": "Onton, a San Francisco-based search and discovery company, has released Ontology 1, a neurosymbolic model for complex, conversational, multimodal product search. On a 90-query benchmark scored by three independent LLM judges, Ontology 1 reached a mean precision@10 of 0.630, against 0.543 for Google Shopping and 0.469 for Amazon. It did this while indexing roughly 1% […]\nThe post Onton Releases Ontology 1: A Neurosymbolic Search Model That is 2.7x More Accurate than the World’s Best E-commerce Search Engines appeared first on MarkTechPost.",
-        "image": "https://onton.com/assets/2442f3dcde18f34afff5616a512331ae99295860/rethinking-product-search-why-smaller-models-and-context-win-cover.webp",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/08/02/onton-releases-ontology-1-a-neurosymbolic-search-model/",
         "date": "03 August 2026"
       }
     ],
@@ -914,18 +914,18 @@
   },
   "hotNews": [
     {
-      "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
-      "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
-      "source": "Aipricing",
-      "url": "https://www.aipricing.guru/",
-      "date": "03 August 2026"
-    },
-    {
       "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
       "source": "Bleepingcomputer",
       "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
       "date": "05 June 2026"
+    },
+    {
+      "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
+      "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
+      "source": "Aipricing",
+      "url": "https://www.aipricing.guru/",
+      "date": "03 August 2026"
     },
     {
       "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
