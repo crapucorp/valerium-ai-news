@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04 August 2026 - 19:35",
+  "lastUpdate": "04 August 2026 - 20:05",
   "categories": {
     "general": [
       {
@@ -549,6 +549,30 @@
     ],
     "llm": [
       {
+        "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
+        "title_en": "AI Updates Today (August 2026) – Latest AI Model Releases",
+        "summary": "Quick verification Confirm you're human to keep going.",
+        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
+        "long_summary": "Quick verification Confirm you're human to keep going.",
+        "long_summary_en": "Quick verification Confirm you're human to keep going.",
+        "image": "https://llm-stats.com/og/main.png",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/llm-updates",
+        "date": "04 August 2026"
+      },
+      {
+        "title": "How an OpenAI influencer trip backfired",
+        "title_en": "How an OpenAI influencer trip backfired",
+        "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trip",
+        "summary_en": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trip",
+        "long_summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast […]",
+        "long_summary_en": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+        "date": "04 August 2026"
+      },
+      {
         "title": "‘Not healthy’ LLM use is more common than you think",
         "title_en": "‘Not healthy’ LLM use is more common than you think",
         "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed",
@@ -702,30 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-        "date": "03 August 2026"
-      },
-      {
-        "title": "OpenAI employee claims Google had ChatGPT before OpenAI but never released it - India Today",
-        "title_en": "OpenAI employee claims Google had ChatGPT before OpenAI but never released it - India Today",
-        "summary": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/openai-employee-claims-google-had-chatgpt-before-openai-but-never-released-it-2962043-20",
-        "summary_en": "You see, Google fundamentally created the architecture of a large language model (LLM) that we use today with its 2017 paper, “Attention is All You Need.” Simply put, Google developed the Transformer ",
-        "long_summary": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/openai-employee-claims-google-had-chatgpt-before-openai-but-never-released-it-2962043-2026-08-03\" on this server. Reference #18.9e2a1202.1785774858.460ea2cb https://errors.edgesuite.net/18.9e2a1202.1785774858.460ea2cb",
-        "long_summary_en": "Access Denied Access Denied You don't have permission to access \"http://www.indiatoday.in/technology/news/story/openai-employee-claims-google-had-chatgpt-before-openai-but-never-released-it-2962043-2026-08-03\" on this server. Reference #18.9e2a1202.1785774858.460ea2cb https://errors.edgesuite.net/18.9e2a1202.1785774858.460ea2cb",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/google-ceo-sundar-pichai-02124079-1x1.jpg?VersionId=LgeuZahfYxUuPgKTWNmze8xhxB.2NbMO&size=80:80",
-        "source": "Indiatoday",
-        "url": "https://www.indiatoday.in/technology/news/story/openai-employee-claims-google-had-chatgpt-before-openai-but-never-released-it-2962043-2026-08-03",
-        "date": "03 August 2026"
-      },
-      {
-        "title": "OpenAI Stops Generating Revenue Through Its Most Expensive AI Models",
-        "title_en": "OpenAI Stops Generating Revenue Through Its Most Expensive AI Models",
-        "summary": "Home Article OpenAI no longer makes money by relying on its most expensive models. 版面之外 2026-08-03 10:01 Anthropic: Me too. If there are still people today spending the most money to call OpenAI's mos",
-        "summary_en": "Every time a new model is released, ... and Anthropic break this rule, and they convey a new signal to the market: <strong>The appeal of the single-performance</strong> ......",
-        "long_summary": "Home Article OpenAI no longer makes money by relying on its most expensive models. 版面之外 2026-08-03 10:01 Anthropic: Me too. If there are still people today spending the most money to call OpenAI's most powerful model. OpenAI would instead advise them to switch to another one. On July 30, OpenAI released a price adjustment announcement. The GPT-5.6Luna model saw an 80% price cut, and the Terra model got a 20% price reduction. Seeing this news, it's easy to focus on the price war that has kicked off in Silicon Valley. However, if you carefully go through the officially published technical documents and API call guidelines, you will realize that the truly noteworthy move is not the price figures themselves. Essentially, this is the first time OpenAI has started telling users that many tasks do not actually require the most powerful model. The official gave a very specific suggestion: for a complex task, first use GPT-5.6Sol to complete requirement analysis and solution design, then hand it over to Luna for execution, code writing and test running. The most expensive model is responsible for thinking, and the cheapest one is responsible for execution. This strategy would have been equivalent to commercial self-denial two years ago. You know, in the past, the entire AI industry was desperately telling the market that their own model was the smartest. But today, OpenAI is standing up and saying you don't always have to buy the most expensive one. This move is far more important tha",
-        "long_summary_en": "Home Article OpenAI no longer makes money by relying on its most expensive models. 版面之外 2026-08-03 10:01 Anthropic: Me too. If there are still people today spending the most money to call OpenAI's most powerful model. OpenAI would instead advise them to switch to another one. On July 30, OpenAI released a price adjustment announcement. The GPT-5.6Luna model saw an 80% price cut, and the Terra model got a 20% price reduction. Seeing this news, it's easy to focus on the price war that has kicked off in Silicon Valley. However, if you carefully go through the officially published technical docume",
-        "image": "https://img.36krcdn.com/hsossms/20260803/v2_1b84ec9c02ed4b85a7d6b9f4dbd4342d@000000_oswg90357oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
-        "source": "Eu",
-        "url": "https://eu.36kr.com/en/p/3923151726876544",
         "date": "03 August 2026"
       }
     ],
