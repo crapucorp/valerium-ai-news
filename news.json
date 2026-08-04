@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "04 August 2026 - 21:37",
+  "lastUpdate": "04 August 2026 - 22:08",
   "categories": {
     "general": [
+      {
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "title_en": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
+        "summary_en": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
+        "long_summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+        "long_summary_en": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?resize=1200,576",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "date": "04 August 2026"
+      },
       {
         "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
         "title_en": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
@@ -168,18 +180,6 @@
         "image": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/bots-outnumber-humans-internet-ai-agents-traffic",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-        "title_en": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-        "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
-        "summary_en": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
-        "long_summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-        "long_summary_en": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
         "date": "24 July 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+        "title_en": "Anthropic signs $10 billion deal with AI cloud startup Volta",
+        "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "summary_en": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "long_summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "long_summary_en": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "date": "04 August 2026"
+      },
+      {
         "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
         "title_en": "AI Updates Today (August 2026) – Latest AI Model Releases",
         "summary": "Quick verification Confirm you're human to keep going.",
@@ -715,21 +727,21 @@
         "source": "Aiweekly",
         "url": "https://aiweekly.co/ai-news-today/openai-news",
         "date": "03 August 2026"
-      },
-      {
-        "title": "Congress’s favorite AI tool? ChatGPT",
-        "title_en": "Congress’s favorite AI tool? ChatGPT",
-        "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm",
-        "summary_en": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent comm",
-        "long_summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-        "long_summary_en": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-        "date": "03 August 2026"
       }
     ],
     "audio": [
+      {
+        "title": "Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you",
+        "title_en": "Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you",
+        "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "summary_en": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "long_summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "long_summary_en": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?resize=1200,675",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+        "date": "04 August 2026"
+      },
       {
         "title": "Spotify expands AI remix and covers project with Merlin partnership",
         "title_en": "Spotify expands AI remix and covers project with Merlin partnership",
@@ -897,18 +909,6 @@
         "source": "marktechpost",
         "url": "https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-analysis-best-in-class-fleurs-accuracy-and-up-to-5x-faster-long-audio-transcription/",
         "date": "08 June 2026"
-      },
-      {
-        "title": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
-        "title_en": "Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights",
-        "summary": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and",
-        "summary_en": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and",
-        "long_summary": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and audio context to respond to speaker tone. The architecture pairs a 7.7B backbone with a 300M depth decoder.\nThe post Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights appeared first on MarkTechPost.",
-        "long_summary_en": "Miso Labs has released MisoTTS, an open-weights 8B text-to-speech model. It uses residual vector quantization (RVQ) to scale its sonic range without scaling parameters, and conditions on both text and audio context to respond to speaker tone. The architecture pairs a 7.7B backbone with a 300M depth decoder.\nThe post Miso Labs Releases MisoTTS: An 8B Emotive Text-to-Speech Model with Open Weights appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/gemma4-12b-banner-infographic-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/04/miso-labs-releases-misotts-an-8b-emotive-text-to-speech-model-with-open-weights/",
-        "date": "05 June 2026"
       }
     ]
   },
