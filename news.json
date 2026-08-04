@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04 August 2026 - 12:31",
+  "lastUpdate": "04 August 2026 - 13:02",
   "categories": {
     "general": [
       {
@@ -367,6 +367,18 @@
     ],
     "video": [
       {
+        "title": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+        "title_en": "Best AI for Video Generation in 2026 — Ranked by Blind Human Votes",
+        "summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen.",
+        "summary_en": "A handful of open-weight AI video generators (like CogVideoX and Mochi) can be run locally for free if you have GPU access, and most hosted providers (Runway, Kling, Luma, Pika) offer a small free tie",
+        "long_summary": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $0.89 / M tokens See model page → Compare side-by-side",
+        "long_summary_en": "Strengths Excellent motion physics and object permanence Often cheaper than Western frontier Watch-outs Smaller Western API footprint When to use Physical-motion-heavy clips; cost-throttled video gen. Input $0.17 / M tokens Output $0.89 / M tokens See model page → Compare side-by-side",
+        "image": "https://llm-stats.com/api/og/category/video_generation",
+        "source": "Llm-Stats",
+        "url": "https://llm-stats.com/leaderboards/best-ai-for-video-generation",
+        "date": "04 August 2026"
+      },
+      {
         "title": "Partner models in Adobe products | Creative Cloud",
         "title_en": "Partner models in Adobe products | Creative Cloud",
         "summary": "Creative Cloud Help View all apps Adobe Help Center Creative Cloud Help What's new What’s new in Creative Cloud desktop app Adobe Creative Cloud desktop app release notes Get started Creative Cloud de",
@@ -532,18 +544,6 @@
         "image": "https://aivideo-expert.com/wp-content/uploads/2026/07/05-Best-AI-Video-Generators-of-2026-Tested-Compared.webp",
         "source": "Aivideo-Expert",
         "url": "https://aivideo-expert.com/best-ai-video-generators/",
-        "date": "26 July 2026"
-      },
-      {
-        "title": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
-        "title_en": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
-        "summary": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a founda",
-        "summary_en": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a founda",
-        "long_summary": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system is Photon-1, a sparse 106B-A5B mixture-of-experts (MoE) […]\nThe post Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run appeared first on MarkTechPost.",
-        "long_summary_en": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Last week, they released imagination models, a foundation model architecture that pretrains on raw video with no action labels at all. Their test system is Photon-1, a sparse 106B-A5B mixture-of-experts (MoE) […]\nThe post Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/blog6171-5-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/",
         "date": "26 July 2026"
       }
     ],
@@ -914,18 +914,18 @@
   },
   "hotNews": [
     {
-      "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
-      "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
-      "source": "Bleepingcomputer",
-      "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
-      "date": "05 June 2026"
-    },
-    {
       "title": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
       "title_en": "AI API Pricing 2026: Compare GPT, Claude, Gemini Token Costs",
       "source": "Aipricing",
       "url": "https://www.aipricing.guru/",
       "date": "03 August 2026"
+    },
+    {
+      "title": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
+      "title_en": "Get GPT, Claude, Gemini, image tools, & more in one $60 lifetime app— only through 6/14",
+      "source": "Bleepingcomputer",
+      "url": "https://www.bleepingcomputer.com/offer/deals/get-gpt-claude-gemini-image-tools-and-more-in-one-60-lifetime-app-only-through-6-14/",
+      "date": "05 June 2026"
     },
     {
       "title": "Best AI Model Predictions: Anthropic, Gemini and OpenAI Odds",
