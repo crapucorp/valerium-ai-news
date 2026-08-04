@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04 August 2026 - 19:04",
+  "lastUpdate": "04 August 2026 - 19:35",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "‘Not healthy’ LLM use is more common than you think",
+        "title_en": "‘Not healthy’ LLM use is more common than you think",
+        "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed",
+        "summary_en": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed",
+        "long_summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of […]",
+        "long_summary_en": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of […]",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+        "date": "04 August 2026"
+      },
+      {
         "title": "OpenAI News | OpenAI",
         "title_en": "OpenAI News | OpenAI",
         "summary": "Enable JavaScript and cookies to continue",
@@ -714,18 +726,6 @@
         "image": "https://img.36krcdn.com/hsossms/20260803/v2_1b84ec9c02ed4b85a7d6b9f4dbd4342d@000000_oswg90357oswg1280oswg544_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
         "source": "Eu",
         "url": "https://eu.36kr.com/en/p/3923151726876544",
-        "date": "03 August 2026"
-      },
-      {
-        "title": "AI Updates Today (August 2026) – Latest AI Model Releases",
-        "title_en": "AI Updates Today (August 2026) – Latest AI Model Releases",
-        "summary": "Quick verification Confirm you're human to keep going.",
-        "summary_en": "Organizations use various naming conventions: OpenAI uses dated snapshots (gpt-4-0613), Anthropic uses descriptive tiers (Claude 3.5 Sonnet), and Google uses generation markers (Gemini 1.5 Pro).",
-        "long_summary": "Quick verification Confirm you're human to keep going.",
-        "long_summary_en": "Quick verification Confirm you're human to keep going.",
-        "image": "https://llm-stats.com/og/main.png",
-        "source": "Llm-Stats",
-        "url": "https://llm-stats.com/llm-updates",
         "date": "03 August 2026"
       }
     ],
