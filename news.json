@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "04 August 2026 - 22:39",
+  "lastUpdate": "04 August 2026 - 23:09",
   "categories": {
     "general": [
+      {
+        "title": "Artificial Intelligence News -- ScienceDaily",
+        "title_en": "Artificial Intelligence News -- ScienceDaily",
+        "summary": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning arg",
+        "summary_en": "<strong>Artificial</strong> <strong>Intelligence</strong> <strong>News</strong>. Everything on <strong>AI</strong> including futuristic robots with <strong>artificial</strong> <strong>intelligence</st",
+        "long_summary": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including ... Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... AI Lets Chemists Design Molecules by Simply Describing Them May 5, 2026 Â Creating complex molecules usually requires years of experience and countless decisions, but a new AI system is changing that. Synthegy lets chemists guide synthesis and reaction planning using ... This AI Knew the Answers but Didnât Understand the Questions Apr. 30, 2026 Â For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur ... AI Swarms Could Hijack Democracy Without Anyone Noticing Apr. 20, 2026 Â AI-powered personas are becoming so realistic that they can infiltrate online communities and subtly steer public opinion. Unlike traditional bots, they adapt, coordinate, and refine their messaging ... Think AI \"knows\" What Itâs Doing? Scientists Say Think Again Apr. 19, 2026 Â Calling AI things like âsma",
+        "long_summary_en": "Alan Turing's Biggest AI Assumption May Have Been Wrong July 13, 2026 Â A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including ... Scientists Are Seriously Asking If Bees and ChatGPT Are Conscious June 5, 2026 Â New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal ... AI Lets Chemists Design Molecules by Simply",
+        "image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+        "source": "Sciencedaily",
+        "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+        "date": "04 August 2026"
+      },
       {
         "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
         "title_en": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
@@ -168,18 +180,6 @@
         "image": "https://external-preview.redd.it/bbc-study-finds-ai-chatbots-still-get-news-wrong-45-of-the-v0-NPLe2VO4wgJI2PqGDzJk-XbA4HyFhw20Vr2mGnE_WxA.jpeg?width=640&crop=smart&auto=webp&s=f8b63ced26181b755037c46aa6716a9f823d685e",
         "source": "Bbc",
         "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Dead internet theory becomes measurable fact as AI agents flood the web",
-        "title_en": "Dead internet theory becomes measurable fact as AI agents flood the web",
-        "summary": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 perce",
-        "summary_en": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 perce",
-        "long_summary": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 percent threshold in June and now accounts for nearly 58 percent of all webpage requests. A separate report from cybersecurity firm HUMAN […]\nThis story continues at The Next Web",
-        "long_summary_en": "Bots now outnumber humans on the internet for the first time in the web’s history. Cloudflare, the security firm that sits in front of millions of websites, says automated traffic crossed the 50 percent threshold in June and now accounts for nearly 58 percent of all webpage requests. A separate report from cybersecurity firm HUMAN […]\nThis story continues at The Next Web",
-        "image": "https://media.thenextweb.com/2026/07/bots-outnumber-humans-internet-ai-agents-traffic.avif",
-        "source": "thenextweb_ai",
-        "url": "https://thenextweb.com/news/bots-outnumber-humans-internet-ai-agents-traffic",
         "date": "24 July 2026"
       }
     ],
@@ -367,6 +367,30 @@
     ],
     "video": [
       {
+        "title": "Artificial Intelligence: The latest news, interviews and videos about AI - CBS News",
+        "title_en": "Artificial Intelligence: The latest news, interviews and videos about AI - CBS News",
+        "summary": "The latest developments in computer technology, and the ethical dilemmas of machine <strong>intelligence</strong>.",
+        "summary_en": "The latest developments in computer technology, and the ethical dilemmas of machine <strong>intelligence</strong>.",
+        "long_summary": "The latest developments in computer technology, and the ethical dilemmas of machine <strong>intelligence</strong>.",
+        "long_summary_en": "The latest developments in computer technology, and the ethical dilemmas of machine <strong>intelligence</strong>.",
+        "image": "",
+        "source": "Cbsnews",
+        "url": "https://www.cbsnews.com/feature/ai-artificial-intelligence/",
+        "date": "04 August 2026"
+      },
+      {
+        "title": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
+        "title_en": "Artificial Intelligence | Latest News, Photos & Videos | WIRED",
+        "summary": "Gear Is This Poker Player Bluffing? The AI Thinks So By Ben Dowsett Culture ‘Everyone Is Doing It’: The Truth About AI in Hollywood By Katie Drummond The Big Story How Data Centers Broke American Poli",
+        "summary_en": "Find the latest <strong>Artificial</strong> <strong>Intelligence</strong> <strong>news</strong> from WIRED. See related science and technology articles, photos, slideshows and videos.",
+        "long_summary": "Gear Is This Poker Player Bluffing? The AI Thinks So By Ben Dowsett Culture ‘Everyone Is Doing It’: The Truth About AI in Hollywood By Katie Drummond The Big Story How Data Centers Broke American Politics By Molly Taft Business Mistral Is in the Right Place at the Right Time By Joel Khalili Culture Did an AI Music App Just Snitch on the Song of the Summer? By Dexter Thomas Business AI Conquered Coding. Fast Food Is Next By Kate Taylor Business Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives By Isabella Ward Security 7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran By Matt Burgess , Maddy Varner , Dell Cameron , and Andy Greenberg Security The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier By Lily Hay Newman Business Chinese AI Researchers Are Finding Their Voice on X By Zeyi Yang Business AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In By Steven Levy Culture This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence By Jason Parham Business Anthropic Says Claude Hacked Into 3 Organizations During Cybersecurity Tests By Louise Matsakis and Lily Hay Newman Business Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance By Maxwell Zeff Business Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic By Brian Barrett , Zoë Schiffer , and Leah Feiger Security Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting By Lily Hay Newman Gear The ",
+        "long_summary_en": "Gear Is This Poker Player Bluffing? The AI Thinks So By Ben Dowsett Culture ‘Everyone Is Doing It’: The Truth About AI in Hollywood By Katie Drummond The Big Story How Data Centers Broke American Politics By Molly Taft Business Mistral Is in the Right Place at the Right Time By Joel Khalili Culture Did an AI Music App Just Snitch on the Song of the Summer? By Dexter Thomas Business AI Conquered Coding. Fast Food Is Next By Kate Taylor Business Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives By Isabella Ward Security 7 States’ Water Systems Hit by Cyberattacks Likely T",
+        "image": "https://media.wired.com/photos/6a711fb5a0e49dc311c087a0/191:100/w_1280,c_limit/Gear_Is-This-Poker-Player-Bluffing-.jpg",
+        "source": "Wired",
+        "url": "https://www.wired.com/tag/artificial-intelligence/",
+        "date": "04 August 2026"
+      },
+      {
         "title": "Dreamina Launches Seedance 2.5 AI Video Model",
         "title_en": "Dreamina Launches Seedance 2.5 AI Video Model",
         "summary": "August 4, 2026 ByteDance Launches Dreamina Seedance 2.5 for Longer, More Consistent AI Video Creation by PR Newswire PRE Security Unveils Predictive SecOps Platform 3.8 with Agentic AI for Autonomous ",
@@ -520,30 +544,6 @@
         "image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/product-og.png",
         "source": "Runway",
         "url": "https://runway.com/product",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "AI Video Generator | Runway",
-        "title_en": "AI Video Generator | Runway",
-        "summary": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video",
-        "summary_en": "An AI video generator <strong>creates video from a text prompt, an image or an existing clip</strong>. Most models can work with multiple input sources to generate an AI video output.",
-        "long_summary": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video prompting guide",
-        "long_summary_en": "With text to video AI generation, your description is the only input you need. Write out the scene — the action, the setting, the mood — and Runway turns it into a clip from scratch. Read the AI video prompting guide",
-        "image": "https://www.easemate.ai/_image/home/features/2x/imageLand/ai_video-2x.webp",
-        "source": "Runway",
-        "url": "https://runway.com/product/ai-video-generator",
-        "date": "01 August 2026"
-      },
-      {
-        "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
-        "title_en": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
-        "summary": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model ",
-        "summary_en": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model ",
-        "long_summary": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model that reads text, images, video, and audio as one unified context and returns video with native stereo sound. The mains specs include: 2K output, 4–15 seconds, integer durations […]\nThe post MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio appeared first on MarkTechPost.",
-        "long_summary_en": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it as a general-purpose multimodal generation model that reads text, images, video, and audio as one unified context and returns video with native stereo sound. The mains specs include: 2K output, 4–15 seconds, integer durations […]\nThe post MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio appeared first on MarkTechPost.",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/08/blog6171-218x150.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
         "date": "01 August 2026"
       }
     ],
@@ -731,6 +731,18 @@
     ],
     "audio": [
       {
+        "title": "AI (artificial intelligence) | The Guardian",
+        "title_en": "AI (artificial intelligence) | The Guardian",
+        "summary": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 4 August 2026 US stock market hits record highs as AI profits pile and oil prices ease ",
+        "summary_en": "Latest <strong>news</strong>, sport, business, comment, analysis and reviews from the Guardian, the world&#x27;s leading liberal voice",
+        "long_summary": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 4 August 2026 US stock market hits record highs as AI profits pile and oil prices ease S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago Trump administration reportedly drafting ban on Chinese datacenter components Trump’s FCC is developing a measure to bar US imports of new models of Chinese datacenter devices, sources say TechScape newsletter Google Earth’s potential disinformation nightmare Metro Bank customer fights for £14,000 refund after AI-linked fraud ‘This quarter was otherworldly’: Palantir earnings surge past expectations 3 August 2026 Ring Cycle review – AI staging dispenses with drama to create banal bric-a-brac For the festival’s 150th anniversary, the creative team have turned to AI to generate visuals reflecting Wagner’s tetralogy’s past, present – and future. The hyperactive result is a dismal, mindless mess Australia news live Greens senator brands Pauline Hanson a ‘political coward’ over press conference bans – as it happened This blog is now closed Disruption review – anti-AI thriller boasts knockout cast but tech commentary needs an update John David Washington leads an exceptionally talented cast in a sleek off-Broadway thriller that feels a little dated 2 August 2026 Stock market turmoil sheds stark light on the opaque AI economy Investors scramble to make sense of a shock C",
+        "long_summary_en": "AI (artificial intelligence) | The Guardian Skip to main content Skip to navigation AI (artificial intelligence) 4 August 2026 US stock market hits record highs as AI profits pile and oil prices ease S&P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago Trump administration reportedly drafting ban on Chinese datacenter components Trump’s FCC is developing a measure to bar US imports of new models of Chinese datacenter devices, sources say TechScape newsletter Google Earth’s potential disinformation nightmare Metro Bank customer fi",
+        "image": "https://i.guim.co.uk/img/media/b3962d03da5e05ce790c02cf6de8f24dc3b59578/599_0_2835_2268/master/2835.jpg?width=465&dpr=1&s=none&crop=5:4",
+        "source": "Theguardian",
+        "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+        "date": "04 August 2026"
+      },
+      {
         "title": "Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you",
         "title_en": "Meet Wrinkles, an AI app that uncovers the hidden stories of the places around you",
         "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
@@ -896,18 +908,6 @@
         "image": "https://media.thenextweb.com/2026/06/uk-elevenlabs-mou-voice-ai-public-services.avif",
         "source": "thenextweb_ai",
         "url": "https://thenextweb.com/news/uk-elevenlabs-mou-voice-ai-public-services",
-        "date": "08 June 2026"
-      },
-      {
-        "title": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
-        "title_en": "Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription",
-        "summary": "Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts ",
-        "summary_en": "Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts ",
-        "long_summary": "Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts a 2.4% Word-Error-Rate on the Artificial Analysis leaderboard, and transcribes an hour of audio in under 15 seconds. It is generally available in Azure AI Foundry.\nThe post Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription appeared first on MarkTechPost.",
-        "long_summary_en": "Microsoft AI has released MAI-Transcribe-1.5, the second iteration of its in-house speech-to-text family. The model covers 43 languages, adds keyword (entity) biasing for domain-specific terms, posts a 2.4% Word-Error-Rate on the Artificial Analysis leaderboard, and transcribes an hour of audio in under 15 seconds. It is generally available in Azure AI Foundry.\nThe post Microsoft AI Introduces MAI-Transcribe-1.5: 2.4% WER on Artificial Analysis, Best-in-Class FLEURS Accuracy, and Up to 5x Faster Long-Audio Transcription appeared first on MarkTechPost.",
-        "image": "https://microsoft.ai/wp-content/uploads/2026/05/Frame-2147265488-2.png",
-        "source": "marktechpost",
-        "url": "https://www.marktechpost.com/2026/06/08/microsoft-ai-introduces-mai-transcribe-1-5-2-4-wer-on-artificial-analysis-best-in-class-fleurs-accuracy-and-up-to-5x-faster-long-audio-transcription/",
         "date": "08 June 2026"
       }
     ]
