@@ -1,7 +1,19 @@
 {
-  "lastUpdate": "05 August 2026 - 00:11",
+  "lastUpdate": "05 August 2026 - 00:12",
   "categories": {
     "general": [
+      {
+        "title": "AI News, Updates, Products and Reviews | Yahoo Tech",
+        "title_en": "AI News, Updates, Products and Reviews | Yahoo Tech",
+        "summary": "Alphabet's Google Pauses New Earth AI Image Generator One Day After Launch as Fake Images Raise Misinformation Fears On Friday, Alphabet Inc.’s Google said that it was temporarily disabling its AI ima",
+        "summary_en": "Satya Nadella confirmed <strong>Microsoft is merging Copilot chat, Cowork, Autopilots, and coding tools into one AI super app for consumers and businesses</strong>, launching later this year.",
+        "long_summary": "Alphabet's Google Pauses New Earth AI Image Generator One Day After Launch as Fake Images Raise Misinformation Fears On Friday, Alphabet Inc.’s Google said that it was temporarily disabling its AI image generator after users shared AI-generated images that appeared to violate the company’s policies. Google Earth AI Feature Put on Hold The tool, powered by Google’s Nano... Benzinga",
+        "long_summary_en": "Alphabet's Google Pauses New Earth AI Image Generator One Day After Launch as Fake Images Raise Misinformation Fears On Friday, Alphabet Inc.’s Google said that it was temporarily disabling its AI image generator after users shared AI-generated images that appeared to violate the company’s policies. Google Earth AI Feature Put on Hold The tool, powered by Google’s Nano... Benzinga",
+        "image": "https://s.yimg.com/en/images/1574a80b96a9fe539115c8759e59eafd4644512c68fea51a79a75f650ad62509.png",
+        "source": "Tech",
+        "url": "https://tech.yahoo.com/ai/",
+        "date": "05 August 2026"
+      },
       {
         "title": "Artificial Intelligence News -- ScienceDaily",
         "title_en": "Artificial Intelligence News -- ScienceDaily",
@@ -168,18 +180,6 @@
         "image": "https://ca-times.brightspotcdn.com/dims4/default/27f12cb/2147483647/strip/true/crop/734x489+316+0/resize/840x560!/quality/75/?url=https://california-times-brightspot.s3.amazonaws.com/56/bf/b3a7ef91447a8b77726926746be3/banking-technology.jpg",
         "source": "Artificialintelligence-News",
         "url": "https://www.artificialintelligence-news.com/",
-        "date": "24 July 2026"
-      },
-      {
-        "title": "Artificial intelligence - BBC News",
-        "title_en": "Artificial intelligence - BBC News",
-        "summary": "Artificial intelligence 7 hrs ago Man sues ChatGPT for near-fatal medical advice A man who claims medical advice from ChatGPT \"brought him to the brink of death\" has sued OpenAI, the company behind th",
-        "summary_en": "<strong>A new bill would let the US government order the shutdown of AI models that pose a public threat</strong>.",
-        "long_summary": "Artificial intelligence 7 hrs ago Man sues ChatGPT for near-fatal medical advice A man who claims medical advice from ChatGPT \"brought him to the brink of death\" has sued OpenAI, the company behind the popular chatbot, 7 hrs ago 8 hrs ago Gallery defends decision to use AI images in exhibition Local artists have been critical about the inclusion of the AI artwork at the exhibit. 8 hrs ago 19 hrs ago China's Moonshot AI stole from Anthropic, Trump tech adviser says The allegations come as Chinese AI companies are facing increased US government scrutiny. 19 hrs ago 22 hrs ago Lawmakers push for AI 'kill switch' after OpenAI models go rogue A new bill would let the US government order the shutdown of AI models that pose a public threat. 22 hrs ago 22 hrs ago Google and Tesla shares plunge as AI spending rattles markets As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear. 22 hrs ago 1 day ago ChatGPT medical advice brought man 'to brink of death', lawsuit alleges An American man sues OpenAI and its founder Sam Altman, claiming the popular chatbot \"repeatedly misdiagnosed\" him. 1 day ago 1 day ago 'Let's enjoy the ride' says Elon Musk, as AI fears mount Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist. 1 day ago 1 day ago AI has ruined cute animal videos AI-generated animal videos are sweet, until you realise the joy, like the animal, was never really ther",
-        "long_summary_en": "Artificial intelligence 7 hrs ago Man sues ChatGPT for near-fatal medical advice A man who claims medical advice from ChatGPT \"brought him to the brink of death\" has sued OpenAI, the company behind the popular chatbot, 7 hrs ago 8 hrs ago Gallery defends decision to use AI images in exhibition Local artists have been critical about the inclusion of the AI artwork at the exhibit. 8 hrs ago 19 hrs ago China's Moonshot AI stole from Anthropic, Trump tech adviser says The allegations come as Chinese AI companies are facing increased US government scrutiny. 19 hrs ago 22 hrs ago Lawmakers push for ",
-        "image": "https://external-preview.redd.it/bbc-study-finds-ai-chatbots-still-get-news-wrong-45-of-the-v0-NPLe2VO4wgJI2PqGDzJk-XbA4HyFhw20Vr2mGnE_WxA.jpeg?width=640&crop=smart&auto=webp&s=f8b63ced26181b755037c46aa6716a9f823d685e",
-        "source": "Bbc",
-        "url": "https://www.bbc.com/news/topics/ce1qrvleleqt",
         "date": "24 July 2026"
       }
     ],
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "Reuters AI News | Latest Headlines and Developments | Reuters",
+        "title_en": "Reuters AI News | Latest Headlines and Developments | Reuters",
+        "summary": "reuters.com Please enable JS and disable any ad blocker",
+        "summary_en": "ANALYSISA new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf",
+        "long_summary": "reuters.com Please enable JS and disable any ad blocker",
+        "long_summary_en": "reuters.com Please enable JS and disable any ad blocker",
+        "image": "",
+        "source": "Reuters",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/",
+        "date": "05 August 2026"
+      },
+      {
         "title": "Anthropic signs $10 billion deal with AI cloud startup Volta",
         "title_en": "Anthropic signs $10 billion deal with AI cloud startup Volta",
         "summary": "Anthropic has been on a cloud partnership spree in recent months and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
@@ -714,18 +726,6 @@
         "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
         "source": "TechCrunch",
         "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-        "date": "03 August 2026"
-      },
-      {
-        "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-        "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-        "summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 71 AI Weekly issues and 76 live stories from the last 30 days menti",
-        "summary_en": "OpenAI Adds Nubank CEO David Vélez and BNY CEO Robin Vince to Its Foundation and PBC Boards Ahead of IPO ... Anthropic Spent $1.97M on Q2 2026 US Lobbying, Up 26% QoQ, Outspending Nvidia and Nearly Ma",
-        "long_summary": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 71 AI Weekly issues and 76 live stories from the last 30 days mention OpenAI. 407 total mentions 13/20 recent issues -49% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake. The harder coverage in April: Florida's AG opened a criminal investigation over ChatGPT's role in the FSU shooting; the Musk fraud trial heads to a $150B reckoning; and Sam Altman publicly apologized after the Tumbler Ridge tragedy. AI Weekly tracks every release, lawsuit, and pricing change. Mention Trend — Last 20 Issues Live Stories (76) White House Says It Finalized Voluntary Frontier AI Framework Behind Closed Doors axios.com · 2026-08-03 · Score: 18 Axios: Dario Amodei Warns Anthropic Staff Increasingly Chasing Money Over Mission Amid Meta Poaching War axios.com · 2026-08-03 · Score: 21 Trump White House Convenes OpenAI, Google and Anthropic Staff Tuesday to Review AI Oversight Framework theinformation.com · 2026-08-03 · Score: 22 Wired: US Law Unprepared for Rogue AI Agents After OpenAI and Anthropic Breach Disclosures wired.com · 2026-08-02 · Score: 19 YouTuber Hank Green Pauses ",
-        "long_summary_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly OpenAI Company Tracked keywords: openai, chatgpt, gpt-4, gpt-5, sora 71 AI Weekly issues and 76 live stories from the last 30 days mention OpenAI. 407 total mentions 13/20 recent issues -49% vs. baseline peak 15 /issue tracked since 2026-03-11 OpenAI shipped GPT-5.5 'Spud' on April 23 with new agentic capabilities and 2× per-token pricing — the first frontier launch in two years to raise price-per-token rather than cut it. The capex story flipped at the same time: a $20B+ chip purchase from Cerebras with an attached equity stake. ",
-        "image": "https://dxj7eshgz03ln.cloudfront.net/production/publication/logo/1475/8f402391-cd29-43a4-9695-35d930a59660.png",
-        "source": "Aiweekly",
-        "url": "https://aiweekly.co/ai-news-today/openai-news",
         "date": "03 August 2026"
       }
     ],
@@ -928,11 +928,11 @@
       "date": "03 August 2026"
     },
     {
-      "title": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-      "title_en": "OpenAI AI News — Latest Updates, Tracker & Coverage | AI Weekly",
-      "source": "Aiweekly",
-      "url": "https://aiweekly.co/ai-news-today/openai-news",
-      "date": "03 August 2026"
+      "title": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "title_en": "New Models Today — AI & LLM Releases Last 24 Hours | Price Per Token",
+      "source": "Pricepertoken",
+      "url": "https://pricepertoken.com/news/model-releases",
+      "date": "23 July 2026"
     }
   ]
 }
