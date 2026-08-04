@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04 August 2026 - 18:33",
+  "lastUpdate": "04 August 2026 - 19:04",
   "categories": {
     "general": [
       {
@@ -549,6 +549,18 @@
     ],
     "llm": [
       {
+        "title": "OpenAI News | OpenAI",
+        "title_en": "OpenAI News | OpenAI",
+        "summary": "Enable JavaScript and cookies to continue",
+        "summary_en": "Stay up to speed on the rapid advancement of AI technology and the benefits it offers to humanity.",
+        "long_summary": "Enable JavaScript and cookies to continue",
+        "long_summary_en": "Enable JavaScript and cookies to continue",
+        "image": "",
+        "source": "Openai",
+        "url": "https://openai.com/news/",
+        "date": "04 August 2026"
+      },
+      {
         "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
         "title_en": "Apple says more ex-employees may have taken confidential data to OpenAI",
         "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
@@ -714,18 +726,6 @@
         "image": "https://llm-stats.com/og/main.png",
         "source": "Llm-Stats",
         "url": "https://llm-stats.com/llm-updates",
-        "date": "03 August 2026"
-      },
-      {
-        "title": "AI Subscription Pricing Compared | AI Pricing Guru",
-        "title_en": "AI Subscription Pricing Compared | AI Pricing Guru",
-        "summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advance",
-        "summary_en": "Use the token pricing table when you are building with OpenAI, Claude, Gemini, Groq, or other model APIs. ... Estimate the break-even point between a monthly plan and pay-as-you-go token usage. ChatGP",
-        "long_summary": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-03 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Team per seat ChatGPT Free ChatGPT Free ChatGPT Free Models: gpt-5.6-terra GPT-5.6 Terra is available to Free users; subscription prices and quota budgets were unchanged by the July 30 price cut. $8 /mo ChatGPT Go ChatGPT Go Models: gpt-5.6-terra Official ChatGPT pricing still lists Go as an individual plan; price is retained from the prior verified source when the raw page omits the amount. $20 /mo ChatGPT Plus ChatGPT Plus Models: gpt-5.6-terra, gpt-5.6-luna Plus users can choose GPT-5.6 Terra and Luna; subscription prices and quota budgets were unchanged by the July 30 price cut. $100 /mo ChatGPT Pro ($100) ChatGPT Pro ($100) Models: gpt-5.6, gpt-5.6-sol, gpt-5.4, o3-pro, codex 5x higher limits than Plus; launch promo gives 10x Codex usage versus Plus through May 31, 2026. $200 /mo ChatGPT Pro ($200) ChatGPT Pro ($200) Models: gpt-5.6, gpt-5.6-sol, gpt-5.4, o3-pro, o4-mini, codex 20x hi",
-        "long_summary_en": "AI Subscription Pricing Compared | AI Pricing Guru AI Subscription Pricing — Compared Every consumer and developer AI subscription in one place: ChatGPT Go , ChatGPT Plus , Claude Pro , Gemini Advanced , SuperGrok , Z.ai GLM Coding , Perplexity Pro , Microsoft 365 Premium , and every higher-tier plan they offer. Prices, included models, usage limits, and features — monitored daily. 31 plans across 7 providers · Last updated 2026-08-03 Plans compared by price tier Billing view Annual prices show the effective monthly cost. Monthly Annual (per month) Provider Free Entry $5–18 ~$20 ~$100 $150+ Te",
-        "image": "https://www.aipricing.guru/og/subscriptions.png",
-        "source": "Aipricing",
-        "url": "https://www.aipricing.guru/subscriptions/",
         "date": "03 August 2026"
       }
     ],
